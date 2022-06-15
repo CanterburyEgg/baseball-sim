@@ -1,25 +1,3 @@
-GameGenerator.java
-Who has access
-Not shared
-System properties
-Type
-Java
-Size
-72 KB
-Storage used
-143 KB
-Location
-Baseball League '20
-Owner
-me
-Modified
-Sep 13, 2020 by me
-Opened
-10:17 AM by me
-Created
-Sep 2, 2020 with Google Drive Web (Unverified)
-Add a description
-Viewers can download
 import java.io.*;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;

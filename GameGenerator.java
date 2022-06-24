@@ -2,6 +2,7 @@ import java.io.*;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.*;
+import java.time.LocalDate;
 
 public class GameGenerator 
 {
@@ -2965,23 +2966,9 @@ public class GameGenerator
 					extras = true;
 				}
 				
-				/* deprecated with pitcher change moved to bottom of code block
-				for (int i = 0; i < pitchers1.length; i++)
-				{
-					if (pitchers1[i][12] == 0)
-						pitchers1[i][2] = 0;
-				}
-				
-				for (int i = 0; i < pitchers2.length; i++)
-				{
-					if (pitchers2[i][12] == 0)
-						pitchers2[i][2] = 0;
-				}
-				*/
-				
 				if (!game)
 				{
-					FullPrintLine("Player\tAB\tR\tH\t2B\t3B\tHR\tRBI\tBB\tSO");
+					FullPrintLine("Player\tAB\tR\tH\t2B\t3B\tHR\tRBI\tBB\tSO\t\t\t\t\t" + LocalDate.now());
 					
 					for (int i = 0; i < team1.length; i++)
 					{
@@ -2990,6 +2977,8 @@ public class GameGenerator
 						{
 							FullPrint(team1[i][j] + "\t");
 						}
+						if (i == 0)
+							FullPrint("\t\t\t\t" + n1);
 						FullPrintLine("");
 					}
 					
@@ -3007,7 +2996,7 @@ public class GameGenerator
 					}
 					
 					FullPrintLine("");
-					FullPrintLine("Player\tAB\tR\tH\t2B\t3B\tHR\tRBI\tBB\tSO");
+					FullPrintLine("Player\tAB\tR\tH\t2B\t3B\tHR\tRBI\tBB\tSO\t\t\t\t\t" + LocalDate.now());
 					
 					for (int i = 0; i < team2.length; i++)
 					{
@@ -3016,6 +3005,8 @@ public class GameGenerator
 						{
 							FullPrint(team2[i][j] + "\t");
 						}
+						if (i == 0)
+							FullPrint("\t\t\t\t" + n2);
 						FullPrintLine("");
 					}
 					

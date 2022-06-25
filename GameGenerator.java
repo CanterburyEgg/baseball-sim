@@ -44,20 +44,31 @@ public class GameGenerator
 		int tempA = 0, tempB = 0, tempC = 0, tempD = 0;
 		boolean pitchswapA = false, pitchswapB = false, pitchswapC = false, pitchswapD = false;
 		
-		Scanner input = new Scanner(System.in);
-		System.out.print("Away team: ");
-		String n1 = input.nextLine();
-		String t1 = "Teams/" + n1 + ".txt";
-		System.out.print("Home team: ");
-		String n2 = input.nextLine();
-		String t2 = "Teams/" + n2 + ".txt";
-		System.out.println();
+		String n1 = "", t1 = "", n2 = "", t2 = "";
+		if (args.length == 0)
+		{
+			Scanner input = new Scanner(System.in);
+			System.out.print("Away team: ");
+			n1 = input.nextLine();
+			System.out.print("Home team: ");
+			n2 = input.nextLine();
+			System.out.println();
+			input.close();
+		}
+		else
+		{
+			n1 = args[0];
+			n2 = args[1];
+		}
+
+		t1 = "Teams/" + n1 + ".txt";
+		t2 = "Teams/" + n2 + ".txt";
 		
 		try {
 			DateFormat df = new SimpleDateFormat("MM-dd-yyyy");
 			Date date = new Date();
 			gameOutput = new PrintWriter("Games/" + n1 + "_at_" + n2 + " " + df.format(date) + ".txt");
-			gameDebug = new PrintWriter("Games/Debug Files/" + n1 + "_at_" + n2+ " " + df.format(date) + "_DEBUG.txt");
+			gameDebug = new PrintWriter("Games/Debug Files/" + n1 + "_at_" + n2 + " " + df.format(date) + "_DEBUG.txt");
 		} catch (IOException e)
 		{
 			System.out.println("Couldn't create game file.");
@@ -3144,7 +3155,6 @@ public class GameGenerator
 		
 		gameOutput.close();
 		gameDebug.close();
-		input.close();
 		file1.close();
 		file2.close();
 		reader1.close();

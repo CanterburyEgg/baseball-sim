@@ -1,0 +1,729 @@
+TOP INNING 1
+
+Dylan Marsh: rng1 = 17 + 15 - 9 - 1 = 22
+Strikeout
+Team 2 pitcher (Brady Burnette): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Frankie Bell: rng1 = 4 + 11 - 9 - 1 = 5
+Strikeout
+Team 2 pitcher (Brady Burnette): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Rodolfo Mullen: rng1 = 22 + 12 - 9 - 1 = 24
+Strikeout
+Team 2 pitcher (Brady Burnette): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Finnegan Maxwell: rng1 = 82 + 15 - 10 + 1 = 88
+Walk
+Team 1 pitcher (Maverick McKay): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Angel Gutiérrez: rng1 = 28 + 15 - 10 + 1 = 34
+rng2 = 60 + 11 - 8 + 1 = 64
+Flyout
+Team 1 pitcher (Maverick McKay): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Nick Hamburger: rng1 = 18 + 11 - 10 + 1 = 20
+Strikeout
+Team 1 pitcher (Maverick McKay): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Ameer Jacobson: rng1 = 83 + 1 - 10 + 1 = 75
+rng2 = 84 + 11 - 8 + 1 = 88
+Double
+Team 1 pitcher (Maverick McKay): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: true, base3: true
+Score: 0-0
+
+Jerome Goodwin: rng1 = 42 + 11 - 10 + 1 = 44
+rng2 = 26 + 9 - 8 + 1 = 28
+Groundout
+Team 1 pitcher (Maverick McKay): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Rubén Indiano: rng1 = 13 + 12 - 9 - 1 = 15
+rng2 = 46 + 10 - 7 - 1 = 48
+Lineout
+Team 2 pitcher (Brady Burnette): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Marcelo Francis: rng1 = 77 + 13 - 9 - 1 = 80
+rng2 = 6 + 7 - 7 - 1 = 5
+Single
+Team 2 pitcher (Brady Burnette): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Leon Watts: rng1 = 35 + 12 - 9 - 1 = 37
+rng2 = 48 + 5 - 7 - 1 = 45
+Groundout
+Team 2 pitcher (Brady Burnette): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Enrique Holmes: rng1 = 99 + 7 - 9 - 1 = 96
+rng2 = 9 + 9 - 7 - 1 = 10
+Single
+Team 2 pitcher (Brady Burnette): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Braylon Summers: rng1 = 11 + 7 - 9 - 1 = 8
+Strikeout
+Team 2 pitcher (Brady Burnette): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Emiliano Costa: rng1 = 68 + 10 - 10 + 1 = 69
+Walk
+Team 1 pitcher (Maverick McKay): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Casey Myers-Morgan: rng1 = 21 + 8 - 10 + 1 = 20
+Strikeout
+Team 1 pitcher (Maverick McKay): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Bailey Myers-Morgan: rng1 = 75 + 5 - 10 + 1 = 71
+Walk
+Team 1 pitcher (Maverick McKay): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Francisco Illescas: rng1 = 58 + 7 - 10 + 1 = 56
+rng2 = 58 + 6 - 8 + 1 = 57
+Lineout
+Team 1 pitcher (Maverick McKay): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Finnegan Maxwell: rng1 = 82 + 15 - 10 + 1 = 88
+Walk
+Team 1 pitcher (Maverick McKay): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: true, base2: true, base3: true
+Score: 1-0
+
+Angel Gutiérrez: rng1 = 48 + 15 - 10 + 1 = 54
+rng2 = 82 + 11 - 8 + 1 = 86
+Flyout
+Team 1 pitcher (Maverick McKay): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 3
+
+Leo Hawkins: rng1 = 42 + 7 - 9 - 1 = 39
+rng2 = 99 + 6 - 7 - 1 = 97
+Flyout
+Team 2 pitcher (Brady Burnette): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Dylan Marsh: rng1 = 78 + 15 - 9 - 1 = 83
+rng2 = 64 + 15 - 7 - 1 = 71
+Double
+Team 2 pitcher (Brady Burnette): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Frankie Bell: rng1 = 88 + 11 - 9 - 1 = 89
+Walk
+Team 2 pitcher (Brady Burnette): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Rodolfo Mullen: rng1 = 88 + 12 - 9 - 1 = 90
+Walk
+Team 2 pitcher (Brady Burnette): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: true, base2: true, base3: true
+Score: 1-0
+
+Rubén Indiano: rng1 = 24 + 12 - 9 - 1 = 26
+Strikeout
+Team 2 pitcher (Brady Burnette): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 2
+
+base1: true, base2: true, base3: true
+Score: 1-0
+
+Marcelo Francis: rng1 = 75 + 13 - 9 - 1 = 78
+rng2 = 37 + 7 - 7 - 1 = 36
+Single
+Team 2 pitcher (Brady Burnette): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 2
+
+base1: true, base2: true, base3: false
+Score: 3-0
+
+Leon Watts: rng1 = 40 + 12 - 9 - 1 = 42
+rng2 = 23 + 5 - 7 - 1 = 20
+Groundout
+Team 2 pitcher (Brady Burnette): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Nick Hamburger: rng1 = 80 + 11 - 10 + 1 = 82
+rng2 = 21 + 12 - 8 + 1 = 26
+Single
+Team 1 pitcher (Maverick McKay): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Ameer Jacobson: rng1 = 60 + 1 - 10 + 1 = 52
+rng2 = 75 + 11 - 8 + 1 = 79
+Flyout
+Team 1 pitcher (Maverick McKay): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Jerome Goodwin: rng1 = 70 + 11 - 10 + 1 = 72
+rng2 = 84 + 9 - 8 + 1 = 86
+Double
+Team 1 pitcher (Maverick McKay): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 1
+
+base1: false, base2: true, base3: false
+Score: 3-1
+
+Emiliano Costa: rng1 = 76 + 10 - 10 + 1 = 77
+rng2 = 85 + 7 - 8 + 1 = 85
+Home run
+Team 1 pitcher (Maverick McKay): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Casey Myers-Morgan: rng1 = 98 + 8 - 10 + 1 = 97
+rng2 = 81 + 6 - 8 + 1 = 80
+Home run
+Team 1 pitcher (Maverick McKay): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Bailey Myers-Morgan: rng1 = 20 + 5 - 10 + 1 = 16
+Strikeout
+Team 1 pitcher (Maverick McKay): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Francisco Illescas: rng1 = 21 + 7 - 10 + 1 = 19
+Strikeout
+Team 1 pitcher (Maverick McKay): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+TOP INNING 4
+
+Enrique Holmes: rng1 = 40 + 7 - 9 - 1 = 37
+rng2 = 40 + 9 - 7 - 1 = 41
+Groundout
+Team 2 pitcher (Brady Burnette): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Braylon Summers: rng1 = 69 + 7 - 9 - 1 = 66
+rng2 = 97 + 7 - 7 - 1 = 96
+Flyout
+Team 2 pitcher (Brady Burnette): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Leo Hawkins: rng1 = 7 + 7 - 9 - 1 = 4
+Strikeout
+Team 2 pitcher (Brady Burnette): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+BOTTOM INNING 4
+
+Finnegan Maxwell: rng1 = 96 + 15 - 10 + 1 = 102
+rng2 = 24 + 14 - 8 + 1 = 31
+Single
+Team 1 pitcher (Maverick McKay): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 3-4
+
+Angel Gutiérrez: rng1 = 95 + 15 - 10 + 1 = 101
+rng2 = 68 + 11 - 8 + 1 = 72
+Double
+Team 1 pitcher (Maverick McKay): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 0
+
+base1: false, base2: true, base3: true
+Score: 3-4
+
+Nick Hamburger: rng1 = 26 + 11 - 10 + 1 = 28
+rng2 = 90 + 12 - 8 + 1 = 95
+Flyout
+Team 1 pitcher (Maverick McKay): 21 batters faced, 5 runs allowed = 21 + 12.5 = 33.5, outs: 1
+
+base1: false, base2: false, base3: true
+Score: 3-5
+
+Ameer Jacobson: rng1 = 68 + 1 - 10 + 1 = 60
+rng2 = 55 + 11 - 8 + 1 = 59
+Flyout
+Team 1 pitcher (Maverick McKay): 22 batters faced, 6 runs allowed = 22 + 15.0 = 37.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 3-6
+
+Team 1 pitcher change to Cullen McClain
+
+Jerome Goodwin: rng1 = 15 + 11 - 10 + 1 = 17
+Strikeout
+Team 1 pitcher (Cullen McClain): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-6
+
+-----------------------
+
+TOP INNING 5
+
+Dylan Marsh: rng1 = 54 + 15 - 9 - 1 = 59
+rng2 = 98 + 15 - 7 - 1 = 105
+Flyout
+Team 2 pitcher (Brady Burnette): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 3-6
+
+Frankie Bell: rng1 = 21 + 11 - 9 - 1 = 22
+Strikeout
+Team 2 pitcher (Brady Burnette): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 3-6
+
+Rodolfo Mullen: rng1 = 88 + 12 - 9 - 1 = 90
+Walk
+Team 2 pitcher (Brady Burnette): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 3-6
+
+Rubén Indiano: rng1 = 17 + 12 - 9 - 1 = 19
+Strikeout
+Team 2 pitcher (Brady Burnette): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-6
+
+-----------------------
+
+BOTTOM INNING 5
+
+Emiliano Costa: rng1 = 17 + 10 - 10 + 1 = 18
+Strikeout
+Team 1 pitcher (Cullen McClain): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 3-6
+
+Casey Myers-Morgan: rng1 = 99 + 8 - 10 + 1 = 98
+rng2 = 68 + 6 - 6 + 1 = 69
+Double
+Team 1 pitcher (Cullen McClain): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: true, base3: false
+Score: 3-6
+
+Bailey Myers-Morgan: rng1 = 82 + 5 - 10 + 1 = 78
+rng2 = 28 + 9 - 6 + 1 = 32
+Single
+Team 1 pitcher (Cullen McClain): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 3-7
+
+Francisco Illescas: rng1 = 65 + 7 - 10 + 1 = 63
+rng2 = 69 + 6 - 6 + 1 = 70
+Flyout
+Team 1 pitcher (Cullen McClain): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 3-7
+
+Finnegan Maxwell: rng1 = 66 + 15 - 10 + 1 = 72
+rng2 = 89 + 14 - 6 + 1 = 98
+Home run
+Team 1 pitcher (Cullen McClain): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 3-9
+
+Angel Gutiérrez: rng1 = 54 + 15 - 10 + 1 = 60
+rng2 = 70 + 11 - 6 + 1 = 76
+Flyout
+Team 1 pitcher (Cullen McClain): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-9
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Ezequiel Santangelo
+
+Marcelo Francis: rng1 = 100 + 13 - 7 - 1 = 105
+rng2 = 56 + 7 - 7 - 1 = 55
+Single
+Team 2 pitcher (Ezequiel Santangelo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 3-9
+
+Leon Watts: rng1 = 34 + 12 - 7 - 1 = 38
+rng2 = 87 + 5 - 7 - 1 = 84
+Flyout
+Team 2 pitcher (Ezequiel Santangelo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 3-9
+
+Enrique Holmes: rng1 = 59 + 7 - 7 - 1 = 58
+rng2 = 3 + 9 - 7 - 1 = 4
+Groundout
+Team 2 pitcher (Ezequiel Santangelo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-9
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Lucas Gardner
+
+Nick Hamburger: rng1 = 42 + 11 - 9 + 1 = 45
+rng2 = 63 + 12 - 6 + 1 = 70
+Flyout
+Team 1 pitcher (Lucas Gardner): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 3-9
+
+Ameer Jacobson: rng1 = 3 + 1 - 9 + 1 = -4
+Strikeout
+Team 1 pitcher (Lucas Gardner): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 3-9
+
+Jerome Goodwin: rng1 = 42 + 11 - 9 + 1 = 45
+rng2 = 54 + 9 - 6 + 1 = 58
+Lineout
+Team 1 pitcher (Lucas Gardner): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-9
+
+-----------------------
+
+TOP INNING 7
+
+Braylon Summers: rng1 = 33 + 7 - 7 - 1 = 32
+rng2 = 67 + 7 - 7 - 1 = 66
+Flyout
+Team 2 pitcher (Ezequiel Santangelo): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 3-9
+
+Leo Hawkins: rng1 = 93 + 7 - 7 - 1 = 92
+rng2 = 5 + 6 - 7 - 1 = 3
+Single
+Team 2 pitcher (Ezequiel Santangelo): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 3-9
+
+Dylan Marsh: rng1 = 37 + 15 - 7 - 1 = 44
+rng2 = 96 + 15 - 7 - 1 = 103
+Flyout
+Team 2 pitcher (Ezequiel Santangelo): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 3-9
+
+Frankie Bell: rng1 = 45 + 11 - 7 - 1 = 48
+rng2 = 84 + 12 - 7 - 1 = 88
+Flyout
+Team 2 pitcher (Ezequiel Santangelo): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-9
+
+-----------------------
+
+BOTTOM INNING 7
+
+Emiliano Costa: rng1 = 34 + 10 - 9 + 1 = 36
+rng2 = 42 + 7 - 6 + 1 = 44
+Groundout
+Team 1 pitcher (Lucas Gardner): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 3-9
+
+Casey Myers-Morgan: rng1 = 88 + 8 - 9 + 1 = 88
+Walk
+Team 1 pitcher (Lucas Gardner): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 3-9
+
+Bailey Myers-Morgan: rng1 = 45 + 5 - 9 + 1 = 42
+rng2 = 63 + 9 - 6 + 1 = 67
+Flyout
+Team 1 pitcher (Lucas Gardner): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 3-9
+
+Francisco Illescas: rng1 = 73 + 7 - 9 + 1 = 72
+rng2 = 33 + 6 - 6 + 1 = 34
+Single
+Team 1 pitcher (Lucas Gardner): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: true, base2: false, base3: true
+Score: 3-9
+
+Finnegan Maxwell: rng1 = 62 + 15 - 9 + 1 = 69
+Walk
+Team 1 pitcher (Lucas Gardner): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: true, base2: true, base3: true
+Score: 3-9
+
+Angel Gutiérrez: rng1 = 23 + 15 - 9 + 1 = 30
+rng2 = 76 + 11 - 6 + 1 = 82
+Flyout
+Team 1 pitcher (Lucas Gardner): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-9
+
+-----------------------
+
+TOP INNING 8
+
+Rodolfo Mullen: rng1 = 16 + 12 - 7 - 1 = 20
+Strikeout
+Team 2 pitcher (Ezequiel Santangelo): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 3-9
+
+Rubén Indiano: rng1 = 35 + 12 - 7 - 1 = 39
+rng2 = 73 + 10 - 7 - 1 = 75
+Flyout
+Team 2 pitcher (Ezequiel Santangelo): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 3-9
+
+Marcelo Francis: rng1 = 90 + 13 - 7 - 1 = 95
+rng2 = 19 + 7 - 7 - 1 = 18
+Single
+Team 2 pitcher (Ezequiel Santangelo): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 3-9
+
+Leon Watts: rng1 = 2 + 12 - 7 - 1 = 6
+Strikeout
+Team 2 pitcher (Ezequiel Santangelo): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-9
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Sakai Tsuneo
+
+Nick Hamburger: rng1 = 13 + 11 - 11 + 1 = 14
+rng2 = 36 + 12 - 14 + 1 = 35
+Groundout
+Team 1 pitcher (Sakai Tsuneo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 3-9
+
+Ameer Jacobson: rng1 = 62 + 1 - 11 + 1 = 53
+rng2 = 31 + 11 - 14 + 1 = 29
+Groundout
+Team 1 pitcher (Sakai Tsuneo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 3-9
+
+Jerome Goodwin: rng1 = 84 + 11 - 11 + 1 = 85
+rng2 = 48 + 9 - 14 + 1 = 44
+Single
+Team 1 pitcher (Sakai Tsuneo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 3-9
+
+Emiliano Costa: rng1 = 73 + 10 - 11 + 1 = 73
+rng2 = 51 + 7 - 14 + 1 = 45
+Single
+Team 1 pitcher (Sakai Tsuneo): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: true, base2: true, base3: false
+Score: 3-9
+
+Casey Myers-Morgan: rng1 = 80 + 8 - 11 + 1 = 78
+rng2 = 62 + 6 - 14 + 1 = 55
+Single
+Team 1 pitcher (Sakai Tsuneo): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: true, base2: true, base3: false
+Score: 3-10
+
+Bailey Myers-Morgan: rng1 = 8 + 5 - 11 + 1 = 3
+Strikeout
+Team 1 pitcher (Sakai Tsuneo): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-10
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Sergio Narvaez
+
+Enrique Holmes: rng1 = 5 + 7 - 10 - 1 = 1
+Strikeout
+Team 2 pitcher (Sergio Narvaez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 3-10
+
+Braylon Summers: rng1 = 18 + 7 - 10 - 1 = 14
+rng2 = 63 + 7 - 10 - 1 = 59
+Flyout
+Team 2 pitcher (Sergio Narvaez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 3-10
+
+Leo Hawkins: rng1 = 34 + 7 - 10 - 1 = 30
+rng2 = 3 + 6 - 10 - 1 = -2
+Groundout
+Team 2 pitcher (Sergio Narvaez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-10
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 7
+Team 2 hits: 14
+Team 1 runs: 3
+Team 2 runs: 10
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-06-26
+Dylan Marsh	4	1	1	1	0	0	0	0	1					San Antonio
+Frankie Bell	3	1	0	0	0	0	0	1	2	
+Rodolfo Mullen	2	0	0	0	0	0	0	2	2	
+Rubén Indiano	4	0	0	0	0	0	0	0	2	
+Marcelo Francis	4	1	4	0	0	0	2	0	0	
+Leon Watts	4	0	0	0	0	0	0	0	1	
+Enrique Holmes	4	0	1	0	0	0	1	0	1	
+Braylon Summers	4	0	0	0	0	0	0	0	1	
+Leo Hawkins	4	0	1	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Maverick McKay	0	1	1	1	0	0	11	7	6	2	4	4	22	
+Cullen McClain	0	0	1	0	0	0	4	3	3	1	0	2	7	
+Lucas Gardner	0	0	1	0	0	0	6	1	0	0	2	1	9	
+Sakai Tsuneo	0	0	1	0	0	0	3	3	1	0	0	1	6	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-06-26
+Finnegan Maxwell	2	2	2	0	0	1	2	3	0					Dallas
+Angel Gutiérrez	5	1	1	1	0	0	0	0	0	
+Nick Hamburger	5	1	1	0	0	0	1	0	1	
+Ameer Jacobson	5	0	1	1	0	0	1	0	1	
+Jerome Goodwin	5	2	2	1	0	0	1	0	1	
+Emiliano Costa	4	1	2	0	0	1	2	1	1	
+Casey Myers-Morgan	4	2	3	1	0	1	2	1	1	
+Bailey Myers-Morgan	4	1	1	0	0	0	1	1	2	
+Francisco Illescas	4	0	1	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Brady Burnette	1	0	1	1	0	0	15	4	3	0	3	8	22	
+Ezequiel Santangelo	0	0	1	0	0	0	9	3	0	0	0	2	11	
+Sergio Narvaez	0	0	1	0	0	0	3	0	0	0	0	1	3	
+Seno Mashiro	0	0	0	0	0	0	0	0	0	0	0	0	0	

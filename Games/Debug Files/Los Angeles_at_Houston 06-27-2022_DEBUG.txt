@@ -1,0 +1,787 @@
+TOP INNING 1
+
+Ashton Martin: rng1 = 8 + 15 - 6 - 1 = 16
+Strikeout
+Team 2 pitcher (Jonatan Velazquez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Yodogawa Shosuke: rng1 = 95 + 11 - 6 - 1 = 99
+rng2 = 19 + 10 - 6 - 1 = 22
+Single
+Team 2 pitcher (Jonatan Velazquez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Bradley Murphy: rng1 = 85 + 10 - 6 - 1 = 88
+Walk
+Team 2 pitcher (Jonatan Velazquez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Joel Arboleda: rng1 = 1 + 6 - 6 - 1 = 0
+Strikeout
+Team 2 pitcher (Jonatan Velazquez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Caden Beckett: rng1 = 85 + 12 - 6 - 1 = 90
+Walk
+Team 2 pitcher (Jonatan Velazquez): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: true, base2: true, base3: true
+Score: 0-0
+
+Alonso Welch: rng1 = 77 + 8 - 6 - 1 = 78
+rng2 = 11 + 7 - 6 - 1 = 11
+Single
+Team 2 pitcher (Jonatan Velazquez): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: true, base2: false, base3: true
+Score: 2-0
+
+Quinell McDaniel: rng1 = 26 + 7 - 6 - 1 = 26
+Strikeout
+Team 2 pitcher (Jonatan Velazquez): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Zachary Hughes: rng1 = 89 + 15 - 10 + 1 = 95
+rng2 = 63 + 15 - 8 + 1 = 71
+Double
+Team 1 pitcher (Gustavo Soto): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: true, base3: false
+Score: 2-0
+
+Cody Henderson: rng1 = 39 + 15 - 10 + 1 = 45
+rng2 = 39 + 15 - 8 + 1 = 47
+Groundout
+Team 1 pitcher (Gustavo Soto): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: true, base3: false
+Score: 2-0
+
+Aaron Vera: rng1 = 49 + 13 - 10 + 1 = 53
+rng2 = 12 + 7 - 8 + 1 = 12
+Groundout
+Team 1 pitcher (Gustavo Soto): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: true, base3: false
+Score: 2-0
+
+Joshua Marsh: rng1 = 22 + 4 - 10 + 1 = 17
+Strikeout
+Team 1 pitcher (Gustavo Soto): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+TOP INNING 2
+
+Orlando Cazalla: rng1 = 94 + 6 - 6 - 1 = 93
+rng2 = 40 + 7 - 6 - 1 = 40
+Single
+Team 2 pitcher (Jonatan Velazquez): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Chwa Jung-Su: rng1 = 88 + 9 - 6 - 1 = 90
+Walk
+Team 2 pitcher (Jonatan Velazquez): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 0
+
+base1: true, base2: true, base3: false
+Score: 2-0
+
+Ashton Martin: rng1 = 27 + 15 - 6 - 1 = 35
+rng2 = 52 + 15 - 6 - 1 = 60
+Flyout
+Team 2 pitcher (Jonatan Velazquez): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 1
+
+base1: true, base2: true, base3: false
+Score: 2-0
+
+Yodogawa Shosuke: rng1 = 98 + 11 - 6 - 1 = 102
+rng2 = 35 + 10 - 6 - 1 = 38
+Single
+Team 2 pitcher (Jonatan Velazquez): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 1
+
+base1: true, base2: false, base3: true
+Score: 3-0
+
+Bradley Murphy: rng1 = 83 + 10 - 6 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Jonatan Velazquez): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 1
+
+base1: true, base2: true, base3: true
+Score: 3-0
+
+Joel Arboleda: rng1 = 19 + 6 - 6 - 1 = 18
+Strikeout
+Team 2 pitcher (Jonatan Velazquez): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 2
+
+base1: true, base2: true, base3: true
+Score: 3-0
+
+Caden Beckett: rng1 = 75 + 12 - 6 - 1 = 80
+rng2 = 51 + 7 - 6 - 1 = 51
+Single
+Team 2 pitcher (Jonatan Velazquez): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 2
+
+base1: true, base2: true, base3: true
+Score: 4-0
+
+Alonso Welch: rng1 = 54 + 8 - 6 - 1 = 55
+rng2 = 58 + 7 - 6 - 1 = 58
+Lineout
+Team 2 pitcher (Jonatan Velazquez): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Joshua Fontina: rng1 = 82 + 9 - 10 + 1 = 82
+rng2 = 16 + 8 - 8 + 1 = 17
+Single
+Team 1 pitcher (Gustavo Soto): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Jadon Mitchell: rng1 = 99 + 7 - 10 + 1 = 97
+rng2 = 49 + 7 - 8 + 1 = 49
+Single
+Team 1 pitcher (Gustavo Soto): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 0
+
+base1: true, base2: false, base3: true
+Score: 4-0
+
+Matías Martinez: rng1 = 58 + 6 - 10 + 1 = 55
+rng2 = 97 + 6 - 8 + 1 = 96
+Flyout
+Team 1 pitcher (Gustavo Soto): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 4-1
+
+Romain Bates: rng1 = 46 + 5 - 10 + 1 = 42
+rng2 = 98 + 7 - 8 + 1 = 98
+Flyout
+Team 1 pitcher (Gustavo Soto): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 4-1
+
+Nehemiah Clark: rng1 = 6 + 4 - 10 + 1 = 1
+Strikeout
+Team 1 pitcher (Gustavo Soto): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+TOP INNING 3
+
+Quinell McDaniel: rng1 = 1 + 7 - 6 - 1 = 1
+Strikeout
+Team 2 pitcher (Jonatan Velazquez): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Orlando Cazalla: rng1 = 95 + 6 - 6 - 1 = 94
+rng2 = 23 + 7 - 6 - 1 = 23
+Single
+Team 2 pitcher (Jonatan Velazquez): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 4-1
+
+Chwa Jung-Su: rng1 = 49 + 9 - 6 - 1 = 51
+rng2 = 18 + 2 - 6 - 1 = 13
+Groundout
+Team 2 pitcher (Jonatan Velazquez): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 2
+
+base1: false, base2: true, base3: false
+Score: 4-1
+
+Ashton Martin: rng1 = 45 + 15 - 6 - 1 = 53
+rng2 = 83 + 15 - 6 - 1 = 91
+Flyout
+Team 2 pitcher (Jonatan Velazquez): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Zachary Hughes: rng1 = 51 + 15 - 10 + 1 = 57
+rng2 = 3 + 15 - 8 + 1 = 11
+Groundout
+Team 1 pitcher (Gustavo Soto): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Cody Henderson: rng1 = 93 + 15 - 10 + 1 = 99
+rng2 = 30 + 15 - 8 + 1 = 38
+Single
+Team 1 pitcher (Gustavo Soto): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 4-1
+
+Aaron Vera: rng1 = 12 + 13 - 10 + 1 = 16
+Strikeout
+Team 1 pitcher (Gustavo Soto): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 4-1
+
+Joshua Marsh: rng1 = 32 + 4 - 10 + 1 = 27
+Strikeout
+Team 1 pitcher (Gustavo Soto): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+TOP INNING 4
+
+Yodogawa Shosuke: rng1 = 79 + 11 - 6 - 1 = 83
+rng2 = 42 + 10 - 6 - 1 = 45
+Single
+Team 2 pitcher (Jonatan Velazquez): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 4-1
+
+Bradley Murphy: rng1 = 99 + 10 - 6 - 1 = 102
+rng2 = 56 + 11 - 6 - 1 = 60
+Single
+Team 2 pitcher (Jonatan Velazquez): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 0
+
+base1: true, base2: false, base3: true
+Score: 4-1
+
+Joel Arboleda: rng1 = 100 + 6 - 6 - 1 = 99
+rng2 = 84 + 9 - 6 - 1 = 86
+Double
+Team 2 pitcher (Jonatan Velazquez): 22 batters faced, 5 runs allowed = 22 + 12.5 = 34.5, outs: 0
+
+base1: false, base2: true, base3: true
+Score: 5-1
+
+Caden Beckett: rng1 = 33 + 12 - 6 - 1 = 38
+rng2 = 89 + 7 - 6 - 1 = 89
+Flyout
+Team 2 pitcher (Jonatan Velazquez): 23 batters faced, 6 runs allowed = 23 + 15.0 = 38.0, outs: 1
+
+base1: false, base2: true, base3: false
+Score: 6-1
+
+Team 2 pitcher change to Craig Valencis
+
+Alonso Welch: rng1 = 66 + 8 - 9 - 1 = 64
+rng2 = 62 + 7 - 10 - 1 = 58
+Lineout
+Team 2 pitcher (Craig Valencis): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: false, base2: true, base3: false
+Score: 6-1
+
+Quinell McDaniel: rng1 = 25 + 7 - 9 - 1 = 22
+Strikeout
+Team 2 pitcher (Craig Valencis): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Joshua Fontina: rng1 = 24 + 9 - 10 + 1 = 24
+Strikeout
+Team 1 pitcher (Gustavo Soto): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Jadon Mitchell: rng1 = 10 + 7 - 10 + 1 = 8
+Strikeout
+Team 1 pitcher (Gustavo Soto): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Matías Martinez: rng1 = 62 + 6 - 10 + 1 = 59
+rng2 = 35 + 6 - 8 + 1 = 34
+Groundout
+Team 1 pitcher (Gustavo Soto): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+TOP INNING 5
+
+Orlando Cazalla: rng1 = 58 + 6 - 9 - 1 = 54
+rng2 = 88 + 7 - 10 - 1 = 84
+Flyout
+Team 2 pitcher (Craig Valencis): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Chwa Jung-Su: rng1 = 67 + 9 - 9 - 1 = 66
+rng2 = 66 + 2 - 10 - 1 = 57
+Lineout
+Team 2 pitcher (Craig Valencis): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Ashton Martin: rng1 = 83 + 15 - 9 - 1 = 88
+Walk
+Team 2 pitcher (Craig Valencis): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 6-1
+
+Yodogawa Shosuke: rng1 = 35 + 11 - 9 - 1 = 36
+rng2 = 79 + 10 - 10 - 1 = 78
+Flyout
+Team 2 pitcher (Craig Valencis): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+BOTTOM INNING 5
+
+Romain Bates: rng1 = 11 + 5 - 10 + 1 = 7
+Strikeout
+Team 1 pitcher (Gustavo Soto): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Nehemiah Clark: rng1 = 87 + 4 - 10 + 1 = 82
+rng2 = 67 + 8 - 8 + 1 = 68
+Double
+Team 1 pitcher (Gustavo Soto): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 1
+
+base1: false, base2: true, base3: false
+Score: 6-1
+
+Zachary Hughes: rng1 = 83 + 15 - 10 + 1 = 89
+Walk
+Team 1 pitcher (Gustavo Soto): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 1
+
+base1: true, base2: true, base3: false
+Score: 6-1
+
+Cody Henderson: rng1 = 4 + 15 - 10 + 1 = 10
+Strikeout
+Team 1 pitcher (Gustavo Soto): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 2
+
+base1: true, base2: true, base3: false
+Score: 6-1
+
+Aaron Vera: rng1 = 86 + 13 - 10 + 1 = 90
+Walk
+Team 1 pitcher (Gustavo Soto): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 2
+
+base1: true, base2: true, base3: true
+Score: 6-1
+
+Joshua Marsh: rng1 = 32 + 4 - 10 + 1 = 27
+Strikeout
+Team 1 pitcher (Gustavo Soto): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+TOP INNING 6
+
+Bradley Murphy: rng1 = 90 + 10 - 9 - 1 = 90
+Walk
+Team 2 pitcher (Craig Valencis): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 6-1
+
+Joel Arboleda: rng1 = 11 + 6 - 9 - 1 = 7
+Strikeout
+Team 2 pitcher (Craig Valencis): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 6-1
+
+Caden Beckett: rng1 = 86 + 12 - 9 - 1 = 88
+Walk
+Team 2 pitcher (Craig Valencis): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: true, base2: true, base3: false
+Score: 6-1
+
+Alonso Welch: rng1 = 60 + 8 - 9 - 1 = 58
+rng2 = 34 + 7 - 10 - 1 = 30
+Groundout
+Team 2 pitcher (Craig Valencis): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: false, base2: true, base3: true
+Score: 6-1
+
+Quinell McDaniel: rng1 = 83 + 7 - 9 - 1 = 80
+rng2 = 21 + 8 - 10 - 1 = 18
+Single
+Team 2 pitcher (Craig Valencis): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: true, base2: false, base3: true
+Score: 7-1
+
+Team 2 pitcher change to Jerry Walls
+
+Orlando Cazalla: rng1 = 32 + 6 - 8 - 1 = 29
+rng2 = 42 + 7 - 7 - 1 = 41
+Groundout
+Team 2 pitcher (Jerry Walls): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-1
+
+-----------------------
+
+BOTTOM INNING 6
+
+Joshua Fontina: rng1 = 95 + 9 - 10 + 1 = 95
+rng2 = 6 + 8 - 8 + 1 = 7
+Single
+Team 1 pitcher (Gustavo Soto): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 7-1
+
+Jadon Mitchell: rng1 = 63 + 7 - 10 + 1 = 61
+rng2 = 96 + 7 - 8 + 1 = 96
+Flyout
+Team 1 pitcher (Gustavo Soto): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 7-1
+
+Matías Martinez: rng1 = 82 + 6 - 10 + 1 = 79
+rng2 = 34 + 6 - 8 + 1 = 33
+Single
+Team 1 pitcher (Gustavo Soto): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 1
+
+base1: true, base2: false, base3: true
+Score: 7-1
+
+Romain Bates: rng1 = 100 + 5 - 10 + 1 = 96
+rng2 = 54 + 7 - 8 + 1 = 54
+Single
+Team 1 pitcher (Gustavo Soto): 26 batters faced, 2 runs allowed = 26 + 5.0 = 31.0, outs: 1
+
+base1: true, base2: true, base3: false
+Score: 7-2
+
+Nehemiah Clark: rng1 = 37 + 4 - 10 + 1 = 32
+rng2 = 61 + 8 - 8 + 1 = 62
+Flyout
+Team 1 pitcher (Gustavo Soto): 27 batters faced, 2 runs allowed = 27 + 5.0 = 32.0, outs: 2
+
+base1: true, base2: true, base3: false
+Score: 7-2
+
+Zachary Hughes: rng1 = 37 + 15 - 10 + 1 = 43
+rng2 = 2 + 15 - 8 + 1 = 10
+Groundout
+Team 1 pitcher (Gustavo Soto): 28 batters faced, 2 runs allowed = 28 + 5.0 = 33.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-2
+
+-----------------------
+
+TOP INNING 7
+
+Chwa Jung-Su: rng1 = 1 + 9 - 8 - 1 = 1
+Strikeout
+Team 2 pitcher (Jerry Walls): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 7-2
+
+Ashton Martin: rng1 = 97 + 15 - 8 - 1 = 103
+rng2 = 24 + 15 - 7 - 1 = 31
+Single
+Team 2 pitcher (Jerry Walls): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 7-2
+
+Yodogawa Shosuke: rng1 = 80 + 11 - 8 - 1 = 82
+rng2 = 45 + 10 - 7 - 1 = 47
+Single
+Team 2 pitcher (Jerry Walls): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: true, base2: true, base3: false
+Score: 7-2
+
+Bradley Murphy: rng1 = 39 + 10 - 8 - 1 = 40
+rng2 = 82 + 11 - 7 - 1 = 85
+Flyout
+Team 2 pitcher (Jerry Walls): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: true, base2: false, base3: true
+Score: 7-2
+
+Joel Arboleda: rng1 = 63 + 6 - 8 - 1 = 60
+rng2 = 40 + 9 - 7 - 1 = 41
+Groundout
+Team 2 pitcher (Jerry Walls): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-2
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Calvin Hogan
+
+Cody Henderson: rng1 = 34 + 15 - 9 + 1 = 41
+rng2 = 11 + 15 - 10 + 1 = 17
+Groundout
+Team 1 pitcher (Calvin Hogan): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 7-2
+
+Aaron Vera: rng1 = 47 + 13 - 9 + 1 = 52
+rng2 = 56 + 7 - 10 + 1 = 54
+Lineout
+Team 1 pitcher (Calvin Hogan): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 7-2
+
+Joshua Marsh: rng1 = 86 + 4 - 9 + 1 = 82
+rng2 = 22 + 11 - 10 + 1 = 24
+Single
+Team 1 pitcher (Calvin Hogan): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 7-2
+
+Joshua Fontina: rng1 = 5 + 9 - 9 + 1 = 6
+Strikeout
+Team 1 pitcher (Calvin Hogan): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-2
+
+-----------------------
+
+TOP INNING 8
+
+Caden Beckett: rng1 = 53 + 12 - 8 - 1 = 56
+rng2 = 19 + 7 - 7 - 1 = 18
+Groundout
+Team 2 pitcher (Jerry Walls): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 7-2
+
+Alonso Welch: rng1 = 56 + 8 - 8 - 1 = 55
+rng2 = 9 + 7 - 7 - 1 = 8
+Groundout
+Team 2 pitcher (Jerry Walls): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 7-2
+
+Quinell McDaniel: rng1 = 23 + 7 - 8 - 1 = 21
+Strikeout
+Team 2 pitcher (Jerry Walls): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-2
+
+-----------------------
+
+BOTTOM INNING 8
+
+Jadon Mitchell: rng1 = 14 + 7 - 9 + 1 = 13
+rng2 = 89 + 7 - 10 + 1 = 87
+Flyout
+Team 1 pitcher (Calvin Hogan): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 7-2
+
+Matías Martinez: rng1 = 58 + 6 - 9 + 1 = 56
+rng2 = 92 + 6 - 10 + 1 = 89
+Flyout
+Team 1 pitcher (Calvin Hogan): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 7-2
+
+Romain Bates: rng1 = 55 + 5 - 9 + 1 = 52
+rng2 = 29 + 7 - 10 + 1 = 27
+Groundout
+Team 1 pitcher (Calvin Hogan): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-2
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Gideon Giles
+
+Orlando Cazalla: rng1 = 42 + 6 - 15 - 1 = 32
+rng2 = 65 + 7 - 15 - 1 = 56
+Lineout
+Team 2 pitcher (Gideon Giles): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 7-2
+
+Chwa Jung-Su: rng1 = 45 + 9 - 15 - 1 = 38
+rng2 = 78 + 2 - 15 - 1 = 64
+Flyout
+Team 2 pitcher (Gideon Giles): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 7-2
+
+Ashton Martin: rng1 = 45 + 15 - 15 - 1 = 44
+rng2 = 92 + 15 - 15 - 1 = 91
+Flyout
+Team 2 pitcher (Gideon Giles): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-2
+
+-----------------------
+
+BOTTOM INNING 9
+
+Nehemiah Clark: rng1 = 79 + 4 - 9 + 1 = 75
+rng2 = 30 + 8 - 10 + 1 = 29
+Single
+Team 1 pitcher (Calvin Hogan): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 7-2
+
+Zachary Hughes: rng1 = 35 + 15 - 9 + 1 = 42
+rng2 = 94 + 15 - 10 + 1 = 100
+Flyout
+Team 1 pitcher (Calvin Hogan): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 7-2
+
+Cody Henderson: rng1 = 74 + 15 - 9 + 1 = 81
+rng2 = 69 + 15 - 10 + 1 = 75
+Double
+Team 1 pitcher (Calvin Hogan): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: false, base2: true, base3: false
+Score: 7-3
+
+Team 1 pitcher change to Ezequiel Abrogado
+
+Aaron Vera: rng1 = 18 + 13 - 8 + 1 = 24
+Strikeout
+Team 1 pitcher (Ezequiel Abrogado): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: false, base2: true, base3: false
+Score: 7-3
+
+Joshua Marsh: rng1 = 95 + 4 - 8 + 1 = 92
+rng2 = 28 + 11 - 5 + 1 = 35
+Single
+Team 1 pitcher (Ezequiel Abrogado): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: true, base2: false, base3: true
+Score: 7-3
+
+Joshua Fontina: rng1 = 25 + 9 - 8 + 1 = 27
+Strikeout
+Team 1 pitcher (Ezequiel Abrogado): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-3
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 12
+Team 2 hits: 12
+Team 1 runs: 7
+Team 2 runs: 3
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-06-27
+Ashton Martin	5	0	1	0	0	0	0	1	1					Los Angeles
+Yodogawa Shosuke	5	2	4	0	0	0	1	0	0	
+Bradley Murphy	2	3	1	0	0	0	0	2	0	
+Joel Arboleda	5	0	1	1	0	0	1	0	3	
+Caden Beckett	3	0	1	0	0	0	2	2	0	
+Alonso Welch	5	0	1	0	0	0	2	0	0	
+Quinell McDaniel	5	0	1	0	0	0	1	0	4	
+Orlando Cazalla	5	1	2	0	0	0	0	0	0	
+Chwa Jung-Su	4	1	0	0	0	0	0	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Gustavo Soto	1	0	1	1	0	0	18	8	2	0	2	9	28	
+Calvin Hogan	0	0	1	0	0	0	7	3	1	0	0	1	10	
+Ezequiel Abrogado	0	0	1	0	0	0	2	1	0	0	0	2	3	
+Jason Francisco	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-06-27
+Zachary Hughes	4	0	1	1	0	0	0	1	0					Houston
+Cody Henderson	5	0	2	1	0	0	1	0	1	
+Aaron Vera	4	0	0	0	0	0	0	1	2	
+Joshua Marsh	5	0	2	0	0	0	0	0	3	
+Joshua Fontina	5	2	2	0	0	0	0	0	3	
+Jadon Mitchell	4	0	1	0	0	0	0	0	1	
+Matías Martinez	4	0	1	0	0	0	1	0	0	
+Romain Bates	4	0	1	0	0	0	1	0	1	
+Nehemiah Clark	4	1	2	1	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Jonatan Velazquez	0	1	1	1	0	0	10	9	6	0	3	5	23	
+Craig Valencis	0	0	1	0	0	0	7	1	1	0	3	2	11	
+Jerry Walls	0	0	1	0	0	0	7	2	0	0	0	2	9	
+Gideon Giles	0	0	1	0	0	0	3	0	0	0	0	0	3	

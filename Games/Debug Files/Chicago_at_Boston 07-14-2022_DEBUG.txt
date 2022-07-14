@@ -1,0 +1,727 @@
+TOP INNING 1
+
+Edward Lowe: rng1 = 11 + 13 - 14 - 1 = 9
+Strikeout
+Team 2 pitcher (Ahmad Key): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Leonardo Pinto: rng1 = 65 + 11 - 14 - 1 = 61
+rng2 = 52 + 8 - 13 - 1 = 46
+Groundout
+Team 2 pitcher (Ahmad Key): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Nakazawa Shinji: rng1 = 75 + 9 - 14 - 1 = 69
+Walk
+Team 2 pitcher (Ahmad Key): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Kevin Taylor: rng1 = 63 + 8 - 14 - 1 = 56
+rng2 = 88 + 10 - 13 - 1 = 84
+Flyout
+Team 2 pitcher (Ahmad Key): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Juan Manzanares: rng1 = 14 + 15 - 8 + 1 = 22
+Strikeout
+Team 1 pitcher (Raul Cespedes): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Emanuel Gutiérrez: rng1 = 27 + 7 - 8 + 1 = 27
+Strikeout
+Team 1 pitcher (Raul Cespedes): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Seamus Tanner: rng1 = 86 + 10 - 8 + 1 = 89
+Walk
+Team 1 pitcher (Raul Cespedes): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Cannon Terry: rng1 = 90 + 7 - 8 + 1 = 90
+Walk
+Team 1 pitcher (Raul Cespedes): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Aiden Hayes: rng1 = 97 + 10 - 8 + 1 = 100
+rng2 = 56 + 9 - 4 + 1 = 62
+Single
+Team 1 pitcher (Raul Cespedes): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: true, base2: true, base3: false
+Score: 0-1
+
+Juan Pearson: rng1 = 50 + 10 - 8 + 1 = 53
+rng2 = 54 + 8 - 4 + 1 = 59
+Flyout
+Team 1 pitcher (Raul Cespedes): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 2
+
+Leroy Powell: rng1 = 21 + 9 - 14 - 1 = 15
+rng2 = 51 + 9 - 13 - 1 = 46
+Groundout
+Team 2 pitcher (Ahmad Key): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Alejandro López: rng1 = 23 + 5 - 14 - 1 = 13
+rng2 = 12 + 8 - 13 - 1 = 6
+Groundout
+Team 2 pitcher (Ahmad Key): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Jaiden Fortner: rng1 = 53 + 5 - 14 - 1 = 43
+rng2 = 6 + 7 - 13 - 1 = -1
+Groundout
+Team 2 pitcher (Ahmad Key): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Noah Davidson: rng1 = 100 + 7 - 8 + 1 = 100
+rng2 = 77 + 5 - 4 + 1 = 79
+Home run
+Team 1 pitcher (Raul Cespedes): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 0
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Quillin Grant: rng1 = 70 + 7 - 8 + 1 = 70
+Walk
+Team 1 pitcher (Raul Cespedes): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Alex Águila: rng1 = 77 + 6 - 8 + 1 = 76
+rng2 = 47 + 6 - 4 + 1 = 50
+Single
+Team 1 pitcher (Raul Cespedes): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 0
+
+base1: true, base2: false, base3: true
+Score: 0-2
+
+Juan Manzanares: rng1 = 74 + 15 - 8 + 1 = 82
+rng2 = 72 + 8 - 4 + 1 = 77
+Double
+Team 1 pitcher (Raul Cespedes): 10 batters faced, 4 runs allowed = 10 + 10.0 = 20.0, outs: 0
+
+base1: false, base2: true, base3: false
+Score: 0-4
+
+Emanuel Gutiérrez: rng1 = 13 + 7 - 8 + 1 = 13
+rng2 = 57 + 13 - 4 + 1 = 67
+Flyout
+Team 1 pitcher (Raul Cespedes): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 1
+
+base1: false, base2: true, base3: false
+Score: 0-4
+
+Seamus Tanner: rng1 = 100 + 10 - 8 + 1 = 103
+rng2 = 51 + 9 - 4 + 1 = 57
+Single
+Team 1 pitcher (Raul Cespedes): 12 batters faced, 5 runs allowed = 12 + 12.5 = 24.5, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Cannon Terry: rng1 = 97 + 7 - 8 + 1 = 97
+rng2 = 20 + 12 - 4 + 1 = 29
+Single
+Team 1 pitcher (Raul Cespedes): 13 batters faced, 5 runs allowed = 13 + 12.5 = 25.5, outs: 1
+
+base1: true, base2: false, base3: true
+Score: 0-5
+
+Aiden Hayes: rng1 = 16 + 10 - 8 + 1 = 19
+Strikeout
+Team 1 pitcher (Raul Cespedes): 14 batters faced, 5 runs allowed = 14 + 12.5 = 26.5, outs: 2
+
+base1: true, base2: false, base3: true
+Score: 0-5
+
+Juan Pearson: rng1 = 50 + 10 - 8 + 1 = 53
+rng2 = 57 + 8 - 4 + 1 = 62
+Flyout
+Team 1 pitcher (Raul Cespedes): 15 batters faced, 5 runs allowed = 15 + 12.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+TOP INNING 3
+
+Demarcus Warner: rng1 = 36 + 5 - 14 - 1 = 26
+Strikeout
+Team 2 pitcher (Ahmad Key): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Estefania Espina: rng1 = 67 + 6 - 14 - 1 = 58
+rng2 = 28 + 5 - 13 - 1 = 19
+Groundout
+Team 2 pitcher (Ahmad Key): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Edward Lowe: rng1 = 19 + 13 - 14 - 1 = 17
+Strikeout
+Team 2 pitcher (Ahmad Key): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+BOTTOM INNING 3
+
+Noah Davidson: rng1 = 20 + 7 - 8 + 1 = 20
+Strikeout
+Team 1 pitcher (Raul Cespedes): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Quillin Grant: rng1 = 14 + 7 - 8 + 1 = 14
+rng2 = 93 + 5 - 4 + 1 = 95
+Flyout
+Team 1 pitcher (Raul Cespedes): 17 batters faced, 5 runs allowed = 17 + 12.5 = 29.5, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Alex Águila: rng1 = 88 + 6 - 8 + 1 = 87
+Walk
+Team 1 pitcher (Raul Cespedes): 18 batters faced, 5 runs allowed = 18 + 12.5 = 30.5, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Juan Manzanares: rng1 = 87 + 15 - 8 + 1 = 95
+rng2 = 98 + 8 - 4 + 1 = 103
+Home run
+Team 1 pitcher (Raul Cespedes): 19 batters faced, 7 runs allowed = 19 + 17.5 = 36.5, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 0-7
+
+Team 1 pitcher change to Bravon McDaniel
+
+Emanuel Gutiérrez: rng1 = 99 + 7 - 7 + 1 = 100
+rng2 = 92 + 13 - 7 + 1 = 99
+Home run
+Team 1 pitcher (Bravon McDaniel): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 0-8
+
+Seamus Tanner: rng1 = 87 + 10 - 7 + 1 = 91
+rng2 = 47 + 9 - 7 + 1 = 50
+Single
+Team 1 pitcher (Bravon McDaniel): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 0-8
+
+Cannon Terry: rng1 = 81 + 7 - 7 + 1 = 82
+rng2 = 62 + 12 - 7 + 1 = 68
+Double
+Team 1 pitcher (Bravon McDaniel): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 2
+
+base1: false, base2: true, base3: false
+Score: 0-9
+
+Aiden Hayes: rng1 = 62 + 10 - 7 + 1 = 66
+rng2 = 43 + 9 - 7 + 1 = 46
+Groundout
+Team 1 pitcher (Bravon McDaniel): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-9
+
+-----------------------
+
+TOP INNING 4
+
+Leonardo Pinto: rng1 = 62 + 11 - 14 - 1 = 58
+rng2 = 13 + 8 - 13 - 1 = 7
+Groundout
+Team 2 pitcher (Ahmad Key): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 0-9
+
+Nakazawa Shinji: rng1 = 47 + 9 - 14 - 1 = 41
+rng2 = 70 + 10 - 13 - 1 = 66
+Flyout
+Team 2 pitcher (Ahmad Key): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 0-9
+
+Kevin Taylor: rng1 = 14 + 8 - 14 - 1 = 7
+Strikeout
+Team 2 pitcher (Ahmad Key): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-9
+
+-----------------------
+
+BOTTOM INNING 4
+
+Juan Pearson: rng1 = 13 + 10 - 7 + 1 = 17
+Strikeout
+Team 1 pitcher (Bravon McDaniel): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 0-9
+
+Noah Davidson: rng1 = 85 + 7 - 7 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Bravon McDaniel): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 0-9
+
+Quillin Grant: rng1 = 43 + 7 - 7 + 1 = 44
+rng2 = 77 + 5 - 7 + 1 = 76
+Flyout
+Team 1 pitcher (Bravon McDaniel): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 0-9
+
+Alex Águila: rng1 = 29 + 6 - 7 + 1 = 29
+rng2 = 25 + 6 - 7 + 1 = 25
+Groundout
+Team 1 pitcher (Bravon McDaniel): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-9
+
+-----------------------
+
+TOP INNING 5
+
+Leroy Powell: rng1 = 99 + 9 - 14 - 1 = 93
+rng2 = 7 + 9 - 13 - 1 = 2
+Single
+Team 2 pitcher (Ahmad Key): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 0-9
+
+Alejandro López: rng1 = 81 + 5 - 14 - 1 = 71
+Walk
+Team 2 pitcher (Ahmad Key): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 0
+
+base1: true, base2: true, base3: false
+Score: 0-9
+
+Jaiden Fortner: rng1 = 38 + 5 - 14 - 1 = 28
+rng2 = 22 + 7 - 13 - 1 = 15
+Groundout
+Team 2 pitcher (Ahmad Key): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 2
+
+base1: false, base2: false, base3: true
+Score: 0-9
+
+Demarcus Warner: rng1 = 15 + 5 - 14 - 1 = 5
+Strikeout
+Team 2 pitcher (Ahmad Key): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-9
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Armando Negron
+
+Juan Manzanares: rng1 = 3 + 15 - 9 + 1 = 10
+Strikeout
+Team 1 pitcher (Armando Negron): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 0-9
+
+Emanuel Gutiérrez: rng1 = 45 + 7 - 9 + 1 = 44
+rng2 = 29 + 13 - 6 + 1 = 37
+Groundout
+Team 1 pitcher (Armando Negron): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 0-9
+
+Seamus Tanner: rng1 = 79 + 10 - 9 + 1 = 81
+rng2 = 80 + 9 - 6 + 1 = 84
+Home run
+Team 1 pitcher (Armando Negron): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 0-10
+
+Cannon Terry: rng1 = 46 + 7 - 9 + 1 = 45
+rng2 = 14 + 12 - 6 + 1 = 21
+Groundout
+Team 1 pitcher (Armando Negron): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-10
+
+-----------------------
+
+TOP INNING 6
+
+Estefania Espina: rng1 = 84 + 6 - 14 - 1 = 75
+rng2 = 10 + 5 - 13 - 1 = 1
+Single
+Team 2 pitcher (Ahmad Key): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 0-10
+
+Edward Lowe: rng1 = 71 + 13 - 14 - 1 = 69
+Walk
+Team 2 pitcher (Ahmad Key): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 0
+
+base1: true, base2: true, base3: false
+Score: 0-10
+
+Leonardo Pinto: rng1 = 35 + 11 - 14 - 1 = 31
+rng2 = 66 + 8 - 13 - 1 = 60
+Flyout
+Team 2 pitcher (Ahmad Key): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 1
+
+base1: true, base2: false, base3: true
+Score: 0-10
+
+Nakazawa Shinji: rng1 = 93 + 9 - 14 - 1 = 87
+Walk
+Team 2 pitcher (Ahmad Key): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 1
+
+base1: true, base2: true, base3: true
+Score: 0-10
+
+Kevin Taylor: rng1 = 69 + 8 - 14 - 1 = 62
+rng2 = 93 + 10 - 13 - 1 = 89
+Flyout
+Team 2 pitcher (Ahmad Key): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 2
+
+base1: true, base2: true, base3: false
+Score: 1-10
+
+Leroy Powell: rng1 = 100 + 9 - 14 - 1 = 94
+rng2 = 17 + 9 - 13 - 1 = 12
+Single
+Team 2 pitcher (Ahmad Key): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 2
+
+base1: true, base2: true, base3: false
+Score: 2-10
+
+Alejandro López: rng1 = 91 + 5 - 14 - 1 = 81
+rng2 = 34 + 8 - 13 - 1 = 28
+Single
+Team 2 pitcher (Ahmad Key): 24 batters faced, 3 runs allowed = 24 + 7.5 = 31.5, outs: 2
+
+base1: true, base2: true, base3: false
+Score: 3-10
+
+Jaiden Fortner: rng1 = 73 + 5 - 14 - 1 = 63
+rng2 = 75 + 7 - 13 - 1 = 68
+Flyout
+Team 2 pitcher (Ahmad Key): 25 batters faced, 3 runs allowed = 25 + 7.5 = 32.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-10
+
+-----------------------
+
+BOTTOM INNING 6
+
+Aiden Hayes: rng1 = 90 + 10 - 9 + 1 = 92
+rng2 = 38 + 9 - 6 + 1 = 42
+Single
+Team 1 pitcher (Armando Negron): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 3-10
+
+Juan Pearson: rng1 = 66 + 10 - 9 + 1 = 68
+rng2 = 55 + 8 - 6 + 1 = 58
+Lineout
+Team 1 pitcher (Armando Negron): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 3-10
+
+Noah Davidson: rng1 = 97 + 7 - 9 + 1 = 96
+rng2 = 44 + 5 - 6 + 1 = 44
+Single
+Team 1 pitcher (Armando Negron): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: true, base2: true, base3: false
+Score: 3-10
+
+Quillin Grant: rng1 = 24 + 7 - 9 + 1 = 23
+Strikeout
+Team 1 pitcher (Armando Negron): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: true, base2: true, base3: false
+Score: 3-10
+
+Alex Águila: rng1 = 99 + 6 - 9 + 1 = 97
+rng2 = 97 + 6 - 6 + 1 = 98
+Home run
+Team 1 pitcher (Armando Negron): 9 batters faced, 4 runs allowed = 9 + 10.0 = 19.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 3-13
+
+Team 1 pitcher change to Charlie Jordan
+
+Juan Manzanares: rng1 = 49 + 15 - 14 + 1 = 51
+rng2 = 62 + 8 - 13 + 1 = 58
+Lineout
+Team 1 pitcher (Charlie Jordan): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-13
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Thomas Barnes
+
+Demarcus Warner: rng1 = 24 + 5 - 11 - 1 = 17
+Strikeout
+Team 2 pitcher (Thomas Barnes): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 3-13
+
+Estefania Espina: rng1 = 34 + 6 - 11 - 1 = 28
+rng2 = 75 + 5 - 7 - 1 = 72
+Flyout
+Team 2 pitcher (Thomas Barnes): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 3-13
+
+Edward Lowe: rng1 = 66 + 13 - 11 - 1 = 67
+rng2 = 40 + 14 - 7 - 1 = 46
+Groundout
+Team 2 pitcher (Thomas Barnes): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-13
+
+-----------------------
+
+BOTTOM INNING 7
+
+Emanuel Gutiérrez: rng1 = 1 + 7 - 14 + 1 = -5
+Strikeout
+Team 1 pitcher (Charlie Jordan): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 3-13
+
+Seamus Tanner: rng1 = 99 + 10 - 14 + 1 = 96
+rng2 = 91 + 9 - 13 + 1 = 88
+Double
+Team 1 pitcher (Charlie Jordan): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: true, base3: false
+Score: 3-13
+
+Cannon Terry: rng1 = 57 + 7 - 14 + 1 = 51
+rng2 = 46 + 12 - 13 + 1 = 46
+Groundout
+Team 1 pitcher (Charlie Jordan): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: true, base3: false
+Score: 3-13
+
+Aiden Hayes: rng1 = 94 + 10 - 14 + 1 = 91
+rng2 = 1 + 9 - 13 + 1 = -2
+Single
+Team 1 pitcher (Charlie Jordan): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 3-14
+
+Juan Pearson: rng1 = 3 + 10 - 14 + 1 = 0
+Strikeout
+Team 1 pitcher (Charlie Jordan): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-14
+
+-----------------------
+
+TOP INNING 8
+
+Leonardo Pinto: rng1 = 1 + 11 - 11 - 1 = 0
+Strikeout
+Team 2 pitcher (Thomas Barnes): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 3-14
+
+Nakazawa Shinji: rng1 = 89 + 9 - 11 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Thomas Barnes): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 3-14
+
+Kevin Taylor: rng1 = 52 + 8 - 11 - 1 = 48
+rng2 = 46 + 10 - 7 - 1 = 48
+Lineout
+Team 2 pitcher (Thomas Barnes): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 3-14
+
+Leroy Powell: rng1 = 60 + 9 - 11 - 1 = 57
+rng2 = 58 + 9 - 7 - 1 = 59
+Flyout
+Team 2 pitcher (Thomas Barnes): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-14
+
+-----------------------
+
+BOTTOM INNING 8
+
+Noah Davidson: rng1 = 17 + 7 - 14 + 1 = 11
+rng2 = 81 + 5 - 13 + 1 = 74
+Flyout
+Team 1 pitcher (Charlie Jordan): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 3-14
+
+Quillin Grant: rng1 = 66 + 7 - 14 + 1 = 60
+rng2 = 73 + 5 - 13 + 1 = 66
+Flyout
+Team 1 pitcher (Charlie Jordan): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 3-14
+
+Alex Águila: rng1 = 38 + 6 - 14 + 1 = 31
+rng2 = 7 + 6 - 13 + 1 = 1
+Groundout
+Team 1 pitcher (Charlie Jordan): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-14
+
+-----------------------
+
+TOP INNING 9
+
+Alejandro López: rng1 = 27 + 5 - 11 - 1 = 20
+Strikeout
+Team 2 pitcher (Thomas Barnes): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 3-14
+
+Jaiden Fortner: rng1 = 2 + 5 - 11 - 1 = -5
+Strikeout
+Team 2 pitcher (Thomas Barnes): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 3-14
+
+Demarcus Warner: rng1 = 72 + 5 - 11 - 1 = 65
+rng2 = 53 + 7 - 7 - 1 = 52
+Lineout
+Team 2 pitcher (Thomas Barnes): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-14
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 4
+Team 2 hits: 16
+Team 1 runs: 3
+Team 2 runs: 14
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-07-14
+Edward Lowe	3	1	0	0	0	0	0	1	2					Chicago
+Leonardo Pinto	4	0	0	0	0	0	0	0	1	
+Nakazawa Shinji	1	1	0	0	0	0	0	2	0	
+Kevin Taylor	4	0	0	0	0	0	1	0	1	
+Leroy Powell	4	0	2	0	0	0	1	0	0	
+Alejandro López	3	0	1	0	0	0	1	1	1	
+Jaiden Fortner	4	0	0	0	0	0	0	0	1	
+Demarcus Warner	4	0	0	0	0	0	0	0	3	
+Estefania Espina	3	1	1	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Raul Cespedes	0	1	1	1	0	0	8	7	7	2	4	4	19	
+Bravon McDaniel	0	0	1	0	0	0	4	3	2	1	0	1	8	
+Armando Negron	0	0	1	0	0	0	5	4	4	2	0	2	9	
+Charlie Jordan	0	0	1	0	0	0	7	2	1	0	0	2	9	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-07-14
+Juan Manzanares	5	2	2	1	0	1	4	0	2					Boston
+Emanuel Gutiérrez	5	1	1	0	0	1	1	0	2	
+Seamus Tanner	4	4	4	1	0	1	2	1	0	
+Cannon Terry	4	0	2	1	0	0	1	1	0	
+Aiden Hayes	5	1	3	0	0	0	2	0	1	
+Juan Pearson	5	0	0	0	0	0	0	0	2	
+Noah Davidson	4	2	2	0	0	1	1	0	1	
+Quillin Grant	4	1	0	0	0	0	0	1	1	
+Alex Águila	4	3	2	0	0	1	3	1	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Ahmad Key	1	0	1	1	0	0	18	4	3	0	4	5	25	
+Thomas Barnes	0	0	1	0	0	0	9	0	0	0	0	4	10	
+Ellis Carr	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Pablo Quintana	0	0	0	0	0	0	0	0	0	0	0	0	0	

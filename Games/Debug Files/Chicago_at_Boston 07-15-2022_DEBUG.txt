@@ -1,0 +1,685 @@
+TOP INNING 1
+
+Edward Lowe: rng1 = 21 + 13 - 8 - 1 = 25
+Strikeout
+Team 2 pitcher (Estefania Tejedor): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Leonardo Pinto: rng1 = 11 + 11 - 8 - 1 = 13
+rng2 = 64 + 8 - 8 - 1 = 63
+Flyout
+Team 2 pitcher (Estefania Tejedor): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Nakazawa Shinji: rng1 = 33 + 9 - 8 - 1 = 33
+rng2 = 63 + 10 - 8 - 1 = 64
+Flyout
+Team 2 pitcher (Estefania Tejedor): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Juan Manzanares: rng1 = 40 + 15 - 14 + 1 = 42
+rng2 = 75 + 8 - 15 + 1 = 69
+Flyout
+Team 1 pitcher (Reece Dixon): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Emanuel Gutiérrez: rng1 = 69 + 7 - 14 + 1 = 63
+rng2 = 58 + 13 - 15 + 1 = 57
+Lineout
+Team 1 pitcher (Reece Dixon): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Seamus Tanner: rng1 = 2 + 10 - 14 + 1 = -1
+Strikeout
+Team 1 pitcher (Reece Dixon): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Kevin Taylor: rng1 = 90 + 8 - 8 - 1 = 89
+Walk
+Team 2 pitcher (Estefania Tejedor): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Leroy Powell: rng1 = 60 + 9 - 8 - 1 = 60
+rng2 = 67 + 9 - 8 - 1 = 67
+Flyout
+Team 2 pitcher (Estefania Tejedor): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Alejandro López: rng1 = 63 + 5 - 8 - 1 = 59
+rng2 = 20 + 8 - 8 - 1 = 19
+Groundout
+Team 2 pitcher (Estefania Tejedor): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Jaiden Fortner: rng1 = 43 + 5 - 8 - 1 = 39
+rng2 = 44 + 7 - 8 - 1 = 42
+Groundout
+Team 2 pitcher (Estefania Tejedor): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Cannon Terry: rng1 = 69 + 7 - 14 + 1 = 63
+rng2 = 28 + 12 - 15 + 1 = 26
+Groundout
+Team 1 pitcher (Reece Dixon): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Aiden Hayes: rng1 = 29 + 10 - 14 + 1 = 26
+Strikeout
+Team 1 pitcher (Reece Dixon): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Juan Pearson: rng1 = 60 + 10 - 14 + 1 = 57
+rng2 = 81 + 8 - 15 + 1 = 75
+Flyout
+Team 1 pitcher (Reece Dixon): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 3
+
+Demarcus Warner: rng1 = 84 + 5 - 8 - 1 = 80
+rng2 = 2 + 7 - 8 - 1 = 0
+Single
+Team 2 pitcher (Estefania Tejedor): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Estefania Espina: rng1 = 75 + 6 - 8 - 1 = 72
+rng2 = 71 + 5 - 8 - 1 = 67
+Double
+Team 2 pitcher (Estefania Tejedor): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 0
+
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Edward Lowe: rng1 = 19 + 13 - 8 - 1 = 23
+Strikeout
+Team 2 pitcher (Estefania Tejedor): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Leonardo Pinto: rng1 = 32 + 11 - 8 - 1 = 34
+rng2 = 94 + 8 - 8 - 1 = 93
+Flyout
+Team 2 pitcher (Estefania Tejedor): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Nakazawa Shinji: rng1 = 85 + 9 - 8 - 1 = 85
+rng2 = 95 + 10 - 8 - 1 = 96
+Home run
+Team 2 pitcher (Estefania Tejedor): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Kevin Taylor: rng1 = 91 + 8 - 8 - 1 = 90
+Walk
+Team 2 pitcher (Estefania Tejedor): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Leroy Powell: rng1 = 21 + 9 - 8 - 1 = 21
+Strikeout
+Team 2 pitcher (Estefania Tejedor): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Noah Davidson: rng1 = 58 + 7 - 14 + 1 = 52
+rng2 = 63 + 5 - 15 + 1 = 54
+Lineout
+Team 1 pitcher (Reece Dixon): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Quillin Grant: rng1 = 48 + 7 - 14 + 1 = 42
+rng2 = 14 + 5 - 15 + 1 = 5
+Groundout
+Team 1 pitcher (Reece Dixon): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Alex Águila: rng1 = 13 + 6 - 14 + 1 = 6
+Strikeout
+Team 1 pitcher (Reece Dixon): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+TOP INNING 4
+
+Alejandro López: rng1 = 25 + 5 - 8 - 1 = 21
+Strikeout
+Team 2 pitcher (Estefania Tejedor): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Jaiden Fortner: rng1 = 13 + 5 - 8 - 1 = 9
+Strikeout
+Team 2 pitcher (Estefania Tejedor): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Demarcus Warner: rng1 = 22 + 5 - 8 - 1 = 18
+Strikeout
+Team 2 pitcher (Estefania Tejedor): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 4
+
+Juan Manzanares: rng1 = 40 + 15 - 14 + 1 = 42
+rng2 = 82 + 8 - 15 + 1 = 76
+Flyout
+Team 1 pitcher (Reece Dixon): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Emanuel Gutiérrez: rng1 = 59 + 7 - 14 + 1 = 53
+rng2 = 52 + 13 - 15 + 1 = 51
+Lineout
+Team 1 pitcher (Reece Dixon): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Seamus Tanner: rng1 = 42 + 10 - 14 + 1 = 39
+rng2 = 62 + 9 - 15 + 1 = 57
+Lineout
+Team 1 pitcher (Reece Dixon): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+TOP INNING 5
+
+Estefania Espina: rng1 = 86 + 6 - 8 - 1 = 83
+rng2 = 74 + 5 - 8 - 1 = 70
+Double
+Team 2 pitcher (Estefania Tejedor): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 0
+
+base1: false, base2: true, base3: false
+Score: 3-0
+
+Edward Lowe: rng1 = 65 + 13 - 8 - 1 = 69
+Walk
+Team 2 pitcher (Estefania Tejedor): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 0
+
+base1: true, base2: true, base3: false
+Score: 3-0
+
+Leonardo Pinto: rng1 = 59 + 11 - 8 - 1 = 61
+rng2 = 27 + 8 - 8 - 1 = 26
+Groundout
+Team 2 pitcher (Estefania Tejedor): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 1
+
+base1: false, base2: true, base3: true
+Score: 3-0
+
+Nakazawa Shinji: rng1 = 64 + 9 - 8 - 1 = 64
+rng2 = 52 + 10 - 8 - 1 = 53
+Lineout
+Team 2 pitcher (Estefania Tejedor): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 2
+
+base1: false, base2: true, base3: true
+Score: 3-0
+
+Kevin Taylor: rng1 = 73 + 8 - 8 - 1 = 72
+rng2 = 95 + 10 - 8 - 1 = 96
+Home run
+Team 2 pitcher (Estefania Tejedor): 22 batters faced, 6 runs allowed = 22 + 15.0 = 37.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 6-0
+
+Team 2 pitcher change to Ellis Carr
+
+Leroy Powell: rng1 = 38 + 9 - 6 - 1 = 40
+rng2 = 83 + 9 - 8 - 1 = 83
+Flyout
+Team 2 pitcher (Ellis Carr): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-0
+
+-----------------------
+
+BOTTOM INNING 5
+
+Cannon Terry: rng1 = 90 + 7 - 14 + 1 = 84
+rng2 = 51 + 12 - 15 + 1 = 49
+Single
+Team 1 pitcher (Reece Dixon): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 6-0
+
+Aiden Hayes: rng1 = 81 + 10 - 14 + 1 = 78
+rng2 = 67 + 9 - 15 + 1 = 62
+Single
+Team 1 pitcher (Reece Dixon): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 0
+
+base1: true, base2: false, base3: true
+Score: 6-0
+
+Juan Pearson: rng1 = 37 + 10 - 14 + 1 = 34
+rng2 = 76 + 8 - 15 + 1 = 70
+Flyout
+Team 1 pitcher (Reece Dixon): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 6-1
+
+Noah Davidson: rng1 = 57 + 7 - 14 + 1 = 51
+rng2 = 15 + 5 - 15 + 1 = 6
+Groundout
+Team 1 pitcher (Reece Dixon): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 2
+
+base1: false, base2: true, base3: false
+Score: 6-1
+
+Quillin Grant: rng1 = 53 + 7 - 14 + 1 = 47
+rng2 = 76 + 5 - 15 + 1 = 67
+Flyout
+Team 1 pitcher (Reece Dixon): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+TOP INNING 6
+
+Alejandro López: rng1 = 66 + 5 - 6 - 1 = 64
+rng2 = 23 + 8 - 8 - 1 = 22
+Groundout
+Team 2 pitcher (Ellis Carr): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Jaiden Fortner: rng1 = 8 + 5 - 6 - 1 = 6
+Strikeout
+Team 2 pitcher (Ellis Carr): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Demarcus Warner: rng1 = 94 + 5 - 6 - 1 = 92
+rng2 = 87 + 7 - 8 - 1 = 85
+Home run
+Team 2 pitcher (Ellis Carr): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 7-1
+
+Estefania Espina: rng1 = 62 + 6 - 6 - 1 = 61
+rng2 = 78 + 5 - 8 - 1 = 74
+Flyout
+Team 2 pitcher (Ellis Carr): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-1
+
+-----------------------
+
+BOTTOM INNING 6
+
+Alex Águila: rng1 = 82 + 6 - 14 + 1 = 75
+rng2 = 35 + 6 - 15 + 1 = 27
+Single
+Team 1 pitcher (Reece Dixon): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 7-1
+
+Juan Manzanares: rng1 = 71 + 15 - 14 + 1 = 73
+rng2 = 38 + 8 - 15 + 1 = 32
+Single
+Team 1 pitcher (Reece Dixon): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 0
+
+base1: true, base2: true, base3: false
+Score: 7-1
+
+Emanuel Gutiérrez: rng1 = 32 + 7 - 14 + 1 = 26
+Strikeout
+Team 1 pitcher (Reece Dixon): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 1
+
+base1: true, base2: true, base3: false
+Score: 7-1
+
+Seamus Tanner: rng1 = 21 + 10 - 14 + 1 = 18
+Strikeout
+Team 1 pitcher (Reece Dixon): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 2
+
+base1: true, base2: true, base3: false
+Score: 7-1
+
+Cannon Terry: rng1 = 6 + 7 - 14 + 1 = 0
+Strikeout
+Team 1 pitcher (Reece Dixon): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-1
+
+-----------------------
+
+TOP INNING 7
+
+Edward Lowe: rng1 = 76 + 13 - 6 - 1 = 82
+rng2 = 100 + 14 - 8 - 1 = 105
+Home run
+Team 2 pitcher (Ellis Carr): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 0
+
+base1: false, base2: false, base3: false
+Score: 8-1
+
+Leonardo Pinto: rng1 = 27 + 11 - 6 - 1 = 31
+rng2 = 64 + 8 - 8 - 1 = 63
+Flyout
+Team 2 pitcher (Ellis Carr): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 8-1
+
+Nakazawa Shinji: rng1 = 25 + 9 - 6 - 1 = 27
+Strikeout
+Team 2 pitcher (Ellis Carr): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 8-1
+
+Kevin Taylor: rng1 = 40 + 8 - 6 - 1 = 41
+rng2 = 17 + 10 - 8 - 1 = 18
+Groundout
+Team 2 pitcher (Ellis Carr): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-1
+
+-----------------------
+
+BOTTOM INNING 7
+
+Aiden Hayes: rng1 = 69 + 10 - 14 + 1 = 66
+rng2 = 46 + 9 - 15 + 1 = 41
+Groundout
+Team 1 pitcher (Reece Dixon): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 8-1
+
+Juan Pearson: rng1 = 39 + 10 - 14 + 1 = 36
+rng2 = 90 + 8 - 15 + 1 = 84
+Flyout
+Team 1 pitcher (Reece Dixon): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 8-1
+
+Noah Davidson: rng1 = 30 + 7 - 14 + 1 = 24
+Strikeout
+Team 1 pitcher (Reece Dixon): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-1
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Thomas Barnes
+
+Leroy Powell: rng1 = 86 + 9 - 11 - 1 = 83
+rng2 = 68 + 9 - 7 - 1 = 69
+Double
+Team 2 pitcher (Thomas Barnes): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: true, base3: false
+Score: 8-1
+
+Alejandro López: rng1 = 12 + 5 - 11 - 1 = 5
+Strikeout
+Team 2 pitcher (Thomas Barnes): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: true, base3: false
+Score: 8-1
+
+Jaiden Fortner: rng1 = 18 + 5 - 11 - 1 = 11
+rng2 = 1 + 7 - 7 - 1 = 0
+Groundout
+Team 2 pitcher (Thomas Barnes): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: true
+Score: 8-1
+
+Demarcus Warner: rng1 = 7 + 5 - 11 - 1 = 0
+Strikeout
+Team 2 pitcher (Thomas Barnes): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-1
+
+-----------------------
+
+BOTTOM INNING 8
+
+Quillin Grant: rng1 = 82 + 7 - 14 + 1 = 76
+rng2 = 88 + 5 - 15 + 1 = 79
+Home run
+Team 1 pitcher (Reece Dixon): 26 batters faced, 2 runs allowed = 26 + 5.0 = 31.0, outs: 0
+
+base1: false, base2: false, base3: false
+Score: 8-2
+
+Alex Águila: rng1 = 22 + 6 - 14 + 1 = 15
+rng2 = 13 + 6 - 15 + 1 = 5
+Groundout
+Team 1 pitcher (Reece Dixon): 27 batters faced, 2 runs allowed = 27 + 5.0 = 32.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 8-2
+
+Juan Manzanares: rng1 = 69 + 15 - 14 + 1 = 71
+Walk
+Team 1 pitcher (Reece Dixon): 28 batters faced, 2 runs allowed = 28 + 5.0 = 33.0, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 8-2
+
+Emanuel Gutiérrez: rng1 = 3 + 7 - 14 + 1 = -3
+Strikeout
+Team 1 pitcher (Reece Dixon): 29 batters faced, 2 runs allowed = 29 + 5.0 = 34.0, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 8-2
+
+Team 1 pitcher change to Armando Negron
+
+Seamus Tanner: rng1 = 86 + 10 - 9 + 1 = 88
+Walk
+Team 1 pitcher (Armando Negron): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: true, base2: true, base3: false
+Score: 8-2
+
+Cannon Terry: rng1 = 43 + 7 - 9 + 1 = 42
+rng2 = 37 + 12 - 6 + 1 = 44
+Groundout
+Team 1 pitcher (Armando Negron): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-2
+
+-----------------------
+
+TOP INNING 9
+
+Estefania Espina: rng1 = 51 + 6 - 11 - 1 = 45
+rng2 = 95 + 5 - 7 - 1 = 92
+Flyout
+Team 2 pitcher (Thomas Barnes): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 8-2
+
+Edward Lowe: rng1 = 58 + 13 - 11 - 1 = 59
+rng2 = 84 + 14 - 7 - 1 = 90
+Flyout
+Team 2 pitcher (Thomas Barnes): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 8-2
+
+Leonardo Pinto: rng1 = 14 + 11 - 11 - 1 = 13
+rng2 = 85 + 8 - 7 - 1 = 85
+Flyout
+Team 2 pitcher (Thomas Barnes): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-2
+
+-----------------------
+
+BOTTOM INNING 9
+
+Aiden Hayes: rng1 = 73 + 10 - 9 + 1 = 75
+rng2 = 36 + 9 - 6 + 1 = 40
+Single
+Team 1 pitcher (Armando Negron): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 8-2
+
+Juan Pearson: rng1 = 87 + 10 - 9 + 1 = 89
+Walk
+Team 1 pitcher (Armando Negron): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: true, base2: true, base3: false
+Score: 8-2
+
+Noah Davidson: rng1 = 32 + 7 - 9 + 1 = 31
+rng2 = 63 + 5 - 6 + 1 = 63
+Flyout
+Team 1 pitcher (Armando Negron): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: true, base2: true, base3: false
+Score: 8-2
+
+Quillin Grant: rng1 = 44 + 7 - 9 + 1 = 43
+rng2 = 84 + 5 - 6 + 1 = 84
+Flyout
+Team 1 pitcher (Armando Negron): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: true, base2: true, base3: false
+Score: 8-2
+
+Alex Águila: rng1 = 66 + 6 - 9 + 1 = 64
+rng2 = 99 + 6 - 6 + 1 = 100
+Flyout
+Team 1 pitcher (Armando Negron): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-2
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 8
+Team 2 hits: 6
+Team 1 runs: 8
+Team 2 runs: 2
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-07-15
+Edward Lowe	4	2	1	0	0	1	1	1	2					Chicago
+Leonardo Pinto	5	0	0	0	0	0	0	0	0	
+Nakazawa Shinji	4	1	1	0	0	1	2	0	1	
+Kevin Taylor	2	1	1	0	0	1	3	2	0	
+Leroy Powell	4	0	1	1	0	0	0	0	1	
+Alejandro López	4	0	0	0	0	0	0	0	2	
+Jaiden Fortner	4	0	0	0	0	0	0	0	2	
+Demarcus Warner	4	2	2	0	0	1	1	0	2	
+Estefania Espina	4	2	2	2	0	0	1	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Reece Dixon	1	0	1	1	0	0	23	5	2	1	1	8	29	
+Armando Negron	0	0	1	0	0	0	4	1	0	0	2	0	7	
+Bravon McDaniel	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Charlie Jordan	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-07-15
+Juan Manzanares	3	0	1	0	0	0	0	1	0					Boston
+Emanuel Gutiérrez	4	0	0	0	0	0	0	0	2	
+Seamus Tanner	3	0	0	0	0	0	0	1	2	
+Cannon Terry	4	1	1	0	0	0	0	0	1	
+Aiden Hayes	4	0	2	0	0	0	0	0	1	
+Juan Pearson	3	0	0	0	0	0	1	1	0	
+Noah Davidson	4	0	0	0	0	0	0	0	1	
+Quillin Grant	4	1	1	0	0	1	1	0	0	
+Alex Águila	4	0	1	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Estefania Tejedor	0	1	1	1	0	0	14	5	6	2	3	6	22	
+Ellis Carr	0	0	1	0	0	0	7	2	2	2	0	2	9	
+Thomas Barnes	0	0	1	0	0	0	6	1	0	0	0	2	7	
+Pablo Quintana	0	0	0	0	0	0	0	0	0	0	0	0	0	

@@ -1,0 +1,752 @@
+TOP INNING 1
+
+Finnegan Maxwell: rng1 = 97 + 15 - 4 - 1 = 107
+rng2 = 5 + 14 - 8 - 1 = 10
+Single
+Team 2 pitcher (Caleb Parker): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Angel Gutiérrez: rng1 = 73 + 15 - 4 - 1 = 83
+rng2 = 74 + 11 - 8 - 1 = 76
+Double
+Team 2 pitcher (Caleb Parker): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: false, base2: true, base3: true
+Score: 0-0
+
+Nick Hamburger: rng1 = 82 + 11 - 4 - 1 = 88
+Walk
+Team 2 pitcher (Caleb Parker): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 0
+
+base1: true, base2: true, base3: true
+Score: 0-0
+
+Ameer Jacobson: rng1 = 80 + 1 - 4 - 1 = 76
+rng2 = 67 + 11 - 8 - 1 = 69
+Double
+Team 2 pitcher (Caleb Parker): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 0
+
+base1: false, base2: true, base3: true
+Score: 2-0
+
+Jerome Goodwin: rng1 = 39 + 11 - 4 - 1 = 45
+rng2 = 81 + 9 - 8 - 1 = 81
+Flyout
+Team 2 pitcher (Caleb Parker): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 1
+
+base1: false, base2: true, base3: false
+Score: 3-0
+
+Emiliano Costa: rng1 = 22 + 10 - 4 - 1 = 27
+Strikeout
+Team 2 pitcher (Caleb Parker): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: false, base2: true, base3: false
+Score: 3-0
+
+Casey Myers-Morgan: rng1 = 57 + 8 - 4 - 1 = 60
+rng2 = 88 + 6 - 8 - 1 = 85
+Flyout
+Team 2 pitcher (Caleb Parker): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Zachary Hughes: rng1 = 24 + 15 - 7 + 1 = 33
+rng2 = 50 + 15 - 8 + 1 = 58
+Lineout
+Team 1 pitcher (Kody Blake): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Cody Henderson: rng1 = 16 + 15 - 7 + 1 = 25
+Strikeout
+Team 1 pitcher (Kody Blake): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Aaron Vera: rng1 = 23 + 13 - 7 + 1 = 30
+rng2 = 13 + 7 - 8 + 1 = 13
+Groundout
+Team 1 pitcher (Kody Blake): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+TOP INNING 2
+
+Bailey Myers-Morgan: rng1 = 96 + 5 - 4 - 1 = 96
+rng2 = 27 + 9 - 8 - 1 = 27
+Single
+Team 2 pitcher (Caleb Parker): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Francisco Illescas: rng1 = 22 + 7 - 4 - 1 = 24
+Strikeout
+Team 2 pitcher (Caleb Parker): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Finnegan Maxwell: rng1 = 68 + 15 - 4 - 1 = 78
+rng2 = 16 + 14 - 8 - 1 = 21
+Single
+Team 2 pitcher (Caleb Parker): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 1
+
+base1: true, base2: true, base3: false
+Score: 3-0
+
+Angel Gutiérrez: rng1 = 68 + 15 - 4 - 1 = 78
+rng2 = 49 + 11 - 8 - 1 = 51
+Single
+Team 2 pitcher (Caleb Parker): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 1
+
+base1: true, base2: true, base3: false
+Score: 4-0
+
+Nick Hamburger: rng1 = 56 + 11 - 4 - 1 = 62
+rng2 = 67 + 12 - 8 - 1 = 70
+Flyout
+Team 2 pitcher (Caleb Parker): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 2
+
+base1: true, base2: true, base3: false
+Score: 4-0
+
+Ameer Jacobson: rng1 = 12 + 1 - 4 - 1 = 8
+Strikeout
+Team 2 pitcher (Caleb Parker): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Joshua Marsh: rng1 = 21 + 4 - 7 + 1 = 19
+Strikeout
+Team 1 pitcher (Kody Blake): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Joshua Fontina: rng1 = 89 + 9 - 7 + 1 = 92
+rng2 = 93 + 8 - 8 + 1 = 94
+Home run
+Team 1 pitcher (Kody Blake): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Jadon Mitchell: rng1 = 18 + 7 - 7 + 1 = 19
+Strikeout
+Team 1 pitcher (Kody Blake): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Matías Martinez: rng1 = 45 + 6 - 7 + 1 = 45
+rng2 = 7 + 6 - 8 + 1 = 6
+Groundout
+Team 1 pitcher (Kody Blake): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+TOP INNING 3
+
+Jerome Goodwin: rng1 = 98 + 11 - 4 - 1 = 104
+rng2 = 69 + 9 - 8 - 1 = 69
+Double
+Team 2 pitcher (Caleb Parker): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 0
+
+base1: false, base2: true, base3: false
+Score: 4-1
+
+Emiliano Costa: rng1 = 87 + 10 - 4 - 1 = 92
+rng2 = 75 + 7 - 8 - 1 = 73
+Double
+Team 2 pitcher (Caleb Parker): 15 batters faced, 5 runs allowed = 15 + 12.5 = 27.5, outs: 0
+
+base1: false, base2: true, base3: false
+Score: 5-1
+
+Casey Myers-Morgan: rng1 = 9 + 8 - 4 - 1 = 12
+rng2 = 36 + 6 - 8 - 1 = 33
+Groundout
+Team 2 pitcher (Caleb Parker): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 1
+
+base1: false, base2: false, base3: true
+Score: 5-1
+
+Bailey Myers-Morgan: rng1 = 61 + 5 - 4 - 1 = 61
+rng2 = 13 + 9 - 8 - 1 = 13
+Groundout
+Team 2 pitcher (Caleb Parker): 17 batters faced, 6 runs allowed = 17 + 15.0 = 32.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Francisco Illescas: rng1 = 64 + 7 - 4 - 1 = 66
+rng2 = 51 + 6 - 8 - 1 = 48
+Lineout
+Team 2 pitcher (Caleb Parker): 18 batters faced, 6 runs allowed = 18 + 15.0 = 33.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Romain Bates: rng1 = 93 + 5 - 7 + 1 = 92
+rng2 = 65 + 7 - 8 + 1 = 65
+Double
+Team 1 pitcher (Kody Blake): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 0
+
+base1: false, base2: true, base3: false
+Score: 6-1
+
+Nehemiah Clark: rng1 = 72 + 4 - 7 + 1 = 70
+Walk
+Team 1 pitcher (Kody Blake): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 0
+
+base1: true, base2: true, base3: false
+Score: 6-1
+
+Zachary Hughes: rng1 = 28 + 15 - 7 + 1 = 37
+rng2 = 14 + 15 - 8 + 1 = 22
+Groundout
+Team 1 pitcher (Kody Blake): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: true, base2: true, base3: false
+Score: 6-1
+
+Cody Henderson: rng1 = 73 + 15 - 7 + 1 = 82
+rng2 = 11 + 15 - 8 + 1 = 19
+Single
+Team 1 pitcher (Kody Blake): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 1
+
+base1: true, base2: false, base3: true
+Score: 6-2
+
+Aaron Vera: rng1 = 35 + 13 - 7 + 1 = 42
+rng2 = 18 + 7 - 8 + 1 = 18
+Groundout
+Team 1 pitcher (Kody Blake): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-2
+
+-----------------------
+
+TOP INNING 4
+
+Team 2 pitcher change to Jerry Walls
+
+Finnegan Maxwell: rng1 = 90 + 15 - 8 - 1 = 96
+rng2 = 62 + 14 - 7 - 1 = 68
+Double
+Team 2 pitcher (Jerry Walls): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: true, base3: false
+Score: 6-2
+
+Angel Gutiérrez: rng1 = 47 + 15 - 8 - 1 = 53
+rng2 = 37 + 11 - 7 - 1 = 40
+Groundout
+Team 2 pitcher (Jerry Walls): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: true, base3: false
+Score: 6-2
+
+Nick Hamburger: rng1 = 21 + 11 - 8 - 1 = 23
+Strikeout
+Team 2 pitcher (Jerry Walls): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: true, base3: false
+Score: 6-2
+
+Ameer Jacobson: rng1 = 85 + 1 - 8 - 1 = 77
+rng2 = 72 + 11 - 7 - 1 = 75
+Double
+Team 2 pitcher (Jerry Walls): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: true, base3: false
+Score: 7-2
+
+Jerome Goodwin: rng1 = 37 + 11 - 8 - 1 = 39
+rng2 = 12 + 9 - 7 - 1 = 13
+Groundout
+Team 2 pitcher (Jerry Walls): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-2
+
+-----------------------
+
+BOTTOM INNING 4
+
+Joshua Marsh: rng1 = 51 + 4 - 7 + 1 = 49
+rng2 = 69 + 11 - 8 + 1 = 73
+Flyout
+Team 1 pitcher (Kody Blake): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 7-2
+
+Joshua Fontina: rng1 = 86 + 9 - 7 + 1 = 89
+Walk
+Team 1 pitcher (Kody Blake): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 7-2
+
+Jadon Mitchell: rng1 = 99 + 7 - 7 + 1 = 100
+rng2 = 83 + 7 - 8 + 1 = 83
+Home run
+Team 1 pitcher (Kody Blake): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 7-4
+
+Matías Martinez: rng1 = 54 + 6 - 7 + 1 = 54
+rng2 = 89 + 6 - 8 + 1 = 88
+Flyout
+Team 1 pitcher (Kody Blake): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 7-4
+
+Romain Bates: rng1 = 13 + 5 - 7 + 1 = 12
+rng2 = 29 + 7 - 8 + 1 = 29
+Groundout
+Team 1 pitcher (Kody Blake): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-4
+
+-----------------------
+
+TOP INNING 5
+
+Emiliano Costa: rng1 = 37 + 10 - 8 - 1 = 38
+rng2 = 34 + 7 - 7 - 1 = 33
+Groundout
+Team 2 pitcher (Jerry Walls): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 7-4
+
+Casey Myers-Morgan: rng1 = 87 + 8 - 8 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Jerry Walls): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 7-4
+
+Bailey Myers-Morgan: rng1 = 89 + 5 - 8 - 1 = 85
+rng2 = 100 + 9 - 7 - 1 = 101
+Home run
+Team 2 pitcher (Jerry Walls): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 9-4
+
+Team 2 pitcher change to Craig Valencis
+
+Francisco Illescas: rng1 = 60 + 7 - 9 - 1 = 57
+rng2 = 70 + 6 - 10 - 1 = 65
+Flyout
+Team 2 pitcher (Craig Valencis): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 9-4
+
+Finnegan Maxwell: rng1 = 69 + 15 - 9 - 1 = 74
+rng2 = 83 + 14 - 10 - 1 = 86
+Double
+Team 2 pitcher (Craig Valencis): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: true, base3: false
+Score: 9-4
+
+Angel Gutiérrez: rng1 = 47 + 15 - 9 - 1 = 52
+rng2 = 17 + 11 - 10 - 1 = 17
+Groundout
+Team 2 pitcher (Craig Valencis): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-4
+
+-----------------------
+
+BOTTOM INNING 5
+
+Nehemiah Clark: rng1 = 41 + 4 - 7 + 1 = 39
+rng2 = 9 + 8 - 8 + 1 = 10
+Groundout
+Team 1 pitcher (Kody Blake): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 9-4
+
+Zachary Hughes: rng1 = 3 + 15 - 7 + 1 = 12
+rng2 = 26 + 15 - 8 + 1 = 34
+Groundout
+Team 1 pitcher (Kody Blake): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 9-4
+
+Cody Henderson: rng1 = 95 + 15 - 7 + 1 = 104
+rng2 = 19 + 15 - 8 + 1 = 27
+Single
+Team 1 pitcher (Kody Blake): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 9-4
+
+Aaron Vera: rng1 = 90 + 13 - 7 + 1 = 97
+rng2 = 80 + 7 - 8 + 1 = 80
+Home run
+Team 1 pitcher (Kody Blake): 21 batters faced, 6 runs allowed = 21 + 15.0 = 36.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 9-6
+
+Team 1 pitcher change to Sergio Narvaez
+
+Joshua Marsh: rng1 = 91 + 4 - 10 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Sergio Narvaez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 9-6
+
+Joshua Fontina: rng1 = 25 + 9 - 10 + 1 = 25
+Strikeout
+Team 1 pitcher (Sergio Narvaez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-6
+
+-----------------------
+
+TOP INNING 6
+
+Nick Hamburger: rng1 = 15 + 11 - 9 - 1 = 16
+Strikeout
+Team 2 pitcher (Craig Valencis): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 9-6
+
+Ameer Jacobson: rng1 = 33 + 1 - 9 - 1 = 24
+Strikeout
+Team 2 pitcher (Craig Valencis): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 9-6
+
+Jerome Goodwin: rng1 = 28 + 11 - 9 - 1 = 29
+rng2 = 12 + 9 - 10 - 1 = 10
+Groundout
+Team 2 pitcher (Craig Valencis): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-6
+
+-----------------------
+
+BOTTOM INNING 6
+
+Jadon Mitchell: rng1 = 75 + 7 - 10 + 1 = 73
+rng2 = 55 + 7 - 10 + 1 = 53
+Single
+Team 1 pitcher (Sergio Narvaez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 9-6
+
+Matías Martinez: rng1 = 84 + 6 - 10 + 1 = 81
+rng2 = 78 + 6 - 10 + 1 = 75
+Double
+Team 1 pitcher (Sergio Narvaez): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 0
+
+base1: false, base2: true, base3: false
+Score: 9-7
+
+Romain Bates: rng1 = 40 + 5 - 10 + 1 = 36
+rng2 = 72 + 7 - 10 + 1 = 70
+Flyout
+Team 1 pitcher (Sergio Narvaez): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: false, base2: true, base3: false
+Score: 9-7
+
+Nehemiah Clark: rng1 = 25 + 4 - 10 + 1 = 20
+Strikeout
+Team 1 pitcher (Sergio Narvaez): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: false, base2: true, base3: false
+Score: 9-7
+
+Zachary Hughes: rng1 = 96 + 15 - 10 + 1 = 102
+rng2 = 30 + 15 - 10 + 1 = 36
+Single
+Team 1 pitcher (Sergio Narvaez): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 9-8
+
+Cody Henderson: rng1 = 38 + 15 - 10 + 1 = 44
+rng2 = 71 + 15 - 10 + 1 = 77
+Flyout
+Team 1 pitcher (Sergio Narvaez): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-8
+
+-----------------------
+
+TOP INNING 7
+
+Emiliano Costa: rng1 = 27 + 10 - 9 - 1 = 27
+Strikeout
+Team 2 pitcher (Craig Valencis): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 9-8
+
+Casey Myers-Morgan: rng1 = 99 + 8 - 9 - 1 = 97
+rng2 = 33 + 6 - 10 - 1 = 28
+Single
+Team 2 pitcher (Craig Valencis): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 9-8
+
+Bailey Myers-Morgan: rng1 = 58 + 5 - 9 - 1 = 53
+rng2 = 78 + 9 - 10 - 1 = 76
+Flyout
+Team 2 pitcher (Craig Valencis): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 9-8
+
+Francisco Illescas: rng1 = 96 + 7 - 9 - 1 = 93
+rng2 = 36 + 6 - 10 - 1 = 31
+Single
+Team 2 pitcher (Craig Valencis): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: true, base2: false, base3: true
+Score: 9-8
+
+Finnegan Maxwell: rng1 = 20 + 15 - 9 - 1 = 25
+Strikeout
+Team 2 pitcher (Craig Valencis): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-8
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Ezequiel Santangelo
+
+Aaron Vera: rng1 = 68 + 13 - 7 + 1 = 75
+rng2 = 75 + 7 - 7 + 1 = 76
+Double
+Team 1 pitcher (Ezequiel Santangelo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: true, base3: false
+Score: 9-8
+
+Joshua Marsh: rng1 = 70 + 4 - 7 + 1 = 68
+rng2 = 1 + 11 - 7 + 1 = 6
+Groundout
+Team 1 pitcher (Ezequiel Santangelo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: true
+Score: 9-8
+
+Joshua Fontina: rng1 = 92 + 9 - 7 + 1 = 95
+rng2 = 30 + 8 - 7 + 1 = 32
+Single
+Team 1 pitcher (Ezequiel Santangelo): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 9-9
+
+Jadon Mitchell: rng1 = 19 + 7 - 7 + 1 = 20
+Strikeout
+Team 1 pitcher (Ezequiel Santangelo): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 9-9
+
+Matías Martinez: rng1 = 55 + 6 - 7 + 1 = 55
+rng2 = 77 + 6 - 7 + 1 = 77
+Flyout
+Team 1 pitcher (Ezequiel Santangelo): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-9
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Gideon Giles
+
+Angel Gutiérrez: rng1 = 89 + 15 - 15 - 1 = 88
+Walk
+Team 2 pitcher (Gideon Giles): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 9-9
+
+Nick Hamburger: rng1 = 62 + 11 - 15 - 1 = 57
+rng2 = 38 + 12 - 15 - 1 = 34
+Groundout
+Team 2 pitcher (Gideon Giles): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 9-9
+
+Ameer Jacobson: rng1 = 43 + 1 - 15 - 1 = 28
+rng2 = 64 + 11 - 15 - 1 = 59
+Flyout
+Team 2 pitcher (Gideon Giles): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-9
+
+-----------------------
+
+BOTTOM INNING 8
+
+Romain Bates: rng1 = 90 + 5 - 7 + 1 = 89
+Walk
+Team 1 pitcher (Ezequiel Santangelo): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 9-9
+
+Nehemiah Clark: rng1 = 45 + 4 - 7 + 1 = 43
+rng2 = 2 + 8 - 7 + 1 = 4
+Groundout
+Team 1 pitcher (Ezequiel Santangelo): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 9-9
+
+Zachary Hughes: rng1 = 98 + 15 - 7 + 1 = 107
+rng2 = 90 + 15 - 7 + 1 = 99
+Home run
+Team 1 pitcher (Ezequiel Santangelo): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 9-10
+
+Team 1 pitcher change to Seno Mashiro
+
+Cody Henderson: rng1 = 69 + 15 - 12 + 1 = 73
+rng2 = 28 + 15 - 11 + 1 = 33
+Single
+Team 1 pitcher (Seno Mashiro): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 9-10
+
+Aaron Vera: rng1 = 19 + 13 - 12 + 1 = 21
+Strikeout
+Team 1 pitcher (Seno Mashiro): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-10
+
+-----------------------
+
+TOP INNING 9
+
+Jerome Goodwin: rng1 = 19 + 11 - 15 - 1 = 14
+rng2 = 49 + 9 - 15 - 1 = 42
+Groundout
+Team 2 pitcher (Gideon Giles): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 9-10
+
+Emiliano Costa: rng1 = 7 + 10 - 15 - 1 = 1
+Strikeout
+Team 2 pitcher (Gideon Giles): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 9-10
+
+Casey Myers-Morgan: rng1 = 44 + 8 - 15 - 1 = 36
+rng2 = 24 + 6 - 15 - 1 = 14
+Groundout
+Team 2 pitcher (Gideon Giles): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-10
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 14
+Team 2 hits: 13
+Team 1 runs: 9
+Team 2 runs: 10
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-07-20
+Finnegan Maxwell	5	2	4	2	0	0	0	0	1					Dallas
+Angel Gutiérrez	4	1	2	1	0	0	1	1	0	
+Nick Hamburger	4	1	0	0	0	0	0	1	2	
+Ameer Jacobson	5	0	2	2	0	0	3	0	2	
+Jerome Goodwin	5	1	1	1	0	0	1	0	0	
+Emiliano Costa	5	1	1	1	0	0	1	0	3	
+Casey Myers-Morgan	4	1	1	0	0	0	0	0	0	
+Bailey Myers-Morgan	4	2	2	0	0	1	3	0	0	
+Francisco Illescas	4	0	1	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Kody Blake	0	0	1	1	0	0	14	6	6	3	2	3	21	
+Sergio Narvaez	0	0	1	0	0	0	4	3	2	0	0	2	8	
+Ezequiel Santangelo	0	1	1	0	0	0	5	3	2	1	1	1	8	
+Seno Mashiro	0	0	1	0	0	0	1	1	0	0	0	1	2	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-07-20
+Zachary Hughes	5	1	2	0	0	1	2	0	0					Houston
+Cody Henderson	5	1	3	0	0	0	1	0	1	
+Aaron Vera	5	2	2	1	0	1	2	0	1	
+Joshua Marsh	3	0	0	0	0	0	0	0	1	
+Joshua Fontina	3	2	2	0	0	1	2	1	1	
+Jadon Mitchell	4	2	2	0	0	1	2	0	2	
+Matías Martinez	4	1	1	1	0	0	1	0	0	
+Romain Bates	3	0	1	1	0	0	0	1	0	
+Nehemiah Clark	3	1	0	0	0	0	0	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Caleb Parker	0	0	1	1	0	0	9	8	6	0	1	3	18	
+Jerry Walls	0	0	1	0	0	0	4	3	3	1	0	1	8	
+Craig Valencis	0	0	1	0	0	0	8	3	0	0	0	4	11	
+Gideon Giles	1	0	1	0	0	0	6	0	0	0	1	1	6	

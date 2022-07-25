@@ -2048,6 +2048,7 @@ public class GameGenerator
 						
 						if (inning % 2 == 1)
 						{
+							pitchers2[p2index][8] = pitchers2[p2index][8] + 1;
 							pitchers2[b1player[1]][8] = pitchers2[b1player[1]][8] + 1;
 
 							team1[b1player[0]][1]++;
@@ -2058,6 +2059,7 @@ public class GameGenerator
 						}
 						else
 						{
+							pitchers1[p1index][8] = pitchers1[p1index][8] + 1;
 							pitchers1[b1player[1]][8] = pitchers1[b1player[1]][8] + 1;
 
 							team2[b1player[0]][1]++;
@@ -2075,6 +2077,7 @@ public class GameGenerator
 						
 						if (inning % 2 == 1)
 						{
+							pitchers2[p2index][8] = pitchers2[p2index][8] + 1;
 							pitchers2[b2player[1]][8] = pitchers2[b2player[1]][8] + 1;
 
 							team1[b2player[0]][1]++;
@@ -2085,6 +2088,7 @@ public class GameGenerator
 						}
 						else
 						{
+							pitchers1[p1index][8] = pitchers1[p1index][8] + 1;
 							pitchers1[b2player[1]][8] = pitchers1[b2player[1]][8] + 1;
 
 							team2[b2player[0]][1]++;
@@ -2102,6 +2106,7 @@ public class GameGenerator
 						
 						if (inning % 2 == 1)
 						{
+							pitchers2[p2index][8] = pitchers2[p2index][8] + 1;
 							pitchers2[b3player[1]][8] = pitchers2[b3player[1]][8] + 1;
 
 							team1[b3player[0]][1]++;
@@ -2112,6 +2117,7 @@ public class GameGenerator
 						}
 						else
 						{
+							pitchers1[p1index][8] = pitchers1[p1index][8] + 1;
 							pitchers1[b3player[1]][8] = pitchers1[b3player[1]][8] + 1;
 
 							team2[b3player[0]][1]++;
@@ -2129,6 +2135,7 @@ public class GameGenerator
 						
 						if (inning % 2 == 1)
 						{
+							pitchers2[p2index][8] = pitchers2[p2index][8] + 1;
 							pitchers2[b1player[1]][8] = pitchers2[b1player[1]][8] + 1;
 							pitchers2[b2player[1]][8] = pitchers2[b2player[1]][8] + 1;
 
@@ -2141,6 +2148,7 @@ public class GameGenerator
 						}
 						else
 						{
+							pitchers1[p1index][8] = pitchers1[p1index][8] + 1;
 							pitchers1[b1player[1]][8] = pitchers1[b1player[1]][8] + 1;
 							pitchers1[b2player[1]][8] = pitchers1[b2player[1]][8] + 1;
 
@@ -2160,6 +2168,7 @@ public class GameGenerator
 						
 						if (inning % 2 == 1)
 						{
+							pitchers2[p2index][8] = pitchers2[p2index][8] + 1;
 							pitchers2[b1player[1]][8] = pitchers2[b1player[1]][8] + 1;
 							pitchers2[b3player[1]][8] = pitchers2[b3player[1]][8] + 1;
 
@@ -2172,6 +2181,7 @@ public class GameGenerator
 						}
 						else
 						{
+							pitchers1[p1index][8] = pitchers1[p1index][8] + 1;
 							pitchers1[b1player[1]][8] = pitchers1[b1player[1]][8] + 1;
 							pitchers1[b3player[1]][8] = pitchers1[b3player[1]][8] + 1;
 
@@ -2191,6 +2201,7 @@ public class GameGenerator
 						
 						if (inning % 2 == 1)
 						{
+							pitchers2[p2index][8] = pitchers2[p2index][8] + 1;
 							pitchers2[b2player[1]][8] = pitchers2[b2player[1]][8] + 1;
 							pitchers2[b3player[1]][8] = pitchers2[b3player[1]][8] + 1;
 
@@ -2203,6 +2214,7 @@ public class GameGenerator
 						}
 						else
 						{
+							pitchers1[p1index][8] = pitchers1[p1index][8] + 1;
 							pitchers1[b2player[1]][8] = pitchers1[b2player[1]][8] + 1;
 							pitchers1[b3player[1]][8] = pitchers1[b3player[1]][8] + 1;
 
@@ -2222,6 +2234,7 @@ public class GameGenerator
 						
 						if (inning % 2 == 1)
 						{
+							pitchers2[p2index][8] = pitchers2[p2index][8] + 1;
 							pitchers2[b1player[1]][8] = pitchers2[b1player[1]][8] + 1;
 							pitchers2[b2player[1]][8] = pitchers2[b2player[1]][8] + 1;
 							pitchers2[b3player[1]][8] = pitchers2[b3player[1]][8] + 1;
@@ -2236,6 +2249,7 @@ public class GameGenerator
 						}
 						else
 						{
+							pitchers1[p1index][8] = pitchers1[p1index][8] + 1;
 							pitchers1[b1player[1]][8] = pitchers1[b1player[1]][8] + 1;
 							pitchers1[b2player[1]][8] = pitchers1[b2player[1]][8] + 1;
 							pitchers1[b3player[1]][8] = pitchers1[b3player[1]][8] + 1;

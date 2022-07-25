@@ -2775,30 +2775,30 @@ public class GameGenerator
 				}
 			}
 			
-			if (pitchers1[3][4] == 1 && runs1 <= runs2)
+			if (pitchers1[4][4] == 1 && runs1 <= runs2)
 			{
-				pitchers1[3][4] = 0;
+				pitchers1[4][4] = 0;
 			}
 			
-			if (pitchers2[3][4] == 1 && runs2 <= runs1)
+			if (pitchers2[4][4] == 1 && runs2 <= runs1)
 			{
-				pitchers2[3][4] = 0;
+				pitchers2[4][4] = 0;
 			}
 			
 			if (inning >= 19 || (inning == 18 && runs2 > runs1))
 			{
 				if (!extras && runs1 != runs2 || (runs2 > runs1 && inning%2 == 0))
 				{
-					if (pitchers1[3][0] == 1)
+					if (pitchers1[4][0] == 1)
 					{
-						pitchers1[3][4] = 0;
-						pitchers1[3][5] = 0;
+						pitchers1[4][4] = 0;
+						pitchers1[4][5] = 0;
 					}
 					
-					if (pitchers2[3][0] == 1)
+					if (pitchers2[4][0] == 1)
 					{
-						pitchers2[3][4] = 0;
-						pitchers2[3][5] = 0;
+						pitchers2[4][4] = 0;
+						pitchers2[4][5] = 0;
 					}
 					
 					FullPrintLine("Innings: " + ((inning)/2));

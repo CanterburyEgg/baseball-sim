@@ -2540,6 +2540,22 @@ public class GameGenerator
 			
 			if (outs < 3)
 			{
+				String baseDebug = "";
+
+				if (base1)
+					baseDebug = "base1: [" + b1player[0] + "," + b1player[1] + "], ";
+				else
+					baseDebug = "base1: false, ";
+				if (base2)
+					baseDebug = baseDebug + "base2: [" + b2player[0] + "," + b2player[1] + "], ";
+				else
+					baseDebug = baseDebug + "base2: false, ";
+				if (base3)
+					baseDebug = baseDebug + "base3: [" + b3player[0] + "," + b3player[1] + "]";
+				else
+					baseDebug = baseDebug + "base3: false";
+
+				gameDebug.println(baseDebug);
 				FullPrintLine("base1: " + base1 + ", base2: " + base2 + ", base3: " + base3);
 				FullPrintLine("Score: " + runs1 + "-" + runs2 + "\n");
 			}

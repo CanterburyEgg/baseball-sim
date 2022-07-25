@@ -29,8 +29,8 @@ public class GameGenerator
 		int[][] team1 = new int[9][9]; //AB|R|H|2B|3B|HR|RBI|BB|SO
 		int[][] team2 = new int[9][9];
 		
-		int[][] pitchers1 = new int[4][13]; //W|L|G|GS|SV|SVO|OUT|H|R|HR|BB|SO|BF
-		int[][] pitchers2 = new int[4][13];
+		int[][] pitchers1 = new int[5][13]; //W|L|G|GS|SV|SVO|OUT|H|R|HR|BB|SO|BF
+		int[][] pitchers2 = new int[5][13];
 		
 		pitchers1[0][3] = 1;
 		pitchers2[0][3] = 1;

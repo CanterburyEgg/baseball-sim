@@ -248,11 +248,11 @@ public class GameGenerator
 					
 					if (inning % 2 == 1)
 					{
-						b1player = { t1index, p2index };
+						b1player = new int[] { t1index, p2index };
 					}
 					else
 					{
-						b1player = { t2index, p1index };
+						b1player = new int[] { t2index, p1index };
 					}
 				}
 				else if (base1 && !base2 && !base3)
@@ -263,12 +263,12 @@ public class GameGenerator
 					if (inning % 2 == 1)
 					{
 						b2player = b1player;
-						b1player = { t1index, p2index };
+						b1player = new int[] { t1index, p2index };
 					}
 					else
 					{
 						b2player = b1player;
-						b1player = { t2index, p1index };
+						b1player = new int[] { t2index, p1index };
 					}
 				}
 				else if (!base1 && base2 && !base3)
@@ -278,11 +278,11 @@ public class GameGenerator
 					
 					if (inning % 2 == 1)
 					{
-						b1player = { t1index, p2index };
+						b1player = new int[] { t1index, p2index };
 					}
 					else
 					{
-						b1player = { t2index, p1index };
+						b1player = new int[] { t2index, p1index };
 					}
 				}
 				else if (!base1 && !base2 && base3)
@@ -292,11 +292,11 @@ public class GameGenerator
 					
 					if (inning % 2 == 1)
 					{
-						b1player = { t1index, p2index };
+						b1player = new int[] { t1index, p2index };
 					}
 					else
 					{
-						b1player = { t2index, p1index };
+						b1player = new int[] { t2index, p1index };
 					}
 				}
 				else if (base1 && base2 && !base3)
@@ -309,13 +309,13 @@ public class GameGenerator
 					{
 						b3player = b2player;
 						b2player = b1player;
-						b1player = { t1index, p2index };
+						b1player = new int[] { t1index, p2index };
 					}
 					else
 					{
 						b3player = b2player;
 						b2player = b1player;
-						b1player = { t2index, p1index };
+						b1player = new int[] { t2index, p1index };
 					}
 				}
 				else if (base1 && !base2 && base3)
@@ -327,12 +327,12 @@ public class GameGenerator
 					if (inning % 2 == 1)
 					{
 						b2player = b1player;
-						b1player = { t1index, p2index };
+						b1player = new int[] { t1index, p2index };
 					}
 					else
 					{
 						b2player = b1player;
-						b1player = { t2index, p1index };
+						b1player = new int[] { t2index, p1index };
 					}
 				}
 				else if (!base1 && base2 && base3)
@@ -343,11 +343,11 @@ public class GameGenerator
 					
 					if (inning % 2 == 1)
 					{
-						b1player = { t1index, p2index };
+						b1player = new int[] { t1index, p2index };
 					}
 					else
 					{
-						b1player = { t2index, p1index };
+						b1player = new int[] { t2index, p1index };
 					}
 				}
 				else if (base1 && base2 && base3)
@@ -365,7 +365,7 @@ public class GameGenerator
 						team1[b3player[0]][1]++;
 						b3player = b2player;
 						b2player = b1player;
-						b1player = { t1index, p2index };
+						b1player = new int[] { t1index, p2index };
 
 						runs1++;
 					}
@@ -378,7 +378,7 @@ public class GameGenerator
 						team2[b3player[0]][1]++;
 						b3player = b2player;
 						b2player = b1player;
-						b1player = { t2index, p1index };
+						b1player = new int[] { t2index, p1index };
 
 						runs2++;
 					}
@@ -404,11 +404,11 @@ public class GameGenerator
 					
 					if (inning % 2 == 1)
 					{
-						b1player = { t1index, p2index };
+						b1player = new int[] { t1index, p2index };
 					}
 					else
 					{
-						b1player = { t2index, p1index };
+						b1player = new int[] { t2index, p1index };
 					}
 				}
 				else if (base1 && !base2 && !base3)
@@ -419,12 +419,12 @@ public class GameGenerator
 					if (inning % 2 == 1)
 					{
 						b2player = b1player;
-						b1player = { t1index, p2index };
+						b1player = new int[] { t1index, p2index };
 					}
 					else
 					{
 						b2player = b1player;
-						b1player = { t2index, p1index };
+						b1player = new int[] { t2index, p1index };
 					}
 				}
 				else if (!base1 && base2 && !base3)
@@ -434,11 +434,11 @@ public class GameGenerator
 					
 					if (inning % 2 == 1)
 					{
-						b1player = { t1index, p2index };
+						b1player = new int[] { t1index, p2index };
 					}
 					else
 					{
-						b1player = { t2index, p1index };
+						b1player = new int[] { t2index, p1index };
 					}
 				}
 				else if (!base1 && !base2 && base3)
@@ -448,11 +448,11 @@ public class GameGenerator
 					
 					if (inning % 2 == 1)
 					{
-						b1player = { t1index, p2index };
+						b1player = new int[] { t1index, p2index };
 					}
 					else
 					{
-						b1player = { t2index, p1index };
+						b1player = new int[] { t2index, p1index };
 					}
 				}
 				else if (base1 && base2 && !base3)
@@ -465,13 +465,13 @@ public class GameGenerator
 					{
 						b3player = b2player;
 						b2player = b1player;
-						b1player = { t1index, p2index };
+						b1player = new int[] { t1index, p2index };
 					}
 					else
 					{
 						b3player = b2player;
 						b2player = b1player;
-						b1player = { t2index, p1index };
+						b1player = new int[] { t2index, p1index };
 					}
 				}
 				else if (base1 && !base2 && base3)
@@ -483,12 +483,12 @@ public class GameGenerator
 					if (inning % 2 == 1)
 					{
 						b2player = b1player;
-						b1player = { t1index, p2index };
+						b1player = new int[] { t1index, p2index };
 					}
 					else
 					{
 						b2player = b1player;
-						b1player = { t2index, p1index };
+						b1player = new int[] { t2index, p1index };
 					}
 				}
 				else if (!base1 && base2 && base3)
@@ -499,11 +499,11 @@ public class GameGenerator
 					
 					if (inning % 2 == 1)
 					{
-						b1player = { t1index, p2index };
+						b1player = new int[] { t1index, p2index };
 					}
 					else
 					{
-						b1player = { t2index, p1index };
+						b1player = new int[] { t2index, p1index };
 					}
 				}
 				else if (base1 && base2 && base3)
@@ -521,7 +521,7 @@ public class GameGenerator
 						team1[b3player[0]][1]++;
 						b3player = b2player;
 						b2player = b1player;
-						b1player = { t1index, p2index };
+						b1player = new int[] { t1index, p2index };
 
 						runs1++;
 					}
@@ -534,7 +534,7 @@ public class GameGenerator
 						team2[b3player[0]][1]++;
 						b3player = b2player;
 						b2player = b1player;
-						b1player = { t2index, p1index };
+						b1player = new int[] { t2index, p1index };
 
 						runs2++;
 					}
@@ -606,11 +606,11 @@ public class GameGenerator
 						{
 							if (inning % 2 == 1)
 							{
-								b1player = { t1index, p2index };
+								b1player = new int[] { t1index, p2index };
 							}
 							else
 							{
-								b1player = { t2index, p1index };
+								b1player = new int[] { t2index, p1index };
 							}
 							outs++;
 							
@@ -696,14 +696,14 @@ public class GameGenerator
 								pitchers2[p2index][6]++;
 
 								b2player = b1player;
-								b1player = { t1index, p2index };
+								b1player = new int[] { t1index, p2index };
 							}
 							else
 							{
 								pitchers1[p1index][6]++;
 
 								b2player = b1player;
-								b1player = { t2index, p1index };
+								b1player = new int[] { t2index, p1index };
 							}
 						}
 						else if (rng == 1)
@@ -735,14 +735,14 @@ public class GameGenerator
 								pitchers2[p2index][6]++;
 
 								b3player = b2player;
-								b1player = { t1index, p2index };
+								b1player = new int[] { t1index, p2index };
 							}
 							else
 							{
 								pitchers1[p1index][6]++;
 
 								b3player = b2player;
-								b1player = { t2index, p1index };
+								b1player = new int[] { t2index, p1index };
 							}
 						}
 						else
@@ -772,13 +772,13 @@ public class GameGenerator
 							{
 								pitchers2[p2index][6]++;
 
-								b1player = { t1index, p2index };
+								b1player = new int[] { t1index, p2index };
 							}
 							else
 							{
 								pitchers1[p1index][6]++;
 
-								b1player = { t2index, p1index };
+								b1player = new int[] { t2index, p1index };
 							}
 						}
 						else if (rng == 1)
@@ -946,7 +946,7 @@ public class GameGenerator
 
 								b3player = b2player;
 								b2player = b1player;
-								b1player = { t1index, p2index };
+								b1player = new int[] { t1index, p2index };
 							}
 							else
 							{
@@ -954,7 +954,7 @@ public class GameGenerator
 
 								b3player = b2player;
 								b2player = b1player;
-								b1player = { t2index, p1index };							
+								b1player = new int[] { t2index, p1index };							
 							}
 						}
 						else if (rng == 1)
@@ -1191,9 +1191,9 @@ public class GameGenerator
 						base3 = false;
 						
 						if (inning % 2 == 1)
-							b1player = { t1index, p2index };
+							b1player = new int[] { t1index, p2index };
 						else
-							b1player = { t2index, p1index };
+							b1player = new int[] { t2index, p1index };
 					}
 					else if (base1 && !base2 && !base3)
 					{
@@ -1207,12 +1207,12 @@ public class GameGenerator
 							if (inning % 2 == 1)
 							{
 								b2player = b1player;
-								b1player = { t1index, p2index };
+								b1player = new int[] { t1index, p2index };
 							}
 							else
 							{
 								b2player = b1player;
-								b1player = { t2index, p1index };
+								b1player = new int[] { t2index, p1index };
 							}
 						}
 						else
@@ -1224,12 +1224,12 @@ public class GameGenerator
 							if (inning % 2 == 1)
 							{
 								b3player = b1player;
-								b1player = { t1index, p2index };
+								b1player = new int[] { t1index, p2index };
 							}
 							else
 							{
 								b3player = b1player;
-								b1player = { t2index, p1index };
+								b1player = new int[] { t2index, p1index };
 							}
 						}
 					}
@@ -1245,12 +1245,12 @@ public class GameGenerator
 							if (inning % 2 == 1)
 							{
 								b3player = b2player;
-								b1player = { t1index, p2index };
+								b1player = new int[] { t1index, p2index };
 							}
 							else
 							{
 								b3player = b2player;
-								b1player = { t2index, p1index };
+								b1player = new int[] { t2index, p1index };
 							}
 						}
 						else
@@ -1265,7 +1265,7 @@ public class GameGenerator
 
 								team1[b2player[0]][1]++;
 								team1[t1index][6]++;
-								b1player = { t1index, p2index };
+								b1player = new int[] { t1index, p2index };
 
 								runs1++;
 							}
@@ -1275,7 +1275,7 @@ public class GameGenerator
 
 								team2[b2player[0]][1]++;
 								team2[t2index][6]++;
-								b1player = { t2index, p1index };
+								b1player = new int[] { t2index, p1index };
 
 								runs2++;
 							}	
@@ -1293,7 +1293,7 @@ public class GameGenerator
 
 							team1[b3player[0]][1]++;
 							team1[t1index][6]++;
-							b1player = { t1index, p2index };
+							b1player = new int[] { t1index, p2index };
 
 							runs1++;
 						}
@@ -1303,7 +1303,7 @@ public class GameGenerator
 
 							team2[b3player[0]][1]++;
 							team2[t2index][6]++;
-							b1player = { t2index, p1index };
+							b1player = new int[] { t2index, p1index };
 
 							runs2++;
 						}
@@ -1321,13 +1321,13 @@ public class GameGenerator
 							{
 								b3player = b2player;
 								b2player = b1player;
-								b1player = { t1index, p2index };
+								b1player = new int[] { t1index, p2index };
 							}
 							else
 							{
 								b3player = b2player;
 								b2player = b1player;
-								b1player = { t2index, p1index };
+								b1player = new int[] { t2index, p1index };
 							}
 						}
 						else if (rng == 1 || rng == 2)
@@ -1343,7 +1343,7 @@ public class GameGenerator
 								team1[b2player[0]][1]++;
 								team1[t1index][6]++;
 								b2player = b1player;
-								b1player = { t1index, p2index };
+								b1player = new int[] { t1index, p2index };
 
 								runs1++;
 							}
@@ -1354,7 +1354,7 @@ public class GameGenerator
 								team2[b2player[0]][1]++;
 								team2[t2index][6]++;
 								b2player = b1player;
-								b1player = { t2index, p1index };
+								b1player = new int[] { t2index, p1index };
 
 								runs2++;
 							}
@@ -1372,7 +1372,7 @@ public class GameGenerator
 								team1[b2player[0]][1]++;
 								team1[t1index][6]++;
 								b3player = b1player;
-								b1player = { t1index, p2index };
+								b1player = new int[] { t1index, p2index };
 
 								runs1++;
 							}
@@ -1383,7 +1383,7 @@ public class GameGenerator
 								team2[b2player[0]][1]++;
 								team2[t2index][6]++;
 								b3player = b1player;
-								b1player = { t2index, p1index };
+								b1player = new int[] { t2index, p1index };
 
 								runs2++;
 							}		
@@ -1405,7 +1405,7 @@ public class GameGenerator
 								team1[b3player[0]][1]++;
 								team1[t1index][6]++;
 								b2player = b1player;
-								b1player = { t1index, p2index };
+								b1player = new int[] { t1index, p2index };
 
 								runs1++;
 							}
@@ -1416,7 +1416,7 @@ public class GameGenerator
 								team2[b3player[0]][1]++;
 								team2[t2index][6]++;
 								b2player = b1player;
-								b1player = { t2index, p1index };
+								b1player = new int[] { t2index, p1index };
 
 								runs2++;
 							}				
@@ -1434,7 +1434,7 @@ public class GameGenerator
 								team1[b3player[0]][1]++;
 								team1[t1index][6]++;
 								b3player = b1player;
-								b1player = { t1index, p2index };
+								b1player = new int[] { t1index, p2index };
 
 								runs1++;
 							}
@@ -1445,7 +1445,7 @@ public class GameGenerator
 								team2[b3player[0]][1]++;
 								team2[t2index][6]++;
 								b3player = b1player;
-								b1player = { t2index, p1index };
+								b1player = new int[] { t2index, p1index };
 
 								runs2++;
 							}	
@@ -1467,7 +1467,7 @@ public class GameGenerator
 								team1[b3player[0]][1]++;
 								team1[t1index][6]++;
 								b3player = b2player;
-								b1player = { t1index, p2index };
+								b1player = new int[] { t1index, p2index };
 
 								runs1++;
 							}
@@ -1478,7 +1478,7 @@ public class GameGenerator
 								team2[b3player[0]][1]++;
 								team2[t2index][6]++;
 								b3player = b2player;
-								b1player = { t2index, p1index };
+								b1player = new int[] { t2index, p1index };
 
 								runs2++;
 							}				
@@ -1497,7 +1497,7 @@ public class GameGenerator
 								team1[b2player[0]][1]++;
 								team1[b3player[0]][1]++;
 								team1[t1index][6] = team1[t1index][6] + 2;
-								b1player = { t1index, p2index };
+								b1player = new int[] { t1index, p2index };
 
 								runs1 = runs1 + 2;
 							}
@@ -1509,7 +1509,7 @@ public class GameGenerator
 								team2[b2player[0]][1]++;
 								team2[b3player[0]][1]++;
 								team2[t2index][6] = team2[t2index][6] + 2;
-								b1player = { t2index, p1index };
+								b1player = new int[] { t2index, p1index };
 
 								runs2 = runs2 + 2;
 							}	
@@ -1532,7 +1532,7 @@ public class GameGenerator
 								team1[t1index][6]++;
 								b3player = b2player;
 								b2player = b1player;
-								b1player = { t1index, p2index };
+								b1player = new int[] { t1index, p2index };
 
 								runs1++;
 							}
@@ -1544,7 +1544,7 @@ public class GameGenerator
 								team2[t2index][6]++;
 								b3player = b2player;
 								b2player = b1player;
-								b1player = { t2index, p1index };
+								b1player = new int[] { t2index, p1index };
 
 								runs2++;
 							}				
@@ -1564,7 +1564,7 @@ public class GameGenerator
 								team1[b3player[0]][1]++;
 								team1[t1index][6] = team1[t1index][6] + 2;
 								b2player = b1player;
-								b1player = { t1index, p2index };
+								b1player = new int[] { t1index, p2index };
 
 								runs1 = runs1 + 2;
 							}
@@ -1577,7 +1577,7 @@ public class GameGenerator
 								team2[b3player[0]][1]++;
 								team2[t2index][6] = team2[t2index][6] + 2;
 								b2player = b1player;
-								b1player = { t2index, p1index };
+								b1player = new int[] { t2index, p1index };
 
 								runs2 = runs2 + 2;
 							}
@@ -1597,7 +1597,7 @@ public class GameGenerator
 								team1[b3player[0]][1]++;
 								team1[t1index][6] = team1[t1index][6] + 2;
 								b3player = b1player;
-								b1player = { t1index, p2index };
+								b1player = new int[] { t1index, p2index };
 
 								runs1 = runs1 + 2;
 							}
@@ -1610,7 +1610,7 @@ public class GameGenerator
 								team2[b3player[0]][1]++;
 								team2[t2index][6] = team2[t2index][6] + 2;
 								b3player = b1player;
-								b1player = { t2index, p1index };
+								b1player = new int[] { t2index, p1index };
 
 								runs2 = runs2 + 2;
 							}
@@ -1649,11 +1649,11 @@ public class GameGenerator
 						
 						if (inning % 2 == 1)
 						{
-							b2player = { t1index, p2index };
+							b2player = new int[] { t1index, p2index };
 						}
 						else
 						{
-							b2player = { t2index, p1index };
+							b2player = new int[] { t2index, p1index };
 						}
 					}
 					else if (base1 && !base2 && !base3)
@@ -1668,12 +1668,12 @@ public class GameGenerator
 							if (inning % 2 == 1)
 							{
 								b3player = b1player;
-								b2player = { t1index, p2index };
+								b2player = new int[] { t1index, p2index };
 							}
 							else
 							{
 								b3player = b1player;
-								b2player = { t2index, p1index };
+								b2player = new int[] { t2index, p1index };
 							}
 						}
 						else
@@ -1688,7 +1688,7 @@ public class GameGenerator
 
 								team1[b1player[0]][1]++;
 								team1[t1index][6]++;
-								b2player = { t1index, p2index };
+								b2player = new int[] { t1index, p2index };
 
 								runs1++;
 							}
@@ -1698,7 +1698,7 @@ public class GameGenerator
 
 								team2[b1player[0]][1]++;
 								team2[t2index][6]++;
-								b2player = { t2index, p1index };
+								b2player = new int[] { t2index, p1index };
 
 								runs2++;
 							}	
@@ -1716,7 +1716,7 @@ public class GameGenerator
 
 							team1[b2player[0]][1]++;
 							team1[t1index][6]++;
-							b2player = { t1index, p2index };
+							b2player = new int[] { t1index, p2index };
 
 							runs1++;
 						}
@@ -1726,7 +1726,7 @@ public class GameGenerator
 
 							team2[b2player[0]][1]++;
 							team2[t2index][6]++;
-							b2player = { t2index, p1index };
+							b2player = new int[] { t2index, p1index };
 
 							runs2++;
 						}			
@@ -1743,7 +1743,7 @@ public class GameGenerator
 
 							team1[b3player[0]][1]++;
 							team1[t1index][6]++;
-							b2player = { t1index, p2index };
+							b2player = new int[] { t1index, p2index };
 
 							runs1++;
 						}
@@ -1753,7 +1753,7 @@ public class GameGenerator
 
 							team2[b3player[0]][1]++;
 							team2[t2index][6]++;
-							b2player = { t2index, p1index };
+							b2player = new int[] { t2index, p1index };
 
 							runs2++;
 						}		
@@ -1774,7 +1774,7 @@ public class GameGenerator
 								team1[b2player[0]][1]++;
 								team1[t1index][6]++;
 								b3player = b1player;
-								b2player = { t1index, p2index };
+								b2player = new int[] { t1index, p2index };
 
 								runs1++;
 							}
@@ -1785,7 +1785,7 @@ public class GameGenerator
 								team2[b2player[0]][1]++;
 								team2[t2index][6]++;
 								b3player = b1player;
-								b2player = { t2index, p1index };
+								b2player = new int[] { t2index, p1index };
 
 								runs2++;
 							}	
@@ -1804,7 +1804,7 @@ public class GameGenerator
 								team1[b1player[0]][1]++;
 								team1[b2player[0]][1]++;
 								team1[t1index][6] = team1[t1index][6] + 2;
-								b2player = { t1index, p2index };
+								b2player = new int[] { t1index, p2index };
 
 								runs1 = runs1 + 2;
 							}
@@ -1816,7 +1816,7 @@ public class GameGenerator
 								team2[b1player[0]][1]++;
 								team2[b2player[0]][1]++;
 								team2[t2index][6] = team2[t2index][6] + 2;
-								b2player = { t2index, p1index };
+								b2player = new int[] { t2index, p1index };
 
 								runs2 = runs2 + 2;
 							}	
@@ -1838,7 +1838,7 @@ public class GameGenerator
 								team1[b3player[0]][1]++;
 								team1[t1index][6]++;
 								b3player = b1player;
-								b2player = { t1index, p2index };
+								b2player = new int[] { t1index, p2index };
 
 								runs1++;
 							}
@@ -1849,7 +1849,7 @@ public class GameGenerator
 								team2[b3player[0]][1]++;
 								team2[t2index][6]++;
 								b3player = b1player;
-								b2player = { t2index, p1index };
+								b2player = new int[] { t2index, p1index };
 
 								runs2++;
 							}
@@ -1868,7 +1868,7 @@ public class GameGenerator
 								team1[b1player[0]][1]++;
 								team1[b3player[0]][1]++;
 								team1[t1index][6] = team1[t1index][6] + 2;
-								b2player = { t1index, p2index };
+								b2player = new int[] { t1index, p2index };
 
 								runs1 = runs1 + 2;
 							}
@@ -1880,7 +1880,7 @@ public class GameGenerator
 								team2[b1player[0]][1]++;
 								team2[b3player[0]][1]++;
 								team2[t2index][6] = team2[t2index][6] + 2;
-								b2player = { t2index, p1index };
+								b2player = new int[] { t2index, p1index };
 
 								runs2 = runs2 + 2;
 							}	
@@ -1900,7 +1900,7 @@ public class GameGenerator
 							team1[b2player[0]][1]++;
 							team1[b3player[0]][1]++;
 							team1[t1index][6] = team1[t1index][6] + 2;
-							b2player = { t1index, p2index };
+							b2player = new int[] { t1index, p2index };
 
 							runs1 = runs1 + 2;
 						}
@@ -1912,7 +1912,7 @@ public class GameGenerator
 							team2[b2player[0]][1]++;
 							team2[b3player[0]][1]++;
 							team2[t2index][6] = team2[t2index][6] + 2;
-							b2player = { t2index, p1index };
+							b2player = new int[] { t2index, p1index };
 
 							runs2 = runs2 + 2;
 						}	
@@ -1935,7 +1935,7 @@ public class GameGenerator
 								team1[b3player[0]][1]++;
 								team1[t1index][6] = team1[t1index][6] + 2;
 								b3player = b1player;
-								b2player = { t1index, p2index };
+								b2player = new int[] { t1index, p2index };
 
 								runs1 = runs1 + 2;
 							}
@@ -1948,7 +1948,7 @@ public class GameGenerator
 								team2[b3player[0]][1]++;
 								team2[t2index][6] = team2[t2index][6] + 2;
 								b3player = b1player;
-								b2player = { t2index, p1index };
+								b2player = new int[] { t2index, p1index };
 
 								runs2 = runs2 + 2;
 							}		
@@ -1969,7 +1969,7 @@ public class GameGenerator
 								team1[b2player[0]][1]++;
 								team1[b3player[0]][1]++;
 								team1[t1index][6] = team1[t1index][6] + 3;
-								b2player = { t1index, p2index };
+								b2player = new int[] { t1index, p2index };
 
 								runs1 = runs1 + 3;
 							}
@@ -1983,7 +1983,7 @@ public class GameGenerator
 								team2[b2player[0]][1]++;
 								team2[b3player[0]][1]++;
 								team2[t2index][6] = team2[t2index][6] + 3;
-								b2player = { t2index, p1index };
+								b2player = new int[] { t2index, p1index };
 
 								runs2 = runs2 + 3;
 							}
@@ -2281,11 +2281,11 @@ public class GameGenerator
 						
 						if (inning % 2 == 1)
 						{
-							b3player = { t1index, p2index };
+							b3player = new int[] { t1index, p2index };
 						}
 						else
 						{
-							b3player = { t2index, p1index };
+							b3player = new int[] { t2index, p1index };
 						}
 					}
 					else if (base1 && !base2 && !base3)
@@ -2300,7 +2300,7 @@ public class GameGenerator
 
 							team1[b1player[0]][1]++;
 							team1[t1index][6]++;
-							b3player = { t1index, p2index };
+							b3player = new int[] { t1index, p2index };
 
 							runs1++;
 						}
@@ -2310,7 +2310,7 @@ public class GameGenerator
 
 							team2[b1player[0]][1]++;
 							team2[t2index][6]++;
-							b3player = { t2index, p1index };
+							b3player = new int[] { t2index, p1index };
 
 							runs2++;
 						}		
@@ -2327,7 +2327,7 @@ public class GameGenerator
 
 							team1[b2player[0]][1]++;
 							team1[t1index][6]++;
-							b3player = { t1index, p2index };
+							b3player = new int[] { t1index, p2index };
 
 							runs1++;
 						}
@@ -2337,7 +2337,7 @@ public class GameGenerator
 
 							team2[b2player[0]][1]++;
 							team2[t2index][6]++;
-							b3player = { t2index, p1index };
+							b3player = new int[] { t2index, p1index };
 
 							runs2++;
 						}		
@@ -2354,7 +2354,7 @@ public class GameGenerator
 
 							team1[b3player[0]][1]++;
 							team1[t1index][6]++;
-							b3player = { t1index, p2index };
+							b3player = new int[] { t1index, p2index };
 
 							runs1++;
 						}
@@ -2364,7 +2364,7 @@ public class GameGenerator
 
 							team2[b3player[0]][1]++;
 							team2[t2index][6]++;
-							b3player = { t2index, p1index };
+							b3player = new int[] { t2index, p1index };
 
 							runs2++;
 						}
@@ -2383,7 +2383,7 @@ public class GameGenerator
 							team1[b1player[0]][1]++;
 							team1[b2player[0]][1]++;
 							team1[t1index][6] = team1[t1index][6] + 2;
-							b3player = { t1index, p2index };
+							b3player = new int[] { t1index, p2index };
 
 							runs1 = runs1 + 2;
 						}
@@ -2395,7 +2395,7 @@ public class GameGenerator
 							team2[b1player[0]][1]++;
 							team2[b2player[0]][1]++;
 							team2[t2index][6] = team2[t2index][6] + 2;
-							b3player = { t2index, p1index };
+							b3player = new int[] { t2index, p1index };
 
 							runs2 = runs2 + 2;
 						}	
@@ -2414,7 +2414,7 @@ public class GameGenerator
 							team1[b1player[0]][1]++;
 							team1[b3player[0]][1]++;
 							team1[t1index][6] = team1[t1index][6] + 2;
-							b3player = { t1index, p2index };
+							b3player = new int[] { t1index, p2index };
 
 							runs1 = runs1 + 2;
 						}
@@ -2426,7 +2426,7 @@ public class GameGenerator
 							team2[b1player[0]][1]++;
 							team2[b3player[0]][1]++;
 							team2[t2index][6] = team2[t2index][6] + 2;
-							b3player = { t2index, p1index };
+							b3player = new int[] { t2index, p1index };
 
 							runs2 = runs2 + 2;
 						}		
@@ -2445,7 +2445,7 @@ public class GameGenerator
 							team1[b2player[0]][1]++;
 							team1[b3player[0]][1]++;
 							team1[t1index][6] = team1[t1index][6] + 2;
-							b3player = { t1index, p2index };
+							b3player = new int[] { t1index, p2index };
 
 							runs1 = runs1 + 2;
 						}
@@ -2457,7 +2457,7 @@ public class GameGenerator
 							team2[b2player[0]][1]++;
 							team2[b3player[0]][1]++;
 							team2[t2index][6] = team2[t2index][6] + 2;
-							b3player = { t2index, p1index };
+							b3player = new int[] { t2index, p1index };
 
 							runs2 = runs2 + 2;
 						}
@@ -2478,7 +2478,7 @@ public class GameGenerator
 							team1[b2player[0]][1]++;
 							team1[b3player[0]][1]++;
 							team1[t1index][6] = team1[t1index][6] + 3;
-							b3player = { t1index, p2index };
+							b3player = new int[] { t1index, p2index };
 
 							runs1 = runs1 + 3;
 						}
@@ -2492,7 +2492,7 @@ public class GameGenerator
 							team2[b2player[0]][1]++;
 							team2[b3player[0]][1]++;
 							team2[t2index][6] = team2[t2index][6] + 3;
-							b3player = { t2index, p1index };
+							b3player = new int[] { t2index, p1index };
 
 							runs2 = runs2 + 3;
 						}			

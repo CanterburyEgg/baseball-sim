@@ -2702,8 +2702,8 @@ public class GameGenerator
 				if (inning == 17 && runs2 > runs1 && runs2 - runs1 <= 3 && p2index < 4)
 				{
 					p2index = 4;
-					pitchers2[3][4] = 1;
-					pitchers2[3][5] = 1;
+					pitchers2[4][4] = 1;
+					pitchers2[4][5] = 1;
 					FullPrintLine("Team 2 pitcher change to " + team2pitchers[p2index] + "\n");
 					pitchswapA = false;
 					pitchswapC = false;
@@ -2713,8 +2713,8 @@ public class GameGenerator
 				if (inning == 18 && runs1 > runs2 && runs1 - runs2 <= 3 && p1index < 4)
 				{
 					p1index = 4;
-					pitchers1[3][4] = 1;
-					pitchers1[3][5] = 1;
+					pitchers1[4][4] = 1;
+					pitchers1[4][5] = 1;
 					FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
 					pitchswapB = false;
 					pitchswapD = false;

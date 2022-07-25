@@ -1,0 +1,785 @@
+TOP INNING 1
+
+Ethan Spencer: rng1 = 1 + 13 - 12 - 1 = 1
+Strikeout
+Team 2 pitcher (Stanley Collins): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Randall Hodge: rng1 = 84 + 15 - 12 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Stanley Collins): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Serafín Sancho: rng1 = 62 + 13 - 12 - 1 = 62
+rng2 = 94 + 7 - 9 - 1 = 91
+Flyout
+Team 2 pitcher (Stanley Collins): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Max Lawrence: rng1 = 85 + 6 - 12 - 1 = 78
+rng2 = 77 + 10 - 9 - 1 = 77
+Double
+Team 2 pitcher (Stanley Collins): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: true, base3: true
+Score: 0-0
+
+Desharious Roberson: rng1 = 82 + 10 - 12 - 1 = 79
+rng2 = 82 + 7 - 9 - 1 = 79
+Home run
+Team 2 pitcher (Stanley Collins): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Josh Poole: rng1 = 78 + 8 - 12 - 1 = 73
+rng2 = 10 + 8 - 9 - 1 = 8
+Single
+Team 2 pitcher (Stanley Collins): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Pedro Acosta: rng1 = 83 + 7 - 12 - 1 = 77
+rng2 = 70 + 9 - 9 - 1 = 69
+Double
+Team 2 pitcher (Stanley Collins): 7 batters faced, 4 runs allowed = 7 + 10.0 = 17.0, outs: 2
+
+base1: false, base2: true, base3: false
+Score: 4-0
+
+Stanley Soto: rng1 = 93 + 9 - 12 - 1 = 89
+Walk
+Team 2 pitcher (Stanley Collins): 8 batters faced, 4 runs allowed = 8 + 10.0 = 18.0, outs: 2
+
+base1: true, base2: true, base3: false
+Score: 4-0
+
+Reese Ross: rng1 = 40 + 7 - 12 - 1 = 34
+rng2 = 32 + 7 - 9 - 1 = 29
+Groundout
+Team 2 pitcher (Stanley Collins): 9 batters faced, 4 runs allowed = 9 + 10.0 = 19.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Tommy Baxter: rng1 = 82 + 12 - 8 + 1 = 87
+Walk
+Team 1 pitcher (Kase Daisuke): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Caleb Harrington: rng1 = 58 + 14 - 8 + 1 = 65
+rng2 = 94 + 7 - 9 + 1 = 93
+Flyout
+Team 1 pitcher (Kase Daisuke): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Emiel Ware: rng1 = 74 + 10 - 8 + 1 = 77
+rng2 = 87 + 9 - 9 + 1 = 88
+Double
+Team 1 pitcher (Kase Daisuke): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: true, base3: true
+Score: 4-0
+
+Isaac Secada: rng1 = 7 + 4 - 8 + 1 = 4
+Strikeout
+Team 1 pitcher (Kase Daisuke): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: true, base3: true
+Score: 4-0
+
+Blake Welsh: rng1 = 45 + 12 - 8 + 1 = 50
+rng2 = 99 + 6 - 9 + 1 = 97
+Flyout
+Team 1 pitcher (Kase Daisuke): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+TOP INNING 2
+
+Ethan Spencer: rng1 = 76 + 13 - 12 - 1 = 76
+rng2 = 93 + 15 - 9 - 1 = 98
+Home run
+Team 2 pitcher (Stanley Collins): 10 batters faced, 5 runs allowed = 10 + 12.5 = 22.5, outs: 0
+
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Randall Hodge: rng1 = 31 + 15 - 12 - 1 = 33
+rng2 = 9 + 9 - 9 - 1 = 8
+Groundout
+Team 2 pitcher (Stanley Collins): 11 batters faced, 5 runs allowed = 11 + 12.5 = 23.5, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Serafín Sancho: rng1 = 64 + 13 - 12 - 1 = 64
+rng2 = 26 + 7 - 9 - 1 = 23
+Groundout
+Team 2 pitcher (Stanley Collins): 12 batters faced, 5 runs allowed = 12 + 12.5 = 24.5, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Max Lawrence: rng1 = 56 + 6 - 12 - 1 = 49
+rng2 = 20 + 10 - 9 - 1 = 20
+Groundout
+Team 2 pitcher (Stanley Collins): 13 batters faced, 5 runs allowed = 13 + 12.5 = 25.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Ethan Hayes: rng1 = 74 + 9 - 8 + 1 = 76
+rng2 = 44 + 7 - 9 + 1 = 43
+Single
+Team 1 pitcher (Kase Daisuke): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 5-0
+
+Max Davis: rng1 = 69 + 7 - 8 + 1 = 69
+Walk
+Team 1 pitcher (Kase Daisuke): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 0
+
+base1: true, base2: true, base3: false
+Score: 5-0
+
+Umberto Santángel: rng1 = 12 + 5 - 8 + 1 = 10
+Strikeout
+Team 1 pitcher (Kase Daisuke): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: true, base2: true, base3: false
+Score: 5-0
+
+Javier Guillén: rng1 = 89 + 5 - 8 + 1 = 87
+Walk
+Team 1 pitcher (Kase Daisuke): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: true, base2: true, base3: true
+Score: 5-0
+
+Tommy Baxter: rng1 = 40 + 12 - 8 + 1 = 45
+rng2 = 96 + 11 - 9 + 1 = 99
+Flyout
+Team 1 pitcher (Kase Daisuke): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: true, base2: false, base3: true
+Score: 5-1
+
+Caleb Harrington: rng1 = 58 + 14 - 8 + 1 = 65
+rng2 = 87 + 7 - 9 + 1 = 86
+Flyout
+Team 1 pitcher (Kase Daisuke): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-1
+
+-----------------------
+
+TOP INNING 3
+
+Desharious Roberson: rng1 = 50 + 10 - 12 - 1 = 47
+rng2 = 76 + 7 - 9 - 1 = 73
+Flyout
+Team 2 pitcher (Stanley Collins): 14 batters faced, 5 runs allowed = 14 + 12.5 = 26.5, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Josh Poole: rng1 = 32 + 8 - 12 - 1 = 27
+Strikeout
+Team 2 pitcher (Stanley Collins): 15 batters faced, 5 runs allowed = 15 + 12.5 = 27.5, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Pedro Acosta: rng1 = 13 + 7 - 12 - 1 = 7
+Strikeout
+Team 2 pitcher (Stanley Collins): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Emiel Ware: rng1 = 40 + 10 - 8 + 1 = 43
+rng2 = 39 + 9 - 9 + 1 = 40
+Groundout
+Team 1 pitcher (Kase Daisuke): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Isaac Secada: rng1 = 92 + 4 - 8 + 1 = 89
+Walk
+Team 1 pitcher (Kase Daisuke): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 5-1
+
+Blake Welsh: rng1 = 26 + 12 - 8 + 1 = 31
+rng2 = 1 + 6 - 9 + 1 = -1
+Groundout
+Team 1 pitcher (Kase Daisuke): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: false, base2: true, base3: false
+Score: 5-1
+
+Ethan Hayes: rng1 = 49 + 9 - 8 + 1 = 51
+rng2 = 44 + 7 - 9 + 1 = 43
+Groundout
+Team 1 pitcher (Kase Daisuke): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-1
+
+-----------------------
+
+TOP INNING 4
+
+Stanley Soto: rng1 = 55 + 9 - 12 - 1 = 51
+rng2 = 41 + 5 - 9 - 1 = 36
+Groundout
+Team 2 pitcher (Stanley Collins): 17 batters faced, 5 runs allowed = 17 + 12.5 = 29.5, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Reese Ross: rng1 = 25 + 7 - 12 - 1 = 19
+Strikeout
+Team 2 pitcher (Stanley Collins): 18 batters faced, 5 runs allowed = 18 + 12.5 = 30.5, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Ethan Spencer: rng1 = 65 + 13 - 12 - 1 = 65
+rng2 = 67 + 15 - 9 - 1 = 72
+Flyout
+Team 2 pitcher (Stanley Collins): 19 batters faced, 5 runs allowed = 19 + 12.5 = 31.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Max Davis: rng1 = 84 + 7 - 8 + 1 = 84
+rng2 = 24 + 6 - 9 + 1 = 22
+Single
+Team 1 pitcher (Kase Daisuke): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 5-1
+
+Umberto Santángel: rng1 = 30 + 5 - 8 + 1 = 28
+rng2 = 91 + 7 - 9 + 1 = 90
+Flyout
+Team 1 pitcher (Kase Daisuke): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 5-1
+
+Javier Guillén: rng1 = 57 + 5 - 8 + 1 = 55
+rng2 = 93 + 7 - 9 + 1 = 92
+Flyout
+Team 1 pitcher (Kase Daisuke): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 5-1
+
+Tommy Baxter: rng1 = 34 + 12 - 8 + 1 = 39
+rng2 = 23 + 11 - 9 + 1 = 26
+Groundout
+Team 1 pitcher (Kase Daisuke): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-1
+
+-----------------------
+
+TOP INNING 5
+
+Team 2 pitcher change to Iván Curbelo
+
+Randall Hodge: rng1 = 75 + 15 - 11 - 1 = 78
+rng2 = 54 + 9 - 10 - 1 = 52
+Single
+Team 2 pitcher (Iván Curbelo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 5-1
+
+Serafín Sancho: rng1 = 37 + 13 - 11 - 1 = 38
+rng2 = 60 + 7 - 10 - 1 = 56
+Lineout
+Team 2 pitcher (Iván Curbelo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 5-1
+
+Max Lawrence: rng1 = 46 + 6 - 11 - 1 = 40
+rng2 = 89 + 10 - 10 - 1 = 88
+Flyout
+Team 2 pitcher (Iván Curbelo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 5-1
+
+Desharious Roberson: rng1 = 3 + 10 - 11 - 1 = 1
+Strikeout
+Team 2 pitcher (Iván Curbelo): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-1
+
+-----------------------
+
+BOTTOM INNING 5
+
+Caleb Harrington: rng1 = 28 + 14 - 8 + 1 = 35
+rng2 = 70 + 7 - 9 + 1 = 69
+Flyout
+Team 1 pitcher (Kase Daisuke): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Emiel Ware: rng1 = 28 + 10 - 8 + 1 = 31
+rng2 = 81 + 9 - 9 + 1 = 82
+Flyout
+Team 1 pitcher (Kase Daisuke): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Isaac Secada: rng1 = 10 + 4 - 8 + 1 = 7
+Strikeout
+Team 1 pitcher (Kase Daisuke): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-1
+
+-----------------------
+
+TOP INNING 6
+
+Josh Poole: rng1 = 64 + 8 - 11 - 1 = 60
+rng2 = 56 + 8 - 10 - 1 = 53
+Lineout
+Team 2 pitcher (Iván Curbelo): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Pedro Acosta: rng1 = 82 + 7 - 11 - 1 = 77
+rng2 = 6 + 9 - 10 - 1 = 4
+Single
+Team 2 pitcher (Iván Curbelo): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 5-1
+
+Stanley Soto: rng1 = 83 + 9 - 11 - 1 = 80
+rng2 = 45 + 5 - 10 - 1 = 39
+Single
+Team 2 pitcher (Iván Curbelo): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: true, base2: true, base3: false
+Score: 5-1
+
+Reese Ross: rng1 = 77 + 7 - 11 - 1 = 72
+rng2 = 28 + 7 - 10 - 1 = 24
+Single
+Team 2 pitcher (Iván Curbelo): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: true, base2: false, base3: true
+Score: 6-1
+
+Ethan Spencer: rng1 = 38 + 13 - 11 - 1 = 39
+rng2 = 93 + 15 - 10 - 1 = 97
+Flyout
+Team 2 pitcher (Iván Curbelo): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 7-1
+
+Team 2 pitcher change to Abraham Pace
+
+Randall Hodge: rng1 = 79 + 15 - 8 - 1 = 85
+rng2 = 63 + 9 - 10 - 1 = 61
+Single
+Team 2 pitcher (Abraham Pace): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: true, base2: false, base3: true
+Score: 7-1
+
+Serafín Sancho: rng1 = 28 + 13 - 8 - 1 = 32
+rng2 = 84 + 7 - 10 - 1 = 80
+Flyout
+Team 2 pitcher (Abraham Pace): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-1
+
+-----------------------
+
+BOTTOM INNING 6
+
+Blake Welsh: rng1 = 93 + 12 - 8 + 1 = 98
+rng2 = 75 + 6 - 9 + 1 = 73
+Double
+Team 1 pitcher (Kase Daisuke): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 0
+
+base1: false, base2: true, base3: false
+Score: 7-1
+
+Ethan Hayes: rng1 = 10 + 9 - 8 + 1 = 12
+rng2 = 58 + 7 - 9 + 1 = 57
+Lineout
+Team 1 pitcher (Kase Daisuke): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 1
+
+base1: false, base2: true, base3: false
+Score: 7-1
+
+Max Davis: rng1 = 16 + 7 - 8 + 1 = 16
+Strikeout
+Team 1 pitcher (Kase Daisuke): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 2
+
+base1: false, base2: true, base3: false
+Score: 7-1
+
+Umberto Santángel: rng1 = 73 + 5 - 8 + 1 = 71
+Walk
+Team 1 pitcher (Kase Daisuke): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 2
+
+base1: true, base2: true, base3: false
+Score: 7-1
+
+Javier Guillén: rng1 = 93 + 5 - 8 + 1 = 91
+rng2 = 1 + 7 - 9 + 1 = 0
+Single
+Team 1 pitcher (Kase Daisuke): 27 batters faced, 2 runs allowed = 27 + 5.0 = 32.0, outs: 2
+
+base1: true, base2: false, base3: true
+Score: 7-2
+
+Tommy Baxter: rng1 = 15 + 12 - 8 + 1 = 20
+Strikeout
+Team 1 pitcher (Kase Daisuke): 28 batters faced, 2 runs allowed = 28 + 5.0 = 33.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-2
+
+-----------------------
+
+TOP INNING 7
+
+Max Lawrence: rng1 = 87 + 6 - 8 - 1 = 84
+rng2 = 14 + 10 - 10 - 1 = 13
+Single
+Team 2 pitcher (Abraham Pace): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 7-2
+
+Desharious Roberson: rng1 = 90 + 10 - 8 - 1 = 91
+rng2 = 19 + 7 - 10 - 1 = 15
+Single
+Team 2 pitcher (Abraham Pace): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: true, base2: false, base3: true
+Score: 7-2
+
+Josh Poole: rng1 = 31 + 8 - 8 - 1 = 30
+rng2 = 20 + 8 - 10 - 1 = 17
+Groundout
+Team 2 pitcher (Abraham Pace): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: true, base3: true
+Score: 7-2
+
+Pedro Acosta: rng1 = 40 + 7 - 8 - 1 = 38
+rng2 = 41 + 9 - 10 - 1 = 39
+Groundout
+Team 2 pitcher (Abraham Pace): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: false, base2: true, base3: false
+Score: 8-2
+
+Stanley Soto: rng1 = 88 + 9 - 8 - 1 = 88
+Walk
+Team 2 pitcher (Abraham Pace): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: true, base2: true, base3: false
+Score: 8-2
+
+Reese Ross: rng1 = 89 + 7 - 8 - 1 = 87
+Walk
+Team 2 pitcher (Abraham Pace): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: true, base2: true, base3: true
+Score: 8-2
+
+Ethan Spencer: rng1 = 89 + 13 - 8 - 1 = 93
+rng2 = 15 + 15 - 10 - 1 = 19
+Single
+Team 2 pitcher (Abraham Pace): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 2
+
+base1: true, base2: true, base3: false
+Score: 10-2
+
+Team 2 pitcher change to Kwok Kwang-Seok
+
+Randall Hodge: rng1 = 74 + 15 - 11 - 1 = 77
+rng2 = 50 + 9 - 12 - 1 = 46
+Single
+Team 2 pitcher (Kwok Kwang-Seok): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 2
+
+base1: true, base2: false, base3: true
+Score: 11-2
+
+Serafín Sancho: rng1 = 5 + 13 - 11 - 1 = 6
+Strikeout
+Team 2 pitcher (Kwok Kwang-Seok): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 11-2
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Colton Hendrix
+
+Caleb Harrington: rng1 = 59 + 14 - 8 + 1 = 66
+rng2 = 59 + 7 - 7 + 1 = 60
+Flyout
+Team 1 pitcher (Colton Hendrix): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 11-2
+
+Emiel Ware: rng1 = 33 + 10 - 8 + 1 = 36
+rng2 = 82 + 9 - 7 + 1 = 85
+Flyout
+Team 1 pitcher (Colton Hendrix): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 11-2
+
+Isaac Secada: rng1 = 58 + 4 - 8 + 1 = 55
+rng2 = 16 + 9 - 7 + 1 = 19
+Groundout
+Team 1 pitcher (Colton Hendrix): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 11-2
+
+-----------------------
+
+TOP INNING 8
+
+Max Lawrence: rng1 = 45 + 6 - 11 - 1 = 39
+rng2 = 69 + 10 - 12 - 1 = 66
+Flyout
+Team 2 pitcher (Kwok Kwang-Seok): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 11-2
+
+Desharious Roberson: rng1 = 39 + 10 - 11 - 1 = 37
+rng2 = 83 + 7 - 12 - 1 = 77
+Flyout
+Team 2 pitcher (Kwok Kwang-Seok): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 11-2
+
+Josh Poole: rng1 = 45 + 8 - 11 - 1 = 41
+rng2 = 71 + 8 - 12 - 1 = 66
+Flyout
+Team 2 pitcher (Kwok Kwang-Seok): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 11-2
+
+-----------------------
+
+BOTTOM INNING 8
+
+Blake Welsh: rng1 = 9 + 12 - 8 + 1 = 14
+rng2 = 49 + 6 - 7 + 1 = 49
+Lineout
+Team 1 pitcher (Colton Hendrix): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 11-2
+
+Ethan Hayes: rng1 = 34 + 9 - 8 + 1 = 36
+rng2 = 25 + 7 - 7 + 1 = 26
+Groundout
+Team 1 pitcher (Colton Hendrix): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 11-2
+
+Max Davis: rng1 = 9 + 7 - 8 + 1 = 9
+Strikeout
+Team 1 pitcher (Colton Hendrix): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 11-2
+
+-----------------------
+
+TOP INNING 9
+
+Pedro Acosta: rng1 = 82 + 7 - 11 - 1 = 77
+rng2 = 53 + 9 - 12 - 1 = 49
+Single
+Team 2 pitcher (Kwok Kwang-Seok): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 11-2
+
+Stanley Soto: rng1 = 2 + 9 - 11 - 1 = -1
+Strikeout
+Team 2 pitcher (Kwok Kwang-Seok): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 11-2
+
+Reese Ross: rng1 = 7 + 7 - 11 - 1 = 2
+Strikeout
+Team 2 pitcher (Kwok Kwang-Seok): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 11-2
+
+Ethan Spencer: rng1 = 44 + 13 - 11 - 1 = 45
+rng2 = 11 + 15 - 12 - 1 = 13
+Groundout
+Team 2 pitcher (Kwok Kwang-Seok): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 11-2
+
+-----------------------
+
+BOTTOM INNING 9
+
+Umberto Santángel: rng1 = 10 + 5 - 8 + 1 = 8
+Strikeout
+Team 1 pitcher (Colton Hendrix): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 11-2
+
+Javier Guillén: rng1 = 84 + 5 - 8 + 1 = 82
+rng2 = 1 + 7 - 7 + 1 = 2
+Single
+Team 1 pitcher (Colton Hendrix): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 11-2
+
+Tommy Baxter: rng1 = 9 + 12 - 8 + 1 = 14
+rng2 = 53 + 11 - 7 + 1 = 58
+Lineout
+Team 1 pitcher (Colton Hendrix): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 11-2
+
+Caleb Harrington: rng1 = 75 + 14 - 8 + 1 = 82
+rng2 = 92 + 7 - 7 + 1 = 93
+Triple
+Team 1 pitcher (Colton Hendrix): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: false, base2: false, base3: true
+Score: 11-3
+
+Emiel Ware: rng1 = 77 + 10 - 8 + 1 = 80
+rng2 = 5 + 9 - 7 + 1 = 8
+Single
+Team 1 pitcher (Colton Hendrix): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 11-4
+
+Team 1 pitcher change to Alexander Richards
+
+Isaac Secada: rng1 = 68 + 4 - 6 + 1 = 67
+rng2 = 53 + 9 - 8 + 1 = 55
+Lineout
+Team 1 pitcher (Alexander Richards): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 11-4
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 15
+Team 2 hits: 8
+Team 1 runs: 11
+Team 2 runs: 4
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-07-24
+Ethan Spencer	6	1	2	0	0	1	4	0	1					Phoenix
+Randall Hodge	4	1	3	0	0	0	1	0	0	
+Serafín Sancho	5	0	0	0	0	0	0	0	1	
+Max Lawrence	5	2	2	1	0	0	0	0	0	
+Desharious Roberson	5	2	2	0	0	1	3	0	1	
+Josh Poole	5	1	1	0	0	0	0	0	1	
+Pedro Acosta	5	1	3	1	0	0	2	0	1	
+Stanley Soto	3	2	1	0	0	0	0	2	1	
+Reese Ross	4	1	1	0	0	0	1	1	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Kase Daisuke	1	0	1	1	0	0	18	5	2	0	5	5	28	
+Colton Hendrix	0	0	1	0	0	0	8	3	2	0	0	2	11	
+Alexander Richards	0	0	1	0	0	0	1	0	0	0	0	0	1	
+Raymond Day	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-07-24
+Tommy Baxter	4	0	0	0	0	0	1	1	1					Miami
+Caleb Harrington	5	1	1	0	1	0	1	0	0	
+Emiel Ware	5	0	2	1	0	0	1	0	0	
+Isaac Secada	4	0	0	0	0	0	0	1	2	
+Blake Welsh	4	1	1	1	0	0	0	0	0	
+Ethan Hayes	4	1	1	0	0	0	0	0	0	
+Max Davis	3	0	1	0	0	0	0	1	2	
+Umberto Santángel	3	0	0	0	0	0	0	1	2	
+Javier Guillén	3	1	2	0	0	0	1	1	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Stanley Collins	0	1	1	1	0	0	12	5	5	2	1	4	19	
+Iván Curbelo	0	0	1	0	0	0	5	4	2	0	0	1	9	
+Abraham Pace	0	0	1	0	0	0	3	4	3	0	2	0	9	
+Kwok Kwang-Seok	0	0	1	0	0	0	7	2	1	0	0	3	9	

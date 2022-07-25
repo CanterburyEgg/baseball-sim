@@ -1,0 +1,787 @@
+TOP INNING 1
+
+George Nagle: rng1 = 75 + 15 - 7 - 1 = 82
+rng2 = 43 + 13 - 7 - 1 = 48
+Single
+Team 2 pitcher (Wyatt Heller): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Jason Burress: rng1 = 50 + 14 - 7 - 1 = 56
+rng2 = 96 + 10 - 7 - 1 = 98
+Flyout
+Team 2 pitcher (Wyatt Heller): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Antonio Carrera: rng1 = 5 + 15 - 7 - 1 = 12
+rng2 = 2 + 7 - 7 - 1 = 1
+Groundout
+Team 2 pitcher (Wyatt Heller): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Nathan Kaur: rng1 = 63 + 9 - 7 - 1 = 64
+rng2 = 24 + 6 - 7 - 1 = 22
+Groundout
+Team 2 pitcher (Wyatt Heller): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Leonardo Vera: rng1 = 75 + 12 - 15 + 1 = 73
+rng2 = 36 + 12 - 14 + 1 = 35
+Single
+Team 1 pitcher (Jordan Burns): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Jamie Reid: rng1 = 19 + 12 - 15 + 1 = 17
+Strikeout
+Team 1 pitcher (Jordan Burns): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Darren Adams: rng1 = 81 + 8 - 15 + 1 = 75
+rng2 = 32 + 8 - 14 + 1 = 27
+Single
+Team 1 pitcher (Jordan Burns): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Pascual Gilbert: rng1 = 11 + 8 - 15 + 1 = 5
+Strikeout
+Team 1 pitcher (Jordan Burns): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Alfie Young: rng1 = 96 + 10 - 15 + 1 = 92
+rng2 = 70 + 5 - 14 + 1 = 62
+Single
+Team 1 pitcher (Jordan Burns): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: true, base2: true, base3: true
+Score: 0-0
+
+Andy Kelley: rng1 = 97 + 7 - 15 + 1 = 90
+Walk
+Team 1 pitcher (Jordan Burns): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: true, base2: true, base3: true
+Score: 0-1
+
+Manuel Alvarez: rng1 = 81 + 6 - 15 + 1 = 73
+rng2 = 5 + 6 - 14 + 1 = -2
+Single
+Team 1 pitcher (Jordan Burns): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 2
+
+base1: true, base2: true, base3: true
+Score: 0-2
+
+Varrien Cannon: rng1 = 4 + 6 - 15 + 1 = -4
+Strikeout
+Team 1 pitcher (Jordan Burns): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 2
+
+Dante Arias: rng1 = 71 + 9 - 7 - 1 = 72
+rng2 = 28 + 5 - 7 - 1 = 25
+Single
+Team 2 pitcher (Wyatt Heller): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Noah Fontenot: rng1 = 90 + 8 - 7 - 1 = 90
+Walk
+Team 2 pitcher (Wyatt Heller): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 0
+
+base1: true, base2: true, base3: false
+Score: 0-2
+
+Charles Harris: rng1 = 57 + 8 - 7 - 1 = 57
+rng2 = 25 + 6 - 7 - 1 = 23
+Groundout
+Team 2 pitcher (Wyatt Heller): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: false, base2: true, base3: true
+Score: 0-2
+
+Bautista Saelices: rng1 = 96 + 7 - 7 - 1 = 95
+rng2 = 58 + 6 - 7 - 1 = 56
+Single
+Team 2 pitcher (Wyatt Heller): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: true, base2: false, base3: true
+Score: 1-2
+
+Albert Lang: rng1 = 86 + 6 - 7 - 1 = 84
+rng2 = 91 + 6 - 7 - 1 = 89
+Double
+Team 2 pitcher (Wyatt Heller): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 1
+
+base1: false, base2: true, base3: false
+Score: 3-2
+
+George Nagle: rng1 = 93 + 15 - 7 - 1 = 100
+rng2 = 47 + 13 - 7 - 1 = 52
+Single
+Team 2 pitcher (Wyatt Heller): 10 batters faced, 4 runs allowed = 10 + 10.0 = 20.0, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 4-2
+
+Jason Burress: rng1 = 100 + 14 - 7 - 1 = 106
+rng2 = 33 + 10 - 7 - 1 = 35
+Single
+Team 2 pitcher (Wyatt Heller): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 1
+
+base1: true, base2: true, base3: false
+Score: 4-2
+
+Antonio Carrera: rng1 = 18 + 15 - 7 - 1 = 25
+Strikeout
+Team 2 pitcher (Wyatt Heller): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 2
+
+base1: true, base2: true, base3: false
+Score: 4-2
+
+Nathan Kaur: rng1 = 69 + 9 - 7 - 1 = 70
+Walk
+Team 2 pitcher (Wyatt Heller): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 2
+
+base1: true, base2: true, base3: true
+Score: 4-2
+
+Dante Arias: rng1 = 77 + 9 - 7 - 1 = 78
+rng2 = 30 + 5 - 7 - 1 = 27
+Single
+Team 2 pitcher (Wyatt Heller): 14 batters faced, 5 runs allowed = 14 + 12.5 = 26.5, outs: 2
+
+base1: true, base2: true, base3: true
+Score: 5-2
+
+Noah Fontenot: rng1 = 30 + 8 - 7 - 1 = 30
+rng2 = 7 + 6 - 7 - 1 = 5
+Groundout
+Team 2 pitcher (Wyatt Heller): 15 batters faced, 5 runs allowed = 15 + 12.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-2
+
+-----------------------
+
+BOTTOM INNING 2
+
+Tario Hampton: rng1 = 89 + 5 - 15 + 1 = 80
+rng2 = 86 + 7 - 14 + 1 = 80
+Home run
+Team 1 pitcher (Jordan Burns): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 0
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Leonardo Vera: rng1 = 40 + 12 - 15 + 1 = 38
+rng2 = 22 + 12 - 14 + 1 = 21
+Groundout
+Team 1 pitcher (Jordan Burns): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Jamie Reid: rng1 = 41 + 12 - 15 + 1 = 39
+rng2 = 82 + 10 - 14 + 1 = 79
+Flyout
+Team 1 pitcher (Jordan Burns): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Darren Adams: rng1 = 71 + 8 - 15 + 1 = 65
+rng2 = 72 + 8 - 14 + 1 = 67
+Flyout
+Team 1 pitcher (Jordan Burns): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+TOP INNING 3
+
+Charles Harris: rng1 = 94 + 8 - 7 - 1 = 94
+rng2 = 17 + 6 - 7 - 1 = 15
+Single
+Team 2 pitcher (Wyatt Heller): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 5-3
+
+Bautista Saelices: rng1 = 61 + 7 - 7 - 1 = 60
+rng2 = 68 + 6 - 7 - 1 = 66
+Flyout
+Team 2 pitcher (Wyatt Heller): 17 batters faced, 5 runs allowed = 17 + 12.5 = 29.5, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 5-3
+
+Albert Lang: rng1 = 30 + 6 - 7 - 1 = 28
+rng2 = 77 + 6 - 7 - 1 = 75
+Flyout
+Team 2 pitcher (Wyatt Heller): 18 batters faced, 5 runs allowed = 18 + 12.5 = 30.5, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 5-3
+
+George Nagle: rng1 = 49 + 15 - 7 - 1 = 56
+rng2 = 65 + 13 - 7 - 1 = 70
+Flyout
+Team 2 pitcher (Wyatt Heller): 19 batters faced, 5 runs allowed = 19 + 12.5 = 31.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+BOTTOM INNING 3
+
+Pascual Gilbert: rng1 = 79 + 8 - 15 + 1 = 73
+rng2 = 25 + 7 - 14 + 1 = 19
+Single
+Team 1 pitcher (Jordan Burns): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 5-3
+
+Alfie Young: rng1 = 41 + 10 - 15 + 1 = 37
+rng2 = 86 + 5 - 14 + 1 = 78
+Flyout
+Team 1 pitcher (Jordan Burns): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 5-3
+
+Andy Kelley: rng1 = 87 + 7 - 15 + 1 = 80
+rng2 = 86 + 5 - 14 + 1 = 78
+Triple
+Team 1 pitcher (Jordan Burns): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 1
+
+base1: false, base2: false, base3: true
+Score: 5-4
+
+Manuel Alvarez: rng1 = 2 + 6 - 15 + 1 = -6
+Strikeout
+Team 1 pitcher (Jordan Burns): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 2
+
+base1: false, base2: false, base3: true
+Score: 5-4
+
+Varrien Cannon: rng1 = 77 + 6 - 15 + 1 = 69
+Walk
+Team 1 pitcher (Jordan Burns): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 2
+
+base1: true, base2: false, base3: true
+Score: 5-4
+
+Tario Hampton: rng1 = 7 + 5 - 15 + 1 = -2
+Strikeout
+Team 1 pitcher (Jordan Burns): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-4
+
+-----------------------
+
+TOP INNING 4
+
+Team 2 pitcher change to Matthew Dorman
+
+Jason Burress: rng1 = 84 + 14 - 10 - 1 = 87
+Walk
+Team 2 pitcher (Matthew Dorman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 5-4
+
+Antonio Carrera: rng1 = 17 + 15 - 10 - 1 = 21
+Strikeout
+Team 2 pitcher (Matthew Dorman): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 5-4
+
+Nathan Kaur: rng1 = 68 + 9 - 10 - 1 = 66
+rng2 = 67 + 6 - 9 - 1 = 63
+Flyout
+Team 2 pitcher (Matthew Dorman): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 5-4
+
+Dante Arias: rng1 = 25 + 9 - 10 - 1 = 23
+Strikeout
+Team 2 pitcher (Matthew Dorman): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-4
+
+-----------------------
+
+BOTTOM INNING 4
+
+Leonardo Vera: rng1 = 29 + 12 - 15 + 1 = 27
+Strikeout
+Team 1 pitcher (Jordan Burns): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Jamie Reid: rng1 = 20 + 12 - 15 + 1 = 18
+Strikeout
+Team 1 pitcher (Jordan Burns): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Darren Adams: rng1 = 14 + 8 - 15 + 1 = 8
+Strikeout
+Team 1 pitcher (Jordan Burns): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-4
+
+-----------------------
+
+TOP INNING 5
+
+Noah Fontenot: rng1 = 93 + 8 - 10 - 1 = 90
+Walk
+Team 2 pitcher (Matthew Dorman): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 5-4
+
+Charles Harris: rng1 = 42 + 8 - 10 - 1 = 39
+rng2 = 28 + 6 - 9 - 1 = 24
+Groundout
+Team 2 pitcher (Matthew Dorman): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Bautista Saelices: rng1 = 74 + 7 - 10 - 1 = 70
+Walk
+Team 2 pitcher (Matthew Dorman): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 5-4
+
+Albert Lang: rng1 = 5 + 6 - 10 - 1 = 0
+Strikeout
+Team 2 pitcher (Matthew Dorman): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-4
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Jacob Wallace
+
+Pascual Gilbert: rng1 = 6 + 8 - 10 + 1 = 5
+Strikeout
+Team 1 pitcher (Jacob Wallace): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Alfie Young: rng1 = 76 + 10 - 10 + 1 = 77
+rng2 = 68 + 5 - 9 + 1 = 65
+Double
+Team 1 pitcher (Jacob Wallace): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: true, base3: false
+Score: 5-4
+
+Andy Kelley: rng1 = 9 + 7 - 10 + 1 = 7
+Strikeout
+Team 1 pitcher (Jacob Wallace): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: true, base3: false
+Score: 5-4
+
+Manuel Alvarez: rng1 = 2 + 6 - 10 + 1 = -1
+Strikeout
+Team 1 pitcher (Jacob Wallace): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-4
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Julian Underwood
+
+George Nagle: rng1 = 37 + 15 - 9 - 1 = 42
+rng2 = 63 + 13 - 7 - 1 = 68
+Flyout
+Team 2 pitcher (Julian Underwood): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Jason Burress: rng1 = 53 + 14 - 9 - 1 = 57
+rng2 = 30 + 10 - 7 - 1 = 32
+Groundout
+Team 2 pitcher (Julian Underwood): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Antonio Carrera: rng1 = 68 + 15 - 9 - 1 = 73
+rng2 = 19 + 7 - 7 - 1 = 18
+Single
+Team 2 pitcher (Julian Underwood): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 5-4
+
+Nathan Kaur: rng1 = 73 + 9 - 9 - 1 = 72
+rng2 = 73 + 6 - 7 - 1 = 71
+Double
+Team 2 pitcher (Julian Underwood): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: true, base3: true
+Score: 5-4
+
+Dante Arias: rng1 = 96 + 9 - 9 - 1 = 95
+rng2 = 26 + 5 - 7 - 1 = 23
+Single
+Team 2 pitcher (Julian Underwood): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 7-4
+
+Noah Fontenot: rng1 = 78 + 8 - 9 - 1 = 76
+rng2 = 6 + 6 - 7 - 1 = 4
+Single
+Team 2 pitcher (Julian Underwood): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: true, base2: false, base3: true
+Score: 7-4
+
+Charles Harris: rng1 = 52 + 8 - 9 - 1 = 50
+rng2 = 24 + 6 - 7 - 1 = 22
+Groundout
+Team 2 pitcher (Julian Underwood): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-4
+
+-----------------------
+
+BOTTOM INNING 6
+
+Varrien Cannon: rng1 = 82 + 6 - 10 + 1 = 79
+rng2 = 37 + 6 - 9 + 1 = 35
+Single
+Team 1 pitcher (Jacob Wallace): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 7-4
+
+Tario Hampton: rng1 = 14 + 5 - 10 + 1 = 10
+Strikeout
+Team 1 pitcher (Jacob Wallace): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 7-4
+
+Leonardo Vera: rng1 = 26 + 12 - 10 + 1 = 29
+rng2 = 71 + 12 - 9 + 1 = 75
+Flyout
+Team 1 pitcher (Jacob Wallace): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 7-4
+
+Jamie Reid: rng1 = 55 + 12 - 10 + 1 = 58
+rng2 = 90 + 10 - 9 + 1 = 92
+Flyout
+Team 1 pitcher (Jacob Wallace): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-4
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Jordan Knight
+
+Bautista Saelices: rng1 = 93 + 7 - 13 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Jordan Knight): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 7-4
+
+Albert Lang: rng1 = 32 + 6 - 13 - 1 = 24
+Strikeout
+Team 2 pitcher (Jordan Knight): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 7-4
+
+George Nagle: rng1 = 69 + 15 - 13 - 1 = 70
+Walk
+Team 2 pitcher (Jordan Knight): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: true, base2: true, base3: false
+Score: 7-4
+
+Jason Burress: rng1 = 100 + 14 - 13 - 1 = 100
+rng2 = 13 + 10 - 9 - 1 = 13
+Single
+Team 2 pitcher (Jordan Knight): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: true, base2: false, base3: true
+Score: 8-4
+
+Antonio Carrera: rng1 = 85 + 15 - 13 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Jordan Knight): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: true, base2: true, base3: true
+Score: 8-4
+
+Nathan Kaur: rng1 = 1 + 9 - 13 - 1 = -4
+Strikeout
+Team 2 pitcher (Jordan Knight): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: true, base2: true, base3: true
+Score: 8-4
+
+Dante Arias: rng1 = 4 + 9 - 13 - 1 = -1
+Strikeout
+Team 2 pitcher (Jordan Knight): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-4
+
+-----------------------
+
+BOTTOM INNING 7
+
+Darren Adams: rng1 = 32 + 8 - 10 + 1 = 31
+rng2 = 22 + 8 - 9 + 1 = 22
+Groundout
+Team 1 pitcher (Jacob Wallace): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 8-4
+
+Pascual Gilbert: rng1 = 12 + 8 - 10 + 1 = 11
+rng2 = 70 + 7 - 9 + 1 = 69
+Flyout
+Team 1 pitcher (Jacob Wallace): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 8-4
+
+Alfie Young: rng1 = 10 + 10 - 10 + 1 = 11
+rng2 = 81 + 5 - 9 + 1 = 78
+Flyout
+Team 1 pitcher (Jacob Wallace): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-4
+
+-----------------------
+
+TOP INNING 8
+
+Noah Fontenot: rng1 = 23 + 8 - 13 - 1 = 17
+Strikeout
+Team 2 pitcher (Jordan Knight): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 8-4
+
+Charles Harris: rng1 = 66 + 8 - 13 - 1 = 60
+rng2 = 100 + 6 - 9 - 1 = 96
+Flyout
+Team 2 pitcher (Jordan Knight): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 8-4
+
+Bautista Saelices: rng1 = 85 + 7 - 13 - 1 = 78
+rng2 = 12 + 6 - 9 - 1 = 8
+Single
+Team 2 pitcher (Jordan Knight): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 8-4
+
+Albert Lang: rng1 = 12 + 6 - 13 - 1 = 4
+Strikeout
+Team 2 pitcher (Jordan Knight): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-4
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Taylor Murphy
+
+Andy Kelley: rng1 = 24 + 7 - 13 + 1 = 19
+Strikeout
+Team 1 pitcher (Taylor Murphy): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 8-4
+
+Manuel Alvarez: rng1 = 5 + 6 - 13 + 1 = -1
+Strikeout
+Team 1 pitcher (Taylor Murphy): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 8-4
+
+Varrien Cannon: rng1 = 55 + 6 - 13 + 1 = 49
+rng2 = 88 + 6 - 11 + 1 = 84
+Flyout
+Team 1 pitcher (Taylor Murphy): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-4
+
+-----------------------
+
+TOP INNING 9
+
+George Nagle: rng1 = 87 + 15 - 13 - 1 = 88
+Walk
+Team 2 pitcher (Jordan Knight): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 0
+
+base1: true, base2: false, base3: false
+Score: 8-4
+
+Jason Burress: rng1 = 60 + 14 - 13 - 1 = 60
+rng2 = 67 + 10 - 9 - 1 = 67
+Flyout
+Team 2 pitcher (Jordan Knight): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: true, base2: false, base3: false
+Score: 8-4
+
+Antonio Carrera: rng1 = 5 + 15 - 13 - 1 = 6
+Strikeout
+Team 2 pitcher (Jordan Knight): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 8-4
+
+Nathan Kaur: rng1 = 48 + 9 - 13 - 1 = 43
+rng2 = 10 + 6 - 9 - 1 = 6
+Groundout
+Team 2 pitcher (Jordan Knight): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-4
+
+-----------------------
+
+BOTTOM INNING 9
+
+Tario Hampton: rng1 = 29 + 5 - 13 + 1 = 22
+Strikeout
+Team 1 pitcher (Taylor Murphy): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+Score: 8-4
+
+Leonardo Vera: rng1 = 25 + 12 - 13 + 1 = 25
+Strikeout
+Team 1 pitcher (Taylor Murphy): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+Score: 8-4
+
+Jamie Reid: rng1 = 86 + 12 - 13 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Taylor Murphy): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: true, base2: false, base3: false
+Score: 8-4
+
+Darren Adams: rng1 = 56 + 8 - 13 + 1 = 52
+rng2 = 94 + 8 - 11 + 1 = 92
+Flyout
+Team 1 pitcher (Taylor Murphy): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-4
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 14
+Team 2 hits: 9
+Team 1 runs: 8
+Team 2 runs: 4
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-07-24
+George Nagle	4	1	2	0	0	0	1	2	0					Las Vegas
+Jason Burress	5	0	2	0	0	0	1	1	0	
+Antonio Carrera	5	1	1	0	0	0	0	0	3	
+Nathan Kaur	5	1	1	1	0	0	0	1	1	
+Dante Arias	5	1	3	0	0	0	3	0	2	
+Noah Fontenot	3	1	1	0	0	0	0	2	1	
+Charles Harris	5	0	1	0	0	0	0	0	0	
+Bautista Saelices	3	2	2	0	0	0	1	1	0	
+Albert Lang	5	1	1	1	0	0	2	0	3	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Jordan Burns	1	0	1	1	0	0	12	7	4	1	2	8	21	
+Jacob Wallace	0	0	1	0	0	0	9	2	0	0	0	4	11	
+Taylor Murphy	0	0	1	0	0	0	6	0	0	0	0	4	7	
+Macos Alguacil	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-07-24
+Leonardo Vera	5	1	1	0	0	0	0	0	2					San Diego
+Jamie Reid	4	0	0	0	0	0	0	0	2	
+Darren Adams	5	1	1	0	0	0	0	0	1	
+Pascual Gilbert	4	1	1	0	0	0	0	0	2	
+Alfie Young	4	0	2	1	0	0	0	0	0	
+Andy Kelley	3	0	1	0	1	0	2	1	2	
+Manuel Alvarez	4	0	1	0	0	0	1	0	3	
+Varrien Cannon	3	0	1	0	0	0	0	1	1	
+Tario Hampton	4	1	1	0	0	1	1	0	3	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Wyatt Heller	0	1	1	1	0	0	9	8	5	0	2	1	19	
+Matthew Dorman	0	0	1	0	0	0	6	0	0	0	3	3	8	
+Julian Underwood	0	0	1	0	0	0	3	4	2	0	0	0	7	
+Jordan Knight	0	0	1	0	0	0	9	2	1	0	2	6	15	

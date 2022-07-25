@@ -12,12 +12,12 @@ public class GameGenerator
 	{
 		boolean game = true;
 		boolean base1 = false;
-		int b1player = -1;
+		int[] b1player = { -1, -1 };
 		boolean base2 = false;
-		int b2player = -1;
+		int[] b2player = { -1, -1 };
 		boolean base3 = false;
+		int[] b3player = { -1, -1 };
 		boolean extras = false;
-		int b3player = -1;
 		int runs1 = 0;
 		int runs2 = 0;
 		int hits1 = 0;
@@ -97,17 +97,17 @@ public class GameGenerator
 		int[] t1startstuffranks = new int[4];
 		int[] t2startstuffranks = new int[4];
 		
-		String[] team1pitchers = new String[4];
-		String[] team2pitchers = new String[4];
+		String[] team1pitchers = new String[5];
+		String[] team2pitchers = new String[5];
 		
-		int[] t1controlranks = new int[4];
-		int[] t2controlranks = new int[4];
+		int[] t1controlranks = new int[5];
+		int[] t2controlranks = new int[5];
 		
-		int[] t1stuffranks = new int[4];
-		int[] t2stuffranks = new int[4];
+		int[] t1stuffranks = new int[5];
+		int[] t2stuffranks = new int[5];
 		
 		int p1 = -1;
-		for (int i = 0; i < 17; i++)
+		for (int i = 0; i < 18; i++)
 		{
 			if (i < 9)
 			{
@@ -121,7 +121,7 @@ public class GameGenerator
 				t1startcontrolranks[i-9] = file1.nextInt();
 				t1startstuffranks[i-9] = file1.nextInt();
 			}
-			else if (i < 16)
+			else if (i < 17)
 			{
 				team1pitchers[i-12] = file1.next() + " " + file1.next();
 				t1controlranks[i-12] = file1.nextInt();
@@ -138,7 +138,7 @@ public class GameGenerator
 		t1stuffranks[0] = t1startstuffranks[p1];
 		
 		int p2 = -1;
-		for (int i = 0; i < 17; i++)
+		for (int i = 0; i < 18; i++)
 		{
 			if (i < 9)
 			{
@@ -152,7 +152,7 @@ public class GameGenerator
 				t2startcontrolranks[i-9] = file2.nextInt();
 				t2startstuffranks[i-9] = file2.nextInt();
 			}
-			else if (i < 16)
+			else if (i < 17)
 			{
 				team2pitchers[i-12] = file2.next() + " " + file2.next();
 				t2controlranks[i-12] = file2.nextInt();
@@ -206,56 +206,53 @@ public class GameGenerator
 				FullPrintLine("Strikeout");
 				
 				if (inning % 2 == 1)
+				{
 					pitchers2[p2index][11]++;
-				else
-					pitchers1[p1index][11]++;
-				
-				if (inning % 2 == 1)
-					team1[t1index][8]++;
-				else
-					team2[t2index][8]++;
-				
-				outs++;
-				
-				if (inning % 2 == 1)
 					pitchers2[p2index][6]++;
+
+					team1[t1index][8]++;
+				}
 				else
+				{
+					pitchers1[p1index][11]++;
 					pitchers1[p1index][6]++;
+
+					team2[t2index][8]++;
+				}
+				
+				outs++;	
 			}
+
 			else if ((rng >= 69 && rng <= 71) || (rng >= 87 && rng <= 90))
 			{
 				FullPrintLine("Walk");
 				
 				if (inning % 2 == 1)
+				{
 					pitchers2[p2index][10]++;
-				else
-					pitchers1[p1index][10]++;
-				
-				if (inning % 2 == 1)
-				{
+
 					team1[t1index][0]--;
+					team1[t1index][7]++;
 				}
 				else
 				{
+					pitchers1[p1index][10]++;
+
 					team2[t2index][0]--;
-				}
-				
-				if (inning % 2 == 1)
-					team1[t1index][7]++;
-				else
 					team2[t2index][7]++;
-				
+				}
+
 				if (!base1 && !base2 && !base3)
 				{
 					base1 = true;
 					
 					if (inning % 2 == 1)
 					{
-						b1player = t1index;
+						b1player = { t1index, p2index };
 					}
 					else
 					{
-						b1player = t2index;
+						b1player = { t2index, p1index };
 					}
 				}
 				else if (base1 && !base2 && !base3)
@@ -266,12 +263,12 @@ public class GameGenerator
 					if (inning % 2 == 1)
 					{
 						b2player = b1player;
-						b1player = t1index;
+						b1player = { t1index, p2index };
 					}
 					else
 					{
 						b2player = b1player;
-						b1player = t2index;
+						b1player = { t2index, p1index };
 					}
 				}
 				else if (!base1 && base2 && !base3)
@@ -281,11 +278,11 @@ public class GameGenerator
 					
 					if (inning % 2 == 1)
 					{
-						b1player = t1index;
+						b1player = { t1index, p2index };
 					}
 					else
 					{
-						b1player = t2index;
+						b1player = { t2index, p1index };
 					}
 				}
 				else if (!base1 && !base2 && base3)
@@ -295,11 +292,11 @@ public class GameGenerator
 					
 					if (inning % 2 == 1)
 					{
-						b1player = t1index;
+						b1player = { t1index, p2index };
 					}
 					else
 					{
-						b1player = t2index;
+						b1player = { t2index, p1index };
 					}
 				}
 				else if (base1 && base2 && !base3)
@@ -312,13 +309,13 @@ public class GameGenerator
 					{
 						b3player = b2player;
 						b2player = b1player;
-						b1player = t1index;
+						b1player = { t1index, p2index };
 					}
 					else
 					{
 						b3player = b2player;
 						b2player = b1player;
-						b1player = t2index;
+						b1player = { t2index, p1index };
 					}
 				}
 				else if (base1 && !base2 && base3)
@@ -330,12 +327,12 @@ public class GameGenerator
 					if (inning % 2 == 1)
 					{
 						b2player = b1player;
-						b1player = t1index;
+						b1player = { t1index, p2index };
 					}
 					else
 					{
 						b2player = b1player;
-						b1player = t2index;
+						b1player = { t2index, p1index };
 					}
 				}
 				else if (!base1 && base2 && base3)
@@ -346,11 +343,11 @@ public class GameGenerator
 					
 					if (inning % 2 == 1)
 					{
-						b1player = t1index;
+						b1player = { t1index, p2index };
 					}
 					else
 					{
-						b1player = t2index;
+						b1player = { t2index, p1index };
 					}
 				}
 				else if (base1 && base2 && base3)
@@ -361,35 +358,33 @@ public class GameGenerator
 					
 					if (inning % 2 == 1)
 					{
-						team1[b3player][1]++;
+						pitchers2[b3player[1]][8] = pitchers2[b3player[1]][8] + 1;
+
+						team1[t1index][6]++;
+
+						team1[b3player[0]][1]++;
 						b3player = b2player;
 						b2player = b1player;
-						b1player = t1index;
+						b1player = { t1index, p2index };
+
+						runs1++;
 					}
 					else
 					{
-						team2[b3player][1]++;
+						pitchers1[b3player[1]][8] = pitchers1[b3player[1]][8] + 1;
+
+						team2[t2index][6]++;
+
+						team2[b3player[0]][1]++;
 						b3player = b2player;
 						b2player = b1player;
-						b1player = t2index;
-					}
-					
-					if (inning % 2 == 1)
-						runs1++;
-					else
+						b1player = { t2index, p1index };
+
 						runs2++;
-					
-					if (inning % 2 == 0)
-						pitchers1[p1index][8] = pitchers1[p1index][8] + 1;
-					else
-						pitchers2[p2index][8] = pitchers2[p2index][8] + 1;
-					
-					if (inning % 2 == 1)
-						team1[t1index][6]++;
-					else
-						team2[t2index][6]++;
+					}
 				}
 			}
+
 			else if (rng == 86)
 			{
 				FullPrintLine("Hit by pitch");
@@ -409,11 +404,11 @@ public class GameGenerator
 					
 					if (inning % 2 == 1)
 					{
-						b1player = t1index;
+						b1player = { t1index, p2index };
 					}
 					else
 					{
-						b1player = t2index;
+						b1player = { t2index, p1index };
 					}
 				}
 				else if (base1 && !base2 && !base3)
@@ -424,12 +419,12 @@ public class GameGenerator
 					if (inning % 2 == 1)
 					{
 						b2player = b1player;
-						b1player = t1index;
+						b1player = { t1index, p2index };
 					}
 					else
 					{
 						b2player = b1player;
-						b1player = t2index;
+						b1player = { t2index, p1index };
 					}
 				}
 				else if (!base1 && base2 && !base3)
@@ -439,11 +434,11 @@ public class GameGenerator
 					
 					if (inning % 2 == 1)
 					{
-						b1player = t1index;
+						b1player = { t1index, p2index };
 					}
 					else
 					{
-						b1player = t2index;
+						b1player = { t2index, p1index };
 					}
 				}
 				else if (!base1 && !base2 && base3)
@@ -453,11 +448,11 @@ public class GameGenerator
 					
 					if (inning % 2 == 1)
 					{
-						b1player = t1index;
+						b1player = { t1index, p2index };
 					}
 					else
 					{
-						b1player = t2index;
+						b1player = { t2index, p1index };
 					}
 				}
 				else if (base1 && base2 && !base3)
@@ -470,13 +465,13 @@ public class GameGenerator
 					{
 						b3player = b2player;
 						b2player = b1player;
-						b1player = t1index;
+						b1player = { t1index, p2index };
 					}
 					else
 					{
 						b3player = b2player;
 						b2player = b1player;
-						b1player = t2index;
+						b1player = { t2index, p1index };
 					}
 				}
 				else if (base1 && !base2 && base3)
@@ -488,12 +483,12 @@ public class GameGenerator
 					if (inning % 2 == 1)
 					{
 						b2player = b1player;
-						b1player = t1index;
+						b1player = { t1index, p2index };
 					}
 					else
 					{
 						b2player = b1player;
-						b1player = t2index;
+						b1player = { t2index, p1index };
 					}
 				}
 				else if (!base1 && base2 && base3)
@@ -504,11 +499,11 @@ public class GameGenerator
 					
 					if (inning % 2 == 1)
 					{
-						b1player = t1index;
+						b1player = { t1index, p2index };
 					}
 					else
 					{
-						b1player = t2index;
+						b1player = { t2index, p1index };
 					}
 				}
 				else if (base1 && base2 && base3)
@@ -519,33 +514,30 @@ public class GameGenerator
 					
 					if (inning % 2 == 1)
 					{
-						team1[b3player][1]++;
+						pitchers2[b3player[1]][8] = pitchers2[b3player[1]][8] + 1;
+
+						team1[t1index][6]++;
+
+						team1[b3player[0]][1]++;
 						b3player = b2player;
 						b2player = b1player;
-						b1player = t1index;
+						b1player = { t1index, p2index };
+
+						runs1++;
 					}
 					else
 					{
-						team2[b3player][1]++;
+						pitchers1[b3player[1]][8] = pitchers1[b3player[1]][8] + 1;
+
+						team2[t2index][6]++;
+
+						team2[b3player[0]][1]++;
 						b3player = b2player;
 						b2player = b1player;
-						b1player = t2index;
-					}
-					
-					if (inning % 2 == 1)
-						runs1++;
-					else
+						b1player = { t2index, p1index };
+
 						runs2++;
-					
-					if (inning % 2 == 0)
-						pitchers1[p1index][8] = pitchers1[p1index][8] + 1;
-					else
-						pitchers2[p2index][8] = pitchers2[p2index][8] + 1;
-					
-					if (inning % 2 == 1)
-						team1[t1index][6]++;
-					else
-						team2[t2index][6]++;
+					}
 				}
 			}
 			else if ((rng >= 11 && rng <= 15) || (rng >= 28 && rng <= 68))
@@ -614,11 +606,11 @@ public class GameGenerator
 						{
 							if (inning % 2 == 1)
 							{
-								b1player = t1index;
+								b1player = { t1index, p2index };
 							}
 							else
 							{
-								b1player = t2index;
+								b1player = { t2index, p1index };
 							}
 							outs++;
 							
@@ -671,29 +663,25 @@ public class GameGenerator
 							outs++;
 							
 							if (inning % 2 == 1)
+							{
 								pitchers2[p2index][6]++;
-							else
-								pitchers1[p1index][6]++;
-							
-							if (inning % 2 == 1)
-								runs1++;
-							else
-								runs2++;
-							
-							if (inning % 2 == 0)
-								pitchers1[p1index][8] = pitchers1[p1index][8] + 1;
-							else
-								pitchers2[p2index][8] = pitchers2[p2index][8] + 1;
-							
-							if (inning % 2 == 1)
-								team1[b3player][1]++;
-							else
-								team2[b3player][1]++;
-							
-							if (inning % 2 == 1)
+								pitchers2[b3player[1]][8] = pitchers2[b3player[1]][8] + 1;
+
+								team1[b3player[0]][1]++;
 								team1[t1index][6]++;
+
+								runs1++;
+							}
 							else
+							{
+								pitchers1[p1index][6]++;
+								pitchers1[b3player[1]][8] = pitchers1[b3player[1]][8] + 1;
+
+								team2[b3player[0]][1]++;
 								team2[t2index][6]++;
+
+								runs2++;
+							}
 						}
 					}
 					else if (base1 && base2 && !base3)
@@ -704,19 +692,18 @@ public class GameGenerator
 							outs++;
 							
 							if (inning % 2 == 1)
-								pitchers2[p2index][6]++;
-							else
-								pitchers1[p1index][6]++;
-							
-							if (inning % 2 == 1)
 							{
+								pitchers2[p2index][6]++;
+
 								b2player = b1player;
-								b1player = t1index;
+								b1player = { t1index, p2index };
 							}
 							else
 							{
+								pitchers1[p1index][6]++;
+
 								b2player = b1player;
-								b1player = t2index;
+								b1player = { t2index, p1index };
 							}
 						}
 						else if (rng == 1)
@@ -738,25 +725,24 @@ public class GameGenerator
 						else if (rng == 2)
 						{
 							outs++;
-							
-							if (inning % 2 == 1)
-								pitchers2[p2index][6]++;
-							else
-								pitchers1[p1index][6]++;
-							
+														
 							base1 = true;
 							base2 = false;
 							base3 = true;
 							
 							if (inning % 2 == 1)
 							{
+								pitchers2[p2index][6]++;
+
 								b3player = b2player;
-								b1player = t1index;
+								b1player = { t1index, p2index };
 							}
 							else
 							{
+								pitchers1[p1index][6]++;
+
 								b3player = b2player;
-								b1player = t2index;
+								b1player = { t2index, p1index };
 							}
 						}
 						else
@@ -783,17 +769,16 @@ public class GameGenerator
 							outs++;
 							
 							if (inning % 2 == 1)
-								pitchers2[p2index][6]++;
-							else
-								pitchers1[p1index][6]++;
-							
-							if (inning % 2 == 1)
 							{
-								b1player = t1index;
+								pitchers2[p2index][6]++;
+
+								b1player = { t1index, p2index };
 							}
 							else
 							{
-								b1player = t2index;
+								pitchers1[p1index][6]++;
+
+								b1player = { t2index, p1index };
 							}
 						}
 						else if (rng == 1)
@@ -815,35 +800,31 @@ public class GameGenerator
 							outs++;
 							
 							if (inning % 2 == 1)
+							{
 								pitchers2[p2index][6]++;
+								pitchers2[b3player[1]][8] = pitchers2[b3player[1]][8] + 1;
+
+								team1[b3player[0]][1]++;
+								team1[t1index][6]++;
+
+								runs1++;
+							}
 							else
+							{
 								pitchers1[p1index][6]++;
+								pitchers1[b3player[1]][8] = pitchers1[b3player[1]][8] + 1;
+
+								team2[b3player[0]][1]++;
+								team2[t2index][6]++;
+
+								runs2++;
+							}
 							
 							base1 = false;
 							base2 = true;
 							base3 = false;
 							
-							b2player = b1player;
-							
-							if (inning % 2 == 1)
-								runs1++;
-							else
-								runs2++;
-							
-							if (inning % 2 == 0)
-								pitchers1[p1index][8] = pitchers1[p1index][8] + 1;
-							else
-								pitchers2[p2index][8] = pitchers2[p2index][8] + 1;
-							
-							if (inning % 2 == 1)
-								team1[b3player][1]++;
-							else
-								team2[b3player][1]++;
-							
-							if (inning % 2 == 1)
-								team1[t1index][6]++;
-							else
-								team2[t2index][6]++;
+							b2player = b1player;								
 						}
 						else
 						{
@@ -861,24 +842,23 @@ public class GameGenerator
 							if (outs < 3)
 							{
 								if (inning % 2 == 1)
-									runs1++;
-								else
-									runs2++;
-								
-								if (inning % 2 == 0)
-									pitchers1[p1index][8] = pitchers1[p1index][8] + 1;
-								else
-									pitchers2[p2index][8] = pitchers2[p2index][8] + 1;
-								
-								if (inning % 2 == 1)
-									team1[b3player][1]++;
-								else
-									team2[b3player][1]++;
-								
-								if (inning % 2 == 1)
+								{
+									pitchers2[b3player[1]][8] = pitchers2[b3player[1]][8] + 1;
+
+									team1[b3player[0]][1]++;
 									team1[t1index][6]++;
+
+									runs1++;
+								}
 								else
+								{
+									pitchers1[b3player[1]][8] = pitchers1[b3player[1]][8] + 1;
+
+									team2[b3player[0]][1]++;
 									team2[t2index][6]++;
+
+									runs2++;
+								}	
 							}
 						}
 					}
@@ -899,65 +879,57 @@ public class GameGenerator
 							outs++;
 							
 							if (inning % 2 == 1)
+							{
 								pitchers2[p2index][6]++;
+								pitchers2[b3player[1]][8] = pitchers2[b3player[1]][8] + 1;
+
+								team1[b3player[0]][1]++;
+								team1[t1index][6]++;
+
+								runs1++;
+							}
 							else
+							{
 								pitchers1[p1index][6]++;
+								pitchers1[b3player[1]][8] = pitchers1[b3player[1]][8] + 1;
+
+								team2[b3player[0]][1]++;
+								team2[t2index][6]++;
+
+								runs2++;
+							}
 							
 							base3 = false;
-							
-							if (inning % 2 == 1)
-								runs1++;
-							else
-								runs2++;
-							
-							if (inning % 2 == 0)
-								pitchers1[p1index][8] = pitchers1[p1index][8] + 1;
-							else
-								pitchers2[p2index][8] = pitchers2[p2index][8] + 1;
-							
-							if (inning % 2 == 1)
-								team1[b3player][1]++;
-							else
-								team2[b3player][1]++;
-							
-							if (inning % 2 == 1)
-								team1[t1index][6]++;
-							else
-								team2[t2index][6]++;
 						}
 						else
 						{
 							outs++;
-							
-							if (inning % 2 == 1)
-								pitchers2[p2index][6]++;
-							else
-								pitchers1[p1index][6]++;
 							
 							base1 = false;
 							base2 = false;
 							base3 = true;
 							
 							if (inning % 2 == 1)
-								runs1++;
-							else
-								runs2++;
-							
-							if (inning % 2 == 0)
-								pitchers1[p1index][8] = pitchers1[p1index][8] + 1;
-							else
-								pitchers2[p2index][8] = pitchers2[p2index][8] + 1;
-							
-							if (inning % 2 == 1)
-								team1[b3player][1]++;
-							else
-								team2[b3player][1]++;
-							
-							if (inning % 2 == 1)
+							{
+								pitchers2[p2index][6]++;
+								pitchers2[b3player[1]][8] = pitchers2[b3player[1]][8] + 1;
+
+								team1[b3player[0]][1]++;
 								team1[t1index][6]++;
+								
+								runs1++;
+							}
 							else
+							{
+								pitchers1[p1index][6]++;
+								pitchers1[b3player[1]][8] = pitchers1[b3player[1]][8] + 1;
+
+								team2[b3player[0]][1]++;
 								team2[t2index][6]++;
-							
+
+								runs2++;
+							}	
+
 							b3player = b2player;
 						}
 					}
@@ -969,54 +941,49 @@ public class GameGenerator
 							outs++;
 							
 							if (inning % 2 == 1)
-								pitchers2[p2index][6]++;
-							else
-								pitchers1[p1index][6]++;
-							
-							if (inning % 2 == 1)
 							{
+								pitchers2[p2index][6]++;
+
 								b3player = b2player;
 								b2player = b1player;
-								b1player = t1index;
+								b1player = { t1index, p2index };
 							}
 							else
 							{
+								pitchers1[p1index][6]++;
+
 								b3player = b2player;
 								b2player = b1player;
-								b1player = t2index;							
+								b1player = { t2index, p1index };							
 							}
 						}
 						else if (rng == 1)
 						{
 							outs++;
 							
-							if (inning % 2 == 1)
-								pitchers2[p2index][6]++;
-							else
-								pitchers1[p1index][6]++;
-							
 							base1 = false;
 							
 							if (inning % 2 == 1)
-								runs1++;
-							else
-								runs2++;
-							
-							if (inning % 2 == 0)
-								pitchers1[p1index][8] = pitchers1[p1index][8] + 1;
-							else
-								pitchers2[p2index][8] = pitchers2[p2index][8] + 1;
-							
-							if (inning % 2 == 1)
-								team1[b3player][1]++;
-							else
-								team2[b3player][1]++;
-							
-							if (inning % 2 == 1)
+							{
+								pitchers2[p2index][6]++;
+								pitchers2[b3player[1]][8] = pitchers2[b3player[1]][8] + 1;
+
+								team1[b3player[0]][1]++;
 								team1[t1index][6]++;
+
+								runs1++;
+							}
 							else
+							{
+								pitchers1[p1index][6]++;
+								pitchers1[b3player[1]][8] = pitchers1[b3player[1]][8] + 1;
+
+								team2[b3player[0]][1]++;
 								team2[t2index][6]++;
-							
+
+								runs2++;
+							}
+						
 							b3player = b2player;
 							b2player = b1player;
 						}
@@ -1036,24 +1003,23 @@ public class GameGenerator
 							if (outs < 3)
 							{
 								if (inning % 2 == 1)
-									runs1++;
-								else
-									runs2++;
-								
-								if (inning % 2 == 0)
-									pitchers1[p1index][8] = pitchers1[p1index][8] + 1;
-								else
-									pitchers2[p2index][8] = pitchers2[p2index][8] + 1;
-								
-								if (inning % 2 == 1)
-									team1[b3player][1]++;
-								else
-									team2[b3player][1]++;
-								
-								if (inning % 2 == 1)
+								{
+									pitchers2[b3player[1]][8] = pitchers2[b3player[1]][8] + 1;
+
+									team1[b3player[0]][1]++;
 									team1[t1index][6]++;
+
+									runs1++;
+								}
 								else
+								{
+									pitchers1[b3player[1]][8] = pitchers1[b3player[1]][8] + 1;
+
+									team2[b3player[0]][1]++;
 									team2[t2index][6]++;
+
+									runs2++;
+								}	
 								
 								b3player = b2player;
 							}
@@ -1089,27 +1055,22 @@ public class GameGenerator
 							
 							if (inning % 2 == 1)
 							{
-								team1[b3player][1]++;
+								pitchers2[b3player[1]][8] = pitchers2[b3player[1]][8] + 1;
+
+								team1[b3player[0]][1]++;
+								team1[t1index][6]++;
+
+								runs1++;
 							}
 							else
 							{
-								team2[b3player][1]++;
-							}
-							
-							if (inning % 2 == 1)
-								runs1++;
-							else
-								runs2++;
-							
-							if (inning % 2 == 0)
-								pitchers1[p1index][8] = pitchers1[p1index][8] + 1;
-							else
-								pitchers2[p2index][8] = pitchers2[p2index][8] + 1;
-							
-							if (inning % 2 == 1)
-								team1[t1index][6]++;
-							else
+								pitchers1[b3player[1]][8] = pitchers1[b3player[1]][8] + 1;
+
+								team2[b3player[0]][1]++;
 								team2[t2index][6]++;
+
+								runs2++;
+							}		
 						}
 						else if (rng == 2)
 						{
@@ -1117,28 +1078,23 @@ public class GameGenerator
 							
 							if (inning % 2 == 1)
 							{
-								team1[b3player][1]++;
+								pitchers2[b3player[1]][8] = pitchers2[b3player[1]][8] + 1;
+
+								team1[b3player[0]][1]++;
+								team1[t1index][6]++;
+
+								runs1++;
 							}
 							else
 							{
-								team2[b3player][1]++;
-							}
-							b3player = b2player;
-							
-							if (inning % 2 == 1)
-								runs1++;
-							else
-								runs2++;
-							
-							if (inning % 2 == 0)
-								pitchers1[p1index][8] = pitchers1[p1index][8] + 1;
-							else
-								pitchers2[p2index][8] = pitchers2[p2index][8] + 1;
-							
-							if (inning % 2 == 1)
-								team1[t1index][6]++;
-							else
+								pitchers1[b3player[1]][8] = pitchers1[b3player[1]][8] + 1;
+
+								team2[b3player[0]][1]++;
 								team2[t2index][6]++;
+
+								runs2++;
+							}
+							b3player = b2player;								
 						}
 					}
 					else if (base3 && outs != 3)
@@ -1150,27 +1106,22 @@ public class GameGenerator
 							
 							if (inning % 2 == 1)
 							{
-								team1[b3player][1]++;
+								pitchers2[b3player[1]][8] = pitchers2[b3player[1]][8] + 1;
+
+								team1[b3player[0]][1]++;
+								team1[t1index][6]++;
+
+								runs1++;
 							}
 							else
 							{
-								team2[b3player][1]++;
-							}
-							
-							if (inning % 2 == 1)
-								runs1++;
-							else
-								runs2++;
-							
-							if (inning % 2 == 0)
-								pitchers1[p1index][8] = pitchers1[p1index][8] + 1;
-							else
-								pitchers2[p2index][8] = pitchers2[p2index][8] + 1;
-							
-							if (inning % 2 == 1)
-								team1[t1index][6]++;
-							else
+								pitchers1[b3player[1]][8] = pitchers1[b3player[1]][8] + 1;
+
+								team2[b3player[0]][1]++;
 								team2[t2index][6]++;
+
+								runs2++;
+							}	
 						}
 					}					
 					else if (base2 && outs != 3)
@@ -1212,27 +1163,26 @@ public class GameGenerator
 					rng += 1;
 				}
 				System.out.println(" = " + rng);
-				gameDebug.println(" = " + rng);
-				
+				gameDebug.println(" = " + rng);	
 				
 				if (rng <= 64)
 				{
 					FullPrintLine("Single");
 					
 					if (inning % 2 == 1)
+					{
 						pitchers2[p2index][7]++;
-					else
-						pitchers1[p1index][7]++;
-					
-					if (inning % 2 == 1)
+
 						team1[t1index][2]++;
-					else
-						team2[t2index][2]++;
-					
-					if (inning % 2 == 1)
 						hits1++;
+					}
 					else
+					{
+						pitchers1[p1index][7]++;
+
+						team2[t2index][2]++;
 						hits2++;
+					}	
 					
 					if (!base1 && !base2 && !base3)
 					{
@@ -1241,9 +1191,9 @@ public class GameGenerator
 						base3 = false;
 						
 						if (inning % 2 == 1)
-							b1player = t1index;
+							b1player = { t1index, p2index };
 						else
-							b1player = t2index;
+							b1player = { t2index, p1index };
 					}
 					else if (base1 && !base2 && !base3)
 					{
@@ -1257,12 +1207,12 @@ public class GameGenerator
 							if (inning % 2 == 1)
 							{
 								b2player = b1player;
-								b1player = t1index;
+								b1player = { t1index, p2index };
 							}
 							else
 							{
 								b2player = b1player;
-								b1player = t2index;
+								b1player = { t2index, p1index };
 							}
 						}
 						else
@@ -1274,12 +1224,12 @@ public class GameGenerator
 							if (inning % 2 == 1)
 							{
 								b3player = b1player;
-								b1player = t1index;
+								b1player = { t1index, p2index };
 							}
 							else
 							{
 								b3player = b1player;
-								b1player = t2index;
+								b1player = { t2index, p1index };
 							}
 						}
 					}
@@ -1295,12 +1245,12 @@ public class GameGenerator
 							if (inning % 2 == 1)
 							{
 								b3player = b2player;
-								b1player = t1index;
+								b1player = { t1index, p2index };
 							}
 							else
 							{
 								b3player = b2player;
-								b1player = t2index;
+								b1player = { t2index, p1index };
 							}
 						}
 						else
@@ -1311,29 +1261,24 @@ public class GameGenerator
 							
 							if (inning % 2 == 1)
 							{
-								team1[b2player][1]++;
-								b1player = t1index;
+								pitchers2[b2player[1]][8] = pitchers2[b2player[1]][8] + 1;
+
+								team1[b2player[0]][1]++;
+								team1[t1index][6]++;
+								b1player = { t1index, p2index };
+
+								runs1++;
 							}
 							else
 							{
-								team2[b2player][1]++;
-								b1player = t2index;
-							}
-							
-							if (inning % 2 == 1)
-								runs1++;
-							else
-								runs2++;
-							
-							if (inning % 2 == 0)
-								pitchers1[p1index][8] = pitchers1[p1index][8] + 1;
-							else
-								pitchers2[p2index][8] = pitchers2[p2index][8] + 1;
-							
-							if (inning % 2 == 1)
-								team1[t1index][6]++;
-							else
+								pitchers1[b2player[1]][8] = pitchers1[b2player[1]][8] + 1;
+
+								team2[b2player[0]][1]++;
 								team2[t2index][6]++;
+								b1player = { t2index, p1index };
+
+								runs2++;
+							}	
 						}
 					}
 					else if (!base1 && !base2 && base3)
@@ -1344,29 +1289,24 @@ public class GameGenerator
 						
 						if (inning % 2 == 1)
 						{
-							team1[b3player][1]++;
-							b1player = t1index;
+							pitchers2[b3player[1]][8] = pitchers2[b3player[1]][8] + 1;
+
+							team1[b3player[0]][1]++;
+							team1[t1index][6]++;
+							b1player = { t1index, p2index };
+
+							runs1++;
 						}
 						else
 						{
-							team2[b3player][1]++;
-							b1player = t2index;
-						}
-						
-						if (inning % 2 == 1)
-							runs1++;
-						else
-							runs2++;
-						
-						if (inning % 2 == 0)
-							pitchers1[p1index][8] = pitchers1[p1index][8] + 1;
-						else
-							pitchers2[p2index][8] = pitchers2[p2index][8] + 1;
-						
-						if (inning % 2 == 1)
-							team1[t1index][6]++;
-						else
+							pitchers1[b3player[1]][8] = pitchers1[b3player[1]][8] + 1;
+
+							team2[b3player[0]][1]++;
 							team2[t2index][6]++;
+							b1player = { t2index, p1index };
+
+							runs2++;
+						}
 					}
 					else if (base1 && base2 && !base3)
 					{
@@ -1381,13 +1321,13 @@ public class GameGenerator
 							{
 								b3player = b2player;
 								b2player = b1player;
-								b1player = t1index;
+								b1player = { t1index, p2index };
 							}
 							else
 							{
 								b3player = b2player;
 								b2player = b1player;
-								b1player = t2index;
+								b1player = { t2index, p1index };
 							}
 						}
 						else if (rng == 1 || rng == 2)
@@ -1398,31 +1338,26 @@ public class GameGenerator
 							
 							if (inning % 2 == 1)
 							{
-								team1[b2player][1]++;
+								pitchers2[b2player[1]][8] = pitchers2[b2player[1]][8] + 1;
+
+								team1[b2player[0]][1]++;
+								team1[t1index][6]++;
 								b2player = b1player;
-								b1player = t1index;
+								b1player = { t1index, p2index };
+
+								runs1++;
 							}
 							else
 							{
-								team2[b2player][1]++;
-								b2player = b1player;
-								b1player = t2index;
-							}
-							
-							if (inning % 2 == 1)
-								runs1++;
-							else
-								runs2++;
-							
-							if (inning % 2 == 0)
-								pitchers1[p1index][8] = pitchers1[p1index][8] + 1;
-							else
-								pitchers2[p2index][8] = pitchers2[p2index][8] + 1;
-							
-							if (inning % 2 == 1)
-								team1[t1index][6]++;
-							else
+								pitchers1[b2player[1]][8] = pitchers1[b2player[1]][8] + 1;
+
+								team2[b2player[0]][1]++;
 								team2[t2index][6]++;
+								b2player = b1player;
+								b1player = { t2index, p1index };
+
+								runs2++;
+							}
 						}
 						else
 						{
@@ -1432,31 +1367,26 @@ public class GameGenerator
 							
 							if (inning % 2 == 1)
 							{
-								team1[b2player][1]++;
+								pitchers2[b2player[1]][8] = pitchers2[b2player[1]][8] + 1;
+
+								team1[b2player[0]][1]++;
+								team1[t1index][6]++;
 								b3player = b1player;
-								b1player = t1index;
+								b1player = { t1index, p2index };
+
+								runs1++;
 							}
 							else
 							{
-								team2[b2player][1]++;
-								b3player = b1player;
-								b1player = t2index;
-							}
-							
-							if (inning % 2 == 1)
-								runs1++;
-							else
-								runs2++;
-							
-							if (inning % 2 == 0)
-								pitchers1[p1index][8] = pitchers1[p1index][8] + 1;
-							else
-								pitchers2[p2index][8] = pitchers2[p2index][8] + 1;
-							
-							if (inning % 2 == 1)
-								team1[t1index][6]++;
-							else
+								pitchers1[b2player[1]][8] = pitchers1[b2player[1]][8] + 1;
+
+								team2[b2player[0]][1]++;
 								team2[t2index][6]++;
+								b3player = b1player;
+								b1player = { t2index, p1index };
+
+								runs2++;
+							}		
 						}
 					}
 					else if (base1 && !base2 && base3)
@@ -1470,31 +1400,26 @@ public class GameGenerator
 							
 							if (inning % 2 == 1)
 							{
-								team1[b3player][1]++;
+								pitchers2[b3player[1]][8] = pitchers2[b3player[1]][8] + 1;
+
+								team1[b3player[0]][1]++;
+								team1[t1index][6]++;
 								b2player = b1player;
-								b1player = t1index;
+								b1player = { t1index, p2index };
+
+								runs1++;
 							}
 							else
 							{
-								team2[b3player][1]++;
-								b2player = b1player;
-								b1player = t2index;
-							}
-							
-							if (inning % 2 == 1)
-								runs1++;
-							else
-								runs2++;
-							
-							if (inning % 2 == 0)
-								pitchers1[p1index][8] = pitchers1[p1index][8] + 1;
-							else
-								pitchers2[p2index][8] = pitchers2[p2index][8] + 1;
-							
-							if (inning % 2 == 1)
-								team1[t1index][6]++;
-							else
+								pitchers1[b3player[1]][8] = pitchers1[b3player[1]][8] + 1;
+
+								team2[b3player[0]][1]++;
 								team2[t2index][6]++;
+								b2player = b1player;
+								b1player = { t2index, p1index };
+
+								runs2++;
+							}				
 						}
 						else
 						{
@@ -1504,31 +1429,26 @@ public class GameGenerator
 							
 							if (inning % 2 == 1)
 							{
-								team1[b3player][1]++;
+								pitchers2[b3player[1]][8] = pitchers2[b3player[1]][8] + 1;
+
+								team1[b3player[0]][1]++;
+								team1[t1index][6]++;
 								b3player = b1player;
-								b1player = t1index;
+								b1player = { t1index, p2index };
+
+								runs1++;
 							}
 							else
 							{
-								team2[b3player][1]++;
-								b3player = b1player;
-								b1player = t2index;
-							}
-							
-							if (inning % 2 == 1)
-								runs1++;
-							else
-								runs2++;
-							
-							if (inning % 2 == 0)
-								pitchers1[p1index][8] = pitchers1[p1index][8] + 1;
-							else
-								pitchers2[p2index][8] = pitchers2[p2index][8] + 1;
-							
-							if (inning % 2 == 1)
-								team1[t1index][6]++;
-							else
+								pitchers1[b3player[1]][8] = pitchers1[b3player[1]][8] + 1;
+
+								team2[b3player[0]][1]++;
 								team2[t2index][6]++;
+								b3player = b1player;
+								b1player = { t2index, p1index };
+
+								runs2++;
+							}	
 						}
 					}
 					else if (!base1 && base2 && base3)
@@ -1542,31 +1462,26 @@ public class GameGenerator
 							
 							if (inning % 2 == 1)
 							{
-								team1[b3player][1]++;
+								pitchers2[b3player[1]][8] = pitchers2[b3player[1]][8] + 1;
+
+								team1[b3player[0]][1]++;
+								team1[t1index][6]++;
 								b3player = b2player;
-								b1player = t1index;
+								b1player = { t1index, p2index };
+
+								runs1++;
 							}
 							else
 							{
-								team2[b3player][1]++;
-								b3player = b2player;
-								b1player = t2index;
-							}
-							
-							if (inning % 2 == 1)
-								runs1++;
-							else
-								runs2++;
-							
-							if (inning % 2 == 0)
-								pitchers1[p1index][8] = pitchers1[p1index][8] + 1;
-							else
-								pitchers2[p2index][8] = pitchers2[p2index][8] + 1;
-							
-							if (inning % 2 == 1)
-								team1[t1index][6]++;
-							else
+								pitchers1[b3player[1]][8] = pitchers1[b3player[1]][8] + 1;
+
+								team2[b3player[0]][1]++;
 								team2[t2index][6]++;
+								b3player = b2player;
+								b1player = { t2index, p1index };
+
+								runs2++;
+							}				
 						}
 						else
 						{
@@ -1576,31 +1491,28 @@ public class GameGenerator
 							
 							if (inning % 2 == 1)
 							{
-								team1[b2player][1]++;
-								team1[b3player][1]++;
-								b1player = t1index;
+								pitchers2[b2player[1]][8] = pitchers2[b2player[1]][8] + 1;
+								pitchers2[b3player[1]][8] = pitchers2[b3player[1]][8] + 1;
+
+								team1[b2player[0]][1]++;
+								team1[b3player[0]][1]++;
+								team1[t1index][6] = team1[t1index][6] + 2;
+								b1player = { t1index, p2index };
+
+								runs1 = runs1 + 2;
 							}
 							else
 							{
-								team2[b2player][1]++;
-								team2[b3player][1]++;
-								b1player = t2index;
-							}
-							
-							if (inning % 2 == 1)
-								runs1 = runs1 + 2;
-							else
-								runs2 = runs2 + 2;
-							
-							if (inning % 2 == 0)
-								pitchers1[p1index][8] = pitchers1[p1index][8] + 2;
-							else
-								pitchers2[p2index][8] = pitchers2[p2index][8] + 2;
-							
-							if (inning % 2 == 1)
-								team1[t1index][6] = team1[t1index][6] + 2;
-							else
+								pitchers1[b2player[1]][8] = pitchers1[b2player[1]][8] + 1;
+								pitchers1[b3player[1]][8] = pitchers1[b3player[1]][8] + 1;
+
+								team2[b2player[0]][1]++;
+								team2[b3player[0]][1]++;
 								team2[t2index][6] = team2[t2index][6] + 2;
+								b1player = { t2index, p1index };
+
+								runs2 = runs2 + 2;
+							}	
 						}
 					}
 					else if (base1 && base2 && base3)
@@ -1614,33 +1526,28 @@ public class GameGenerator
 							
 							if (inning % 2 == 1)
 							{
-								team1[b3player][1]++;
+								pitchers2[b3player[1]][8] = pitchers2[b3player[1]][8] + 1;
+
+								team1[b3player[0]][1]++;
+								team1[t1index][6]++;
 								b3player = b2player;
 								b2player = b1player;
-								b1player = t1index;
+								b1player = { t1index, p2index };
+
+								runs1++;
 							}
 							else
 							{
-								team2[b3player][1]++;
+								pitchers1[b3player[1]][8] = pitchers1[b3player[1]][8] + 1;
+
+								team2[b3player[0]][1]++;
+								team2[t2index][6]++;
 								b3player = b2player;
 								b2player = b1player;
-								b1player = t2index;
-							}
-							
-							if (inning % 2 == 1)
-								runs1++;
-							else
+								b1player = { t2index, p1index };
+
 								runs2++;
-							
-							if (inning % 2 == 0)
-								pitchers1[p1index][8] = pitchers1[p1index][8] + 1;
-							else
-								pitchers2[p2index][8] = pitchers2[p2index][8] + 1;
-							
-							if (inning % 2 == 1)
-								team1[t1index][6]++;
-							else
-								team2[t2index][6]++;
+							}				
 						}
 						else if (rng == 1 || rng == 2)
 						{
@@ -1650,33 +1557,30 @@ public class GameGenerator
 							
 							if (inning % 2 == 1)
 							{
-								team1[b2player][1]++;
-								team1[b3player][1]++;
+								pitchers2[b2player[1]][8] = pitchers2[b2player[1]][8] + 1;
+								pitchers2[b3player[1]][8] = pitchers2[b3player[1]][8] + 1;
+
+								team1[b2player[0]][1]++;
+								team1[b3player[0]][1]++;
+								team1[t1index][6] = team1[t1index][6] + 2;
 								b2player = b1player;
-								b1player = t1index;
+								b1player = { t1index, p2index };
+
+								runs1 = runs1 + 2;
 							}
 							else
 							{
-								team2[b2player][1]++;
-								team2[b3player][1]++;
-								b2player = b1player;
-								b1player = t2index;
-							}
-							
-							if (inning % 2 == 1)
-								runs1 = runs1 + 2;
-							else
-								runs2 = runs2 + 2;
-							
-							if (inning % 2 == 0)
-								pitchers1[p1index][8] = pitchers1[p1index][8] + 2;
-							else
-								pitchers2[p2index][8] = pitchers2[p2index][8] + 2;
-							
-							if (inning % 2 == 1)
-								team1[t1index][6] = team1[t1index][6] + 2;
-							else
+								pitchers1[b2player[1]][8] = pitchers1[b2player[1]][8] + 1;
+								pitchers1[b3player[1]][8] = pitchers1[b3player[1]][8] + 1;
+
+								team2[b2player[0]][1]++;
+								team2[b3player[0]][1]++;
 								team2[t2index][6] = team2[t2index][6] + 2;
+								b2player = b1player;
+								b1player = { t2index, p1index };
+
+								runs2 = runs2 + 2;
+							}
 						}
 						else
 						{
@@ -1686,33 +1590,30 @@ public class GameGenerator
 							
 							if (inning % 2 == 1)
 							{
-								team1[b2player][1]++;
-								team1[b3player][1]++;
+								pitchers2[b2player[1]][8] = pitchers2[b2player[1]][8] + 1;
+								pitchers2[b3player[1]][8] = pitchers2[b3player[1]][8] + 1;
+
+								team1[b2player[0]][1]++;
+								team1[b3player[0]][1]++;
+								team1[t1index][6] = team1[t1index][6] + 2;
 								b3player = b1player;
-								b1player = t1index;
+								b1player = { t1index, p2index };
+
+								runs1 = runs1 + 2;
 							}
 							else
 							{
-								team2[b2player][1]++;
-								team2[b3player][1]++;
-								b3player = b1player;
-								b1player = t2index;
-							}
-							
-							if (inning % 2 == 1)
-								runs1 = runs1 + 2;
-							else
-								runs2 = runs2 + 2;
-							
-							if (inning % 2 == 0)
-								pitchers1[p1index][8] = pitchers1[p1index][8] + 2;
-							else
-								pitchers2[p2index][8] = pitchers2[p2index][8] + 2;
-							
-							if (inning % 2 == 1)
-								team1[t1index][6] = team1[t1index][6] + 2;
-							else
+								pitchers1[b2player[1]][8] = pitchers1[b2player[1]][8] + 1;
+								pitchers1[b3player[1]][8] = pitchers1[b3player[1]][8] + 1;
+
+								team2[b2player[0]][1]++;
+								team2[b3player[0]][1]++;
 								team2[t2index][6] = team2[t2index][6] + 2;
+								b3player = b1player;
+								b1player = { t2index, p1index };
+
+								runs2 = runs2 + 2;
+							}
 						}
 					}
 				}
@@ -1722,24 +1623,23 @@ public class GameGenerator
 					FullPrintLine("Double");
 					
 					if (inning % 2 == 1)
+					{
 						pitchers2[p2index][7]++;
-					else
-						pitchers1[p1index][7]++;
-					
-					if (inning % 2 == 1)
+
 						team1[t1index][2]++;
-					else
-						team2[t2index][2]++;
-					
-					if (inning % 2 == 1)
 						team1[t1index][3]++;
-					else
-						team2[t2index][3]++;
-					
-					if (inning % 2 == 1)
+
 						hits1++;
+					}
 					else
+					{
+						pitchers1[p1index][7]++;
+
+						team2[t2index][2]++;
+						team2[t2index][3]++;
+
 						hits2++;
+					}	
 					
 					if (!base1 && !base2 && !base3)
 					{
@@ -1749,11 +1649,11 @@ public class GameGenerator
 						
 						if (inning % 2 == 1)
 						{
-							b2player = t1index;
+							b2player = { t1index, p2index };
 						}
 						else
 						{
-							b2player = t2index;
+							b2player = { t2index, p1index };
 						}
 					}
 					else if (base1 && !base2 && !base3)
@@ -1768,12 +1668,12 @@ public class GameGenerator
 							if (inning % 2 == 1)
 							{
 								b3player = b1player;
-								b2player = t1index;
+								b2player = { t1index, p2index };
 							}
 							else
 							{
 								b3player = b1player;
-								b2player = t2index;
+								b2player = { t2index, p1index };
 							}
 						}
 						else
@@ -1784,29 +1684,24 @@ public class GameGenerator
 							
 							if (inning % 2 == 1)
 							{
-								team1[b1player][1]++;
-								b2player = t1index;
+								pitchers2[b1player[1]][8] = pitchers2[b1player[1]][8] + 1;
+
+								team1[b1player[0]][1]++;
+								team1[t1index][6]++;
+								b2player = { t1index, p2index };
+
+								runs1++;
 							}
 							else
 							{
-								team2[b1player][1]++;
-								b2player = t2index;
-							}
-							
-							if (inning % 2 == 1)
-								runs1++;
-							else
-								runs2++;
-							
-							if (inning % 2 == 0)
-								pitchers1[p1index][8] = pitchers1[p1index][8] + 1;
-							else
-								pitchers2[p2index][8] = pitchers2[p2index][8] + 1;
-							
-							if (inning % 2 == 1)
-								team1[t1index][6]++;
-							else
+								pitchers1[b1player[1]][8] = pitchers1[b1player[1]][8] + 1;
+
+								team2[b1player[0]][1]++;
 								team2[t2index][6]++;
+								b2player = { t2index, p1index };
+
+								runs2++;
+							}	
 						}
 					}
 					else if (!base1 && base2 && !base3)
@@ -1817,29 +1712,24 @@ public class GameGenerator
 						
 						if (inning % 2 == 1)
 						{
-							team1[b2player][1]++;
-							b2player = t1index;
+							pitchers2[b2player[1]][8] = pitchers2[b2player[1]][8] + 1;
+
+							team1[b2player[0]][1]++;
+							team1[t1index][6]++;
+							b2player = { t1index, p2index };
+
+							runs1++;
 						}
 						else
 						{
-							team2[b2player][1]++;
-							b2player = t2index;
-						}
-						
-						if (inning % 2 == 1)
-							runs1++;
-						else
-							runs2++;
-						
-						if (inning % 2 == 0)
-							pitchers1[p1index][8] = pitchers1[p1index][8] + 1;
-						else
-							pitchers2[p2index][8] = pitchers2[p2index][8] + 1;
-						
-						if (inning % 2 == 1)
-							team1[t1index][6]++;
-						else
+							pitchers1[b2player[1]][8] = pitchers1[b2player[1]][8] + 1;
+
+							team2[b2player[0]][1]++;
 							team2[t2index][6]++;
+							b2player = { t2index, p1index };
+
+							runs2++;
+						}			
 					}
 					else if (!base1 && !base2 && base3)
 					{
@@ -1849,29 +1739,24 @@ public class GameGenerator
 						
 						if (inning % 2 == 1)
 						{
-							team1[b3player][1]++;
-							b2player = t1index;
+							pitchers2[b3player[1]][8] = pitchers2[b3player[1]][8] + 1;
+
+							team1[b3player[0]][1]++;
+							team1[t1index][6]++;
+							b2player = { t1index, p2index };
+
+							runs1++;
 						}
 						else
 						{
-							team2[b3player][1]++;
-							b2player = t2index;
-						}
-						
-						if (inning % 2 == 1)
-							runs1++;
-						else
-							runs2++;
-						
-						if (inning % 2 == 0)
-							pitchers1[p1index][8] = pitchers1[p1index][8] + 1;
-						else
-							pitchers2[p2index][8] = pitchers2[p2index][8] + 1;
-						
-						if (inning % 2 == 1)
-							team1[t1index][6]++;
-						else
+							pitchers1[b3player[1]][8] = pitchers1[b3player[1]][8] + 1;
+
+							team2[b3player[0]][1]++;
 							team2[t2index][6]++;
+							b2player = { t2index, p1index };
+
+							runs2++;
+						}		
 					}
 					else if (base1 && base2 && !base3)
 					{
@@ -1884,31 +1769,26 @@ public class GameGenerator
 							
 							if (inning % 2 == 1)
 							{
-								team1[b2player][1]++;
+								pitchers2[b2player[1]][8] = pitchers2[b2player[1]][8] + 1;
+
+								team1[b2player[0]][1]++;
+								team1[t1index][6]++;
 								b3player = b1player;
-								b2player = t1index;
+								b2player = { t1index, p2index };
+
+								runs1++;
 							}
 							else
 							{
-								team2[b2player][1]++;
-								b3player = b1player;
-								b2player = t2index;
-							}
-							
-							if (inning % 2 == 1)
-								runs1++;
-							else
-								runs2++;
-							
-							if (inning % 2 == 0)
-								pitchers1[p1index][8] = pitchers1[p1index][8] + 1;
-							else
-								pitchers2[p2index][8] = pitchers2[p2index][8] + 1;
-							
-							if (inning % 2 == 1)
-								team1[t1index][6]++;
-							else
+								pitchers1[b2player[1]][8] = pitchers1[b2player[1]][8] + 1;
+
+								team2[b2player[0]][1]++;
 								team2[t2index][6]++;
+								b3player = b1player;
+								b2player = { t2index, p1index };
+
+								runs2++;
+							}	
 						}
 						else
 						{
@@ -1918,31 +1798,28 @@ public class GameGenerator
 							
 							if (inning % 2 == 1)
 							{
-								team1[b1player][1]++;
-								team1[b2player][1]++;
-								b2player = t1index;
+								pitchers2[b1player[1]][8] = pitchers2[b1player[1]][8] + 1;
+								pitchers2[b2player[1]][8] = pitchers2[b2player[1]][8] + 1;
+
+								team1[b1player[0]][1]++;
+								team1[b2player[0]][1]++;
+								team1[t1index][6] = team1[t1index][6] + 2;
+								b2player = { t1index, p2index };
+
+								runs1 = runs1 + 2;
 							}
 							else
 							{
-								team2[b1player][1]++;
-								team2[b2player][1]++;
-								b2player = t2index;
-							}
-							
-							if (inning % 2 == 1)
-								runs1 = runs1 + 2;
-							else
-								runs2 = runs2 + 2;
-							
-							if (inning % 2 == 0)
-								pitchers1[p1index][8] = pitchers1[p1index][8] + 2;
-							else
-								pitchers2[p2index][8] = pitchers2[p2index][8] + 2;
-							
-							if (inning % 2 == 1)
-								team1[t1index][6] = team1[t1index][6] + 2;
-							else
+								pitchers1[b1player[1]][8] = pitchers1[b1player[1]][8] + 1;
+								pitchers1[b2player[1]][8] = pitchers1[b2player[1]][8] + 1;
+
+								team2[b1player[0]][1]++;
+								team2[b2player[0]][1]++;
 								team2[t2index][6] = team2[t2index][6] + 2;
+								b2player = { t2index, p1index };
+
+								runs2 = runs2 + 2;
+							}	
 						}
 					}
 					else if (base1 && !base2 && base3)
@@ -1956,31 +1833,26 @@ public class GameGenerator
 							
 							if (inning % 2 == 1)
 							{
-								team1[b3player][1]++;
+								pitchers2[b3player[1]][8] = pitchers2[b3player[1]][8] + 1;
+
+								team1[b3player[0]][1]++;
+								team1[t1index][6]++;
 								b3player = b1player;
-								b2player = t1index;
+								b2player = { t1index, p2index };
+
+								runs1++;
 							}
 							else
 							{
-								team2[b3player][1]++;
-								b3player = b1player;
-								b2player = t2index;
-							}
-							
-							if (inning % 2 == 1)
-								runs1++;
-							else
-								runs2++;
-							
-							if (inning % 2 == 0)
-								pitchers1[p1index][8] = pitchers1[p1index][8] + 1;
-							else
-								pitchers2[p2index][8] = pitchers2[p2index][8] + 1;
-							
-							if (inning % 2 == 1)
-								team1[t1index][6]++;
-							else
+								pitchers1[b3player[1]][8] = pitchers1[b3player[1]][8] + 1;
+
+								team2[b3player[0]][1]++;
 								team2[t2index][6]++;
+								b3player = b1player;
+								b2player = { t2index, p1index };
+
+								runs2++;
+							}
 						}
 						else
 						{
@@ -1990,31 +1862,28 @@ public class GameGenerator
 							
 							if (inning % 2 == 1)
 							{
-								team1[b1player][1]++;
-								team1[b3player][1]++;
-								b2player = t1index;
+								pitchers2[b1player[1]][8] = pitchers2[b1player[1]][8] + 1;
+								pitchers2[b3player[1]][8] = pitchers2[b3player[1]][8] + 1;
+
+								team1[b1player[0]][1]++;
+								team1[b3player[0]][1]++;
+								team1[t1index][6] = team1[t1index][6] + 2;
+								b2player = { t1index, p2index };
+
+								runs1 = runs1 + 2;
 							}
 							else
 							{
-								team2[b1player][1]++;
-								team2[b3player][1]++;
-								b2player = t2index;
-							}
-							
-							if (inning % 2 == 1)
-								runs1 = runs1 + 2;
-							else
-								runs2 = runs2 + 2;
-							
-							if (inning % 2 == 0)
-								pitchers1[p1index][8] = pitchers1[p1index][8] + 2;
-							else
-								pitchers2[p2index][8] = pitchers2[p2index][8] + 2;
-							
-							if (inning % 2 == 1)
-								team1[t1index][6] = team1[t1index][6] + 2;
-							else
+								pitchers1[b1player[1]][8] = pitchers1[b1player[1]][8] + 1;
+								pitchers1[b3player[1]][8] = pitchers1[b3player[1]][8] + 1;
+
+								team2[b1player[0]][1]++;
+								team2[b3player[0]][1]++;
 								team2[t2index][6] = team2[t2index][6] + 2;
+								b2player = { t2index, p1index };
+
+								runs2 = runs2 + 2;
+							}	
 						}
 					}
 					else if (!base1 && base2 && base3)
@@ -2025,31 +1894,28 @@ public class GameGenerator
 						
 						if (inning % 2 == 1)
 						{
-							team1[b2player][1]++;
-							team1[b3player][1]++;
-							b2player = t1index;
+							pitchers2[b2player[1]][8] = pitchers2[b2player[1]][8] + 1;
+							pitchers2[b3player[1]][8] = pitchers2[b3player[1]][8] + 1;
+
+							team1[b2player[0]][1]++;
+							team1[b3player[0]][1]++;
+							team1[t1index][6] = team1[t1index][6] + 2;
+							b2player = { t1index, p2index };
+
+							runs1 = runs1 + 2;
 						}
 						else
 						{
-							team2[b2player][1]++;
-							team2[b3player][1]++;
-							b2player = t2index;
-						}
-						
-						if (inning % 2 == 1)
-							runs1 = runs1 + 2;
-						else
-							runs2 = runs2 + 2;
-						
-						if (inning % 2 == 0)
-							pitchers1[p1index][8] = pitchers1[p1index][8] + 2;
-						else
-							pitchers2[p2index][8] = pitchers2[p2index][8] + 2;
-						
-						if (inning % 2 == 1)
-							team1[t1index][6] = team1[t1index][6] + 2;
-						else
+							pitchers1[b2player[1]][8] = pitchers1[b2player[1]][8] + 1;
+							pitchers1[b3player[1]][8] = pitchers1[b3player[1]][8] + 1;
+
+							team2[b2player[0]][1]++;
+							team2[b3player[0]][1]++;
 							team2[t2index][6] = team2[t2index][6] + 2;
+							b2player = { t2index, p1index };
+
+							runs2 = runs2 + 2;
+						}	
 					}
 					else if (base1 && base2 && base3)
 					{
@@ -2062,33 +1928,30 @@ public class GameGenerator
 							
 							if (inning % 2 == 1)
 							{
-								team1[b2player][1]++;
-								team1[b3player][1]++;
+								pitchers2[b2player[1]][8] = pitchers2[b2player[1]][8] + 1;
+								pitchers2[b3player[1]][8] = pitchers2[b3player[1]][8] + 1;
+
+								team1[b2player[0]][1]++;
+								team1[b3player[0]][1]++;
+								team1[t1index][6] = team1[t1index][6] + 2;
 								b3player = b1player;
-								b2player = t1index;
+								b2player = { t1index, p2index };
+
+								runs1 = runs1 + 2;
 							}
 							else
 							{
-								team2[b2player][1]++;
-								team2[b3player][1]++;
-								b3player = b1player;
-								b2player = t2index;
-							}
-							
-							if (inning % 2 == 1)
-								runs1 = runs1 + 2;
-							else
-								runs2 = runs2 + 2;
-							
-							if (inning % 2 == 0)
-								pitchers1[p1index][8] = pitchers1[p1index][8] + 2;
-							else
-								pitchers2[p2index][8] = pitchers2[p2index][8] + 2;
-							
-							if (inning % 2 == 1)
-								team1[t1index][6] = team1[t1index][6] + 2;
-							else
+								pitchers1[b2player[1]][8] = pitchers1[b2player[1]][8] + 1;
+								pitchers1[b3player[1]][8] = pitchers1[b3player[1]][8] + 1;
+
+								team2[b2player[0]][1]++;
+								team2[b3player[0]][1]++;
 								team2[t2index][6] = team2[t2index][6] + 2;
+								b3player = b1player;
+								b2player = { t2index, p1index };
+
+								runs2 = runs2 + 2;
+							}		
 						}
 						else
 						{
@@ -2098,33 +1961,32 @@ public class GameGenerator
 							
 							if (inning % 2 == 1)
 							{
-								team1[b1player][1]++;
-								team1[b2player][1]++;
-								team1[b3player][1]++;
-								b2player = t1index;
+								pitchers2[b1player[1]][8] = pitchers2[b1player[1]][8] + 1;
+								pitchers2[b2player[1]][8] = pitchers2[b2player[1]][8] + 1;
+								pitchers2[b3player[1]][8] = pitchers2[b3player[1]][8] + 1;
+
+								team1[b1player[0]][1]++;
+								team1[b2player[0]][1]++;
+								team1[b3player[0]][1]++;
+								team1[t1index][6] = team1[t1index][6] + 3;
+								b2player = { t1index, p2index };
+
+								runs1 = runs1 + 3;
 							}
 							else
 							{
-								team2[b1player][1]++;
-								team2[b2player][1]++;
-								team2[b3player][1]++;
-								b2player = t2index;
-							}
-							
-							if (inning % 2 == 1)
-								runs1 = runs1 + 3;
-							else
-								runs2 = runs2 + 3;
-							
-							if (inning % 2 == 0)
-								pitchers1[p1index][8] = pitchers1[p1index][8] + 3;
-							else
-								pitchers2[p2index][8] = pitchers2[p2index][8] + 3;
-							
-							if (inning % 2 == 1)
-								team1[t1index][6] = team1[t1index][6] + 3;
-							else
+								pitchers1[b1player[1]][8] = pitchers1[b1player[1]][8] + 1;
+								pitchers1[b2player[1]][8] = pitchers1[b2player[1]][8] + 1;
+								pitchers1[b3player[1]][8] = pitchers1[b3player[1]][8] + 1;
+
+								team2[b1player[0]][1]++;
+								team2[b2player[0]][1]++;
+								team2[b3player[0]][1]++;
 								team2[t2index][6] = team2[t2index][6] + 3;
+								b2player = { t2index, p1index };
+
+								runs2 = runs2 + 3;
+							}
 						}
 					}
 				}
@@ -2133,29 +1995,25 @@ public class GameGenerator
 					FullPrintLine("Home run");
 					
 					if (inning % 2 == 1)
+					{
 						pitchers2[p2index][7]++;
-					else
-						pitchers1[p1index][7]++;
-					
-					if (inning % 2 == 1)
 						pitchers2[p2index][9]++;
-					else
-						pitchers1[p1index][9]++;
-					
-					if (inning % 2 == 1)
+
 						team1[t1index][2]++;
-					else
-						team2[t2index][2]++;
-					
-					if (inning % 2 == 1)
 						team1[t1index][5]++;
-					else
-						team2[t2index][5]++;
-					
-					if (inning % 2 == 1)
+
 						hits1++;
+					}
 					else
+					{
+						pitchers1[p1index][7]++;
+						pitchers1[p1index][9]++;
+
+						team2[t2index][2]++;
+						team2[t2index][5]++;
+
 						hits2++;
+					}
 					
 					if (!base1 && !base2 && !base3)
 					{
@@ -2165,27 +2023,22 @@ public class GameGenerator
 						
 						if (inning % 2 == 1)
 						{
+							pitchers2[p2index][8] = pitchers2[p2index][8] + 1;
+
 							team1[t1index][1]++;
+							team1[t1index][6]++;
+
+							runs1++;
 						}
 						else
 						{
-							team2[t2index][1]++;
-						}
-						
-						if (inning % 2 == 1)
-							runs1++;
-						else
-							runs2++;
-						
-						if (inning % 2 == 0)
 							pitchers1[p1index][8] = pitchers1[p1index][8] + 1;
-						else
-							pitchers2[p2index][8] = pitchers2[p2index][8] + 1;
-						
-						if (inning % 2 == 1)
-							team1[t1index][6]++;
-						else
+
+							team2[t2index][1]++;
 							team2[t2index][6]++;
+
+							runs2++;
+						}
 					}
 					else if (base1 && !base2 && !base3)
 					{
@@ -2195,29 +2048,24 @@ public class GameGenerator
 						
 						if (inning % 2 == 1)
 						{
-							team1[b1player][1]++;
+							pitchers2[b1player[1]][8] = pitchers2[b1player[1]][8] + 1;
+
+							team1[b1player[0]][1]++;
 							team1[t1index][1]++;
+							team1[t1index][6] = team1[t1index][6] + 2;
+
+							runs1 = runs1 + 2;
 						}
 						else
 						{
-							team2[b1player][1]++;
+							pitchers1[b1player[1]][8] = pitchers1[b1player[1]][8] + 1;
+
+							team2[b1player[0]][1]++;
 							team2[t2index][1]++;
-						}
-						
-						if (inning % 2 == 1)
-							runs1 = runs1 + 2;
-						else
-							runs2 = runs2 + 2;
-						
-						if (inning % 2 == 0)
-							pitchers1[p1index][8] = pitchers1[p1index][8] + 2;
-						else
-							pitchers2[p2index][8] = pitchers2[p2index][8] + 2;
-						
-						if (inning % 2 == 1)
-							team1[t1index][6] = team1[t1index][6] + 2;
-						else
 							team2[t2index][6] = team2[t2index][6] + 2;
+
+							runs2 = runs2 + 2;
+						}
 					}
 					else if (!base1 && base2 && !base3)
 					{
@@ -2227,29 +2075,24 @@ public class GameGenerator
 						
 						if (inning % 2 == 1)
 						{
-							team1[b2player][1]++;
+							pitchers2[b2player[1]][8] = pitchers2[b2player[1]][8] + 1;
+
+							team1[b2player[0]][1]++;
 							team1[t1index][1]++;
+							team1[t1index][6] = team1[t1index][6] + 2;
+
+							runs1 = runs1 + 2;
 						}
 						else
 						{
-							team2[b2player][1]++;
+							pitchers1[b2player[1]][8] = pitchers1[b2player[1]][8] + 1;
+
+							team2[b2player[0]][1]++;
 							team2[t2index][1]++;
-						}
-						
-						if (inning % 2 == 1)
-							runs1 = runs1 + 2;
-						else
-							runs2 = runs2 + 2;
-						
-						if (inning % 2 == 0)
-							pitchers1[p1index][8] = pitchers1[p1index][8] + 2;
-						else
-							pitchers2[p2index][8] = pitchers2[p2index][8] + 2;
-						
-						if (inning % 2 == 1)
-							team1[t1index][6] = team1[t1index][6] + 2;
-						else
 							team2[t2index][6] = team2[t2index][6] + 2;
+
+							runs2 = runs2 + 2;
+						}
 					}
 					else if (!base1 && !base2 && base3)
 					{
@@ -2259,29 +2102,24 @@ public class GameGenerator
 						
 						if (inning % 2 == 1)
 						{
-							team1[b3player][1]++;
+							pitchers2[b3player[1]][8] = pitchers2[b3player[1]][8] + 1;
+
+							team1[b3player[0]][1]++;
 							team1[t1index][1]++;
+							team1[t1index][6] = team1[t1index][6] + 2;
+
+							runs1 = runs1 + 2;
 						}
 						else
 						{
-							team2[b3player][1]++;
+							pitchers1[b3player[1]][8] = pitchers1[b3player[1]][8] + 1;
+
+							team2[b3player[0]][1]++;
 							team2[t2index][1]++;
-						}
-						
-						if (inning % 2 == 1)
-							runs1 = runs1 + 2;
-						else
-							runs2 = runs2 + 2;
-						
-						if (inning % 2 == 0)
-							pitchers1[p1index][8] = pitchers1[p1index][8] + 2;
-						else
-							pitchers2[p2index][8] = pitchers2[p2index][8] + 2;
-						
-						if (inning % 2 == 1)
-							team1[t1index][6] = team1[t1index][6] + 2;
-						else
 							team2[t2index][6] = team2[t2index][6] + 2;
+
+							runs2 = runs2 + 2;
+						}	
 					}
 					else if (base1 && base2 && !base3)
 					{
@@ -2291,31 +2129,28 @@ public class GameGenerator
 						
 						if (inning % 2 == 1)
 						{
-							team1[b1player][1]++;
-							team1[b2player][1]++;
+							pitchers2[b1player[1]][8] = pitchers2[b1player[1]][8] + 1;
+							pitchers2[b2player[1]][8] = pitchers2[b2player[1]][8] + 1;
+
+							team1[b1player[0]][1]++;
+							team1[b2player[0]][1]++;
 							team1[t1index][1]++;
+							team1[t1index][6] = team1[t1index][6] + 3;
+
+							runs1 = runs1 + 3;
 						}
 						else
 						{
-							team2[b1player][1]++;
-							team2[b2player][1]++;
+							pitchers1[b1player[1]][8] = pitchers1[b1player[1]][8] + 1;
+							pitchers1[b2player[1]][8] = pitchers1[b2player[1]][8] + 1;
+
+							team2[b1player[0]][1]++;
+							team2[b2player[0]][1]++;
 							team2[t2index][1]++;
-						}
-						
-						if (inning % 2 == 1)
-							runs1 = runs1 + 3;
-						else
-							runs2 = runs2 + 3;
-						
-						if (inning % 2 == 0)
-							pitchers1[p1index][8] = pitchers1[p1index][8] + 3;
-						else
-							pitchers2[p2index][8] = pitchers2[p2index][8] + 3;
-						
-						if (inning % 2 == 1)
-							team1[t1index][6] = team1[t1index][6] + 3;
-						else
 							team2[t2index][6] = team2[t2index][6] + 3;
+
+							runs2 = runs2 + 3;
+						}	
 					}
 					else if (base1 && !base2 && base3)
 					{
@@ -2325,31 +2160,28 @@ public class GameGenerator
 						
 						if (inning % 2 == 1)
 						{
-							team1[b1player][1]++;
-							team1[b3player][1]++;
+							pitchers2[b1player[1]][8] = pitchers2[b1player[1]][8] + 1;
+							pitchers2[b3player[1]][8] = pitchers2[b3player[1]][8] + 1;
+
+							team1[b1player[0]][1]++;
+							team1[b3player[0]][1]++;
 							team1[t1index][1]++;
+							team1[t1index][6] = team1[t1index][6] + 3;
+
+							runs1 = runs1 + 3;
 						}
 						else
 						{
-							team2[b1player][1]++;
-							team2[b3player][1]++;
+							pitchers1[b1player[1]][8] = pitchers1[b1player[1]][8] + 1;
+							pitchers1[b3player[1]][8] = pitchers1[b3player[1]][8] + 1;
+
+							team2[b1player[0]][1]++;
+							team2[b3player[0]][1]++;
 							team2[t2index][1]++;
-						}
-						
-						if (inning % 2 == 1)
-							runs1 = runs1 + 3;
-						else
-							runs2 = runs2 + 3;
-						
-						if (inning % 2 == 0)
-							pitchers1[p1index][8] = pitchers1[p1index][8] + 3;
-						else
-							pitchers2[p2index][8] = pitchers2[p2index][8] + 3;
-						
-						if (inning % 2 == 1)
-							team1[t1index][6] = team1[t1index][6] + 3;
-						else
 							team2[t2index][6] = team2[t2index][6] + 3;
+
+							runs2 = runs2 + 3;
+						}	
 					}
 					else if (!base1 && base2 && base3)
 					{
@@ -2359,31 +2191,28 @@ public class GameGenerator
 						
 						if (inning % 2 == 1)
 						{
-							team1[b2player][1]++;
-							team1[b3player][1]++;
+							pitchers2[b2player[1]][8] = pitchers2[b2player[1]][8] + 1;
+							pitchers2[b3player[1]][8] = pitchers2[b3player[1]][8] + 1;
+
+							team1[b2player[0]][1]++;
+							team1[b3player[0]][1]++;
 							team1[t1index][1]++;
+							team1[t1index][6] = team1[t1index][6] + 3;
+
+							runs1 = runs1 + 3;
 						}
 						else
 						{
-							team2[b2player][1]++;
-							team2[b3player][1]++;
+							pitchers1[b2player[1]][8] = pitchers1[b2player[1]][8] + 1;
+							pitchers1[b3player[1]][8] = pitchers1[b3player[1]][8] + 1;
+
+							team2[b2player[0]][1]++;
+							team2[b3player[0]][1]++;
 							team2[t2index][1]++;
-						}
-						
-						if (inning % 2 == 1)
-							runs1 = runs1 + 3;
-						else
-							runs2 = runs2 + 3;
-						
-						if (inning % 2 == 0)
-							pitchers1[p1index][8] = pitchers1[p1index][8] + 3;
-						else
-							pitchers2[p2index][8] = pitchers2[p2index][8] + 3;
-						
-						if (inning % 2 == 1)
-							team1[t1index][6] = team1[t1index][6] + 3;
-						else
 							team2[t2index][6] = team2[t2index][6] + 3;
+
+							runs2 = runs2 + 3;
+						}	
 					}
 					else if (base1 && base2 && base3)
 					{
@@ -2393,33 +2222,32 @@ public class GameGenerator
 						
 						if (inning % 2 == 1)
 						{
-							team1[b1player][1]++;
-							team1[b2player][1]++;
-							team1[b3player][1]++;
+							pitchers2[b1player[1]][8] = pitchers2[b1player[1]][8] + 1;
+							pitchers2[b2player[1]][8] = pitchers2[b2player[1]][8] + 1;
+							pitchers2[b3player[1]][8] = pitchers2[b3player[1]][8] + 1;
+
+							team1[b1player[0]][1]++;
+							team1[b2player[0]][1]++;
+							team1[b3player[0]][1]++;
 							team1[t1index][1]++;
+							team1[t1index][6] = team1[t1index][6] + 4;
+
+							runs1 = runs1 + 4;
 						}
 						else
 						{
-							team2[b1player][1]++;
-							team2[b2player][1]++;
-							team2[b3player][1]++;
+							pitchers1[b1player[1]][8] = pitchers1[b1player[1]][8] + 1;
+							pitchers1[b2player[1]][8] = pitchers1[b2player[1]][8] + 1;
+							pitchers1[b3player[1]][8] = pitchers1[b3player[1]][8] + 1;
+
+							team2[b1player[0]][1]++;
+							team2[b2player[0]][1]++;
+							team2[b3player[0]][1]++;
 							team2[t2index][1]++;
-						}
-						
-						if (inning % 2 == 1)
-							runs1 = runs1 + 4;
-						else
-							runs2 = runs2 + 4;
-						
-						if (inning % 2 == 0)
-							pitchers1[p1index][8] = pitchers1[p1index][8] + 4;
-						else
-							pitchers2[p2index][8] = pitchers2[p2index][8] + 4;
-						
-						if (inning % 2 == 1)
-							team1[t1index][6] = team1[t1index][6] + 4;
-						else
 							team2[t2index][6] = team2[t2index][6] + 4;
+
+							runs2 = runs2 + 4;
+						}	
 					}
 				}
 				else if (rng == 78 || rng == 93)
@@ -2427,24 +2255,23 @@ public class GameGenerator
 					FullPrintLine("Triple");
 					
 					if (inning % 2 == 1)
+					{
 						pitchers2[p2index][7]++;
-					else
-						pitchers1[p1index][7]++;
-					
-					if (inning % 2 == 1)
+
 						team1[t1index][2]++;
-					else
-						team2[t2index][2]++;
-					
-					if (inning % 2 == 1)
 						team1[t1index][4]++;
-					else
-						team2[t2index][4]++;
-					
-					if (inning % 2 == 1)
+
 						hits1++;
+					}
 					else
+					{
+						pitchers1[p1index][7]++;
+
+						team2[t2index][2]++;
+						team2[t2index][4]++;
+
 						hits2++;
+					}	
 					
 					if (!base1 && !base2 && !base3)
 					{
@@ -2454,11 +2281,11 @@ public class GameGenerator
 						
 						if (inning % 2 == 1)
 						{
-							b3player = t1index;
+							b3player = { t1index, p2index };
 						}
 						else
 						{
-							b3player = t2index;
+							b3player = { t2index, p1index };
 						}
 					}
 					else if (base1 && !base2 && !base3)
@@ -2469,29 +2296,24 @@ public class GameGenerator
 						
 						if (inning % 2 == 1)
 						{
-							team1[b1player][1]++;
-							b3player = t1index;
+							pitchers2[b1player[1]][8] = pitchers2[b1player[1]][8] + 1;
+
+							team1[b1player[0]][1]++;
+							team1[t1index][6]++;
+							b3player = { t1index, p2index };
+
+							runs1++;
 						}
 						else
 						{
-							team2[b1player][1]++;
-							b3player = t2index;
-						}
-						
-						if (inning % 2 == 1)
-							runs1++;
-						else
-							runs2++;
-						
-						if (inning % 2 == 0)
-							pitchers1[p1index][8] = pitchers1[p1index][8] + 1;
-						else
-							pitchers2[p2index][8] = pitchers2[p2index][8] + 1;
-						
-						if (inning % 2 == 1)
-							team1[t1index][6]++;
-						else
+							pitchers1[b1player[1]][8] = pitchers1[b1player[1]][8] + 1;
+
+							team2[b1player[0]][1]++;
 							team2[t2index][6]++;
+							b3player = { t2index, p1index };
+
+							runs2++;
+						}		
 					}
 					else if (!base1 && base2 && !base3)
 					{
@@ -2501,29 +2323,24 @@ public class GameGenerator
 						
 						if (inning % 2 == 1)
 						{
-							team1[b2player][1]++;
-							b3player = t1index;
+							pitchers2[b2player[1]][8] = pitchers2[b2player[1]][8] + 1;
+
+							team1[b2player[0]][1]++;
+							team1[t1index][6]++;
+							b3player = { t1index, p2index };
+
+							runs1++;
 						}
 						else
 						{
-							team2[b2player][1]++;
-							b3player = t2index;
-						}
-						
-						if (inning % 2 == 1)
-							runs1++;
-						else
-							runs2++;
-						
-						if (inning % 2 == 0)
-							pitchers1[p1index][8] = pitchers1[p1index][8] + 1;
-						else
-							pitchers2[p2index][8] = pitchers2[p2index][8] + 1;
-						
-						if (inning % 2 == 1)
-							team1[t1index][6]++;
-						else
+							pitchers1[b2player[1]][8] = pitchers1[b2player[1]][8] + 1;
+
+							team2[b2player[0]][1]++;
 							team2[t2index][6]++;
+							b3player = { t2index, p1index };
+
+							runs2++;
+						}		
 					}
 					else if (!base1 && !base2 && base3)
 					{
@@ -2533,29 +2350,24 @@ public class GameGenerator
 						
 						if (inning % 2 == 1)
 						{
-							team1[b3player][1]++;
-							b3player = t1index;
+							pitchers2[b3player[1]][8] = pitchers2[b3player[1]][8] + 1;
+
+							team1[b3player[0]][1]++;
+							team1[t1index][6]++;
+							b3player = { t1index, p2index };
+
+							runs1++;
 						}
 						else
 						{
-							team2[b3player][1]++;
-							b3player = t2index;
-						}
-						
-						if (inning % 2 == 1)
-							runs1++;
-						else
-							runs2++;
-						
-						if (inning % 2 == 0)
-							pitchers1[p1index][8] = pitchers1[p1index][8] + 1;
-						else
-							pitchers2[p2index][8] = pitchers2[p2index][8] + 1;
-						
-						if (inning % 2 == 1)
-							team1[t1index][6]++;
-						else
+							pitchers1[b3player[1]][8] = pitchers1[b3player[1]][8] + 1;
+
+							team2[b3player[0]][1]++;
 							team2[t2index][6]++;
+							b3player = { t2index, p1index };
+
+							runs2++;
+						}
 					}
 					else if (base1 && base2 && !base3)
 					{
@@ -2565,31 +2377,28 @@ public class GameGenerator
 						
 						if (inning % 2 == 1)
 						{
-							team1[b1player][1]++;
-							team1[b2player][1]++;
-							b3player = t1index;
+							pitchers2[b1player[1]][8] = pitchers2[b1player[1]][8] + 1;
+							pitchers2[b2player[1]][8] = pitchers2[b2player[1]][8] + 1;
+
+							team1[b1player[0]][1]++;
+							team1[b2player[0]][1]++;
+							team1[t1index][6] = team1[t1index][6] + 2;
+							b3player = { t1index, p2index };
+
+							runs1 = runs1 + 2;
 						}
 						else
 						{
-							team2[b1player][1]++;
-							team2[b2player][1]++;
-							b3player = t2index;
-						}
-						
-						if (inning % 2 == 1)
-							runs1 = runs1 + 2;
-						else
-							runs2 = runs2 + 2;
-						
-						if (inning % 2 == 0)
-							pitchers1[p1index][8] = pitchers1[p1index][8] + 2;
-						else
-							pitchers2[p2index][8] = pitchers2[p2index][8] + 2;
-						
-						if (inning % 2 == 1)
-							team1[t1index][6] = team1[t1index][6] + 2;
-						else
+							pitchers1[b1player[1]][8] = pitchers1[b1player[1]][8] + 1;
+							pitchers1[b2player[1]][8] = pitchers1[b2player[1]][8] + 1;
+
+							team2[b1player[0]][1]++;
+							team2[b2player[0]][1]++;
 							team2[t2index][6] = team2[t2index][6] + 2;
+							b3player = { t2index, p1index };
+
+							runs2 = runs2 + 2;
+						}	
 					}
 					else if (base1 && !base2 && base3)
 					{
@@ -2599,31 +2408,28 @@ public class GameGenerator
 						
 						if (inning % 2 == 1)
 						{
-							team1[b1player][1]++;
-							team1[b3player][1]++;
-							b3player = t1index;
+							pitchers2[b1player[1]][8] = pitchers2[b1player[1]][8] + 1;
+							pitchers2[b3player[1]][8] = pitchers2[b3player[1]][8] + 1;
+
+							team1[b1player[0]][1]++;
+							team1[b3player[0]][1]++;
+							team1[t1index][6] = team1[t1index][6] + 2;
+							b3player = { t1index, p2index };
+
+							runs1 = runs1 + 2;
 						}
 						else
 						{
-							team2[b1player][1]++;
-							team2[b3player][1]++;
-							b3player = t2index;
-						}
-						
-						if (inning % 2 == 1)
-							runs1 = runs1 + 2;
-						else
-							runs2 = runs2 + 2;
-						
-						if (inning % 2 == 0)
-							pitchers1[p1index][8] = pitchers1[p1index][8] + 2;
-						else
-							pitchers2[p2index][8] = pitchers2[p2index][8] + 2;
-						
-						if (inning % 2 == 1)
-							team1[t1index][6] = team1[t1index][6] + 2;
-						else
+							pitchers1[b1player[1]][8] = pitchers1[b1player[1]][8] + 1;
+							pitchers1[b3player[1]][8] = pitchers1[b3player[1]][8] + 1;
+
+							team2[b1player[0]][1]++;
+							team2[b3player[0]][1]++;
 							team2[t2index][6] = team2[t2index][6] + 2;
+							b3player = { t2index, p1index };
+
+							runs2 = runs2 + 2;
+						}		
 					}
 					else if (!base1 && base2 && base3)
 					{
@@ -2633,31 +2439,28 @@ public class GameGenerator
 						
 						if (inning % 2 == 1)
 						{
-							team1[b2player][1]++;
-							team1[b3player][1]++;
-							b3player = t1index;
+							pitchers2[b2player[1]][8] = pitchers2[b2player[1]][8] + 1;
+							pitchers2[b3player[1]][8] = pitchers2[b3player[1]][8] + 1;
+
+							team1[b2player[0]][1]++;
+							team1[b3player[0]][1]++;
+							team1[t1index][6] = team1[t1index][6] + 2;
+							b3player = { t1index, p2index };
+
+							runs1 = runs1 + 2;
 						}
 						else
 						{
-							team2[b2player][1]++;
-							team2[b3player][1]++;
-							b3player = t2index;
-						}
-						
-						if (inning % 2 == 1)
-							runs1 = runs1 + 2;
-						else
-							runs2 = runs2 + 2;
-						
-						if (inning % 2 == 0)
-							pitchers1[p1index][8] = pitchers1[p1index][8] + 2;
-						else
-							pitchers2[p2index][8] = pitchers2[p2index][8] + 2;
-						
-						if (inning % 2 == 1)
-							team1[t1index][6] = team1[t1index][6] + 2;
-						else
+							pitchers1[b2player[1]][8] = pitchers1[b2player[1]][8] + 1;
+							pitchers1[b3player[1]][8] = pitchers1[b3player[1]][8] + 1;
+
+							team2[b2player[0]][1]++;
+							team2[b3player[0]][1]++;
 							team2[t2index][6] = team2[t2index][6] + 2;
+							b3player = { t2index, p1index };
+
+							runs2 = runs2 + 2;
+						}
 					}
 					else if (base1 && base2 && base3)
 					{
@@ -2667,33 +2470,32 @@ public class GameGenerator
 						
 						if (inning % 2 == 1)
 						{
-							team1[b1player][1]++;
-							team1[b2player][1]++;
-							team1[b3player][1]++;
-							b3player = t1index;
+							pitchers2[b1player[1]][8] = pitchers2[b1player[1]][8] + 1;
+							pitchers2[b2player[1]][8] = pitchers2[b2player[1]][8] + 1;
+							pitchers2[b3player[1]][8] = pitchers2[b3player[1]][8] + 1;
+
+							team1[b1player[0]][1]++;
+							team1[b2player[0]][1]++;
+							team1[b3player[0]][1]++;
+							team1[t1index][6] = team1[t1index][6] + 3;
+							b3player = { t1index, p2index };
+
+							runs1 = runs1 + 3;
 						}
 						else
 						{
-							team2[b1player][1]++;
-							team2[b2player][1]++;
-							team2[b3player][1]++;
-							b3player = t2index;
-						}
-						
-						if (inning % 2 == 1)
-							runs1 = runs1 + 3;
-						else
-							runs2 = runs2 + 3;
-						
-						if (inning % 2 == 0)
-							pitchers1[p1index][8] = pitchers1[p1index][8] + 3;
-						else
-							pitchers2[p2index][8] = pitchers2[p2index][8] + 3;
-						
-						if (inning % 2 == 1)
-							team1[t1index][6] = team1[t1index][6] + 3;
-						else
+							pitchers1[b1player[1]][8] = pitchers1[b1player[1]][8] + 1;
+							pitchers1[b2player[1]][8] = pitchers1[b2player[1]][8] + 1;
+							pitchers1[b3player[1]][8] = pitchers1[b3player[1]][8] + 1;
+
+							team2[b1player[0]][1]++;
+							team2[b2player[0]][1]++;
+							team2[b3player[0]][1]++;
 							team2[t2index][6] = team2[t2index][6] + 3;
+							b3player = { t2index, p1index };
+
+							runs2 = runs2 + 3;
+						}			
 					}
 				}
 				else
@@ -2750,6 +2552,7 @@ public class GameGenerator
 				pitchers2[1][0] = 0;
 				pitchers2[2][0] = 0;
 				pitchers2[3][0] = 0;
+				pitchers2[4][0] = 0;
 			}
 			else if (runs1 == runs2)
 			{
@@ -2757,11 +2560,13 @@ public class GameGenerator
 				pitchers1[1][0] = 0;
 				pitchers1[2][0] = 0;
 				pitchers1[3][0] = 0;
+				pitchers1[4][0] = 0;
 				
 				pitchers2[0][0] = 0;
 				pitchers2[1][0] = 0;
 				pitchers2[2][0] = 0;
 				pitchers2[3][0] = 0;
+				pitchers2[4][0] = 0;
 			}
 			else if (runs2 > runs1 && pitchers2[0][0] == 0 && pitchers2[1][0] == 0 && pitchers2[2][0] == 0 && pitchers2[3][0] == 0)
 			{
@@ -2771,6 +2576,7 @@ public class GameGenerator
 				pitchers1[1][0] = 0;
 				pitchers1[2][0] = 0;
 				pitchers1[3][0] = 0;
+				pitchers1[4][0] = 0;
 			}
 			
 			if (runs1 < runs2 && pitchers1[0][1] == 0 && pitchers1[1][1] == 0 && pitchers1[2][1] == 0 && pitchers1[3][1] == 0)
@@ -2781,6 +2587,7 @@ public class GameGenerator
 				pitchers2[1][1] = 0;
 				pitchers2[2][1] = 0;
 				pitchers2[3][1] = 0;
+				pitchers2[4][1] = 0;
 			}
 			else if (runs1 == runs2)
 			{
@@ -2788,11 +2595,13 @@ public class GameGenerator
 				pitchers1[1][1] = 0;
 				pitchers1[2][1] = 0;
 				pitchers1[3][1] = 0;
+				pitchers1[4][1] = 0;
 				
 				pitchers2[0][1] = 0;
 				pitchers2[1][1] = 0;
 				pitchers2[2][1] = 0;
 				pitchers2[3][1] = 0;
+				pitchers2[4][1] = 0;
 			}
 			else if (runs2 < runs1 && pitchers2[0][1] == 0 && pitchers2[1][1] == 0 && pitchers2[2][1] == 0 && pitchers2[3][1] == 0)
 			{
@@ -2802,19 +2611,20 @@ public class GameGenerator
 				pitchers1[1][1] = 0;
 				pitchers1[2][1] = 0;
 				pitchers1[3][1] = 0;
+				pitchers1[4][1] = 0;
 			}
 			
 			pitchers1[p1index][2] = 1;
 			pitchers2[p2index][2] = 1;
 			
 			//change pitchers
-			if (pitchswapA == false && p2index == 0 && outs == 3 && (pitchers2[p2index][6] + 1.25*pitchers2[p2index][10] + 1.5*pitchers2[p2index][7] + 1.75*(pitchers2[p2index][8]) > 29))
+			if (!pitchswapA && p2index == 0 && outs == 3 && (pitchers2[p2index][6] + 1.25*pitchers2[p2index][10] + 1.5*pitchers2[p2index][7] + 1.75*(pitchers2[p2index][8]) > 29))
 			{
 				tempA = inning;
 				pitchswapA = true;
 			}
 			
-			if (pitchswapB == false && p1index == 0 && outs == 3 && (pitchers1[p1index][6] + 1.25*pitchers1[p1index][10] + 1.5*pitchers1[p1index][7] + 1.75*(pitchers1[p1index][8]) > 29))
+			if (!pitchswapB && p1index == 0 && outs == 3 && (pitchers1[p1index][6] + 1.25*pitchers1[p1index][10] + 1.5*pitchers1[p1index][7] + 1.75*(pitchers1[p1index][8]) > 29))
 			{
 				tempB = inning;
 				pitchswapB = true;
@@ -2834,25 +2644,25 @@ public class GameGenerator
 				FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
 			}
 
-			if ((p2index == 1 || p2index == 2) && pitchers2[p2index+1][2] == 0 && pitchswapC == false && outs == 3 && (pitchers2[p2index][6] + 1.25*pitchers2[p2index][10] + 1.5*pitchers2[p2index][7] + 1.75*(pitchers2[p2index][8]) > 9))
+			if ((p2index == 1 || p2index == 2 || p2index == 3) && pitchers2[p2index+1][2] == 0 && !pitchswapC && outs == 3 && (pitchers2[p2index][6] + 1.25*pitchers2[p2index][10] + 1.5*pitchers2[p2index][7] + 1.75*(pitchers2[p2index][8]) > 9))
 			{
 				tempC = inning;
 				pitchswapC = true;
 			}
 
-			if ((p1index == 1 || p1index == 2) && pitchers1[p1index+1][2] == 0 && pitchswapD == false && outs == 3 && (pitchers1[p1index][6] + 1.25*pitchers1[p1index][10] + 1.5*pitchers1[p1index][7] + 1.75*(pitchers1[p1index][8]) > 9))
+			if ((p1index == 1 || p1index == 2 || p1index == 3) && pitchers1[p1index+1][2] == 0 && !pitchswapD && outs == 3 && (pitchers1[p1index][6] + 1.25*pitchers1[p1index][10] + 1.5*pitchers1[p1index][7] + 1.75*(pitchers1[p1index][8]) > 9))
 			{
 				tempD = inning;
 				pitchswapD = true;
 			}
 			
-			if ((p2index == 1 || p2index == 2) && pitchers2[p2index+1][2] == 0 && pitchswapC == false && outs != 3 && (pitchers2[p2index][6] + 1.25*pitchers2[p2index][10] + 1.5*pitchers2[p2index][7] + 1.75*(pitchers2[p2index][8]) > 13))
+			if ((p2index == 1 || p2index == 2 || p2index == 3) && pitchers2[p2index+1][2] == 0 && !pitchswapC && outs != 3 && (pitchers2[p2index][6] + 1.25*pitchers2[p2index][10] + 1.5*pitchers2[p2index][7] + 1.75*(pitchers2[p2index][8]) > 13))
 			{
 				p2index++;
 				FullPrintLine("Team 2 pitcher change to " + team2pitchers[p2index] + "\n");
 			}
 
-			if ((p1index == 1 || p1index == 2) && pitchers1[p1index+1][2] == 0 && pitchswapD == false && outs != 3 && (pitchers1[p1index][6] + 1.25*pitchers1[p1index][10] + 1.5*pitchers1[p1index][7] + 1.75*(pitchers1[p1index][8]) > 13))
+			if ((p1index == 1 || p1index == 2 || p1index == 3) && pitchers1[p1index+1][2] == 0 && !pitchswapD && outs != 3 && (pitchers1[p1index][6] + 1.25*pitchers1[p1index][10] + 1.5*pitchers1[p1index][7] + 1.75*(pitchers1[p1index][8]) > 13))
 			{
 				p1index++;
 				FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
@@ -2889,9 +2699,9 @@ public class GameGenerator
 				}
 				
 				//put in closer
-				if (inning == 17 && runs2 > runs1 && runs2 - runs1 <= 3 && p2index < 3)
+				if (inning == 17 && runs2 > runs1 && runs2 - runs1 <= 3 && p2index < 4)
 				{
-					p2index = 3;
+					p2index = 4;
 					pitchers2[3][4] = 1;
 					pitchers2[3][5] = 1;
 					FullPrintLine("Team 2 pitcher change to " + team2pitchers[p2index] + "\n");
@@ -2900,9 +2710,9 @@ public class GameGenerator
 				}
 				
 				//put in closer
-				if (inning == 18 && runs1 > runs2 && runs1 - runs2 <= 3 && p1index < 3)
+				if (inning == 18 && runs1 > runs2 && runs1 - runs2 <= 3 && p1index < 4)
 				{
-					p1index = 3;
+					p1index = 4;
 					pitchers1[3][4] = 1;
 					pitchers1[3][5] = 1;
 					FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
@@ -2911,7 +2721,7 @@ public class GameGenerator
 				}
 			}
 			
-			if (inning == 19 && p2index == 3 && pitchers2[p2index][5] == 1)
+			if (inning == 19 && p2index == 4 && pitchers2[p2index][5] == 1)
 			{
 				if (pitchers2[1][2] == 0)
 				{
@@ -2923,9 +2733,14 @@ public class GameGenerator
 					p2index = 2;
 					FullPrintLine("Team 2 pitcher change to " + team2pitchers[p2index] + "\n");
 				}
+				else if (pitchers2[3][2] == 0)
+				{
+					p2index = 3;
+					FullPrintLine("Team 2 pitcher change to " + team2pitchers[p2index] + "\n");
+				}
 			}
 			
-			if (inning == 20 && p1index == 3 && pitchers1[p1index][5] == 1)
+			if (inning == 20 && p1index == 4 && pitchers1[p1index][5] == 1)
 			{
 				if (pitchers1[1][2] == 0)
 				{
@@ -2935,6 +2750,11 @@ public class GameGenerator
 				else if (pitchers1[2][2] == 0)
 				{
 					p1index = 2;
+					FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
+				}
+				else if (pitchers1[3][2] == 0)
+				{
+					p1index = 3;
 					FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
 				}
 			}
@@ -3048,28 +2868,28 @@ public class GameGenerator
 				}
 			}
 			
-			if (inning == tempA + 2 && pitchswapA == true && game)
+			if (inning == tempA + 2 && pitchswapA && game)
 			{
 				pitchswapA = false;
 				p2index++;
 				FullPrintLine("Team 2 pitcher change to " + team2pitchers[p2index] + "\n");
 			}
 			
-			if (inning == tempB + 2 && pitchswapB == true && game)
+			if (inning == tempB + 2 && pitchswapB && game)
 			{
 				pitchswapB = false;
 				p1index++;
 				FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
 			}
 			
-			if (inning == tempC + 2 && pitchswapC == true && game)
+			if (inning == tempC + 2 && pitchswapC && game)
 			{
 				pitchswapC = false;
 				p2index++;
 				FullPrintLine("Team 2 pitcher change to " + team2pitchers[p2index] + "\n");
 			}
 			
-			if (inning == tempD + 2 && pitchswapD == true && game)
+			if (inning == tempD + 2 && pitchswapD && game)
 			{
 				pitchswapD = false;
 				p1index++;

@@ -1,0 +1,758 @@
+TOP INNING 1
+
+Edward Lowe: rng1 = 95 + 13 - 6 - 1 = 101
+rng2 = 80 + 14 - 6 - 1 = 87
+Double
+Team 2 pitcher (Uyehara Tanzan): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Leonardo Pinto: rng1 = 65 + 11 - 6 - 1 = 69
+Walk
+Team 2 pitcher (Uyehara Tanzan): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Nakazawa Shinji: rng1 = 3 + 9 - 6 - 1 = 5
+Strikeout
+Team 2 pitcher (Uyehara Tanzan): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Kevin Taylor: rng1 = 77 + 8 - 6 - 1 = 78
+rng2 = 61 + 10 - 6 - 1 = 64
+Single
+Team 2 pitcher (Uyehara Tanzan): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [3,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Leroy Powell: rng1 = 64 + 9 - 6 - 1 = 66
+rng2 = 55 + 9 - 6 - 1 = 57
+Lineout
+Team 2 pitcher (Uyehara Tanzan): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [3,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Alejandro López: rng1 = 32 + 5 - 6 - 1 = 30
+rng2 = 86 + 8 - 6 - 1 = 87
+Flyout
+Team 2 pitcher (Uyehara Tanzan): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Dylan Marsh: rng1 = 17 + 15 - 14 + 1 = 19
+Strikeout
+Team 1 pitcher (Reece Dixon): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Frankie Bell: rng1 = 88 + 11 - 14 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Reece Dixon): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Rodolfo Mullen: rng1 = 74 + 12 - 14 + 1 = 73
+rng2 = 98 + 10 - 15 + 1 = 94
+Home run
+Team 1 pitcher (Reece Dixon): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Rubén Indiano: rng1 = 11 + 12 - 14 + 1 = 10
+Strikeout
+Team 1 pitcher (Reece Dixon): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Marcelo Francis: rng1 = 15 + 13 - 14 + 1 = 15
+rng2 = 86 + 7 - 15 + 1 = 79
+Flyout
+Team 1 pitcher (Reece Dixon): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 2
+
+Jaiden Fortner: rng1 = 52 + 5 - 6 - 1 = 50
+rng2 = 17 + 7 - 6 - 1 = 17
+Groundout
+Team 2 pitcher (Uyehara Tanzan): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Demarcus Warner: rng1 = 36 + 5 - 6 - 1 = 34
+rng2 = 90 + 7 - 6 - 1 = 90
+Flyout
+Team 2 pitcher (Uyehara Tanzan): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Estefania Espina: rng1 = 8 + 6 - 6 - 1 = 7
+Strikeout
+Team 2 pitcher (Uyehara Tanzan): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 2
+
+Leon Watts: rng1 = 78 + 12 - 14 + 1 = 77
+rng2 = 7 + 5 - 15 + 1 = -2
+Single
+Team 1 pitcher (Reece Dixon): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Enrique Holmes: rng1 = 32 + 7 - 14 + 1 = 26
+Strikeout
+Team 1 pitcher (Reece Dixon): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Braylon Summers: rng1 = 80 + 7 - 14 + 1 = 74
+rng2 = 63 + 7 - 15 + 1 = 56
+Single
+Team 1 pitcher (Reece Dixon): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 1
+
+base1: [7,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 1-2
+
+Leo Hawkins: rng1 = 99 + 7 - 14 + 1 = 93
+rng2 = 85 + 6 - 15 + 1 = 77
+Double
+Team 1 pitcher (Reece Dixon): 9 batters faced, 4 runs allowed = 9 + 10.0 = 19.0, outs: 1
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-4
+
+Dylan Marsh: rng1 = 18 + 15 - 14 + 1 = 20
+Strikeout
+Team 1 pitcher (Reece Dixon): 10 batters faced, 4 runs allowed = 10 + 10.0 = 20.0, outs: 2
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-4
+
+Frankie Bell: rng1 = 18 + 11 - 14 + 1 = 16
+Strikeout
+Team 1 pitcher (Reece Dixon): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+TOP INNING 3
+
+Edward Lowe: rng1 = 81 + 13 - 6 - 1 = 87
+Walk
+Team 2 pitcher (Uyehara Tanzan): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Leonardo Pinto: rng1 = 36 + 11 - 6 - 1 = 40
+rng2 = 71 + 8 - 6 - 1 = 72
+Flyout
+Team 2 pitcher (Uyehara Tanzan): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Nakazawa Shinji: rng1 = 34 + 9 - 6 - 1 = 36
+rng2 = 37 + 10 - 6 - 1 = 40
+Groundout
+Team 2 pitcher (Uyehara Tanzan): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Kevin Taylor: rng1 = 9 + 8 - 6 - 1 = 10
+Strikeout
+Team 2 pitcher (Uyehara Tanzan): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+BOTTOM INNING 3
+
+Rodolfo Mullen: rng1 = 69 + 12 - 14 + 1 = 68
+rng2 = 7 + 10 - 15 + 1 = 3
+Groundout
+Team 1 pitcher (Reece Dixon): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Rubén Indiano: rng1 = 82 + 12 - 14 + 1 = 81
+rng2 = 98 + 10 - 15 + 1 = 94
+Home run
+Team 1 pitcher (Reece Dixon): 13 batters faced, 5 runs allowed = 13 + 12.5 = 25.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Marcelo Francis: rng1 = 45 + 13 - 14 + 1 = 45
+rng2 = 51 + 7 - 15 + 1 = 44
+Groundout
+Team 1 pitcher (Reece Dixon): 14 batters faced, 5 runs allowed = 14 + 12.5 = 26.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Leon Watts: rng1 = 59 + 12 - 14 + 1 = 58
+rng2 = 71 + 5 - 15 + 1 = 62
+Flyout
+Team 1 pitcher (Reece Dixon): 15 batters faced, 5 runs allowed = 15 + 12.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+TOP INNING 4
+
+Leroy Powell: rng1 = 43 + 9 - 6 - 1 = 45
+rng2 = 82 + 9 - 6 - 1 = 84
+Flyout
+Team 2 pitcher (Uyehara Tanzan): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Alejandro López: rng1 = 63 + 5 - 6 - 1 = 61
+rng2 = 12 + 8 - 6 - 1 = 13
+Groundout
+Team 2 pitcher (Uyehara Tanzan): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Jaiden Fortner: rng1 = 49 + 5 - 6 - 1 = 47
+rng2 = 81 + 7 - 6 - 1 = 81
+Flyout
+Team 2 pitcher (Uyehara Tanzan): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+BOTTOM INNING 4
+
+Enrique Holmes: rng1 = 14 + 7 - 14 + 1 = 8
+Strikeout
+Team 1 pitcher (Reece Dixon): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Braylon Summers: rng1 = 50 + 7 - 14 + 1 = 44
+rng2 = 68 + 7 - 15 + 1 = 61
+Flyout
+Team 1 pitcher (Reece Dixon): 17 batters faced, 5 runs allowed = 17 + 12.5 = 29.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Leo Hawkins: rng1 = 8 + 7 - 14 + 1 = 2
+Strikeout
+Team 1 pitcher (Reece Dixon): 18 batters faced, 5 runs allowed = 18 + 12.5 = 30.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+TOP INNING 5
+
+Demarcus Warner: rng1 = 47 + 5 - 6 - 1 = 45
+rng2 = 19 + 7 - 6 - 1 = 19
+Groundout
+Team 2 pitcher (Uyehara Tanzan): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Estefania Espina: rng1 = 27 + 6 - 6 - 1 = 26
+Strikeout
+Team 2 pitcher (Uyehara Tanzan): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Edward Lowe: rng1 = 47 + 13 - 6 - 1 = 53
+rng2 = 43 + 14 - 6 - 1 = 50
+Lineout
+Team 2 pitcher (Uyehara Tanzan): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+BOTTOM INNING 5
+
+Dylan Marsh: rng1 = 14 + 15 - 14 + 1 = 16
+Strikeout
+Team 1 pitcher (Reece Dixon): 19 batters faced, 5 runs allowed = 19 + 12.5 = 31.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Frankie Bell: rng1 = 55 + 11 - 14 + 1 = 53
+rng2 = 59 + 12 - 15 + 1 = 57
+Lineout
+Team 1 pitcher (Reece Dixon): 20 batters faced, 5 runs allowed = 20 + 12.5 = 32.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Rodolfo Mullen: rng1 = 26 + 12 - 14 + 1 = 25
+Strikeout
+Team 1 pitcher (Reece Dixon): 21 batters faced, 5 runs allowed = 21 + 12.5 = 33.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+TOP INNING 6
+
+Leonardo Pinto: rng1 = 8 + 11 - 6 - 1 = 12
+rng2 = 68 + 8 - 6 - 1 = 69
+Flyout
+Team 2 pitcher (Uyehara Tanzan): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Nakazawa Shinji: rng1 = 8 + 9 - 6 - 1 = 10
+Strikeout
+Team 2 pitcher (Uyehara Tanzan): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Kevin Taylor: rng1 = 29 + 8 - 6 - 1 = 30
+rng2 = 29 + 10 - 6 - 1 = 32
+Groundout
+Team 2 pitcher (Uyehara Tanzan): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Bravon McDaniel
+
+Rubén Indiano: rng1 = 60 + 12 - 7 + 1 = 66
+rng2 = 5 + 10 - 7 + 1 = 9
+Groundout
+Team 1 pitcher (Bravon McDaniel): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Marcelo Francis: rng1 = 73 + 13 - 7 + 1 = 80
+rng2 = 79 + 7 - 7 + 1 = 80
+Home run
+Team 1 pitcher (Bravon McDaniel): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Leon Watts: rng1 = 41 + 12 - 7 + 1 = 47
+rng2 = 36 + 5 - 7 + 1 = 35
+Groundout
+Team 1 pitcher (Bravon McDaniel): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Enrique Holmes: rng1 = 87 + 7 - 7 + 1 = 88
+Walk
+Team 1 pitcher (Bravon McDaniel): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Braylon Summers: rng1 = 70 + 7 - 7 + 1 = 71
+Walk
+Team 1 pitcher (Bravon McDaniel): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [7,1], base2: [6,1], base3: false
+base1: true, base2: true, base3: false
+Score: 1-6
+
+Leo Hawkins: rng1 = 44 + 7 - 7 + 1 = 45
+rng2 = 35 + 6 - 7 + 1 = 35
+Groundout
+Team 1 pitcher (Bravon McDaniel): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 7
+
+Leroy Powell: rng1 = 70 + 9 - 6 - 1 = 72
+rng2 = 12 + 9 - 6 - 1 = 14
+Single
+Team 2 pitcher (Uyehara Tanzan): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Alejandro López: rng1 = 74 + 5 - 6 - 1 = 72
+rng2 = 79 + 8 - 6 - 1 = 80
+Home run
+Team 2 pitcher (Uyehara Tanzan): 24 batters faced, 3 runs allowed = 24 + 7.5 = 31.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-6
+
+Jaiden Fortner: rng1 = 85 + 5 - 6 - 1 = 83
+rng2 = 91 + 7 - 6 - 1 = 91
+Double
+Team 2 pitcher (Uyehara Tanzan): 25 batters faced, 3 runs allowed = 25 + 7.5 = 32.5, outs: 0
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-6
+
+Demarcus Warner: rng1 = 68 + 5 - 6 - 1 = 66
+rng2 = 68 + 7 - 6 - 1 = 68
+Flyout
+Team 2 pitcher (Uyehara Tanzan): 26 batters faced, 3 runs allowed = 26 + 7.5 = 33.5, outs: 1
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-6
+
+Estefania Espina: rng1 = 34 + 6 - 6 - 1 = 33
+rng2 = 63 + 5 - 6 - 1 = 61
+Flyout
+Team 2 pitcher (Uyehara Tanzan): 27 batters faced, 3 runs allowed = 27 + 7.5 = 34.5, outs: 2
+
+base1: false, base2: false, base3: [6,0]
+base1: false, base2: false, base3: true
+Score: 3-6
+
+Team 2 pitcher change to Ripley Sjostrand
+
+Edward Lowe: rng1 = 91 + 13 - 12 - 1 = 91
+rng2 = 16 + 14 - 9 - 1 = 20
+Single
+Team 2 pitcher (Ripley Sjostrand): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-6
+
+Leonardo Pinto: rng1 = 3 + 11 - 12 - 1 = 1
+Strikeout
+Team 2 pitcher (Ripley Sjostrand): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-6
+
+-----------------------
+
+BOTTOM INNING 7
+
+Dylan Marsh: rng1 = 62 + 15 - 7 + 1 = 71
+Walk
+Team 1 pitcher (Bravon McDaniel): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 0
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-6
+
+Frankie Bell: rng1 = 65 + 11 - 7 + 1 = 70
+Walk
+Team 1 pitcher (Bravon McDaniel): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 0
+
+base1: [1,1], base2: [0,1], base3: false
+base1: true, base2: true, base3: false
+Score: 4-6
+
+Rodolfo Mullen: rng1 = 34 + 12 - 7 + 1 = 40
+rng2 = 30 + 10 - 7 + 1 = 34
+Groundout
+Team 1 pitcher (Bravon McDaniel): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: [2,1], base2: false, base3: [0,1]
+base1: true, base2: false, base3: true
+Score: 4-6
+
+Rubén Indiano: rng1 = 59 + 12 - 7 + 1 = 65
+rng2 = 42 + 10 - 7 + 1 = 46
+Groundout
+Team 1 pitcher (Bravon McDaniel): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 2
+
+base1: false, base2: [2,1], base3: false
+base1: false, base2: true, base3: false
+Score: 4-7
+
+Team 1 pitcher change to Armando Negron
+
+Marcelo Francis: rng1 = 76 + 13 - 9 + 1 = 81
+rng2 = 30 + 7 - 6 + 1 = 32
+Single
+Team 1 pitcher (Armando Negron): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-8
+
+Leon Watts: rng1 = 25 + 12 - 9 + 1 = 29
+rng2 = 71 + 5 - 6 + 1 = 71
+Flyout
+Team 1 pitcher (Armando Negron): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-8
+
+-----------------------
+
+TOP INNING 8
+
+Nakazawa Shinji: rng1 = 62 + 9 - 12 - 1 = 58
+rng2 = 54 + 10 - 9 - 1 = 54
+Lineout
+Team 2 pitcher (Ripley Sjostrand): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-8
+
+Kevin Taylor: rng1 = 36 + 8 - 12 - 1 = 31
+rng2 = 37 + 10 - 9 - 1 = 37
+Groundout
+Team 2 pitcher (Ripley Sjostrand): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-8
+
+Leroy Powell: rng1 = 58 + 9 - 12 - 1 = 54
+rng2 = 9 + 9 - 9 - 1 = 8
+Groundout
+Team 2 pitcher (Ripley Sjostrand): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-8
+
+-----------------------
+
+BOTTOM INNING 8
+
+Enrique Holmes: rng1 = 17 + 7 - 9 + 1 = 16
+Strikeout
+Team 1 pitcher (Armando Negron): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-8
+
+Braylon Summers: rng1 = 85 + 7 - 9 + 1 = 84
+rng2 = 21 + 7 - 6 + 1 = 23
+Single
+Team 1 pitcher (Armando Negron): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-8
+
+Leo Hawkins: rng1 = 96 + 7 - 9 + 1 = 95
+rng2 = 8 + 6 - 6 + 1 = 9
+Single
+Team 1 pitcher (Armando Negron): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [8,2], base2: [7,2], base3: false
+base1: true, base2: true, base3: false
+Score: 4-8
+
+Dylan Marsh: rng1 = 59 + 15 - 9 + 1 = 66
+rng2 = 66 + 15 - 6 + 1 = 76
+Flyout
+Team 1 pitcher (Armando Negron): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [8,2], base2: false, base3: [7,2]
+base1: true, base2: false, base3: true
+Score: 4-8
+
+Frankie Bell: rng1 = 87 + 11 - 9 + 1 = 90
+Walk
+Team 1 pitcher (Armando Negron): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [1,2], base2: [8,2], base3: [7,2]
+base1: true, base2: true, base3: true
+Score: 4-8
+
+Rodolfo Mullen: rng1 = 94 + 12 - 9 + 1 = 98
+rng2 = 48 + 10 - 6 + 1 = 53
+Single
+Team 1 pitcher (Armando Negron): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [2,2], base2: [1,2], base3: [8,2]
+base1: true, base2: true, base3: true
+Score: 4-9
+
+Rubén Indiano: rng1 = 90 + 12 - 9 + 1 = 94
+rng2 = 36 + 10 - 6 + 1 = 41
+Single
+Team 1 pitcher (Armando Negron): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 2
+
+base1: [3,2], base2: [2,2], base3: false
+base1: true, base2: true, base3: false
+Score: 4-11
+
+Team 1 pitcher change to Ian Colome
+
+Marcelo Francis: rng1 = 38 + 13 - 7 + 1 = 45
+rng2 = 41 + 7 - 5 + 1 = 44
+Groundout
+Team 1 pitcher (Ian Colome): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-11
+
+-----------------------
+
+TOP INNING 9
+
+Alejandro López: rng1 = 28 + 5 - 12 - 1 = 20
+Strikeout
+Team 2 pitcher (Ripley Sjostrand): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-11
+
+Jaiden Fortner: rng1 = 5 + 5 - 12 - 1 = -3
+Strikeout
+Team 2 pitcher (Ripley Sjostrand): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-11
+
+Demarcus Warner: rng1 = 75 + 5 - 12 - 1 = 67
+rng2 = 40 + 7 - 9 - 1 = 37
+Groundout
+Team 2 pitcher (Ripley Sjostrand): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-11
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 6
+Team 2 hits: 11
+Team 1 runs: 4
+Team 2 runs: 11
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-07-25
+Edward Lowe	3	1	2	1	0	0	1	1	0					Chicago
+Leonardo Pinto	3	0	0	0	0	0	0	1	1	
+Nakazawa Shinji	4	0	0	0	0	0	0	0	2	
+Kevin Taylor	4	0	1	0	0	0	1	0	1	
+Leroy Powell	4	1	1	0	0	0	0	0	0	
+Alejandro López	4	1	1	0	0	1	2	0	1	
+Jaiden Fortner	4	1	1	1	0	0	0	0	1	
+Demarcus Warner	4	0	0	0	0	0	0	0	0	
+Estefania Espina	3	0	0	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Reece Dixon	0	1	1	1	0	0	15	5	5	2	0	9	21	
+Bravon McDaniel	0	0	1	0	0	0	5	1	3	1	4	0	10	
+Armando Negron	0	0	1	0	0	0	3	5	3	0	1	1	9	
+Ian Colome	0	0	1	0	0	0	1	0	0	0	0	0	1	
+Charlie Jordan	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-07-25
+Dylan Marsh	4	1	0	0	0	0	0	1	3					San Antonio
+Frankie Bell	2	2	0	0	0	0	0	2	1	
+Rodolfo Mullen	5	2	2	0	0	1	3	0	1	
+Rubén Indiano	5	1	2	0	0	1	4	0	1	
+Marcelo Francis	5	1	2	0	0	1	2	0	0	
+Leon Watts	4	1	1	0	0	0	0	0	0	
+Enrique Holmes	3	0	0	0	0	0	0	1	3	
+Braylon Summers	3	2	2	0	0	0	0	1	0	
+Leo Hawkins	4	1	2	1	0	0	2	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Uyehara Tanzan	1	0	1	1	0	0	20	5	4	1	2	5	27	
+Ripley Sjostrand	0	0	1	0	0	0	7	1	0	0	0	3	8	
+Cullen McClain	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Lucas Gardner	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Sakai Tsuneo	0	0	0	0	0	0	0	0	0	0	0	0	0	

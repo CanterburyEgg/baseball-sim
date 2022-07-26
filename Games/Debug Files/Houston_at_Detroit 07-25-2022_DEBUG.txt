@@ -1,0 +1,696 @@
+TOP INNING 1
+
+Zachary Hughes: rng1 = 41 + 15 - 12 - 1 = 43
+rng2 = 4 + 15 - 12 - 1 = 6
+Groundout
+Team 2 pitcher (Christian Galán): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Cody Henderson: rng1 = 85 + 15 - 12 - 1 = 87
+Walk
+Team 2 pitcher (Christian Galán): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Aaron Vera: rng1 = 39 + 13 - 12 - 1 = 39
+rng2 = 31 + 7 - 12 - 1 = 25
+Groundout
+Team 2 pitcher (Christian Galán): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Joshua Marsh: rng1 = 43 + 4 - 12 - 1 = 34
+rng2 = 78 + 11 - 12 - 1 = 76
+Flyout
+Team 2 pitcher (Christian Galán): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Dante Leoz: rng1 = 67 + 15 - 4 + 1 = 79
+rng2 = 52 + 13 - 8 + 1 = 58
+Single
+Team 1 pitcher (Caleb Parker): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Reuben Sutton: rng1 = 1 + 15 - 4 + 1 = 13
+rng2 = 39 + 12 - 8 + 1 = 44
+Groundout
+Team 1 pitcher (Caleb Parker): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Cody McCarthy: rng1 = 40 + 13 - 4 + 1 = 50
+rng2 = 7 + 9 - 8 + 1 = 9
+Groundout
+Team 1 pitcher (Caleb Parker): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Joshua Fontina: rng1 = 82 + 9 - 12 - 1 = 78
+rng2 = 58 + 8 - 12 - 1 = 53
+Single
+Team 2 pitcher (Christian Galán): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Jadon Mitchell: rng1 = 68 + 7 - 12 - 1 = 62
+rng2 = 33 + 7 - 12 - 1 = 27
+Groundout
+Team 2 pitcher (Christian Galán): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Matías Martinez: rng1 = 33 + 6 - 12 - 1 = 26
+Strikeout
+Team 2 pitcher (Christian Galán): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Caden Bryan: rng1 = 84 + 7 - 4 + 1 = 88
+Walk
+Team 1 pitcher (Caleb Parker): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Joseph Thayer: rng1 = 49 + 13 - 4 + 1 = 59
+rng2 = 38 + 9 - 8 + 1 = 40
+Groundout
+Team 1 pitcher (Caleb Parker): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Andres Perez: rng1 = 87 + 7 - 4 + 1 = 91
+rng2 = 58 + 9 - 8 + 1 = 60
+Single
+Team 1 pitcher (Caleb Parker): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Angel Sierra: rng1 = 19 + 6 - 4 + 1 = 22
+Strikeout
+Team 1 pitcher (Caleb Parker): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Esteban Obregón: rng1 = 50 + 8 - 4 + 1 = 55
+rng2 = 11 + 4 - 8 + 1 = 8
+Groundout
+Team 1 pitcher (Caleb Parker): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 3
+
+Romain Bates: rng1 = 75 + 5 - 12 - 1 = 67
+rng2 = 18 + 7 - 12 - 1 = 12
+Groundout
+Team 2 pitcher (Christian Galán): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Nehemiah Clark: rng1 = 44 + 4 - 12 - 1 = 35
+rng2 = 46 + 8 - 12 - 1 = 41
+Groundout
+Team 2 pitcher (Christian Galán): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Zachary Hughes: rng1 = 68 + 15 - 12 - 1 = 70
+Walk
+Team 2 pitcher (Christian Galán): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Cody Henderson: rng1 = 10 + 15 - 12 - 1 = 12
+rng2 = 24 + 15 - 12 - 1 = 26
+Groundout
+Team 2 pitcher (Christian Galán): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Jorge Donald: rng1 = 15 + 5 - 4 + 1 = 17
+Strikeout
+Team 1 pitcher (Caleb Parker): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Dante Leoz: rng1 = 81 + 15 - 4 + 1 = 93
+rng2 = 67 + 13 - 8 + 1 = 73
+Double
+Team 1 pitcher (Caleb Parker): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Reuben Sutton: rng1 = 50 + 15 - 4 + 1 = 62
+rng2 = 85 + 12 - 8 + 1 = 90
+Flyout
+Team 1 pitcher (Caleb Parker): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Cody McCarthy: rng1 = 40 + 13 - 4 + 1 = 50
+rng2 = 58 + 9 - 8 + 1 = 60
+Flyout
+Team 1 pitcher (Caleb Parker): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 4
+
+Aaron Vera: rng1 = 96 + 13 - 12 - 1 = 96
+rng2 = 97 + 7 - 12 - 1 = 91
+Double
+Team 2 pitcher (Christian Galán): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 0
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Joshua Marsh: rng1 = 93 + 4 - 12 - 1 = 84
+rng2 = 5 + 11 - 12 - 1 = 3
+Single
+Team 2 pitcher (Christian Galán): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Joshua Fontina: rng1 = 4 + 9 - 12 - 1 = 0
+Strikeout
+Team 2 pitcher (Christian Galán): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Jadon Mitchell: rng1 = 58 + 7 - 12 - 1 = 52
+rng2 = 61 + 7 - 12 - 1 = 55
+Lineout
+Team 2 pitcher (Christian Galán): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Matías Martinez: rng1 = 64 + 6 - 12 - 1 = 57
+rng2 = 18 + 6 - 12 - 1 = 11
+Groundout
+Team 2 pitcher (Christian Galán): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Caden Bryan: rng1 = 8 + 7 - 4 + 1 = 12
+rng2 = 4 + 12 - 8 + 1 = 9
+Groundout
+Team 1 pitcher (Caleb Parker): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Joseph Thayer: rng1 = 15 + 13 - 4 + 1 = 25
+Strikeout
+Team 1 pitcher (Caleb Parker): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Andres Perez: rng1 = 68 + 7 - 4 + 1 = 72
+rng2 = 46 + 9 - 8 + 1 = 48
+Single
+Team 1 pitcher (Caleb Parker): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Angel Sierra: rng1 = 65 + 6 - 4 + 1 = 68
+rng2 = 13 + 7 - 8 + 1 = 13
+Groundout
+Team 1 pitcher (Caleb Parker): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 5
+
+Romain Bates: rng1 = 63 + 5 - 12 - 1 = 55
+rng2 = 57 + 7 - 12 - 1 = 51
+Lineout
+Team 2 pitcher (Christian Galán): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Nehemiah Clark: rng1 = 3 + 4 - 12 - 1 = -6
+Strikeout
+Team 2 pitcher (Christian Galán): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Zachary Hughes: rng1 = 44 + 15 - 12 - 1 = 46
+rng2 = 99 + 15 - 12 - 1 = 101
+Flyout
+Team 2 pitcher (Christian Galán): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 5
+
+Esteban Obregón: rng1 = 86 + 8 - 4 + 1 = 91
+rng2 = 73 + 4 - 8 + 1 = 70
+Double
+Team 1 pitcher (Caleb Parker): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 0
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Jorge Donald: rng1 = 93 + 5 - 4 + 1 = 95
+rng2 = 93 + 7 - 8 + 1 = 93
+Triple
+Team 1 pitcher (Caleb Parker): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 0
+
+base1: false, base2: false, base3: [8,0]
+base1: false, base2: false, base3: true
+Score: 1-2
+
+Dante Leoz: rng1 = 40 + 15 - 4 + 1 = 52
+rng2 = 85 + 13 - 8 + 1 = 91
+Flyout
+Team 1 pitcher (Caleb Parker): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 1
+
+base1: false, base2: false, base3: [8,0]
+base1: false, base2: false, base3: true
+Score: 1-2
+
+Reuben Sutton: rng1 = 11 + 15 - 4 + 1 = 23
+Strikeout
+Team 1 pitcher (Caleb Parker): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 2
+
+base1: false, base2: false, base3: [8,0]
+base1: false, base2: false, base3: true
+Score: 1-2
+
+Cody McCarthy: rng1 = 61 + 13 - 4 + 1 = 71
+Walk
+Team 1 pitcher (Caleb Parker): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 2
+
+base1: [2,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 1-2
+
+Caden Bryan: rng1 = 41 + 7 - 4 + 1 = 45
+rng2 = 51 + 12 - 8 + 1 = 56
+Lineout
+Team 1 pitcher (Caleb Parker): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 6
+
+Cody Henderson: rng1 = 1 + 15 - 12 - 1 = 3
+Strikeout
+Team 2 pitcher (Christian Galán): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Aaron Vera: rng1 = 36 + 13 - 12 - 1 = 36
+rng2 = 3 + 7 - 12 - 1 = -3
+Groundout
+Team 2 pitcher (Christian Galán): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Joshua Marsh: rng1 = 27 + 4 - 12 - 1 = 18
+Strikeout
+Team 2 pitcher (Christian Galán): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Foster Roebuck
+
+Joseph Thayer: rng1 = 83 + 13 - 11 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Foster Roebuck): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Andres Perez: rng1 = 75 + 7 - 11 + 1 = 72
+rng2 = 84 + 9 - 11 + 1 = 83
+Home run
+Team 1 pitcher (Foster Roebuck): 2 batters faced, 2 runs allowed = 2 + 5.0 = 7.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Angel Sierra: rng1 = 20 + 6 - 11 + 1 = 16
+Strikeout
+Team 1 pitcher (Foster Roebuck): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Esteban Obregón: rng1 = 8 + 8 - 11 + 1 = 6
+Strikeout
+Team 1 pitcher (Foster Roebuck): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Jorge Donald: rng1 = 22 + 5 - 11 + 1 = 17
+Strikeout
+Team 1 pitcher (Foster Roebuck): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+TOP INNING 7
+
+Joshua Fontina: rng1 = 3 + 9 - 12 - 1 = -1
+Strikeout
+Team 2 pitcher (Christian Galán): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Jadon Mitchell: rng1 = 90 + 7 - 12 - 1 = 84
+rng2 = 15 + 7 - 12 - 1 = 9
+Single
+Team 2 pitcher (Christian Galán): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Matías Martinez: rng1 = 12 + 6 - 12 - 1 = 5
+Strikeout
+Team 2 pitcher (Christian Galán): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Romain Bates: rng1 = 15 + 5 - 12 - 1 = 7
+Strikeout
+Team 2 pitcher (Christian Galán): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+BOTTOM INNING 7
+
+Dante Leoz: rng1 = 92 + 15 - 11 + 1 = 97
+rng2 = 43 + 13 - 11 + 1 = 46
+Single
+Team 1 pitcher (Foster Roebuck): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 0
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Reuben Sutton: rng1 = 41 + 15 - 11 + 1 = 46
+rng2 = 42 + 12 - 11 + 1 = 44
+Groundout
+Team 1 pitcher (Foster Roebuck): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Cody McCarthy: rng1 = 97 + 13 - 11 + 1 = 100
+rng2 = 86 + 9 - 11 + 1 = 85
+Home run
+Team 1 pitcher (Foster Roebuck): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Team 1 pitcher change to Craig Valencis
+
+Caden Bryan: rng1 = 54 + 7 - 9 + 1 = 53
+rng2 = 20 + 12 - 10 + 1 = 23
+Groundout
+Team 1 pitcher (Craig Valencis): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Rakeem Bradley
+
+Nehemiah Clark: rng1 = 82 + 4 - 9 - 1 = 76
+rng2 = 43 + 8 - 6 - 1 = 44
+Single
+Team 2 pitcher (Rakeem Bradley): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Zachary Hughes: rng1 = 41 + 15 - 9 - 1 = 46
+rng2 = 55 + 15 - 6 - 1 = 63
+Flyout
+Team 2 pitcher (Rakeem Bradley): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Cody Henderson: rng1 = 1 + 15 - 9 - 1 = 6
+Strikeout
+Team 2 pitcher (Rakeem Bradley): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Aaron Vera: rng1 = 38 + 13 - 9 - 1 = 41
+rng2 = 54 + 7 - 6 - 1 = 54
+Lineout
+Team 2 pitcher (Rakeem Bradley): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+BOTTOM INNING 8
+
+Joseph Thayer: rng1 = 27 + 13 - 9 + 1 = 32
+rng2 = 77 + 9 - 10 + 1 = 77
+Flyout
+Team 1 pitcher (Craig Valencis): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Andres Perez: rng1 = 15 + 7 - 9 + 1 = 14
+rng2 = 72 + 9 - 10 + 1 = 72
+Flyout
+Team 1 pitcher (Craig Valencis): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Angel Sierra: rng1 = 49 + 6 - 9 + 1 = 47
+rng2 = 29 + 7 - 10 + 1 = 27
+Groundout
+Team 1 pitcher (Craig Valencis): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+TOP INNING 9
+
+Joshua Marsh: rng1 = 87 + 4 - 9 - 1 = 81
+rng2 = 54 + 11 - 6 - 1 = 58
+Single
+Team 2 pitcher (Rakeem Bradley): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Joshua Fontina: rng1 = 26 + 9 - 9 - 1 = 25
+Strikeout
+Team 2 pitcher (Rakeem Bradley): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Jadon Mitchell: rng1 = 8 + 7 - 9 - 1 = 5
+Strikeout
+Team 2 pitcher (Rakeem Bradley): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Matías Martinez: rng1 = 83 + 6 - 9 - 1 = 79
+rng2 = 40 + 6 - 6 - 1 = 39
+Single
+Team 2 pitcher (Rakeem Bradley): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [6,1], base2: false, base3: [3,1]
+base1: true, base2: false, base3: true
+Score: 1-5
+
+Romain Bates: rng1 = 61 + 5 - 9 - 1 = 56
+rng2 = 44 + 7 - 6 - 1 = 44
+Groundout
+Team 2 pitcher (Rakeem Bradley): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 7
+Team 2 hits: 9
+Team 1 runs: 1
+Team 2 runs: 5
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-07-25
+Zachary Hughes	3	0	0	0	0	0	0	1	0					Houston
+Cody Henderson	3	0	0	0	0	0	0	1	2	
+Aaron Vera	4	1	1	1	0	0	0	0	0	
+Joshua Marsh	4	0	2	0	0	0	1	0	1	
+Joshua Fontina	4	0	1	0	0	0	0	0	3	
+Jadon Mitchell	4	0	1	0	0	0	0	0	1	
+Matías Martinez	4	0	1	0	0	0	0	0	2	
+Romain Bates	4	0	0	0	0	0	0	0	1	
+Nehemiah Clark	3	0	1	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Caleb Parker	0	1	1	1	0	0	15	6	2	0	2	4	22	
+Foster Roebuck	0	0	1	0	0	0	5	3	3	2	0	3	8	
+Craig Valencis	0	0	1	0	0	0	4	0	0	0	0	0	4	
+Jerry Walls	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Gideon Giles	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-07-25
+Dante Leoz	4	0	3	1	0	0	0	0	0					Detroit
+Reuben Sutton	4	0	0	0	0	0	0	0	1	
+Cody McCarthy	3	1	1	0	0	1	1	1	0	
+Caden Bryan	3	1	0	0	0	0	0	1	0	
+Joseph Thayer	3	1	0	0	0	0	0	0	1	
+Andres Perez	4	1	3	0	0	1	3	0	0	
+Angel Sierra	4	0	0	0	0	0	0	0	2	
+Esteban Obregón	3	1	1	1	0	0	0	0	1	
+Jorge Donald	3	0	1	0	1	0	1	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Christian Galán	1	0	1	1	0	0	21	4	1	0	2	8	26	
+Rakeem Bradley	0	0	1	0	0	0	6	3	0	0	0	3	9	
+Ian Berg	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Keegan Schiel	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Isaac Wilson	0	0	0	0	0	0	0	0	0	0	0	0	0	

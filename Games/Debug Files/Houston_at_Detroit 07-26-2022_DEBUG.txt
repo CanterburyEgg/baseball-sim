@@ -1,0 +1,842 @@
+TOP INNING 1
+
+Zachary Hughes: rng1 = 56 + 15 - 8 - 1 = 62
+rng2 = 48 + 15 - 10 - 1 = 52
+Lineout
+Team 2 pitcher (Kim Jae-Yong): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Cody Henderson: rng1 = 84 + 15 - 8 - 1 = 90
+Walk
+Team 2 pitcher (Kim Jae-Yong): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Aaron Vera: rng1 = 36 + 13 - 8 - 1 = 40
+rng2 = 48 + 7 - 10 - 1 = 44
+Groundout
+Team 2 pitcher (Kim Jae-Yong): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Dante Leoz: rng1 = 38 + 15 - 11 + 1 = 43
+rng2 = 22 + 13 - 11 + 1 = 25
+Groundout
+Team 1 pitcher (Ushijima Shigetoki): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Reuben Sutton: rng1 = 77 + 15 - 11 + 1 = 82
+rng2 = 53 + 12 - 11 + 1 = 55
+Single
+Team 1 pitcher (Ushijima Shigetoki): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Cody McCarthy: rng1 = 16 + 13 - 11 + 1 = 19
+Strikeout
+Team 1 pitcher (Ushijima Shigetoki): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Caden Bryan: rng1 = 44 + 7 - 11 + 1 = 41
+rng2 = 89 + 12 - 11 + 1 = 91
+Flyout
+Team 1 pitcher (Ushijima Shigetoki): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Joshua Marsh: rng1 = 88 + 4 - 8 - 1 = 83
+rng2 = 37 + 11 - 10 - 1 = 37
+Single
+Team 2 pitcher (Kim Jae-Yong): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Joshua Fontina: rng1 = 82 + 9 - 8 - 1 = 82
+rng2 = 6 + 8 - 10 - 1 = 3
+Single
+Team 2 pitcher (Kim Jae-Yong): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [4,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Jadon Mitchell: rng1 = 51 + 7 - 8 - 1 = 49
+rng2 = 41 + 7 - 10 - 1 = 37
+Groundout
+Team 2 pitcher (Kim Jae-Yong): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Matías Martinez: rng1 = 72 + 6 - 8 - 1 = 69
+Walk
+Team 2 pitcher (Kim Jae-Yong): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Romain Bates: rng1 = 37 + 5 - 8 - 1 = 33
+rng2 = 17 + 7 - 10 - 1 = 13
+Groundout
+Team 2 pitcher (Kim Jae-Yong): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Joseph Thayer: rng1 = 86 + 13 - 11 + 1 = 89
+Walk
+Team 1 pitcher (Ushijima Shigetoki): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Andres Perez: rng1 = 54 + 7 - 11 + 1 = 51
+rng2 = 71 + 9 - 11 + 1 = 70
+Flyout
+Team 1 pitcher (Ushijima Shigetoki): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Angel Sierra: rng1 = 90 + 6 - 11 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Ushijima Shigetoki): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [6,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Esteban Obregón: rng1 = 97 + 8 - 11 + 1 = 95
+rng2 = 41 + 4 - 11 + 1 = 35
+Single
+Team 1 pitcher (Ushijima Shigetoki): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Jorge Donald: rng1 = 39 + 5 - 11 + 1 = 34
+rng2 = 2 + 7 - 11 + 1 = -1
+Groundout
+Team 1 pitcher (Ushijima Shigetoki): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [8,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 1-1
+
+Dante Leoz: rng1 = 71 + 15 - 11 + 1 = 76
+rng2 = 63 + 13 - 11 + 1 = 66
+Double
+Team 1 pitcher (Ushijima Shigetoki): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 2
+
+base1: false, base2: [0,0], base3: [8,0]
+base1: false, base2: true, base3: true
+Score: 1-2
+
+Reuben Sutton: rng1 = 45 + 15 - 11 + 1 = 50
+rng2 = 69 + 12 - 11 + 1 = 71
+Flyout
+Team 1 pitcher (Ushijima Shigetoki): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 3
+
+Nehemiah Clark: rng1 = 91 + 4 - 8 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Kim Jae-Yong): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Zachary Hughes: rng1 = 72 + 15 - 8 - 1 = 78
+rng2 = 66 + 15 - 10 - 1 = 70
+Double
+Team 2 pitcher (Kim Jae-Yong): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 0
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-2
+
+Cody Henderson: rng1 = 64 + 15 - 8 - 1 = 70
+Walk
+Team 2 pitcher (Kim Jae-Yong): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 0
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-2
+
+Aaron Vera: rng1 = 87 + 13 - 8 - 1 = 91
+rng2 = 73 + 7 - 10 - 1 = 69
+Double
+Team 2 pitcher (Kim Jae-Yong): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 0
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-2
+
+Joshua Marsh: rng1 = 78 + 4 - 8 - 1 = 73
+rng2 = 25 + 11 - 10 - 1 = 25
+Single
+Team 2 pitcher (Kim Jae-Yong): 13 batters faced, 5 runs allowed = 13 + 12.5 = 25.5, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-2
+
+Joshua Fontina: rng1 = 76 + 9 - 8 - 1 = 76
+rng2 = 66 + 8 - 10 - 1 = 63
+Single
+Team 2 pitcher (Kim Jae-Yong): 14 batters faced, 5 runs allowed = 14 + 12.5 = 26.5, outs: 0
+
+base1: [4,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 5-2
+
+Jadon Mitchell: rng1 = 96 + 7 - 8 - 1 = 94
+rng2 = 95 + 7 - 10 - 1 = 91
+Double
+Team 2 pitcher (Kim Jae-Yong): 15 batters faced, 6 runs allowed = 15 + 15.0 = 30.0, outs: 0
+
+base1: false, base2: [5,0], base3: [4,0]
+base1: false, base2: true, base3: true
+Score: 6-2
+
+Matías Martinez: rng1 = 100 + 6 - 8 - 1 = 97
+rng2 = 59 + 6 - 10 - 1 = 54
+Single
+Team 2 pitcher (Kim Jae-Yong): 16 batters faced, 8 runs allowed = 16 + 20.0 = 36.0, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-2
+
+Team 2 pitcher change to Ian Berg
+
+Romain Bates: rng1 = 37 + 5 - 11 - 1 = 30
+rng2 = 11 + 7 - 9 - 1 = 8
+Groundout
+Team 2 pitcher (Ian Berg): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 8-2
+
+Nehemiah Clark: rng1 = 45 + 4 - 11 - 1 = 37
+rng2 = 69 + 8 - 9 - 1 = 67
+Flyout
+Team 2 pitcher (Ian Berg): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 8-2
+
+Zachary Hughes: rng1 = 46 + 15 - 11 - 1 = 49
+rng2 = 61 + 15 - 9 - 1 = 66
+Flyout
+Team 2 pitcher (Ian Berg): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-2
+
+-----------------------
+
+BOTTOM INNING 3
+
+Cody McCarthy: rng1 = 39 + 13 - 11 + 1 = 42
+rng2 = 94 + 9 - 11 + 1 = 93
+Flyout
+Team 1 pitcher (Ushijima Shigetoki): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-2
+
+Caden Bryan: rng1 = 19 + 7 - 11 + 1 = 16
+Strikeout
+Team 1 pitcher (Ushijima Shigetoki): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-2
+
+Joseph Thayer: rng1 = 77 + 13 - 11 + 1 = 80
+rng2 = 64 + 9 - 11 + 1 = 63
+Single
+Team 1 pitcher (Ushijima Shigetoki): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-2
+
+Andres Perez: rng1 = 5 + 7 - 11 + 1 = 2
+Strikeout
+Team 1 pitcher (Ushijima Shigetoki): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-2
+
+-----------------------
+
+TOP INNING 4
+
+Cody Henderson: rng1 = 38 + 15 - 11 - 1 = 41
+rng2 = 54 + 15 - 9 - 1 = 59
+Flyout
+Team 2 pitcher (Ian Berg): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-2
+
+Aaron Vera: rng1 = 33 + 13 - 11 - 1 = 34
+rng2 = 51 + 7 - 9 - 1 = 48
+Lineout
+Team 2 pitcher (Ian Berg): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-2
+
+Joshua Marsh: rng1 = 86 + 4 - 11 - 1 = 78
+rng2 = 26 + 11 - 9 - 1 = 27
+Single
+Team 2 pitcher (Ian Berg): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-2
+
+Joshua Fontina: rng1 = 67 + 9 - 11 - 1 = 64
+rng2 = 40 + 8 - 9 - 1 = 38
+Groundout
+Team 2 pitcher (Ian Berg): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-2
+
+-----------------------
+
+BOTTOM INNING 4
+
+Angel Sierra: rng1 = 70 + 6 - 11 + 1 = 66
+rng2 = 62 + 7 - 11 + 1 = 59
+Flyout
+Team 1 pitcher (Ushijima Shigetoki): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-2
+
+Esteban Obregón: rng1 = 23 + 8 - 11 + 1 = 21
+Strikeout
+Team 1 pitcher (Ushijima Shigetoki): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-2
+
+Jorge Donald: rng1 = 48 + 5 - 11 + 1 = 43
+rng2 = 54 + 7 - 11 + 1 = 51
+Lineout
+Team 1 pitcher (Ushijima Shigetoki): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-2
+
+-----------------------
+
+TOP INNING 5
+
+Jadon Mitchell: rng1 = 89 + 7 - 11 - 1 = 84
+rng2 = 21 + 7 - 9 - 1 = 18
+Single
+Team 2 pitcher (Ian Berg): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 0
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-2
+
+Matías Martinez: rng1 = 90 + 6 - 11 - 1 = 84
+rng2 = 73 + 6 - 9 - 1 = 69
+Double
+Team 2 pitcher (Ian Berg): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 0
+
+base1: false, base2: [6,1], base3: false
+base1: false, base2: true, base3: false
+Score: 9-2
+
+Romain Bates: rng1 = 13 + 5 - 11 - 1 = 6
+Strikeout
+Team 2 pitcher (Ian Berg): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: false, base2: [6,1], base3: false
+base1: false, base2: true, base3: false
+Score: 9-2
+
+Team 2 pitcher change to Rakeem Bradley
+
+Nehemiah Clark: rng1 = 27 + 4 - 9 - 1 = 21
+Strikeout
+Team 2 pitcher (Rakeem Bradley): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: false, base2: [6,1], base3: false
+base1: false, base2: true, base3: false
+Score: 9-2
+
+Zachary Hughes: rng1 = 66 + 15 - 9 - 1 = 71
+Walk
+Team 2 pitcher (Rakeem Bradley): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: [0,2], base2: [6,1], base3: false
+base1: true, base2: true, base3: false
+Score: 9-2
+
+Cody Henderson: rng1 = 16 + 15 - 9 - 1 = 21
+Strikeout
+Team 2 pitcher (Rakeem Bradley): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-2
+
+-----------------------
+
+BOTTOM INNING 5
+
+Dante Leoz: rng1 = 53 + 15 - 11 + 1 = 58
+rng2 = 92 + 13 - 11 + 1 = 95
+Flyout
+Team 1 pitcher (Ushijima Shigetoki): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-2
+
+Reuben Sutton: rng1 = 40 + 15 - 11 + 1 = 45
+rng2 = 12 + 12 - 11 + 1 = 14
+Groundout
+Team 1 pitcher (Ushijima Shigetoki): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-2
+
+Cody McCarthy: rng1 = 66 + 13 - 11 + 1 = 69
+Walk
+Team 1 pitcher (Ushijima Shigetoki): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-2
+
+Caden Bryan: rng1 = 29 + 7 - 11 + 1 = 26
+Strikeout
+Team 1 pitcher (Ushijima Shigetoki): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-2
+
+-----------------------
+
+TOP INNING 6
+
+Aaron Vera: rng1 = 72 + 13 - 9 - 1 = 75
+rng2 = 5 + 7 - 6 - 1 = 5
+Single
+Team 2 pitcher (Rakeem Bradley): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-2
+
+Joshua Marsh: rng1 = 63 + 4 - 9 - 1 = 57
+rng2 = 21 + 11 - 6 - 1 = 25
+Groundout
+Team 2 pitcher (Rakeem Bradley): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-2
+
+Joshua Fontina: rng1 = 32 + 9 - 9 - 1 = 31
+rng2 = 98 + 8 - 6 - 1 = 99
+Flyout
+Team 2 pitcher (Rakeem Bradley): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-2
+
+-----------------------
+
+BOTTOM INNING 6
+
+Joseph Thayer: rng1 = 12 + 13 - 11 + 1 = 15
+rng2 = 17 + 9 - 11 + 1 = 16
+Groundout
+Team 1 pitcher (Ushijima Shigetoki): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-2
+
+Andres Perez: rng1 = 98 + 7 - 11 + 1 = 95
+rng2 = 24 + 9 - 11 + 1 = 23
+Single
+Team 1 pitcher (Ushijima Shigetoki): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-2
+
+Angel Sierra: rng1 = 92 + 6 - 11 + 1 = 88
+Walk
+Team 1 pitcher (Ushijima Shigetoki): 25 batters faced, 2 runs allowed = 25 + 5.0 = 30.0, outs: 1
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 9-2
+
+Esteban Obregón: rng1 = 49 + 8 - 11 + 1 = 47
+rng2 = 23 + 4 - 11 + 1 = 17
+Groundout
+Team 1 pitcher (Ushijima Shigetoki): 26 batters faced, 2 runs allowed = 26 + 5.0 = 31.0, outs: 2
+
+base1: false, base2: [6,0], base3: [5,0]
+base1: false, base2: true, base3: true
+Score: 9-2
+
+Jorge Donald: rng1 = 96 + 5 - 11 + 1 = 91
+rng2 = 93 + 7 - 11 + 1 = 90
+Double
+Team 1 pitcher (Ushijima Shigetoki): 27 batters faced, 4 runs allowed = 27 + 10.0 = 37.0, outs: 2
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 9-4
+
+Team 1 pitcher change to Craig Valencis
+
+Dante Leoz: rng1 = 38 + 15 - 9 + 1 = 45
+rng2 = 61 + 13 - 10 + 1 = 65
+Flyout
+Team 1 pitcher (Craig Valencis): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-4
+
+-----------------------
+
+TOP INNING 7
+
+Jadon Mitchell: rng1 = 64 + 7 - 9 - 1 = 61
+rng2 = 59 + 7 - 6 - 1 = 59
+Flyout
+Team 2 pitcher (Rakeem Bradley): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-4
+
+Matías Martinez: rng1 = 38 + 6 - 9 - 1 = 34
+rng2 = 89 + 6 - 6 - 1 = 88
+Flyout
+Team 2 pitcher (Rakeem Bradley): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-4
+
+Romain Bates: rng1 = 95 + 5 - 9 - 1 = 90
+Walk
+Team 2 pitcher (Rakeem Bradley): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-4
+
+Nehemiah Clark: rng1 = 38 + 4 - 9 - 1 = 32
+rng2 = 36 + 8 - 6 - 1 = 37
+Groundout
+Team 2 pitcher (Rakeem Bradley): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-4
+
+-----------------------
+
+BOTTOM INNING 7
+
+Reuben Sutton: rng1 = 90 + 15 - 9 + 1 = 97
+rng2 = 21 + 12 - 10 + 1 = 24
+Single
+Team 1 pitcher (Craig Valencis): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-4
+
+Cody McCarthy: rng1 = 39 + 13 - 9 + 1 = 44
+rng2 = 40 + 9 - 10 + 1 = 40
+Groundout
+Team 1 pitcher (Craig Valencis): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-4
+
+Caden Bryan: rng1 = 21 + 7 - 9 + 1 = 20
+Strikeout
+Team 1 pitcher (Craig Valencis): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-4
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Keegan Schiel
+
+Zachary Hughes: rng1 = 70 + 15 - 5 - 1 = 79
+rng2 = 57 + 15 - 7 - 1 = 64
+Single
+Team 2 pitcher (Keegan Schiel): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-4
+
+Cody Henderson: rng1 = 16 + 15 - 5 - 1 = 25
+Strikeout
+Team 2 pitcher (Keegan Schiel): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-4
+
+Aaron Vera: rng1 = 21 + 13 - 5 - 1 = 28
+rng2 = 59 + 7 - 7 - 1 = 58
+Lineout
+Team 2 pitcher (Keegan Schiel): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-4
+
+Joshua Marsh: rng1 = 74 + 4 - 5 - 1 = 72
+rng2 = 19 + 11 - 7 - 1 = 22
+Single
+Team 2 pitcher (Keegan Schiel): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [3,3], base2: false, base3: [0,3]
+base1: true, base2: false, base3: true
+Score: 9-4
+
+Joshua Fontina: rng1 = 87 + 9 - 5 - 1 = 90
+Walk
+Team 2 pitcher (Keegan Schiel): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: [4,3], base2: [3,3], base3: [0,3]
+base1: true, base2: true, base3: true
+Score: 9-4
+
+Jadon Mitchell: rng1 = 13 + 7 - 5 - 1 = 14
+rng2 = 28 + 7 - 7 - 1 = 27
+Groundout
+Team 2 pitcher (Keegan Schiel): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-4
+
+-----------------------
+
+BOTTOM INNING 8
+
+Joseph Thayer: rng1 = 48 + 13 - 9 + 1 = 53
+rng2 = 53 + 9 - 10 + 1 = 53
+Lineout
+Team 1 pitcher (Craig Valencis): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-4
+
+Andres Perez: rng1 = 27 + 7 - 9 + 1 = 26
+Strikeout
+Team 1 pitcher (Craig Valencis): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-4
+
+Angel Sierra: rng1 = 15 + 6 - 9 + 1 = 13
+rng2 = 94 + 7 - 10 + 1 = 92
+Flyout
+Team 1 pitcher (Craig Valencis): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-4
+
+-----------------------
+
+TOP INNING 9
+
+Matías Martinez: rng1 = 95 + 6 - 5 - 1 = 95
+rng2 = 47 + 6 - 7 - 1 = 45
+Single
+Team 2 pitcher (Keegan Schiel): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 0
+
+base1: [6,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-4
+
+Romain Bates: rng1 = 52 + 5 - 5 - 1 = 51
+rng2 = 99 + 7 - 7 - 1 = 98
+Flyout
+Team 2 pitcher (Keegan Schiel): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: [6,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-4
+
+Nehemiah Clark: rng1 = 19 + 4 - 5 - 1 = 17
+Strikeout
+Team 2 pitcher (Keegan Schiel): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: [6,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-4
+
+Zachary Hughes: rng1 = 86 + 15 - 5 - 1 = 95
+rng2 = 4 + 15 - 7 - 1 = 11
+Single
+Team 2 pitcher (Keegan Schiel): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: [0,3], base2: [6,3], base3: false
+base1: true, base2: true, base3: false
+Score: 9-4
+
+Cody Henderson: rng1 = 12 + 15 - 5 - 1 = 21
+Strikeout
+Team 2 pitcher (Keegan Schiel): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-4
+
+-----------------------
+
+BOTTOM INNING 9
+
+Esteban Obregón: rng1 = 21 + 8 - 9 + 1 = 21
+Strikeout
+Team 1 pitcher (Craig Valencis): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-4
+
+Jorge Donald: rng1 = 30 + 5 - 9 + 1 = 27
+Strikeout
+Team 1 pitcher (Craig Valencis): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-4
+
+Dante Leoz: rng1 = 94 + 15 - 9 + 1 = 101
+rng2 = 42 + 13 - 10 + 1 = 46
+Single
+Team 1 pitcher (Craig Valencis): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-4
+
+Reuben Sutton: rng1 = 21 + 15 - 9 + 1 = 28
+rng2 = 100 + 12 - 10 + 1 = 103
+Flyout
+Team 1 pitcher (Craig Valencis): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-4
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 16
+Team 2 hits: 8
+Team 1 runs: 9
+Team 2 runs: 4
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-07-26
+Zachary Hughes	5	1	3	1	0	0	1	1	0					Houston
+Cody Henderson	4	1	0	0	0	0	0	2	3	
+Aaron Vera	5	1	2	1	0	0	2	0	0	
+Joshua Marsh	5	2	4	0	0	0	1	0	0	
+Joshua Fontina	4	1	2	0	0	0	0	1	0	
+Jadon Mitchell	5	2	2	1	0	0	2	0	0	
+Matías Martinez	4	0	3	1	0	0	3	1	0	
+Romain Bates	4	0	0	0	0	0	0	1	1	
+Nehemiah Clark	4	1	0	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Ushijima Shigetoki	1	0	1	1	0	0	17	6	4	0	3	5	27	
+Craig Valencis	0	0	1	0	0	0	10	2	0	0	0	4	11	
+Foster Roebuck	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Jerry Walls	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Gideon Giles	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-07-26
+Dante Leoz	5	0	2	1	0	0	1	0	0					Detroit
+Reuben Sutton	5	0	2	0	0	0	0	0	0	
+Cody McCarthy	3	0	0	0	0	0	0	1	1	
+Caden Bryan	4	0	0	0	0	0	0	0	3	
+Joseph Thayer	3	1	1	0	0	0	0	1	0	
+Andres Perez	4	1	1	0	0	0	0	0	2	
+Angel Sierra	2	2	0	0	0	0	0	1	0	
+Esteban Obregón	4	0	1	0	0	0	1	0	2	
+Jorge Donald	4	0	1	1	0	0	2	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Kim Jae-Yong	0	1	1	1	0	0	6	8	8	0	3	0	16	
+Ian Berg	0	0	1	0	0	0	7	3	1	0	0	1	10	
+Rakeem Bradley	0	0	1	0	0	0	8	1	0	0	2	2	10	
+Keegan Schiel	0	0	1	0	0	0	6	4	0	0	1	3	11	
+Isaac Wilson	0	0	0	0	0	0	0	0	0	0	0	0	0	

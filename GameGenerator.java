@@ -2915,14 +2915,24 @@ public class GameGenerator
 			if (inning == tempC + 2 && pitchswapC && game)
 			{
 				pitchswapC = false;
-				p2index++;
+
+				if (inning > 16)
+					p2index = 4;
+				else
+					p2index++;
+
 				FullPrintLine("Team 2 pitcher change to " + team2pitchers[p2index] + "\n");
 			}
 			
 			if (inning == tempD + 2 && pitchswapD && game)
 			{
 				pitchswapD = false;
-				p1index++;
+
+				if (inning > 16)
+					p1index = 4;
+				else
+					p1index++;
+
 				FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
 			}
 		}

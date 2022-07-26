@@ -2729,7 +2729,7 @@ public class GameGenerator
 				}
 				
 				//put in closer
-				if (inning == 17 && runs2 > runs1 && runs2 - runs1 <= 3 && p2index < 4)
+				if (inning == 17 && runs2 > runs1 && runs2 - runs1 <= 3 && p2index < 4 && (p2index > 0 || pitchers2[0][7] > 0))
 				{
 					p2index = 4;
 					pitchers2[4][4] = 1;
@@ -2740,7 +2740,7 @@ public class GameGenerator
 				}
 				
 				//put in closer
-				if (inning == 18 && runs1 > runs2 && runs1 - runs2 <= 3 && p1index < 4)
+				if (inning == 18 && runs1 > runs2 && runs1 - runs2 <= 3 && p1index < 4 && (p1index > 0 || pitchers1[0][7] > 0))
 				{
 					p1index = 4;
 					pitchers1[4][4] = 1;

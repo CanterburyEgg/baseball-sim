@@ -2674,25 +2674,25 @@ public class GameGenerator
 				FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
 			}
 
-			if ((p2index == 1 || p2index == 2 || p2index == 3) && pitchers2[p2index+1][2] == 0 && !pitchswapC && outs == 3 && (pitchers2[p2index][6] + 1.25*pitchers2[p2index][10] + 1.5*pitchers2[p2index][7] + 1.75*(pitchers2[p2index][8]) > 9))
+			if ((p2index == 1 || p2index == 2 || p2index == 3) && pitchers2[p2index+1][2] == 0 && !pitchswapC && outs == 3 && (pitchers2[p2index][6] + 1.25*pitchers2[p2index][10] + 1.5*pitchers2[p2index][7] + 1.75*(pitchers2[p2index][8]) > 8))
 			{
 				tempC = inning;
 				pitchswapC = true;
 			}
 
-			if ((p1index == 1 || p1index == 2 || p1index == 3) && pitchers1[p1index+1][2] == 0 && !pitchswapD && outs == 3 && (pitchers1[p1index][6] + 1.25*pitchers1[p1index][10] + 1.5*pitchers1[p1index][7] + 1.75*(pitchers1[p1index][8]) > 9))
+			if ((p1index == 1 || p1index == 2 || p1index == 3) && pitchers1[p1index+1][2] == 0 && !pitchswapD && outs == 3 && (pitchers1[p1index][6] + 1.25*pitchers1[p1index][10] + 1.5*pitchers1[p1index][7] + 1.75*(pitchers1[p1index][8]) > 8))
 			{
 				tempD = inning;
 				pitchswapD = true;
 			}
 			
-			if ((p2index == 1 || p2index == 2 || p2index == 3) && pitchers2[p2index+1][2] == 0 && !pitchswapC && outs != 3 && (pitchers2[p2index][6] + 1.25*pitchers2[p2index][10] + 1.5*pitchers2[p2index][7] + 1.75*(pitchers2[p2index][8]) > 13))
+			if ((p2index == 1 || p2index == 2 || p2index == 3) && pitchers2[p2index+1][2] == 0 && !pitchswapC && outs != 3 && (pitchers2[p2index][6] + 1.25*pitchers2[p2index][10] + 1.5*pitchers2[p2index][7] + 1.75*(pitchers2[p2index][8]) > 12))
 			{
 				p2index++;
 				FullPrintLine("Team 2 pitcher change to " + team2pitchers[p2index] + "\n");
 			}
 
-			if ((p1index == 1 || p1index == 2 || p1index == 3) && pitchers1[p1index+1][2] == 0 && !pitchswapD && outs != 3 && (pitchers1[p1index][6] + 1.25*pitchers1[p1index][10] + 1.5*pitchers1[p1index][7] + 1.75*(pitchers1[p1index][8]) > 13))
+			if ((p1index == 1 || p1index == 2 || p1index == 3) && pitchers1[p1index+1][2] == 0 && !pitchswapD && outs != 3 && (pitchers1[p1index][6] + 1.25*pitchers1[p1index][10] + 1.5*pitchers1[p1index][7] + 1.75*(pitchers1[p1index][8]) > 12))
 			{
 				p1index++;
 				FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
@@ -2729,7 +2729,7 @@ public class GameGenerator
 				}
 				
 				//put in closer
-				if (inning == 17 && runs2 > runs1 && runs2 - runs1 <= 3 && p2index < 4)
+				if (inning == 17 && runs2 > runs1 && runs2 - runs1 <= 3 && p2index < 4 && (p2index > 0 || pitchers2[0][7] > 0))
 				{
 					p2index = 4;
 					pitchers2[4][4] = 1;
@@ -2740,7 +2740,7 @@ public class GameGenerator
 				}
 				
 				//put in closer
-				if (inning == 18 && runs1 > runs2 && runs1 - runs2 <= 3 && p1index < 4)
+				if (inning == 18 && runs1 > runs2 && runs1 - runs2 <= 3 && p1index < 4 && (p1index > 0 || pitchers1[0][7] > 0))
 				{
 					p1index = 4;
 					pitchers1[4][4] = 1;

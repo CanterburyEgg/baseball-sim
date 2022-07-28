@@ -1,0 +1,790 @@
+TOP INNING 1
+
+Nicolás Moruga: rng1 = 44 + 15 - 7 - 1 = 51
+rng2 = 33 + 13 - 5 - 1 = 40
+Groundout
+Team 2 pitcher (Landon Keller): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Lucián Chicote: rng1 = 2 + 12 - 7 - 1 = 6
+Strikeout
+Team 2 pitcher (Landon Keller): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Zahir Burgos: rng1 = 43 + 10 - 7 - 1 = 45
+rng2 = 82 + 10 - 5 - 1 = 86
+Flyout
+Team 2 pitcher (Landon Keller): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Dekion Atkins: rng1 = 47 + 11 - 10 + 1 = 49
+rng2 = 82 + 14 - 6 + 1 = 91
+Flyout
+Team 1 pitcher (Sean Wilson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Suko Masakado: rng1 = 62 + 10 - 10 + 1 = 63
+rng2 = 73 + 12 - 6 + 1 = 80
+Flyout
+Team 1 pitcher (Sean Wilson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Qua'sean Price: rng1 = 64 + 11 - 10 + 1 = 66
+rng2 = 75 + 10 - 6 + 1 = 80
+Flyout
+Team 1 pitcher (Sean Wilson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Joaquín Laguna: rng1 = 25 + 7 - 7 - 1 = 24
+Strikeout
+Team 2 pitcher (Landon Keller): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Tristian Love: rng1 = 60 + 12 - 7 - 1 = 64
+rng2 = 97 + 7 - 5 - 1 = 98
+Flyout
+Team 2 pitcher (Landon Keller): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Ethan Clarke: rng1 = 28 + 9 - 7 - 1 = 29
+rng2 = 47 + 6 - 5 - 1 = 47
+Groundout
+Team 2 pitcher (Landon Keller): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Luca Águila: rng1 = 75 + 9 - 10 + 1 = 75
+rng2 = 72 + 12 - 6 + 1 = 79
+Home run
+Team 1 pitcher (Sean Wilson): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Cevonte Riley: rng1 = 11 + 10 - 10 + 1 = 12
+rng2 = 1 + 9 - 6 + 1 = 5
+Groundout
+Team 1 pitcher (Sean Wilson): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Calder Martin: rng1 = 64 + 9 - 10 + 1 = 64
+rng2 = 24 + 8 - 6 + 1 = 27
+Groundout
+Team 1 pitcher (Sean Wilson): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Antonio Valerio: rng1 = 72 + 8 - 10 + 1 = 71
+Walk
+Team 1 pitcher (Sean Wilson): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Zackary Hartman: rng1 = 98 + 5 - 10 + 1 = 94
+rng2 = 63 + 9 - 6 + 1 = 67
+Double
+Team 1 pitcher (Sean Wilson): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-2
+
+Kojima Kunio: rng1 = 69 + 5 - 10 + 1 = 65
+rng2 = 27 + 8 - 6 + 1 = 30
+Groundout
+Team 1 pitcher (Sean Wilson): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 3
+
+Trent Page: rng1 = 50 + 9 - 7 - 1 = 51
+rng2 = 56 + 6 - 5 - 1 = 56
+Lineout
+Team 2 pitcher (Landon Keller): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Edward Cox: rng1 = 64 + 7 - 7 - 1 = 63
+rng2 = 68 + 5 - 5 - 1 = 67
+Flyout
+Team 2 pitcher (Landon Keller): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Alexis Shultz: rng1 = 33 + 8 - 7 - 1 = 33
+rng2 = 48 + 3 - 5 - 1 = 45
+Groundout
+Team 2 pitcher (Landon Keller): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+BOTTOM INNING 3
+
+Dekion Atkins: rng1 = 94 + 11 - 10 + 1 = 96
+rng2 = 50 + 14 - 6 + 1 = 59
+Single
+Team 1 pitcher (Sean Wilson): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Suko Masakado: rng1 = 38 + 10 - 10 + 1 = 39
+rng2 = 53 + 12 - 6 + 1 = 60
+Flyout
+Team 1 pitcher (Sean Wilson): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Qua'sean Price: rng1 = 64 + 11 - 10 + 1 = 66
+rng2 = 87 + 10 - 6 + 1 = 92
+Flyout
+Team 1 pitcher (Sean Wilson): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Luca Águila: rng1 = 46 + 9 - 10 + 1 = 46
+rng2 = 87 + 12 - 6 + 1 = 94
+Flyout
+Team 1 pitcher (Sean Wilson): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 4
+
+Nicolás Moruga: rng1 = 64 + 15 - 7 - 1 = 71
+Walk
+Team 2 pitcher (Landon Keller): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Lucián Chicote: rng1 = 75 + 12 - 7 - 1 = 79
+rng2 = 11 + 8 - 5 - 1 = 13
+Single
+Team 2 pitcher (Landon Keller): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 0
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-2
+
+Zahir Burgos: rng1 = 20 + 10 - 7 - 1 = 22
+Strikeout
+Team 2 pitcher (Landon Keller): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 1
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-2
+
+Joaquín Laguna: rng1 = 21 + 7 - 7 - 1 = 20
+Strikeout
+Team 2 pitcher (Landon Keller): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 2
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-2
+
+Tristian Love: rng1 = 12 + 12 - 7 - 1 = 16
+Strikeout
+Team 2 pitcher (Landon Keller): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+BOTTOM INNING 4
+
+Cevonte Riley: rng1 = 15 + 10 - 10 + 1 = 16
+Strikeout
+Team 1 pitcher (Sean Wilson): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Calder Martin: rng1 = 87 + 9 - 10 + 1 = 87
+Walk
+Team 1 pitcher (Sean Wilson): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Antonio Valerio: rng1 = 17 + 8 - 10 + 1 = 16
+Strikeout
+Team 1 pitcher (Sean Wilson): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Zackary Hartman: rng1 = 22 + 5 - 10 + 1 = 18
+Strikeout
+Team 1 pitcher (Sean Wilson): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 5
+
+Ethan Clarke: rng1 = 92 + 9 - 7 - 1 = 93
+rng2 = 68 + 6 - 5 - 1 = 68
+Double
+Team 2 pitcher (Landon Keller): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 0
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-2
+
+Trent Page: rng1 = 57 + 9 - 7 - 1 = 58
+rng2 = 94 + 6 - 5 - 1 = 94
+Flyout
+Team 2 pitcher (Landon Keller): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 1
+
+base1: false, base2: false, base3: [5,0]
+base1: false, base2: false, base3: true
+Score: 0-2
+
+Edward Cox: rng1 = 91 + 7 - 7 - 1 = 90
+Walk
+Team 2 pitcher (Landon Keller): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 1
+
+base1: [7,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 0-2
+
+Alexis Shultz: rng1 = 74 + 8 - 7 - 1 = 74
+rng2 = 12 + 3 - 5 - 1 = 9
+Single
+Team 2 pitcher (Landon Keller): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 1
+
+base1: [8,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 1-2
+
+Nicolás Moruga: rng1 = 8 + 15 - 7 - 1 = 15
+rng2 = 38 + 13 - 5 - 1 = 45
+Groundout
+Team 2 pitcher (Landon Keller): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 2
+
+base1: false, base2: [8,0], base3: [7,0]
+base1: false, base2: true, base3: true
+Score: 1-2
+
+Lucián Chicote: rng1 = 77 + 12 - 7 - 1 = 81
+rng2 = 90 + 8 - 5 - 1 = 92
+Double
+Team 2 pitcher (Landon Keller): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-2
+
+Zahir Burgos: rng1 = 46 + 10 - 7 - 1 = 48
+rng2 = 81 + 10 - 5 - 1 = 85
+Flyout
+Team 2 pitcher (Landon Keller): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+BOTTOM INNING 5
+
+Kojima Kunio: rng1 = 100 + 5 - 10 + 1 = 96
+rng2 = 65 + 8 - 6 + 1 = 68
+Double
+Team 1 pitcher (Sean Wilson): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 0
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-2
+
+Dekion Atkins: rng1 = 15 + 11 - 10 + 1 = 17
+Strikeout
+Team 1 pitcher (Sean Wilson): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 1
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-2
+
+Suko Masakado: rng1 = 48 + 10 - 10 + 1 = 49
+rng2 = 17 + 12 - 6 + 1 = 24
+Groundout
+Team 1 pitcher (Sean Wilson): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 2
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-2
+
+Qua'sean Price: rng1 = 83 + 11 - 10 + 1 = 85
+rng2 = 69 + 10 - 6 + 1 = 74
+Double
+Team 1 pitcher (Sean Wilson): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-3
+
+Luca Águila: rng1 = 62 + 9 - 10 + 1 = 62
+rng2 = 32 + 12 - 6 + 1 = 39
+Groundout
+Team 1 pitcher (Sean Wilson): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+TOP INNING 6
+
+Joaquín Laguna: rng1 = 91 + 7 - 7 - 1 = 90
+Walk
+Team 2 pitcher (Landon Keller): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Tristian Love: rng1 = 95 + 12 - 7 - 1 = 99
+rng2 = 61 + 7 - 5 - 1 = 62
+Single
+Team 2 pitcher (Landon Keller): 23 batters faced, 3 runs allowed = 23 + 7.5 = 30.5, outs: 0
+
+base1: [4,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 3-3
+
+Ethan Clarke: rng1 = 53 + 9 - 7 - 1 = 54
+rng2 = 33 + 6 - 5 - 1 = 33
+Groundout
+Team 2 pitcher (Landon Keller): 24 batters faced, 3 runs allowed = 24 + 7.5 = 31.5, outs: 1
+
+base1: false, base2: [4,0], base3: [3,0]
+base1: false, base2: true, base3: true
+Score: 3-3
+
+Trent Page: rng1 = 53 + 9 - 7 - 1 = 54
+rng2 = 63 + 6 - 5 - 1 = 63
+Flyout
+Team 2 pitcher (Landon Keller): 25 batters faced, 4 runs allowed = 25 + 10.0 = 35.0, outs: 2
+
+base1: false, base2: false, base3: [4,0]
+base1: false, base2: false, base3: true
+Score: 4-3
+
+Team 2 pitcher change to Pae Kwang-Min
+
+Edward Cox: rng1 = 14 + 7 - 8 - 1 = 12
+rng2 = 61 + 5 - 8 - 1 = 57
+Lineout
+Team 2 pitcher (Pae Kwang-Min): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Harris Derickson
+
+Cevonte Riley: rng1 = 43 + 10 - 8 + 1 = 46
+rng2 = 20 + 9 - 9 + 1 = 21
+Groundout
+Team 1 pitcher (Harris Derickson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Calder Martin: rng1 = 5 + 9 - 8 + 1 = 7
+Strikeout
+Team 1 pitcher (Harris Derickson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Antonio Valerio: rng1 = 1 + 8 - 8 + 1 = 2
+Strikeout
+Team 1 pitcher (Harris Derickson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+TOP INNING 7
+
+Alexis Shultz: rng1 = 96 + 8 - 8 - 1 = 95
+rng2 = 41 + 3 - 8 - 1 = 35
+Single
+Team 2 pitcher (Pae Kwang-Min): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Nicolás Moruga: rng1 = 1 + 15 - 8 - 1 = 7
+Strikeout
+Team 2 pitcher (Pae Kwang-Min): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Lucián Chicote: rng1 = 24 + 12 - 8 - 1 = 27
+Strikeout
+Team 2 pitcher (Pae Kwang-Min): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Zahir Burgos: rng1 = 48 + 10 - 8 - 1 = 49
+rng2 = 94 + 10 - 8 - 1 = 95
+Flyout
+Team 2 pitcher (Pae Kwang-Min): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+BOTTOM INNING 7
+
+Zackary Hartman: rng1 = 66 + 5 - 8 + 1 = 64
+rng2 = 41 + 9 - 9 + 1 = 42
+Groundout
+Team 1 pitcher (Harris Derickson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Kojima Kunio: rng1 = 90 + 5 - 8 + 1 = 88
+Walk
+Team 1 pitcher (Harris Derickson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Dekion Atkins: rng1 = 5 + 11 - 8 + 1 = 9
+Strikeout
+Team 1 pitcher (Harris Derickson): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Suko Masakado: rng1 = 29 + 10 - 8 + 1 = 32
+rng2 = 68 + 12 - 9 + 1 = 72
+Flyout
+Team 1 pitcher (Harris Derickson): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+TOP INNING 8
+
+Joaquín Laguna: rng1 = 3 + 7 - 8 - 1 = 1
+Strikeout
+Team 2 pitcher (Pae Kwang-Min): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Tristian Love: rng1 = 45 + 12 - 8 - 1 = 48
+rng2 = 40 + 7 - 8 - 1 = 38
+Groundout
+Team 2 pitcher (Pae Kwang-Min): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Ethan Clarke: rng1 = 9 + 9 - 8 - 1 = 9
+Strikeout
+Team 2 pitcher (Pae Kwang-Min): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+BOTTOM INNING 8
+
+Qua'sean Price: rng1 = 10 + 11 - 8 + 1 = 14
+rng2 = 89 + 10 - 9 + 1 = 91
+Flyout
+Team 1 pitcher (Harris Derickson): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Luca Águila: rng1 = 81 + 9 - 8 + 1 = 83
+rng2 = 48 + 12 - 9 + 1 = 52
+Single
+Team 1 pitcher (Harris Derickson): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Cevonte Riley: rng1 = 70 + 10 - 8 + 1 = 73
+rng2 = 97 + 9 - 9 + 1 = 98
+Home run
+Team 1 pitcher (Harris Derickson): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-5
+
+Team 1 pitcher change to Trey Hendrickson
+
+Calder Martin: rng1 = 81 + 9 - 13 + 1 = 78
+rng2 = 22 + 8 - 12 + 1 = 19
+Single
+Team 1 pitcher (Trey Hendrickson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-5
+
+Antonio Valerio: rng1 = 98 + 8 - 13 + 1 = 94
+rng2 = 41 + 9 - 12 + 1 = 39
+Single
+Team 1 pitcher (Trey Hendrickson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [6,2], base2: [5,2], base3: false
+base1: true, base2: true, base3: false
+Score: 4-5
+
+Zackary Hartman: rng1 = 72 + 5 - 13 + 1 = 65
+rng2 = 80 + 9 - 12 + 1 = 78
+Flyout
+Team 1 pitcher (Trey Hendrickson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [6,2], base2: [5,2], base3: false
+base1: true, base2: true, base3: false
+Score: 4-5
+
+Kojima Kunio: rng1 = 43 + 5 - 13 + 1 = 36
+rng2 = 20 + 8 - 12 + 1 = 17
+Groundout
+Team 1 pitcher (Trey Hendrickson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-5
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Teagan Molina
+
+Trent Page: rng1 = 92 + 9 - 11 - 1 = 89
+Walk
+Team 2 pitcher (Teagan Molina): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [6,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-5
+
+Edward Cox: rng1 = 90 + 7 - 11 - 1 = 85
+rng2 = 93 + 5 - 13 - 1 = 84
+Home run
+Team 2 pitcher (Teagan Molina): 2 batters faced, 2 runs allowed = 2 + 5.0 = 7.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-5
+
+Alexis Shultz: rng1 = 14 + 8 - 11 - 1 = 10
+Strikeout
+Team 2 pitcher (Teagan Molina): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-5
+
+Nicolás Moruga: rng1 = 89 + 15 - 11 - 1 = 92
+rng2 = 50 + 13 - 13 - 1 = 49
+Single
+Team 2 pitcher (Teagan Molina): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: [0,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-5
+
+Lucián Chicote: rng1 = 84 + 12 - 11 - 1 = 84
+rng2 = 89 + 8 - 13 - 1 = 83
+Home run
+Team 2 pitcher (Teagan Molina): 5 batters faced, 4 runs allowed = 5 + 10.0 = 15.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-5
+
+Zahir Burgos: rng1 = 5 + 10 - 11 - 1 = 3
+Strikeout
+Team 2 pitcher (Teagan Molina): 6 batters faced, 4 runs allowed = 6 + 10.0 = 16.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-5
+
+Joaquín Laguna: rng1 = 68 + 7 - 11 - 1 = 63
+rng2 = 78 + 10 - 13 - 1 = 74
+Flyout
+Team 2 pitcher (Teagan Molina): 7 batters faced, 4 runs allowed = 7 + 10.0 = 17.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-5
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Christopher Jones
+
+Dekion Atkins: rng1 = 20 + 11 - 15 + 1 = 17
+Strikeout
+Team 1 pitcher (Christopher Jones): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-5
+
+Suko Masakado: rng1 = 12 + 10 - 15 + 1 = 8
+Strikeout
+Team 1 pitcher (Christopher Jones): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-5
+
+Qua'sean Price: rng1 = 6 + 11 - 15 + 1 = 3
+Strikeout
+Team 1 pitcher (Christopher Jones): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-5
+
+-----------------------
+
+Team 2 pitcher change to August Mantilla
+
+Innings: 9
+Team 1 hits: 9
+Team 2 hits: 9
+Team 1 runs: 8
+Team 2 runs: 5
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-07-28
+Nicolás Moruga	4	1	1	0	0	0	0	1	1					New York
+Lucián Chicote	5	1	3	1	0	1	4	0	2	
+Zahir Burgos	5	0	0	0	0	0	0	0	2	
+Joaquín Laguna	4	1	0	0	0	0	0	1	3	
+Tristian Love	4	0	1	0	0	0	0	0	1	
+Ethan Clarke	4	1	1	1	0	0	0	0	1	
+Trent Page	3	1	0	0	0	0	1	1	0	
+Edward Cox	3	2	1	0	0	1	2	1	0	
+Alexis Shultz	4	1	2	0	0	0	1	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Sean Wilson	0	0	1	1	0	0	15	5	3	1	2	4	22	
+Harris Derickson	0	0	1	0	0	0	7	2	2	1	1	3	10	
+Trey Hendrickson	1	0	1	0	0	0	2	2	0	0	0	0	4	
+Shane Moran	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Christopher Jones	0	0	1	0	1	1	3	0	0	0	0	3	3	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-07-28
+Dekion Atkins	5	0	1	0	0	0	0	0	3					Seattle
+Suko Masakado	5	0	0	0	0	0	0	0	1	
+Qua'sean Price	5	0	1	1	0	0	1	0	1	
+Luca Águila	4	2	2	0	0	1	1	0	0	
+Cevonte Riley	4	1	1	0	0	1	2	0	1	
+Calder Martin	3	0	1	0	0	0	0	1	1	
+Antonio Valerio	3	1	1	0	0	0	0	1	2	
+Zackary Hartman	4	0	1	1	0	0	1	0	1	
+Kojima Kunio	3	1	1	1	0	0	0	1	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Landon Keller	0	0	1	1	0	0	17	5	4	0	3	5	25	
+Pae Kwang-Min	0	0	1	0	0	0	7	1	0	0	0	4	8	
+August Mantilla	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Kadrick Reeves	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Teagan Molina	0	1	1	0	0	1	3	3	4	2	1	2	7	

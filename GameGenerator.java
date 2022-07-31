@@ -2674,13 +2674,13 @@ public class GameGenerator
 				FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
 			}
 
-			if ((p2index == 1 || p2index == 2 || p2index == 3) && pitchers2[p2index+1][2] == 0 && !pitchswapC && outs == 3 && (pitchers2[p2index][6] + 1.25*pitchers2[p2index][10] + 1.5*pitchers2[p2index][7] + 1.75*(pitchers2[p2index][8]) > 8))
+			if ((p2index == 1 || p2index == 2 || p2index == 3) && pitchers2[p2index+1][2] == 0 && !pitchswapC && outs == 3 && (pitchers2[p2index][6] + 1.25*pitchers2[p2index][10] + 1.5*pitchers2[p2index][7] + 1.75*(pitchers2[p2index][8]) > 5))
 			{
 				tempC = inning;
 				pitchswapC = true;
 			}
 
-			if ((p1index == 1 || p1index == 2 || p1index == 3) && pitchers1[p1index+1][2] == 0 && !pitchswapD && outs == 3 && (pitchers1[p1index][6] + 1.25*pitchers1[p1index][10] + 1.5*pitchers1[p1index][7] + 1.75*(pitchers1[p1index][8]) > 8))
+			if ((p1index == 1 || p1index == 2 || p1index == 3) && pitchers1[p1index+1][2] == 0 && !pitchswapD && outs == 3 && (pitchers1[p1index][6] + 1.25*pitchers1[p1index][10] + 1.5*pitchers1[p1index][7] + 1.75*(pitchers1[p1index][8]) > 5))
 			{
 				tempD = inning;
 				pitchswapD = true;

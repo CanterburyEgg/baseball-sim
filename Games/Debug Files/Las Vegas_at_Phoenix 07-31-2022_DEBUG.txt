@@ -1,0 +1,919 @@
+TOP INNING 1
+
+George Nagle: rng1 = 48 + 15 - 12 - 1 = 50
+rng2 = 32 + 13 - 12 - 1 = 32
+Groundout
+Team 2 pitcher (Jack Patel): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jason Burress: rng1 = 81 + 14 - 12 - 1 = 82
+rng2 = 55 + 10 - 12 - 1 = 52
+Single
+Team 2 pitcher (Jack Patel): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Antonio Carrera: rng1 = 56 + 15 - 12 - 1 = 58
+rng2 = 59 + 7 - 12 - 1 = 53
+Lineout
+Team 2 pitcher (Jack Patel): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Nathan Kaur: rng1 = 28 + 9 - 12 - 1 = 24
+Strikeout
+Team 2 pitcher (Jack Patel): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Ethan Spencer: rng1 = 100 + 13 - 8 + 1 = 106
+rng2 = 33 + 15 - 7 + 1 = 42
+Single
+Team 1 pitcher (Zaiden Payne): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Randall Hodge: rng1 = 53 + 15 - 8 + 1 = 61
+rng2 = 93 + 9 - 7 + 1 = 96
+Flyout
+Team 1 pitcher (Zaiden Payne): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Serafín Sancho: rng1 = 10 + 13 - 8 + 1 = 16
+Strikeout
+Team 1 pitcher (Zaiden Payne): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Max Lawrence: rng1 = 1 + 6 - 8 + 1 = 0
+Strikeout
+Team 1 pitcher (Zaiden Payne): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Dante Arias: rng1 = 41 + 9 - 12 - 1 = 37
+rng2 = 66 + 5 - 12 - 1 = 58
+Lineout
+Team 2 pitcher (Jack Patel): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Noah Fontenot: rng1 = 82 + 8 - 12 - 1 = 77
+rng2 = 75 + 6 - 12 - 1 = 68
+Double
+Team 2 pitcher (Jack Patel): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Charles Harris: rng1 = 74 + 8 - 12 - 1 = 69
+Walk
+Team 2 pitcher (Jack Patel): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Bautista Saelices: rng1 = 83 + 7 - 12 - 1 = 77
+rng2 = 95 + 6 - 12 - 1 = 88
+Double
+Team 2 pitcher (Jack Patel): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 1
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-0
+
+Albert Lang: rng1 = 88 + 6 - 12 - 1 = 81
+rng2 = 74 + 6 - 12 - 1 = 67
+Double
+Team 2 pitcher (Jack Patel): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 1
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-0
+
+George Nagle: rng1 = 43 + 15 - 12 - 1 = 45
+rng2 = 64 + 13 - 12 - 1 = 64
+Flyout
+Team 2 pitcher (Jack Patel): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 2
+
+base1: false, base2: false, base3: [8,0]
+base1: false, base2: false, base3: true
+Score: 3-0
+
+Jason Burress: rng1 = 78 + 14 - 12 - 1 = 79
+rng2 = 56 + 10 - 12 - 1 = 53
+Single
+Team 2 pitcher (Jack Patel): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Antonio Carrera: rng1 = 54 + 15 - 12 - 1 = 56
+rng2 = 50 + 7 - 12 - 1 = 44
+Groundout
+Team 2 pitcher (Jack Patel): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Desharious Roberson: rng1 = 88 + 10 - 8 + 1 = 91
+rng2 = 71 + 7 - 7 + 1 = 72
+Double
+Team 1 pitcher (Zaiden Payne): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-0
+
+Josh Poole: rng1 = 39 + 8 - 8 + 1 = 40
+rng2 = 27 + 8 - 7 + 1 = 29
+Groundout
+Team 1 pitcher (Zaiden Payne): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-0
+
+Pedro Acosta: rng1 = 11 + 7 - 8 + 1 = 11
+rng2 = 57 + 9 - 7 + 1 = 60
+Flyout
+Team 1 pitcher (Zaiden Payne): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-0
+
+Stanley Soto: rng1 = 15 + 9 - 8 + 1 = 17
+Strikeout
+Team 1 pitcher (Zaiden Payne): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+TOP INNING 3
+
+Nathan Kaur: rng1 = 36 + 9 - 12 - 1 = 32
+rng2 = 71 + 6 - 12 - 1 = 64
+Flyout
+Team 2 pitcher (Jack Patel): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Dante Arias: rng1 = 7 + 9 - 12 - 1 = 3
+Strikeout
+Team 2 pitcher (Jack Patel): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Noah Fontenot: rng1 = 97 + 8 - 12 - 1 = 92
+rng2 = 92 + 6 - 12 - 1 = 85
+Home run
+Team 2 pitcher (Jack Patel): 15 batters faced, 5 runs allowed = 15 + 12.5 = 27.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Charles Harris: rng1 = 5 + 8 - 12 - 1 = 0
+Strikeout
+Team 2 pitcher (Jack Patel): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Reese Ross: rng1 = 8 + 7 - 8 + 1 = 8
+Strikeout
+Team 1 pitcher (Zaiden Payne): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Ethan Spencer: rng1 = 41 + 13 - 8 + 1 = 47
+rng2 = 52 + 15 - 7 + 1 = 61
+Flyout
+Team 1 pitcher (Zaiden Payne): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Randall Hodge: rng1 = 35 + 15 - 8 + 1 = 43
+rng2 = 19 + 9 - 7 + 1 = 22
+Groundout
+Team 1 pitcher (Zaiden Payne): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-0
+
+-----------------------
+
+TOP INNING 4
+
+Bautista Saelices: rng1 = 40 + 7 - 12 - 1 = 34
+rng2 = 55 + 6 - 12 - 1 = 48
+Lineout
+Team 2 pitcher (Jack Patel): 17 batters faced, 5 runs allowed = 17 + 12.5 = 29.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Albert Lang: rng1 = 17 + 6 - 12 - 1 = 10
+Strikeout
+Team 2 pitcher (Jack Patel): 18 batters faced, 5 runs allowed = 18 + 12.5 = 30.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+George Nagle: rng1 = 77 + 15 - 12 - 1 = 79
+rng2 = 36 + 13 - 12 - 1 = 36
+Single
+Team 2 pitcher (Jack Patel): 19 batters faced, 5 runs allowed = 19 + 12.5 = 31.5, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-0
+
+Jason Burress: rng1 = 51 + 14 - 12 - 1 = 52
+rng2 = 99 + 10 - 12 - 1 = 96
+Flyout
+Team 2 pitcher (Jack Patel): 20 batters faced, 5 runs allowed = 20 + 12.5 = 32.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-0
+
+-----------------------
+
+BOTTOM INNING 4
+
+Serafín Sancho: rng1 = 92 + 13 - 8 + 1 = 98
+rng2 = 25 + 7 - 7 + 1 = 26
+Single
+Team 1 pitcher (Zaiden Payne): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 0
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-0
+
+Max Lawrence: rng1 = 92 + 6 - 8 + 1 = 91
+rng2 = 45 + 10 - 7 + 1 = 49
+Single
+Team 1 pitcher (Zaiden Payne): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 0
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 5-0
+
+Desharious Roberson: rng1 = 95 + 10 - 8 + 1 = 98
+rng2 = 82 + 7 - 7 + 1 = 83
+Home run
+Team 1 pitcher (Zaiden Payne): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Josh Poole: rng1 = 9 + 8 - 8 + 1 = 10
+Strikeout
+Team 1 pitcher (Zaiden Payne): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Pedro Acosta: rng1 = 52 + 7 - 8 + 1 = 52
+rng2 = 71 + 9 - 7 + 1 = 74
+Flyout
+Team 1 pitcher (Zaiden Payne): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Stanley Soto: rng1 = 67 + 9 - 8 + 1 = 69
+Walk
+Team 1 pitcher (Zaiden Payne): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-3
+
+Reese Ross: rng1 = 94 + 7 - 8 + 1 = 94
+rng2 = 25 + 7 - 7 + 1 = 26
+Single
+Team 1 pitcher (Zaiden Payne): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 2
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 5-3
+
+Ethan Spencer: rng1 = 3 + 13 - 8 + 1 = 9
+Strikeout
+Team 1 pitcher (Zaiden Payne): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+TOP INNING 5
+
+Team 2 pitcher change to Colton Hendrix
+
+Antonio Carrera: rng1 = 56 + 15 - 8 - 1 = 62
+rng2 = 36 + 7 - 7 - 1 = 35
+Groundout
+Team 2 pitcher (Colton Hendrix): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Nathan Kaur: rng1 = 53 + 9 - 8 - 1 = 53
+rng2 = 45 + 6 - 7 - 1 = 43
+Groundout
+Team 2 pitcher (Colton Hendrix): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Dante Arias: rng1 = 30 + 9 - 8 - 1 = 30
+rng2 = 98 + 5 - 7 - 1 = 95
+Flyout
+Team 2 pitcher (Colton Hendrix): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+BOTTOM INNING 5
+
+Randall Hodge: rng1 = 40 + 15 - 8 + 1 = 48
+rng2 = 23 + 9 - 7 + 1 = 26
+Groundout
+Team 1 pitcher (Zaiden Payne): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Serafín Sancho: rng1 = 35 + 13 - 8 + 1 = 41
+rng2 = 51 + 7 - 7 + 1 = 52
+Lineout
+Team 1 pitcher (Zaiden Payne): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Max Lawrence: rng1 = 87 + 6 - 8 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Zaiden Payne): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-3
+
+Desharious Roberson: rng1 = 5 + 10 - 8 + 1 = 8
+Strikeout
+Team 1 pitcher (Zaiden Payne): 23 batters faced, 3 runs allowed = 23 + 7.5 = 30.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+TOP INNING 6
+
+Noah Fontenot: rng1 = 9 + 8 - 8 - 1 = 8
+Strikeout
+Team 2 pitcher (Colton Hendrix): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Charles Harris: rng1 = 29 + 8 - 8 - 1 = 28
+rng2 = 94 + 6 - 7 - 1 = 92
+Flyout
+Team 2 pitcher (Colton Hendrix): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Bautista Saelices: rng1 = 3 + 7 - 8 - 1 = 1
+Strikeout
+Team 2 pitcher (Colton Hendrix): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Jacob Wallace
+
+Josh Poole: rng1 = 47 + 8 - 10 + 1 = 46
+rng2 = 94 + 8 - 9 + 1 = 94
+Flyout
+Team 1 pitcher (Jacob Wallace): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Pedro Acosta: rng1 = 63 + 7 - 10 + 1 = 61
+rng2 = 39 + 9 - 9 + 1 = 40
+Groundout
+Team 1 pitcher (Jacob Wallace): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Stanley Soto: rng1 = 68 + 9 - 10 + 1 = 68
+rng2 = 98 + 5 - 9 + 1 = 95
+Flyout
+Team 1 pitcher (Jacob Wallace): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+TOP INNING 7
+
+Albert Lang: rng1 = 75 + 6 - 8 - 1 = 72
+rng2 = 47 + 6 - 7 - 1 = 45
+Single
+Team 2 pitcher (Colton Hendrix): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 0
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-3
+
+George Nagle: rng1 = 6 + 15 - 8 - 1 = 12
+rng2 = 62 + 13 - 7 - 1 = 67
+Flyout
+Team 2 pitcher (Colton Hendrix): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-3
+
+Jason Burress: rng1 = 55 + 14 - 8 - 1 = 60
+rng2 = 87 + 10 - 7 - 1 = 89
+Flyout
+Team 2 pitcher (Colton Hendrix): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-3
+
+Antonio Carrera: rng1 = 65 + 15 - 8 - 1 = 71
+Walk
+Team 2 pitcher (Colton Hendrix): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: [2,1], base2: [8,1], base3: false
+base1: true, base2: true, base3: false
+Score: 5-3
+
+Nathan Kaur: rng1 = 78 + 9 - 8 - 1 = 78
+rng2 = 78 + 6 - 7 - 1 = 76
+Double
+Team 2 pitcher (Colton Hendrix): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: false, base2: [3,1], base3: [2,1]
+base1: false, base2: true, base3: true
+Score: 6-3
+
+Team 2 pitcher change to Lyndon Perell
+
+Dante Arias: rng1 = 39 + 9 - 9 - 1 = 38
+rng2 = 96 + 5 - 11 - 1 = 89
+Flyout
+Team 2 pitcher (Lyndon Perell): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-3
+
+-----------------------
+
+BOTTOM INNING 7
+
+Reese Ross: rng1 = 52 + 7 - 10 + 1 = 50
+rng2 = 67 + 7 - 9 + 1 = 66
+Flyout
+Team 1 pitcher (Jacob Wallace): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Ethan Spencer: rng1 = 70 + 13 - 10 + 1 = 74
+rng2 = 42 + 15 - 9 + 1 = 49
+Single
+Team 1 pitcher (Jacob Wallace): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-3
+
+Randall Hodge: rng1 = 72 + 15 - 10 + 1 = 78
+rng2 = 95 + 9 - 9 + 1 = 96
+Home run
+Team 1 pitcher (Jacob Wallace): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-5
+
+Serafín Sancho: rng1 = 94 + 13 - 10 + 1 = 98
+rng2 = 64 + 7 - 9 + 1 = 63
+Single
+Team 1 pitcher (Jacob Wallace): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 1
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-5
+
+Max Lawrence: rng1 = 87 + 6 - 10 + 1 = 84
+rng2 = 81 + 10 - 9 + 1 = 83
+Home run
+Team 1 pitcher (Jacob Wallace): 8 batters faced, 4 runs allowed = 8 + 10.0 = 18.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-7
+
+Team 1 pitcher change to Taylor Murphy
+
+Desharious Roberson: rng1 = 37 + 10 - 13 + 1 = 35
+rng2 = 63 + 7 - 11 + 1 = 60
+Flyout
+Team 1 pitcher (Taylor Murphy): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-7
+
+Josh Poole: rng1 = 57 + 8 - 13 + 1 = 53
+rng2 = 56 + 8 - 11 + 1 = 54
+Lineout
+Team 1 pitcher (Taylor Murphy): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-7
+
+-----------------------
+
+TOP INNING 8
+
+Noah Fontenot: rng1 = 14 + 8 - 9 - 1 = 12
+rng2 = 68 + 6 - 11 - 1 = 62
+Flyout
+Team 2 pitcher (Lyndon Perell): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-7
+
+Charles Harris: rng1 = 49 + 8 - 9 - 1 = 47
+rng2 = 24 + 6 - 11 - 1 = 18
+Groundout
+Team 2 pitcher (Lyndon Perell): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-7
+
+Bautista Saelices: rng1 = 1 + 7 - 9 - 1 = -2
+Strikeout
+Team 2 pitcher (Lyndon Perell): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-7
+
+-----------------------
+
+BOTTOM INNING 8
+
+Pedro Acosta: rng1 = 40 + 7 - 13 + 1 = 35
+rng2 = 27 + 9 - 11 + 1 = 26
+Groundout
+Team 1 pitcher (Taylor Murphy): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-7
+
+Stanley Soto: rng1 = 17 + 9 - 13 + 1 = 14
+rng2 = 11 + 5 - 11 + 1 = 6
+Groundout
+Team 1 pitcher (Taylor Murphy): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-7
+
+Reese Ross: rng1 = 23 + 7 - 13 + 1 = 18
+Strikeout
+Team 1 pitcher (Taylor Murphy): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-7
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Raymond Day
+
+Albert Lang: rng1 = 23 + 6 - 10 - 1 = 18
+Strikeout
+Team 2 pitcher (Raymond Day): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-7
+
+George Nagle: rng1 = 17 + 15 - 10 - 1 = 21
+Strikeout
+Team 2 pitcher (Raymond Day): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-7
+
+Jason Burress: rng1 = 93 + 14 - 10 - 1 = 96
+rng2 = 87 + 10 - 11 - 1 = 85
+Home run
+Team 2 pitcher (Raymond Day): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-7
+
+Antonio Carrera: rng1 = 53 + 15 - 10 - 1 = 57
+rng2 = 63 + 7 - 11 - 1 = 58
+Lineout
+Team 2 pitcher (Raymond Day): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-7
+
+-----------------------
+
+BOTTOM INNING 9
+
+Ethan Spencer: rng1 = 67 + 13 - 13 + 1 = 68
+rng2 = 45 + 15 - 11 + 1 = 50
+Lineout
+Team 1 pitcher (Taylor Murphy): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-7
+
+Randall Hodge: rng1 = 76 + 15 - 13 + 1 = 79
+rng2 = 40 + 9 - 11 + 1 = 39
+Single
+Team 1 pitcher (Taylor Murphy): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-7
+
+Serafín Sancho: rng1 = 70 + 13 - 13 + 1 = 71
+Walk
+Team 1 pitcher (Taylor Murphy): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: [2,2], base2: [1,2], base3: false
+base1: true, base2: true, base3: false
+Score: 7-7
+
+Max Lawrence: rng1 = 53 + 6 - 13 + 1 = 47
+rng2 = 82 + 10 - 11 + 1 = 82
+Flyout
+Team 1 pitcher (Taylor Murphy): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: [2,2], base2: [1,2], base3: false
+base1: true, base2: true, base3: false
+Score: 7-7
+
+Desharious Roberson: rng1 = 45 + 10 - 13 + 1 = 43
+rng2 = 57 + 7 - 11 + 1 = 54
+Lineout
+Team 1 pitcher (Taylor Murphy): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-7
+
+-----------------------
+
+TOP INNING 10
+
+Team 2 pitcher change to Alexander Richards
+
+Nathan Kaur: rng1 = 85 + 9 - 6 - 1 = 87
+Walk
+Team 2 pitcher (Alexander Richards): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [3,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-7
+
+Dante Arias: rng1 = 50 + 9 - 6 - 1 = 52
+rng2 = 81 + 5 - 8 - 1 = 77
+Flyout
+Team 2 pitcher (Alexander Richards): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [3,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-7
+
+Noah Fontenot: rng1 = 79 + 8 - 6 - 1 = 80
+rng2 = 90 + 6 - 8 - 1 = 87
+Double
+Team 2 pitcher (Alexander Richards): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: [5,3], base3: [3,3]
+base1: false, base2: true, base3: true
+Score: 7-7
+
+Charles Harris: rng1 = 81 + 8 - 6 - 1 = 82
+rng2 = 94 + 6 - 8 - 1 = 91
+Double
+Team 2 pitcher (Alexander Richards): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: false, base2: [6,3], base3: false
+base1: false, base2: true, base3: false
+Score: 9-7
+
+Bautista Saelices: rng1 = 97 + 7 - 6 - 1 = 97
+rng2 = 91 + 6 - 8 - 1 = 88
+Double
+Team 2 pitcher (Alexander Richards): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 1
+
+base1: false, base2: [7,3], base3: false
+base1: false, base2: true, base3: false
+Score: 10-7
+
+Albert Lang: rng1 = 36 + 6 - 6 - 1 = 35
+rng2 = 90 + 6 - 8 - 1 = 87
+Flyout
+Team 2 pitcher (Alexander Richards): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: false, base2: [7,3], base3: false
+base1: false, base2: true, base3: false
+Score: 10-7
+
+George Nagle: rng1 = 50 + 15 - 6 - 1 = 58
+rng2 = 99 + 13 - 8 - 1 = 103
+Flyout
+Team 2 pitcher (Alexander Richards): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 10-7
+
+-----------------------
+
+BOTTOM INNING 10
+
+Team 1 pitcher change to Macos Alguacil
+
+Josh Poole: rng1 = 53 + 8 - 13 + 1 = 49
+rng2 = 40 + 8 - 11 + 1 = 38
+Groundout
+Team 1 pitcher (Macos Alguacil): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-7
+
+Pedro Acosta: rng1 = 41 + 7 - 13 + 1 = 36
+rng2 = 47 + 9 - 11 + 1 = 46
+Groundout
+Team 1 pitcher (Macos Alguacil): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-7
+
+Stanley Soto: rng1 = 89 + 9 - 13 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Macos Alguacil): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [7,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 10-7
+
+Reese Ross: rng1 = 89 + 7 - 13 + 1 = 84
+rng2 = 26 + 7 - 11 + 1 = 23
+Single
+Team 1 pitcher (Macos Alguacil): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [8,4], base2: false, base3: [7,4]
+base1: true, base2: false, base3: true
+Score: 10-7
+
+Ethan Spencer: rng1 = 37 + 13 - 13 + 1 = 38
+rng2 = 28 + 15 - 11 + 1 = 33
+Groundout
+Team 1 pitcher (Macos Alguacil): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 10-7
+
+-----------------------
+
+Innings: 10
+Team 1 hits: 13
+Team 2 hits: 12
+Team 1 runs: 10
+Team 2 runs: 7
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-07-31
+George Nagle	6	0	1	0	0	0	0	0	1					Las Vegas
+Jason Burress	5	1	3	0	0	1	2	0	0	
+Antonio Carrera	4	0	0	0	0	0	0	1	0	
+Nathan Kaur	4	1	1	1	0	0	1	1	1	
+Dante Arias	5	0	0	0	0	0	0	0	1	
+Noah Fontenot	5	3	3	2	0	1	1	0	1	
+Charles Harris	4	2	1	1	0	0	2	1	1	
+Bautista Saelices	5	1	2	2	0	0	3	0	2	
+Albert Lang	5	2	2	1	0	0	1	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Zaiden Payne	0	0	1	1	0	0	15	6	3	1	1	7	23	
+Jacob Wallace	0	0	1	0	0	0	4	4	4	2	0	0	8	
+Taylor Murphy	1	0	1	0	0	0	8	1	0	0	1	1	10	
+Phil Segee	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Macos Alguacil	0	0	1	0	0	0	3	1	0	0	0	0	5	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-07-31
+Ethan Spencer	6	1	2	0	0	0	0	0	1					Phoenix
+Randall Hodge	5	1	2	0	0	1	2	0	0	
+Serafín Sancho	4	2	2	0	0	0	0	1	1	
+Max Lawrence	4	2	2	0	0	1	2	0	1	
+Desharious Roberson	5	1	2	1	0	1	3	0	1	
+Josh Poole	5	0	0	0	0	0	0	0	1	
+Pedro Acosta	5	0	0	0	0	0	0	0	0	
+Stanley Soto	3	0	0	0	0	0	0	1	1	
+Reese Ross	5	0	2	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Jack Patel	0	0	1	1	0	0	12	7	5	1	1	4	20	
+Colton Hendrix	0	0	1	0	0	0	8	2	1	0	1	2	11	
+Lyndon Perell	0	0	1	0	0	0	4	0	0	0	0	1	4	
+Alexander Richards	0	1	1	0	0	0	3	3	3	0	1	0	7	
+Raymond Day	0	0	1	0	0	1	3	1	1	1	0	2	4	

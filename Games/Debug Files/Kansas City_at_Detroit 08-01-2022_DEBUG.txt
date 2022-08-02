@@ -1,0 +1,736 @@
+TOP INNING 1
+
+Stanley Jackson: rng1 = 94 + 12 - 8 - 1 = 97
+rng2 = 45 + 12 - 5 - 1 = 51
+Single
+Team 2 pitcher (Yajeel Hinton): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Andres Fortune: rng1 = 15 + 12 - 8 - 1 = 18
+Strikeout
+Team 2 pitcher (Yajeel Hinton): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Noah Key: rng1 = 9 + 9 - 8 - 1 = 9
+Strikeout
+Team 2 pitcher (Yajeel Hinton): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Dexter Stevens: rng1 = 33 + 8 - 8 - 1 = 32
+rng2 = 77 + 12 - 5 - 1 = 83
+Flyout
+Team 2 pitcher (Yajeel Hinton): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Dante Leoz: rng1 = 69 + 15 - 7 + 1 = 78
+rng2 = 34 + 13 - 8 + 1 = 40
+Single
+Team 1 pitcher (Declan Chambers): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Reuben Sutton: rng1 = 64 + 15 - 7 + 1 = 73
+rng2 = 15 + 12 - 8 + 1 = 20
+Single
+Team 1 pitcher (Declan Chambers): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Cody McCarthy: rng1 = 93 + 13 - 7 + 1 = 100
+rng2 = 50 + 9 - 8 + 1 = 52
+Single
+Team 1 pitcher (Declan Chambers): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 0
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 0-1
+
+Caden Bryan: rng1 = 17 + 7 - 7 + 1 = 18
+Strikeout
+Team 1 pitcher (Declan Chambers): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 0-1
+
+Joseph Thayer: rng1 = 31 + 13 - 7 + 1 = 38
+rng2 = 83 + 9 - 8 + 1 = 85
+Flyout
+Team 1 pitcher (Declan Chambers): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 0-1
+
+Andres Perez: rng1 = 54 + 7 - 7 + 1 = 55
+rng2 = 77 + 9 - 8 + 1 = 79
+Flyout
+Team 1 pitcher (Declan Chambers): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 2
+
+Noel Ayers: rng1 = 5 + 8 - 8 - 1 = 4
+Strikeout
+Team 2 pitcher (Yajeel Hinton): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+David Freixa: rng1 = 13 + 8 - 8 - 1 = 12
+rng2 = 89 + 6 - 5 - 1 = 89
+Flyout
+Team 2 pitcher (Yajeel Hinton): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Ewan Hunt: rng1 = 22 + 7 - 8 - 1 = 20
+Strikeout
+Team 2 pitcher (Yajeel Hinton): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Angel Sierra: rng1 = 67 + 6 - 7 + 1 = 67
+rng2 = 29 + 7 - 8 + 1 = 29
+Groundout
+Team 1 pitcher (Declan Chambers): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Esteban Obregón: rng1 = 48 + 8 - 7 + 1 = 50
+rng2 = 79 + 4 - 8 + 1 = 76
+Flyout
+Team 1 pitcher (Declan Chambers): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Jorge Donald: rng1 = 84 + 5 - 7 + 1 = 83
+rng2 = 97 + 7 - 8 + 1 = 97
+Home run
+Team 1 pitcher (Declan Chambers): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Dante Leoz: rng1 = 29 + 15 - 7 + 1 = 38
+rng2 = 23 + 13 - 8 + 1 = 29
+Groundout
+Team 1 pitcher (Declan Chambers): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 3
+
+Camron Greer: rng1 = 7 + 5 - 8 - 1 = 3
+Strikeout
+Team 2 pitcher (Yajeel Hinton): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Elliott Holloway: rng1 = 72 + 5 - 8 - 1 = 68
+rng2 = 73 + 7 - 5 - 1 = 74
+Flyout
+Team 2 pitcher (Yajeel Hinton): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Stanley Jackson: rng1 = 1 + 12 - 8 - 1 = 4
+Strikeout
+Team 2 pitcher (Yajeel Hinton): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+BOTTOM INNING 3
+
+Reuben Sutton: rng1 = 62 + 15 - 7 + 1 = 71
+Walk
+Team 1 pitcher (Declan Chambers): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Cody McCarthy: rng1 = 35 + 13 - 7 + 1 = 42
+rng2 = 39 + 9 - 8 + 1 = 41
+Groundout
+Team 1 pitcher (Declan Chambers): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-2
+
+Caden Bryan: rng1 = 100 + 7 - 7 + 1 = 101
+rng2 = 27 + 12 - 8 + 1 = 32
+Single
+Team 1 pitcher (Declan Chambers): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 1
+
+base1: [3,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 0-2
+
+Joseph Thayer: rng1 = 43 + 13 - 7 + 1 = 50
+rng2 = 93 + 9 - 8 + 1 = 95
+Flyout
+Team 1 pitcher (Declan Chambers): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Andres Perez: rng1 = 36 + 7 - 7 + 1 = 37
+rng2 = 88 + 9 - 8 + 1 = 90
+Flyout
+Team 1 pitcher (Declan Chambers): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+TOP INNING 4
+
+Andres Fortune: rng1 = 86 + 12 - 8 - 1 = 89
+Walk
+Team 2 pitcher (Yajeel Hinton): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Noah Key: rng1 = 99 + 9 - 8 - 1 = 99
+rng2 = 16 + 11 - 5 - 1 = 21
+Single
+Team 2 pitcher (Yajeel Hinton): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 0
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 0-3
+
+Dexter Stevens: rng1 = 24 + 8 - 8 - 1 = 23
+Strikeout
+Team 2 pitcher (Yajeel Hinton): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 1
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 0-3
+
+Noel Ayers: rng1 = 63 + 8 - 8 - 1 = 62
+rng2 = 3 + 8 - 5 - 1 = 5
+Groundout
+Team 2 pitcher (Yajeel Hinton): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-3
+
+David Freixa: rng1 = 38 + 8 - 8 - 1 = 37
+rng2 = 62 + 6 - 5 - 1 = 62
+Flyout
+Team 2 pitcher (Yajeel Hinton): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+BOTTOM INNING 4
+
+Angel Sierra: rng1 = 6 + 6 - 7 + 1 = 6
+Strikeout
+Team 1 pitcher (Declan Chambers): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Esteban Obregón: rng1 = 2 + 8 - 7 + 1 = 4
+Strikeout
+Team 1 pitcher (Declan Chambers): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Jorge Donald: rng1 = 15 + 5 - 7 + 1 = 14
+rng2 = 83 + 7 - 8 + 1 = 83
+Flyout
+Team 1 pitcher (Declan Chambers): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 5
+
+Ewan Hunt: rng1 = 2 + 7 - 8 - 1 = 0
+Strikeout
+Team 2 pitcher (Yajeel Hinton): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Camron Greer: rng1 = 57 + 5 - 8 - 1 = 53
+rng2 = 13 + 8 - 5 - 1 = 15
+Groundout
+Team 2 pitcher (Yajeel Hinton): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Elliott Holloway: rng1 = 47 + 5 - 8 - 1 = 43
+rng2 = 96 + 7 - 5 - 1 = 97
+Flyout
+Team 2 pitcher (Yajeel Hinton): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+BOTTOM INNING 5
+
+Dante Leoz: rng1 = 47 + 15 - 7 + 1 = 56
+rng2 = 77 + 13 - 8 + 1 = 83
+Flyout
+Team 1 pitcher (Declan Chambers): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Reuben Sutton: rng1 = 73 + 15 - 7 + 1 = 82
+rng2 = 80 + 12 - 8 + 1 = 85
+Home run
+Team 1 pitcher (Declan Chambers): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Cody McCarthy: rng1 = 93 + 13 - 7 + 1 = 100
+rng2 = 87 + 9 - 8 + 1 = 89
+Double
+Team 1 pitcher (Declan Chambers): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-4
+
+Caden Bryan: rng1 = 10 + 7 - 7 + 1 = 11
+rng2 = 7 + 12 - 8 + 1 = 12
+Groundout
+Team 1 pitcher (Declan Chambers): 22 batters faced, 4 runs allowed = 22 + 10.0 = 32.0, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-4
+
+Joseph Thayer: rng1 = 59 + 13 - 7 + 1 = 66
+rng2 = 3 + 9 - 8 + 1 = 5
+Groundout
+Team 1 pitcher (Declan Chambers): 23 batters faced, 4 runs allowed = 23 + 10.0 = 33.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+TOP INNING 6
+
+Stanley Jackson: rng1 = 89 + 12 - 8 - 1 = 92
+rng2 = 17 + 12 - 5 - 1 = 23
+Single
+Team 2 pitcher (Yajeel Hinton): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Andres Fortune: rng1 = 10 + 12 - 8 - 1 = 13
+rng2 = 61 + 10 - 5 - 1 = 65
+Flyout
+Team 2 pitcher (Yajeel Hinton): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Noah Key: rng1 = 24 + 9 - 8 - 1 = 24
+Strikeout
+Team 2 pitcher (Yajeel Hinton): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Dexter Stevens: rng1 = 82 + 8 - 8 - 1 = 81
+rng2 = 54 + 12 - 5 - 1 = 60
+Single
+Team 2 pitcher (Yajeel Hinton): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 2
+
+base1: [3,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 1-4
+
+Noel Ayers: rng1 = 20 + 8 - 8 - 1 = 19
+Strikeout
+Team 2 pitcher (Yajeel Hinton): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Phoenix Deleon
+
+Andres Perez: rng1 = 88 + 7 - 14 + 1 = 82
+rng2 = 75 + 9 - 15 + 1 = 70
+Double
+Team 1 pitcher (Phoenix Deleon): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [5,1], base3: false
+base1: false, base2: true, base3: false
+Score: 1-4
+
+Angel Sierra: rng1 = 22 + 6 - 14 + 1 = 15
+rng2 = 39 + 7 - 15 + 1 = 32
+Groundout
+Team 1 pitcher (Phoenix Deleon): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [5,1], base3: false
+base1: false, base2: true, base3: false
+Score: 1-4
+
+Esteban Obregón: rng1 = 88 + 8 - 14 + 1 = 83
+rng2 = 51 + 4 - 15 + 1 = 41
+Single
+Team 1 pitcher (Phoenix Deleon): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Jorge Donald: rng1 = 36 + 5 - 14 + 1 = 28
+rng2 = 69 + 7 - 15 + 1 = 62
+Flyout
+Team 1 pitcher (Phoenix Deleon): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Dante Leoz: rng1 = 40 + 15 - 14 + 1 = 42
+rng2 = 33 + 13 - 15 + 1 = 32
+Groundout
+Team 1 pitcher (Phoenix Deleon): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+TOP INNING 7
+
+David Freixa: rng1 = 96 + 8 - 8 - 1 = 95
+rng2 = 29 + 6 - 5 - 1 = 29
+Single
+Team 2 pitcher (Yajeel Hinton): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Ewan Hunt: rng1 = 39 + 7 - 8 - 1 = 37
+rng2 = 71 + 7 - 5 - 1 = 72
+Flyout
+Team 2 pitcher (Yajeel Hinton): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Camron Greer: rng1 = 21 + 5 - 8 - 1 = 17
+Strikeout
+Team 2 pitcher (Yajeel Hinton): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Elliott Holloway: rng1 = 60 + 5 - 8 - 1 = 56
+rng2 = 86 + 7 - 5 - 1 = 87
+Flyout
+Team 2 pitcher (Yajeel Hinton): 27 batters faced, 1 runs allowed = 27 + 2.5 = 29.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Jensen Garrish
+
+Reuben Sutton: rng1 = 78 + 15 - 14 + 1 = 80
+rng2 = 14 + 12 - 13 + 1 = 14
+Single
+Team 1 pitcher (Jensen Garrish): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Cody McCarthy: rng1 = 25 + 13 - 14 + 1 = 25
+Strikeout
+Team 1 pitcher (Jensen Garrish): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Caden Bryan: rng1 = 82 + 7 - 14 + 1 = 76
+rng2 = 6 + 12 - 13 + 1 = 6
+Single
+Team 1 pitcher (Jensen Garrish): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [3,2], base2: false, base3: [1,2]
+base1: true, base2: false, base3: true
+Score: 1-5
+
+Joseph Thayer: rng1 = 41 + 13 - 14 + 1 = 41
+rng2 = 14 + 9 - 13 + 1 = 11
+Groundout
+Team 1 pitcher (Jensen Garrish): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [3,2], base3: false
+base1: false, base2: true, base3: false
+Score: 1-6
+
+Andres Perez: rng1 = 35 + 7 - 14 + 1 = 29
+rng2 = 54 + 9 - 13 + 1 = 51
+Lineout
+Team 1 pitcher (Jensen Garrish): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Ian Berg
+
+Stanley Jackson: rng1 = 10 + 12 - 11 - 1 = 10
+Strikeout
+Team 2 pitcher (Ian Berg): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Andres Fortune: rng1 = 87 + 12 - 11 - 1 = 87
+Walk
+Team 2 pitcher (Ian Berg): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Noah Key: rng1 = 93 + 9 - 11 - 1 = 90
+Walk
+Team 2 pitcher (Ian Berg): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,1], base2: [1,1], base3: false
+base1: true, base2: true, base3: false
+Score: 1-6
+
+Dexter Stevens: rng1 = 14 + 8 - 11 - 1 = 10
+Strikeout
+Team 2 pitcher (Ian Berg): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [2,1], base2: [1,1], base3: false
+base1: true, base2: true, base3: false
+Score: 1-6
+
+Noel Ayers: rng1 = 45 + 8 - 11 - 1 = 41
+rng2 = 20 + 8 - 9 - 1 = 18
+Groundout
+Team 2 pitcher (Ian Berg): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Cohen Roman
+
+Angel Sierra: rng1 = 85 + 6 - 15 + 1 = 77
+rng2 = 48 + 7 - 11 + 1 = 45
+Single
+Team 1 pitcher (Cohen Roman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [6,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Esteban Obregón: rng1 = 54 + 8 - 15 + 1 = 48
+rng2 = 89 + 4 - 11 + 1 = 83
+Flyout
+Team 1 pitcher (Cohen Roman): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [6,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Jorge Donald: rng1 = 13 + 5 - 15 + 1 = 4
+Strikeout
+Team 1 pitcher (Cohen Roman): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [6,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Dante Leoz: rng1 = 21 + 15 - 15 + 1 = 22
+Strikeout
+Team 1 pitcher (Cohen Roman): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Isaac Wilson
+
+David Freixa: rng1 = 19 + 8 - 11 - 1 = 15
+rng2 = 90 + 6 - 12 - 1 = 83
+Flyout
+Team 2 pitcher (Isaac Wilson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Ewan Hunt: rng1 = 73 + 7 - 11 - 1 = 68
+rng2 = 19 + 7 - 12 - 1 = 13
+Groundout
+Team 2 pitcher (Isaac Wilson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Camron Greer: rng1 = 83 + 5 - 11 - 1 = 76
+rng2 = 47 + 8 - 12 - 1 = 42
+Single
+Team 2 pitcher (Isaac Wilson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [7,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Elliott Holloway: rng1 = 63 + 5 - 11 - 1 = 56
+rng2 = 18 + 7 - 12 - 1 = 12
+Groundout
+Team 2 pitcher (Isaac Wilson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 6
+Team 2 hits: 12
+Team 1 runs: 1
+Team 2 runs: 6
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-08-01
+Stanley Jackson	4	0	2	0	0	0	0	0	2					Kansas City
+Andres Fortune	2	1	0	0	0	0	0	2	1	
+Noah Key	3	0	1	0	0	0	0	1	2	
+Dexter Stevens	4	0	1	0	0	0	0	0	2	
+Noel Ayers	4	0	0	0	0	0	1	0	2	
+David Freixa	4	0	1	0	0	0	0	0	0	
+Ewan Hunt	4	0	0	0	0	0	0	0	2	
+Camron Greer	4	0	1	0	0	0	0	0	2	
+Elliott Holloway	4	0	0	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Declan Chambers	0	1	1	1	0	0	15	7	4	2	1	3	23	
+Phoenix Deleon	0	0	1	0	0	0	3	2	1	0	0	0	5	
+Jensen Garrish	0	0	1	0	0	0	3	2	1	0	0	1	5	
+Cohen Roman	0	0	1	0	0	0	3	1	0	0	0	2	4	
+Antonio McMillan	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-08-01
+Dante Leoz	5	1	1	0	0	0	0	0	1					Detroit
+Reuben Sutton	3	3	3	0	0	1	1	1	0	
+Cody McCarthy	4	0	2	1	0	0	1	0	1	
+Caden Bryan	4	0	2	0	0	0	0	0	1	
+Joseph Thayer	4	0	0	0	0	0	2	0	0	
+Andres Perez	4	1	1	1	0	0	0	0	0	
+Angel Sierra	4	0	1	0	0	0	0	0	1	
+Esteban Obregón	4	0	1	0	0	0	1	0	1	
+Jorge Donald	4	1	1	0	0	1	1	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Yajeel Hinton	1	0	1	1	0	0	21	5	1	0	1	11	27	
+Ian Berg	0	0	1	0	0	0	3	0	0	0	2	2	5	
+Rakeem Bradley	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Keegan Schiel	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Isaac Wilson	0	0	1	0	0	0	3	1	0	0	0	0	4	

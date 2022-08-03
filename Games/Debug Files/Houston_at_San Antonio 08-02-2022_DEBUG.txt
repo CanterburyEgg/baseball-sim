@@ -1,0 +1,737 @@
+TOP INNING 1
+
+Zachary Hughes: rng1 = 49 + 15 - 10 - 1 = 53
+rng2 = 59 + 15 - 11 - 1 = 62
+Flyout
+Team 2 pitcher (Jackson Peck): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Cody Henderson: rng1 = 76 + 15 - 10 - 1 = 80
+rng2 = 47 + 15 - 11 - 1 = 50
+Single
+Team 2 pitcher (Jackson Peck): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Aaron Vera: rng1 = 31 + 13 - 10 - 1 = 33
+rng2 = 47 + 7 - 11 - 1 = 42
+Groundout
+Team 2 pitcher (Jackson Peck): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Joshua Marsh: rng1 = 74 + 4 - 10 - 1 = 67
+rng2 = 41 + 11 - 11 - 1 = 40
+Groundout
+Team 2 pitcher (Jackson Peck): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Dylan Marsh: rng1 = 75 + 15 - 6 + 1 = 85
+rng2 = 29 + 15 - 6 + 1 = 39
+Single
+Team 1 pitcher (Jonatan Velazquez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Frankie Bell: rng1 = 7 + 11 - 6 + 1 = 13
+rng2 = 6 + 12 - 6 + 1 = 13
+Groundout
+Team 1 pitcher (Jonatan Velazquez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Rodolfo Mullen: rng1 = 83 + 12 - 6 + 1 = 90
+Walk
+Team 1 pitcher (Jonatan Velazquez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Rubén Indiano: rng1 = 86 + 12 - 6 + 1 = 93
+rng2 = 89 + 10 - 6 + 1 = 94
+Home run
+Team 1 pitcher (Jonatan Velazquez): 4 batters faced, 3 runs allowed = 4 + 7.5 = 11.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Marcelo Francis: rng1 = 63 + 13 - 6 + 1 = 71
+Walk
+Team 1 pitcher (Jonatan Velazquez): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Leon Watts: rng1 = 69 + 12 - 6 + 1 = 76
+rng2 = 27 + 5 - 6 + 1 = 27
+Single
+Team 1 pitcher (Jonatan Velazquez): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 1
+
+base1: [5,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 0-3
+
+Enrique Holmes: rng1 = 13 + 7 - 6 + 1 = 15
+rng2 = 41 + 9 - 6 + 1 = 45
+Groundout
+Team 1 pitcher (Jonatan Velazquez): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 2
+
+base1: false, base2: [5,0], base3: [4,0]
+base1: false, base2: true, base3: true
+Score: 0-3
+
+Braylon Summers: rng1 = 62 + 7 - 6 + 1 = 64
+rng2 = 17 + 7 - 6 + 1 = 19
+Groundout
+Team 1 pitcher (Jonatan Velazquez): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+TOP INNING 2
+
+Joshua Fontina: rng1 = 34 + 9 - 10 - 1 = 32
+rng2 = 47 + 8 - 11 - 1 = 43
+Groundout
+Team 2 pitcher (Jackson Peck): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Jadon Mitchell: rng1 = 36 + 7 - 10 - 1 = 32
+rng2 = 94 + 7 - 11 - 1 = 89
+Flyout
+Team 2 pitcher (Jackson Peck): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Matías Martinez: rng1 = 38 + 6 - 10 - 1 = 33
+rng2 = 36 + 6 - 11 - 1 = 30
+Groundout
+Team 2 pitcher (Jackson Peck): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+BOTTOM INNING 2
+
+Leo Hawkins: rng1 = 24 + 7 - 6 + 1 = 26
+Strikeout
+Team 1 pitcher (Jonatan Velazquez): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Dylan Marsh: rng1 = 77 + 15 - 6 + 1 = 87
+Walk
+Team 1 pitcher (Jonatan Velazquez): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Frankie Bell: rng1 = 41 + 11 - 6 + 1 = 47
+rng2 = 28 + 12 - 6 + 1 = 35
+Groundout
+Team 1 pitcher (Jonatan Velazquez): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Rodolfo Mullen: rng1 = 38 + 12 - 6 + 1 = 45
+rng2 = 50 + 10 - 6 + 1 = 55
+Lineout
+Team 1 pitcher (Jonatan Velazquez): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+TOP INNING 3
+
+Romain Bates: rng1 = 80 + 5 - 10 - 1 = 74
+rng2 = 61 + 7 - 11 - 1 = 56
+Single
+Team 2 pitcher (Jackson Peck): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Nehemiah Clark: rng1 = 18 + 4 - 10 - 1 = 11
+rng2 = 43 + 8 - 11 - 1 = 39
+Groundout
+Team 2 pitcher (Jackson Peck): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-3
+
+Zachary Hughes: rng1 = 12 + 15 - 10 - 1 = 16
+Strikeout
+Team 2 pitcher (Jackson Peck): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-3
+
+Cody Henderson: rng1 = 26 + 15 - 10 - 1 = 30
+rng2 = 52 + 15 - 11 - 1 = 55
+Lineout
+Team 2 pitcher (Jackson Peck): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+BOTTOM INNING 3
+
+Rubén Indiano: rng1 = 90 + 12 - 6 + 1 = 97
+rng2 = 13 + 10 - 6 + 1 = 18
+Single
+Team 1 pitcher (Jonatan Velazquez): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Marcelo Francis: rng1 = 16 + 13 - 6 + 1 = 24
+Strikeout
+Team 1 pitcher (Jonatan Velazquez): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Leon Watts: rng1 = 97 + 12 - 6 + 1 = 104
+rng2 = 85 + 5 - 6 + 1 = 85
+Home run
+Team 1 pitcher (Jonatan Velazquez): 15 batters faced, 5 runs allowed = 15 + 12.5 = 27.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Enrique Holmes: rng1 = 5 + 7 - 6 + 1 = 7
+Strikeout
+Team 1 pitcher (Jonatan Velazquez): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Braylon Summers: rng1 = 6 + 7 - 6 + 1 = 8
+Strikeout
+Team 1 pitcher (Jonatan Velazquez): 17 batters faced, 5 runs allowed = 17 + 12.5 = 29.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+TOP INNING 4
+
+Aaron Vera: rng1 = 59 + 13 - 10 - 1 = 61
+rng2 = 31 + 7 - 11 - 1 = 26
+Groundout
+Team 2 pitcher (Jackson Peck): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Joshua Marsh: rng1 = 7 + 4 - 10 - 1 = 0
+Strikeout
+Team 2 pitcher (Jackson Peck): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Joshua Fontina: rng1 = 3 + 9 - 10 - 1 = 1
+Strikeout
+Team 2 pitcher (Jackson Peck): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+BOTTOM INNING 4
+
+Leo Hawkins: rng1 = 45 + 7 - 6 + 1 = 47
+rng2 = 100 + 6 - 6 + 1 = 101
+Flyout
+Team 1 pitcher (Jonatan Velazquez): 18 batters faced, 5 runs allowed = 18 + 12.5 = 30.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Dylan Marsh: rng1 = 87 + 15 - 6 + 1 = 97
+rng2 = 54 + 15 - 6 + 1 = 64
+Single
+Team 1 pitcher (Jonatan Velazquez): 19 batters faced, 5 runs allowed = 19 + 12.5 = 31.5, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Frankie Bell: rng1 = 82 + 11 - 6 + 1 = 88
+Walk
+Team 1 pitcher (Jonatan Velazquez): 20 batters faced, 5 runs allowed = 20 + 12.5 = 32.5, outs: 1
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-5
+
+Rodolfo Mullen: rng1 = 13 + 12 - 6 + 1 = 20
+Strikeout
+Team 1 pitcher (Jonatan Velazquez): 21 batters faced, 5 runs allowed = 21 + 12.5 = 33.5, outs: 2
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-5
+
+Rubén Indiano: rng1 = 100 + 12 - 6 + 1 = 107
+rng2 = 16 + 10 - 6 + 1 = 21
+Single
+Team 1 pitcher (Jonatan Velazquez): 22 batters faced, 6 runs allowed = 22 + 15.0 = 37.0, outs: 2
+
+base1: [3,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-6
+
+Team 1 pitcher change to Craig Valencis
+
+Marcelo Francis: rng1 = 79 + 13 - 9 + 1 = 84
+rng2 = 83 + 7 - 10 + 1 = 81
+Home run
+Team 1 pitcher (Craig Valencis): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-9
+
+Leon Watts: rng1 = 43 + 12 - 9 + 1 = 47
+rng2 = 47 + 5 - 10 + 1 = 43
+Groundout
+Team 1 pitcher (Craig Valencis): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-9
+
+-----------------------
+
+TOP INNING 5
+
+Jadon Mitchell: rng1 = 64 + 7 - 10 - 1 = 60
+rng2 = 93 + 7 - 11 - 1 = 88
+Flyout
+Team 2 pitcher (Jackson Peck): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-9
+
+Matías Martinez: rng1 = 31 + 6 - 10 - 1 = 26
+Strikeout
+Team 2 pitcher (Jackson Peck): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-9
+
+Romain Bates: rng1 = 56 + 5 - 10 - 1 = 50
+rng2 = 70 + 7 - 11 - 1 = 65
+Flyout
+Team 2 pitcher (Jackson Peck): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-9
+
+-----------------------
+
+BOTTOM INNING 5
+
+Enrique Holmes: rng1 = 47 + 7 - 9 + 1 = 46
+rng2 = 1 + 9 - 10 + 1 = 1
+Groundout
+Team 1 pitcher (Craig Valencis): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-9
+
+Braylon Summers: rng1 = 28 + 7 - 9 + 1 = 27
+Strikeout
+Team 1 pitcher (Craig Valencis): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-9
+
+Leo Hawkins: rng1 = 70 + 7 - 9 + 1 = 69
+Walk
+Team 1 pitcher (Craig Valencis): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-9
+
+Dylan Marsh: rng1 = 43 + 15 - 9 + 1 = 50
+rng2 = 35 + 15 - 10 + 1 = 41
+Groundout
+Team 1 pitcher (Craig Valencis): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-9
+
+-----------------------
+
+TOP INNING 6
+
+Nehemiah Clark: rng1 = 19 + 4 - 10 - 1 = 12
+rng2 = 18 + 8 - 11 - 1 = 14
+Groundout
+Team 2 pitcher (Jackson Peck): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-9
+
+Zachary Hughes: rng1 = 86 + 15 - 10 - 1 = 90
+Walk
+Team 2 pitcher (Jackson Peck): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-9
+
+Cody Henderson: rng1 = 30 + 15 - 10 - 1 = 34
+rng2 = 81 + 15 - 11 - 1 = 84
+Flyout
+Team 2 pitcher (Jackson Peck): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-9
+
+Aaron Vera: rng1 = 59 + 13 - 10 - 1 = 61
+rng2 = 19 + 7 - 11 - 1 = 14
+Groundout
+Team 2 pitcher (Jackson Peck): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-9
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Foster Roebuck
+
+Frankie Bell: rng1 = 61 + 11 - 11 + 1 = 62
+rng2 = 51 + 12 - 11 + 1 = 53
+Lineout
+Team 1 pitcher (Foster Roebuck): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-9
+
+Rodolfo Mullen: rng1 = 4 + 12 - 11 + 1 = 6
+Strikeout
+Team 1 pitcher (Foster Roebuck): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-9
+
+Rubén Indiano: rng1 = 56 + 12 - 11 + 1 = 58
+rng2 = 34 + 10 - 11 + 1 = 34
+Groundout
+Team 1 pitcher (Foster Roebuck): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-9
+
+-----------------------
+
+TOP INNING 7
+
+Joshua Marsh: rng1 = 87 + 4 - 10 - 1 = 80
+rng2 = 83 + 11 - 11 - 1 = 82
+Home run
+Team 2 pitcher (Jackson Peck): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-9
+
+Joshua Fontina: rng1 = 55 + 9 - 10 - 1 = 53
+rng2 = 7 + 8 - 11 - 1 = 3
+Groundout
+Team 2 pitcher (Jackson Peck): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-9
+
+Jadon Mitchell: rng1 = 36 + 7 - 10 - 1 = 32
+rng2 = 22 + 7 - 11 - 1 = 17
+Groundout
+Team 2 pitcher (Jackson Peck): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-9
+
+Matías Martinez: rng1 = 2 + 6 - 10 - 1 = -3
+Strikeout
+Team 2 pitcher (Jackson Peck): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-9
+
+-----------------------
+
+BOTTOM INNING 7
+
+Marcelo Francis: rng1 = 73 + 13 - 11 + 1 = 76
+rng2 = 40 + 7 - 11 + 1 = 37
+Single
+Team 1 pitcher (Foster Roebuck): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-9
+
+Leon Watts: rng1 = 29 + 12 - 11 + 1 = 31
+rng2 = 5 + 5 - 11 + 1 = 0
+Groundout
+Team 1 pitcher (Foster Roebuck): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-9
+
+Enrique Holmes: rng1 = 37 + 7 - 11 + 1 = 34
+rng2 = 45 + 9 - 11 + 1 = 44
+Groundout
+Team 1 pitcher (Foster Roebuck): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-9
+
+-----------------------
+
+TOP INNING 8
+
+Romain Bates: rng1 = 53 + 5 - 10 - 1 = 47
+rng2 = 35 + 7 - 11 - 1 = 30
+Groundout
+Team 2 pitcher (Jackson Peck): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-9
+
+Nehemiah Clark: rng1 = 46 + 4 - 10 - 1 = 39
+rng2 = 34 + 8 - 11 - 1 = 30
+Groundout
+Team 2 pitcher (Jackson Peck): 27 batters faced, 1 runs allowed = 27 + 2.5 = 29.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-9
+
+Zachary Hughes: rng1 = 7 + 15 - 10 - 1 = 11
+rng2 = 94 + 15 - 11 - 1 = 97
+Flyout
+Team 2 pitcher (Jackson Peck): 28 batters faced, 1 runs allowed = 28 + 2.5 = 30.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-9
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Jerry Walls
+
+Braylon Summers: rng1 = 92 + 7 - 8 + 1 = 92
+rng2 = 72 + 7 - 7 + 1 = 73
+Double
+Team 1 pitcher (Jerry Walls): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [7,3], base3: false
+base1: false, base2: true, base3: false
+Score: 1-9
+
+Leo Hawkins: rng1 = 90 + 7 - 8 + 1 = 90
+Walk
+Team 1 pitcher (Jerry Walls): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [8,3], base2: [7,3], base3: false
+base1: true, base2: true, base3: false
+Score: 1-9
+
+Dylan Marsh: rng1 = 97 + 15 - 8 + 1 = 105
+rng2 = 8 + 15 - 7 + 1 = 17
+Single
+Team 1 pitcher (Jerry Walls): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 0
+
+base1: [0,3], base2: [8,3], base3: [7,3]
+base1: true, base2: true, base3: true
+Score: 1-9
+
+Frankie Bell: rng1 = 98 + 11 - 8 + 1 = 102
+rng2 = 83 + 12 - 7 + 1 = 89
+Double
+Team 1 pitcher (Jerry Walls): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 0
+
+base1: false, base2: [1,3], base3: [0,3]
+base1: false, base2: true, base3: true
+Score: 1-11
+
+Rodolfo Mullen: rng1 = 72 + 12 - 8 + 1 = 77
+rng2 = 50 + 10 - 7 + 1 = 54
+Single
+Team 1 pitcher (Jerry Walls): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 0
+
+base1: [2,3], base2: false, base3: [1,3]
+base1: true, base2: false, base3: true
+Score: 1-12
+
+Team 1 pitcher change to Gideon Giles
+
+Rubén Indiano: rng1 = 4 + 12 - 15 + 1 = 2
+Strikeout
+Team 1 pitcher (Gideon Giles): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: [2,3], base2: false, base3: [1,3]
+base1: true, base2: false, base3: true
+Score: 1-12
+
+Marcelo Francis: rng1 = 60 + 13 - 15 + 1 = 59
+rng2 = 51 + 7 - 15 + 1 = 44
+Groundout
+Team 1 pitcher (Gideon Giles): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-12
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Ripley Sjostrand
+
+Cody Henderson: rng1 = 5 + 15 - 12 - 1 = 7
+Strikeout
+Team 2 pitcher (Ripley Sjostrand): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-12
+
+Aaron Vera: rng1 = 63 + 13 - 12 - 1 = 63
+rng2 = 44 + 7 - 9 - 1 = 41
+Groundout
+Team 2 pitcher (Ripley Sjostrand): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-12
+
+Joshua Marsh: rng1 = 95 + 4 - 12 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Ripley Sjostrand): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-12
+
+Joshua Fontina: rng1 = 15 + 9 - 12 - 1 = 11
+rng2 = 27 + 8 - 9 - 1 = 25
+Groundout
+Team 2 pitcher (Ripley Sjostrand): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-12
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 3
+Team 2 hits: 13
+Team 1 runs: 1
+Team 2 runs: 12
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-08-02
+Zachary Hughes	3	0	0	0	0	0	0	1	1					Houston
+Cody Henderson	4	0	1	0	0	0	0	0	1	
+Aaron Vera	4	0	0	0	0	0	0	0	0	
+Joshua Marsh	3	1	1	0	0	1	1	0	1	
+Joshua Fontina	4	0	0	0	0	0	0	0	1	
+Jadon Mitchell	3	0	0	0	0	0	0	0	0	
+Matías Martinez	3	0	0	0	0	0	0	0	2	
+Romain Bates	3	0	1	0	0	0	0	0	0	
+Nehemiah Clark	3	0	0	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Jonatan Velazquez	0	1	1	1	0	0	11	7	8	2	4	5	22	
+Craig Valencis	0	0	1	0	0	0	4	1	1	1	1	1	6	
+Foster Roebuck	0	0	1	0	0	0	6	1	0	0	0	1	6	
+Jerry Walls	0	0	1	0	0	0	0	4	3	0	1	0	5	
+Gideon Giles	0	0	1	0	0	0	3	0	0	0	0	1	2	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-08-02
+Dylan Marsh	4	2	3	0	0	0	0	1	0					San Antonio
+Frankie Bell	4	2	1	1	0	0	2	1	0	
+Rodolfo Mullen	4	1	1	0	0	0	1	1	2	
+Rubén Indiano	5	3	3	0	0	1	4	0	1	
+Marcelo Francis	4	1	2	0	0	1	3	1	1	
+Leon Watts	4	1	2	0	0	1	2	0	0	
+Enrique Holmes	4	0	0	0	0	0	0	0	1	
+Braylon Summers	4	1	1	1	0	0	0	0	2	
+Leo Hawkins	2	1	0	0	0	0	0	2	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Jackson Peck	1	0	1	1	0	0	24	3	1	1	1	5	28	
+Ripley Sjostrand	0	0	1	0	0	0	3	0	0	0	0	1	4	
+Cullen McClain	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Lucas Gardner	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Sakai Tsuneo	0	0	0	0	0	0	0	0	0	0	0	0	0	

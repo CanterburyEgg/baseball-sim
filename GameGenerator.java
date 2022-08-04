@@ -2751,7 +2751,7 @@ public class GameGenerator
 				}
 			}
 			
-			if (inning == 19 && p2index == 4 && pitchers2[p2index][5] == 1)
+			if (inning == 19 && p2index == 4)
 			{
 				if (pitchers2[1][2] == 0)
 				{
@@ -2770,7 +2770,7 @@ public class GameGenerator
 				}
 			}
 			
-			if (inning == 20 && p1index == 4 && pitchers1[p1index][5] == 1)
+			if (inning == 20 && p1index == 4)
 			{
 				if (pitchers1[1][2] == 0)
 				{

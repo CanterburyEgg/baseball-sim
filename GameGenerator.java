@@ -2916,7 +2916,7 @@ public class GameGenerator
 			{
 				pitchswapC = false;
 
-				if (inning > 16)
+				if (inning > 16 && Math.Abs(runs1-runs2) < 6)
 					p2index = 4;
 				else
 					p2index++;
@@ -2928,7 +2928,7 @@ public class GameGenerator
 			{
 				pitchswapD = false;
 
-				if (inning > 16)
+				if (inning > 16 && Math.Abs(runs1-runs2) < 6)
 					p1index = 4;
 				else
 					p1index++;

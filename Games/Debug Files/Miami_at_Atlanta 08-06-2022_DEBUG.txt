@@ -1,0 +1,726 @@
+TOP INNING 1
+
+Tommy Baxter: rng1 = 6 + 12 - 10 - 1 = 7
+Strikeout
+Team 2 pitcher (Marcus Washington): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Caleb Harrington: rng1 = 37 + 14 - 10 - 1 = 40
+rng2 = 88 + 7 - 10 - 1 = 84
+Flyout
+Team 2 pitcher (Marcus Washington): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Emiel Ware: rng1 = 31 + 10 - 10 - 1 = 30
+rng2 = 60 + 9 - 10 - 1 = 58
+Lineout
+Team 2 pitcher (Marcus Washington): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Wakasugi Norogumi: rng1 = 7 + 14 - 10 + 1 = 12
+rng2 = 43 + 13 - 9 + 1 = 48
+Lineout
+Team 1 pitcher (Callum Rees): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Lawson Haney: rng1 = 95 + 13 - 10 + 1 = 99
+rng2 = 33 + 11 - 9 + 1 = 36
+Single
+Team 1 pitcher (Callum Rees): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Hayden Wright: rng1 = 6 + 10 - 10 + 1 = 7
+Strikeout
+Team 1 pitcher (Callum Rees): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Hector Obregón: rng1 = 51 + 4 - 10 + 1 = 46
+rng2 = 98 + 10 - 9 + 1 = 100
+Flyout
+Team 1 pitcher (Callum Rees): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Isaac Secada: rng1 = 66 + 4 - 10 - 1 = 59
+rng2 = 32 + 9 - 10 - 1 = 30
+Groundout
+Team 2 pitcher (Marcus Washington): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Blake Welsh: rng1 = 41 + 12 - 10 - 1 = 42
+rng2 = 40 + 6 - 10 - 1 = 35
+Groundout
+Team 2 pitcher (Marcus Washington): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Ethan Hayes: rng1 = 63 + 9 - 10 - 1 = 61
+rng2 = 55 + 7 - 10 - 1 = 51
+Lineout
+Team 2 pitcher (Marcus Washington): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Xavier Cabrera: rng1 = 36 + 11 - 10 + 1 = 38
+rng2 = 71 + 7 - 9 + 1 = 70
+Flyout
+Team 1 pitcher (Callum Rees): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Alfonso Stafford: rng1 = 71 + 11 - 10 + 1 = 73
+rng2 = 46 + 7 - 9 + 1 = 45
+Single
+Team 1 pitcher (Callum Rees): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Karsen Welch: rng1 = 1 + 9 - 10 + 1 = 1
+Strikeout
+Team 1 pitcher (Callum Rees): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Ike Nicholson: rng1 = 61 + 9 - 10 + 1 = 61
+rng2 = 65 + 7 - 9 + 1 = 64
+Flyout
+Team 1 pitcher (Callum Rees): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 3
+
+Max Davis: rng1 = 19 + 7 - 10 - 1 = 15
+rng2 = 99 + 6 - 10 - 1 = 94
+Flyout
+Team 2 pitcher (Marcus Washington): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Umberto Santángel: rng1 = 15 + 5 - 10 - 1 = 9
+Strikeout
+Team 2 pitcher (Marcus Washington): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Javier Guillén: rng1 = 96 + 5 - 10 - 1 = 90
+Walk
+Team 2 pitcher (Marcus Washington): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Tommy Baxter: rng1 = 40 + 12 - 10 - 1 = 41
+rng2 = 18 + 11 - 10 - 1 = 18
+Groundout
+Team 2 pitcher (Marcus Washington): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Darren Chang: rng1 = 24 + 4 - 10 + 1 = 19
+Strikeout
+Team 1 pitcher (Callum Rees): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Wakasugi Norogumi: rng1 = 2 + 14 - 10 + 1 = 7
+Strikeout
+Team 1 pitcher (Callum Rees): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Lawson Haney: rng1 = 66 + 13 - 10 + 1 = 70
+Walk
+Team 1 pitcher (Callum Rees): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Hayden Wright: rng1 = 25 + 10 - 10 + 1 = 26
+Strikeout
+Team 1 pitcher (Callum Rees): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 4
+
+Caleb Harrington: rng1 = 65 + 14 - 10 - 1 = 68
+rng2 = 44 + 7 - 10 - 1 = 40
+Groundout
+Team 2 pitcher (Marcus Washington): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Emiel Ware: rng1 = 98 + 10 - 10 - 1 = 97
+rng2 = 3 + 9 - 10 - 1 = 1
+Single
+Team 2 pitcher (Marcus Washington): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Isaac Secada: rng1 = 18 + 4 - 10 - 1 = 11
+rng2 = 6 + 9 - 10 - 1 = 4
+Groundout
+Team 2 pitcher (Marcus Washington): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Blake Welsh: rng1 = 68 + 12 - 10 - 1 = 69
+Walk
+Team 2 pitcher (Marcus Washington): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 2
+
+base1: [4,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Ethan Hayes: rng1 = 69 + 9 - 10 - 1 = 67
+rng2 = 20 + 7 - 10 - 1 = 16
+Groundout
+Team 2 pitcher (Marcus Washington): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 4
+
+Hector Obregón: rng1 = 30 + 4 - 10 + 1 = 25
+Strikeout
+Team 1 pitcher (Callum Rees): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Xavier Cabrera: rng1 = 42 + 11 - 10 + 1 = 44
+rng2 = 44 + 7 - 9 + 1 = 43
+Groundout
+Team 1 pitcher (Callum Rees): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Alfonso Stafford: rng1 = 33 + 11 - 10 + 1 = 35
+rng2 = 11 + 7 - 9 + 1 = 10
+Groundout
+Team 1 pitcher (Callum Rees): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 5
+
+Max Davis: rng1 = 30 + 7 - 10 - 1 = 26
+Strikeout
+Team 2 pitcher (Marcus Washington): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Umberto Santángel: rng1 = 39 + 5 - 10 - 1 = 33
+rng2 = 70 + 7 - 10 - 1 = 66
+Flyout
+Team 2 pitcher (Marcus Washington): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Javier Guillén: rng1 = 91 + 5 - 10 - 1 = 85
+rng2 = 9 + 7 - 10 - 1 = 5
+Single
+Team 2 pitcher (Marcus Washington): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Tommy Baxter: rng1 = 72 + 12 - 10 - 1 = 73
+rng2 = 97 + 11 - 10 - 1 = 97
+Home run
+Team 2 pitcher (Marcus Washington): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Caleb Harrington: rng1 = 71 + 14 - 10 - 1 = 74
+rng2 = 36 + 7 - 10 - 1 = 32
+Single
+Team 2 pitcher (Marcus Washington): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Emiel Ware: rng1 = 11 + 10 - 10 - 1 = 10
+Strikeout
+Team 2 pitcher (Marcus Washington): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+BOTTOM INNING 5
+
+Karsen Welch: rng1 = 63 + 9 - 10 + 1 = 63
+rng2 = 5 + 9 - 9 + 1 = 6
+Groundout
+Team 1 pitcher (Callum Rees): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Ike Nicholson: rng1 = 21 + 9 - 10 + 1 = 21
+Strikeout
+Team 1 pitcher (Callum Rees): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Darren Chang: rng1 = 20 + 4 - 10 + 1 = 15
+rng2 = 5 + 10 - 9 + 1 = 7
+Groundout
+Team 1 pitcher (Callum Rees): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+TOP INNING 6
+
+Isaac Secada: rng1 = 58 + 4 - 10 - 1 = 51
+rng2 = 75 + 9 - 10 - 1 = 73
+Flyout
+Team 2 pitcher (Marcus Washington): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Blake Welsh: rng1 = 76 + 12 - 10 - 1 = 77
+rng2 = 41 + 6 - 10 - 1 = 36
+Single
+Team 2 pitcher (Marcus Washington): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Ethan Hayes: rng1 = 56 + 9 - 10 - 1 = 54
+rng2 = 99 + 7 - 10 - 1 = 95
+Flyout
+Team 2 pitcher (Marcus Washington): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Max Davis: rng1 = 6 + 7 - 10 - 1 = 2
+Strikeout
+Team 2 pitcher (Marcus Washington): 25 batters faced, 2 runs allowed = 25 + 5.0 = 30.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+BOTTOM INNING 6
+
+Wakasugi Norogumi: rng1 = 34 + 14 - 10 + 1 = 39
+rng2 = 13 + 13 - 9 + 1 = 18
+Groundout
+Team 1 pitcher (Callum Rees): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Lawson Haney: rng1 = 28 + 13 - 10 + 1 = 32
+rng2 = 41 + 11 - 9 + 1 = 44
+Groundout
+Team 1 pitcher (Callum Rees): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Hayden Wright: rng1 = 96 + 10 - 10 + 1 = 97
+rng2 = 2 + 10 - 9 + 1 = 4
+Single
+Team 1 pitcher (Callum Rees): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Hector Obregón: rng1 = 78 + 4 - 10 + 1 = 73
+rng2 = 39 + 10 - 9 + 1 = 41
+Single
+Team 1 pitcher (Callum Rees): 22 batters faced, 0 runs allowed = 22 + 0.0 = 22.0, outs: 2
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-0
+
+Xavier Cabrera: rng1 = 64 + 11 - 10 + 1 = 66
+rng2 = 86 + 7 - 9 + 1 = 85
+Flyout
+Team 1 pitcher (Callum Rees): 23 batters faced, 0 runs allowed = 23 + 0.0 = 23.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Thomas Dillard
+
+Umberto Santángel: rng1 = 14 + 5 - 10 - 1 = 8
+Strikeout
+Team 2 pitcher (Thomas Dillard): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Javier Guillén: rng1 = 69 + 5 - 10 - 1 = 63
+rng2 = 37 + 7 - 10 - 1 = 33
+Groundout
+Team 2 pitcher (Thomas Dillard): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Tommy Baxter: rng1 = 87 + 12 - 10 - 1 = 88
+Walk
+Team 2 pitcher (Thomas Dillard): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Caleb Harrington: rng1 = 77 + 14 - 10 - 1 = 80
+rng2 = 46 + 7 - 10 - 1 = 42
+Single
+Team 2 pitcher (Thomas Dillard): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [1,1], base2: [0,1], base3: false
+base1: true, base2: true, base3: false
+Score: 2-0
+
+Emiel Ware: rng1 = 34 + 10 - 10 - 1 = 33
+rng2 = 41 + 9 - 10 - 1 = 39
+Groundout
+Team 2 pitcher (Thomas Dillard): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+BOTTOM INNING 7
+
+Alfonso Stafford: rng1 = 63 + 11 - 10 + 1 = 65
+rng2 = 2 + 7 - 9 + 1 = 1
+Groundout
+Team 1 pitcher (Callum Rees): 24 batters faced, 0 runs allowed = 24 + 0.0 = 24.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Karsen Welch: rng1 = 77 + 9 - 10 + 1 = 77
+rng2 = 76 + 9 - 9 + 1 = 77
+Double
+Team 1 pitcher (Callum Rees): 25 batters faced, 0 runs allowed = 25 + 0.0 = 25.0, outs: 1
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-0
+
+Ike Nicholson: rng1 = 50 + 9 - 10 + 1 = 50
+rng2 = 43 + 7 - 9 + 1 = 42
+Groundout
+Team 1 pitcher (Callum Rees): 26 batters faced, 0 runs allowed = 26 + 0.0 = 26.0, outs: 2
+
+base1: false, base2: false, base3: [6,0]
+base1: false, base2: false, base3: true
+Score: 2-0
+
+Darren Chang: rng1 = 21 + 4 - 10 + 1 = 16
+Strikeout
+Team 1 pitcher (Callum Rees): 27 batters faced, 0 runs allowed = 27 + 0.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Saiki Iwane
+
+Isaac Secada: rng1 = 27 + 4 - 10 - 1 = 20
+Strikeout
+Team 2 pitcher (Saiki Iwane): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Blake Welsh: rng1 = 17 + 12 - 10 - 1 = 18
+Strikeout
+Team 2 pitcher (Saiki Iwane): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Ethan Hayes: rng1 = 81 + 9 - 10 - 1 = 79
+rng2 = 77 + 7 - 8 - 1 = 75
+Double
+Team 2 pitcher (Saiki Iwane): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [5,2], base3: false
+base1: false, base2: true, base3: false
+Score: 2-0
+
+Max Davis: rng1 = 18 + 7 - 10 - 1 = 14
+rng2 = 38 + 6 - 8 - 1 = 35
+Groundout
+Team 2 pitcher (Saiki Iwane): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Abraham Pace
+
+Wakasugi Norogumi: rng1 = 60 + 14 - 8 + 1 = 67
+rng2 = 93 + 13 - 10 + 1 = 97
+Flyout
+Team 1 pitcher (Abraham Pace): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Lawson Haney: rng1 = 54 + 13 - 8 + 1 = 60
+rng2 = 91 + 11 - 10 + 1 = 93
+Flyout
+Team 1 pitcher (Abraham Pace): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Hayden Wright: rng1 = 23 + 10 - 8 + 1 = 26
+Strikeout
+Team 1 pitcher (Abraham Pace): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+TOP INNING 9
+
+Umberto Santángel: rng1 = 26 + 5 - 10 - 1 = 20
+Strikeout
+Team 2 pitcher (Saiki Iwane): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Javier Guillén: rng1 = 5 + 5 - 10 - 1 = -1
+Strikeout
+Team 2 pitcher (Saiki Iwane): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Tommy Baxter: rng1 = 92 + 12 - 10 - 1 = 93
+rng2 = 68 + 11 - 8 - 1 = 70
+Double
+Team 2 pitcher (Saiki Iwane): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: [0,2], base3: false
+base1: false, base2: true, base3: false
+Score: 2-0
+
+Caleb Harrington: rng1 = 69 + 14 - 10 - 1 = 72
+rng2 = 80 + 7 - 8 - 1 = 78
+Triple
+Team 2 pitcher (Saiki Iwane): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: false, base3: [1,2]
+base1: false, base2: false, base3: true
+Score: 3-0
+
+Emiel Ware: rng1 = 23 + 10 - 10 - 1 = 22
+Strikeout
+Team 2 pitcher (Saiki Iwane): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Kwok Kwang-Seok
+
+Hector Obregón: rng1 = 23 + 4 - 11 + 1 = 17
+Strikeout
+Team 1 pitcher (Kwok Kwang-Seok): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Xavier Cabrera: rng1 = 30 + 11 - 11 + 1 = 31
+rng2 = 11 + 7 - 12 + 1 = 7
+Groundout
+Team 1 pitcher (Kwok Kwang-Seok): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Alfonso Stafford: rng1 = 28 + 11 - 11 + 1 = 29
+rng2 = 96 + 7 - 12 + 1 = 92
+Flyout
+Team 1 pitcher (Kwok Kwang-Seok): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 9
+Team 2 hits: 5
+Team 1 runs: 3
+Team 2 runs: 0
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-08-06
+Tommy Baxter	4	2	2	1	0	1	2	1	1					Miami
+Caleb Harrington	5	0	3	0	1	0	1	0	0	
+Emiel Ware	5	0	1	0	0	0	0	0	2	
+Isaac Secada	4	0	0	0	0	0	0	0	1	
+Blake Welsh	3	0	1	0	0	0	0	1	1	
+Ethan Hayes	4	0	1	1	0	0	0	0	0	
+Max Davis	4	0	0	0	0	0	0	0	2	
+Umberto Santángel	4	0	0	0	0	0	0	0	3	
+Javier Guillén	3	1	1	0	0	0	0	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Callum Rees	1	0	1	1	0	0	21	5	0	0	1	8	27	
+Abraham Pace	0	0	1	0	0	0	3	0	0	0	0	1	3	
+Iván Curbelo	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Eddie Lochland	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Kwok Kwang-Seok	0	0	1	0	1	1	3	0	0	0	0	1	3	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-08-06
+Wakasugi Norogumi	4	0	0	0	0	0	0	0	1					Atlanta
+Lawson Haney	3	0	1	0	0	0	0	1	0	
+Hayden Wright	4	0	1	0	0	0	0	0	3	
+Hector Obregón	4	0	1	0	0	0	0	0	2	
+Xavier Cabrera	4	0	0	0	0	0	0	0	0	
+Alfonso Stafford	4	0	1	0	0	0	0	0	0	
+Karsen Welch	3	0	1	1	0	0	0	0	1	
+Ike Nicholson	3	0	0	0	0	0	0	0	1	
+Darren Chang	3	0	0	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Marcus Washington	0	1	1	1	0	0	18	5	2	1	2	5	25	
+Thomas Dillard	0	0	1	0	0	0	3	1	0	0	1	1	5	
+Saiki Iwane	0	0	1	0	0	0	6	3	1	0	0	5	9	
+Isaac Hartman	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Juancarlo Pinto	0	0	0	0	0	0	0	0	0	0	0	0	0	

@@ -1,0 +1,832 @@
+TOP INNING 1
+
+Phoenix Moore: rng1 = 76 + 14 - 11 - 1 = 78
+rng2 = 13 + 11 - 3 - 1 = 20
+Single
+Team 2 pitcher (Demarcus Jackson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Mason Foster: rng1 = 54 + 14 - 11 - 1 = 56
+rng2 = 75 + 9 - 3 - 1 = 80
+Flyout
+Team 2 pitcher (Demarcus Jackson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Trace Spears: rng1 = 79 + 9 - 11 - 1 = 76
+rng2 = 80 + 13 - 3 - 1 = 89
+Double
+Team 2 pitcher (Demarcus Jackson): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Juan Bolton: rng1 = 63 + 4 - 11 - 1 = 55
+rng2 = 29 + 11 - 3 - 1 = 36
+Groundout
+Team 2 pitcher (Demarcus Jackson): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: false, base3: [2,0]
+base1: false, base2: false, base3: true
+Score: 1-0
+
+Lawrence Randolph: rng1 = 40 + 14 - 11 - 1 = 42
+rng2 = 65 + 7 - 3 - 1 = 68
+Flyout
+Team 2 pitcher (Demarcus Jackson): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Wakasugi Norogumi: rng1 = 12 + 14 - 8 + 1 = 19
+Strikeout
+Team 1 pitcher (Javier Manzanares): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Lawson Haney: rng1 = 2 + 13 - 8 + 1 = 8
+Strikeout
+Team 1 pitcher (Javier Manzanares): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Hayden Wright: rng1 = 2 + 10 - 8 + 1 = 5
+Strikeout
+Team 1 pitcher (Javier Manzanares): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 2
+
+Readale Roberson: rng1 = 41 + 7 - 11 - 1 = 36
+rng2 = 43 + 10 - 3 - 1 = 49
+Lineout
+Team 2 pitcher (Demarcus Jackson): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Parker Dillard: rng1 = 35 + 6 - 11 - 1 = 29
+rng2 = 81 + 9 - 3 - 1 = 86
+Flyout
+Team 2 pitcher (Demarcus Jackson): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Lewis Hughes: rng1 = 92 + 6 - 11 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Demarcus Jackson): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Patrick Marshall: rng1 = 66 + 5 - 11 - 1 = 59
+rng2 = 68 + 7 - 3 - 1 = 71
+Flyout
+Team 2 pitcher (Demarcus Jackson): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Hector Obregón: rng1 = 45 + 4 - 8 + 1 = 42
+rng2 = 23 + 10 - 9 + 1 = 25
+Groundout
+Team 1 pitcher (Javier Manzanares): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Xavier Cabrera: rng1 = 63 + 11 - 8 + 1 = 67
+rng2 = 24 + 7 - 9 + 1 = 23
+Groundout
+Team 1 pitcher (Javier Manzanares): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Alfonso Stafford: rng1 = 80 + 11 - 8 + 1 = 84
+rng2 = 84 + 7 - 9 + 1 = 83
+Home run
+Team 1 pitcher (Javier Manzanares): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Karsen Welch: rng1 = 40 + 9 - 8 + 1 = 42
+rng2 = 25 + 9 - 9 + 1 = 26
+Groundout
+Team 1 pitcher (Javier Manzanares): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 3
+
+Phoenix Moore: rng1 = 33 + 14 - 11 - 1 = 35
+rng2 = 88 + 11 - 3 - 1 = 95
+Flyout
+Team 2 pitcher (Demarcus Jackson): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Mason Foster: rng1 = 72 + 14 - 11 - 1 = 74
+rng2 = 49 + 9 - 3 - 1 = 54
+Single
+Team 2 pitcher (Demarcus Jackson): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Trace Spears: rng1 = 94 + 9 - 11 - 1 = 91
+rng2 = 43 + 13 - 3 - 1 = 52
+Single
+Team 2 pitcher (Demarcus Jackson): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Juan Bolton: rng1 = 83 + 4 - 11 - 1 = 75
+rng2 = 40 + 11 - 3 - 1 = 47
+Single
+Team 2 pitcher (Demarcus Jackson): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 1
+
+base1: [3,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 2-1
+
+Lawrence Randolph: rng1 = 32 + 14 - 11 - 1 = 34
+rng2 = 55 + 7 - 3 - 1 = 58
+Lineout
+Team 2 pitcher (Demarcus Jackson): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 2
+
+base1: [3,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 2-1
+
+Readale Roberson: rng1 = 76 + 7 - 11 - 1 = 71
+Walk
+Team 2 pitcher (Demarcus Jackson): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 2
+
+base1: [5,0], base2: [3,0], base3: [2,0]
+base1: true, base2: true, base3: true
+Score: 2-1
+
+Parker Dillard: rng1 = 83 + 6 - 11 - 1 = 77
+rng2 = 25 + 9 - 3 - 1 = 30
+Single
+Team 2 pitcher (Demarcus Jackson): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 2
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 4-1
+
+Lewis Hughes: rng1 = 40 + 6 - 11 - 1 = 34
+rng2 = 1 + 7 - 3 - 1 = 4
+Groundout
+Team 2 pitcher (Demarcus Jackson): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Ike Nicholson: rng1 = 5 + 9 - 8 + 1 = 7
+Strikeout
+Team 1 pitcher (Javier Manzanares): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Darren Chang: rng1 = 55 + 4 - 8 + 1 = 52
+rng2 = 82 + 10 - 9 + 1 = 84
+Flyout
+Team 1 pitcher (Javier Manzanares): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Wakasugi Norogumi: rng1 = 96 + 14 - 8 + 1 = 103
+rng2 = 12 + 13 - 9 + 1 = 17
+Single
+Team 1 pitcher (Javier Manzanares): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-1
+
+Lawson Haney: rng1 = 39 + 13 - 8 + 1 = 45
+rng2 = 53 + 11 - 9 + 1 = 56
+Lineout
+Team 1 pitcher (Javier Manzanares): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+TOP INNING 4
+
+Patrick Marshall: rng1 = 51 + 5 - 11 - 1 = 44
+rng2 = 75 + 7 - 3 - 1 = 78
+Flyout
+Team 2 pitcher (Demarcus Jackson): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Phoenix Moore: rng1 = 82 + 14 - 11 - 1 = 84
+rng2 = 99 + 11 - 3 - 1 = 106
+Home run
+Team 2 pitcher (Demarcus Jackson): 19 batters faced, 5 runs allowed = 19 + 12.5 = 31.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Mason Foster: rng1 = 34 + 14 - 11 - 1 = 36
+rng2 = 12 + 9 - 3 - 1 = 17
+Groundout
+Team 2 pitcher (Demarcus Jackson): 20 batters faced, 5 runs allowed = 20 + 12.5 = 32.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Trace Spears: rng1 = 45 + 9 - 11 - 1 = 42
+rng2 = 57 + 13 - 3 - 1 = 66
+Flyout
+Team 2 pitcher (Demarcus Jackson): 21 batters faced, 5 runs allowed = 21 + 12.5 = 33.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Hayden Wright: rng1 = 5 + 10 - 8 + 1 = 8
+Strikeout
+Team 1 pitcher (Javier Manzanares): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Hector Obregón: rng1 = 87 + 4 - 8 + 1 = 84
+rng2 = 69 + 10 - 9 + 1 = 71
+Double
+Team 1 pitcher (Javier Manzanares): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 5-1
+
+Xavier Cabrera: rng1 = 82 + 11 - 8 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Javier Manzanares): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 1
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 5-1
+
+Alfonso Stafford: rng1 = 11 + 11 - 8 + 1 = 15
+rng2 = 95 + 7 - 9 + 1 = 94
+Flyout
+Team 1 pitcher (Javier Manzanares): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 2
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 5-1
+
+Karsen Welch: rng1 = 49 + 9 - 8 + 1 = 51
+rng2 = 40 + 9 - 9 + 1 = 41
+Groundout
+Team 1 pitcher (Javier Manzanares): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-1
+
+-----------------------
+
+TOP INNING 5
+
+Team 2 pitcher change to Saiki Iwane
+
+Juan Bolton: rng1 = 61 + 4 - 10 - 1 = 54
+rng2 = 86 + 11 - 8 - 1 = 88
+Flyout
+Team 2 pitcher (Saiki Iwane): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Lawrence Randolph: rng1 = 6 + 14 - 10 - 1 = 9
+Strikeout
+Team 2 pitcher (Saiki Iwane): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Readale Roberson: rng1 = 40 + 7 - 10 - 1 = 36
+rng2 = 48 + 10 - 8 - 1 = 49
+Lineout
+Team 2 pitcher (Saiki Iwane): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-1
+
+-----------------------
+
+BOTTOM INNING 5
+
+Ike Nicholson: rng1 = 64 + 9 - 8 + 1 = 66
+rng2 = 97 + 7 - 9 + 1 = 96
+Flyout
+Team 1 pitcher (Javier Manzanares): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Darren Chang: rng1 = 52 + 4 - 8 + 1 = 49
+rng2 = 60 + 10 - 9 + 1 = 62
+Flyout
+Team 1 pitcher (Javier Manzanares): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Wakasugi Norogumi: rng1 = 57 + 14 - 8 + 1 = 64
+rng2 = 73 + 13 - 9 + 1 = 78
+Flyout
+Team 1 pitcher (Javier Manzanares): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-1
+
+-----------------------
+
+TOP INNING 6
+
+Parker Dillard: rng1 = 62 + 6 - 10 - 1 = 57
+rng2 = 60 + 9 - 8 - 1 = 60
+Flyout
+Team 2 pitcher (Saiki Iwane): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Lewis Hughes: rng1 = 36 + 6 - 10 - 1 = 31
+rng2 = 15 + 7 - 8 - 1 = 13
+Groundout
+Team 2 pitcher (Saiki Iwane): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Patrick Marshall: rng1 = 12 + 5 - 10 - 1 = 6
+Strikeout
+Team 2 pitcher (Saiki Iwane): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-1
+
+-----------------------
+
+BOTTOM INNING 6
+
+Lawson Haney: rng1 = 15 + 13 - 8 + 1 = 21
+Strikeout
+Team 1 pitcher (Javier Manzanares): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Hayden Wright: rng1 = 61 + 10 - 8 + 1 = 64
+rng2 = 26 + 10 - 9 + 1 = 28
+Groundout
+Team 1 pitcher (Javier Manzanares): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Hector Obregón: rng1 = 45 + 4 - 8 + 1 = 42
+rng2 = 18 + 10 - 9 + 1 = 20
+Groundout
+Team 1 pitcher (Javier Manzanares): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-1
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Thomas Dillard
+
+Phoenix Moore: rng1 = 88 + 14 - 10 - 1 = 91
+rng2 = 41 + 11 - 10 - 1 = 41
+Single
+Team 2 pitcher (Thomas Dillard): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-1
+
+Mason Foster: rng1 = 75 + 14 - 10 - 1 = 78
+rng2 = 32 + 9 - 10 - 1 = 30
+Single
+Team 2 pitcher (Thomas Dillard): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,2], base2: false, base3: [0,2]
+base1: true, base2: false, base3: true
+Score: 5-1
+
+Trace Spears: rng1 = 63 + 9 - 10 - 1 = 61
+rng2 = 39 + 13 - 10 - 1 = 41
+Groundout
+Team 2 pitcher (Thomas Dillard): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [1,2], base3: false
+base1: false, base2: true, base3: false
+Score: 6-1
+
+Juan Bolton: rng1 = 52 + 4 - 10 - 1 = 45
+rng2 = 9 + 11 - 10 - 1 = 9
+Groundout
+Team 2 pitcher (Thomas Dillard): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [1,2], base3: false
+base1: false, base2: true, base3: false
+Score: 6-1
+
+Lawrence Randolph: rng1 = 44 + 14 - 10 - 1 = 47
+rng2 = 85 + 7 - 10 - 1 = 81
+Flyout
+Team 2 pitcher (Thomas Dillard): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+BOTTOM INNING 7
+
+Xavier Cabrera: rng1 = 50 + 11 - 8 + 1 = 54
+rng2 = 36 + 7 - 9 + 1 = 35
+Groundout
+Team 1 pitcher (Javier Manzanares): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Alfonso Stafford: rng1 = 87 + 11 - 8 + 1 = 91
+rng2 = 65 + 7 - 9 + 1 = 64
+Single
+Team 1 pitcher (Javier Manzanares): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-1
+
+Karsen Welch: rng1 = 49 + 9 - 8 + 1 = 51
+rng2 = 49 + 9 - 9 + 1 = 50
+Lineout
+Team 1 pitcher (Javier Manzanares): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-1
+
+Ike Nicholson: rng1 = 72 + 9 - 8 + 1 = 74
+rng2 = 65 + 7 - 9 + 1 = 64
+Single
+Team 1 pitcher (Javier Manzanares): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 2
+
+base1: [7,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 6-1
+
+Darren Chang: rng1 = 63 + 4 - 8 + 1 = 60
+rng2 = 5 + 10 - 9 + 1 = 7
+Groundout
+Team 1 pitcher (Javier Manzanares): 27 batters faced, 1 runs allowed = 27 + 2.5 = 29.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Isaac Hartman
+
+Readale Roberson: rng1 = 93 + 7 - 7 - 1 = 92
+rng2 = 46 + 10 - 6 - 1 = 49
+Single
+Team 2 pitcher (Isaac Hartman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [5,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-1
+
+Parker Dillard: rng1 = 59 + 6 - 7 - 1 = 57
+rng2 = 15 + 9 - 6 - 1 = 17
+Groundout
+Team 2 pitcher (Isaac Hartman): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [6,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-1
+
+Lewis Hughes: rng1 = 72 + 6 - 7 - 1 = 70
+Walk
+Team 2 pitcher (Isaac Hartman): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [7,3], base2: [6,3], base3: false
+base1: true, base2: true, base3: false
+Score: 6-1
+
+Patrick Marshall: rng1 = 93 + 5 - 7 - 1 = 90
+Walk
+Team 2 pitcher (Isaac Hartman): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [8,3], base2: [7,3], base3: [6,3]
+base1: true, base2: true, base3: true
+Score: 6-1
+
+Phoenix Moore: rng1 = 11 + 14 - 7 - 1 = 17
+Strikeout
+Team 2 pitcher (Isaac Hartman): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: [8,3], base2: [7,3], base3: [6,3]
+base1: true, base2: true, base3: true
+Score: 6-1
+
+Mason Foster: rng1 = 27 + 14 - 7 - 1 = 33
+rng2 = 42 + 9 - 6 - 1 = 44
+Groundout
+Team 2 pitcher (Isaac Hartman): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Brentley Dickson
+
+Wakasugi Norogumi: rng1 = 3 + 14 - 9 + 1 = 9
+Strikeout
+Team 1 pitcher (Brentley Dickson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Lawson Haney: rng1 = 80 + 13 - 9 + 1 = 85
+rng2 = 8 + 11 - 9 + 1 = 11
+Single
+Team 1 pitcher (Brentley Dickson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-1
+
+Hayden Wright: rng1 = 23 + 10 - 9 + 1 = 25
+Strikeout
+Team 1 pitcher (Brentley Dickson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-1
+
+Hector Obregón: rng1 = 81 + 4 - 9 + 1 = 77
+rng2 = 70 + 10 - 9 + 1 = 72
+Double
+Team 1 pitcher (Brentley Dickson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: [3,1], base3: [1,1]
+base1: false, base2: true, base3: true
+Score: 6-1
+
+Xavier Cabrera: rng1 = 80 + 11 - 9 + 1 = 83
+rng2 = 5 + 7 - 9 + 1 = 4
+Single
+Team 1 pitcher (Brentley Dickson): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [4,1], base2: false, base3: [3,1]
+base1: true, base2: false, base3: true
+Score: 6-2
+
+Alfonso Stafford: rng1 = 96 + 11 - 9 + 1 = 99
+rng2 = 43 + 7 - 9 + 1 = 42
+Single
+Team 1 pitcher (Brentley Dickson): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: [5,1], base2: [4,1], base3: false
+base1: true, base2: true, base3: false
+Score: 6-3
+
+Karsen Welch: rng1 = 60 + 9 - 9 + 1 = 61
+rng2 = 5 + 9 - 9 + 1 = 6
+Groundout
+Team 1 pitcher (Brentley Dickson): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-3
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Juancarlo Pinto
+
+Trace Spears: rng1 = 97 + 9 - 15 - 1 = 90
+Walk
+Team 2 pitcher (Juancarlo Pinto): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [2,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-3
+
+Juan Bolton: rng1 = 58 + 4 - 15 - 1 = 46
+rng2 = 81 + 11 - 13 - 1 = 78
+Flyout
+Team 2 pitcher (Juancarlo Pinto): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [2,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-3
+
+Lawrence Randolph: rng1 = 89 + 14 - 15 - 1 = 87
+Walk
+Team 2 pitcher (Juancarlo Pinto): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [4,4], base2: [2,4], base3: false
+base1: true, base2: true, base3: false
+Score: 6-3
+
+Readale Roberson: rng1 = 78 + 7 - 15 - 1 = 69
+Walk
+Team 2 pitcher (Juancarlo Pinto): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [5,4], base2: [4,4], base3: [2,4]
+base1: true, base2: true, base3: true
+Score: 6-3
+
+Parker Dillard: rng1 = 84 + 6 - 15 - 1 = 74
+rng2 = 46 + 9 - 13 - 1 = 41
+Single
+Team 2 pitcher (Juancarlo Pinto): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 1
+
+base1: [6,4], base2: false, base3: [5,4]
+base1: true, base2: false, base3: true
+Score: 8-3
+
+Lewis Hughes: rng1 = 34 + 6 - 15 - 1 = 24
+Strikeout
+Team 2 pitcher (Juancarlo Pinto): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: [6,4], base2: false, base3: [5,4]
+base1: true, base2: false, base3: true
+Score: 8-3
+
+Patrick Marshall: rng1 = 46 + 5 - 15 - 1 = 35
+rng2 = 41 + 7 - 13 - 1 = 34
+Groundout
+Team 2 pitcher (Juancarlo Pinto): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-3
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Luciano Garrido
+
+Ike Nicholson: rng1 = 43 + 9 - 13 + 1 = 40
+rng2 = 79 + 7 - 12 + 1 = 75
+Flyout
+Team 1 pitcher (Luciano Garrido): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-3
+
+Darren Chang: rng1 = 18 + 4 - 13 + 1 = 10
+Strikeout
+Team 1 pitcher (Luciano Garrido): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-3
+
+Wakasugi Norogumi: rng1 = 98 + 14 - 13 + 1 = 100
+rng2 = 52 + 13 - 12 + 1 = 54
+Single
+Team 1 pitcher (Luciano Garrido): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-3
+
+Lawson Haney: rng1 = 17 + 13 - 13 + 1 = 18
+Strikeout
+Team 1 pitcher (Luciano Garrido): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-3
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 11
+Team 2 hits: 10
+Team 1 runs: 8
+Team 2 runs: 3
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-08-16
+Phoenix Moore	5	3	3	0	0	1	1	0	1					Memphis
+Mason Foster	5	1	2	0	0	0	0	0	0	
+Trace Spears	4	2	2	1	0	0	2	1	0	
+Juan Bolton	5	1	1	0	0	0	1	0	0	
+Lawrence Randolph	4	1	0	0	0	0	0	1	1	
+Readale Roberson	3	0	1	0	0	0	0	2	0	
+Parker Dillard	5	0	2	0	0	0	4	0	0	
+Lewis Hughes	3	0	0	0	0	0	0	1	1	
+Patrick Marshall	4	0	0	0	0	0	0	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Javier Manzanares	1	0	1	1	0	0	21	5	1	1	0	6	27	
+Brentley Dickson	0	0	1	0	0	0	3	4	2	0	0	2	7	
+Major Ortiz	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Hiraoka Yosai	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Luciano Garrido	0	0	1	0	0	0	3	1	0	0	0	2	4	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-08-16
+Wakasugi Norogumi	5	0	2	0	0	0	0	0	2					Atlanta
+Lawson Haney	5	1	1	0	0	0	0	0	3	
+Hayden Wright	4	0	0	0	0	0	0	0	3	
+Hector Obregón	4	1	2	2	0	0	0	0	0	
+Xavier Cabrera	3	0	1	0	0	0	1	0	0	
+Alfonso Stafford	4	1	3	0	0	1	2	0	0	
+Karsen Welch	4	0	0	0	0	0	0	0	0	
+Ike Nicholson	4	0	1	0	0	0	0	0	1	
+Darren Chang	4	0	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Demarcus Jackson	0	1	1	1	0	0	12	7	5	1	1	0	21	
+Saiki Iwane	0	0	1	0	0	0	6	0	0	0	0	2	6	
+Thomas Dillard	0	0	1	0	0	0	3	2	1	0	0	0	5	
+Isaac Hartman	0	0	1	0	0	0	3	1	0	0	2	1	6	
+Juancarlo Pinto	0	0	1	0	0	0	3	1	2	0	3	1	7	

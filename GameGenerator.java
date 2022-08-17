@@ -2574,7 +2574,7 @@ public class GameGenerator
 				FullPrintLine("Score: " + runs1 + "-" + runs2 + "\n");
 			}
 			
-			if (runs1 > runs2 && pitchers1[0][0] == 0 && pitchers1[1][0] == 0 && pitchers1[2][0] == 0 && pitchers1[3][0] == 0)
+			if (runs1 > runs2 && pitchers1[0][0] == 0 && pitchers1[1][0] == 0 && pitchers1[2][0] == 0 && pitchers1[3][0] == 0 && pitchers1[4][0] == 0)
 			{
 				pitchers1[p1index][0] = 1;
 				
@@ -2598,7 +2598,7 @@ public class GameGenerator
 				pitchers2[3][0] = 0;
 				pitchers2[4][0] = 0;
 			}
-			else if (runs2 > runs1 && pitchers2[0][0] == 0 && pitchers2[1][0] == 0 && pitchers2[2][0] == 0 && pitchers2[3][0] == 0)
+			else if (runs2 > runs1 && pitchers2[0][0] == 0 && pitchers2[1][0] == 0 && pitchers2[2][0] == 0 && pitchers2[3][0] == 0 && pitchers2[4][0] == 0)
 			{
 				pitchers2[p2index][0] = 1;
 				
@@ -2609,7 +2609,7 @@ public class GameGenerator
 				pitchers1[4][0] = 0;
 			}
 			
-			if (runs1 < runs2 && pitchers1[0][1] == 0 && pitchers1[1][1] == 0 && pitchers1[2][1] == 0 && pitchers1[3][1] == 0)
+			if (runs1 < runs2 && pitchers1[0][1] == 0 && pitchers1[1][1] == 0 && pitchers1[2][1] == 0 && pitchers1[3][1] == 0 && pitchers1[4][1] == 0)
 			{
 				pitchers1[p1index][1] = 1;
 				
@@ -2633,7 +2633,7 @@ public class GameGenerator
 				pitchers2[3][1] = 0;
 				pitchers2[4][1] = 0;
 			}
-			else if (runs2 < runs1 && pitchers2[0][1] == 0 && pitchers2[1][1] == 0 && pitchers2[2][1] == 0 && pitchers2[3][1] == 0)
+			else if (runs2 < runs1 && pitchers2[0][1] == 0 && pitchers2[1][1] == 0 && pitchers2[2][1] == 0 && pitchers2[3][1] == 0 && pitchers2[4][1] == 0)
 			{
 				pitchers2[p2index][1] = 1;
 				

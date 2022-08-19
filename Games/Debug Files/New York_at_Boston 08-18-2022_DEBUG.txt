@@ -1,0 +1,991 @@
+TOP INNING 1
+
+Nicolás Moruga: rng1 = 36 + 15 - 14 - 1 = 36
+rng2 = 73 + 13 - 13 - 1 = 72
+Flyout
+Team 2 pitcher (Ahmad Key): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Lucián Chicote: rng1 = 8 + 12 - 14 - 1 = 5
+Strikeout
+Team 2 pitcher (Ahmad Key): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Zahir Burgos: rng1 = 86 + 10 - 14 - 1 = 81
+rng2 = 54 + 10 - 13 - 1 = 50
+Single
+Team 2 pitcher (Ahmad Key): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Joaquín Laguna: rng1 = 76 + 7 - 14 - 1 = 68
+rng2 = 73 + 10 - 13 - 1 = 69
+Flyout
+Team 2 pitcher (Ahmad Key): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Juan Manzanares: rng1 = 49 + 15 - 10 + 1 = 55
+rng2 = 32 + 8 - 10 + 1 = 31
+Groundout
+Team 1 pitcher (Zachary Pearson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Emanuel Gutiérrez: rng1 = 41 + 7 - 10 + 1 = 39
+rng2 = 73 + 13 - 10 + 1 = 77
+Flyout
+Team 1 pitcher (Zachary Pearson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Seamus Tanner: rng1 = 47 + 10 - 10 + 1 = 48
+rng2 = 53 + 9 - 10 + 1 = 53
+Lineout
+Team 1 pitcher (Zachary Pearson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Tristian Love: rng1 = 83 + 12 - 14 - 1 = 80
+rng2 = 6 + 7 - 13 - 1 = -1
+Single
+Team 2 pitcher (Ahmad Key): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Ethan Clarke: rng1 = 96 + 9 - 14 - 1 = 90
+Walk
+Team 2 pitcher (Ahmad Key): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 0
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Trent Page: rng1 = 54 + 9 - 14 - 1 = 48
+rng2 = 22 + 6 - 13 - 1 = 14
+Groundout
+Team 2 pitcher (Ahmad Key): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [6,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Edward Cox: rng1 = 100 + 7 - 14 - 1 = 92
+rng2 = 86 + 5 - 13 - 1 = 77
+Double
+Team 2 pitcher (Ahmad Key): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 1
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-0
+
+Alexis Shultz: rng1 = 79 + 8 - 14 - 1 = 72
+rng2 = 81 + 3 - 13 - 1 = 70
+Double
+Team 2 pitcher (Ahmad Key): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 1
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-0
+
+Nicolás Moruga: rng1 = 88 + 15 - 14 - 1 = 88
+Walk
+Team 2 pitcher (Ahmad Key): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 1
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-0
+
+Lucián Chicote: rng1 = 19 + 12 - 14 - 1 = 16
+Strikeout
+Team 2 pitcher (Ahmad Key): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 2
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-0
+
+Zahir Burgos: rng1 = 46 + 10 - 14 - 1 = 41
+rng2 = 38 + 10 - 13 - 1 = 34
+Groundout
+Team 2 pitcher (Ahmad Key): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Cannon Terry: rng1 = 66 + 7 - 10 + 1 = 64
+rng2 = 90 + 12 - 10 + 1 = 93
+Flyout
+Team 1 pitcher (Zachary Pearson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Aiden Hayes: rng1 = 70 + 10 - 10 + 1 = 71
+Walk
+Team 1 pitcher (Zachary Pearson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Juan Pearson: rng1 = 66 + 10 - 10 + 1 = 67
+rng2 = 39 + 8 - 10 + 1 = 38
+Groundout
+Team 1 pitcher (Zachary Pearson): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+TOP INNING 3
+
+Joaquín Laguna: rng1 = 72 + 7 - 14 - 1 = 64
+rng2 = 84 + 10 - 13 - 1 = 80
+Flyout
+Team 2 pitcher (Ahmad Key): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Tristian Love: rng1 = 62 + 12 - 14 - 1 = 59
+rng2 = 85 + 7 - 13 - 1 = 78
+Flyout
+Team 2 pitcher (Ahmad Key): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Ethan Clarke: rng1 = 24 + 9 - 14 - 1 = 18
+Strikeout
+Team 2 pitcher (Ahmad Key): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Noah Davidson: rng1 = 22 + 7 - 10 + 1 = 20
+Strikeout
+Team 1 pitcher (Zachary Pearson): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Quillin Grant: rng1 = 86 + 7 - 10 + 1 = 84
+rng2 = 100 + 5 - 10 + 1 = 96
+Home run
+Team 1 pitcher (Zachary Pearson): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Alex Águila: rng1 = 96 + 6 - 10 + 1 = 93
+rng2 = 9 + 6 - 10 + 1 = 6
+Single
+Team 1 pitcher (Zachary Pearson): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Juan Manzanares: rng1 = 13 + 15 - 10 + 1 = 19
+Strikeout
+Team 1 pitcher (Zachary Pearson): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Emanuel Gutiérrez: rng1 = 99 + 7 - 10 + 1 = 97
+rng2 = 38 + 13 - 10 + 1 = 42
+Single
+Team 1 pitcher (Zachary Pearson): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: [1,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 3-1
+
+Seamus Tanner: rng1 = 100 + 10 - 10 + 1 = 101
+rng2 = 10 + 9 - 10 + 1 = 10
+Single
+Team 1 pitcher (Zachary Pearson): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 2
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 3-2
+
+Cannon Terry: rng1 = 34 + 7 - 10 + 1 = 32
+rng2 = 43 + 12 - 10 + 1 = 46
+Groundout
+Team 1 pitcher (Zachary Pearson): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+TOP INNING 4
+
+Trent Page: rng1 = 5 + 9 - 14 - 1 = -1
+Strikeout
+Team 2 pitcher (Ahmad Key): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Edward Cox: rng1 = 92 + 7 - 14 - 1 = 84
+rng2 = 45 + 5 - 13 - 1 = 36
+Single
+Team 2 pitcher (Ahmad Key): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Alexis Shultz: rng1 = 98 + 8 - 14 - 1 = 91
+rng2 = 32 + 3 - 13 - 1 = 21
+Single
+Team 2 pitcher (Ahmad Key): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 1
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-2
+
+Nicolás Moruga: rng1 = 24 + 15 - 14 - 1 = 24
+Strikeout
+Team 2 pitcher (Ahmad Key): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 2
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-2
+
+Lucián Chicote: rng1 = 54 + 12 - 14 - 1 = 51
+rng2 = 83 + 8 - 13 - 1 = 77
+Flyout
+Team 2 pitcher (Ahmad Key): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+BOTTOM INNING 4
+
+Aiden Hayes: rng1 = 99 + 10 - 10 + 1 = 100
+rng2 = 26 + 9 - 10 + 1 = 26
+Single
+Team 1 pitcher (Zachary Pearson): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Juan Pearson: rng1 = 39 + 10 - 10 + 1 = 40
+rng2 = 61 + 8 - 10 + 1 = 60
+Flyout
+Team 1 pitcher (Zachary Pearson): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Noah Davidson: rng1 = 98 + 7 - 10 + 1 = 96
+rng2 = 17 + 5 - 10 + 1 = 13
+Single
+Team 1 pitcher (Zachary Pearson): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 1
+
+base1: [6,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-2
+
+Quillin Grant: rng1 = 77 + 7 - 10 + 1 = 75
+rng2 = 23 + 5 - 10 + 1 = 19
+Single
+Team 1 pitcher (Zachary Pearson): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 1
+
+base1: [7,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 3-3
+
+Alex Águila: rng1 = 16 + 6 - 10 + 1 = 13
+rng2 = 11 + 6 - 10 + 1 = 8
+Groundout
+Team 1 pitcher (Zachary Pearson): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 2
+
+base1: false, base2: [7,0], base3: [6,0]
+base1: false, base2: true, base3: true
+Score: 3-3
+
+Juan Manzanares: rng1 = 23 + 15 - 10 + 1 = 29
+rng2 = 74 + 8 - 10 + 1 = 73
+Flyout
+Team 1 pitcher (Zachary Pearson): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+TOP INNING 5
+
+Zahir Burgos: rng1 = 88 + 10 - 14 - 1 = 83
+rng2 = 2 + 10 - 13 - 1 = -2
+Single
+Team 2 pitcher (Ahmad Key): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 0
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Joaquín Laguna: rng1 = 44 + 7 - 14 - 1 = 36
+rng2 = 73 + 10 - 13 - 1 = 69
+Flyout
+Team 2 pitcher (Ahmad Key): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Tristian Love: rng1 = 78 + 12 - 14 - 1 = 75
+rng2 = 84 + 7 - 13 - 1 = 77
+Double
+Team 2 pitcher (Ahmad Key): 23 batters faced, 4 runs allowed = 23 + 10.0 = 33.0, outs: 1
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-3
+
+Ethan Clarke: rng1 = 70 + 9 - 14 - 1 = 64
+rng2 = 84 + 6 - 13 - 1 = 76
+Flyout
+Team 2 pitcher (Ahmad Key): 24 batters faced, 4 runs allowed = 24 + 10.0 = 34.0, outs: 2
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-3
+
+Team 2 pitcher change to Thomas Barnes
+
+Trent Page: rng1 = 17 + 9 - 11 - 1 = 14
+rng2 = 70 + 6 - 7 - 1 = 68
+Flyout
+Team 2 pitcher (Thomas Barnes): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+BOTTOM INNING 5
+
+Emanuel Gutiérrez: rng1 = 50 + 7 - 10 + 1 = 48
+rng2 = 30 + 13 - 10 + 1 = 34
+Groundout
+Team 1 pitcher (Zachary Pearson): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Seamus Tanner: rng1 = 72 + 10 - 10 + 1 = 73
+rng2 = 60 + 9 - 10 + 1 = 60
+Single
+Team 1 pitcher (Zachary Pearson): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Cannon Terry: rng1 = 44 + 7 - 10 + 1 = 42
+rng2 = 75 + 12 - 10 + 1 = 78
+Flyout
+Team 1 pitcher (Zachary Pearson): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Aiden Hayes: rng1 = 73 + 10 - 10 + 1 = 74
+rng2 = 63 + 9 - 10 + 1 = 63
+Single
+Team 1 pitcher (Zachary Pearson): 23 batters faced, 3 runs allowed = 23 + 7.5 = 30.5, outs: 2
+
+base1: [4,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 4-3
+
+Juan Pearson: rng1 = 77 + 10 - 10 + 1 = 78
+rng2 = 7 + 8 - 10 + 1 = 6
+Single
+Team 1 pitcher (Zachary Pearson): 24 batters faced, 4 runs allowed = 24 + 10.0 = 34.0, outs: 2
+
+base1: [5,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 4-4
+
+Team 1 pitcher change to Harris Derickson
+
+Noah Davidson: rng1 = 67 + 7 - 8 + 1 = 67
+rng2 = 99 + 5 - 9 + 1 = 96
+Flyout
+Team 1 pitcher (Harris Derickson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+TOP INNING 6
+
+Edward Cox: rng1 = 38 + 7 - 11 - 1 = 33
+rng2 = 79 + 5 - 7 - 1 = 76
+Flyout
+Team 2 pitcher (Thomas Barnes): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Alexis Shultz: rng1 = 64 + 8 - 11 - 1 = 60
+rng2 = 10 + 3 - 7 - 1 = 5
+Groundout
+Team 2 pitcher (Thomas Barnes): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Nicolás Moruga: rng1 = 82 + 15 - 11 - 1 = 85
+rng2 = 36 + 13 - 7 - 1 = 41
+Single
+Team 2 pitcher (Thomas Barnes): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Lucián Chicote: rng1 = 19 + 12 - 11 - 1 = 19
+Strikeout
+Team 2 pitcher (Thomas Barnes): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+BOTTOM INNING 6
+
+Quillin Grant: rng1 = 87 + 7 - 8 + 1 = 87
+Walk
+Team 1 pitcher (Harris Derickson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Alex Águila: rng1 = 96 + 6 - 8 + 1 = 95
+rng2 = 1 + 6 - 9 + 1 = -1
+Single
+Team 1 pitcher (Harris Derickson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 0
+
+base1: [8,1], base2: false, base3: [7,1]
+base1: true, base2: false, base3: true
+Score: 4-4
+
+Juan Manzanares: rng1 = 5 + 15 - 8 + 1 = 13
+rng2 = 40 + 8 - 9 + 1 = 40
+Groundout
+Team 1 pitcher (Harris Derickson): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-5
+
+Emanuel Gutiérrez: rng1 = 1 + 7 - 8 + 1 = 1
+Strikeout
+Team 1 pitcher (Harris Derickson): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-5
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Ellis Carr
+
+Zahir Burgos: rng1 = 17 + 10 - 6 - 1 = 20
+Strikeout
+Team 2 pitcher (Ellis Carr): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-5
+
+Joaquín Laguna: rng1 = 49 + 7 - 6 - 1 = 49
+rng2 = 86 + 10 - 8 - 1 = 87
+Flyout
+Team 2 pitcher (Ellis Carr): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-5
+
+Tristian Love: rng1 = 25 + 12 - 6 - 1 = 30
+rng2 = 42 + 7 - 8 - 1 = 40
+Groundout
+Team 2 pitcher (Ellis Carr): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-5
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Trey Hendrickson
+
+Seamus Tanner: rng1 = 69 + 10 - 13 + 1 = 67
+rng2 = 83 + 9 - 12 + 1 = 81
+Flyout
+Team 1 pitcher (Trey Hendrickson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-5
+
+Cannon Terry: rng1 = 47 + 7 - 13 + 1 = 42
+rng2 = 18 + 12 - 12 + 1 = 19
+Groundout
+Team 1 pitcher (Trey Hendrickson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-5
+
+Aiden Hayes: rng1 = 63 + 10 - 13 + 1 = 61
+rng2 = 100 + 9 - 12 + 1 = 98
+Flyout
+Team 1 pitcher (Trey Hendrickson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-5
+
+-----------------------
+
+TOP INNING 8
+
+Ethan Clarke: rng1 = 13 + 9 - 6 - 1 = 15
+rng2 = 94 + 6 - 8 - 1 = 91
+Flyout
+Team 2 pitcher (Ellis Carr): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-5
+
+Trent Page: rng1 = 74 + 9 - 6 - 1 = 76
+rng2 = 87 + 6 - 8 - 1 = 84
+Home run
+Team 2 pitcher (Ellis Carr): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-5
+
+Edward Cox: rng1 = 98 + 7 - 6 - 1 = 98
+rng2 = 95 + 5 - 8 - 1 = 91
+Double
+Team 2 pitcher (Ellis Carr): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: [7,2], base3: false
+base1: false, base2: true, base3: false
+Score: 5-5
+
+Alexis Shultz: rng1 = 42 + 8 - 6 - 1 = 43
+rng2 = 19 + 3 - 8 - 1 = 13
+Groundout
+Team 2 pitcher (Ellis Carr): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: [7,2], base3: false
+base1: false, base2: true, base3: false
+Score: 5-5
+
+Nicolás Moruga: rng1 = 71 + 15 - 6 - 1 = 79
+rng2 = 74 + 13 - 8 - 1 = 78
+Triple
+Team 2 pitcher (Ellis Carr): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: false, base2: false, base3: [0,2]
+base1: false, base2: false, base3: true
+Score: 6-5
+
+Team 2 pitcher change to Grant Colmeyer
+
+Lucián Chicote: rng1 = 11 + 12 - 7 - 1 = 15
+rng2 = 3 + 8 - 5 - 1 = 5
+Groundout
+Team 2 pitcher (Grant Colmeyer): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-5
+
+-----------------------
+
+BOTTOM INNING 8
+
+Juan Pearson: rng1 = 78 + 10 - 13 + 1 = 76
+rng2 = 100 + 8 - 12 + 1 = 97
+Home run
+Team 1 pitcher (Trey Hendrickson): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-6
+
+Noah Davidson: rng1 = 46 + 7 - 13 + 1 = 41
+rng2 = 1 + 5 - 12 + 1 = -5
+Groundout
+Team 1 pitcher (Trey Hendrickson): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-6
+
+Quillin Grant: rng1 = 46 + 7 - 13 + 1 = 41
+rng2 = 20 + 5 - 12 + 1 = 14
+Groundout
+Team 1 pitcher (Trey Hendrickson): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-6
+
+Alex Águila: rng1 = 19 + 6 - 13 + 1 = 13
+rng2 = 56 + 6 - 12 + 1 = 51
+Lineout
+Team 1 pitcher (Trey Hendrickson): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-6
+
+-----------------------
+
+TOP INNING 9
+
+Zahir Burgos: rng1 = 6 + 10 - 7 - 1 = 8
+Strikeout
+Team 2 pitcher (Grant Colmeyer): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-6
+
+Joaquín Laguna: rng1 = 25 + 7 - 7 - 1 = 24
+Strikeout
+Team 2 pitcher (Grant Colmeyer): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-6
+
+Tristian Love: rng1 = 39 + 12 - 7 - 1 = 43
+rng2 = 37 + 7 - 5 - 1 = 38
+Groundout
+Team 2 pitcher (Grant Colmeyer): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-6
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Christopher Jones
+
+Juan Manzanares: rng1 = 94 + 15 - 15 + 1 = 95
+rng2 = 32 + 8 - 15 + 1 = 26
+Single
+Team 1 pitcher (Christopher Jones): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-6
+
+Emanuel Gutiérrez: rng1 = 13 + 7 - 15 + 1 = 6
+Strikeout
+Team 1 pitcher (Christopher Jones): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-6
+
+Seamus Tanner: rng1 = 53 + 10 - 15 + 1 = 49
+rng2 = 20 + 9 - 15 + 1 = 15
+Groundout
+Team 1 pitcher (Christopher Jones): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [0,4], base3: false
+base1: false, base2: true, base3: false
+Score: 6-6
+
+Cannon Terry: rng1 = 50 + 7 - 15 + 1 = 43
+rng2 = 88 + 12 - 15 + 1 = 86
+Flyout
+Team 1 pitcher (Christopher Jones): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-6
+
+-----------------------
+
+TOP INNING 10
+
+Ethan Clarke: rng1 = 22 + 9 - 7 - 1 = 23
+Strikeout
+Team 2 pitcher (Grant Colmeyer): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-6
+
+Trent Page: rng1 = 4 + 9 - 7 - 1 = 5
+Strikeout
+Team 2 pitcher (Grant Colmeyer): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-6
+
+Edward Cox: rng1 = 22 + 7 - 7 - 1 = 21
+Strikeout
+Team 2 pitcher (Grant Colmeyer): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-6
+
+-----------------------
+
+BOTTOM INNING 10
+
+Team 1 pitcher change to Shane Moran
+
+Aiden Hayes: rng1 = 30 + 10 - 7 + 1 = 34
+rng2 = 19 + 9 - 7 + 1 = 22
+Groundout
+Team 1 pitcher (Shane Moran): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-6
+
+Juan Pearson: rng1 = 9 + 10 - 7 + 1 = 13
+rng2 = 17 + 8 - 7 + 1 = 19
+Groundout
+Team 1 pitcher (Shane Moran): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-6
+
+Noah Davidson: rng1 = 67 + 7 - 7 + 1 = 68
+rng2 = 68 + 5 - 7 + 1 = 67
+Flyout
+Team 1 pitcher (Shane Moran): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-6
+
+-----------------------
+
+TOP INNING 11
+
+Team 2 pitcher change to Pablo Quintana
+
+Alexis Shultz: rng1 = 3 + 8 - 9 - 1 = 1
+Strikeout
+Team 2 pitcher (Pablo Quintana): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-6
+
+Nicolás Moruga: rng1 = 80 + 15 - 9 - 1 = 85
+rng2 = 42 + 13 - 11 - 1 = 43
+Single
+Team 2 pitcher (Pablo Quintana): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-6
+
+Lucián Chicote: rng1 = 10 + 12 - 9 - 1 = 12
+rng2 = 42 + 8 - 11 - 1 = 38
+Groundout
+Team 2 pitcher (Pablo Quintana): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [0,4], base3: false
+base1: false, base2: true, base3: false
+Score: 6-6
+
+Zahir Burgos: rng1 = 79 + 10 - 9 - 1 = 79
+rng2 = 97 + 10 - 11 - 1 = 95
+Home run
+Team 2 pitcher (Pablo Quintana): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-6
+
+Joaquín Laguna: rng1 = 74 + 7 - 9 - 1 = 71
+Walk
+Team 2 pitcher (Pablo Quintana): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: [3,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-6
+
+Tristian Love: rng1 = 51 + 12 - 9 - 1 = 53
+rng2 = 51 + 7 - 11 - 1 = 46
+Groundout
+Team 2 pitcher (Pablo Quintana): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-6
+
+-----------------------
+
+BOTTOM INNING 11
+
+Quillin Grant: rng1 = 59 + 7 - 7 + 1 = 60
+rng2 = 16 + 5 - 7 + 1 = 15
+Groundout
+Team 1 pitcher (Shane Moran): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-6
+
+Alex Águila: rng1 = 95 + 6 - 7 + 1 = 95
+rng2 = 29 + 6 - 7 + 1 = 29
+Single
+Team 1 pitcher (Shane Moran): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [8,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-6
+
+Juan Manzanares: rng1 = 21 + 15 - 7 + 1 = 30
+rng2 = 41 + 8 - 7 + 1 = 43
+Groundout
+Team 1 pitcher (Shane Moran): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [0,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-6
+
+Emanuel Gutiérrez: rng1 = 70 + 7 - 7 + 1 = 71
+Walk
+Team 1 pitcher (Shane Moran): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [1,3], base2: [0,3], base3: false
+base1: true, base2: true, base3: false
+Score: 8-6
+
+Seamus Tanner: rng1 = 100 + 10 - 7 + 1 = 104
+rng2 = 18 + 9 - 7 + 1 = 21
+Single
+Team 1 pitcher (Shane Moran): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [2,3], base2: false, base3: [1,3]
+base1: true, base2: false, base3: true
+Score: 8-7
+
+Cannon Terry: rng1 = 64 + 7 - 7 + 1 = 65
+rng2 = 25 + 12 - 7 + 1 = 31
+Groundout
+Team 1 pitcher (Shane Moran): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-7
+
+-----------------------
+
+Innings: 11
+Team 1 hits: 14
+Team 2 hits: 15
+Team 1 runs: 8
+Team 2 runs: 7
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-08-18
+Nicolás Moruga	5	1	3	0	1	0	1	1	1					New York
+Lucián Chicote	6	0	0	0	0	0	0	0	3	
+Zahir Burgos	6	2	3	0	0	1	2	0	2	
+Joaquín Laguna	5	0	0	0	0	0	0	1	1	
+Tristian Love	6	1	2	1	0	0	1	0	0	
+Ethan Clarke	4	0	0	0	0	0	0	1	2	
+Trent Page	5	2	1	0	0	1	1	0	2	
+Edward Cox	5	2	3	2	0	0	2	0	1	
+Alexis Shultz	5	0	2	1	0	0	1	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Zachary Pearson	0	0	1	1	0	0	14	10	4	1	1	2	24	
+Harris Derickson	0	0	1	0	0	0	4	1	1	0	1	1	5	
+Trey Hendrickson	0	0	1	0	0	0	6	1	1	1	0	0	7	
+Shane Moran	1	0	1	0	0	0	6	2	1	0	1	0	9	
+Christopher Jones	0	0	1	0	0	0	3	1	0	0	0	1	4	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-08-18
+Juan Manzanares	6	1	1	0	0	0	1	0	1					Boston
+Emanuel Gutiérrez	5	0	1	0	0	0	0	1	2	
+Seamus Tanner	6	1	3	0	0	0	2	0	0	
+Cannon Terry	6	0	0	0	0	0	0	0	0	
+Aiden Hayes	4	1	2	0	0	0	0	1	0	
+Juan Pearson	5	1	2	0	0	1	2	0	0	
+Noah Davidson	5	0	1	0	0	0	0	0	1	
+Quillin Grant	4	2	2	0	0	1	2	1	0	
+Alex Águila	5	1	3	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Ahmad Key	0	0	1	1	0	0	14	8	4	0	2	5	24	
+Thomas Barnes	0	0	1	0	0	0	4	1	0	0	0	1	5	
+Ellis Carr	0	0	1	0	0	0	5	3	2	1	0	1	8	
+Grant Colmeyer	0	0	1	0	0	0	7	0	0	0	0	5	7	
+Pablo Quintana	0	1	1	0	0	0	3	2	2	1	1	1	6	

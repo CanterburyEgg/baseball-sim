@@ -1,0 +1,787 @@
+TOP INNING 1
+
+Edward Lowe: rng1 = 96 + 13 - 8 - 1 = 100
+rng2 = 35 + 14 - 10 - 1 = 38
+Single
+Team 2 pitcher (Kim Jae-Yong): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Leonardo Pinto: rng1 = 11 + 11 - 8 - 1 = 13
+rng2 = 56 + 8 - 10 - 1 = 53
+Lineout
+Team 2 pitcher (Kim Jae-Yong): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Nakazawa Shinji: rng1 = 29 + 9 - 8 - 1 = 29
+rng2 = 82 + 10 - 10 - 1 = 81
+Flyout
+Team 2 pitcher (Kim Jae-Yong): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Kevin Taylor: rng1 = 32 + 8 - 8 - 1 = 31
+rng2 = 81 + 10 - 10 - 1 = 80
+Flyout
+Team 2 pitcher (Kim Jae-Yong): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Dante Leoz: rng1 = 84 + 15 - 8 + 1 = 92
+rng2 = 36 + 13 - 4 + 1 = 46
+Single
+Team 1 pitcher (Raul Cespedes): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Reuben Sutton: rng1 = 95 + 15 - 8 + 1 = 103
+rng2 = 65 + 12 - 4 + 1 = 74
+Double
+Team 1 pitcher (Raul Cespedes): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Cody McCarthy: rng1 = 39 + 13 - 8 + 1 = 45
+rng2 = 34 + 9 - 4 + 1 = 40
+Groundout
+Team 1 pitcher (Raul Cespedes): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: false, base3: [1,0]
+base1: false, base2: false, base3: true
+Score: 0-1
+
+Caden Bryan: rng1 = 79 + 7 - 8 + 1 = 79
+rng2 = 28 + 12 - 4 + 1 = 37
+Single
+Team 1 pitcher (Raul Cespedes): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Joseph Thayer: rng1 = 50 + 13 - 8 + 1 = 56
+rng2 = 27 + 9 - 4 + 1 = 33
+Groundout
+Team 1 pitcher (Raul Cespedes): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Andres Perez: rng1 = 18 + 7 - 8 + 1 = 18
+Strikeout
+Team 1 pitcher (Raul Cespedes): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 2
+
+Leroy Powell: rng1 = 31 + 9 - 8 - 1 = 31
+rng2 = 39 + 9 - 10 - 1 = 37
+Groundout
+Team 2 pitcher (Kim Jae-Yong): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Alejandro López: rng1 = 38 + 5 - 8 - 1 = 34
+rng2 = 83 + 8 - 10 - 1 = 80
+Flyout
+Team 2 pitcher (Kim Jae-Yong): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Jaiden Fortner: rng1 = 90 + 5 - 8 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Kim Jae-Yong): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Demarcus Warner: rng1 = 96 + 5 - 8 - 1 = 92
+rng2 = 21 + 7 - 10 - 1 = 17
+Single
+Team 2 pitcher (Kim Jae-Yong): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-2
+
+Estefania Espina: rng1 = 77 + 6 - 8 - 1 = 74
+rng2 = 1 + 5 - 10 - 1 = -5
+Single
+Team 2 pitcher (Kim Jae-Yong): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-2
+
+Edward Lowe: rng1 = 36 + 13 - 8 - 1 = 40
+rng2 = 71 + 14 - 10 - 1 = 74
+Flyout
+Team 2 pitcher (Kim Jae-Yong): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 2
+
+Angel Sierra: rng1 = 67 + 6 - 8 + 1 = 66
+rng2 = 39 + 7 - 4 + 1 = 43
+Groundout
+Team 1 pitcher (Raul Cespedes): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Esteban Obregón: rng1 = 42 + 8 - 8 + 1 = 43
+rng2 = 47 + 4 - 4 + 1 = 48
+Lineout
+Team 1 pitcher (Raul Cespedes): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Jorge Donald: rng1 = 4 + 5 - 8 + 1 = 2
+Strikeout
+Team 1 pitcher (Raul Cespedes): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 3
+
+Leonardo Pinto: rng1 = 96 + 11 - 8 - 1 = 98
+rng2 = 3 + 8 - 10 - 1 = 0
+Single
+Team 2 pitcher (Kim Jae-Yong): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Nakazawa Shinji: rng1 = 46 + 9 - 8 - 1 = 46
+rng2 = 65 + 10 - 10 - 1 = 64
+Flyout
+Team 2 pitcher (Kim Jae-Yong): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Kevin Taylor: rng1 = 32 + 8 - 8 - 1 = 31
+rng2 = 26 + 10 - 10 - 1 = 25
+Groundout
+Team 2 pitcher (Kim Jae-Yong): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-2
+
+Leroy Powell: rng1 = 59 + 9 - 8 - 1 = 59
+rng2 = 81 + 9 - 10 - 1 = 79
+Flyout
+Team 2 pitcher (Kim Jae-Yong): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 3
+
+Dante Leoz: rng1 = 66 + 15 - 8 + 1 = 74
+rng2 = 87 + 13 - 4 + 1 = 97
+Home run
+Team 1 pitcher (Raul Cespedes): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Reuben Sutton: rng1 = 86 + 15 - 8 + 1 = 94
+rng2 = 73 + 12 - 4 + 1 = 82
+Home run
+Team 1 pitcher (Raul Cespedes): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Cody McCarthy: rng1 = 37 + 13 - 8 + 1 = 43
+rng2 = 10 + 9 - 4 + 1 = 16
+Groundout
+Team 1 pitcher (Raul Cespedes): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Caden Bryan: rng1 = 83 + 7 - 8 + 1 = 83
+rng2 = 91 + 12 - 4 + 1 = 100
+Home run
+Team 1 pitcher (Raul Cespedes): 13 batters faced, 5 runs allowed = 13 + 12.5 = 25.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Joseph Thayer: rng1 = 43 + 13 - 8 + 1 = 49
+rng2 = 6 + 9 - 4 + 1 = 12
+Groundout
+Team 1 pitcher (Raul Cespedes): 14 batters faced, 5 runs allowed = 14 + 12.5 = 26.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Andres Perez: rng1 = 27 + 7 - 8 + 1 = 27
+Strikeout
+Team 1 pitcher (Raul Cespedes): 15 batters faced, 5 runs allowed = 15 + 12.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+TOP INNING 4
+
+Alejandro López: rng1 = 95 + 5 - 8 - 1 = 91
+rng2 = 7 + 8 - 10 - 1 = 4
+Single
+Team 2 pitcher (Kim Jae-Yong): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Jaiden Fortner: rng1 = 98 + 5 - 8 - 1 = 94
+rng2 = 77 + 7 - 10 - 1 = 73
+Double
+Team 2 pitcher (Kim Jae-Yong): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 0
+
+base1: false, base2: [6,0], base3: [5,0]
+base1: false, base2: true, base3: true
+Score: 1-5
+
+Demarcus Warner: rng1 = 55 + 5 - 8 - 1 = 51
+rng2 = 58 + 7 - 10 - 1 = 54
+Lineout
+Team 2 pitcher (Kim Jae-Yong): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 1
+
+base1: false, base2: [6,0], base3: [5,0]
+base1: false, base2: true, base3: true
+Score: 1-5
+
+Estefania Espina: rng1 = 13 + 6 - 8 - 1 = 10
+Strikeout
+Team 2 pitcher (Kim Jae-Yong): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 2
+
+base1: false, base2: [6,0], base3: [5,0]
+base1: false, base2: true, base3: true
+Score: 1-5
+
+Edward Lowe: rng1 = 22 + 13 - 8 - 1 = 26
+Strikeout
+Team 2 pitcher (Kim Jae-Yong): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+BOTTOM INNING 4
+
+Angel Sierra: rng1 = 27 + 6 - 8 + 1 = 26
+Strikeout
+Team 1 pitcher (Raul Cespedes): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Esteban Obregón: rng1 = 18 + 8 - 8 + 1 = 19
+Strikeout
+Team 1 pitcher (Raul Cespedes): 17 batters faced, 5 runs allowed = 17 + 12.5 = 29.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Jorge Donald: rng1 = 49 + 5 - 8 + 1 = 47
+rng2 = 86 + 7 - 4 + 1 = 90
+Flyout
+Team 1 pitcher (Raul Cespedes): 18 batters faced, 5 runs allowed = 18 + 12.5 = 30.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+TOP INNING 5
+
+Leonardo Pinto: rng1 = 51 + 11 - 8 - 1 = 53
+rng2 = 2 + 8 - 10 - 1 = -1
+Groundout
+Team 2 pitcher (Kim Jae-Yong): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Nakazawa Shinji: rng1 = 95 + 9 - 8 - 1 = 95
+rng2 = 95 + 10 - 10 - 1 = 94
+Home run
+Team 2 pitcher (Kim Jae-Yong): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-5
+
+Kevin Taylor: rng1 = 38 + 8 - 8 - 1 = 37
+rng2 = 40 + 10 - 10 - 1 = 39
+Groundout
+Team 2 pitcher (Kim Jae-Yong): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-5
+
+Leroy Powell: rng1 = 74 + 9 - 8 - 1 = 74
+rng2 = 10 + 9 - 10 - 1 = 8
+Single
+Team 2 pitcher (Kim Jae-Yong): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-5
+
+Alejandro López: rng1 = 56 + 5 - 8 - 1 = 52
+rng2 = 49 + 8 - 10 - 1 = 46
+Groundout
+Team 2 pitcher (Kim Jae-Yong): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-5
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Bravon McDaniel
+
+Dante Leoz: rng1 = 86 + 15 - 7 + 1 = 95
+rng2 = 60 + 13 - 7 + 1 = 67
+Double
+Team 1 pitcher (Bravon McDaniel): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [0,1], base3: false
+base1: false, base2: true, base3: false
+Score: 2-5
+
+Reuben Sutton: rng1 = 16 + 15 - 7 + 1 = 25
+Strikeout
+Team 1 pitcher (Bravon McDaniel): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [0,1], base3: false
+base1: false, base2: true, base3: false
+Score: 2-5
+
+Cody McCarthy: rng1 = 41 + 13 - 7 + 1 = 48
+rng2 = 65 + 9 - 7 + 1 = 68
+Flyout
+Team 1 pitcher (Bravon McDaniel): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [0,1], base3: false
+base1: false, base2: true, base3: false
+Score: 2-5
+
+Caden Bryan: rng1 = 56 + 7 - 7 + 1 = 57
+rng2 = 21 + 12 - 7 + 1 = 27
+Groundout
+Team 1 pitcher (Bravon McDaniel): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-5
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Rakeem Bradley
+
+Jaiden Fortner: rng1 = 54 + 5 - 9 - 1 = 49
+rng2 = 11 + 7 - 6 - 1 = 11
+Groundout
+Team 2 pitcher (Rakeem Bradley): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-5
+
+Demarcus Warner: rng1 = 76 + 5 - 9 - 1 = 71
+Walk
+Team 2 pitcher (Rakeem Bradley): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-5
+
+Estefania Espina: rng1 = 47 + 6 - 9 - 1 = 43
+rng2 = 92 + 5 - 6 - 1 = 90
+Flyout
+Team 2 pitcher (Rakeem Bradley): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-5
+
+Edward Lowe: rng1 = 9 + 13 - 9 - 1 = 12
+rng2 = 26 + 14 - 6 - 1 = 33
+Groundout
+Team 2 pitcher (Rakeem Bradley): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-5
+
+-----------------------
+
+BOTTOM INNING 6
+
+Joseph Thayer: rng1 = 10 + 13 - 7 + 1 = 17
+Strikeout
+Team 1 pitcher (Bravon McDaniel): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-5
+
+Andres Perez: rng1 = 95 + 7 - 7 + 1 = 96
+rng2 = 27 + 9 - 7 + 1 = 30
+Single
+Team 1 pitcher (Bravon McDaniel): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-5
+
+Angel Sierra: rng1 = 27 + 6 - 7 + 1 = 27
+Strikeout
+Team 1 pitcher (Bravon McDaniel): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-5
+
+Esteban Obregón: rng1 = 45 + 8 - 7 + 1 = 47
+rng2 = 75 + 4 - 7 + 1 = 73
+Flyout
+Team 1 pitcher (Bravon McDaniel): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-5
+
+-----------------------
+
+TOP INNING 7
+
+Leonardo Pinto: rng1 = 63 + 11 - 9 - 1 = 64
+rng2 = 72 + 8 - 6 - 1 = 73
+Flyout
+Team 2 pitcher (Rakeem Bradley): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-5
+
+Nakazawa Shinji: rng1 = 5 + 9 - 9 - 1 = 4
+Strikeout
+Team 2 pitcher (Rakeem Bradley): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-5
+
+Kevin Taylor: rng1 = 48 + 8 - 9 - 1 = 46
+rng2 = 29 + 10 - 6 - 1 = 32
+Groundout
+Team 2 pitcher (Rakeem Bradley): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-5
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Armando Negron
+
+Jorge Donald: rng1 = 35 + 5 - 9 + 1 = 32
+rng2 = 85 + 7 - 6 + 1 = 87
+Flyout
+Team 1 pitcher (Armando Negron): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-5
+
+Dante Leoz: rng1 = 40 + 15 - 9 + 1 = 47
+rng2 = 36 + 13 - 6 + 1 = 44
+Groundout
+Team 1 pitcher (Armando Negron): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-5
+
+Reuben Sutton: rng1 = 52 + 15 - 9 + 1 = 59
+rng2 = 18 + 12 - 6 + 1 = 25
+Groundout
+Team 1 pitcher (Armando Negron): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-5
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Ian Berg
+
+Leroy Powell: rng1 = 30 + 9 - 11 - 1 = 27
+Strikeout
+Team 2 pitcher (Ian Berg): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-5
+
+Alejandro López: rng1 = 44 + 5 - 11 - 1 = 37
+rng2 = 99 + 8 - 9 - 1 = 97
+Flyout
+Team 2 pitcher (Ian Berg): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-5
+
+Jaiden Fortner: rng1 = 92 + 5 - 11 - 1 = 85
+rng2 = 11 + 7 - 9 - 1 = 8
+Single
+Team 2 pitcher (Ian Berg): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-5
+
+Demarcus Warner: rng1 = 13 + 5 - 11 - 1 = 6
+Strikeout
+Team 2 pitcher (Ian Berg): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-5
+
+-----------------------
+
+BOTTOM INNING 8
+
+Cody McCarthy: rng1 = 70 + 13 - 9 + 1 = 75
+rng2 = 45 + 9 - 6 + 1 = 49
+Single
+Team 1 pitcher (Armando Negron): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-5
+
+Caden Bryan: rng1 = 99 + 7 - 9 + 1 = 98
+rng2 = 65 + 12 - 6 + 1 = 72
+Double
+Team 1 pitcher (Armando Negron): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 0
+
+base1: false, base2: [3,2], base3: false
+base1: false, base2: true, base3: false
+Score: 2-6
+
+Joseph Thayer: rng1 = 39 + 13 - 9 + 1 = 44
+rng2 = 76 + 9 - 6 + 1 = 80
+Flyout
+Team 1 pitcher (Armando Negron): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: false, base3: [3,2]
+base1: false, base2: false, base3: true
+Score: 2-6
+
+Andres Perez: rng1 = 85 + 7 - 9 + 1 = 84
+rng2 = 26 + 9 - 6 + 1 = 30
+Single
+Team 1 pitcher (Armando Negron): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 1
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-7
+
+Angel Sierra: rng1 = 80 + 6 - 9 + 1 = 78
+rng2 = 39 + 7 - 6 + 1 = 41
+Single
+Team 1 pitcher (Armando Negron): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 1
+
+base1: [6,2], base2: [5,2], base3: false
+base1: true, base2: true, base3: false
+Score: 2-7
+
+Team 1 pitcher change to Ian Colome
+
+Esteban Obregón: rng1 = 71 + 8 - 7 + 1 = 73
+rng2 = 60 + 4 - 5 + 1 = 60
+Single
+Team 1 pitcher (Ian Colome): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: [7,3], base2: false, base3: [6,2]
+base1: true, base2: false, base3: true
+Score: 2-8
+
+Jorge Donald: rng1 = 72 + 5 - 7 + 1 = 71
+Walk
+Team 1 pitcher (Ian Colome): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [8,3], base2: [7,3], base3: [6,2]
+base1: true, base2: true, base3: true
+Score: 2-8
+
+Dante Leoz: rng1 = 3 + 15 - 7 + 1 = 12
+rng2 = 3 + 13 - 5 + 1 = 12
+Groundout
+Team 1 pitcher (Ian Colome): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,3], base2: [8,3], base3: [7,3]
+base1: true, base2: true, base3: true
+Score: 2-8
+
+Reuben Sutton: rng1 = 91 + 15 - 7 + 1 = 100
+rng2 = 68 + 12 - 5 + 1 = 76
+Double
+Team 1 pitcher (Ian Colome): 4 batters faced, 3 runs allowed = 4 + 7.5 = 11.5, outs: 2
+
+base1: false, base2: [1,3], base3: false
+base1: false, base2: true, base3: false
+Score: 2-11
+
+Cody McCarthy: rng1 = 48 + 13 - 7 + 1 = 55
+rng2 = 14 + 9 - 5 + 1 = 19
+Groundout
+Team 1 pitcher (Ian Colome): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-11
+
+-----------------------
+
+TOP INNING 9
+
+Estefania Espina: rng1 = 81 + 6 - 11 - 1 = 75
+rng2 = 42 + 5 - 9 - 1 = 37
+Single
+Team 2 pitcher (Ian Berg): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-11
+
+Edward Lowe: rng1 = 48 + 13 - 11 - 1 = 49
+rng2 = 24 + 14 - 9 - 1 = 28
+Groundout
+Team 2 pitcher (Ian Berg): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [0,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-11
+
+Leonardo Pinto: rng1 = 60 + 11 - 11 - 1 = 59
+rng2 = 99 + 8 - 9 - 1 = 97
+Flyout
+Team 2 pitcher (Ian Berg): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [0,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-11
+
+Nakazawa Shinji: rng1 = 25 + 9 - 11 - 1 = 22
+Strikeout
+Team 2 pitcher (Ian Berg): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-11
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 10
+Team 2 hits: 14
+Team 1 runs: 2
+Team 2 runs: 11
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-08-22
+Edward Lowe	5	0	1	0	0	0	0	0	1					Chicago
+Leonardo Pinto	5	0	1	0	0	0	0	0	0	
+Nakazawa Shinji	5	1	1	0	0	1	1	0	2	
+Kevin Taylor	4	0	0	0	0	0	0	0	0	
+Leroy Powell	4	0	1	0	0	0	0	0	1	
+Alejandro López	4	0	1	0	0	0	0	0	0	
+Jaiden Fortner	3	1	2	1	0	0	0	0	0	
+Demarcus Warner	3	0	1	0	0	0	0	1	1	
+Estefania Espina	4	0	2	0	0	0	1	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Raul Cespedes	0	1	1	1	0	0	12	6	5	3	0	5	18	
+Bravon McDaniel	0	0	1	0	0	0	6	2	0	0	0	3	8	
+Armando Negron	0	0	1	0	0	0	4	4	3	0	0	0	8	
+Ian Colome	0	0	1	0	0	0	2	2	3	0	1	0	5	
+Charlie Jordan	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-08-22
+Dante Leoz	5	3	3	1	0	1	1	0	0					Detroit
+Reuben Sutton	5	2	3	2	0	1	5	0	1	
+Cody McCarthy	5	1	1	0	0	0	0	0	0	
+Caden Bryan	4	2	3	1	0	1	3	0	0	
+Joseph Thayer	4	0	0	0	0	0	0	0	1	
+Andres Perez	4	1	2	0	0	0	1	0	2	
+Angel Sierra	4	0	1	0	0	0	0	0	2	
+Esteban Obregón	4	1	1	0	0	0	1	0	1	
+Jorge Donald	3	1	0	0	0	0	0	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Kim Jae-Yong	1	0	1	1	0	0	15	8	2	1	0	2	24	
+Rakeem Bradley	0	0	1	0	0	0	6	0	0	0	1	1	7	
+Ian Berg	0	0	1	0	0	0	6	2	0	0	0	3	8	
+Keegan Schiel	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Isaac Wilson	0	0	0	0	0	0	0	0	0	0	0	0	0	

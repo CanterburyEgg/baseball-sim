@@ -1,0 +1,708 @@
+TOP INNING 1
+
+Pedro Martinez: rng1 = 100 + 9 - 5 - 1 = 103
+rng2 = 31 + 7 - 7 - 1 = 30
+Single
+Team 2 pitcher (Luke Harvey): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Kyrie Anderson: rng1 = 19 + 8 - 5 - 1 = 21
+Strikeout
+Team 2 pitcher (Luke Harvey): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Carter Walker: rng1 = 43 + 8 - 5 - 1 = 45
+rng2 = 39 + 7 - 7 - 1 = 38
+Groundout
+Team 2 pitcher (Luke Harvey): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Antonio Santiago: rng1 = 82 + 12 - 4 + 1 = 91
+rng2 = 13 + 10 - 6 + 1 = 18
+Single
+Team 1 pitcher (Don Shaw): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Jeon Jong-Ho: rng1 = 72 + 11 - 4 + 1 = 80
+rng2 = 69 + 10 - 6 + 1 = 74
+Double
+Team 1 pitcher (Don Shaw): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Sam Snyder: rng1 = 98 + 9 - 4 + 1 = 104
+rng2 = 95 + 9 - 6 + 1 = 99
+Home run
+Team 1 pitcher (Don Shaw): 3 batters faced, 3 runs allowed = 3 + 7.5 = 10.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Gregory Cooper: rng1 = 41 + 6 - 4 + 1 = 44
+rng2 = 89 + 10 - 6 + 1 = 94
+Flyout
+Team 1 pitcher (Don Shaw): 4 batters faced, 3 runs allowed = 4 + 7.5 = 11.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Elijah Washington: rng1 = 57 + 6 - 4 + 1 = 60
+rng2 = 31 + 6 - 6 + 1 = 32
+Groundout
+Team 1 pitcher (Don Shaw): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Adam Rogers: rng1 = 46 + 6 - 4 + 1 = 49
+rng2 = 41 + 6 - 6 + 1 = 42
+Groundout
+Team 1 pitcher (Don Shaw): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+TOP INNING 2
+
+Billy Campbell: rng1 = 36 + 6 - 5 - 1 = 36
+rng2 = 94 + 9 - 7 - 1 = 95
+Flyout
+Team 2 pitcher (Luke Harvey): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Mario Guzman: rng1 = 11 + 7 - 5 - 1 = 12
+rng2 = 59 + 5 - 7 - 1 = 56
+Lineout
+Team 2 pitcher (Luke Harvey): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Leonardo Nunez: rng1 = 63 + 7 - 5 - 1 = 64
+rng2 = 27 + 5 - 7 - 1 = 24
+Groundout
+Team 2 pitcher (Luke Harvey): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+BOTTOM INNING 2
+
+Tomas Padilla: rng1 = 52 + 5 - 4 + 1 = 54
+rng2 = 54 + 5 - 6 + 1 = 54
+Lineout
+Team 1 pitcher (Don Shaw): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Jesse Henry: rng1 = 91 + 4 - 4 + 1 = 92
+rng2 = 99 + 8 - 6 + 1 = 102
+Home run
+Team 1 pitcher (Don Shaw): 8 batters faced, 4 runs allowed = 8 + 10.0 = 18.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Felipe Mejia: rng1 = 55 + 4 - 4 + 1 = 56
+rng2 = 85 + 7 - 6 + 1 = 87
+Flyout
+Team 1 pitcher (Don Shaw): 9 batters faced, 4 runs allowed = 9 + 10.0 = 19.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Antonio Santiago: rng1 = 25 + 12 - 4 + 1 = 34
+rng2 = 47 + 10 - 6 + 1 = 52
+Lineout
+Team 1 pitcher (Don Shaw): 10 batters faced, 4 runs allowed = 10 + 10.0 = 20.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+TOP INNING 3
+
+Esteban Mendoza: rng1 = 23 + 6 - 5 - 1 = 23
+Strikeout
+Team 2 pitcher (Luke Harvey): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Curtis McCormick: rng1 = 7 + 5 - 5 - 1 = 6
+Strikeout
+Team 2 pitcher (Luke Harvey): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Eduardo Sandoval: rng1 = 25 + 4 - 5 - 1 = 23
+Strikeout
+Team 2 pitcher (Luke Harvey): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+BOTTOM INNING 3
+
+Jeon Jong-Ho: rng1 = 52 + 11 - 4 + 1 = 60
+rng2 = 63 + 10 - 6 + 1 = 68
+Flyout
+Team 1 pitcher (Don Shaw): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Sam Snyder: rng1 = 62 + 9 - 4 + 1 = 68
+rng2 = 40 + 9 - 6 + 1 = 44
+Groundout
+Team 1 pitcher (Don Shaw): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Gregory Cooper: rng1 = 47 + 6 - 4 + 1 = 50
+rng2 = 58 + 10 - 6 + 1 = 63
+Flyout
+Team 1 pitcher (Don Shaw): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+TOP INNING 4
+
+Pedro Martinez: rng1 = 44 + 9 - 5 - 1 = 47
+rng2 = 63 + 7 - 7 - 1 = 62
+Flyout
+Team 2 pitcher (Luke Harvey): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Kyrie Anderson: rng1 = 64 + 8 - 5 - 1 = 66
+rng2 = 76 + 9 - 7 - 1 = 77
+Flyout
+Team 2 pitcher (Luke Harvey): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Carter Walker: rng1 = 79 + 8 - 5 - 1 = 81
+rng2 = 4 + 7 - 7 - 1 = 3
+Single
+Team 2 pitcher (Luke Harvey): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Billy Campbell: rng1 = 66 + 6 - 5 - 1 = 66
+rng2 = 62 + 9 - 7 - 1 = 63
+Flyout
+Team 2 pitcher (Luke Harvey): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+BOTTOM INNING 4
+
+Elijah Washington: rng1 = 15 + 6 - 4 + 1 = 18
+Strikeout
+Team 1 pitcher (Don Shaw): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Adam Rogers: rng1 = 75 + 6 - 4 + 1 = 78
+rng2 = 69 + 6 - 6 + 1 = 70
+Double
+Team 1 pitcher (Don Shaw): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 1
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-4
+
+Tomas Padilla: rng1 = 71 + 5 - 4 + 1 = 73
+rng2 = 78 + 5 - 6 + 1 = 78
+Triple
+Team 1 pitcher (Don Shaw): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 1
+
+base1: false, base2: false, base3: [6,0]
+base1: false, base2: false, base3: true
+Score: 0-5
+
+Jesse Henry: rng1 = 31 + 4 - 4 + 1 = 32
+rng2 = 92 + 8 - 6 + 1 = 95
+Flyout
+Team 1 pitcher (Don Shaw): 17 batters faced, 5 runs allowed = 17 + 12.5 = 29.5, outs: 2
+
+base1: false, base2: false, base3: [6,0]
+base1: false, base2: false, base3: true
+Score: 0-5
+
+Felipe Mejia: rng1 = 59 + 4 - 4 + 1 = 60
+rng2 = 4 + 7 - 6 + 1 = 6
+Groundout
+Team 1 pitcher (Don Shaw): 18 batters faced, 5 runs allowed = 18 + 12.5 = 30.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+TOP INNING 5
+
+Mario Guzman: rng1 = 33 + 7 - 5 - 1 = 34
+rng2 = 48 + 5 - 7 - 1 = 45
+Groundout
+Team 2 pitcher (Luke Harvey): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Leonardo Nunez: rng1 = 5 + 7 - 5 - 1 = 6
+Strikeout
+Team 2 pitcher (Luke Harvey): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Esteban Mendoza: rng1 = 3 + 6 - 5 - 1 = 3
+Strikeout
+Team 2 pitcher (Luke Harvey): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Tim Brooks
+
+Antonio Santiago: rng1 = 4 + 12 - 10 + 1 = 7
+Strikeout
+Team 1 pitcher (Tim Brooks): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Jeon Jong-Ho: rng1 = 82 + 11 - 10 + 1 = 84
+rng2 = 71 + 10 - 13 + 1 = 69
+Double
+Team 1 pitcher (Tim Brooks): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [1,1], base3: false
+base1: false, base2: true, base3: false
+Score: 0-5
+
+Sam Snyder: rng1 = 84 + 9 - 10 + 1 = 84
+rng2 = 56 + 9 - 13 + 1 = 53
+Single
+Team 1 pitcher (Tim Brooks): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-6
+
+Gregory Cooper: rng1 = 39 + 6 - 10 + 1 = 36
+rng2 = 13 + 10 - 13 + 1 = 11
+Groundout
+Team 1 pitcher (Tim Brooks): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+TOP INNING 6
+
+Curtis McCormick: rng1 = 81 + 5 - 5 - 1 = 80
+rng2 = 48 + 6 - 7 - 1 = 46
+Single
+Team 2 pitcher (Luke Harvey): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-6
+
+Eduardo Sandoval: rng1 = 92 + 4 - 5 - 1 = 90
+Walk
+Team 2 pitcher (Luke Harvey): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 0
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-6
+
+Pedro Martinez: rng1 = 93 + 9 - 5 - 1 = 96
+rng2 = 61 + 7 - 7 - 1 = 60
+Single
+Team 2 pitcher (Luke Harvey): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 0
+
+base1: [0,0], base2: [8,0], base3: [7,0]
+base1: true, base2: true, base3: true
+Score: 0-6
+
+Kyrie Anderson: rng1 = 51 + 8 - 5 - 1 = 53
+rng2 = 58 + 9 - 7 - 1 = 59
+Flyout
+Team 2 pitcher (Luke Harvey): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 1
+
+base1: [0,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 1-6
+
+Carter Walker: rng1 = 31 + 8 - 5 - 1 = 33
+rng2 = 27 + 7 - 7 - 1 = 26
+Groundout
+Team 2 pitcher (Luke Harvey): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Larry Gibson
+
+Elijah Washington: rng1 = 87 + 6 - 11 + 1 = 83
+rng2 = 19 + 6 - 9 + 1 = 17
+Single
+Team 1 pitcher (Larry Gibson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Adam Rogers: rng1 = 48 + 6 - 11 + 1 = 44
+rng2 = 72 + 6 - 9 + 1 = 70
+Flyout
+Team 1 pitcher (Larry Gibson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Tomas Padilla: rng1 = 65 + 5 - 11 + 1 = 60
+rng2 = 78 + 5 - 9 + 1 = 75
+Flyout
+Team 1 pitcher (Larry Gibson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Jesse Henry: rng1 = 12 + 4 - 11 + 1 = 6
+Strikeout
+Team 1 pitcher (Larry Gibson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 7
+
+Billy Campbell: rng1 = 93 + 6 - 5 - 1 = 93
+rng2 = 9 + 9 - 7 - 1 = 10
+Single
+Team 2 pitcher (Luke Harvey): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Mario Guzman: rng1 = 46 + 7 - 5 - 1 = 47
+rng2 = 76 + 5 - 7 - 1 = 73
+Flyout
+Team 2 pitcher (Luke Harvey): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Leonardo Nunez: rng1 = 80 + 7 - 5 - 1 = 81
+rng2 = 18 + 5 - 7 - 1 = 15
+Single
+Team 2 pitcher (Luke Harvey): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 1
+
+base1: [5,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-6
+
+Esteban Mendoza: rng1 = 59 + 6 - 5 - 1 = 59
+rng2 = 30 + 6 - 7 - 1 = 28
+Groundout
+Team 2 pitcher (Luke Harvey): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 2
+
+base1: [6,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 1-6
+
+Curtis McCormick: rng1 = 67 + 5 - 5 - 1 = 66
+rng2 = 63 + 6 - 7 - 1 = 61
+Flyout
+Team 2 pitcher (Luke Harvey): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+BOTTOM INNING 7
+
+Felipe Mejia: rng1 = 5 + 4 - 11 + 1 = -1
+Strikeout
+Team 1 pitcher (Larry Gibson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Antonio Santiago: rng1 = 79 + 12 - 11 + 1 = 81
+rng2 = 64 + 10 - 9 + 1 = 66
+Double
+Team 1 pitcher (Larry Gibson): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: [0,2], base3: false
+base1: false, base2: true, base3: false
+Score: 1-6
+
+Jeon Jong-Ho: rng1 = 51 + 11 - 11 + 1 = 52
+rng2 = 99 + 10 - 9 + 1 = 101
+Flyout
+Team 1 pitcher (Larry Gibson): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: [0,2], base3: false
+base1: false, base2: true, base3: false
+Score: 1-6
+
+Sam Snyder: rng1 = 48 + 9 - 11 + 1 = 47
+rng2 = 86 + 9 - 9 + 1 = 87
+Flyout
+Team 1 pitcher (Larry Gibson): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Legend Brooks
+
+Eduardo Sandoval: rng1 = 24 + 4 - 9 - 1 = 18
+Strikeout
+Team 2 pitcher (Legend Brooks): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Pedro Martinez: rng1 = 80 + 9 - 9 - 1 = 79
+rng2 = 94 + 7 - 10 - 1 = 90
+Double
+Team 2 pitcher (Legend Brooks): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [0,1], base3: false
+base1: false, base2: true, base3: false
+Score: 1-6
+
+Kyrie Anderson: rng1 = 18 + 8 - 9 - 1 = 16
+Strikeout
+Team 2 pitcher (Legend Brooks): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [0,1], base3: false
+base1: false, base2: true, base3: false
+Score: 1-6
+
+Carter Walker: rng1 = 43 + 8 - 9 - 1 = 41
+rng2 = 58 + 7 - 10 - 1 = 54
+Lineout
+Team 2 pitcher (Legend Brooks): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Matias Rivera
+
+Gregory Cooper: rng1 = 3 + 6 - 7 + 1 = 3
+Strikeout
+Team 1 pitcher (Matias Rivera): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Elijah Washington: rng1 = 36 + 6 - 7 + 1 = 36
+rng2 = 52 + 6 - 7 + 1 = 52
+Lineout
+Team 1 pitcher (Matias Rivera): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Adam Rogers: rng1 = 26 + 6 - 7 + 1 = 26
+Strikeout
+Team 1 pitcher (Matias Rivera): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 9
+
+Billy Campbell: rng1 = 82 + 6 - 9 - 1 = 78
+rng2 = 23 + 9 - 10 - 1 = 21
+Single
+Team 2 pitcher (Legend Brooks): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Mario Guzman: rng1 = 48 + 7 - 9 - 1 = 45
+rng2 = 65 + 5 - 10 - 1 = 59
+Flyout
+Team 2 pitcher (Legend Brooks): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Leonardo Nunez: rng1 = 76 + 7 - 9 - 1 = 73
+rng2 = 79 + 5 - 10 - 1 = 73
+Double
+Team 2 pitcher (Legend Brooks): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: false, base2: [5,1], base3: false
+base1: false, base2: true, base3: false
+Score: 2-6
+
+Esteban Mendoza: rng1 = 68 + 6 - 9 - 1 = 64
+rng2 = 85 + 6 - 10 - 1 = 80
+Flyout
+Team 2 pitcher (Legend Brooks): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: [5,1], base3: false
+base1: false, base2: true, base3: false
+Score: 2-6
+
+Curtis McCormick: rng1 = 99 + 5 - 9 - 1 = 94
+rng2 = 79 + 6 - 10 - 1 = 74
+Double
+Team 2 pitcher (Legend Brooks): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 2
+
+base1: false, base2: [7,1], base3: false
+base1: false, base2: true, base3: false
+Score: 3-6
+
+Team 2 pitcher change to Jerry Taylor
+
+Eduardo Sandoval: rng1 = 47 + 4 - 5 - 1 = 45
+rng2 = 48 + 4 - 7 - 1 = 44
+Groundout
+Team 2 pitcher (Jerry Taylor): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-6
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 10
+Team 2 hits: 10
+Team 1 runs: 3
+Team 2 runs: 6
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-08-23
+Pedro Martinez	4	0	3	1	0	0	0	0	0					Anaheim
+Kyrie Anderson	4	0	0	0	0	0	1	0	2	
+Carter Walker	4	0	1	0	0	0	0	0	0	
+Billy Campbell	4	1	2	0	0	0	0	0	0	
+Mario Guzman	4	0	0	0	0	0	0	0	0	
+Leonardo Nunez	4	1	2	1	0	0	1	0	1	
+Esteban Mendoza	4	0	0	0	0	0	0	0	2	
+Curtis McCormick	4	1	2	1	0	0	1	0	1	
+Eduardo Sandoval	3	0	0	0	0	0	0	1	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Don Shaw	0	1	1	1	0	0	12	6	5	2	0	1	18	
+Tim Brooks	0	0	1	0	0	0	3	2	1	0	0	1	4	
+Larry Gibson	0	0	1	0	0	0	6	2	0	0	0	2	8	
+Matias Rivera	0	0	1	0	0	0	3	0	0	0	0	2	3	
+Terry Adams	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-08-23
+Antonio Santiago	4	1	2	1	0	0	0	0	1					Salem
+Jeon Jong-Ho	4	2	2	2	0	0	1	0	0	
+Sam Snyder	4	1	2	0	0	1	3	0	0	
+Gregory Cooper	4	0	0	0	0	0	0	0	1	
+Elijah Washington	4	0	1	0	0	0	0	0	1	
+Adam Rogers	4	1	1	1	0	0	0	0	1	
+Tomas Padilla	3	0	1	0	1	0	1	0	0	
+Jesse Henry	3	1	1	0	0	1	1	0	1	
+Felipe Mejia	3	0	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Luke Harvey	1	0	1	1	0	0	21	6	1	0	1	6	26	
+Legend Brooks	0	0	1	0	0	0	5	4	2	0	0	2	9	
+Jerry Taylor	0	0	1	0	0	0	1	0	0	0	0	0	1	
+Wayne Kelly	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Bryan Harris	0	0	0	0	0	0	0	0	0	0	0	0	0	

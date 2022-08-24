@@ -1,0 +1,747 @@
+TOP INNING 1
+
+George Nagle: rng1 = 16 + 15 - 9 - 1 = 21
+Strikeout
+Team 2 pitcher (Dylan Werth): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jason Burress: rng1 = 95 + 14 - 9 - 1 = 99
+rng2 = 64 + 10 - 8 - 1 = 65
+Double
+Team 2 pitcher (Dylan Werth): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Antonio Carrera: rng1 = 33 + 15 - 9 - 1 = 38
+rng2 = 51 + 7 - 8 - 1 = 49
+Lineout
+Team 2 pitcher (Dylan Werth): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Nathan Kaur: rng1 = 75 + 9 - 9 - 1 = 74
+rng2 = 74 + 6 - 8 - 1 = 71
+Double
+Team 2 pitcher (Dylan Werth): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Dante Arias: rng1 = 39 + 9 - 9 - 1 = 38
+rng2 = 92 + 5 - 8 - 1 = 88
+Flyout
+Team 2 pitcher (Dylan Werth): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Finnegan Maxwell: rng1 = 67 + 15 - 8 + 1 = 75
+rng2 = 3 + 14 - 7 + 1 = 11
+Single
+Team 1 pitcher (Zaiden Payne): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Angel Gutiérrez: rng1 = 33 + 15 - 8 + 1 = 41
+rng2 = 89 + 11 - 7 + 1 = 94
+Flyout
+Team 1 pitcher (Zaiden Payne): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Nick Hamburger: rng1 = 10 + 11 - 8 + 1 = 14
+rng2 = 87 + 12 - 7 + 1 = 93
+Flyout
+Team 1 pitcher (Zaiden Payne): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Ameer Jacobson: rng1 = 74 + 1 - 8 + 1 = 68
+rng2 = 21 + 11 - 7 + 1 = 26
+Groundout
+Team 1 pitcher (Zaiden Payne): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 2
+
+Noah Fontenot: rng1 = 15 + 8 - 9 - 1 = 13
+rng2 = 9 + 6 - 8 - 1 = 6
+Groundout
+Team 2 pitcher (Dylan Werth): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Charles Harris: rng1 = 7 + 8 - 9 - 1 = 5
+Strikeout
+Team 2 pitcher (Dylan Werth): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Bautista Saelices: rng1 = 11 + 7 - 9 - 1 = 8
+Strikeout
+Team 2 pitcher (Dylan Werth): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Jerome Goodwin: rng1 = 11 + 11 - 8 + 1 = 15
+rng2 = 42 + 9 - 7 + 1 = 45
+Groundout
+Team 1 pitcher (Zaiden Payne): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Emiliano Costa: rng1 = 77 + 10 - 8 + 1 = 80
+rng2 = 54 + 7 - 7 + 1 = 55
+Single
+Team 1 pitcher (Zaiden Payne): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Casey Myers-Morgan: rng1 = 10 + 8 - 8 + 1 = 11
+rng2 = 87 + 6 - 7 + 1 = 87
+Flyout
+Team 1 pitcher (Zaiden Payne): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Bailey Myers-Morgan: rng1 = 22 + 5 - 8 + 1 = 20
+Strikeout
+Team 1 pitcher (Zaiden Payne): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 3
+
+Albert Lang: rng1 = 62 + 6 - 9 - 1 = 58
+rng2 = 32 + 6 - 8 - 1 = 29
+Groundout
+Team 2 pitcher (Dylan Werth): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+George Nagle: rng1 = 62 + 15 - 9 - 1 = 67
+rng2 = 28 + 13 - 8 - 1 = 32
+Groundout
+Team 2 pitcher (Dylan Werth): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Jason Burress: rng1 = 19 + 14 - 9 - 1 = 23
+Strikeout
+Team 2 pitcher (Dylan Werth): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Francisco Illescas: rng1 = 34 + 7 - 8 + 1 = 34
+rng2 = 58 + 6 - 7 + 1 = 58
+Lineout
+Team 1 pitcher (Zaiden Payne): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Finnegan Maxwell: rng1 = 70 + 15 - 8 + 1 = 78
+rng2 = 53 + 14 - 7 + 1 = 61
+Single
+Team 1 pitcher (Zaiden Payne): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Angel Gutiérrez: rng1 = 48 + 15 - 8 + 1 = 56
+rng2 = 95 + 11 - 7 + 1 = 100
+Flyout
+Team 1 pitcher (Zaiden Payne): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Nick Hamburger: rng1 = 37 + 11 - 8 + 1 = 41
+rng2 = 7 + 12 - 7 + 1 = 13
+Groundout
+Team 1 pitcher (Zaiden Payne): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 4
+
+Antonio Carrera: rng1 = 54 + 15 - 9 - 1 = 59
+rng2 = 25 + 7 - 8 - 1 = 23
+Groundout
+Team 2 pitcher (Dylan Werth): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Nathan Kaur: rng1 = 52 + 9 - 9 - 1 = 51
+rng2 = 23 + 6 - 8 - 1 = 20
+Groundout
+Team 2 pitcher (Dylan Werth): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Dante Arias: rng1 = 57 + 9 - 9 - 1 = 56
+rng2 = 97 + 5 - 8 - 1 = 93
+Flyout
+Team 2 pitcher (Dylan Werth): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 4
+
+Ameer Jacobson: rng1 = 93 + 1 - 8 + 1 = 87
+Walk
+Team 1 pitcher (Zaiden Payne): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Jerome Goodwin: rng1 = 63 + 11 - 8 + 1 = 67
+rng2 = 94 + 9 - 7 + 1 = 97
+Flyout
+Team 1 pitcher (Zaiden Payne): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Emiliano Costa: rng1 = 89 + 10 - 8 + 1 = 92
+rng2 = 59 + 7 - 7 + 1 = 60
+Single
+Team 1 pitcher (Zaiden Payne): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 1
+
+base1: [5,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Casey Myers-Morgan: rng1 = 29 + 8 - 8 + 1 = 30
+rng2 = 5 + 6 - 7 + 1 = 5
+Groundout
+Team 1 pitcher (Zaiden Payne): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 2
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Bailey Myers-Morgan: rng1 = 27 + 5 - 8 + 1 = 25
+Strikeout
+Team 1 pitcher (Zaiden Payne): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 5
+
+Noah Fontenot: rng1 = 55 + 8 - 9 - 1 = 53
+rng2 = 17 + 6 - 8 - 1 = 14
+Groundout
+Team 2 pitcher (Dylan Werth): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Charles Harris: rng1 = 33 + 8 - 9 - 1 = 31
+rng2 = 6 + 6 - 8 - 1 = 3
+Groundout
+Team 2 pitcher (Dylan Werth): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Bautista Saelices: rng1 = 79 + 7 - 9 - 1 = 76
+rng2 = 44 + 6 - 8 - 1 = 41
+Single
+Team 2 pitcher (Dylan Werth): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Albert Lang: rng1 = 1 + 6 - 9 - 1 = -3
+Strikeout
+Team 2 pitcher (Dylan Werth): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 5
+
+Francisco Illescas: rng1 = 17 + 7 - 8 + 1 = 17
+Strikeout
+Team 1 pitcher (Zaiden Payne): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Finnegan Maxwell: rng1 = 100 + 15 - 8 + 1 = 108
+rng2 = 26 + 14 - 7 + 1 = 34
+Single
+Team 1 pitcher (Zaiden Payne): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Angel Gutiérrez: rng1 = 4 + 15 - 8 + 1 = 12
+rng2 = 21 + 11 - 7 + 1 = 26
+Groundout
+Team 1 pitcher (Zaiden Payne): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Nick Hamburger: rng1 = 17 + 11 - 8 + 1 = 21
+Strikeout
+Team 1 pitcher (Zaiden Payne): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 6
+
+George Nagle: rng1 = 76 + 15 - 9 - 1 = 81
+rng2 = 63 + 13 - 8 - 1 = 67
+Double
+Team 2 pitcher (Dylan Werth): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 0
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Jason Burress: rng1 = 24 + 14 - 9 - 1 = 28
+rng2 = 23 + 10 - 8 - 1 = 24
+Groundout
+Team 2 pitcher (Dylan Werth): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Antonio Carrera: rng1 = 12 + 15 - 9 - 1 = 17
+Strikeout
+Team 2 pitcher (Dylan Werth): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Nathan Kaur: rng1 = 33 + 9 - 9 - 1 = 32
+rng2 = 54 + 6 - 8 - 1 = 51
+Lineout
+Team 2 pitcher (Dylan Werth): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 6
+
+Ameer Jacobson: rng1 = 19 + 1 - 8 + 1 = 13
+rng2 = 20 + 11 - 7 + 1 = 25
+Groundout
+Team 1 pitcher (Zaiden Payne): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Jerome Goodwin: rng1 = 60 + 11 - 8 + 1 = 64
+rng2 = 10 + 9 - 7 + 1 = 13
+Groundout
+Team 1 pitcher (Zaiden Payne): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Emiliano Costa: rng1 = 15 + 10 - 8 + 1 = 18
+Strikeout
+Team 1 pitcher (Zaiden Payne): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 7
+
+Dante Arias: rng1 = 9 + 9 - 9 - 1 = 8
+Strikeout
+Team 2 pitcher (Dylan Werth): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Noah Fontenot: rng1 = 83 + 8 - 9 - 1 = 81
+rng2 = 23 + 6 - 8 - 1 = 20
+Single
+Team 2 pitcher (Dylan Werth): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Charles Harris: rng1 = 100 + 8 - 9 - 1 = 98
+rng2 = 31 + 6 - 8 - 1 = 28
+Single
+Team 2 pitcher (Dylan Werth): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 1
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 1-1
+
+Bautista Saelices: rng1 = 68 + 7 - 9 - 1 = 65
+rng2 = 98 + 6 - 8 - 1 = 95
+Flyout
+Team 2 pitcher (Dylan Werth): 26 batters faced, 2 runs allowed = 26 + 5.0 = 31.0, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Albert Lang: rng1 = 38 + 6 - 9 - 1 = 34
+rng2 = 44 + 6 - 8 - 1 = 41
+Groundout
+Team 2 pitcher (Dylan Werth): 27 batters faced, 2 runs allowed = 27 + 5.0 = 32.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+BOTTOM INNING 7
+
+Casey Myers-Morgan: rng1 = 46 + 8 - 8 + 1 = 47
+rng2 = 17 + 6 - 7 + 1 = 17
+Groundout
+Team 1 pitcher (Zaiden Payne): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Bailey Myers-Morgan: rng1 = 99 + 5 - 8 + 1 = 97
+rng2 = 51 + 9 - 7 + 1 = 54
+Single
+Team 1 pitcher (Zaiden Payne): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Francisco Illescas: rng1 = 83 + 7 - 8 + 1 = 83
+rng2 = 69 + 6 - 7 + 1 = 69
+Double
+Team 1 pitcher (Zaiden Payne): 27 batters faced, 1 runs allowed = 27 + 2.5 = 29.5, outs: 1
+
+base1: false, base2: [8,0], base3: [7,0]
+base1: false, base2: true, base3: true
+Score: 2-1
+
+Finnegan Maxwell: rng1 = 34 + 15 - 8 + 1 = 42
+rng2 = 43 + 14 - 7 + 1 = 51
+Lineout
+Team 1 pitcher (Zaiden Payne): 28 batters faced, 1 runs allowed = 28 + 2.5 = 30.5, outs: 2
+
+base1: false, base2: [8,0], base3: [7,0]
+base1: false, base2: true, base3: true
+Score: 2-1
+
+Angel Gutiérrez: rng1 = 7 + 15 - 8 + 1 = 15
+rng2 = 92 + 11 - 7 + 1 = 97
+Flyout
+Team 1 pitcher (Zaiden Payne): 29 batters faced, 1 runs allowed = 29 + 2.5 = 31.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Sergio Narvaez
+
+George Nagle: rng1 = 64 + 15 - 10 - 1 = 68
+rng2 = 75 + 13 - 10 - 1 = 77
+Flyout
+Team 2 pitcher (Sergio Narvaez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Jason Burress: rng1 = 5 + 14 - 10 - 1 = 8
+Strikeout
+Team 2 pitcher (Sergio Narvaez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Antonio Carrera: rng1 = 48 + 15 - 10 - 1 = 52
+rng2 = 93 + 7 - 10 - 1 = 89
+Flyout
+Team 2 pitcher (Sergio Narvaez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Jacob Wallace
+
+Nick Hamburger: rng1 = 80 + 11 - 10 + 1 = 82
+rng2 = 38 + 12 - 9 + 1 = 42
+Single
+Team 1 pitcher (Jacob Wallace): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Ameer Jacobson: rng1 = 97 + 1 - 10 + 1 = 89
+Walk
+Team 1 pitcher (Jacob Wallace): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [3,1], base2: [2,1], base3: false
+base1: true, base2: true, base3: false
+Score: 2-1
+
+Jerome Goodwin: rng1 = 21 + 11 - 10 + 1 = 23
+Strikeout
+Team 1 pitcher (Jacob Wallace): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [3,1], base2: [2,1], base3: false
+base1: true, base2: true, base3: false
+Score: 2-1
+
+Emiliano Costa: rng1 = 73 + 10 - 10 + 1 = 74
+rng2 = 60 + 7 - 9 + 1 = 59
+Single
+Team 1 pitcher (Jacob Wallace): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [5,1], base2: false, base3: [3,1]
+base1: true, base2: false, base3: true
+Score: 2-2
+
+Casey Myers-Morgan: rng1 = 5 + 8 - 10 + 1 = 4
+Strikeout
+Team 1 pitcher (Jacob Wallace): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [5,1], base2: false, base3: [3,1]
+base1: true, base2: false, base3: true
+Score: 2-2
+
+Bailey Myers-Morgan: rng1 = 5 + 5 - 10 + 1 = 1
+Strikeout
+Team 1 pitcher (Jacob Wallace): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+TOP INNING 9
+
+Nathan Kaur: rng1 = 89 + 9 - 10 - 1 = 87
+Walk
+Team 2 pitcher (Sergio Narvaez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Dante Arias: rng1 = 54 + 9 - 10 - 1 = 52
+rng2 = 85 + 5 - 10 - 1 = 79
+Flyout
+Team 2 pitcher (Sergio Narvaez): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Noah Fontenot: rng1 = 76 + 8 - 10 - 1 = 73
+rng2 = 9 + 6 - 10 - 1 = 4
+Single
+Team 2 pitcher (Sergio Narvaez): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,1], base2: false, base3: [3,1]
+base1: true, base2: false, base3: true
+Score: 2-2
+
+Charles Harris: rng1 = 5 + 8 - 10 - 1 = 2
+Strikeout
+Team 2 pitcher (Sergio Narvaez): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [5,1], base2: false, base3: [3,1]
+base1: true, base2: false, base3: true
+Score: 2-2
+
+Bautista Saelices: rng1 = 88 + 7 - 10 - 1 = 84
+rng2 = 42 + 6 - 10 - 1 = 37
+Single
+Team 2 pitcher (Sergio Narvaez): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [7,1], base2: false, base3: [5,1]
+base1: true, base2: false, base3: true
+Score: 3-2
+
+Albert Lang: rng1 = 41 + 6 - 10 - 1 = 36
+rng2 = 33 + 6 - 10 - 1 = 28
+Groundout
+Team 2 pitcher (Sergio Narvaez): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Macos Alguacil
+
+Francisco Illescas: rng1 = 33 + 7 - 13 + 1 = 28
+rng2 = 30 + 6 - 11 + 1 = 26
+Groundout
+Team 1 pitcher (Macos Alguacil): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Finnegan Maxwell: rng1 = 55 + 15 - 13 + 1 = 58
+rng2 = 99 + 14 - 11 + 1 = 103
+Flyout
+Team 1 pitcher (Macos Alguacil): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Angel Gutiérrez: rng1 = 54 + 15 - 13 + 1 = 57
+rng2 = 39 + 11 - 11 + 1 = 40
+Groundout
+Team 1 pitcher (Macos Alguacil): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 8
+Team 2 hits: 9
+Team 1 runs: 3
+Team 2 runs: 2
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-08-24
+George Nagle	4	0	1	1	0	0	0	0	1					Las Vegas
+Jason Burress	4	1	1	1	0	0	0	0	2	
+Antonio Carrera	4	0	0	0	0	0	0	0	1	
+Nathan Kaur	3	1	1	1	0	0	1	1	0	
+Dante Arias	4	0	0	0	0	0	0	0	1	
+Noah Fontenot	4	1	2	0	0	0	0	0	0	
+Charles Harris	4	0	1	0	0	0	0	0	2	
+Bautista Saelices	4	0	2	0	0	0	2	0	1	
+Albert Lang	4	0	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Zaiden Payne	0	0	1	1	0	0	21	7	1	0	1	5	29	
+Jacob Wallace	1	0	1	0	0	0	3	2	1	0	1	3	6	
+Taylor Murphy	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Phil Segee	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Macos Alguacil	0	0	1	0	1	1	3	0	0	0	0	0	3	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-08-24
+Finnegan Maxwell	5	0	3	0	0	0	0	0	0					Dallas
+Angel Gutiérrez	5	0	0	0	0	0	0	0	0	
+Nick Hamburger	4	1	1	0	0	0	0	0	1	
+Ameer Jacobson	2	1	0	0	0	0	0	2	0	
+Jerome Goodwin	4	0	0	0	0	0	0	0	1	
+Emiliano Costa	4	0	3	0	0	0	1	0	1	
+Casey Myers-Morgan	4	0	0	0	0	0	1	0	1	
+Bailey Myers-Morgan	4	0	1	0	0	0	0	0	3	
+Francisco Illescas	4	0	1	1	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Dylan Werth	0	0	1	1	0	0	21	6	2	0	0	7	27	
+Sergio Narvaez	0	1	1	0	0	0	6	2	1	0	1	2	9	
+Ezequiel Santangelo	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Douglas Bosak	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Seno Mashiro	0	0	0	0	0	0	0	0	0	0	0	0	0	

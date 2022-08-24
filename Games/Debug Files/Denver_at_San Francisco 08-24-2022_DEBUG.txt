@@ -1,0 +1,796 @@
+TOP INNING 1
+
+Guillermo Tamayo: rng1 = 96 + 15 - 10 - 1 = 100
+rng2 = 31 + 13 - 11 - 1 = 32
+Single
+Team 2 pitcher (Leo Brantley): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Alfredo Encarnacion: rng1 = 81 + 11 - 10 - 1 = 81
+rng2 = 56 + 11 - 11 - 1 = 55
+Single
+Team 2 pitcher (Leo Brantley): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Micah Zamora: rng1 = 68 + 9 - 10 - 1 = 66
+rng2 = 100 + 9 - 11 - 1 = 97
+Flyout
+Team 2 pitcher (Leo Brantley): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Sean Stevens: rng1 = 90 + 7 - 10 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Leo Brantley): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [3,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Felix Alarcón: rng1 = 52 + 10 - 10 - 1 = 51
+rng2 = 98 + 7 - 11 - 1 = 93
+Flyout
+Team 2 pitcher (Leo Brantley): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [3,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Hiro Hakayawa: rng1 = 1 + 9 - 10 - 1 = -1
+Strikeout
+Team 2 pitcher (Leo Brantley): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+John Gibson: rng1 = 35 + 15 - 7 + 1 = 44
+rng2 = 93 + 15 - 5 + 1 = 104
+Flyout
+Team 1 pitcher (Valentín Sánchez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Isaías Juderías: rng1 = 39 + 11 - 7 + 1 = 44
+rng2 = 8 + 9 - 5 + 1 = 13
+Groundout
+Team 1 pitcher (Valentín Sánchez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Adrián Noboa: rng1 = 98 + 10 - 7 + 1 = 102
+rng2 = 56 + 10 - 5 + 1 = 62
+Single
+Team 1 pitcher (Valentín Sánchez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Adalberto Smith: rng1 = 35 + 7 - 7 + 1 = 36
+rng2 = 10 + 8 - 5 + 1 = 14
+Groundout
+Team 1 pitcher (Valentín Sánchez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 2
+
+Zyrell Ford: rng1 = 45 + 8 - 10 - 1 = 42
+rng2 = 17 + 6 - 11 - 1 = 11
+Groundout
+Team 2 pitcher (Leo Brantley): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Juan-Martín Sáenz: rng1 = 16 + 5 - 10 - 1 = 10
+Strikeout
+Team 2 pitcher (Leo Brantley): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Terryl Maxwell: rng1 = 87 + 4 - 10 - 1 = 80
+rng2 = 8 + 8 - 11 - 1 = 4
+Single
+Team 2 pitcher (Leo Brantley): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Guillermo Tamayo: rng1 = 39 + 15 - 10 - 1 = 43
+rng2 = 85 + 13 - 11 - 1 = 86
+Flyout
+Team 2 pitcher (Leo Brantley): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Sean Lee: rng1 = 72 + 10 - 7 + 1 = 76
+rng2 = 69 + 7 - 5 + 1 = 72
+Double
+Team 1 pitcher (Valentín Sánchez): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Efraim Agramonte: rng1 = 2 + 9 - 7 + 1 = 5
+Strikeout
+Team 1 pitcher (Valentín Sánchez): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Jaz Eaton: rng1 = 86 + 8 - 7 + 1 = 88
+Walk
+Team 1 pitcher (Valentín Sánchez): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [6,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Joshua Cooper: rng1 = 42 + 7 - 7 + 1 = 43
+rng2 = 34 + 5 - 5 + 1 = 35
+Groundout
+Team 1 pitcher (Valentín Sánchez): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 3
+
+Alfredo Encarnacion: rng1 = 51 + 11 - 10 - 1 = 51
+rng2 = 60 + 11 - 11 - 1 = 59
+Flyout
+Team 2 pitcher (Leo Brantley): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Micah Zamora: rng1 = 54 + 9 - 10 - 1 = 52
+rng2 = 64 + 9 - 11 - 1 = 61
+Flyout
+Team 2 pitcher (Leo Brantley): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Sean Stevens: rng1 = 42 + 7 - 10 - 1 = 38
+rng2 = 32 + 10 - 11 - 1 = 30
+Groundout
+Team 2 pitcher (Leo Brantley): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Katagiri Seibei: rng1 = 51 + 8 - 7 + 1 = 53
+rng2 = 45 + 3 - 5 + 1 = 44
+Groundout
+Team 1 pitcher (Valentín Sánchez): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+John Gibson: rng1 = 9 + 15 - 7 + 1 = 18
+Strikeout
+Team 1 pitcher (Valentín Sánchez): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Isaías Juderías: rng1 = 87 + 11 - 7 + 1 = 92
+rng2 = 71 + 9 - 5 + 1 = 76
+Double
+Team 1 pitcher (Valentín Sánchez): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Adrián Noboa: rng1 = 43 + 10 - 7 + 1 = 47
+rng2 = 87 + 10 - 5 + 1 = 93
+Flyout
+Team 1 pitcher (Valentín Sánchez): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 4
+
+Felix Alarcón: rng1 = 84 + 10 - 10 - 1 = 83
+rng2 = 58 + 7 - 11 - 1 = 53
+Single
+Team 2 pitcher (Leo Brantley): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Hiro Hakayawa: rng1 = 39 + 9 - 10 - 1 = 37
+rng2 = 18 + 7 - 11 - 1 = 13
+Groundout
+Team 2 pitcher (Leo Brantley): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 1
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Zyrell Ford: rng1 = 92 + 8 - 10 - 1 = 89
+Walk
+Team 2 pitcher (Leo Brantley): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 1
+
+base1: [6,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Juan-Martín Sáenz: rng1 = 53 + 5 - 10 - 1 = 47
+rng2 = 70 + 9 - 11 - 1 = 67
+Flyout
+Team 2 pitcher (Leo Brantley): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 2
+
+base1: [6,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Terryl Maxwell: rng1 = 41 + 4 - 10 - 1 = 34
+rng2 = 95 + 8 - 11 - 1 = 91
+Flyout
+Team 2 pitcher (Leo Brantley): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 4
+
+Adalberto Smith: rng1 = 23 + 7 - 7 + 1 = 24
+Strikeout
+Team 1 pitcher (Valentín Sánchez): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Sean Lee: rng1 = 26 + 10 - 7 + 1 = 30
+rng2 = 9 + 7 - 5 + 1 = 12
+Groundout
+Team 1 pitcher (Valentín Sánchez): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Efraim Agramonte: rng1 = 46 + 9 - 7 + 1 = 49
+rng2 = 55 + 6 - 5 + 1 = 57
+Lineout
+Team 1 pitcher (Valentín Sánchez): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 5
+
+Guillermo Tamayo: rng1 = 43 + 15 - 10 - 1 = 47
+rng2 = 89 + 13 - 11 - 1 = 90
+Flyout
+Team 2 pitcher (Leo Brantley): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Alfredo Encarnacion: rng1 = 16 + 11 - 10 - 1 = 16
+Strikeout
+Team 2 pitcher (Leo Brantley): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Micah Zamora: rng1 = 3 + 9 - 10 - 1 = 1
+Strikeout
+Team 2 pitcher (Leo Brantley): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 5
+
+Jaz Eaton: rng1 = 85 + 8 - 7 + 1 = 87
+Walk
+Team 1 pitcher (Valentín Sánchez): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Joshua Cooper: rng1 = 72 + 7 - 7 + 1 = 73
+rng2 = 24 + 5 - 5 + 1 = 25
+Single
+Team 1 pitcher (Valentín Sánchez): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 0
+
+base1: [7,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Katagiri Seibei: rng1 = 31 + 8 - 7 + 1 = 33
+rng2 = 69 + 3 - 5 + 1 = 68
+Flyout
+Team 1 pitcher (Valentín Sánchez): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 1
+
+base1: [7,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+John Gibson: rng1 = 75 + 15 - 7 + 1 = 84
+rng2 = 76 + 15 - 5 + 1 = 87
+Double
+Team 1 pitcher (Valentín Sánchez): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-2
+
+Isaías Juderías: rng1 = 87 + 11 - 7 + 1 = 92
+rng2 = 4 + 9 - 5 + 1 = 9
+Single
+Team 1 pitcher (Valentín Sánchez): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Adrián Noboa: rng1 = 96 + 10 - 7 + 1 = 100
+rng2 = 86 + 10 - 5 + 1 = 92
+Double
+Team 1 pitcher (Valentín Sánchez): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 1
+
+base1: false, base2: [2,0], base3: [1,0]
+base1: false, base2: true, base3: true
+Score: 1-3
+
+Adalberto Smith: rng1 = 65 + 7 - 7 + 1 = 66
+rng2 = 5 + 8 - 5 + 1 = 9
+Groundout
+Team 1 pitcher (Valentín Sánchez): 22 batters faced, 4 runs allowed = 22 + 10.0 = 32.0, outs: 2
+
+base1: false, base2: false, base3: [2,0]
+base1: false, base2: false, base3: true
+Score: 1-4
+
+Sean Lee: rng1 = 59 + 10 - 7 + 1 = 63
+rng2 = 6 + 7 - 5 + 1 = 9
+Groundout
+Team 1 pitcher (Valentín Sánchez): 23 batters faced, 4 runs allowed = 23 + 10.0 = 33.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+TOP INNING 6
+
+Sean Stevens: rng1 = 78 + 7 - 10 - 1 = 74
+rng2 = 94 + 10 - 11 - 1 = 92
+Double
+Team 2 pitcher (Leo Brantley): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 0
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-4
+
+Felix Alarcón: rng1 = 45 + 10 - 10 - 1 = 44
+rng2 = 25 + 7 - 11 - 1 = 20
+Groundout
+Team 2 pitcher (Leo Brantley): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 1
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-4
+
+Hiro Hakayawa: rng1 = 24 + 9 - 10 - 1 = 22
+Strikeout
+Team 2 pitcher (Leo Brantley): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 2
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-4
+
+Zyrell Ford: rng1 = 6 + 8 - 10 - 1 = 3
+Strikeout
+Team 2 pitcher (Leo Brantley): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Amante Harvey
+
+Efraim Agramonte: rng1 = 90 + 9 - 10 + 1 = 90
+Walk
+Team 1 pitcher (Amante Harvey): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Jaz Eaton: rng1 = 98 + 8 - 10 + 1 = 97
+rng2 = 94 + 4 - 8 + 1 = 91
+Double
+Team 1 pitcher (Amante Harvey): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: false, base2: [6,1], base3: [5,1]
+base1: false, base2: true, base3: true
+Score: 1-4
+
+Joshua Cooper: rng1 = 44 + 7 - 10 + 1 = 42
+rng2 = 53 + 5 - 8 + 1 = 51
+Lineout
+Team 1 pitcher (Amante Harvey): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: [6,1], base3: [5,1]
+base1: false, base2: true, base3: true
+Score: 1-4
+
+Katagiri Seibei: rng1 = 82 + 8 - 10 + 1 = 81
+rng2 = 85 + 3 - 8 + 1 = 81
+Home run
+Team 1 pitcher (Amante Harvey): 4 batters faced, 3 runs allowed = 4 + 7.5 = 11.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-7
+
+John Gibson: rng1 = 79 + 15 - 10 + 1 = 85
+rng2 = 69 + 15 - 8 + 1 = 77
+Double
+Team 1 pitcher (Amante Harvey): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 1
+
+base1: false, base2: [0,1], base3: false
+base1: false, base2: true, base3: false
+Score: 1-7
+
+Isaías Juderías: rng1 = 51 + 11 - 10 + 1 = 53
+rng2 = 77 + 9 - 8 + 1 = 79
+Flyout
+Team 1 pitcher (Amante Harvey): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: false, base2: [0,1], base3: false
+base1: false, base2: true, base3: false
+Score: 1-7
+
+Team 1 pitcher change to Reuben Simmons
+
+Adrián Noboa: rng1 = 37 + 10 - 7 + 1 = 41
+rng2 = 49 + 10 - 10 + 1 = 50
+Lineout
+Team 1 pitcher (Reuben Simmons): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-7
+
+-----------------------
+
+TOP INNING 7
+
+Juan-Martín Sáenz: rng1 = 19 + 5 - 10 - 1 = 13
+rng2 = 55 + 9 - 11 - 1 = 52
+Lineout
+Team 2 pitcher (Leo Brantley): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-7
+
+Terryl Maxwell: rng1 = 85 + 4 - 10 - 1 = 78
+rng2 = 74 + 8 - 11 - 1 = 70
+Double
+Team 2 pitcher (Leo Brantley): 27 batters faced, 1 runs allowed = 27 + 2.5 = 29.5, outs: 1
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-7
+
+Guillermo Tamayo: rng1 = 15 + 15 - 10 - 1 = 19
+Strikeout
+Team 2 pitcher (Leo Brantley): 28 batters faced, 1 runs allowed = 28 + 2.5 = 30.5, outs: 2
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-7
+
+Alfredo Encarnacion: rng1 = 9 + 11 - 10 - 1 = 9
+Strikeout
+Team 2 pitcher (Leo Brantley): 29 batters faced, 1 runs allowed = 29 + 2.5 = 31.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-7
+
+-----------------------
+
+BOTTOM INNING 7
+
+Adalberto Smith: rng1 = 7 + 7 - 7 + 1 = 8
+Strikeout
+Team 1 pitcher (Reuben Simmons): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-7
+
+Sean Lee: rng1 = 27 + 10 - 7 + 1 = 31
+rng2 = 95 + 7 - 10 + 1 = 93
+Flyout
+Team 1 pitcher (Reuben Simmons): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-7
+
+Efraim Agramonte: rng1 = 81 + 9 - 7 + 1 = 84
+rng2 = 40 + 6 - 10 + 1 = 37
+Single
+Team 1 pitcher (Reuben Simmons): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-7
+
+Jaz Eaton: rng1 = 81 + 8 - 7 + 1 = 83
+rng2 = 89 + 4 - 10 + 1 = 84
+Home run
+Team 1 pitcher (Reuben Simmons): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-9
+
+Joshua Cooper: rng1 = 85 + 7 - 7 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Reuben Simmons): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-9
+
+Katagiri Seibei: rng1 = 3 + 8 - 7 + 1 = 5
+Strikeout
+Team 1 pitcher (Reuben Simmons): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-9
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Julio Carrera
+
+Micah Zamora: rng1 = 4 + 9 - 6 - 1 = 6
+Strikeout
+Team 2 pitcher (Julio Carrera): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-9
+
+Sean Stevens: rng1 = 5 + 7 - 6 - 1 = 5
+Strikeout
+Team 2 pitcher (Julio Carrera): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-9
+
+Felix Alarcón: rng1 = 91 + 10 - 6 - 1 = 94
+rng2 = 94 + 7 - 7 - 1 = 93
+Triple
+Team 2 pitcher (Julio Carrera): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: [4,1]
+base1: false, base2: false, base3: true
+Score: 1-9
+
+Hiro Hakayawa: rng1 = 28 + 9 - 6 - 1 = 30
+rng2 = 92 + 7 - 7 - 1 = 91
+Flyout
+Team 2 pitcher (Julio Carrera): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-9
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Lautaro Lain
+
+John Gibson: rng1 = 67 + 15 - 9 + 1 = 74
+rng2 = 34 + 15 - 4 + 1 = 46
+Single
+Team 1 pitcher (Lautaro Lain): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-9
+
+Isaías Juderías: rng1 = 7 + 11 - 9 + 1 = 10
+Strikeout
+Team 1 pitcher (Lautaro Lain): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-9
+
+Adrián Noboa: rng1 = 75 + 10 - 9 + 1 = 77
+rng2 = 29 + 10 - 4 + 1 = 36
+Single
+Team 1 pitcher (Lautaro Lain): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,3], base2: [0,3], base3: false
+base1: true, base2: true, base3: false
+Score: 1-9
+
+Adalberto Smith: rng1 = 55 + 7 - 9 + 1 = 54
+rng2 = 33 + 8 - 4 + 1 = 38
+Groundout
+Team 1 pitcher (Lautaro Lain): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: [2,3], base3: [0,3]
+base1: false, base2: true, base3: true
+Score: 1-9
+
+Sean Lee: rng1 = 4 + 10 - 9 + 1 = 6
+Strikeout
+Team 1 pitcher (Lautaro Lain): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-9
+
+-----------------------
+
+TOP INNING 9
+
+Zyrell Ford: rng1 = 9 + 8 - 6 - 1 = 10
+Strikeout
+Team 2 pitcher (Julio Carrera): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-9
+
+Juan-Martín Sáenz: rng1 = 2 + 5 - 6 - 1 = 0
+Strikeout
+Team 2 pitcher (Julio Carrera): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-9
+
+Terryl Maxwell: rng1 = 72 + 4 - 6 - 1 = 69
+Walk
+Team 2 pitcher (Julio Carrera): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-9
+
+Guillermo Tamayo: rng1 = 94 + 15 - 6 - 1 = 102
+rng2 = 23 + 13 - 7 - 1 = 28
+Single
+Team 2 pitcher (Julio Carrera): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [0,1], base2: false, base3: [8,1]
+base1: true, base2: false, base3: true
+Score: 1-9
+
+Alfredo Encarnacion: rng1 = 74 + 11 - 6 - 1 = 78
+rng2 = 51 + 11 - 7 - 1 = 54
+Single
+Team 2 pitcher (Julio Carrera): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [1,1], base2: false, base3: [0,1]
+base1: true, base2: false, base3: true
+Score: 2-9
+
+Team 2 pitcher change to Kirk Johns
+
+Micah Zamora: rng1 = 52 + 9 - 9 - 1 = 51
+rng2 = 56 + 9 - 8 - 1 = 56
+Lineout
+Team 2 pitcher (Kirk Johns): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-9
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 9
+Team 2 hits: 14
+Team 1 runs: 2
+Team 2 runs: 9
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-08-24
+Guillermo Tamayo	5	1	2	0	0	0	0	0	1					Denver
+Alfredo Encarnacion	5	0	2	0	0	0	1	0	2	
+Micah Zamora	5	0	0	0	0	0	1	0	2	
+Sean Stevens	3	0	1	1	0	0	0	0	1	
+Felix Alarcón	4	0	2	0	1	0	0	0	0	
+Hiro Hakayawa	4	0	0	0	0	0	0	0	2	
+Zyrell Ford	3	0	0	0	0	0	0	1	2	
+Juan-Martín Sáenz	4	0	0	0	0	0	0	0	2	
+Terryl Maxwell	3	1	2	1	0	0	0	1	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Valentín Sánchez	0	1	1	1	0	0	15	7	4	0	2	3	23	
+Amante Harvey	0	0	1	0	0	0	2	3	3	1	1	0	6	
+Reuben Simmons	0	0	1	0	0	0	4	2	2	1	0	2	7	
+Lautaro Lain	0	0	1	0	0	0	3	2	0	0	0	2	5	
+Marquis Haynes	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-08-24
+John Gibson	5	1	3	2	0	0	2	0	1					San Francisco
+Isaías Juderías	5	1	2	1	0	0	1	0	1	
+Adrián Noboa	5	0	3	1	0	0	0	0	0	
+Adalberto Smith	5	0	0	0	0	0	1	0	2	
+Sean Lee	5	0	1	1	0	0	0	0	1	
+Efraim Agramonte	3	2	1	0	0	0	0	1	1	
+Jaz Eaton	2	3	2	1	0	1	2	2	0	
+Joshua Cooper	3	1	1	0	0	0	0	0	0	
+Katagiri Seibei	4	1	1	0	0	1	3	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Leo Brantley	1	0	1	1	0	0	21	6	1	0	1	8	29	
+Julio Carrera	0	0	1	0	0	0	5	3	1	0	1	4	9	
+Kirk Johns	0	0	1	0	0	0	1	0	0	0	0	0	1	
+Grover Bercher	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Ghalen Fisher	0	0	0	0	0	0	0	0	0	0	0	0	0	

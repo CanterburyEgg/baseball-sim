@@ -2749,43 +2749,43 @@ public class GameGenerator
 					pitchswapB = false;
 					pitchswapD = false;
 				}
-			}
-			
-			if (inning == 19 && p2index == 4 && outs == 0 && pitchers2[4][7] > 0)
-			{
-				if (pitchers2[1][2] == 0)
+				
+				if (inning == 19 && p2index == 4)
 				{
-					p2index = 1;
-					FullPrintLine("Team 2 pitcher change to " + team2pitchers[p2index] + "\n");
+					if (pitchers2[1][2] == 0)
+					{
+						p2index = 1;
+						FullPrintLine("Team 2 pitcher change to " + team2pitchers[p2index] + "\n");
+					}
+					else if (pitchers2[2][2] == 0)
+					{
+						p2index = 2;
+						FullPrintLine("Team 2 pitcher change to " + team2pitchers[p2index] + "\n");
+					}
+					else if (pitchers2[3][2] == 0)
+					{
+						p2index = 3;
+						FullPrintLine("Team 2 pitcher change to " + team2pitchers[p2index] + "\n");
+					}
 				}
-				else if (pitchers2[2][2] == 0)
+
+				if (inning == 20 && p1index == 4)
 				{
-					p2index = 2;
-					FullPrintLine("Team 2 pitcher change to " + team2pitchers[p2index] + "\n");
-				}
-				else if (pitchers2[3][2] == 0)
-				{
-					p2index = 3;
-					FullPrintLine("Team 2 pitcher change to " + team2pitchers[p2index] + "\n");
-				}
-			}
-			
-			if (inning == 20 && p1index == 4 && outs == 0 && pitchers1[4][7] > 0)
-			{
-				if (pitchers1[1][2] == 0)
-				{
-					p1index = 1;
-					FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
-				}
-				else if (pitchers1[2][2] == 0)
-				{
-					p1index = 2;
-					FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
-				}
-				else if (pitchers1[3][2] == 0)
-				{
-					p1index = 3;
-					FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
+					if (pitchers1[1][2] == 0)
+					{
+						p1index = 1;
+						FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
+					}
+					else if (pitchers1[2][2] == 0)
+					{
+						p1index = 2;
+						FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
+					}
+					else if (pitchers1[3][2] == 0)
+					{
+						p1index = 3;
+						FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
+					}
 				}
 			}
 			

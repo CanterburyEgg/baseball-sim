@@ -1,0 +1,808 @@
+TOP INNING 1
+
+Jaquon Lyons: rng1 = 80 + 13 - 8 - 1 = 84
+rng2 = 76 + 10 - 4 - 1 = 81
+Home run
+Team 2 pitcher (Raul Cespedes): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Tomas Canto: rng1 = 7 + 10 - 8 - 1 = 8
+Strikeout
+Team 2 pitcher (Raul Cespedes): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Konner Knight: rng1 = 13 + 11 - 8 - 1 = 15
+rng2 = 7 + 7 - 4 - 1 = 9
+Groundout
+Team 2 pitcher (Raul Cespedes): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Edwin Garcia: rng1 = 11 + 7 - 8 - 1 = 9
+Strikeout
+Team 2 pitcher (Raul Cespedes): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Edward Lowe: rng1 = 46 + 13 - 9 + 1 = 51
+rng2 = 55 + 14 - 8 + 1 = 62
+Flyout
+Team 1 pitcher (Aaron Parry): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Leonardo Pinto: rng1 = 92 + 11 - 9 + 1 = 95
+rng2 = 24 + 8 - 8 + 1 = 25
+Single
+Team 1 pitcher (Aaron Parry): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Nakazawa Shinji: rng1 = 94 + 9 - 9 + 1 = 95
+rng2 = 22 + 10 - 8 + 1 = 25
+Single
+Team 1 pitcher (Aaron Parry): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Kevin Taylor: rng1 = 52 + 8 - 9 + 1 = 52
+rng2 = 36 + 10 - 8 + 1 = 39
+Groundout
+Team 1 pitcher (Aaron Parry): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [3,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Leroy Powell: rng1 = 64 + 9 - 9 + 1 = 65
+rng2 = 91 + 9 - 8 + 1 = 93
+Flyout
+Team 1 pitcher (Aaron Parry): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 2
+
+Keli Alohilani: rng1 = 70 + 9 - 8 - 1 = 70
+Walk
+Team 2 pitcher (Raul Cespedes): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Chaquille Barnett: rng1 = 95 + 6 - 8 - 1 = 92
+rng2 = 63 + 7 - 4 - 1 = 65
+Double
+Team 2 pitcher (Raul Cespedes): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 0
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-0
+
+Trent Cline: rng1 = 63 + 5 - 8 - 1 = 59
+rng2 = 97 + 8 - 4 - 1 = 100
+Flyout
+Team 2 pitcher (Raul Cespedes): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 1
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-0
+
+Aaron Pearce: rng1 = 91 + 5 - 8 - 1 = 87
+Walk
+Team 2 pitcher (Raul Cespedes): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 1
+
+base1: [7,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-0
+
+Liam Fleming: rng1 = 78 + 5 - 8 - 1 = 74
+rng2 = 71 + 7 - 4 - 1 = 73
+Double
+Team 2 pitcher (Raul Cespedes): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 1
+
+base1: false, base2: [8,0], base3: [7,0]
+base1: false, base2: true, base3: true
+Score: 3-0
+
+Jaquon Lyons: rng1 = 36 + 13 - 8 - 1 = 40
+rng2 = 50 + 10 - 4 - 1 = 55
+Lineout
+Team 2 pitcher (Raul Cespedes): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 2
+
+base1: false, base2: [8,0], base3: [7,0]
+base1: false, base2: true, base3: true
+Score: 3-0
+
+Tomas Canto: rng1 = 69 + 10 - 8 - 1 = 70
+Walk
+Team 2 pitcher (Raul Cespedes): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 2
+
+base1: [1,0], base2: [8,0], base3: [7,0]
+base1: true, base2: true, base3: true
+Score: 3-0
+
+Konner Knight: rng1 = 68 + 11 - 8 - 1 = 70
+Walk
+Team 2 pitcher (Raul Cespedes): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 2
+
+base1: [2,0], base2: [1,0], base3: [8,0]
+base1: true, base2: true, base3: true
+Score: 4-0
+
+Edwin Garcia: rng1 = 67 + 7 - 8 - 1 = 65
+rng2 = 50 + 8 - 4 - 1 = 53
+Lineout
+Team 2 pitcher (Raul Cespedes): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Alejandro López: rng1 = 39 + 5 - 9 + 1 = 36
+rng2 = 29 + 8 - 8 + 1 = 30
+Groundout
+Team 1 pitcher (Aaron Parry): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Jaiden Fortner: rng1 = 78 + 5 - 9 + 1 = 75
+rng2 = 35 + 7 - 8 + 1 = 35
+Single
+Team 1 pitcher (Aaron Parry): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Demarcus Warner: rng1 = 5 + 5 - 9 + 1 = 2
+Strikeout
+Team 1 pitcher (Aaron Parry): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Estefania Espina: rng1 = 21 + 6 - 9 + 1 = 19
+Strikeout
+Team 1 pitcher (Aaron Parry): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+TOP INNING 3
+
+Keli Alohilani: rng1 = 7 + 9 - 8 - 1 = 7
+Strikeout
+Team 2 pitcher (Raul Cespedes): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Chaquille Barnett: rng1 = 49 + 6 - 8 - 1 = 46
+rng2 = 85 + 7 - 4 - 1 = 87
+Flyout
+Team 2 pitcher (Raul Cespedes): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Trent Cline: rng1 = 82 + 5 - 8 - 1 = 78
+rng2 = 71 + 8 - 4 - 1 = 74
+Double
+Team 2 pitcher (Raul Cespedes): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 2
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-0
+
+Aaron Pearce: rng1 = 2 + 5 - 8 - 1 = -2
+Strikeout
+Team 2 pitcher (Raul Cespedes): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Edward Lowe: rng1 = 35 + 13 - 9 + 1 = 40
+rng2 = 89 + 14 - 8 + 1 = 96
+Flyout
+Team 1 pitcher (Aaron Parry): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Leonardo Pinto: rng1 = 55 + 11 - 9 + 1 = 58
+rng2 = 17 + 8 - 8 + 1 = 18
+Groundout
+Team 1 pitcher (Aaron Parry): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Nakazawa Shinji: rng1 = 91 + 9 - 9 + 1 = 92
+rng2 = 10 + 10 - 8 + 1 = 13
+Single
+Team 1 pitcher (Aaron Parry): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Kevin Taylor: rng1 = 93 + 8 - 9 + 1 = 93
+rng2 = 27 + 10 - 8 + 1 = 30
+Single
+Team 1 pitcher (Aaron Parry): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 2
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 4-0
+
+Leroy Powell: rng1 = 10 + 9 - 9 + 1 = 11
+rng2 = 23 + 9 - 8 + 1 = 25
+Groundout
+Team 1 pitcher (Aaron Parry): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+TOP INNING 4
+
+Liam Fleming: rng1 = 41 + 5 - 8 - 1 = 37
+rng2 = 96 + 7 - 4 - 1 = 98
+Flyout
+Team 2 pitcher (Raul Cespedes): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Jaquon Lyons: rng1 = 73 + 13 - 8 - 1 = 77
+rng2 = 4 + 10 - 4 - 1 = 9
+Single
+Team 2 pitcher (Raul Cespedes): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Tomas Canto: rng1 = 39 + 10 - 8 - 1 = 40
+rng2 = 93 + 10 - 4 - 1 = 98
+Flyout
+Team 2 pitcher (Raul Cespedes): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Konner Knight: rng1 = 56 + 11 - 8 - 1 = 58
+rng2 = 34 + 7 - 4 - 1 = 36
+Groundout
+Team 2 pitcher (Raul Cespedes): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+BOTTOM INNING 4
+
+Alejandro López: rng1 = 46 + 5 - 9 + 1 = 43
+rng2 = 54 + 8 - 8 + 1 = 55
+Lineout
+Team 1 pitcher (Aaron Parry): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Jaiden Fortner: rng1 = 78 + 5 - 9 + 1 = 75
+rng2 = 96 + 7 - 8 + 1 = 96
+Home run
+Team 1 pitcher (Aaron Parry): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Demarcus Warner: rng1 = 37 + 5 - 9 + 1 = 34
+rng2 = 41 + 7 - 8 + 1 = 41
+Groundout
+Team 1 pitcher (Aaron Parry): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Estefania Espina: rng1 = 38 + 6 - 9 + 1 = 36
+rng2 = 61 + 5 - 8 + 1 = 59
+Flyout
+Team 1 pitcher (Aaron Parry): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+TOP INNING 5
+
+Team 2 pitcher change to Bravon McDaniel
+
+Edwin Garcia: rng1 = 72 + 7 - 7 - 1 = 71
+Walk
+Team 2 pitcher (Bravon McDaniel): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-1
+
+Keli Alohilani: rng1 = 67 + 9 - 7 - 1 = 68
+rng2 = 30 + 5 - 7 - 1 = 27
+Groundout
+Team 2 pitcher (Bravon McDaniel): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Chaquille Barnett: rng1 = 17 + 6 - 7 - 1 = 15
+rng2 = 94 + 7 - 7 - 1 = 93
+Flyout
+Team 2 pitcher (Bravon McDaniel): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+BOTTOM INNING 5
+
+Edward Lowe: rng1 = 56 + 13 - 9 + 1 = 61
+rng2 = 31 + 14 - 8 + 1 = 38
+Groundout
+Team 1 pitcher (Aaron Parry): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Leonardo Pinto: rng1 = 1 + 11 - 9 + 1 = 4
+Strikeout
+Team 1 pitcher (Aaron Parry): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Nakazawa Shinji: rng1 = 59 + 9 - 9 + 1 = 60
+rng2 = 48 + 10 - 8 + 1 = 51
+Lineout
+Team 1 pitcher (Aaron Parry): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+TOP INNING 6
+
+Trent Cline: rng1 = 99 + 5 - 7 - 1 = 96
+rng2 = 98 + 8 - 7 - 1 = 98
+Home run
+Team 2 pitcher (Bravon McDaniel): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Aaron Pearce: rng1 = 42 + 5 - 7 - 1 = 39
+rng2 = 43 + 7 - 7 - 1 = 42
+Groundout
+Team 2 pitcher (Bravon McDaniel): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Liam Fleming: rng1 = 11 + 5 - 7 - 1 = 8
+Strikeout
+Team 2 pitcher (Bravon McDaniel): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Jaquon Lyons: rng1 = 35 + 13 - 7 - 1 = 40
+rng2 = 18 + 10 - 7 - 1 = 20
+Groundout
+Team 2 pitcher (Bravon McDaniel): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-1
+
+-----------------------
+
+BOTTOM INNING 6
+
+Kevin Taylor: rng1 = 90 + 8 - 9 + 1 = 90
+Walk
+Team 1 pitcher (Aaron Parry): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-1
+
+Leroy Powell: rng1 = 58 + 9 - 9 + 1 = 59
+rng2 = 59 + 9 - 8 + 1 = 61
+Flyout
+Team 1 pitcher (Aaron Parry): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-1
+
+Alejandro López: rng1 = 65 + 5 - 9 + 1 = 62
+rng2 = 50 + 8 - 8 + 1 = 51
+Lineout
+Team 1 pitcher (Aaron Parry): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-1
+
+Jaiden Fortner: rng1 = 1 + 5 - 9 + 1 = -2
+Strikeout
+Team 1 pitcher (Aaron Parry): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-1
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Armando Negron
+
+Tomas Canto: rng1 = 43 + 10 - 9 - 1 = 43
+rng2 = 51 + 10 - 6 - 1 = 54
+Lineout
+Team 2 pitcher (Armando Negron): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Konner Knight: rng1 = 79 + 11 - 9 - 1 = 80
+rng2 = 68 + 7 - 6 - 1 = 68
+Double
+Team 2 pitcher (Armando Negron): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [2,2], base3: false
+base1: false, base2: true, base3: false
+Score: 5-1
+
+Edwin Garcia: rng1 = 9 + 7 - 9 - 1 = 6
+Strikeout
+Team 2 pitcher (Armando Negron): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [2,2], base3: false
+base1: false, base2: true, base3: false
+Score: 5-1
+
+Keli Alohilani: rng1 = 79 + 9 - 9 - 1 = 78
+rng2 = 80 + 5 - 6 - 1 = 78
+Triple
+Team 2 pitcher (Armando Negron): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: false, base3: [4,2]
+base1: false, base2: false, base3: true
+Score: 6-1
+
+Chaquille Barnett: rng1 = 99 + 6 - 9 - 1 = 95
+rng2 = 31 + 7 - 6 - 1 = 31
+Single
+Team 2 pitcher (Armando Negron): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-1
+
+Trent Cline: rng1 = 84 + 5 - 9 - 1 = 79
+rng2 = 22 + 8 - 6 - 1 = 23
+Single
+Team 2 pitcher (Armando Negron): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: [6,2], base2: [5,2], base3: false
+base1: true, base2: true, base3: false
+Score: 7-1
+
+Aaron Pearce: rng1 = 70 + 5 - 9 - 1 = 65
+rng2 = 62 + 7 - 6 - 1 = 62
+Flyout
+Team 2 pitcher (Armando Negron): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-1
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Steve Randles
+
+Demarcus Warner: rng1 = 75 + 5 - 13 + 1 = 68
+rng2 = 4 + 7 - 9 + 1 = 3
+Groundout
+Team 1 pitcher (Steve Randles): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-1
+
+Estefania Espina: rng1 = 100 + 6 - 13 + 1 = 94
+rng2 = 38 + 5 - 9 + 1 = 35
+Single
+Team 1 pitcher (Steve Randles): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-1
+
+Edward Lowe: rng1 = 54 + 13 - 13 + 1 = 55
+rng2 = 84 + 14 - 9 + 1 = 90
+Flyout
+Team 1 pitcher (Steve Randles): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-1
+
+Leonardo Pinto: rng1 = 41 + 11 - 13 + 1 = 40
+rng2 = 63 + 8 - 9 + 1 = 63
+Flyout
+Team 1 pitcher (Steve Randles): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-1
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Ian Colome
+
+Liam Fleming: rng1 = 8 + 5 - 7 - 1 = 5
+Strikeout
+Team 2 pitcher (Ian Colome): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-1
+
+Jaquon Lyons: rng1 = 86 + 13 - 7 - 1 = 91
+rng2 = 95 + 10 - 5 - 1 = 99
+Home run
+Team 2 pitcher (Ian Colome): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-1
+
+Tomas Canto: rng1 = 57 + 10 - 7 - 1 = 59
+rng2 = 64 + 10 - 5 - 1 = 68
+Flyout
+Team 2 pitcher (Ian Colome): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-1
+
+Konner Knight: rng1 = 67 + 11 - 7 - 1 = 70
+Walk
+Team 2 pitcher (Ian Colome): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [2,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-1
+
+Edwin Garcia: rng1 = 58 + 7 - 7 - 1 = 57
+rng2 = 18 + 8 - 5 - 1 = 20
+Groundout
+Team 2 pitcher (Ian Colome): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-1
+
+-----------------------
+
+BOTTOM INNING 8
+
+Nakazawa Shinji: rng1 = 38 + 9 - 13 + 1 = 35
+rng2 = 35 + 10 - 9 + 1 = 37
+Groundout
+Team 1 pitcher (Steve Randles): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-1
+
+Kevin Taylor: rng1 = 62 + 8 - 13 + 1 = 58
+rng2 = 46 + 10 - 9 + 1 = 48
+Lineout
+Team 1 pitcher (Steve Randles): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-1
+
+Leroy Powell: rng1 = 77 + 9 - 13 + 1 = 74
+rng2 = 72 + 9 - 9 + 1 = 73
+Double
+Team 1 pitcher (Steve Randles): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: [4,1], base3: false
+base1: false, base2: true, base3: false
+Score: 8-1
+
+Alejandro López: rng1 = 89 + 5 - 13 + 1 = 82
+rng2 = 24 + 8 - 9 + 1 = 24
+Single
+Team 1 pitcher (Steve Randles): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [5,1], base2: false, base3: [4,1]
+base1: true, base2: false, base3: true
+Score: 8-1
+
+Jaiden Fortner: rng1 = 51 + 5 - 13 + 1 = 44
+rng2 = 68 + 7 - 9 + 1 = 67
+Flyout
+Team 1 pitcher (Steve Randles): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-1
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Charlie Jordan
+
+Keli Alohilani: rng1 = 72 + 9 - 14 - 1 = 66
+rng2 = 1 + 5 - 13 - 1 = -8
+Groundout
+Team 2 pitcher (Charlie Jordan): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-1
+
+Chaquille Barnett: rng1 = 74 + 6 - 14 - 1 = 65
+rng2 = 14 + 7 - 13 - 1 = 7
+Groundout
+Team 2 pitcher (Charlie Jordan): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-1
+
+Trent Cline: rng1 = 42 + 5 - 14 - 1 = 32
+rng2 = 91 + 8 - 13 - 1 = 85
+Flyout
+Team 2 pitcher (Charlie Jordan): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-1
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Rolando Maroto
+
+Demarcus Warner: rng1 = 67 + 5 - 10 + 1 = 63
+rng2 = 45 + 7 - 8 + 1 = 45
+Groundout
+Team 1 pitcher (Rolando Maroto): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-1
+
+Estefania Espina: rng1 = 29 + 6 - 10 + 1 = 26
+Strikeout
+Team 1 pitcher (Rolando Maroto): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-1
+
+Edward Lowe: rng1 = 56 + 13 - 10 + 1 = 60
+rng2 = 46 + 14 - 8 + 1 = 53
+Lineout
+Team 1 pitcher (Rolando Maroto): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-1
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 11
+Team 2 hits: 9
+Team 1 runs: 8
+Team 2 runs: 1
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-08-26
+Jaquon Lyons	5	2	3	0	0	2	2	0	0					Philadelphia
+Tomas Canto	4	0	0	0	0	0	0	1	1	
+Konner Knight	3	1	1	1	0	0	1	2	0	
+Edwin Garcia	4	0	0	0	0	0	0	1	2	
+Keli Alohilani	4	2	1	0	1	0	1	1	1	
+Chaquille Barnett	5	1	2	1	0	0	2	0	0	
+Trent Cline	5	1	3	1	0	1	1	0	0	
+Aaron Pearce	3	1	0	0	0	0	0	1	1	
+Liam Fleming	4	0	1	1	0	0	1	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Aaron Parry	1	0	1	1	0	0	18	6	1	1	1	4	25	
+Steve Randles	0	0	1	0	0	0	6	3	0	0	0	0	9	
+Rolando Maroto	0	0	1	0	0	0	3	0	0	0	0	1	3	
+Jessie Alston	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Eduardo Elvira	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-08-26
+Edward Lowe	5	0	0	0	0	0	0	0	0					Chicago
+Leonardo Pinto	4	0	1	0	0	0	0	0	1	
+Nakazawa Shinji	4	0	2	0	0	0	0	0	0	
+Kevin Taylor	3	0	1	0	0	0	0	1	0	
+Leroy Powell	4	0	1	1	0	0	0	0	0	
+Alejandro López	4	0	1	0	0	0	0	0	0	
+Jaiden Fortner	4	1	2	0	0	1	1	0	1	
+Demarcus Warner	4	0	0	0	0	0	0	0	1	
+Estefania Espina	4	0	1	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Raul Cespedes	0	1	1	1	0	0	12	5	4	1	4	4	21	
+Bravon McDaniel	0	0	1	0	0	0	6	1	1	1	1	1	7	
+Armando Negron	0	0	1	0	0	0	3	4	2	0	0	1	7	
+Ian Colome	0	0	1	0	0	0	3	1	1	1	1	1	5	
+Charlie Jordan	0	0	1	0	0	0	3	0	0	0	0	0	3	

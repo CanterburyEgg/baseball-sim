@@ -1,0 +1,735 @@
+TOP INNING 1
+
+Mark White: rng1 = 83 + 10 - 4 - 1 = 88
+Walk
+Team 2 pitcher (Don Shaw): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Jack Hayes: rng1 = 96 + 8 - 4 - 1 = 99
+rng2 = 96 + 9 - 6 - 1 = 98
+Home run
+Team 2 pitcher (Don Shaw): 2 batters faced, 2 runs allowed = 2 + 5.0 = 7.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Christian Mendez: rng1 = 4 + 8 - 4 - 1 = 7
+Strikeout
+Team 2 pitcher (Don Shaw): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Brian Woods: rng1 = 51 + 6 - 4 - 1 = 52
+rng2 = 34 + 8 - 6 - 1 = 35
+Groundout
+Team 2 pitcher (Don Shaw): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Emmanuel Ramirez: rng1 = 42 + 8 - 4 - 1 = 45
+rng2 = 75 + 6 - 6 - 1 = 74
+Flyout
+Team 2 pitcher (Don Shaw): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Pedro Martinez: rng1 = 19 + 9 - 12 + 1 = 17
+Strikeout
+Team 1 pitcher (Sebastian Soto): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Kyrie Anderson: rng1 = 71 + 8 - 12 + 1 = 68
+rng2 = 84 + 9 - 8 + 1 = 86
+Flyout
+Team 1 pitcher (Sebastian Soto): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Carter Walker: rng1 = 61 + 8 - 12 + 1 = 58
+rng2 = 63 + 7 - 8 + 1 = 63
+Flyout
+Team 1 pitcher (Sebastian Soto): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+TOP INNING 2
+
+Kyle Olson: rng1 = 52 + 7 - 4 - 1 = 54
+rng2 = 45 + 7 - 6 - 1 = 45
+Groundout
+Team 2 pitcher (Don Shaw): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Jason Collins: rng1 = 22 + 7 - 4 - 1 = 24
+Strikeout
+Team 2 pitcher (Don Shaw): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Rayden Hood: rng1 = 25 + 5 - 4 - 1 = 25
+Strikeout
+Team 2 pitcher (Don Shaw): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Billy Campbell: rng1 = 95 + 6 - 12 + 1 = 90
+Walk
+Team 1 pitcher (Sebastian Soto): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Mario Guzman: rng1 = 9 + 7 - 12 + 1 = 5
+Strikeout
+Team 1 pitcher (Sebastian Soto): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Leonardo Nunez: rng1 = 96 + 7 - 12 + 1 = 92
+rng2 = 8 + 5 - 8 + 1 = 6
+Single
+Team 1 pitcher (Sebastian Soto): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 2-0
+
+Esteban Mendoza: rng1 = 81 + 6 - 12 + 1 = 76
+rng2 = 41 + 6 - 8 + 1 = 40
+Single
+Team 1 pitcher (Sebastian Soto): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 2-1
+
+Curtis McCormick: rng1 = 77 + 5 - 12 + 1 = 71
+Walk
+Team 1 pitcher (Sebastian Soto): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: [7,0], base2: [6,0], base3: [5,0]
+base1: true, base2: true, base3: true
+Score: 2-1
+
+Eduardo Sandoval: rng1 = 30 + 4 - 12 + 1 = 23
+Strikeout
+Team 1 pitcher (Sebastian Soto): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [7,0], base2: [6,0], base3: [5,0]
+base1: true, base2: true, base3: true
+Score: 2-1
+
+Pedro Martinez: rng1 = 95 + 9 - 12 + 1 = 93
+rng2 = 7 + 7 - 8 + 1 = 7
+Single
+Team 1 pitcher (Sebastian Soto): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 2
+
+base1: [0,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 2-3
+
+Kyrie Anderson: rng1 = 47 + 8 - 12 + 1 = 44
+rng2 = 72 + 9 - 8 + 1 = 74
+Flyout
+Team 1 pitcher (Sebastian Soto): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+TOP INNING 3
+
+Jordan James: rng1 = 16 + 4 - 4 - 1 = 15
+rng2 = 87 + 6 - 6 - 1 = 86
+Flyout
+Team 2 pitcher (Don Shaw): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Mark White: rng1 = 23 + 10 - 4 - 1 = 28
+rng2 = 48 + 8 - 6 - 1 = 49
+Lineout
+Team 2 pitcher (Don Shaw): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Jack Hayes: rng1 = 64 + 8 - 4 - 1 = 67
+rng2 = 85 + 9 - 6 - 1 = 87
+Flyout
+Team 2 pitcher (Don Shaw): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+BOTTOM INNING 3
+
+Carter Walker: rng1 = 20 + 8 - 12 + 1 = 17
+Strikeout
+Team 1 pitcher (Sebastian Soto): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Billy Campbell: rng1 = 23 + 6 - 12 + 1 = 18
+Strikeout
+Team 1 pitcher (Sebastian Soto): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Mario Guzman: rng1 = 16 + 7 - 12 + 1 = 12
+rng2 = 37 + 5 - 8 + 1 = 35
+Groundout
+Team 1 pitcher (Sebastian Soto): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+TOP INNING 4
+
+Christian Mendez: rng1 = 52 + 8 - 4 - 1 = 55
+rng2 = 89 + 8 - 6 - 1 = 90
+Flyout
+Team 2 pitcher (Don Shaw): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Brian Woods: rng1 = 69 + 6 - 4 - 1 = 70
+Walk
+Team 2 pitcher (Don Shaw): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-3
+
+Emmanuel Ramirez: rng1 = 98 + 8 - 4 - 1 = 101
+rng2 = 8 + 6 - 6 - 1 = 7
+Single
+Team 2 pitcher (Don Shaw): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 1
+
+base1: [4,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 2-3
+
+Kyle Olson: rng1 = 33 + 7 - 4 - 1 = 35
+rng2 = 23 + 7 - 6 - 1 = 23
+Groundout
+Team 2 pitcher (Don Shaw): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 2
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-3
+
+Jason Collins: rng1 = 50 + 7 - 4 - 1 = 52
+rng2 = 84 + 6 - 6 - 1 = 83
+Flyout
+Team 2 pitcher (Don Shaw): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+BOTTOM INNING 4
+
+Leonardo Nunez: rng1 = 9 + 7 - 12 + 1 = 5
+Strikeout
+Team 1 pitcher (Sebastian Soto): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Esteban Mendoza: rng1 = 42 + 6 - 12 + 1 = 37
+rng2 = 81 + 6 - 8 + 1 = 80
+Flyout
+Team 1 pitcher (Sebastian Soto): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Curtis McCormick: rng1 = 34 + 5 - 12 + 1 = 28
+rng2 = 41 + 6 - 8 + 1 = 40
+Groundout
+Team 1 pitcher (Sebastian Soto): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+TOP INNING 5
+
+Rayden Hood: rng1 = 21 + 5 - 4 - 1 = 21
+Strikeout
+Team 2 pitcher (Don Shaw): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Jordan James: rng1 = 37 + 4 - 4 - 1 = 36
+rng2 = 11 + 6 - 6 - 1 = 10
+Groundout
+Team 2 pitcher (Don Shaw): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Mark White: rng1 = 74 + 10 - 4 - 1 = 79
+rng2 = 77 + 8 - 6 - 1 = 78
+Triple
+Team 2 pitcher (Don Shaw): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 2
+
+base1: false, base2: false, base3: [0,0]
+base1: false, base2: false, base3: true
+Score: 3-3
+
+Jack Hayes: rng1 = 49 + 8 - 4 - 1 = 52
+rng2 = 23 + 9 - 6 - 1 = 25
+Groundout
+Team 2 pitcher (Don Shaw): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+BOTTOM INNING 5
+
+Eduardo Sandoval: rng1 = 46 + 4 - 12 + 1 = 39
+rng2 = 83 + 4 - 8 + 1 = 80
+Flyout
+Team 1 pitcher (Sebastian Soto): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Pedro Martinez: rng1 = 8 + 9 - 12 + 1 = 6
+Strikeout
+Team 1 pitcher (Sebastian Soto): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Kyrie Anderson: rng1 = 23 + 8 - 12 + 1 = 20
+Strikeout
+Team 1 pitcher (Sebastian Soto): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+TOP INNING 6
+
+Christian Mendez: rng1 = 27 + 8 - 4 - 1 = 30
+rng2 = 25 + 8 - 6 - 1 = 26
+Groundout
+Team 2 pitcher (Don Shaw): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Brian Woods: rng1 = 57 + 6 - 4 - 1 = 58
+rng2 = 82 + 8 - 6 - 1 = 83
+Flyout
+Team 2 pitcher (Don Shaw): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Emmanuel Ramirez: rng1 = 1 + 8 - 4 - 1 = 4
+Strikeout
+Team 2 pitcher (Don Shaw): 23 batters faced, 3 runs allowed = 23 + 7.5 = 30.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+BOTTOM INNING 6
+
+Carter Walker: rng1 = 66 + 8 - 12 + 1 = 63
+rng2 = 20 + 7 - 8 + 1 = 20
+Groundout
+Team 1 pitcher (Sebastian Soto): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Billy Campbell: rng1 = 97 + 6 - 12 + 1 = 92
+rng2 = 95 + 9 - 8 + 1 = 97
+Home run
+Team 1 pitcher (Sebastian Soto): 22 batters faced, 4 runs allowed = 22 + 10.0 = 32.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Mario Guzman: rng1 = 36 + 7 - 12 + 1 = 32
+rng2 = 1 + 5 - 8 + 1 = -1
+Groundout
+Team 1 pitcher (Sebastian Soto): 23 batters faced, 4 runs allowed = 23 + 10.0 = 33.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Leonardo Nunez: rng1 = 25 + 7 - 12 + 1 = 21
+Strikeout
+Team 1 pitcher (Sebastian Soto): 24 batters faced, 4 runs allowed = 24 + 10.0 = 34.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Tim Brooks
+
+Kyle Olson: rng1 = 52 + 7 - 10 - 1 = 48
+rng2 = 8 + 7 - 13 - 1 = 1
+Groundout
+Team 2 pitcher (Tim Brooks): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Jason Collins: rng1 = 53 + 7 - 10 - 1 = 49
+rng2 = 66 + 6 - 13 - 1 = 58
+Lineout
+Team 2 pitcher (Tim Brooks): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Rayden Hood: rng1 = 99 + 5 - 10 - 1 = 93
+rng2 = 80 + 1 - 13 - 1 = 67
+Double
+Team 2 pitcher (Tim Brooks): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [7,1], base3: false
+base1: false, base2: true, base3: false
+Score: 3-4
+
+Jordan James: rng1 = 83 + 4 - 10 - 1 = 76
+rng2 = 81 + 6 - 13 - 1 = 73
+Double
+Team 2 pitcher (Tim Brooks): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [8,1], base3: false
+base1: false, base2: true, base3: false
+Score: 4-4
+
+Mark White: rng1 = 15 + 10 - 10 - 1 = 14
+rng2 = 88 + 8 - 13 - 1 = 82
+Flyout
+Team 2 pitcher (Tim Brooks): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Justin Smith
+
+Esteban Mendoza: rng1 = 53 + 6 - 8 + 1 = 52
+rng2 = 6 + 6 - 9 + 1 = 4
+Groundout
+Team 1 pitcher (Justin Smith): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Curtis McCormick: rng1 = 83 + 5 - 8 + 1 = 81
+rng2 = 18 + 6 - 9 + 1 = 16
+Single
+Team 1 pitcher (Justin Smith): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Eduardo Sandoval: rng1 = 7 + 4 - 8 + 1 = 4
+Strikeout
+Team 1 pitcher (Justin Smith): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Pedro Martinez: rng1 = 23 + 9 - 8 + 1 = 25
+Strikeout
+Team 1 pitcher (Justin Smith): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Larry Gibson
+
+Jack Hayes: rng1 = 67 + 8 - 11 - 1 = 63
+rng2 = 37 + 9 - 9 - 1 = 36
+Groundout
+Team 2 pitcher (Larry Gibson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Christian Mendez: rng1 = 33 + 8 - 11 - 1 = 29
+rng2 = 8 + 8 - 9 - 1 = 6
+Groundout
+Team 2 pitcher (Larry Gibson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Brian Woods: rng1 = 41 + 6 - 11 - 1 = 35
+rng2 = 53 + 8 - 9 - 1 = 51
+Lineout
+Team 2 pitcher (Larry Gibson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+BOTTOM INNING 8
+
+Kyrie Anderson: rng1 = 68 + 8 - 8 + 1 = 69
+Walk
+Team 1 pitcher (Justin Smith): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Carter Walker: rng1 = 21 + 8 - 8 + 1 = 22
+Strikeout
+Team 1 pitcher (Justin Smith): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Billy Campbell: rng1 = 73 + 6 - 8 + 1 = 72
+rng2 = 41 + 9 - 9 + 1 = 42
+Single
+Team 1 pitcher (Justin Smith): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [3,1], base2: [1,1], base3: false
+base1: true, base2: true, base3: false
+Score: 4-4
+
+Mario Guzman: rng1 = 3 + 7 - 8 + 1 = 3
+Strikeout
+Team 1 pitcher (Justin Smith): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [3,1], base2: [1,1], base3: false
+base1: true, base2: true, base3: false
+Score: 4-4
+
+Leonardo Nunez: rng1 = 17 + 7 - 8 + 1 = 17
+Strikeout
+Team 1 pitcher (Justin Smith): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+TOP INNING 9
+
+Emmanuel Ramirez: rng1 = 99 + 8 - 11 - 1 = 95
+rng2 = 1 + 6 - 9 - 1 = -3
+Single
+Team 2 pitcher (Larry Gibson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Kyle Olson: rng1 = 88 + 7 - 11 - 1 = 83
+rng2 = 94 + 7 - 9 - 1 = 91
+Double
+Team 2 pitcher (Larry Gibson): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 0
+
+base1: false, base2: [5,2], base3: false
+base1: false, base2: true, base3: false
+Score: 5-4
+
+Jason Collins: rng1 = 34 + 7 - 11 - 1 = 29
+rng2 = 39 + 6 - 9 - 1 = 35
+Groundout
+Team 2 pitcher (Larry Gibson): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: [5,2], base3: false
+base1: false, base2: true, base3: false
+Score: 5-4
+
+Rayden Hood: rng1 = 19 + 5 - 11 - 1 = 12
+rng2 = 37 + 1 - 9 - 1 = 28
+Groundout
+Team 2 pitcher (Larry Gibson): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: [5,2], base3: false
+base1: false, base2: true, base3: false
+Score: 5-4
+
+Jordan James: rng1 = 62 + 4 - 11 - 1 = 54
+rng2 = 22 + 6 - 9 - 1 = 18
+Groundout
+Team 2 pitcher (Larry Gibson): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-4
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Reuben Watson
+
+Esteban Mendoza: rng1 = 47 + 6 - 8 + 1 = 46
+rng2 = 35 + 6 - 12 + 1 = 30
+Groundout
+Team 1 pitcher (Reuben Watson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Curtis McCormick: rng1 = 64 + 5 - 8 + 1 = 62
+rng2 = 8 + 6 - 12 + 1 = 3
+Groundout
+Team 1 pitcher (Reuben Watson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Eduardo Sandoval: rng1 = 90 + 4 - 8 + 1 = 87
+Walk
+Team 1 pitcher (Reuben Watson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [8,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-4
+
+Pedro Martinez: rng1 = 45 + 9 - 8 + 1 = 47
+rng2 = 93 + 7 - 12 + 1 = 89
+Flyout
+Team 1 pitcher (Reuben Watson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-4
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 7
+Team 2 hits: 6
+Team 1 runs: 5
+Team 2 runs: 4
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-08-27
+Mark White	3	1	1	0	1	0	0	1	0					Reno
+Jack Hayes	4	1	1	0	0	1	2	0	0	
+Christian Mendez	4	0	0	0	0	0	0	0	1	
+Brian Woods	3	1	0	0	0	0	0	1	0	
+Emmanuel Ramirez	4	1	2	0	0	0	0	0	1	
+Kyle Olson	4	0	1	1	0	0	2	0	0	
+Jason Collins	4	0	0	0	0	0	0	0	1	
+Rayden Hood	4	1	1	1	0	0	0	0	2	
+Jordan James	4	0	1	1	0	0	1	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Sebastian Soto	0	0	1	1	0	0	18	4	4	1	2	9	24	
+Justin Smith	1	0	1	0	0	0	6	2	0	0	1	5	9	
+Louis Evans	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Mike Brown	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Reuben Watson	0	0	1	0	1	1	3	0	0	0	1	0	4	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-08-27
+Pedro Martinez	5	0	1	0	0	0	2	0	3					Anaheim
+Kyrie Anderson	3	0	0	0	0	0	0	1	1	
+Carter Walker	4	0	0	0	0	0	0	0	2	
+Billy Campbell	3	2	2	0	0	1	1	1	1	
+Mario Guzman	4	0	0	0	0	0	0	0	2	
+Leonardo Nunez	4	1	1	0	0	0	0	0	3	
+Esteban Mendoza	4	1	1	0	0	0	1	0	0	
+Curtis McCormick	3	0	1	0	0	0	0	1	0	
+Eduardo Sandoval	3	0	0	0	0	0	0	1	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Don Shaw	0	0	1	1	0	0	18	3	3	1	2	5	23	
+Tim Brooks	0	0	1	0	0	0	3	2	1	0	0	0	5	
+Larry Gibson	0	1	1	0	0	0	6	2	1	0	0	0	8	
+Matias Rivera	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Terry Adams	0	0	0	0	0	0	0	0	0	0	0	0	0	

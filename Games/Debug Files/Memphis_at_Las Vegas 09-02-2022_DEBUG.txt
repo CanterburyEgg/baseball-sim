@@ -1,0 +1,716 @@
+TOP INNING 1
+
+Lawrence Randolph: rng1 = 21 + 15 - 8 - 1 = 27
+Strikeout
+Team 2 pitcher (Emanuel Muñoz): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Sip Hyun-Ki: rng1 = 69 + 15 - 8 - 1 = 75
+rng2 = 89 + 10 - 8 - 1 = 90
+Double
+Team 2 pitcher (Emanuel Muñoz): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Phoenix Moore: rng1 = 46 + 14 - 8 - 1 = 51
+rng2 = 8 + 12 - 8 - 1 = 11
+Groundout
+Team 2 pitcher (Emanuel Muñoz): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Trace Spears: rng1 = 40 + 9 - 8 - 1 = 40
+rng2 = 93 + 12 - 8 - 1 = 96
+Flyout
+Team 2 pitcher (Emanuel Muñoz): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+George Nagle: rng1 = 10 + 15 - 7 + 1 = 19
+Strikeout
+Team 1 pitcher (Keenan Elliott): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Antonio Carrera: rng1 = 77 + 15 - 7 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Keenan Elliott): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Jason Burress: rng1 = 50 + 14 - 7 + 1 = 58
+rng2 = 93 + 10 - 5 + 1 = 99
+Flyout
+Team 1 pitcher (Keenan Elliott): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Charles Harris: rng1 = 99 + 8 - 7 + 1 = 101
+rng2 = 76 + 10 - 5 + 1 = 82
+Home run
+Team 1 pitcher (Keenan Elliott): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Bautista Saelices: rng1 = 28 + 9 - 7 + 1 = 31
+rng2 = 17 + 8 - 5 + 1 = 21
+Groundout
+Team 1 pitcher (Keenan Elliott): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 2
+
+Mason Foster: rng1 = 99 + 14 - 8 - 1 = 104
+rng2 = 98 + 9 - 8 - 1 = 98
+Home run
+Team 2 pitcher (Emanuel Muñoz): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Parker Dillard: rng1 = 78 + 8 - 8 - 1 = 77
+rng2 = 58 + 9 - 8 - 1 = 58
+Single
+Team 2 pitcher (Emanuel Muñoz): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Patrick Marshall: rng1 = 1 + 8 - 8 - 1 = 0
+Strikeout
+Team 2 pitcher (Emanuel Muñoz): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Readale Roberson: rng1 = 44 + 5 - 8 - 1 = 40
+rng2 = 85 + 8 - 8 - 1 = 84
+Flyout
+Team 2 pitcher (Emanuel Muñoz): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Juan Bolton: rng1 = 11 + 3 - 8 - 1 = 5
+Strikeout
+Team 2 pitcher (Emanuel Muñoz): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 2
+
+Noah Fontenot: rng1 = 62 + 9 - 7 + 1 = 65
+rng2 = 21 + 7 - 5 + 1 = 24
+Groundout
+Team 1 pitcher (Keenan Elliott): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Dante Arias: rng1 = 25 + 10 - 7 + 1 = 29
+rng2 = 16 + 6 - 5 + 1 = 18
+Groundout
+Team 1 pitcher (Keenan Elliott): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Albert Lang: rng1 = 87 + 5 - 7 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Keenan Elliott): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Nathan Kaur: rng1 = 20 + 7 - 7 + 1 = 21
+Strikeout
+Team 1 pitcher (Keenan Elliott): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 3
+
+Lawrence Randolph: rng1 = 98 + 15 - 8 - 1 = 104
+rng2 = 46 + 11 - 8 - 1 = 48
+Single
+Team 2 pitcher (Emanuel Muñoz): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Sip Hyun-Ki: rng1 = 49 + 15 - 8 - 1 = 55
+rng2 = 61 + 10 - 8 - 1 = 62
+Flyout
+Team 2 pitcher (Emanuel Muñoz): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Phoenix Moore: rng1 = 89 + 14 - 8 - 1 = 94
+rng2 = 37 + 12 - 8 - 1 = 40
+Single
+Team 2 pitcher (Emanuel Muñoz): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: [2,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 1-2
+
+Trace Spears: rng1 = 76 + 9 - 8 - 1 = 76
+rng2 = 90 + 12 - 8 - 1 = 93
+Triple
+Team 2 pitcher (Emanuel Muñoz): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 1
+
+base1: false, base2: false, base3: [3,0]
+base1: false, base2: false, base3: true
+Score: 3-2
+
+Mason Foster: rng1 = 85 + 14 - 8 - 1 = 90
+Walk
+Team 2 pitcher (Emanuel Muñoz): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 1
+
+base1: [4,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 3-2
+
+Parker Dillard: rng1 = 5 + 8 - 8 - 1 = 4
+Strikeout
+Team 2 pitcher (Emanuel Muñoz): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 2
+
+base1: [4,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 3-2
+
+Patrick Marshall: rng1 = 44 + 8 - 8 - 1 = 43
+rng2 = 92 + 9 - 8 - 1 = 92
+Flyout
+Team 2 pitcher (Emanuel Muñoz): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+BOTTOM INNING 3
+
+George Nagle: rng1 = 88 + 15 - 7 + 1 = 97
+rng2 = 11 + 14 - 5 + 1 = 21
+Single
+Team 1 pitcher (Keenan Elliott): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Antonio Carrera: rng1 = 74 + 15 - 7 + 1 = 83
+rng2 = 18 + 11 - 5 + 1 = 25
+Single
+Team 1 pitcher (Keenan Elliott): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 0
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-2
+
+Jason Burress: rng1 = 57 + 14 - 7 + 1 = 65
+rng2 = 7 + 10 - 5 + 1 = 13
+Groundout
+Team 1 pitcher (Keenan Elliott): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 1
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-2
+
+Charles Harris: rng1 = 29 + 8 - 7 + 1 = 31
+rng2 = 8 + 10 - 5 + 1 = 14
+Groundout
+Team 1 pitcher (Keenan Elliott): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+TOP INNING 4
+
+Readale Roberson: rng1 = 48 + 5 - 8 - 1 = 44
+rng2 = 92 + 8 - 8 - 1 = 91
+Flyout
+Team 2 pitcher (Emanuel Muñoz): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Juan Bolton: rng1 = 53 + 3 - 8 - 1 = 47
+rng2 = 92 + 8 - 8 - 1 = 91
+Flyout
+Team 2 pitcher (Emanuel Muñoz): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Lawrence Randolph: rng1 = 18 + 15 - 8 - 1 = 24
+Strikeout
+Team 2 pitcher (Emanuel Muñoz): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+BOTTOM INNING 4
+
+Bautista Saelices: rng1 = 21 + 9 - 7 + 1 = 24
+Strikeout
+Team 1 pitcher (Keenan Elliott): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Noah Fontenot: rng1 = 86 + 9 - 7 + 1 = 89
+Walk
+Team 1 pitcher (Keenan Elliott): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Dante Arias: rng1 = 32 + 10 - 7 + 1 = 36
+rng2 = 36 + 6 - 5 + 1 = 38
+Groundout
+Team 1 pitcher (Keenan Elliott): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+TOP INNING 5
+
+Sip Hyun-Ki: rng1 = 58 + 15 - 8 - 1 = 64
+rng2 = 88 + 10 - 8 - 1 = 89
+Flyout
+Team 2 pitcher (Emanuel Muñoz): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Phoenix Moore: rng1 = 5 + 14 - 8 - 1 = 10
+Strikeout
+Team 2 pitcher (Emanuel Muñoz): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Trace Spears: rng1 = 66 + 9 - 8 - 1 = 66
+rng2 = 83 + 12 - 8 - 1 = 86
+Flyout
+Team 2 pitcher (Emanuel Muñoz): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+BOTTOM INNING 5
+
+Albert Lang: rng1 = 19 + 5 - 7 + 1 = 18
+Strikeout
+Team 1 pitcher (Keenan Elliott): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Nathan Kaur: rng1 = 13 + 7 - 7 + 1 = 14
+rng2 = 30 + 5 - 5 + 1 = 31
+Groundout
+Team 1 pitcher (Keenan Elliott): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+George Nagle: rng1 = 48 + 15 - 7 + 1 = 57
+rng2 = 51 + 14 - 5 + 1 = 61
+Flyout
+Team 1 pitcher (Keenan Elliott): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Taylor Murphy
+
+Mason Foster: rng1 = 53 + 14 - 14 - 1 = 52
+rng2 = 47 + 9 - 12 - 1 = 43
+Groundout
+Team 2 pitcher (Taylor Murphy): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Parker Dillard: rng1 = 7 + 8 - 14 - 1 = 0
+Strikeout
+Team 2 pitcher (Taylor Murphy): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Patrick Marshall: rng1 = 64 + 8 - 14 - 1 = 57
+rng2 = 68 + 9 - 12 - 1 = 64
+Flyout
+Team 2 pitcher (Taylor Murphy): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+BOTTOM INNING 6
+
+Antonio Carrera: rng1 = 91 + 15 - 7 + 1 = 100
+rng2 = 62 + 11 - 5 + 1 = 69
+Double
+Team 1 pitcher (Keenan Elliott): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 0
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-2
+
+Jason Burress: rng1 = 84 + 14 - 7 + 1 = 92
+rng2 = 85 + 10 - 5 + 1 = 91
+Double
+Team 1 pitcher (Keenan Elliott): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 0
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-3
+
+Charles Harris: rng1 = 43 + 8 - 7 + 1 = 45
+rng2 = 17 + 10 - 5 + 1 = 23
+Groundout
+Team 1 pitcher (Keenan Elliott): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 1
+
+base1: false, base2: false, base3: [2,0]
+base1: false, base2: false, base3: true
+Score: 3-3
+
+Bautista Saelices: rng1 = 60 + 9 - 7 + 1 = 63
+rng2 = 27 + 8 - 5 + 1 = 31
+Groundout
+Team 1 pitcher (Keenan Elliott): 23 batters faced, 4 runs allowed = 23 + 10.0 = 33.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Noah Fontenot: rng1 = 74 + 9 - 7 + 1 = 77
+rng2 = 57 + 7 - 5 + 1 = 60
+Single
+Team 1 pitcher (Keenan Elliott): 24 batters faced, 4 runs allowed = 24 + 10.0 = 34.0, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-4
+
+Dante Arias: rng1 = 23 + 10 - 7 + 1 = 27
+Strikeout
+Team 1 pitcher (Keenan Elliott): 25 batters faced, 4 runs allowed = 25 + 10.0 = 35.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+TOP INNING 7
+
+Readale Roberson: rng1 = 42 + 5 - 14 - 1 = 32
+rng2 = 90 + 8 - 12 - 1 = 85
+Flyout
+Team 2 pitcher (Taylor Murphy): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Juan Bolton: rng1 = 16 + 3 - 14 - 1 = 4
+Strikeout
+Team 2 pitcher (Taylor Murphy): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Lawrence Randolph: rng1 = 62 + 15 - 14 - 1 = 62
+rng2 = 92 + 11 - 12 - 1 = 90
+Flyout
+Team 2 pitcher (Taylor Murphy): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Major Ortiz
+
+Albert Lang: rng1 = 26 + 5 - 9 + 1 = 23
+Strikeout
+Team 1 pitcher (Major Ortiz): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Nathan Kaur: rng1 = 8 + 7 - 9 + 1 = 7
+Strikeout
+Team 1 pitcher (Major Ortiz): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+George Nagle: rng1 = 59 + 15 - 9 + 1 = 66
+rng2 = 74 + 14 - 11 + 1 = 78
+Flyout
+Team 1 pitcher (Major Ortiz): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Rodrigo Valerio
+
+Sip Hyun-Ki: rng1 = 47 + 15 - 11 - 1 = 50
+rng2 = 80 + 10 - 10 - 1 = 79
+Flyout
+Team 2 pitcher (Rodrigo Valerio): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Phoenix Moore: rng1 = 25 + 14 - 11 - 1 = 27
+Strikeout
+Team 2 pitcher (Rodrigo Valerio): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Trace Spears: rng1 = 67 + 9 - 11 - 1 = 64
+rng2 = 17 + 12 - 10 - 1 = 18
+Groundout
+Team 2 pitcher (Rodrigo Valerio): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+BOTTOM INNING 8
+
+Antonio Carrera: rng1 = 70 + 15 - 9 + 1 = 77
+rng2 = 7 + 11 - 11 + 1 = 8
+Single
+Team 1 pitcher (Major Ortiz): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-4
+
+Jason Burress: rng1 = 64 + 14 - 9 + 1 = 70
+Walk
+Team 1 pitcher (Major Ortiz): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [2,1], base2: [1,1], base3: false
+base1: true, base2: true, base3: false
+Score: 3-4
+
+Charles Harris: rng1 = 81 + 8 - 9 + 1 = 81
+rng2 = 43 + 10 - 11 + 1 = 43
+Single
+Team 1 pitcher (Major Ortiz): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 0
+
+base1: [3,1], base2: [2,1], base3: false
+base1: true, base2: true, base3: false
+Score: 3-5
+
+Bautista Saelices: rng1 = 75 + 9 - 9 + 1 = 76
+rng2 = 74 + 8 - 11 + 1 = 72
+Double
+Team 1 pitcher (Major Ortiz): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 0
+
+base1: false, base2: [4,1], base3: false
+base1: false, base2: true, base3: false
+Score: 3-7
+
+Team 1 pitcher change to Brentley Dickson
+
+Noah Fontenot: rng1 = 46 + 9 - 8 + 1 = 48
+rng2 = 2 + 7 - 7 + 1 = 3
+Groundout
+Team 1 pitcher (Brentley Dickson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: [4,1], base3: false
+base1: false, base2: true, base3: false
+Score: 3-7
+
+Dante Arias: rng1 = 46 + 10 - 8 + 1 = 49
+rng2 = 77 + 6 - 7 + 1 = 77
+Flyout
+Team 1 pitcher (Brentley Dickson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: [4,1], base3: false
+base1: false, base2: true, base3: false
+Score: 3-7
+
+Albert Lang: rng1 = 56 + 5 - 8 + 1 = 54
+rng2 = 64 + 7 - 7 + 1 = 65
+Flyout
+Team 1 pitcher (Brentley Dickson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+TOP INNING 9
+
+Mason Foster: rng1 = 68 + 14 - 11 - 1 = 70
+Walk
+Team 2 pitcher (Rodrigo Valerio): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-7
+
+Parker Dillard: rng1 = 85 + 8 - 11 - 1 = 81
+rng2 = 51 + 9 - 10 - 1 = 49
+Single
+Team 2 pitcher (Rodrigo Valerio): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [5,2], base2: [4,2], base3: false
+base1: true, base2: true, base3: false
+Score: 3-7
+
+Patrick Marshall: rng1 = 31 + 8 - 11 - 1 = 27
+Strikeout
+Team 2 pitcher (Rodrigo Valerio): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,2], base2: [4,2], base3: false
+base1: true, base2: true, base3: false
+Score: 3-7
+
+Readale Roberson: rng1 = 40 + 5 - 11 - 1 = 33
+rng2 = 79 + 8 - 10 - 1 = 76
+Flyout
+Team 2 pitcher (Rodrigo Valerio): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [5,2], base2: [4,2], base3: false
+base1: true, base2: true, base3: false
+Score: 3-7
+
+Juan Bolton: rng1 = 68 + 3 - 11 - 1 = 59
+rng2 = 75 + 8 - 10 - 1 = 72
+Flyout
+Team 2 pitcher (Rodrigo Valerio): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 7
+Team 2 hits: 9
+Team 1 runs: 3
+Team 2 runs: 7
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-09-02
+Lawrence Randolph	4	1	1	0	0	0	0	0	2					Memphis
+Sip Hyun-Ki	4	0	1	1	0	0	0	0	0	
+Phoenix Moore	4	1	1	0	0	0	0	0	2	
+Trace Spears	4	0	1	0	1	0	2	0	0	
+Mason Foster	2	1	1	0	0	1	1	2	0	
+Parker Dillard	4	0	2	0	0	0	0	0	2	
+Patrick Marshall	4	0	0	0	0	0	0	0	2	
+Readale Roberson	4	0	0	0	0	0	0	0	0	
+Juan Bolton	4	0	0	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Keenan Elliott	0	1	1	1	0	0	18	6	4	1	1	5	25	
+Major Ortiz	0	0	1	0	0	0	3	3	3	0	1	2	7	
+Brentley Dickson	0	0	1	0	0	0	3	0	0	0	0	0	3	
+Hiraoka Yosai	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Luciano Garrido	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-09-02
+George Nagle	4	0	1	0	0	0	0	0	1					Las Vegas
+Antonio Carrera	3	3	3	1	0	0	0	0	0	
+Jason Burress	3	2	1	1	0	0	1	1	0	
+Charles Harris	4	2	2	0	0	1	3	0	0	
+Bautista Saelices	4	0	1	1	0	0	3	0	1	
+Noah Fontenot	3	0	1	0	0	0	0	1	0	
+Dante Arias	4	0	0	0	0	0	0	0	1	
+Albert Lang	3	0	0	0	0	0	0	0	2	
+Nathan Kaur	3	0	0	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Emanuel Muñoz	0	0	1	1	0	0	15	6	3	1	1	6	22	
+Taylor Murphy	1	0	1	0	0	0	6	0	0	0	0	2	6	
+Rodrigo Valerio	0	0	1	0	0	0	6	1	0	0	1	2	8	
+Jacob Wallace	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Macos Alguacil	0	0	0	0	0	0	0	0	0	0	0	0	0	

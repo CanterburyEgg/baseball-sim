@@ -1,0 +1,890 @@
+TOP INNING 1
+
+Yorell Harmon: rng1 = 96 + 15 - 9 - 1 = 101
+rng2 = 48 + 15 - 6 - 1 = 56
+Single
+Team 2 pitcher (Sean Wilson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Isaac Morris: rng1 = 71 + 15 - 9 - 1 = 76
+rng2 = 84 + 15 - 6 - 1 = 92
+Double
+Team 2 pitcher (Sean Wilson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: false, base2: [1,0], base3: [0,0]
+base1: false, base2: true, base3: true
+Score: 0-0
+
+Angel Semprún: rng1 = 66 + 13 - 9 - 1 = 69
+Walk
+Team 2 pitcher (Sean Wilson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 0
+
+base1: [2,0], base2: [1,0], base3: [0,0]
+base1: true, base2: true, base3: true
+Score: 0-0
+
+Elliot Hudson: rng1 = 25 + 12 - 9 - 1 = 27
+Strikeout
+Team 2 pitcher (Sean Wilson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [2,0], base2: [1,0], base3: [0,0]
+base1: true, base2: true, base3: true
+Score: 0-0
+
+Trey Walter: rng1 = 74 + 8 - 9 - 1 = 72
+rng2 = 68 + 10 - 6 - 1 = 71
+Double
+Team 2 pitcher (Sean Wilson): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 1
+
+base1: false, base2: [4,0], base3: [2,0]
+base1: false, base2: true, base3: true
+Score: 2-0
+
+Wil Raymond: rng1 = 19 + 10 - 9 - 1 = 19
+Strikeout
+Team 2 pitcher (Sean Wilson): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: false, base2: [4,0], base3: [2,0]
+base1: false, base2: true, base3: true
+Score: 2-0
+
+Ivan Cruz: rng1 = 18 + 4 - 9 - 1 = 12
+rng2 = 37 + 7 - 6 - 1 = 37
+Groundout
+Team 2 pitcher (Sean Wilson): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Nicolás Moruga: rng1 = 4 + 15 - 9 + 1 = 11
+rng2 = 97 + 14 - 9 + 1 = 103
+Flyout
+Team 1 pitcher (Theo Thomson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Tristian Love: rng1 = 66 + 13 - 9 + 1 = 71
+Walk
+Team 1 pitcher (Theo Thomson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Aldo Gilmore: rng1 = 81 + 11 - 9 + 1 = 84
+rng2 = 34 + 11 - 9 + 1 = 37
+Single
+Team 1 pitcher (Theo Thomson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 2-0
+
+Lucián Chicote: rng1 = 7 + 11 - 9 + 1 = 10
+Strikeout
+Team 1 pitcher (Theo Thomson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 2-0
+
+Joaquín Laguna: rng1 = 54 + 6 - 9 + 1 = 52
+rng2 = 49 + 9 - 9 + 1 = 50
+Lineout
+Team 1 pitcher (Theo Thomson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+TOP INNING 2
+
+Bailey Turner: rng1 = 69 + 2 - 9 - 1 = 61
+rng2 = 65 + 8 - 6 - 1 = 66
+Flyout
+Team 2 pitcher (Sean Wilson): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Billy Burt: rng1 = 29 + 3 - 9 - 1 = 22
+Strikeout
+Team 2 pitcher (Sean Wilson): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Yorell Harmon: rng1 = 100 + 15 - 9 - 1 = 105
+rng2 = 3 + 15 - 6 - 1 = 11
+Single
+Team 2 pitcher (Sean Wilson): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Isaac Morris: rng1 = 79 + 15 - 9 - 1 = 84
+rng2 = 90 + 15 - 6 - 1 = 98
+Home run
+Team 2 pitcher (Sean Wilson): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Angel Semprún: rng1 = 56 + 13 - 9 - 1 = 59
+rng2 = 94 + 10 - 6 - 1 = 97
+Flyout
+Team 2 pitcher (Sean Wilson): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Zahir Burgos: rng1 = 34 + 9 - 9 + 1 = 35
+rng2 = 89 + 7 - 9 + 1 = 88
+Flyout
+Team 1 pitcher (Theo Thomson): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Alexis Shultz: rng1 = 8 + 10 - 9 + 1 = 10
+Strikeout
+Team 1 pitcher (Theo Thomson): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Edward Cox: rng1 = 58 + 11 - 9 + 1 = 61
+rng2 = 53 + 4 - 9 + 1 = 49
+Lineout
+Team 1 pitcher (Theo Thomson): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+TOP INNING 3
+
+Elliot Hudson: rng1 = 99 + 12 - 9 - 1 = 101
+rng2 = 91 + 11 - 6 - 1 = 95
+Home run
+Team 2 pitcher (Sean Wilson): 13 batters faced, 5 runs allowed = 13 + 12.5 = 25.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Trey Walter: rng1 = 10 + 8 - 9 - 1 = 8
+Strikeout
+Team 2 pitcher (Sean Wilson): 14 batters faced, 5 runs allowed = 14 + 12.5 = 26.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Wil Raymond: rng1 = 98 + 10 - 9 - 1 = 98
+rng2 = 44 + 8 - 6 - 1 = 45
+Single
+Team 2 pitcher (Sean Wilson): 15 batters faced, 5 runs allowed = 15 + 12.5 = 27.5, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-0
+
+Ivan Cruz: rng1 = 90 + 4 - 9 - 1 = 84
+rng2 = 5 + 7 - 6 - 1 = 5
+Single
+Team 2 pitcher (Sean Wilson): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 1
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 5-0
+
+Bailey Turner: rng1 = 88 + 2 - 9 - 1 = 80
+rng2 = 48 + 8 - 6 - 1 = 49
+Single
+Team 2 pitcher (Sean Wilson): 17 batters faced, 6 runs allowed = 17 + 15.0 = 32.0, outs: 1
+
+base1: [7,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 6-0
+
+Billy Burt: rng1 = 17 + 3 - 9 - 1 = 10
+Strikeout
+Team 2 pitcher (Sean Wilson): 18 batters faced, 6 runs allowed = 18 + 15.0 = 33.0, outs: 2
+
+base1: [7,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 6-0
+
+Yorell Harmon: rng1 = 63 + 15 - 9 - 1 = 68
+rng2 = 58 + 15 - 6 - 1 = 66
+Flyout
+Team 2 pitcher (Sean Wilson): 19 batters faced, 6 runs allowed = 19 + 15.0 = 34.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Trent Page: rng1 = 1 + 6 - 9 + 1 = -1
+Strikeout
+Team 1 pitcher (Theo Thomson): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-0
+
+Nicolás Moruga: rng1 = 77 + 15 - 9 + 1 = 84
+rng2 = 68 + 14 - 9 + 1 = 74
+Double
+Team 1 pitcher (Theo Thomson): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 6-0
+
+Tristian Love: rng1 = 1 + 13 - 9 + 1 = 6
+Strikeout
+Team 1 pitcher (Theo Thomson): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 6-0
+
+Aldo Gilmore: rng1 = 32 + 11 - 9 + 1 = 35
+rng2 = 49 + 11 - 9 + 1 = 52
+Lineout
+Team 1 pitcher (Theo Thomson): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-0
+
+-----------------------
+
+TOP INNING 4
+
+Team 2 pitcher change to Trey Hendrickson
+
+Isaac Morris: rng1 = 51 + 15 - 14 - 1 = 51
+rng2 = 29 + 15 - 13 - 1 = 30
+Groundout
+Team 2 pitcher (Trey Hendrickson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-0
+
+Angel Semprún: rng1 = 25 + 13 - 14 - 1 = 23
+Strikeout
+Team 2 pitcher (Trey Hendrickson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-0
+
+Elliot Hudson: rng1 = 52 + 12 - 14 - 1 = 49
+rng2 = 51 + 11 - 13 - 1 = 48
+Lineout
+Team 2 pitcher (Trey Hendrickson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-0
+
+-----------------------
+
+BOTTOM INNING 4
+
+Lucián Chicote: rng1 = 92 + 11 - 9 + 1 = 95
+rng2 = 79 + 10 - 9 + 1 = 81
+Home run
+Team 1 pitcher (Theo Thomson): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Joaquín Laguna: rng1 = 95 + 6 - 9 + 1 = 93
+rng2 = 44 + 9 - 9 + 1 = 45
+Single
+Team 1 pitcher (Theo Thomson): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-1
+
+Zahir Burgos: rng1 = 74 + 9 - 9 + 1 = 75
+rng2 = 96 + 7 - 9 + 1 = 95
+Home run
+Team 1 pitcher (Theo Thomson): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Alexis Shultz: rng1 = 97 + 10 - 9 + 1 = 99
+rng2 = 71 + 6 - 9 + 1 = 69
+Double
+Team 1 pitcher (Theo Thomson): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 0
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 6-3
+
+Edward Cox: rng1 = 72 + 11 - 9 + 1 = 75
+rng2 = 74 + 4 - 9 + 1 = 70
+Double
+Team 1 pitcher (Theo Thomson): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 0
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 6-4
+
+Trent Page: rng1 = 94 + 6 - 9 + 1 = 92
+rng2 = 1 + 6 - 9 + 1 = -1
+Single
+Team 1 pitcher (Theo Thomson): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 0
+
+base1: [8,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 6-4
+
+Nicolás Moruga: rng1 = 25 + 15 - 9 + 1 = 32
+rng2 = 40 + 14 - 9 + 1 = 46
+Groundout
+Team 1 pitcher (Theo Thomson): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 1
+
+base1: [0,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 6-4
+
+Tristian Love: rng1 = 76 + 13 - 9 + 1 = 81
+rng2 = 5 + 9 - 9 + 1 = 6
+Single
+Team 1 pitcher (Theo Thomson): 20 batters faced, 5 runs allowed = 20 + 12.5 = 32.5, outs: 1
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 6-5
+
+Aldo Gilmore: rng1 = 21 + 11 - 9 + 1 = 24
+Strikeout
+Team 1 pitcher (Theo Thomson): 21 batters faced, 5 runs allowed = 21 + 12.5 = 33.5, outs: 2
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 6-5
+
+Lucián Chicote: rng1 = 57 + 11 - 9 + 1 = 60
+rng2 = 64 + 10 - 9 + 1 = 66
+Flyout
+Team 1 pitcher (Theo Thomson): 22 batters faced, 5 runs allowed = 22 + 12.5 = 34.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-5
+
+-----------------------
+
+TOP INNING 5
+
+Trey Walter: rng1 = 48 + 8 - 14 - 1 = 41
+rng2 = 77 + 10 - 13 - 1 = 73
+Flyout
+Team 2 pitcher (Trey Hendrickson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-5
+
+Wil Raymond: rng1 = 93 + 10 - 14 - 1 = 88
+Walk
+Team 2 pitcher (Trey Hendrickson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-5
+
+Ivan Cruz: rng1 = 38 + 4 - 14 - 1 = 27
+Strikeout
+Team 2 pitcher (Trey Hendrickson): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-5
+
+Bailey Turner: rng1 = 27 + 2 - 14 - 1 = 14
+rng2 = 100 + 8 - 13 - 1 = 94
+Flyout
+Team 2 pitcher (Trey Hendrickson): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-5
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Julian Carney
+
+Joaquín Laguna: rng1 = 86 + 6 - 12 + 1 = 81
+rng2 = 32 + 9 - 11 + 1 = 31
+Single
+Team 1 pitcher (Julian Carney): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-5
+
+Zahir Burgos: rng1 = 13 + 9 - 12 + 1 = 11
+rng2 = 74 + 7 - 11 + 1 = 71
+Flyout
+Team 1 pitcher (Julian Carney): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-5
+
+Alexis Shultz: rng1 = 48 + 10 - 12 + 1 = 47
+rng2 = 79 + 6 - 11 + 1 = 75
+Flyout
+Team 1 pitcher (Julian Carney): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-5
+
+Edward Cox: rng1 = 58 + 11 - 12 + 1 = 58
+rng2 = 81 + 4 - 11 + 1 = 75
+Flyout
+Team 1 pitcher (Julian Carney): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-5
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Harris Derickson
+
+Billy Burt: rng1 = 68 + 3 - 8 - 1 = 62
+rng2 = 34 + 7 - 9 - 1 = 31
+Groundout
+Team 2 pitcher (Harris Derickson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-5
+
+Yorell Harmon: rng1 = 21 + 15 - 8 - 1 = 27
+Strikeout
+Team 2 pitcher (Harris Derickson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-5
+
+Isaac Morris: rng1 = 10 + 15 - 8 - 1 = 16
+Strikeout
+Team 2 pitcher (Harris Derickson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-5
+
+-----------------------
+
+BOTTOM INNING 6
+
+Trent Page: rng1 = 21 + 6 - 12 + 1 = 16
+Strikeout
+Team 1 pitcher (Julian Carney): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-5
+
+Nicolás Moruga: rng1 = 4 + 15 - 12 + 1 = 8
+Strikeout
+Team 1 pitcher (Julian Carney): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-5
+
+Tristian Love: rng1 = 87 + 13 - 12 + 1 = 89
+Walk
+Team 1 pitcher (Julian Carney): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-5
+
+Aldo Gilmore: rng1 = 81 + 11 - 12 + 1 = 81
+rng2 = 72 + 11 - 11 + 1 = 73
+Double
+Team 1 pitcher (Julian Carney): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: [2,1], base3: false
+base1: false, base2: true, base3: false
+Score: 6-6
+
+Lucián Chicote: rng1 = 65 + 11 - 12 + 1 = 65
+rng2 = 42 + 10 - 11 + 1 = 42
+Groundout
+Team 1 pitcher (Julian Carney): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-6
+
+-----------------------
+
+TOP INNING 7
+
+Angel Semprún: rng1 = 75 + 13 - 8 - 1 = 79
+rng2 = 72 + 10 - 9 - 1 = 72
+Double
+Team 2 pitcher (Harris Derickson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: false, base2: [2,2], base3: false
+base1: false, base2: true, base3: false
+Score: 6-6
+
+Elliot Hudson: rng1 = 39 + 12 - 8 - 1 = 42
+rng2 = 2 + 11 - 9 - 1 = 3
+Groundout
+Team 2 pitcher (Harris Derickson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: [2,2]
+base1: false, base2: false, base3: true
+Score: 6-6
+
+Trey Walter: rng1 = 83 + 8 - 8 - 1 = 82
+rng2 = 60 + 10 - 9 - 1 = 60
+Single
+Team 2 pitcher (Harris Derickson): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-6
+
+Wil Raymond: rng1 = 7 + 10 - 8 - 1 = 8
+Strikeout
+Team 2 pitcher (Harris Derickson): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-6
+
+Ivan Cruz: rng1 = 47 + 4 - 8 - 1 = 42
+rng2 = 25 + 7 - 9 - 1 = 22
+Groundout
+Team 2 pitcher (Harris Derickson): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-6
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Sammie Starr
+
+Joaquín Laguna: rng1 = 41 + 6 - 11 + 1 = 37
+rng2 = 39 + 9 - 7 + 1 = 42
+Groundout
+Team 1 pitcher (Sammie Starr): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-6
+
+Zahir Burgos: rng1 = 31 + 9 - 11 + 1 = 30
+rng2 = 2 + 7 - 7 + 1 = 3
+Groundout
+Team 1 pitcher (Sammie Starr): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-6
+
+Alexis Shultz: rng1 = 83 + 10 - 11 + 1 = 83
+rng2 = 11 + 6 - 7 + 1 = 11
+Single
+Team 1 pitcher (Sammie Starr): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-6
+
+Edward Cox: rng1 = 39 + 11 - 11 + 1 = 40
+rng2 = 50 + 4 - 7 + 1 = 48
+Lineout
+Team 1 pitcher (Sammie Starr): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-6
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Johan Cortez
+
+Bailey Turner: rng1 = 93 + 2 - 3 - 1 = 91
+rng2 = 57 + 8 - 9 - 1 = 55
+Single
+Team 2 pitcher (Johan Cortez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [7,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-6
+
+Billy Burt: rng1 = 84 + 3 - 3 - 1 = 83
+rng2 = 60 + 7 - 9 - 1 = 57
+Single
+Team 2 pitcher (Johan Cortez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [8,3], base2: [7,3], base3: false
+base1: true, base2: true, base3: false
+Score: 7-6
+
+Yorell Harmon: rng1 = 82 + 15 - 3 - 1 = 93
+rng2 = 18 + 15 - 9 - 1 = 23
+Single
+Team 2 pitcher (Johan Cortez): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 0
+
+base1: [0,3], base2: [8,3], base3: false
+base1: true, base2: true, base3: false
+Score: 8-6
+
+Isaac Morris: rng1 = 83 + 15 - 3 - 1 = 94
+rng2 = 3 + 15 - 9 - 1 = 8
+Single
+Team 2 pitcher (Johan Cortez): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 0
+
+base1: [1,3], base2: false, base3: [0,3]
+base1: true, base2: false, base3: true
+Score: 9-6
+
+Angel Semprún: rng1 = 48 + 13 - 3 - 1 = 57
+rng2 = 51 + 10 - 9 - 1 = 51
+Lineout
+Team 2 pitcher (Johan Cortez): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 1
+
+base1: [1,3], base2: false, base3: [0,3]
+base1: true, base2: false, base3: true
+Score: 9-6
+
+Elliot Hudson: rng1 = 46 + 12 - 3 - 1 = 54
+rng2 = 97 + 11 - 9 - 1 = 98
+Flyout
+Team 2 pitcher (Johan Cortez): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: [1,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 10-6
+
+Team 2 pitcher change to Christopher Jones
+
+Trey Walter: rng1 = 91 + 8 - 15 - 1 = 83
+rng2 = 62 + 10 - 15 - 1 = 56
+Single
+Team 2 pitcher (Christopher Jones): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [4,4], base2: [1,3], base3: false
+base1: true, base2: true, base3: false
+Score: 10-6
+
+Wil Raymond: rng1 = 92 + 10 - 15 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Christopher Jones): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: [5,4], base2: [4,4], base3: [1,3]
+base1: true, base2: true, base3: true
+Score: 10-6
+
+Ivan Cruz: rng1 = 32 + 4 - 15 - 1 = 20
+Strikeout
+Team 2 pitcher (Christopher Jones): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 10-6
+
+-----------------------
+
+BOTTOM INNING 8
+
+Trent Page: rng1 = 64 + 6 - 11 + 1 = 60
+rng2 = 67 + 6 - 7 + 1 = 67
+Flyout
+Team 1 pitcher (Sammie Starr): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-6
+
+Nicolás Moruga: rng1 = 14 + 15 - 11 + 1 = 19
+Strikeout
+Team 1 pitcher (Sammie Starr): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-6
+
+Tristian Love: rng1 = 88 + 13 - 11 + 1 = 91
+rng2 = 82 + 9 - 7 + 1 = 85
+Home run
+Team 1 pitcher (Sammie Starr): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-7
+
+Aldo Gilmore: rng1 = 33 + 11 - 11 + 1 = 34
+rng2 = 68 + 11 - 7 + 1 = 73
+Flyout
+Team 1 pitcher (Sammie Starr): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 10-7
+
+-----------------------
+
+TOP INNING 9
+
+Bailey Turner: rng1 = 32 + 2 - 15 - 1 = 18
+Strikeout
+Team 2 pitcher (Christopher Jones): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-7
+
+Billy Burt: rng1 = 67 + 3 - 15 - 1 = 54
+rng2 = 89 + 7 - 15 - 1 = 80
+Flyout
+Team 2 pitcher (Christopher Jones): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-7
+
+Yorell Harmon: rng1 = 8 + 15 - 15 - 1 = 7
+Strikeout
+Team 2 pitcher (Christopher Jones): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 10-7
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Otis Michael
+
+Lucián Chicote: rng1 = 29 + 11 - 13 + 1 = 28
+rng2 = 26 + 10 - 13 + 1 = 24
+Groundout
+Team 1 pitcher (Otis Michael): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-7
+
+Joaquín Laguna: rng1 = 2 + 6 - 13 + 1 = -4
+Strikeout
+Team 1 pitcher (Otis Michael): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-7
+
+Zahir Burgos: rng1 = 74 + 9 - 13 + 1 = 71
+Walk
+Team 1 pitcher (Otis Michael): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [5,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 10-7
+
+Alexis Shultz: rng1 = 89 + 10 - 13 + 1 = 87
+Walk
+Team 1 pitcher (Otis Michael): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [6,4], base2: [5,4], base3: false
+base1: true, base2: true, base3: false
+Score: 10-7
+
+Edward Cox: rng1 = 39 + 11 - 13 + 1 = 38
+rng2 = 91 + 4 - 13 + 1 = 83
+Flyout
+Team 1 pitcher (Otis Michael): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 10-7
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 16
+Team 2 hits: 13
+Team 1 runs: 10
+Team 2 runs: 7
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-09-02
+Yorell Harmon	6	3	3	0	0	0	1	0	2					Toronto
+Isaac Morris	5	2	3	1	0	1	3	0	1	
+Angel Semprún	4	1	1	1	0	0	0	1	1	
+Elliot Hudson	5	1	1	0	0	1	2	0	1	
+Trey Walter	5	0	3	1	0	0	3	0	1	
+Wil Raymond	3	1	1	0	0	0	0	1	2	
+Ivan Cruz	5	0	1	0	0	0	0	0	2	
+Bailey Turner	5	1	2	0	0	0	1	0	1	
+Billy Burt	5	1	1	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Theo Thomson	0	0	1	1	0	0	12	9	5	2	1	5	22	
+Julian Carney	1	0	1	0	0	0	6	2	1	0	1	2	9	
+Sammie Starr	0	0	1	0	0	0	6	2	1	1	0	1	8	
+Okihana Min-Ki	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Otis Michael	0	0	1	0	1	1	3	0	0	0	2	1	5	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-09-02
+Nicolás Moruga	5	0	1	1	0	0	0	0	2					New York
+Tristian Love	3	2	2	0	0	1	2	2	1	
+Aldo Gilmore	5	0	2	1	0	0	1	0	1	
+Lucián Chicote	5	1	1	0	0	1	1	0	1	
+Joaquín Laguna	5	1	2	0	0	0	0	0	1	
+Zahir Burgos	4	1	1	0	0	1	2	1	0	
+Alexis Shultz	4	1	2	1	0	0	0	1	1	
+Edward Cox	5	1	1	1	0	0	1	0	0	
+Trent Page	4	0	1	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Sean Wilson	0	0	1	1	0	0	9	9	6	2	1	5	19	
+Trey Hendrickson	0	0	1	0	0	0	6	0	0	0	1	2	7	
+Harris Derickson	0	1	1	0	0	0	6	2	1	0	0	3	8	
+Johan Cortez	0	0	1	0	0	0	2	4	3	0	0	0	6	
+Christopher Jones	0	0	1	0	0	0	4	1	0	0	0	3	6	

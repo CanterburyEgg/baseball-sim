@@ -1,0 +1,691 @@
+TOP INNING 1
+
+Wakasugi Norogumi: rng1 = 11 + 14 - 5 - 1 = 19
+Strikeout
+Team 2 pitcher (Mauro Ramos): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Lawson Haney: rng1 = 93 + 14 - 5 - 1 = 101
+rng2 = 71 + 11 - 6 - 1 = 75
+Double
+Team 2 pitcher (Mauro Ramos): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Ethan Spencer: rng1 = 50 + 12 - 5 - 1 = 56
+rng2 = 23 + 15 - 6 - 1 = 31
+Groundout
+Team 2 pitcher (Mauro Ramos): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Ike Nicholson: rng1 = 7 + 9 - 5 - 1 = 10
+Strikeout
+Team 2 pitcher (Mauro Ramos): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Caleb Harrington: rng1 = 99 + 12 - 6 + 1 = 106
+rng2 = 60 + 7 - 6 + 1 = 62
+Single
+Team 1 pitcher (Rishard Gibson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Blake Welsh: rng1 = 38 + 12 - 6 + 1 = 45
+rng2 = 66 + 6 - 6 + 1 = 67
+Flyout
+Team 1 pitcher (Rishard Gibson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Tommy Baxter: rng1 = 6 + 11 - 6 + 1 = 12
+rng2 = 39 + 13 - 6 + 1 = 47
+Groundout
+Team 1 pitcher (Rishard Gibson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Jaquon Lyons: rng1 = 5 + 11 - 6 + 1 = 11
+rng2 = 47 + 9 - 6 + 1 = 51
+Lineout
+Team 1 pitcher (Rishard Gibson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Hayden Wright: rng1 = 44 + 7 - 5 - 1 = 45
+rng2 = 21 + 9 - 6 - 1 = 23
+Groundout
+Team 2 pitcher (Mauro Ramos): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Karsen Welch: rng1 = 63 + 10 - 5 - 1 = 67
+rng2 = 95 + 8 - 6 - 1 = 96
+Flyout
+Team 2 pitcher (Mauro Ramos): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Alfonso Stafford: rng1 = 24 + 12 - 5 - 1 = 30
+rng2 = 68 + 7 - 6 - 1 = 68
+Flyout
+Team 2 pitcher (Mauro Ramos): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Emiel Ware: rng1 = 18 + 10 - 6 + 1 = 23
+Strikeout
+Team 1 pitcher (Rishard Gibson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Isaac Secada: rng1 = 46 + 6 - 6 + 1 = 47
+rng2 = 51 + 8 - 6 + 1 = 54
+Lineout
+Team 1 pitcher (Rishard Gibson): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Ethan Hayes: rng1 = 47 + 6 - 6 + 1 = 48
+rng2 = 90 + 6 - 6 + 1 = 91
+Flyout
+Team 1 pitcher (Rishard Gibson): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 3
+
+Xavier Cabrera: rng1 = 94 + 10 - 5 - 1 = 98
+rng2 = 35 + 7 - 6 - 1 = 35
+Single
+Team 2 pitcher (Mauro Ramos): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Darren Chang: rng1 = 5 + 3 - 5 - 1 = 2
+Strikeout
+Team 2 pitcher (Mauro Ramos): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Wakasugi Norogumi: rng1 = 5 + 14 - 5 - 1 = 13
+rng2 = 64 + 14 - 6 - 1 = 71
+Flyout
+Team 2 pitcher (Mauro Ramos): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Lawson Haney: rng1 = 12 + 14 - 5 - 1 = 20
+Strikeout
+Team 2 pitcher (Mauro Ramos): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Javier Guillén: rng1 = 51 + 6 - 6 + 1 = 52
+rng2 = 85 + 5 - 6 + 1 = 85
+Flyout
+Team 1 pitcher (Rishard Gibson): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Adam Marshall: rng1 = 20 + 4 - 6 + 1 = 19
+Strikeout
+Team 1 pitcher (Rishard Gibson): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Caleb Harrington: rng1 = 55 + 12 - 6 + 1 = 62
+rng2 = 9 + 7 - 6 + 1 = 11
+Groundout
+Team 1 pitcher (Rishard Gibson): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 4
+
+Ethan Spencer: rng1 = 17 + 12 - 5 - 1 = 23
+Strikeout
+Team 2 pitcher (Mauro Ramos): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Ike Nicholson: rng1 = 53 + 9 - 5 - 1 = 56
+rng2 = 26 + 11 - 6 - 1 = 30
+Groundout
+Team 2 pitcher (Mauro Ramos): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Hayden Wright: rng1 = 69 + 7 - 5 - 1 = 70
+Walk
+Team 2 pitcher (Mauro Ramos): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Karsen Welch: rng1 = 83 + 10 - 5 - 1 = 87
+Walk
+Team 2 pitcher (Mauro Ramos): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 2
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Alfonso Stafford: rng1 = 12 + 12 - 5 - 1 = 18
+Strikeout
+Team 2 pitcher (Mauro Ramos): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 4
+
+Blake Welsh: rng1 = 79 + 12 - 6 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Rishard Gibson): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Tommy Baxter: rng1 = 14 + 11 - 6 + 1 = 20
+Strikeout
+Team 1 pitcher (Rishard Gibson): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Jaquon Lyons: rng1 = 53 + 11 - 6 + 1 = 59
+rng2 = 80 + 9 - 6 + 1 = 84
+Flyout
+Team 1 pitcher (Rishard Gibson): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Emiel Ware: rng1 = 56 + 10 - 6 + 1 = 61
+rng2 = 55 + 9 - 6 + 1 = 59
+Flyout
+Team 1 pitcher (Rishard Gibson): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 5
+
+Xavier Cabrera: rng1 = 47 + 10 - 5 - 1 = 51
+rng2 = 61 + 7 - 6 - 1 = 61
+Flyout
+Team 2 pitcher (Mauro Ramos): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Darren Chang: rng1 = 38 + 3 - 5 - 1 = 35
+rng2 = 28 + 8 - 6 - 1 = 29
+Groundout
+Team 2 pitcher (Mauro Ramos): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Wakasugi Norogumi: rng1 = 61 + 14 - 5 - 1 = 69
+Walk
+Team 2 pitcher (Mauro Ramos): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Lawson Haney: rng1 = 40 + 14 - 5 - 1 = 48
+rng2 = 39 + 11 - 6 - 1 = 43
+Groundout
+Team 2 pitcher (Mauro Ramos): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 5
+
+Isaac Secada: rng1 = 73 + 6 - 6 + 1 = 74
+rng2 = 70 + 8 - 6 + 1 = 73
+Double
+Team 1 pitcher (Rishard Gibson): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 0
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Ethan Hayes: rng1 = 21 + 6 - 6 + 1 = 22
+Strikeout
+Team 1 pitcher (Rishard Gibson): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 1
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Javier Guillén: rng1 = 88 + 6 - 6 + 1 = 89
+Walk
+Team 1 pitcher (Rishard Gibson): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 1
+
+base1: [7,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Adam Marshall: rng1 = 7 + 4 - 6 + 1 = 6
+Strikeout
+Team 1 pitcher (Rishard Gibson): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 2
+
+base1: [7,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Caleb Harrington: rng1 = 89 + 12 - 6 + 1 = 96
+rng2 = 94 + 7 - 6 + 1 = 96
+Home run
+Team 1 pitcher (Rishard Gibson): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Blake Welsh: rng1 = 18 + 12 - 6 + 1 = 25
+Strikeout
+Team 1 pitcher (Rishard Gibson): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+TOP INNING 6
+
+Ethan Spencer: rng1 = 9 + 12 - 5 - 1 = 15
+rng2 = 80 + 15 - 6 - 1 = 88
+Flyout
+Team 2 pitcher (Mauro Ramos): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Ike Nicholson: rng1 = 44 + 9 - 5 - 1 = 47
+rng2 = 12 + 11 - 6 - 1 = 16
+Groundout
+Team 2 pitcher (Mauro Ramos): 22 batters faced, 0 runs allowed = 22 + 0.0 = 22.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Hayden Wright: rng1 = 21 + 7 - 5 - 1 = 22
+Strikeout
+Team 2 pitcher (Mauro Ramos): 23 batters faced, 0 runs allowed = 23 + 0.0 = 23.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+BOTTOM INNING 6
+
+Tommy Baxter: rng1 = 55 + 11 - 6 + 1 = 61
+rng2 = 2 + 13 - 6 + 1 = 10
+Groundout
+Team 1 pitcher (Rishard Gibson): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Jaquon Lyons: rng1 = 76 + 11 - 6 + 1 = 82
+rng2 = 80 + 9 - 6 + 1 = 84
+Home run
+Team 1 pitcher (Rishard Gibson): 22 batters faced, 4 runs allowed = 22 + 10.0 = 32.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Emiel Ware: rng1 = 29 + 10 - 6 + 1 = 34
+rng2 = 34 + 9 - 6 + 1 = 38
+Groundout
+Team 1 pitcher (Rishard Gibson): 23 batters faced, 4 runs allowed = 23 + 10.0 = 33.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Isaac Secada: rng1 = 100 + 6 - 6 + 1 = 101
+rng2 = 85 + 8 - 6 + 1 = 88
+Double
+Team 1 pitcher (Rishard Gibson): 24 batters faced, 4 runs allowed = 24 + 10.0 = 34.0, outs: 2
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-4
+
+Ethan Hayes: rng1 = 97 + 6 - 6 + 1 = 98
+rng2 = 47 + 6 - 6 + 1 = 48
+Single
+Team 1 pitcher (Rishard Gibson): 25 batters faced, 5 runs allowed = 25 + 12.5 = 37.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Team 1 pitcher change to Thomas Dillard
+
+Javier Guillén: rng1 = 39 + 6 - 9 + 1 = 37
+rng2 = 34 + 5 - 7 + 1 = 33
+Groundout
+Team 1 pitcher (Thomas Dillard): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+TOP INNING 7
+
+Karsen Welch: rng1 = 16 + 10 - 5 - 1 = 20
+Strikeout
+Team 2 pitcher (Mauro Ramos): 24 batters faced, 0 runs allowed = 24 + 0.0 = 24.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Alfonso Stafford: rng1 = 4 + 12 - 5 - 1 = 10
+Strikeout
+Team 2 pitcher (Mauro Ramos): 25 batters faced, 0 runs allowed = 25 + 0.0 = 25.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Xavier Cabrera: rng1 = 70 + 10 - 5 - 1 = 74
+rng2 = 41 + 7 - 6 - 1 = 41
+Single
+Team 2 pitcher (Mauro Ramos): 26 batters faced, 0 runs allowed = 26 + 0.0 = 26.0, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Darren Chang: rng1 = 65 + 3 - 5 - 1 = 62
+rng2 = 67 + 8 - 6 - 1 = 68
+Flyout
+Team 2 pitcher (Mauro Ramos): 27 batters faced, 0 runs allowed = 27 + 0.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+BOTTOM INNING 7
+
+Adam Marshall: rng1 = 7 + 4 - 9 + 1 = 3
+Strikeout
+Team 1 pitcher (Thomas Dillard): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Caleb Harrington: rng1 = 10 + 12 - 9 + 1 = 14
+rng2 = 65 + 7 - 7 + 1 = 66
+Flyout
+Team 1 pitcher (Thomas Dillard): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Blake Welsh: rng1 = 5 + 12 - 9 + 1 = 9
+Strikeout
+Team 1 pitcher (Thomas Dillard): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Abraham Pace
+
+Wakasugi Norogumi: rng1 = 41 + 14 - 10 - 1 = 44
+rng2 = 59 + 14 - 9 - 1 = 63
+Flyout
+Team 2 pitcher (Abraham Pace): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Lawson Haney: rng1 = 28 + 14 - 10 - 1 = 31
+rng2 = 79 + 11 - 9 - 1 = 80
+Flyout
+Team 2 pitcher (Abraham Pace): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Ethan Spencer: rng1 = 77 + 12 - 10 - 1 = 78
+rng2 = 15 + 15 - 9 - 1 = 20
+Single
+Team 2 pitcher (Abraham Pace): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Ike Nicholson: rng1 = 35 + 9 - 10 - 1 = 33
+rng2 = 23 + 11 - 9 - 1 = 24
+Groundout
+Team 2 pitcher (Abraham Pace): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+BOTTOM INNING 8
+
+Tommy Baxter: rng1 = 68 + 11 - 9 + 1 = 71
+Walk
+Team 1 pitcher (Thomas Dillard): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Jaquon Lyons: rng1 = 42 + 11 - 9 + 1 = 45
+rng2 = 44 + 9 - 7 + 1 = 47
+Groundout
+Team 1 pitcher (Thomas Dillard): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: [2,1], base3: false
+base1: false, base2: true, base3: false
+Score: 0-5
+
+Emiel Ware: rng1 = 62 + 10 - 9 + 1 = 64
+rng2 = 99 + 9 - 7 + 1 = 102
+Flyout
+Team 1 pitcher (Thomas Dillard): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: [2,1], base3: false
+base1: false, base2: true, base3: false
+Score: 0-5
+
+Isaac Secada: rng1 = 43 + 6 - 9 + 1 = 41
+rng2 = 19 + 8 - 7 + 1 = 21
+Groundout
+Team 1 pitcher (Thomas Dillard): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+TOP INNING 9
+
+Hayden Wright: rng1 = 92 + 7 - 10 - 1 = 88
+Walk
+Team 2 pitcher (Abraham Pace): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Karsen Welch: rng1 = 84 + 10 - 10 - 1 = 83
+rng2 = 34 + 8 - 9 - 1 = 32
+Single
+Team 2 pitcher (Abraham Pace): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 0
+
+base1: [5,1], base2: false, base3: [4,1]
+base1: true, base2: false, base3: true
+Score: 0-5
+
+Alfonso Stafford: rng1 = 10 + 12 - 10 - 1 = 11
+rng2 = 1 + 7 - 9 - 1 = -2
+Groundout
+Team 2 pitcher (Abraham Pace): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: false, base2: [5,1], base3: false
+base1: false, base2: true, base3: false
+Score: 1-5
+
+Xavier Cabrera: rng1 = 27 + 10 - 10 - 1 = 26
+Strikeout
+Team 2 pitcher (Abraham Pace): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: [5,1], base3: false
+base1: false, base2: true, base3: false
+Score: 1-5
+
+Darren Chang: rng1 = 4 + 3 - 10 - 1 = -4
+Strikeout
+Team 2 pitcher (Abraham Pace): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 5
+Team 2 hits: 6
+Team 1 runs: 1
+Team 2 runs: 5
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-09-03
+Wakasugi Norogumi	3	0	0	0	0	0	0	1	1					Atlanta
+Lawson Haney	4	0	1	1	0	0	0	0	1	
+Ethan Spencer	4	0	1	0	0	0	0	0	1	
+Ike Nicholson	4	0	0	0	0	0	0	0	1	
+Hayden Wright	2	1	0	0	0	0	0	2	1	
+Karsen Welch	3	0	1	0	0	0	0	1	1	
+Alfonso Stafford	4	0	0	0	0	0	1	0	2	
+Xavier Cabrera	4	0	2	0	0	0	0	0	1	
+Darren Chang	4	0	0	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Rishard Gibson	0	1	1	1	0	0	17	6	5	2	1	6	25	
+Thomas Dillard	0	0	1	0	0	0	7	0	0	0	1	2	8	
+Saiki Iwane	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Moises Alvarado	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Juancarlo Pinto	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-09-03
+Caleb Harrington	4	1	2	0	0	1	3	0	0					Miami
+Blake Welsh	3	0	0	0	0	0	0	0	2	
+Tommy Baxter	3	0	0	0	0	0	0	1	1	
+Jaquon Lyons	4	1	1	0	0	1	1	0	0	
+Emiel Ware	4	0	0	0	0	0	0	0	1	
+Isaac Secada	4	2	2	2	0	0	0	0	0	
+Ethan Hayes	3	0	1	0	0	0	1	0	1	
+Javier Guillén	2	1	0	0	0	0	0	1	0	
+Adam Marshall	3	0	0	0	0	0	0	0	3	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Mauro Ramos	1	0	1	1	0	0	21	3	0	0	3	9	27	
+Abraham Pace	0	0	1	0	0	0	6	2	1	0	1	2	9	
+Iván Curbelo	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Eddie Lochland	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Kwok Kwang-Seok	0	0	0	0	0	0	0	0	0	0	0	0	0	

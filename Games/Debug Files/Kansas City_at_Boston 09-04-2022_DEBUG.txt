@@ -1,0 +1,815 @@
+TOP INNING 1
+
+Stanley Jackson: rng1 = 7 + 13 - 6 - 1 = 13
+rng2 = 68 + 11 - 6 - 1 = 72
+Flyout
+Team 2 pitcher (Joniel Serrano): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Andres Fortune: rng1 = 75 + 11 - 6 - 1 = 79
+rng2 = 39 + 11 - 6 - 1 = 43
+Single
+Team 2 pitcher (Joniel Serrano): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Noah Key: rng1 = 55 + 9 - 6 - 1 = 57
+rng2 = 46 + 8 - 6 - 1 = 47
+Groundout
+Team 2 pitcher (Joniel Serrano): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Juan Manzanares: rng1 = 33 + 15 - 7 + 1 = 42
+rng2 = 86 + 12 - 5 + 1 = 94
+Flyout
+Team 1 pitcher (Adam Cole): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Aiden Hayes: rng1 = 98 + 11 - 7 + 1 = 103
+rng2 = 98 + 8 - 5 + 1 = 102
+Home run
+Team 1 pitcher (Adam Cole): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Juan Pearson: rng1 = 60 + 10 - 7 + 1 = 64
+rng2 = 88 + 9 - 5 + 1 = 93
+Flyout
+Team 1 pitcher (Adam Cole): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Emanuel Gutiérrez: rng1 = 89 + 6 - 7 + 1 = 89
+Walk
+Team 1 pitcher (Adam Cole): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Noah Davidson: rng1 = 64 + 8 - 7 + 1 = 66
+rng2 = 39 + 9 - 5 + 1 = 44
+Groundout
+Team 1 pitcher (Adam Cole): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 2
+
+Dexter Stevens: rng1 = 90 + 4 - 6 - 1 = 87
+Walk
+Team 2 pitcher (Joniel Serrano): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Ewan Hunt: rng1 = 71 + 6 - 6 - 1 = 70
+Walk
+Team 2 pitcher (Joniel Serrano): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-1
+
+Noel Ayers: rng1 = 68 + 6 - 6 - 1 = 67
+rng2 = 83 + 7 - 6 - 1 = 83
+Flyout
+Team 2 pitcher (Joniel Serrano): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-1
+
+Dominic Gardner: rng1 = 7 + 5 - 6 - 1 = 5
+Strikeout
+Team 2 pitcher (Joniel Serrano): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-1
+
+David Freixa: rng1 = 94 + 6 - 6 - 1 = 93
+rng2 = 35 + 5 - 6 - 1 = 33
+Single
+Team 2 pitcher (Joniel Serrano): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [7,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 1-1
+
+Katagiri Seibei: rng1 = 94 + 6 - 6 - 1 = 93
+rng2 = 72 + 5 - 6 - 1 = 70
+Double
+Team 2 pitcher (Joniel Serrano): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 2
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-1
+
+Stanley Jackson: rng1 = 16 + 13 - 6 - 1 = 22
+Strikeout
+Team 2 pitcher (Joniel Serrano): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Cannon Terry: rng1 = 24 + 5 - 7 + 1 = 23
+Strikeout
+Team 1 pitcher (Adam Cole): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Quillin Grant: rng1 = 72 + 7 - 7 + 1 = 73
+rng2 = 36 + 8 - 5 + 1 = 40
+Single
+Team 1 pitcher (Adam Cole): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Seamus Tanner: rng1 = 72 + 8 - 7 + 1 = 74
+rng2 = 96 + 6 - 5 + 1 = 98
+Home run
+Team 1 pitcher (Adam Cole): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Trent Cline: rng1 = 98 + 4 - 7 + 1 = 96
+rng2 = 77 + 6 - 5 + 1 = 79
+Home run
+Team 1 pitcher (Adam Cole): 9 batters faced, 4 runs allowed = 9 + 10.0 = 19.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Juan Manzanares: rng1 = 35 + 15 - 7 + 1 = 44
+rng2 = 73 + 12 - 5 + 1 = 81
+Flyout
+Team 1 pitcher (Adam Cole): 10 batters faced, 4 runs allowed = 10 + 10.0 = 20.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Aiden Hayes: rng1 = 11 + 11 - 7 + 1 = 16
+Strikeout
+Team 1 pitcher (Adam Cole): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+TOP INNING 3
+
+Andres Fortune: rng1 = 6 + 11 - 6 - 1 = 10
+Strikeout
+Team 2 pitcher (Joniel Serrano): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Noah Key: rng1 = 99 + 9 - 6 - 1 = 101
+rng2 = 71 + 8 - 6 - 1 = 72
+Double
+Team 2 pitcher (Joniel Serrano): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-4
+
+Dexter Stevens: rng1 = 82 + 4 - 6 - 1 = 79
+rng2 = 30 + 9 - 6 - 1 = 32
+Single
+Team 2 pitcher (Joniel Serrano): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Ewan Hunt: rng1 = 46 + 6 - 6 - 1 = 45
+rng2 = 80 + 8 - 6 - 1 = 81
+Flyout
+Team 2 pitcher (Joniel Serrano): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Noel Ayers: rng1 = 95 + 6 - 6 - 1 = 94
+rng2 = 9 + 7 - 6 - 1 = 9
+Single
+Team 2 pitcher (Joniel Serrano): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 2
+
+base1: [5,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 4-4
+
+Dominic Gardner: rng1 = 21 + 5 - 6 - 1 = 19
+Strikeout
+Team 2 pitcher (Joniel Serrano): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+BOTTOM INNING 3
+
+Juan Pearson: rng1 = 51 + 10 - 7 + 1 = 55
+rng2 = 90 + 9 - 5 + 1 = 95
+Flyout
+Team 1 pitcher (Adam Cole): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Emanuel Gutiérrez: rng1 = 60 + 6 - 7 + 1 = 60
+rng2 = 26 + 12 - 5 + 1 = 34
+Groundout
+Team 1 pitcher (Adam Cole): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Noah Davidson: rng1 = 33 + 8 - 7 + 1 = 35
+rng2 = 17 + 9 - 5 + 1 = 22
+Groundout
+Team 1 pitcher (Adam Cole): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+TOP INNING 4
+
+David Freixa: rng1 = 82 + 6 - 6 - 1 = 81
+rng2 = 67 + 5 - 6 - 1 = 65
+Double
+Team 2 pitcher (Joniel Serrano): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 0
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-4
+
+Katagiri Seibei: rng1 = 84 + 6 - 6 - 1 = 83
+rng2 = 43 + 5 - 6 - 1 = 41
+Single
+Team 2 pitcher (Joniel Serrano): 18 batters faced, 5 runs allowed = 18 + 12.5 = 30.5, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-4
+
+Stanley Jackson: rng1 = 32 + 13 - 6 - 1 = 38
+rng2 = 12 + 11 - 6 - 1 = 16
+Groundout
+Team 2 pitcher (Joniel Serrano): 19 batters faced, 5 runs allowed = 19 + 12.5 = 31.5, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-4
+
+Andres Fortune: rng1 = 86 + 11 - 6 - 1 = 90
+Walk
+Team 2 pitcher (Joniel Serrano): 20 batters faced, 5 runs allowed = 20 + 12.5 = 32.5, outs: 1
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 5-4
+
+Noah Key: rng1 = 15 + 9 - 6 - 1 = 17
+Strikeout
+Team 2 pitcher (Joniel Serrano): 21 batters faced, 5 runs allowed = 21 + 12.5 = 33.5, outs: 2
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 5-4
+
+Team 2 pitcher change to Orlando Otero
+
+Dexter Stevens: rng1 = 80 + 4 - 9 - 1 = 74
+rng2 = 26 + 9 - 8 - 1 = 26
+Single
+Team 2 pitcher (Orlando Otero): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [3,1], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 6-4
+
+Ewan Hunt: rng1 = 67 + 6 - 9 - 1 = 63
+rng2 = 35 + 8 - 8 - 1 = 34
+Groundout
+Team 2 pitcher (Orlando Otero): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-4
+
+-----------------------
+
+BOTTOM INNING 4
+
+Cannon Terry: rng1 = 96 + 5 - 7 + 1 = 95
+rng2 = 47 + 9 - 5 + 1 = 52
+Single
+Team 1 pitcher (Adam Cole): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-4
+
+Quillin Grant: rng1 = 71 + 7 - 7 + 1 = 72
+rng2 = 68 + 8 - 5 + 1 = 72
+Double
+Team 1 pitcher (Adam Cole): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 0
+
+base1: false, base2: [6,0], base3: [5,0]
+base1: false, base2: true, base3: true
+Score: 6-4
+
+Seamus Tanner: rng1 = 22 + 8 - 7 + 1 = 24
+Strikeout
+Team 1 pitcher (Adam Cole): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 1
+
+base1: false, base2: [6,0], base3: [5,0]
+base1: false, base2: true, base3: true
+Score: 6-4
+
+Trent Cline: rng1 = 83 + 4 - 7 + 1 = 81
+rng2 = 98 + 6 - 5 + 1 = 100
+Home run
+Team 1 pitcher (Adam Cole): 18 batters faced, 7 runs allowed = 18 + 17.5 = 35.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-7
+
+Juan Manzanares: rng1 = 45 + 15 - 7 + 1 = 54
+rng2 = 41 + 12 - 5 + 1 = 49
+Lineout
+Team 1 pitcher (Adam Cole): 19 batters faced, 7 runs allowed = 19 + 17.5 = 36.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-7
+
+Aiden Hayes: rng1 = 65 + 11 - 7 + 1 = 70
+Walk
+Team 1 pitcher (Adam Cole): 20 batters faced, 7 runs allowed = 20 + 17.5 = 37.5, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-7
+
+Team 1 pitcher change to Cohen Roman
+
+Juan Pearson: rng1 = 11 + 10 - 14 + 1 = 8
+Strikeout
+Team 1 pitcher (Cohen Roman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-7
+
+-----------------------
+
+TOP INNING 5
+
+Noel Ayers: rng1 = 51 + 6 - 9 - 1 = 47
+rng2 = 77 + 7 - 8 - 1 = 75
+Flyout
+Team 2 pitcher (Orlando Otero): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-7
+
+Dominic Gardner: rng1 = 76 + 5 - 9 - 1 = 71
+Walk
+Team 2 pitcher (Orlando Otero): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-7
+
+David Freixa: rng1 = 39 + 6 - 9 - 1 = 35
+rng2 = 70 + 5 - 8 - 1 = 66
+Flyout
+Team 2 pitcher (Orlando Otero): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-7
+
+Katagiri Seibei: rng1 = 2 + 6 - 9 - 1 = -2
+Strikeout
+Team 2 pitcher (Orlando Otero): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-7
+
+-----------------------
+
+BOTTOM INNING 5
+
+Emanuel Gutiérrez: rng1 = 30 + 6 - 14 + 1 = 23
+Strikeout
+Team 1 pitcher (Cohen Roman): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-7
+
+Noah Davidson: rng1 = 51 + 8 - 14 + 1 = 46
+rng2 = 49 + 9 - 12 + 1 = 47
+Groundout
+Team 1 pitcher (Cohen Roman): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-7
+
+Cannon Terry: rng1 = 27 + 5 - 14 + 1 = 19
+Strikeout
+Team 1 pitcher (Cohen Roman): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-7
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Pablo Quintana
+
+Stanley Jackson: rng1 = 15 + 13 - 9 - 1 = 18
+Strikeout
+Team 2 pitcher (Pablo Quintana): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-7
+
+Andres Fortune: rng1 = 72 + 11 - 9 - 1 = 73
+rng2 = 17 + 11 - 7 - 1 = 20
+Single
+Team 2 pitcher (Pablo Quintana): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-7
+
+Noah Key: rng1 = 5 + 9 - 9 - 1 = 4
+Strikeout
+Team 2 pitcher (Pablo Quintana): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-7
+
+Dexter Stevens: rng1 = 75 + 4 - 9 - 1 = 69
+Walk
+Team 2 pitcher (Pablo Quintana): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [3,2], base2: [1,2], base3: false
+base1: true, base2: true, base3: false
+Score: 6-7
+
+Ewan Hunt: rng1 = 9 + 6 - 9 - 1 = 5
+Strikeout
+Team 2 pitcher (Pablo Quintana): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-7
+
+-----------------------
+
+BOTTOM INNING 6
+
+Quillin Grant: rng1 = 100 + 7 - 14 + 1 = 94
+rng2 = 61 + 8 - 12 + 1 = 58
+Single
+Team 1 pitcher (Cohen Roman): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-7
+
+Seamus Tanner: rng1 = 100 + 8 - 14 + 1 = 95
+rng2 = 89 + 6 - 12 + 1 = 84
+Home run
+Team 1 pitcher (Cohen Roman): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-9
+
+Trent Cline: rng1 = 99 + 4 - 14 + 1 = 90
+Walk
+Team 1 pitcher (Cohen Roman): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 0
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-9
+
+Juan Manzanares: rng1 = 40 + 15 - 14 + 1 = 42
+rng2 = 20 + 12 - 12 + 1 = 21
+Groundout
+Team 1 pitcher (Cohen Roman): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 1
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-9
+
+Team 1 pitcher change to Jensen Garrish
+
+Aiden Hayes: rng1 = 65 + 11 - 14 + 1 = 63
+rng2 = 4 + 8 - 13 + 1 = 0
+Groundout
+Team 1 pitcher (Jensen Garrish): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-9
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Grant Colmeyer
+
+Noel Ayers: rng1 = 3 + 6 - 7 - 1 = 1
+Strikeout
+Team 2 pitcher (Grant Colmeyer): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-9
+
+Dominic Gardner: rng1 = 59 + 5 - 7 - 1 = 56
+rng2 = 85 + 6 - 5 - 1 = 85
+Flyout
+Team 2 pitcher (Grant Colmeyer): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-9
+
+David Freixa: rng1 = 65 + 6 - 7 - 1 = 63
+rng2 = 81 + 5 - 5 - 1 = 80
+Flyout
+Team 2 pitcher (Grant Colmeyer): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-9
+
+-----------------------
+
+BOTTOM INNING 7
+
+Juan Pearson: rng1 = 46 + 10 - 14 + 1 = 43
+rng2 = 75 + 9 - 13 + 1 = 72
+Flyout
+Team 1 pitcher (Jensen Garrish): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-9
+
+Emanuel Gutiérrez: rng1 = 79 + 6 - 14 + 1 = 72
+rng2 = 47 + 12 - 13 + 1 = 47
+Single
+Team 1 pitcher (Jensen Garrish): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [3,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-9
+
+Noah Davidson: rng1 = 91 + 8 - 14 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Jensen Garrish): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [4,2], base2: [3,2], base3: false
+base1: true, base2: true, base3: false
+Score: 6-9
+
+Cannon Terry: rng1 = 83 + 5 - 14 + 1 = 75
+rng2 = 16 + 9 - 13 + 1 = 13
+Single
+Team 1 pitcher (Jensen Garrish): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: [5,2], base2: [4,2], base3: false
+base1: true, base2: true, base3: false
+Score: 6-10
+
+Quillin Grant: rng1 = 35 + 7 - 14 + 1 = 29
+rng2 = 43 + 8 - 13 + 1 = 39
+Groundout
+Team 1 pitcher (Jensen Garrish): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-10
+
+-----------------------
+
+TOP INNING 8
+
+Katagiri Seibei: rng1 = 75 + 6 - 7 - 1 = 73
+rng2 = 98 + 5 - 5 - 1 = 97
+Home run
+Team 2 pitcher (Grant Colmeyer): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-10
+
+Stanley Jackson: rng1 = 78 + 13 - 7 - 1 = 83
+rng2 = 95 + 11 - 5 - 1 = 100
+Home run
+Team 2 pitcher (Grant Colmeyer): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-10
+
+Andres Fortune: rng1 = 18 + 11 - 7 - 1 = 21
+Strikeout
+Team 2 pitcher (Grant Colmeyer): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-10
+
+Noah Key: rng1 = 52 + 9 - 7 - 1 = 53
+rng2 = 58 + 8 - 5 - 1 = 60
+Flyout
+Team 2 pitcher (Grant Colmeyer): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-10
+
+Dexter Stevens: rng1 = 73 + 4 - 7 - 1 = 69
+Walk
+Team 2 pitcher (Grant Colmeyer): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: [3,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-10
+
+Team 2 pitcher change to Thomas Barnes
+
+Ewan Hunt: rng1 = 21 + 6 - 12 - 1 = 14
+rng2 = 89 + 8 - 8 - 1 = 88
+Flyout
+Team 2 pitcher (Thomas Barnes): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-10
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Aden Lowery
+
+Seamus Tanner: rng1 = 63 + 8 - 7 + 1 = 65
+rng2 = 98 + 6 - 5 + 1 = 100
+Flyout
+Team 1 pitcher (Aden Lowery): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-10
+
+Trent Cline: rng1 = 17 + 4 - 7 + 1 = 15
+rng2 = 92 + 6 - 5 + 1 = 94
+Flyout
+Team 1 pitcher (Aden Lowery): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-10
+
+Juan Manzanares: rng1 = 5 + 15 - 7 + 1 = 14
+rng2 = 20 + 12 - 5 + 1 = 28
+Groundout
+Team 1 pitcher (Aden Lowery): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-10
+
+-----------------------
+
+TOP INNING 9
+
+Noel Ayers: rng1 = 2 + 6 - 12 - 1 = -5
+Strikeout
+Team 2 pitcher (Thomas Barnes): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-10
+
+Dominic Gardner: rng1 = 53 + 5 - 12 - 1 = 45
+rng2 = 60 + 6 - 8 - 1 = 57
+Lineout
+Team 2 pitcher (Thomas Barnes): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-10
+
+David Freixa: rng1 = 79 + 6 - 12 - 1 = 72
+rng2 = 8 + 5 - 8 - 1 = 4
+Single
+Team 2 pitcher (Thomas Barnes): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [7,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-10
+
+Katagiri Seibei: rng1 = 5 + 6 - 12 - 1 = -2
+Strikeout
+Team 2 pitcher (Thomas Barnes): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-10
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 13
+Team 2 hits: 11
+Team 1 runs: 8
+Team 2 runs: 10
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-09-04
+Stanley Jackson	5	2	1	0	0	1	1	0	2					Kansas City
+Andres Fortune	4	0	2	0	0	0	0	1	2	
+Noah Key	5	1	1	1	0	0	0	0	2	
+Dexter Stevens	2	1	2	0	0	0	2	3	0	
+Ewan Hunt	4	1	0	0	0	0	0	1	1	
+Noel Ayers	5	0	1	0	0	0	0	0	2	
+Dominic Gardner	4	0	0	0	0	0	0	1	2	
+David Freixa	5	2	3	1	0	0	1	0	0	
+Katagiri Seibei	5	1	3	1	0	1	4	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Adam Cole	0	1	1	1	0	0	11	7	7	4	2	3	20	
+Cohen Roman	0	0	1	0	0	0	5	2	2	1	1	3	8	
+Jensen Garrish	0	0	1	0	0	0	5	2	1	0	0	0	6	
+Aden Lowery	0	0	1	0	0	0	3	0	0	0	0	0	3	
+Phoenix Deleon	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-09-04
+Juan Manzanares	5	0	0	0	0	0	0	0	0					Boston
+Aiden Hayes	3	1	1	0	0	1	1	1	1	
+Juan Pearson	4	0	0	0	0	0	0	0	1	
+Emanuel Gutiérrez	3	1	1	0	0	0	0	1	1	
+Noah Davidson	3	0	0	0	0	0	0	0	0	
+Cannon Terry	4	1	2	0	0	0	1	0	2	
+Quillin Grant	4	3	3	1	0	0	0	0	0	
+Seamus Tanner	4	2	2	0	0	2	4	0	1	
+Trent Cline	3	2	2	0	0	2	4	1	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Joniel Serrano	0	0	1	1	0	0	11	8	6	0	3	5	21	
+Orlando Otero	1	0	1	0	0	0	4	1	0	0	1	1	6	
+Pablo Quintana	0	0	1	0	0	0	3	1	0	0	1	3	5	
+Grant Colmeyer	0	0	1	0	0	0	5	2	2	2	1	2	8	
+Thomas Barnes	0	0	1	0	0	0	4	1	0	0	0	2	5	

@@ -1,0 +1,683 @@
+TOP INNING 1
+
+Dylan Marsh: rng1 = 51 + 15 - 11 - 1 = 54
+rng2 = 96 + 15 - 7 - 1 = 103
+Flyout
+Team 2 pitcher (Demarcus Jackson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Rubén Indiano: rng1 = 16 + 14 - 11 - 1 = 18
+Strikeout
+Team 2 pitcher (Demarcus Jackson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Rodolfo Mullen: rng1 = 18 + 13 - 11 - 1 = 19
+Strikeout
+Team 2 pitcher (Demarcus Jackson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Wakasugi Norogumi: rng1 = 28 + 14 - 11 + 1 = 32
+rng2 = 55 + 14 - 12 + 1 = 58
+Lineout
+Team 1 pitcher (Josh Hopkins): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Lawson Haney: rng1 = 40 + 14 - 11 + 1 = 44
+rng2 = 15 + 11 - 12 + 1 = 15
+Groundout
+Team 1 pitcher (Josh Hopkins): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Ethan Spencer: rng1 = 50 + 12 - 11 + 1 = 52
+rng2 = 1 + 15 - 12 + 1 = 5
+Groundout
+Team 1 pitcher (Josh Hopkins): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Frankie Bell: rng1 = 4 + 9 - 11 - 1 = 1
+Strikeout
+Team 2 pitcher (Demarcus Jackson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Enrique Holmes: rng1 = 72 + 6 - 11 - 1 = 66
+rng2 = 73 + 9 - 7 - 1 = 74
+Flyout
+Team 2 pitcher (Demarcus Jackson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Marcelo Francis: rng1 = 18 + 12 - 11 - 1 = 18
+Strikeout
+Team 2 pitcher (Demarcus Jackson): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Ike Nicholson: rng1 = 69 + 9 - 11 + 1 = 68
+rng2 = 91 + 11 - 12 + 1 = 91
+Flyout
+Team 1 pitcher (Josh Hopkins): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Hayden Wright: rng1 = 6 + 7 - 11 + 1 = 3
+Strikeout
+Team 1 pitcher (Josh Hopkins): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Karsen Welch: rng1 = 96 + 10 - 11 + 1 = 96
+rng2 = 9 + 8 - 12 + 1 = 6
+Single
+Team 1 pitcher (Josh Hopkins): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Alfonso Stafford: rng1 = 82 + 12 - 11 + 1 = 84
+rng2 = 29 + 7 - 12 + 1 = 25
+Single
+Team 1 pitcher (Josh Hopkins): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Xavier Cabrera: rng1 = 89 + 10 - 11 + 1 = 89
+Walk
+Team 1 pitcher (Josh Hopkins): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [7,0], base2: [6,0], base3: [5,0]
+base1: true, base2: true, base3: true
+Score: 0-0
+
+Darren Chang: rng1 = 92 + 3 - 11 + 1 = 85
+rng2 = 82 + 8 - 12 + 1 = 79
+Home run
+Team 1 pitcher (Josh Hopkins): 9 batters faced, 4 runs allowed = 9 + 10.0 = 19.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Wakasugi Norogumi: rng1 = 85 + 14 - 11 + 1 = 89
+Walk
+Team 1 pitcher (Josh Hopkins): 10 batters faced, 4 runs allowed = 10 + 10.0 = 20.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Lawson Haney: rng1 = 80 + 14 - 11 + 1 = 84
+rng2 = 70 + 11 - 12 + 1 = 70
+Double
+Team 1 pitcher (Josh Hopkins): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 2
+
+base1: false, base2: [1,0], base3: [0,0]
+base1: false, base2: true, base3: true
+Score: 0-4
+
+Ethan Spencer: rng1 = 15 + 12 - 11 + 1 = 17
+Strikeout
+Team 1 pitcher (Josh Hopkins): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+TOP INNING 3
+
+Braylon Summers: rng1 = 69 + 6 - 11 - 1 = 63
+rng2 = 47 + 7 - 7 - 1 = 46
+Groundout
+Team 2 pitcher (Demarcus Jackson): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Leon Watts: rng1 = 37 + 8 - 11 - 1 = 33
+rng2 = 27 + 3 - 7 - 1 = 22
+Groundout
+Team 2 pitcher (Demarcus Jackson): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Leo Hawkins: rng1 = 55 + 6 - 11 - 1 = 49
+rng2 = 12 + 4 - 7 - 1 = 8
+Groundout
+Team 2 pitcher (Demarcus Jackson): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+BOTTOM INNING 3
+
+Ike Nicholson: rng1 = 44 + 9 - 11 + 1 = 43
+rng2 = 65 + 11 - 12 + 1 = 65
+Flyout
+Team 1 pitcher (Josh Hopkins): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Hayden Wright: rng1 = 92 + 7 - 11 + 1 = 89
+Walk
+Team 1 pitcher (Josh Hopkins): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Karsen Welch: rng1 = 37 + 10 - 11 + 1 = 37
+rng2 = 58 + 8 - 12 + 1 = 55
+Lineout
+Team 1 pitcher (Josh Hopkins): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Alfonso Stafford: rng1 = 99 + 12 - 11 + 1 = 101
+rng2 = 23 + 7 - 12 + 1 = 19
+Single
+Team 1 pitcher (Josh Hopkins): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 2
+
+base1: [6,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-4
+
+Xavier Cabrera: rng1 = 56 + 10 - 11 + 1 = 56
+rng2 = 47 + 7 - 12 + 1 = 43
+Groundout
+Team 1 pitcher (Josh Hopkins): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+TOP INNING 4
+
+Dylan Marsh: rng1 = 63 + 15 - 11 - 1 = 66
+rng2 = 51 + 15 - 7 - 1 = 58
+Lineout
+Team 2 pitcher (Demarcus Jackson): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Rubén Indiano: rng1 = 29 + 14 - 11 - 1 = 31
+rng2 = 54 + 13 - 7 - 1 = 59
+Flyout
+Team 2 pitcher (Demarcus Jackson): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Rodolfo Mullen: rng1 = 47 + 13 - 11 - 1 = 48
+rng2 = 65 + 12 - 7 - 1 = 69
+Flyout
+Team 2 pitcher (Demarcus Jackson): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+BOTTOM INNING 4
+
+Darren Chang: rng1 = 33 + 3 - 11 + 1 = 26
+Strikeout
+Team 1 pitcher (Josh Hopkins): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Wakasugi Norogumi: rng1 = 15 + 14 - 11 + 1 = 19
+Strikeout
+Team 1 pitcher (Josh Hopkins): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Lawson Haney: rng1 = 7 + 14 - 11 + 1 = 11
+rng2 = 77 + 11 - 12 + 1 = 77
+Flyout
+Team 1 pitcher (Josh Hopkins): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+TOP INNING 5
+
+Frankie Bell: rng1 = 50 + 9 - 11 - 1 = 47
+rng2 = 88 + 12 - 7 - 1 = 92
+Flyout
+Team 2 pitcher (Demarcus Jackson): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Enrique Holmes: rng1 = 92 + 6 - 11 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Demarcus Jackson): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Marcelo Francis: rng1 = 56 + 12 - 11 - 1 = 56
+rng2 = 97 + 7 - 7 - 1 = 96
+Flyout
+Team 2 pitcher (Demarcus Jackson): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Braylon Summers: rng1 = 68 + 6 - 11 - 1 = 62
+rng2 = 1 + 7 - 7 - 1 = 0
+Groundout
+Team 2 pitcher (Demarcus Jackson): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Jackson Peck
+
+Ethan Spencer: rng1 = 36 + 12 - 10 + 1 = 39
+rng2 = 18 + 15 - 7 + 1 = 27
+Groundout
+Team 1 pitcher (Jackson Peck): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Ike Nicholson: rng1 = 53 + 9 - 10 + 1 = 53
+rng2 = 43 + 11 - 7 + 1 = 48
+Lineout
+Team 1 pitcher (Jackson Peck): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Hayden Wright: rng1 = 25 + 7 - 10 + 1 = 23
+Strikeout
+Team 1 pitcher (Jackson Peck): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+TOP INNING 6
+
+Leon Watts: rng1 = 8 + 8 - 11 - 1 = 4
+Strikeout
+Team 2 pitcher (Demarcus Jackson): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Leo Hawkins: rng1 = 36 + 6 - 11 - 1 = 30
+rng2 = 47 + 4 - 7 - 1 = 43
+Groundout
+Team 2 pitcher (Demarcus Jackson): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Dylan Marsh: rng1 = 32 + 15 - 11 - 1 = 35
+rng2 = 23 + 15 - 7 - 1 = 30
+Groundout
+Team 2 pitcher (Demarcus Jackson): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+BOTTOM INNING 6
+
+Karsen Welch: rng1 = 81 + 10 - 10 + 1 = 82
+rng2 = 13 + 8 - 7 + 1 = 15
+Single
+Team 1 pitcher (Jackson Peck): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Alfonso Stafford: rng1 = 87 + 12 - 10 + 1 = 90
+Walk
+Team 1 pitcher (Jackson Peck): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [6,1], base2: [5,1], base3: false
+base1: true, base2: true, base3: false
+Score: 0-4
+
+Xavier Cabrera: rng1 = 70 + 10 - 10 + 1 = 71
+Walk
+Team 1 pitcher (Jackson Peck): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 0
+
+base1: [7,1], base2: [6,1], base3: [5,1]
+base1: true, base2: true, base3: true
+Score: 0-4
+
+Darren Chang: rng1 = 84 + 3 - 10 + 1 = 78
+rng2 = 2 + 8 - 7 + 1 = 4
+Single
+Team 1 pitcher (Jackson Peck): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 0
+
+base1: [8,1], base2: false, base3: [7,1]
+base1: true, base2: false, base3: true
+Score: 0-6
+
+Wakasugi Norogumi: rng1 = 31 + 14 - 10 + 1 = 36
+rng2 = 2 + 14 - 7 + 1 = 10
+Groundout
+Team 1 pitcher (Jackson Peck): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 1
+
+base1: false, base2: [8,1], base3: false
+base1: false, base2: true, base3: false
+Score: 0-7
+
+Team 1 pitcher change to Ripley Sjostrand
+
+Lawson Haney: rng1 = 60 + 14 - 12 + 1 = 63
+rng2 = 10 + 11 - 9 + 1 = 13
+Groundout
+Team 1 pitcher (Ripley Sjostrand): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: false, base2: false, base3: [8,1]
+base1: false, base2: false, base3: true
+Score: 0-7
+
+Ethan Spencer: rng1 = 90 + 12 - 12 + 1 = 91
+rng2 = 17 + 15 - 9 + 1 = 24
+Single
+Team 1 pitcher (Ripley Sjostrand): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-8
+
+Ike Nicholson: rng1 = 43 + 9 - 12 + 1 = 41
+rng2 = 80 + 11 - 9 + 1 = 83
+Flyout
+Team 1 pitcher (Ripley Sjostrand): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-8
+
+-----------------------
+
+TOP INNING 7
+
+Rubén Indiano: rng1 = 33 + 14 - 11 - 1 = 35
+rng2 = 83 + 13 - 7 - 1 = 88
+Flyout
+Team 2 pitcher (Demarcus Jackson): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-8
+
+Rodolfo Mullen: rng1 = 56 + 13 - 11 - 1 = 57
+rng2 = 39 + 12 - 7 - 1 = 43
+Groundout
+Team 2 pitcher (Demarcus Jackson): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-8
+
+Frankie Bell: rng1 = 85 + 9 - 11 - 1 = 82
+rng2 = 20 + 12 - 7 - 1 = 24
+Single
+Team 2 pitcher (Demarcus Jackson): 22 batters faced, 0 runs allowed = 22 + 0.0 = 22.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-8
+
+Enrique Holmes: rng1 = 60 + 6 - 11 - 1 = 54
+rng2 = 87 + 9 - 7 - 1 = 88
+Flyout
+Team 2 pitcher (Demarcus Jackson): 23 batters faced, 0 runs allowed = 23 + 0.0 = 23.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-8
+
+-----------------------
+
+BOTTOM INNING 7
+
+Hayden Wright: rng1 = 37 + 7 - 12 + 1 = 33
+rng2 = 51 + 9 - 9 + 1 = 52
+Lineout
+Team 1 pitcher (Ripley Sjostrand): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-8
+
+Karsen Welch: rng1 = 29 + 10 - 12 + 1 = 28
+rng2 = 90 + 8 - 9 + 1 = 90
+Flyout
+Team 1 pitcher (Ripley Sjostrand): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-8
+
+Alfonso Stafford: rng1 = 35 + 12 - 12 + 1 = 36
+rng2 = 14 + 7 - 9 + 1 = 13
+Groundout
+Team 1 pitcher (Ripley Sjostrand): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-8
+
+-----------------------
+
+TOP INNING 8
+
+Marcelo Francis: rng1 = 11 + 12 - 11 - 1 = 11
+rng2 = 92 + 7 - 7 - 1 = 91
+Flyout
+Team 2 pitcher (Demarcus Jackson): 24 batters faced, 0 runs allowed = 24 + 0.0 = 24.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-8
+
+Braylon Summers: rng1 = 27 + 6 - 11 - 1 = 21
+Strikeout
+Team 2 pitcher (Demarcus Jackson): 25 batters faced, 0 runs allowed = 25 + 0.0 = 25.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-8
+
+Leon Watts: rng1 = 57 + 8 - 11 - 1 = 53
+rng2 = 32 + 3 - 7 - 1 = 27
+Groundout
+Team 2 pitcher (Demarcus Jackson): 26 batters faced, 0 runs allowed = 26 + 0.0 = 26.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-8
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Lucas Gardner
+
+Xavier Cabrera: rng1 = 63 + 10 - 6 + 1 = 68
+rng2 = 56 + 7 - 7 + 1 = 57
+Lineout
+Team 1 pitcher (Lucas Gardner): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-8
+
+Darren Chang: rng1 = 23 + 3 - 6 + 1 = 21
+Strikeout
+Team 1 pitcher (Lucas Gardner): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-8
+
+Wakasugi Norogumi: rng1 = 87 + 14 - 6 + 1 = 96
+rng2 = 58 + 14 - 7 + 1 = 66
+Double
+Team 1 pitcher (Lucas Gardner): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [0,3], base3: false
+base1: false, base2: true, base3: false
+Score: 0-8
+
+Lawson Haney: rng1 = 54 + 14 - 6 + 1 = 63
+rng2 = 29 + 11 - 7 + 1 = 34
+Groundout
+Team 1 pitcher (Lucas Gardner): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-8
+
+-----------------------
+
+TOP INNING 9
+
+Leo Hawkins: rng1 = 98 + 6 - 11 - 1 = 92
+rng2 = 66 + 4 - 7 - 1 = 62
+Single
+Team 2 pitcher (Demarcus Jackson): 27 batters faced, 0 runs allowed = 27 + 0.0 = 27.0, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-8
+
+Dylan Marsh: rng1 = 35 + 15 - 11 - 1 = 38
+rng2 = 78 + 15 - 7 - 1 = 85
+Flyout
+Team 2 pitcher (Demarcus Jackson): 28 batters faced, 0 runs allowed = 28 + 0.0 = 28.0, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-8
+
+Rubén Indiano: rng1 = 11 + 14 - 11 - 1 = 13
+rng2 = 32 + 13 - 7 - 1 = 37
+Groundout
+Team 2 pitcher (Demarcus Jackson): 29 batters faced, 0 runs allowed = 29 + 0.0 = 29.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-8
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 2
+Team 2 hits: 9
+Team 1 runs: 0
+Team 2 runs: 8
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-09-04
+Dylan Marsh	4	0	0	0	0	0	0	0	0					San Antonio
+Rubén Indiano	4	0	0	0	0	0	0	0	1	
+Rodolfo Mullen	3	0	0	0	0	0	0	0	1	
+Frankie Bell	3	0	1	0	0	0	0	0	1	
+Enrique Holmes	2	0	0	0	0	0	0	0	0	
+Marcelo Francis	3	0	0	0	0	0	0	0	1	
+Braylon Summers	3	0	0	0	0	0	0	0	1	
+Leon Watts	3	0	0	0	0	0	0	0	1	
+Leo Hawkins	3	0	1	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Josh Hopkins	0	1	1	1	0	0	12	5	4	1	3	4	20	
+Jackson Peck	0	0	1	0	0	0	4	2	4	0	2	1	8	
+Ripley Sjostrand	0	0	1	0	0	0	5	1	0	0	0	0	6	
+Lucas Gardner	0	0	1	0	0	0	3	1	0	0	0	1	4	
+Sakai Tsuneo	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-09-04
+Wakasugi Norogumi	4	0	1	1	0	0	1	1	1					Atlanta
+Lawson Haney	5	0	1	1	0	0	0	0	0	
+Ethan Spencer	4	0	1	0	0	0	1	0	1	
+Ike Nicholson	4	0	0	0	0	0	0	0	0	
+Hayden Wright	3	0	0	0	0	0	0	1	2	
+Karsen Welch	4	2	2	0	0	0	0	0	0	
+Alfonso Stafford	3	2	2	0	0	0	0	1	0	
+Xavier Cabrera	2	2	0	0	0	0	0	2	0	
+Darren Chang	4	2	2	0	0	1	6	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Demarcus Jackson	1	0	1	1	0	0	27	2	0	0	0	6	29	
+Thomas Dillard	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Saiki Iwane	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Moises Alvarado	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Juancarlo Pinto	0	0	0	0	0	0	0	0	0	0	0	0	0	

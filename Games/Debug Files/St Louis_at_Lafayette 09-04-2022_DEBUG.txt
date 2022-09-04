@@ -1,0 +1,859 @@
+TOP INNING 1
+
+Eric Parker: rng1 = 97 + 15 - 7 - 1 = 104
+rng2 = 79 + 11 - 11 - 1 = 78
+Triple
+Team 2 pitcher (Kayden Gallagher): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: false, base3: [0,0]
+base1: false, base2: false, base3: true
+Score: 0-0
+
+Mateo Estrada: rng1 = 52 + 13 - 7 - 1 = 57
+rng2 = 19 + 13 - 11 - 1 = 20
+Groundout
+Team 2 pitcher (Kayden Gallagher): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: [0,0]
+base1: false, base2: false, base3: true
+Score: 0-0
+
+Jose Walker: rng1 = 67 + 11 - 7 - 1 = 70
+Walk
+Team 2 pitcher (Kayden Gallagher): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Terryl Maxwell: rng1 = 29 + 7 - 7 - 1 = 28
+rng2 = 87 + 11 - 11 - 1 = 86
+Flyout
+Team 2 pitcher (Kayden Gallagher): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [2,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Lawrence Webb: rng1 = 78 + 10 - 7 - 1 = 80
+rng2 = 94 + 10 - 11 - 1 = 92
+Double
+Team 2 pitcher (Kayden Gallagher): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: false, base2: [4,0], base3: [2,0]
+base1: false, base2: true, base3: true
+Score: 1-0
+
+Alex Diaz: rng1 = 63 + 11 - 7 - 1 = 66
+rng2 = 76 + 8 - 11 - 1 = 72
+Flyout
+Team 2 pitcher (Kayden Gallagher): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Xavier Washington: rng1 = 98 + 12 - 7 + 1 = 104
+rng2 = 35 + 13 - 9 + 1 = 40
+Single
+Team 1 pitcher (Jimmy Cox): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Yoshida Kei: rng1 = 70 + 11 - 7 + 1 = 75
+rng2 = 53 + 10 - 9 + 1 = 55
+Single
+Team 1 pitcher (Jimmy Cox): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Jorge Gonzalez: rng1 = 91 + 9 - 7 + 1 = 94
+rng2 = 34 + 6 - 9 + 1 = 32
+Single
+Team 1 pitcher (Jimmy Cox): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 0
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 1-1
+
+Santino Reyes: rng1 = 40 + 7 - 7 + 1 = 41
+rng2 = 85 + 8 - 9 + 1 = 85
+Flyout
+Team 1 pitcher (Jimmy Cox): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Randy Phillips: rng1 = 52 + 6 - 7 + 1 = 52
+rng2 = 100 + 8 - 9 + 1 = 100
+Flyout
+Team 1 pitcher (Jimmy Cox): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Yu Minjun: rng1 = 28 + 4 - 7 + 1 = 26
+Strikeout
+Team 1 pitcher (Jimmy Cox): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 2
+
+Kieran Byrne: rng1 = 82 + 9 - 7 - 1 = 83
+rng2 = 2 + 8 - 11 - 1 = -2
+Single
+Team 2 pitcher (Kayden Gallagher): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Jonathan Turner: rng1 = 37 + 7 - 7 - 1 = 36
+rng2 = 33 + 6 - 11 - 1 = 27
+Groundout
+Team 2 pitcher (Kayden Gallagher): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-2
+
+Malik Thompson: rng1 = 5 + 2 - 7 - 1 = -1
+Strikeout
+Team 2 pitcher (Kayden Gallagher): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-2
+
+Eric Parker: rng1 = 38 + 15 - 7 - 1 = 45
+rng2 = 72 + 11 - 11 - 1 = 71
+Flyout
+Team 2 pitcher (Kayden Gallagher): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 2
+
+Diego Moreno: rng1 = 15 + 7 - 7 + 1 = 16
+Strikeout
+Team 1 pitcher (Jimmy Cox): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Kai Tatsuya: rng1 = 78 + 5 - 7 + 1 = 77
+rng2 = 52 + 4 - 9 + 1 = 48
+Single
+Team 1 pitcher (Jimmy Cox): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Yoshiyuki Iesada: rng1 = 91 + 5 - 7 + 1 = 90
+Walk
+Team 1 pitcher (Jimmy Cox): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 1
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-2
+
+Xavier Washington: rng1 = 33 + 12 - 7 + 1 = 39
+rng2 = 15 + 13 - 9 + 1 = 20
+Groundout
+Team 1 pitcher (Jimmy Cox): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 2
+
+base1: false, base2: [8,0], base3: [7,0]
+base1: false, base2: true, base3: true
+Score: 1-2
+
+Yoshida Kei: rng1 = 67 + 11 - 7 + 1 = 72
+rng2 = 70 + 10 - 9 + 1 = 72
+Double
+Team 1 pitcher (Jimmy Cox): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-4
+
+Jorge Gonzalez: rng1 = 54 + 9 - 7 + 1 = 57
+rng2 = 57 + 6 - 9 + 1 = 55
+Lineout
+Team 1 pitcher (Jimmy Cox): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+TOP INNING 3
+
+Mateo Estrada: rng1 = 99 + 13 - 7 - 1 = 104
+rng2 = 82 + 13 - 11 - 1 = 83
+Home run
+Team 2 pitcher (Kayden Gallagher): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Jose Walker: rng1 = 8 + 11 - 7 - 1 = 11
+rng2 = 44 + 10 - 11 - 1 = 42
+Groundout
+Team 2 pitcher (Kayden Gallagher): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Terryl Maxwell: rng1 = 52 + 7 - 7 - 1 = 51
+rng2 = 87 + 11 - 11 - 1 = 86
+Flyout
+Team 2 pitcher (Kayden Gallagher): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Lawrence Webb: rng1 = 99 + 10 - 7 - 1 = 101
+rng2 = 14 + 10 - 11 - 1 = 12
+Single
+Team 2 pitcher (Kayden Gallagher): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-4
+
+Alex Diaz: rng1 = 69 + 11 - 7 - 1 = 72
+rng2 = 76 + 8 - 11 - 1 = 72
+Double
+Team 2 pitcher (Kayden Gallagher): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 2
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-4
+
+Kieran Byrne: rng1 = 92 + 9 - 7 - 1 = 93
+rng2 = 80 + 8 - 11 - 1 = 76
+Double
+Team 2 pitcher (Kayden Gallagher): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 2
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-4
+
+Jonathan Turner: rng1 = 67 + 7 - 7 - 1 = 66
+rng2 = 69 + 6 - 11 - 1 = 63
+Flyout
+Team 2 pitcher (Kayden Gallagher): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+BOTTOM INNING 3
+
+Santino Reyes: rng1 = 61 + 7 - 7 + 1 = 62
+rng2 = 100 + 8 - 9 + 1 = 100
+Flyout
+Team 1 pitcher (Jimmy Cox): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Randy Phillips: rng1 = 11 + 6 - 7 + 1 = 11
+rng2 = 13 + 8 - 9 + 1 = 13
+Groundout
+Team 1 pitcher (Jimmy Cox): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Yu Minjun: rng1 = 20 + 4 - 7 + 1 = 18
+Strikeout
+Team 1 pitcher (Jimmy Cox): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+TOP INNING 4
+
+Malik Thompson: rng1 = 69 + 2 - 7 - 1 = 63
+rng2 = 21 + 2 - 11 - 1 = 11
+Groundout
+Team 2 pitcher (Kayden Gallagher): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Eric Parker: rng1 = 69 + 15 - 7 - 1 = 76
+rng2 = 60 + 11 - 11 - 1 = 59
+Single
+Team 2 pitcher (Kayden Gallagher): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Mateo Estrada: rng1 = 70 + 13 - 7 - 1 = 75
+rng2 = 61 + 13 - 11 - 1 = 62
+Single
+Team 2 pitcher (Kayden Gallagher): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 1
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 4-4
+
+Jose Walker: rng1 = 99 + 11 - 7 - 1 = 102
+rng2 = 54 + 10 - 11 - 1 = 52
+Single
+Team 2 pitcher (Kayden Gallagher): 21 batters faced, 5 runs allowed = 21 + 12.5 = 33.5, outs: 1
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 5-4
+
+Terryl Maxwell: rng1 = 68 + 7 - 7 - 1 = 67
+rng2 = 100 + 11 - 11 - 1 = 99
+Flyout
+Team 2 pitcher (Kayden Gallagher): 22 batters faced, 6 runs allowed = 22 + 15.0 = 37.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-4
+
+Team 2 pitcher change to Jerry Walls
+
+Lawrence Webb: rng1 = 88 + 10 - 9 - 1 = 88
+Walk
+Team 2 pitcher (Jerry Walls): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [4,1], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 6-4
+
+Alex Diaz: rng1 = 36 + 11 - 9 - 1 = 37
+rng2 = 57 + 8 - 8 - 1 = 56
+Lineout
+Team 2 pitcher (Jerry Walls): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-4
+
+-----------------------
+
+BOTTOM INNING 4
+
+Diego Moreno: rng1 = 80 + 7 - 7 + 1 = 81
+rng2 = 1 + 5 - 9 + 1 = -2
+Single
+Team 1 pitcher (Jimmy Cox): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-4
+
+Kai Tatsuya: rng1 = 52 + 5 - 7 + 1 = 51
+rng2 = 77 + 4 - 9 + 1 = 73
+Flyout
+Team 1 pitcher (Jimmy Cox): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-4
+
+Yoshiyuki Iesada: rng1 = 67 + 5 - 7 + 1 = 66
+rng2 = 78 + 3 - 9 + 1 = 73
+Flyout
+Team 1 pitcher (Jimmy Cox): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-4
+
+Xavier Washington: rng1 = 61 + 12 - 7 + 1 = 67
+rng2 = 11 + 13 - 9 + 1 = 16
+Groundout
+Team 1 pitcher (Jimmy Cox): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-4
+
+-----------------------
+
+TOP INNING 5
+
+Kieran Byrne: rng1 = 61 + 9 - 9 - 1 = 60
+rng2 = 50 + 8 - 8 - 1 = 49
+Lineout
+Team 2 pitcher (Jerry Walls): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Jonathan Turner: rng1 = 4 + 7 - 9 - 1 = 1
+Strikeout
+Team 2 pitcher (Jerry Walls): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Malik Thompson: rng1 = 84 + 2 - 9 - 1 = 76
+rng2 = 4 + 2 - 8 - 1 = -3
+Single
+Team 2 pitcher (Jerry Walls): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-4
+
+Eric Parker: rng1 = 18 + 15 - 9 - 1 = 23
+Strikeout
+Team 2 pitcher (Jerry Walls): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-4
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to David Juarez
+
+Yoshida Kei: rng1 = 19 + 11 - 6 + 1 = 25
+Strikeout
+Team 1 pitcher (David Juarez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Jorge Gonzalez: rng1 = 37 + 9 - 6 + 1 = 41
+rng2 = 88 + 6 - 7 + 1 = 88
+Flyout
+Team 1 pitcher (David Juarez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Santino Reyes: rng1 = 14 + 7 - 6 + 1 = 16
+Strikeout
+Team 1 pitcher (David Juarez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-4
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Tamashiro Genjo
+
+Mateo Estrada: rng1 = 51 + 13 - 7 - 1 = 56
+rng2 = 82 + 13 - 11 - 1 = 83
+Flyout
+Team 2 pitcher (Tamashiro Genjo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Jose Walker: rng1 = 46 + 11 - 7 - 1 = 49
+rng2 = 7 + 10 - 11 - 1 = 5
+Groundout
+Team 2 pitcher (Tamashiro Genjo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Terryl Maxwell: rng1 = 73 + 7 - 7 - 1 = 72
+rng2 = 60 + 11 - 11 - 1 = 59
+Single
+Team 2 pitcher (Tamashiro Genjo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [3,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-4
+
+Lawrence Webb: rng1 = 72 + 10 - 7 - 1 = 74
+rng2 = 26 + 10 - 11 - 1 = 24
+Single
+Team 2 pitcher (Tamashiro Genjo): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [4,2], base2: [3,2], base3: false
+base1: true, base2: true, base3: false
+Score: 6-4
+
+Alex Diaz: rng1 = 42 + 11 - 7 - 1 = 45
+rng2 = 61 + 8 - 11 - 1 = 57
+Lineout
+Team 2 pitcher (Tamashiro Genjo): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-4
+
+-----------------------
+
+BOTTOM INNING 6
+
+Randy Phillips: rng1 = 76 + 6 - 6 + 1 = 77
+rng2 = 27 + 8 - 7 + 1 = 29
+Single
+Team 1 pitcher (David Juarez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-4
+
+Yu Minjun: rng1 = 76 + 4 - 6 + 1 = 75
+rng2 = 52 + 7 - 7 + 1 = 53
+Single
+Team 1 pitcher (David Juarez): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [5,1], base2: false, base3: [4,1]
+base1: true, base2: false, base3: true
+Score: 6-4
+
+Diego Moreno: rng1 = 49 + 7 - 6 + 1 = 51
+rng2 = 68 + 5 - 7 + 1 = 67
+Flyout
+Team 1 pitcher (David Juarez): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-5
+
+Kai Tatsuya: rng1 = 72 + 5 - 6 + 1 = 72
+rng2 = 27 + 4 - 7 + 1 = 25
+Single
+Team 1 pitcher (David Juarez): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: [7,1], base2: [5,1], base3: false
+base1: true, base2: true, base3: false
+Score: 6-5
+
+Yoshiyuki Iesada: rng1 = 87 + 5 - 6 + 1 = 87
+Walk
+Team 1 pitcher (David Juarez): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: [8,1], base2: [7,1], base3: [5,1]
+base1: true, base2: true, base3: true
+Score: 6-5
+
+Xavier Washington: rng1 = 82 + 12 - 6 + 1 = 89
+Walk
+Team 1 pitcher (David Juarez): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 1
+
+base1: [0,1], base2: [8,1], base3: [7,1]
+base1: true, base2: true, base3: true
+Score: 6-6
+
+Team 1 pitcher change to Henry Wright
+
+Yoshida Kei: rng1 = 61 + 11 - 7 + 1 = 66
+rng2 = 60 + 10 - 8 + 1 = 63
+Flyout
+Team 1 pitcher (Henry Wright): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [0,1], base2: false, base3: [8,1]
+base1: true, base2: false, base3: true
+Score: 6-7
+
+Jorge Gonzalez: rng1 = 8 + 9 - 7 + 1 = 11
+rng2 = 34 + 6 - 8 + 1 = 33
+Groundout
+Team 1 pitcher (Henry Wright): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-7
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Nate Tucker
+
+Kieran Byrne: rng1 = 50 + 9 - 9 - 1 = 49
+rng2 = 43 + 8 - 8 - 1 = 42
+Groundout
+Team 2 pitcher (Nate Tucker): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-7
+
+Jonathan Turner: rng1 = 43 + 7 - 9 - 1 = 40
+rng2 = 44 + 6 - 8 - 1 = 41
+Groundout
+Team 2 pitcher (Nate Tucker): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-7
+
+Malik Thompson: rng1 = 56 + 2 - 9 - 1 = 48
+rng2 = 66 + 2 - 8 - 1 = 59
+Flyout
+Team 2 pitcher (Nate Tucker): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-7
+
+-----------------------
+
+BOTTOM INNING 7
+
+Santino Reyes: rng1 = 7 + 7 - 7 + 1 = 8
+Strikeout
+Team 1 pitcher (Henry Wright): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-7
+
+Randy Phillips: rng1 = 4 + 6 - 7 + 1 = 4
+Strikeout
+Team 1 pitcher (Henry Wright): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-7
+
+Yu Minjun: rng1 = 11 + 4 - 7 + 1 = 9
+Strikeout
+Team 1 pitcher (Henry Wright): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-7
+
+-----------------------
+
+TOP INNING 8
+
+Eric Parker: rng1 = 21 + 15 - 9 - 1 = 26
+Strikeout
+Team 2 pitcher (Nate Tucker): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-7
+
+Mateo Estrada: rng1 = 52 + 13 - 9 - 1 = 55
+rng2 = 75 + 13 - 8 - 1 = 79
+Flyout
+Team 2 pitcher (Nate Tucker): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-7
+
+Jose Walker: rng1 = 67 + 11 - 9 - 1 = 68
+rng2 = 5 + 10 - 8 - 1 = 6
+Groundout
+Team 2 pitcher (Nate Tucker): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-7
+
+-----------------------
+
+BOTTOM INNING 8
+
+Diego Moreno: rng1 = 77 + 7 - 7 + 1 = 78
+rng2 = 40 + 5 - 8 + 1 = 38
+Single
+Team 1 pitcher (Henry Wright): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 0
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-7
+
+Kai Tatsuya: rng1 = 89 + 5 - 7 + 1 = 88
+Walk
+Team 1 pitcher (Henry Wright): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 0
+
+base1: [7,2], base2: [6,2], base3: false
+base1: true, base2: true, base3: false
+Score: 6-7
+
+Yoshiyuki Iesada: rng1 = 88 + 5 - 7 + 1 = 87
+Walk
+Team 1 pitcher (Henry Wright): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 0
+
+base1: [8,2], base2: [7,2], base3: [6,2]
+base1: true, base2: true, base3: true
+Score: 6-7
+
+Xavier Washington: rng1 = 92 + 12 - 7 + 1 = 98
+rng2 = 36 + 13 - 8 + 1 = 42
+Single
+Team 1 pitcher (Henry Wright): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 0
+
+base1: [0,2], base2: [8,2], base3: [7,2]
+base1: true, base2: true, base3: true
+Score: 6-8
+
+Team 1 pitcher change to Max Castillo
+
+Yoshida Kei: rng1 = 97 + 11 - 6 + 1 = 103
+rng2 = 98 + 10 - 5 + 1 = 104
+Home run
+Team 1 pitcher (Max Castillo): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-12
+
+Jorge Gonzalez: rng1 = 98 + 9 - 6 + 1 = 102
+rng2 = 83 + 6 - 5 + 1 = 85
+Home run
+Team 1 pitcher (Max Castillo): 2 batters faced, 2 runs allowed = 2 + 5.0 = 7.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-13
+
+Santino Reyes: rng1 = 18 + 7 - 6 + 1 = 20
+Strikeout
+Team 1 pitcher (Max Castillo): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-13
+
+Randy Phillips: rng1 = 63 + 6 - 6 + 1 = 64
+rng2 = 92 + 8 - 5 + 1 = 96
+Flyout
+Team 1 pitcher (Max Castillo): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-13
+
+Yu Minjun: rng1 = 96 + 4 - 6 + 1 = 95
+rng2 = 45 + 7 - 5 + 1 = 48
+Single
+Team 1 pitcher (Max Castillo): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: [5,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-13
+
+Diego Moreno: rng1 = 12 + 7 - 6 + 1 = 14
+rng2 = 72 + 5 - 5 + 1 = 73
+Flyout
+Team 1 pitcher (Max Castillo): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-13
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Kangjon Kwang-Hyun
+
+Terryl Maxwell: rng1 = 54 + 7 - 10 - 1 = 50
+rng2 = 53 + 11 - 10 - 1 = 53
+Lineout
+Team 2 pitcher (Kangjon Kwang-Hyun): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-13
+
+Lawrence Webb: rng1 = 55 + 10 - 10 - 1 = 54
+rng2 = 8 + 10 - 10 - 1 = 7
+Groundout
+Team 2 pitcher (Kangjon Kwang-Hyun): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-13
+
+Alex Diaz: rng1 = 86 + 11 - 10 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Kangjon Kwang-Hyun): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [5,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-13
+
+Kieran Byrne: rng1 = 41 + 9 - 10 - 1 = 39
+rng2 = 43 + 8 - 10 - 1 = 40
+Groundout
+Team 2 pitcher (Kangjon Kwang-Hyun): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-13
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 13
+Team 2 hits: 14
+Team 1 runs: 6
+Team 2 runs: 13
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-09-04
+Eric Parker	5	2	2	0	1	0	0	0	2					St Louis
+Mateo Estrada	5	2	2	0	0	1	1	0	0	
+Jose Walker	4	0	1	0	0	0	1	1	0	
+Terryl Maxwell	5	0	1	0	0	0	1	0	0	
+Lawrence Webb	4	1	3	1	0	0	1	1	0	
+Alex Diaz	4	1	1	1	0	0	1	0	0	
+Kieran Byrne	5	0	2	1	0	0	1	0	0	
+Jonathan Turner	4	0	0	0	0	0	0	0	1	
+Malik Thompson	4	0	1	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Jimmy Cox	0	0	1	1	0	0	12	6	4	0	1	3	19	
+David Juarez	0	0	1	0	0	0	4	3	3	0	2	2	9	
+Henry Wright	0	1	1	0	0	0	5	2	4	0	2	3	9	
+Max Castillo	0	0	1	0	0	0	3	3	2	2	0	1	6	
+Ryu Shi-Woo	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-09-04
+Xavier Washington	4	2	2	0	0	0	2	1	0					Lafayette
+Yoshida Kei	5	2	3	1	0	1	7	0	1	
+Jorge Gonzalez	5	1	2	0	0	1	2	0	0	
+Santino Reyes	5	0	0	0	0	0	1	0	3	
+Randy Phillips	5	1	1	0	0	0	0	0	1	
+Yu Minjun	5	1	2	0	0	0	0	0	3	
+Diego Moreno	5	1	2	0	0	0	1	0	1	
+Kai Tatsuya	3	3	2	0	0	0	0	1	0	
+Yoshiyuki Iesada	1	2	0	0	0	0	0	3	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Kayden Gallagher	0	0	1	1	0	0	11	10	6	1	1	1	22	
+Jerry Walls	0	0	1	0	0	0	4	1	0	0	1	2	6	
+Tamashiro Genjo	1	0	1	0	0	0	3	2	0	0	0	0	5	
+Nate Tucker	0	0	1	0	0	0	6	0	0	0	0	1	6	
+Kangjon Kwang-Hyun	0	0	1	0	0	0	3	0	0	0	0	0	4	

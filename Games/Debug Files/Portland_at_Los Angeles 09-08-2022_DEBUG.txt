@@ -1,0 +1,782 @@
+TOP INNING 1
+
+Eduardo Rasgado: rng1 = 14 + 8 - 7 - 1 = 14
+rng2 = 53 + 6 - 9 - 1 = 49
+Lineout
+Team 2 pitcher (Owen Bowen): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Umberto Tasis: rng1 = 50 + 8 - 7 - 1 = 50
+rng2 = 61 + 2 - 9 - 1 = 53
+Lineout
+Team 2 pitcher (Owen Bowen): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Aaron Copley: rng1 = 100 + 7 - 7 - 1 = 99
+rng2 = 1 + 4 - 9 - 1 = -5
+Single
+Team 2 pitcher (Owen Bowen): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Francis Alford: rng1 = 59 + 3 - 7 - 1 = 54
+rng2 = 51 + 8 - 9 - 1 = 49
+Lineout
+Team 2 pitcher (Owen Bowen): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Ashton Martin: rng1 = 90 + 15 - 4 + 1 = 102
+rng2 = 59 + 13 - 7 + 1 = 66
+Double
+Team 1 pitcher (Juan Alarcón): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Bradley Murphy: rng1 = 16 + 11 - 4 + 1 = 24
+Strikeout
+Team 1 pitcher (Juan Alarcón): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Caden Beckett: rng1 = 7 + 11 - 4 + 1 = 15
+rng2 = 84 + 6 - 7 + 1 = 84
+Flyout
+Team 1 pitcher (Juan Alarcón): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: [0,0]
+base1: false, base2: false, base3: true
+Score: 0-0
+
+Joel Arboleda: rng1 = 77 + 8 - 4 + 1 = 82
+rng2 = 15 + 10 - 7 + 1 = 19
+Single
+Team 1 pitcher (Juan Alarcón): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Yodogawa Shosuke: rng1 = 23 + 9 - 4 + 1 = 29
+rng2 = 14 + 9 - 7 + 1 = 17
+Groundout
+Team 1 pitcher (Juan Alarcón): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 2
+
+Felipe Grimes: rng1 = 89 + 6 - 7 - 1 = 87
+Walk
+Team 2 pitcher (Owen Bowen): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Evan Bliss: rng1 = 71 + 4 - 7 - 1 = 67
+rng2 = 19 + 7 - 9 - 1 = 16
+Groundout
+Team 2 pitcher (Owen Bowen): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Abel Leoz: rng1 = 56 + 6 - 7 - 1 = 54
+rng2 = 8 + 6 - 9 - 1 = 4
+Groundout
+Team 2 pitcher (Owen Bowen): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Quinell McDaniel: rng1 = 96 + 6 - 4 + 1 = 99
+rng2 = 11 + 9 - 7 + 1 = 14
+Single
+Team 1 pitcher (Juan Alarcón): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Alonso Welch: rng1 = 65 + 7 - 4 + 1 = 69
+Walk
+Team 1 pitcher (Juan Alarcón): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 0
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-1
+
+Chwa Jung-Su: rng1 = 22 + 7 - 4 + 1 = 26
+Strikeout
+Team 1 pitcher (Juan Alarcón): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-1
+
+Ethan Clarke: rng1 = 87 + 5 - 4 + 1 = 89
+Walk
+Team 1 pitcher (Juan Alarcón): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: [8,0], base2: [6,0], base3: [5,0]
+base1: true, base2: true, base3: true
+Score: 0-1
+
+Ashton Martin: rng1 = 94 + 15 - 4 + 1 = 106
+rng2 = 24 + 13 - 7 + 1 = 31
+Single
+Team 1 pitcher (Juan Alarcón): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 1
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-3
+
+Bradley Murphy: rng1 = 37 + 11 - 4 + 1 = 45
+rng2 = 86 + 11 - 7 + 1 = 91
+Flyout
+Team 1 pitcher (Juan Alarcón): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 2
+
+base1: [0,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 0-3
+
+Caden Beckett: rng1 = 99 + 11 - 4 + 1 = 107
+rng2 = 76 + 6 - 7 + 1 = 76
+Double
+Team 1 pitcher (Juan Alarcón): 12 batters faced, 5 runs allowed = 12 + 12.5 = 24.5, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-5
+
+Joel Arboleda: rng1 = 2 + 8 - 4 + 1 = 7
+Strikeout
+Team 1 pitcher (Juan Alarcón): 13 batters faced, 5 runs allowed = 13 + 12.5 = 25.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+TOP INNING 3
+
+Amir Gentry: rng1 = 100 + 5 - 7 - 1 = 97
+rng2 = 49 + 6 - 9 - 1 = 45
+Single
+Team 2 pitcher (Owen Bowen): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Declan Elliott: rng1 = 11 + 5 - 7 - 1 = 8
+Strikeout
+Team 2 pitcher (Owen Bowen): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Eduardo Rasgado: rng1 = 74 + 8 - 7 - 1 = 74
+rng2 = 6 + 6 - 9 - 1 = 2
+Single
+Team 2 pitcher (Owen Bowen): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: [0,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-5
+
+Umberto Tasis: rng1 = 90 + 8 - 7 - 1 = 90
+Walk
+Team 2 pitcher (Owen Bowen): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 1
+
+base1: [1,0], base2: [0,0], base3: [7,0]
+base1: true, base2: true, base3: true
+Score: 0-5
+
+Aaron Copley: rng1 = 42 + 7 - 7 - 1 = 41
+rng2 = 92 + 4 - 9 - 1 = 86
+Flyout
+Team 2 pitcher (Owen Bowen): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 2
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-5
+
+Francis Alford: rng1 = 82 + 3 - 7 - 1 = 77
+rng2 = 57 + 8 - 9 - 1 = 55
+Single
+Team 2 pitcher (Owen Bowen): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 2
+
+base1: [3,0], base2: [1,0], base3: [0,0]
+base1: true, base2: true, base3: true
+Score: 1-5
+
+Felipe Grimes: rng1 = 6 + 6 - 7 - 1 = 4
+Strikeout
+Team 2 pitcher (Owen Bowen): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+BOTTOM INNING 3
+
+Yodogawa Shosuke: rng1 = 46 + 9 - 4 + 1 = 52
+rng2 = 53 + 9 - 7 + 1 = 56
+Lineout
+Team 1 pitcher (Juan Alarcón): 14 batters faced, 5 runs allowed = 14 + 12.5 = 26.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Quinell McDaniel: rng1 = 34 + 6 - 4 + 1 = 37
+rng2 = 90 + 9 - 7 + 1 = 93
+Flyout
+Team 1 pitcher (Juan Alarcón): 15 batters faced, 5 runs allowed = 15 + 12.5 = 27.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Alonso Welch: rng1 = 60 + 7 - 4 + 1 = 64
+rng2 = 23 + 5 - 7 + 1 = 22
+Groundout
+Team 1 pitcher (Juan Alarcón): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+TOP INNING 4
+
+Evan Bliss: rng1 = 93 + 4 - 7 - 1 = 89
+Walk
+Team 2 pitcher (Owen Bowen): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Abel Leoz: rng1 = 24 + 6 - 7 - 1 = 22
+Strikeout
+Team 2 pitcher (Owen Bowen): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Amir Gentry: rng1 = 56 + 5 - 7 - 1 = 53
+rng2 = 9 + 6 - 9 - 1 = 5
+Groundout
+Team 2 pitcher (Owen Bowen): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+BOTTOM INNING 4
+
+Chwa Jung-Su: rng1 = 97 + 7 - 4 + 1 = 101
+rng2 = 42 + 4 - 7 + 1 = 40
+Single
+Team 1 pitcher (Juan Alarcón): 17 batters faced, 5 runs allowed = 17 + 12.5 = 29.5, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Ethan Clarke: rng1 = 31 + 5 - 4 + 1 = 33
+rng2 = 98 + 5 - 7 + 1 = 97
+Flyout
+Team 1 pitcher (Juan Alarcón): 18 batters faced, 5 runs allowed = 18 + 12.5 = 30.5, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Ashton Martin: rng1 = 78 + 15 - 4 + 1 = 90
+Walk
+Team 1 pitcher (Juan Alarcón): 19 batters faced, 5 runs allowed = 19 + 12.5 = 31.5, outs: 1
+
+base1: [0,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-5
+
+Bradley Murphy: rng1 = 76 + 11 - 4 + 1 = 84
+rng2 = 20 + 11 - 7 + 1 = 25
+Single
+Team 1 pitcher (Juan Alarcón): 20 batters faced, 5 runs allowed = 20 + 12.5 = 32.5, outs: 1
+
+base1: [1,0], base2: [0,0], base3: [7,0]
+base1: true, base2: true, base3: true
+Score: 1-5
+
+Caden Beckett: rng1 = 60 + 11 - 4 + 1 = 68
+rng2 = 86 + 6 - 7 + 1 = 86
+Flyout
+Team 1 pitcher (Juan Alarcón): 21 batters faced, 5 runs allowed = 21 + 12.5 = 33.5, outs: 2
+
+base1: [1,0], base2: [0,0], base3: [7,0]
+base1: true, base2: true, base3: true
+Score: 1-5
+
+Joel Arboleda: rng1 = 14 + 8 - 4 + 1 = 19
+Strikeout
+Team 1 pitcher (Juan Alarcón): 22 batters faced, 5 runs allowed = 22 + 12.5 = 34.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+TOP INNING 5
+
+Declan Elliott: rng1 = 51 + 5 - 7 - 1 = 48
+rng2 = 27 + 6 - 9 - 1 = 23
+Groundout
+Team 2 pitcher (Owen Bowen): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Eduardo Rasgado: rng1 = 51 + 8 - 7 - 1 = 51
+rng2 = 29 + 6 - 9 - 1 = 25
+Groundout
+Team 2 pitcher (Owen Bowen): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Umberto Tasis: rng1 = 74 + 8 - 7 - 1 = 74
+rng2 = 65 + 2 - 9 - 1 = 57
+Single
+Team 2 pitcher (Owen Bowen): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Aaron Copley: rng1 = 59 + 7 - 7 - 1 = 58
+rng2 = 42 + 4 - 9 - 1 = 36
+Groundout
+Team 2 pitcher (Owen Bowen): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Noah Rosario
+
+Yodogawa Shosuke: rng1 = 50 + 9 - 11 + 1 = 49
+rng2 = 21 + 9 - 2 + 1 = 29
+Groundout
+Team 1 pitcher (Noah Rosario): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Quinell McDaniel: rng1 = 42 + 6 - 11 + 1 = 38
+rng2 = 53 + 9 - 2 + 1 = 61
+Flyout
+Team 1 pitcher (Noah Rosario): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Alonso Welch: rng1 = 100 + 7 - 11 + 1 = 97
+rng2 = 55 + 5 - 2 + 1 = 59
+Single
+Team 1 pitcher (Noah Rosario): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Chwa Jung-Su: rng1 = 97 + 7 - 11 + 1 = 94
+rng2 = 6 + 4 - 2 + 1 = 9
+Single
+Team 1 pitcher (Noah Rosario): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [7,1], base2: [6,1], base3: false
+base1: true, base2: true, base3: false
+Score: 1-5
+
+Ethan Clarke: rng1 = 94 + 5 - 11 + 1 = 89
+Walk
+Team 1 pitcher (Noah Rosario): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: [8,1], base2: [7,1], base3: [6,1]
+base1: true, base2: true, base3: true
+Score: 1-5
+
+Ashton Martin: rng1 = 22 + 15 - 11 + 1 = 27
+Strikeout
+Team 1 pitcher (Noah Rosario): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+TOP INNING 6
+
+Francis Alford: rng1 = 51 + 3 - 7 - 1 = 46
+rng2 = 64 + 8 - 9 - 1 = 62
+Flyout
+Team 2 pitcher (Owen Bowen): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Felipe Grimes: rng1 = 88 + 6 - 7 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Owen Bowen): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Evan Bliss: rng1 = 32 + 4 - 7 - 1 = 28
+rng2 = 80 + 7 - 9 - 1 = 77
+Flyout
+Team 2 pitcher (Owen Bowen): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Abel Leoz: rng1 = 40 + 6 - 7 - 1 = 38
+rng2 = 69 + 6 - 9 - 1 = 65
+Flyout
+Team 2 pitcher (Owen Bowen): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Hanley Harper
+
+Bradley Murphy: rng1 = 3 + 11 - 7 + 1 = 8
+Strikeout
+Team 1 pitcher (Hanley Harper): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Caden Beckett: rng1 = 43 + 11 - 7 + 1 = 48
+rng2 = 60 + 6 - 5 + 1 = 62
+Flyout
+Team 1 pitcher (Hanley Harper): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Joel Arboleda: rng1 = 22 + 8 - 7 + 1 = 24
+Strikeout
+Team 1 pitcher (Hanley Harper): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Amed Romeo
+
+Amir Gentry: rng1 = 91 + 5 - 7 - 1 = 88
+Walk
+Team 2 pitcher (Amed Romeo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Declan Elliott: rng1 = 54 + 5 - 7 - 1 = 51
+rng2 = 58 + 6 - 8 - 1 = 55
+Lineout
+Team 2 pitcher (Amed Romeo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Eduardo Rasgado: rng1 = 24 + 8 - 7 - 1 = 24
+Strikeout
+Team 2 pitcher (Amed Romeo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Umberto Tasis: rng1 = 11 + 8 - 7 - 1 = 11
+rng2 = 33 + 2 - 8 - 1 = 26
+Groundout
+Team 2 pitcher (Amed Romeo): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+BOTTOM INNING 7
+
+Yodogawa Shosuke: rng1 = 96 + 9 - 7 + 1 = 99
+rng2 = 3 + 9 - 5 + 1 = 8
+Single
+Team 1 pitcher (Hanley Harper): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Quinell McDaniel: rng1 = 99 + 6 - 7 + 1 = 99
+rng2 = 71 + 9 - 5 + 1 = 76
+Double
+Team 1 pitcher (Hanley Harper): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 0
+
+base1: false, base2: [5,2], base3: false
+base1: false, base2: true, base3: false
+Score: 1-6
+
+Alonso Welch: rng1 = 54 + 7 - 7 + 1 = 55
+rng2 = 85 + 5 - 5 + 1 = 86
+Flyout
+Team 1 pitcher (Hanley Harper): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: [5,2], base3: false
+base1: false, base2: true, base3: false
+Score: 1-6
+
+Chwa Jung-Su: rng1 = 47 + 7 - 7 + 1 = 48
+rng2 = 31 + 4 - 5 + 1 = 31
+Groundout
+Team 1 pitcher (Hanley Harper): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: false, base3: [5,2]
+base1: false, base2: false, base3: true
+Score: 1-6
+
+Ethan Clarke: rng1 = 86 + 5 - 7 + 1 = 85
+rng2 = 11 + 5 - 5 + 1 = 12
+Single
+Team 1 pitcher (Hanley Harper): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-7
+
+Team 1 pitcher change to Rory Cunningham
+
+Ashton Martin: rng1 = 45 + 15 - 6 + 1 = 55
+rng2 = 47 + 13 - 6 + 1 = 55
+Lineout
+Team 1 pitcher (Rory Cunningham): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-7
+
+-----------------------
+
+TOP INNING 8
+
+Aaron Copley: rng1 = 74 + 7 - 7 - 1 = 73
+rng2 = 90 + 4 - 8 - 1 = 85
+Home run
+Team 2 pitcher (Amed Romeo): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Francis Alford: rng1 = 52 + 3 - 7 - 1 = 47
+rng2 = 81 + 8 - 8 - 1 = 80
+Flyout
+Team 2 pitcher (Amed Romeo): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Felipe Grimes: rng1 = 42 + 6 - 7 - 1 = 40
+rng2 = 21 + 7 - 8 - 1 = 19
+Groundout
+Team 2 pitcher (Amed Romeo): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Evan Bliss: rng1 = 93 + 4 - 7 - 1 = 89
+Walk
+Team 2 pitcher (Amed Romeo): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-7
+
+Abel Leoz: rng1 = 37 + 6 - 7 - 1 = 35
+rng2 = 35 + 6 - 8 - 1 = 32
+Groundout
+Team 2 pitcher (Amed Romeo): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-7
+
+-----------------------
+
+BOTTOM INNING 8
+
+Bradley Murphy: rng1 = 61 + 11 - 6 + 1 = 67
+rng2 = 24 + 11 - 6 + 1 = 30
+Groundout
+Team 1 pitcher (Rory Cunningham): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Caden Beckett: rng1 = 43 + 11 - 6 + 1 = 49
+rng2 = 74 + 6 - 6 + 1 = 75
+Flyout
+Team 1 pitcher (Rory Cunningham): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Joel Arboleda: rng1 = 83 + 8 - 6 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Rory Cunningham): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [3,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-7
+
+Yodogawa Shosuke: rng1 = 46 + 9 - 6 + 1 = 50
+rng2 = 52 + 9 - 6 + 1 = 56
+Lineout
+Team 1 pitcher (Rory Cunningham): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-7
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Calvin Hogan
+
+Amir Gentry: rng1 = 17 + 5 - 8 - 1 = 13
+rng2 = 41 + 6 - 9 - 1 = 37
+Groundout
+Team 2 pitcher (Calvin Hogan): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Declan Elliott: rng1 = 54 + 5 - 8 - 1 = 50
+rng2 = 47 + 6 - 9 - 1 = 43
+Groundout
+Team 2 pitcher (Calvin Hogan): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Eduardo Rasgado: rng1 = 60 + 8 - 8 - 1 = 59
+rng2 = 64 + 6 - 9 - 1 = 60
+Flyout
+Team 2 pitcher (Calvin Hogan): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-7
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 6
+Team 2 hits: 12
+Team 1 runs: 2
+Team 2 runs: 7
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-09-08
+Eduardo Rasgado	5	0	1	0	0	0	0	0	1					Portland
+Umberto Tasis	3	0	1	0	0	0	0	1	0	
+Aaron Copley	4	1	2	0	0	1	2	0	0	
+Francis Alford	4	0	1	0	0	0	0	0	0	
+Felipe Grimes	2	0	0	0	0	0	0	1	1	
+Evan Bliss	2	0	0	0	0	0	0	2	0	
+Abel Leoz	4	0	0	0	0	0	0	0	1	
+Amir Gentry	3	1	1	0	0	0	0	1	0	
+Declan Elliott	4	0	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Juan Alarcón	0	1	1	1	0	0	12	7	5	0	3	4	22	
+Noah Rosario	0	0	1	0	0	0	3	2	0	0	1	1	6	
+Hanley Harper	0	0	1	0	0	0	5	3	2	0	0	2	8	
+Rory Cunningham	0	0	1	0	0	0	4	0	0	0	0	0	5	
+Finn Sachse	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-09-08
+Ashton Martin	4	2	2	1	0	0	2	1	1					Los Angeles
+Bradley Murphy	5	0	1	0	0	0	0	0	2	
+Caden Beckett	5	0	1	1	0	0	2	0	0	
+Joel Arboleda	4	0	1	0	0	0	1	0	3	
+Yodogawa Shosuke	5	1	1	0	0	0	0	0	0	
+Quinell McDaniel	4	2	2	1	0	0	1	0	0	
+Alonso Welch	3	1	1	0	0	0	0	1	0	
+Chwa Jung-Su	4	0	2	0	0	0	0	0	1	
+Ethan Clarke	2	1	1	0	0	0	1	2	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Owen Bowen	1	0	1	1	0	0	18	5	1	0	3	3	25	
+Amed Romeo	0	0	1	0	0	0	6	1	1	1	2	1	9	
+Jason Francisco	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Ezequiel Abrogado	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Calvin Hogan	0	0	1	0	0	0	3	0	0	0	0	0	3	

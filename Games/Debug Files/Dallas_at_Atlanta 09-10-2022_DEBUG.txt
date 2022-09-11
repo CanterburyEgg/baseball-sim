@@ -1,0 +1,822 @@
+TOP INNING 1
+
+Finnegan Maxwell: rng1 = 16 + 15 - 7 - 1 = 23
+Strikeout
+Team 2 pitcher (Marcus Washington): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Angel Gutiérrez: rng1 = 39 + 15 - 7 - 1 = 46
+rng2 = 99 + 12 - 8 - 1 = 102
+Flyout
+Team 2 pitcher (Marcus Washington): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Randy Carson: rng1 = 48 + 13 - 7 - 1 = 53
+rng2 = 60 + 12 - 8 - 1 = 63
+Flyout
+Team 2 pitcher (Marcus Washington): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Wakasugi Norogumi: rng1 = 88 + 14 - 10 + 1 = 93
+rng2 = 17 + 14 - 9 + 1 = 23
+Single
+Team 1 pitcher (Dylan Werth): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Lawson Haney: rng1 = 92 + 14 - 10 + 1 = 97
+rng2 = 64 + 11 - 9 + 1 = 67
+Double
+Team 1 pitcher (Dylan Werth): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: false, base2: [1,0], base3: [0,0]
+base1: false, base2: true, base3: true
+Score: 0-0
+
+Ethan Spencer: rng1 = 46 + 12 - 10 + 1 = 49
+rng2 = 64 + 15 - 9 + 1 = 71
+Flyout
+Team 1 pitcher (Dylan Werth): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Ike Nicholson: rng1 = 6 + 9 - 10 + 1 = 6
+Strikeout
+Team 1 pitcher (Dylan Werth): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Hayden Wright: rng1 = 18 + 7 - 10 + 1 = 16
+Strikeout
+Team 1 pitcher (Dylan Werth): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 2
+
+Nick Hamburger: rng1 = 36 + 12 - 7 - 1 = 40
+rng2 = 42 + 14 - 8 - 1 = 47
+Groundout
+Team 2 pitcher (Marcus Washington): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Jerome Goodwin: rng1 = 10 + 11 - 7 - 1 = 13
+rng2 = 98 + 9 - 8 - 1 = 98
+Flyout
+Team 2 pitcher (Marcus Washington): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Casey Myers-Morgan: rng1 = 29 + 10 - 7 - 1 = 31
+rng2 = 16 + 9 - 8 - 1 = 16
+Groundout
+Team 2 pitcher (Marcus Washington): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Karsen Welch: rng1 = 77 + 10 - 10 + 1 = 78
+rng2 = 46 + 8 - 9 + 1 = 46
+Single
+Team 1 pitcher (Dylan Werth): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Alfonso Stafford: rng1 = 92 + 12 - 10 + 1 = 95
+rng2 = 8 + 7 - 9 + 1 = 7
+Single
+Team 1 pitcher (Dylan Werth): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 0
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 0-1
+
+Xavier Cabrera: rng1 = 81 + 10 - 10 + 1 = 82
+rng2 = 15 + 7 - 9 + 1 = 14
+Single
+Team 1 pitcher (Dylan Werth): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 0
+
+base1: [7,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 0-2
+
+Darren Chang: rng1 = 32 + 3 - 10 + 1 = 26
+Strikeout
+Team 1 pitcher (Dylan Werth): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 1
+
+base1: [7,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 0-2
+
+Wakasugi Norogumi: rng1 = 11 + 14 - 10 + 1 = 16
+Strikeout
+Team 1 pitcher (Dylan Werth): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 2
+
+base1: [7,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 0-2
+
+Lawson Haney: rng1 = 99 + 14 - 10 + 1 = 104
+rng2 = 85 + 11 - 9 + 1 = 88
+Double
+Team 1 pitcher (Dylan Werth): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-4
+
+Ethan Spencer: rng1 = 34 + 12 - 10 + 1 = 37
+rng2 = 94 + 15 - 9 + 1 = 101
+Flyout
+Team 1 pitcher (Dylan Werth): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+TOP INNING 3
+
+Emiliano Costa: rng1 = 63 + 9 - 7 - 1 = 64
+rng2 = 53 + 9 - 8 - 1 = 53
+Lineout
+Team 2 pitcher (Marcus Washington): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Francisco Illescas: rng1 = 98 + 7 - 7 - 1 = 97
+rng2 = 29 + 6 - 8 - 1 = 26
+Single
+Team 2 pitcher (Marcus Washington): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Ameer Jacobson: rng1 = 65 + 1 - 7 - 1 = 58
+rng2 = 68 + 9 - 8 - 1 = 68
+Flyout
+Team 2 pitcher (Marcus Washington): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Finnegan Maxwell: rng1 = 8 + 15 - 7 - 1 = 15
+rng2 = 25 + 14 - 8 - 1 = 30
+Groundout
+Team 2 pitcher (Marcus Washington): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+BOTTOM INNING 3
+
+Ike Nicholson: rng1 = 30 + 9 - 10 + 1 = 30
+rng2 = 29 + 11 - 9 + 1 = 32
+Groundout
+Team 1 pitcher (Dylan Werth): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Hayden Wright: rng1 = 18 + 7 - 10 + 1 = 16
+Strikeout
+Team 1 pitcher (Dylan Werth): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Karsen Welch: rng1 = 66 + 10 - 10 + 1 = 67
+rng2 = 9 + 8 - 9 + 1 = 9
+Groundout
+Team 1 pitcher (Dylan Werth): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+TOP INNING 4
+
+Angel Gutiérrez: rng1 = 85 + 15 - 7 - 1 = 92
+rng2 = 92 + 12 - 8 - 1 = 95
+Home run
+Team 2 pitcher (Marcus Washington): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Randy Carson: rng1 = 11 + 13 - 7 - 1 = 16
+Strikeout
+Team 2 pitcher (Marcus Washington): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Nick Hamburger: rng1 = 65 + 12 - 7 - 1 = 69
+Walk
+Team 2 pitcher (Marcus Washington): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Jerome Goodwin: rng1 = 85 + 11 - 7 - 1 = 88
+Walk
+Team 2 pitcher (Marcus Washington): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 1
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-4
+
+Casey Myers-Morgan: rng1 = 33 + 10 - 7 - 1 = 35
+rng2 = 66 + 9 - 8 - 1 = 66
+Flyout
+Team 2 pitcher (Marcus Washington): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 2
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-4
+
+Emiliano Costa: rng1 = 42 + 9 - 7 - 1 = 43
+rng2 = 72 + 9 - 8 - 1 = 72
+Flyout
+Team 2 pitcher (Marcus Washington): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+BOTTOM INNING 4
+
+Alfonso Stafford: rng1 = 23 + 12 - 10 + 1 = 26
+Strikeout
+Team 1 pitcher (Dylan Werth): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Xavier Cabrera: rng1 = 96 + 10 - 10 + 1 = 97
+rng2 = 78 + 7 - 9 + 1 = 77
+Double
+Team 1 pitcher (Dylan Werth): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 1
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-4
+
+Darren Chang: rng1 = 90 + 3 - 10 + 1 = 84
+rng2 = 21 + 8 - 9 + 1 = 21
+Single
+Team 1 pitcher (Dylan Werth): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 1
+
+base1: [8,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 1-4
+
+Wakasugi Norogumi: rng1 = 79 + 14 - 10 + 1 = 84
+rng2 = 86 + 14 - 9 + 1 = 92
+Double
+Team 1 pitcher (Dylan Werth): 19 batters faced, 5 runs allowed = 19 + 12.5 = 31.5, outs: 1
+
+base1: false, base2: [0,0], base3: [8,0]
+base1: false, base2: true, base3: true
+Score: 1-5
+
+Lawson Haney: rng1 = 15 + 14 - 10 + 1 = 20
+Strikeout
+Team 1 pitcher (Dylan Werth): 20 batters faced, 5 runs allowed = 20 + 12.5 = 32.5, outs: 2
+
+base1: false, base2: [0,0], base3: [8,0]
+base1: false, base2: true, base3: true
+Score: 1-5
+
+Ethan Spencer: rng1 = 97 + 12 - 10 + 1 = 100
+rng2 = 44 + 15 - 9 + 1 = 51
+Single
+Team 1 pitcher (Dylan Werth): 21 batters faced, 6 runs allowed = 21 + 15.0 = 36.0, outs: 2
+
+base1: [2,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 1-6
+
+Team 1 pitcher change to Douglas Bosak
+
+Ike Nicholson: rng1 = 25 + 9 - 6 + 1 = 29
+rng2 = 40 + 11 - 6 + 1 = 46
+Groundout
+Team 1 pitcher (Douglas Bosak): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 5
+
+Francisco Illescas: rng1 = 56 + 7 - 7 - 1 = 55
+rng2 = 93 + 6 - 8 - 1 = 90
+Flyout
+Team 2 pitcher (Marcus Washington): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Ameer Jacobson: rng1 = 98 + 1 - 7 - 1 = 91
+rng2 = 13 + 9 - 8 - 1 = 13
+Single
+Team 2 pitcher (Marcus Washington): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Finnegan Maxwell: rng1 = 45 + 15 - 7 - 1 = 52
+rng2 = 22 + 14 - 8 - 1 = 27
+Groundout
+Team 2 pitcher (Marcus Washington): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+BOTTOM INNING 5
+
+Hayden Wright: rng1 = 24 + 7 - 6 + 1 = 26
+Strikeout
+Team 1 pitcher (Douglas Bosak): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Karsen Welch: rng1 = 91 + 10 - 6 + 1 = 96
+rng2 = 77 + 8 - 6 + 1 = 80
+Home run
+Team 1 pitcher (Douglas Bosak): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-7
+
+Alfonso Stafford: rng1 = 87 + 12 - 6 + 1 = 94
+rng2 = 43 + 7 - 6 + 1 = 45
+Single
+Team 1 pitcher (Douglas Bosak): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-7
+
+Xavier Cabrera: rng1 = 18 + 10 - 6 + 1 = 23
+Strikeout
+Team 1 pitcher (Douglas Bosak): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-7
+
+Darren Chang: rng1 = 94 + 3 - 6 + 1 = 92
+rng2 = 22 + 8 - 6 + 1 = 25
+Single
+Team 1 pitcher (Douglas Bosak): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: [8,1], base2: false, base3: [6,1]
+base1: true, base2: false, base3: true
+Score: 1-7
+
+Wakasugi Norogumi: rng1 = 1 + 14 - 6 + 1 = 10
+Strikeout
+Team 1 pitcher (Douglas Bosak): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-7
+
+-----------------------
+
+TOP INNING 6
+
+Angel Gutiérrez: rng1 = 82 + 15 - 7 - 1 = 89
+Walk
+Team 2 pitcher (Marcus Washington): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-7
+
+Randy Carson: rng1 = 17 + 13 - 7 - 1 = 22
+Strikeout
+Team 2 pitcher (Marcus Washington): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-7
+
+Nick Hamburger: rng1 = 48 + 12 - 7 - 1 = 52
+rng2 = 74 + 14 - 8 - 1 = 79
+Flyout
+Team 2 pitcher (Marcus Washington): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-7
+
+Jerome Goodwin: rng1 = 15 + 11 - 7 - 1 = 18
+Strikeout
+Team 2 pitcher (Marcus Washington): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-7
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Sergio Narvaez
+
+Lawson Haney: rng1 = 28 + 14 - 11 + 1 = 32
+rng2 = 48 + 11 - 12 + 1 = 48
+Lineout
+Team 1 pitcher (Sergio Narvaez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-7
+
+Ethan Spencer: rng1 = 69 + 12 - 11 + 1 = 71
+Walk
+Team 1 pitcher (Sergio Narvaez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-7
+
+Ike Nicholson: rng1 = 21 + 9 - 11 + 1 = 20
+Strikeout
+Team 1 pitcher (Sergio Narvaez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-7
+
+Hayden Wright: rng1 = 87 + 7 - 11 + 1 = 84
+rng2 = 80 + 9 - 12 + 1 = 78
+Triple
+Team 1 pitcher (Sergio Narvaez): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: false, base3: [4,2]
+base1: false, base2: false, base3: true
+Score: 1-8
+
+Karsen Welch: rng1 = 8 + 10 - 11 + 1 = 8
+Strikeout
+Team 1 pitcher (Sergio Narvaez): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-8
+
+-----------------------
+
+TOP INNING 7
+
+Casey Myers-Morgan: rng1 = 86 + 10 - 7 - 1 = 88
+Walk
+Team 2 pitcher (Marcus Washington): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-8
+
+Emiliano Costa: rng1 = 7 + 9 - 7 - 1 = 8
+Strikeout
+Team 2 pitcher (Marcus Washington): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-8
+
+Francisco Illescas: rng1 = 28 + 7 - 7 - 1 = 27
+Strikeout
+Team 2 pitcher (Marcus Washington): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-8
+
+Ameer Jacobson: rng1 = 56 + 1 - 7 - 1 = 49
+rng2 = 66 + 9 - 8 - 1 = 66
+Flyout
+Team 2 pitcher (Marcus Washington): 27 batters faced, 1 runs allowed = 27 + 2.5 = 29.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-8
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Ezequiel Santangelo
+
+Alfonso Stafford: rng1 = 19 + 12 - 6 + 1 = 26
+Strikeout
+Team 1 pitcher (Ezequiel Santangelo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-8
+
+Xavier Cabrera: rng1 = 19 + 10 - 6 + 1 = 24
+Strikeout
+Team 1 pitcher (Ezequiel Santangelo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-8
+
+Darren Chang: rng1 = 95 + 3 - 6 + 1 = 93
+rng2 = 27 + 8 - 5 + 1 = 31
+Single
+Team 1 pitcher (Ezequiel Santangelo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [8,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-8
+
+Wakasugi Norogumi: rng1 = 39 + 14 - 6 + 1 = 48
+rng2 = 65 + 14 - 5 + 1 = 75
+Flyout
+Team 1 pitcher (Ezequiel Santangelo): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-8
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Saiki Iwane
+
+Finnegan Maxwell: rng1 = 53 + 15 - 10 - 1 = 57
+rng2 = 59 + 14 - 8 - 1 = 64
+Flyout
+Team 2 pitcher (Saiki Iwane): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-8
+
+Angel Gutiérrez: rng1 = 67 + 15 - 10 - 1 = 71
+Walk
+Team 2 pitcher (Saiki Iwane): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-8
+
+Randy Carson: rng1 = 99 + 13 - 10 - 1 = 101
+rng2 = 75 + 12 - 8 - 1 = 78
+Triple
+Team 2 pitcher (Saiki Iwane): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: false, base3: [2,1]
+base1: false, base2: false, base3: true
+Score: 2-8
+
+Nick Hamburger: rng1 = 84 + 12 - 10 - 1 = 85
+rng2 = 15 + 14 - 8 - 1 = 20
+Single
+Team 2 pitcher (Saiki Iwane): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-8
+
+Jerome Goodwin: rng1 = 22 + 11 - 10 - 1 = 22
+Strikeout
+Team 2 pitcher (Saiki Iwane): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-8
+
+Casey Myers-Morgan: rng1 = 99 + 10 - 10 - 1 = 98
+rng2 = 34 + 9 - 8 - 1 = 34
+Single
+Team 2 pitcher (Saiki Iwane): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: [5,1], base2: false, base3: [3,1]
+base1: true, base2: false, base3: true
+Score: 3-8
+
+Emiliano Costa: rng1 = 97 + 9 - 10 - 1 = 95
+rng2 = 92 + 9 - 8 - 1 = 92
+Double
+Team 2 pitcher (Saiki Iwane): 7 batters faced, 4 runs allowed = 7 + 10.0 = 17.0, outs: 2
+
+base1: false, base2: [6,1], base3: false
+base1: false, base2: true, base3: false
+Score: 5-8
+
+Team 2 pitcher change to Thomas Dillard
+
+Francisco Illescas: rng1 = 73 + 7 - 9 - 1 = 70
+Walk
+Team 2 pitcher (Thomas Dillard): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [7,2], base2: [6,1], base3: false
+base1: true, base2: true, base3: false
+Score: 5-8
+
+Ameer Jacobson: rng1 = 87 + 1 - 9 - 1 = 78
+rng2 = 24 + 9 - 7 - 1 = 25
+Single
+Team 2 pitcher (Thomas Dillard): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: [8,2], base2: false, base3: [7,2]
+base1: true, base2: false, base3: true
+Score: 6-8
+
+Finnegan Maxwell: rng1 = 43 + 15 - 9 - 1 = 48
+rng2 = 35 + 14 - 7 - 1 = 41
+Groundout
+Team 2 pitcher (Thomas Dillard): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-8
+
+-----------------------
+
+BOTTOM INNING 8
+
+Lawson Haney: rng1 = 35 + 14 - 6 + 1 = 44
+rng2 = 18 + 11 - 5 + 1 = 25
+Groundout
+Team 1 pitcher (Ezequiel Santangelo): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-8
+
+Ethan Spencer: rng1 = 96 + 12 - 6 + 1 = 103
+rng2 = 91 + 15 - 5 + 1 = 102
+Home run
+Team 1 pitcher (Ezequiel Santangelo): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-9
+
+Ike Nicholson: rng1 = 90 + 9 - 6 + 1 = 94
+rng2 = 42 + 11 - 5 + 1 = 49
+Single
+Team 1 pitcher (Ezequiel Santangelo): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: [3,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-9
+
+Hayden Wright: rng1 = 100 + 7 - 6 + 1 = 102
+rng2 = 25 + 9 - 5 + 1 = 30
+Single
+Team 1 pitcher (Ezequiel Santangelo): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: [4,3], base2: false, base3: [3,3]
+base1: true, base2: false, base3: true
+Score: 6-9
+
+Karsen Welch: rng1 = 41 + 10 - 6 + 1 = 46
+rng2 = 11 + 8 - 5 + 1 = 15
+Groundout
+Team 1 pitcher (Ezequiel Santangelo): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-9
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Juancarlo Pinto
+
+Angel Gutiérrez: rng1 = 43 + 15 - 13 - 1 = 44
+rng2 = 93 + 12 - 11 - 1 = 93
+Flyout
+Team 2 pitcher (Juancarlo Pinto): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-9
+
+Randy Carson: rng1 = 68 + 13 - 13 - 1 = 67
+rng2 = 44 + 12 - 11 - 1 = 44
+Groundout
+Team 2 pitcher (Juancarlo Pinto): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-9
+
+Nick Hamburger: rng1 = 73 + 12 - 13 - 1 = 71
+Walk
+Team 2 pitcher (Juancarlo Pinto): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [3,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-9
+
+Jerome Goodwin: rng1 = 45 + 11 - 13 - 1 = 42
+rng2 = 63 + 9 - 11 - 1 = 60
+Flyout
+Team 2 pitcher (Juancarlo Pinto): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-9
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 8
+Team 2 hits: 18
+Team 1 runs: 6
+Team 2 runs: 9
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-09-10
+Finnegan Maxwell	5	0	0	0	0	0	0	0	1					Dallas
+Angel Gutiérrez	3	2	1	0	0	1	1	2	0	
+Randy Carson	5	1	1	0	1	0	1	0	2	
+Nick Hamburger	3	1	1	0	0	0	1	2	0	
+Jerome Goodwin	4	0	0	0	0	0	0	1	2	
+Casey Myers-Morgan	3	1	1	0	0	0	0	1	0	
+Emiliano Costa	4	1	1	1	0	0	2	0	1	
+Francisco Illescas	3	0	1	0	0	0	0	1	1	
+Ameer Jacobson	4	0	2	0	0	0	1	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Dylan Werth	0	1	1	1	0	0	11	10	6	0	0	7	21	
+Douglas Bosak	0	0	1	0	0	0	4	3	1	1	0	3	7	
+Sergio Narvaez	0	0	1	0	0	0	3	1	1	0	1	2	5	
+Ezequiel Santangelo	0	0	1	0	0	0	6	4	1	1	0	2	9	
+Seno Mashiro	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-09-10
+Wakasugi Norogumi	5	1	2	1	0	0	1	0	2					Atlanta
+Lawson Haney	5	0	2	2	0	0	2	0	1	
+Ethan Spencer	4	2	2	0	0	1	3	1	0	
+Ike Nicholson	5	0	1	0	0	0	0	0	2	
+Hayden Wright	5	0	2	0	1	0	1	0	3	
+Karsen Welch	5	2	2	0	0	1	1	0	1	
+Alfonso Stafford	4	1	2	0	0	0	0	0	2	
+Xavier Cabrera	4	2	2	1	0	0	1	0	2	
+Darren Chang	4	1	3	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Marcus Washington	1	0	1	1	0	0	21	3	1	1	4	6	27	
+Saiki Iwane	0	0	1	0	0	0	2	4	5	0	1	1	7	
+Thomas Dillard	0	0	1	0	0	0	1	1	0	0	1	0	3	
+Moises Alvarado	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Juancarlo Pinto	0	0	1	0	1	1	3	0	0	0	1	0	4	

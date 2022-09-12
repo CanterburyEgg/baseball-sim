@@ -1,0 +1,754 @@
+TOP INNING 1
+
+Eric Parker: rng1 = 11 + 15 - 7 - 1 = 18
+Strikeout
+Team 2 pitcher (Kadeem Davis): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Mateo Estrada: rng1 = 60 + 13 - 7 - 1 = 65
+rng2 = 20 + 13 - 8 - 1 = 24
+Groundout
+Team 2 pitcher (Kadeem Davis): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jose Walker: rng1 = 92 + 11 - 7 - 1 = 95
+rng2 = 35 + 10 - 8 - 1 = 36
+Single
+Team 2 pitcher (Kadeem Davis): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Terryl Maxwell: rng1 = 4 + 7 - 7 - 1 = 3
+Strikeout
+Team 2 pitcher (Kadeem Davis): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Robert Bailey: rng1 = 66 + 13 - 10 + 1 = 70
+Walk
+Team 1 pitcher (Dalton Tovar): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Nicolas Sanchez: rng1 = 85 + 12 - 10 + 1 = 88
+Walk
+Team 1 pitcher (Dalton Tovar): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Jeff Murray: rng1 = 53 + 11 - 10 + 1 = 55
+rng2 = 6 + 10 - 6 + 1 = 11
+Groundout
+Team 1 pitcher (Dalton Tovar): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Josh Nelson: rng1 = 34 + 9 - 10 + 1 = 34
+rng2 = 17 + 13 - 6 + 1 = 25
+Groundout
+Team 1 pitcher (Dalton Tovar): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Diego Vargas: rng1 = 38 + 10 - 10 + 1 = 39
+rng2 = 75 + 8 - 6 + 1 = 78
+Flyout
+Team 1 pitcher (Dalton Tovar): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 2
+
+Lawrence Webb: rng1 = 32 + 10 - 7 - 1 = 34
+rng2 = 61 + 10 - 8 - 1 = 62
+Flyout
+Team 2 pitcher (Kadeem Davis): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Alex Diaz: rng1 = 79 + 11 - 7 - 1 = 82
+rng2 = 40 + 8 - 8 - 1 = 39
+Single
+Team 2 pitcher (Kadeem Davis): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Kieran Byrne: rng1 = 33 + 9 - 7 - 1 = 34
+rng2 = 29 + 8 - 8 - 1 = 28
+Groundout
+Team 2 pitcher (Kadeem Davis): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Jonathan Turner: rng1 = 65 + 7 - 7 - 1 = 64
+rng2 = 15 + 6 - 8 - 1 = 12
+Groundout
+Team 2 pitcher (Kadeem Davis): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Joey Crawford: rng1 = 80 + 10 - 10 + 1 = 81
+rng2 = 25 + 6 - 6 + 1 = 26
+Single
+Team 1 pitcher (Dalton Tovar): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Jeremy Anderson: rng1 = 75 + 7 - 10 + 1 = 73
+rng2 = 76 + 5 - 6 + 1 = 76
+Double
+Team 1 pitcher (Dalton Tovar): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 0
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-2
+
+Tyrone Harris: rng1 = 100 + 3 - 10 + 1 = 94
+rng2 = 26 + 6 - 6 + 1 = 27
+Single
+Team 1 pitcher (Dalton Tovar): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 0
+
+base1: [7,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 0-2
+
+Russell Wood: rng1 = 23 + 4 - 10 + 1 = 18
+Strikeout
+Team 1 pitcher (Dalton Tovar): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 1
+
+base1: [7,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 0-2
+
+Robert Bailey: rng1 = 7 + 13 - 10 + 1 = 11
+rng2 = 6 + 12 - 6 + 1 = 13
+Groundout
+Team 1 pitcher (Dalton Tovar): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 2
+
+base1: false, base2: [7,0], base3: [6,0]
+base1: false, base2: true, base3: true
+Score: 0-2
+
+Nicolas Sanchez: rng1 = 36 + 12 - 10 + 1 = 39
+rng2 = 72 + 8 - 6 + 1 = 75
+Flyout
+Team 1 pitcher (Dalton Tovar): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 3
+
+Malik Thompson: rng1 = 60 + 2 - 7 - 1 = 54
+rng2 = 48 + 2 - 8 - 1 = 41
+Groundout
+Team 2 pitcher (Kadeem Davis): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Eric Parker: rng1 = 63 + 15 - 7 - 1 = 70
+Walk
+Team 2 pitcher (Kadeem Davis): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Mateo Estrada: rng1 = 46 + 13 - 7 - 1 = 51
+rng2 = 98 + 13 - 8 - 1 = 102
+Flyout
+Team 2 pitcher (Kadeem Davis): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Jose Walker: rng1 = 22 + 11 - 7 - 1 = 25
+Strikeout
+Team 2 pitcher (Kadeem Davis): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+BOTTOM INNING 3
+
+Jeff Murray: rng1 = 4 + 11 - 10 + 1 = 6
+Strikeout
+Team 1 pitcher (Dalton Tovar): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Josh Nelson: rng1 = 11 + 9 - 10 + 1 = 11
+rng2 = 44 + 13 - 6 + 1 = 52
+Lineout
+Team 1 pitcher (Dalton Tovar): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Diego Vargas: rng1 = 74 + 10 - 10 + 1 = 75
+rng2 = 33 + 8 - 6 + 1 = 36
+Single
+Team 1 pitcher (Dalton Tovar): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Joey Crawford: rng1 = 20 + 10 - 10 + 1 = 21
+Strikeout
+Team 1 pitcher (Dalton Tovar): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 4
+
+Terryl Maxwell: rng1 = 59 + 7 - 7 - 1 = 58
+rng2 = 48 + 11 - 8 - 1 = 50
+Lineout
+Team 2 pitcher (Kadeem Davis): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Lawrence Webb: rng1 = 32 + 10 - 7 - 1 = 34
+rng2 = 90 + 10 - 8 - 1 = 91
+Flyout
+Team 2 pitcher (Kadeem Davis): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Alex Diaz: rng1 = 90 + 11 - 7 - 1 = 93
+rng2 = 13 + 8 - 8 - 1 = 12
+Single
+Team 2 pitcher (Kadeem Davis): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Kieran Byrne: rng1 = 92 + 9 - 7 - 1 = 93
+rng2 = 78 + 8 - 8 - 1 = 77
+Double
+Team 2 pitcher (Kadeem Davis): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 2
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-2
+
+Jonathan Turner: rng1 = 39 + 7 - 7 - 1 = 38
+rng2 = 97 + 6 - 8 - 1 = 94
+Flyout
+Team 2 pitcher (Kadeem Davis): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 4
+
+Jeremy Anderson: rng1 = 56 + 7 - 10 + 1 = 54
+rng2 = 73 + 5 - 6 + 1 = 73
+Flyout
+Team 1 pitcher (Dalton Tovar): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Tyrone Harris: rng1 = 65 + 3 - 10 + 1 = 59
+rng2 = 98 + 6 - 6 + 1 = 99
+Flyout
+Team 1 pitcher (Dalton Tovar): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Russell Wood: rng1 = 86 + 4 - 10 + 1 = 81
+rng2 = 83 + 4 - 6 + 1 = 82
+Home run
+Team 1 pitcher (Dalton Tovar): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Robert Bailey: rng1 = 56 + 13 - 10 + 1 = 60
+rng2 = 23 + 12 - 6 + 1 = 30
+Groundout
+Team 1 pitcher (Dalton Tovar): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 5
+
+Malik Thompson: rng1 = 26 + 2 - 7 - 1 = 20
+Strikeout
+Team 2 pitcher (Kadeem Davis): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Eric Parker: rng1 = 80 + 15 - 7 - 1 = 87
+Walk
+Team 2 pitcher (Kadeem Davis): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Mateo Estrada: rng1 = 72 + 13 - 7 - 1 = 77
+rng2 = 4 + 13 - 8 - 1 = 8
+Single
+Team 2 pitcher (Kadeem Davis): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 1
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-3
+
+Jose Walker: rng1 = 90 + 11 - 7 - 1 = 93
+rng2 = 51 + 10 - 8 - 1 = 52
+Single
+Team 2 pitcher (Kadeem Davis): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 1
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 2-3
+
+Terryl Maxwell: rng1 = 51 + 7 - 7 - 1 = 50
+rng2 = 82 + 11 - 8 - 1 = 84
+Flyout
+Team 2 pitcher (Kadeem Davis): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Lawrence Webb: rng1 = 30 + 10 - 7 - 1 = 32
+rng2 = 5 + 10 - 8 - 1 = 6
+Groundout
+Team 2 pitcher (Kadeem Davis): 23 batters faced, 3 runs allowed = 23 + 7.5 = 30.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+BOTTOM INNING 5
+
+Nicolas Sanchez: rng1 = 76 + 12 - 10 + 1 = 79
+rng2 = 100 + 8 - 6 + 1 = 103
+Home run
+Team 1 pitcher (Dalton Tovar): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Jeff Murray: rng1 = 1 + 11 - 10 + 1 = 3
+Strikeout
+Team 1 pitcher (Dalton Tovar): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Josh Nelson: rng1 = 94 + 9 - 10 + 1 = 94
+rng2 = 16 + 13 - 6 + 1 = 24
+Single
+Team 1 pitcher (Dalton Tovar): 22 batters faced, 4 runs allowed = 22 + 10.0 = 32.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-4
+
+Diego Vargas: rng1 = 34 + 10 - 10 + 1 = 35
+rng2 = 72 + 8 - 6 + 1 = 75
+Flyout
+Team 1 pitcher (Dalton Tovar): 23 batters faced, 4 runs allowed = 23 + 10.0 = 33.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-4
+
+Joey Crawford: rng1 = 81 + 10 - 10 + 1 = 82
+rng2 = 71 + 6 - 6 + 1 = 72
+Double
+Team 1 pitcher (Dalton Tovar): 24 batters faced, 4 runs allowed = 24 + 10.0 = 34.0, outs: 2
+
+base1: false, base2: [5,0], base3: [3,0]
+base1: false, base2: true, base3: true
+Score: 3-4
+
+Team 1 pitcher change to Henry Wright
+
+Jeremy Anderson: rng1 = 50 + 7 - 7 + 1 = 51
+rng2 = 4 + 5 - 8 + 1 = 2
+Groundout
+Team 1 pitcher (Henry Wright): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Donte Walter
+
+Alex Diaz: rng1 = 58 + 11 - 9 - 1 = 59
+rng2 = 57 + 8 - 7 - 1 = 57
+Lineout
+Team 2 pitcher (Donte Walter): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Kieran Byrne: rng1 = 46 + 9 - 9 - 1 = 45
+rng2 = 80 + 8 - 7 - 1 = 80
+Flyout
+Team 2 pitcher (Donte Walter): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Jonathan Turner: rng1 = 18 + 7 - 9 - 1 = 15
+rng2 = 48 + 6 - 7 - 1 = 46
+Groundout
+Team 2 pitcher (Donte Walter): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+BOTTOM INNING 6
+
+Tyrone Harris: rng1 = 48 + 3 - 7 + 1 = 45
+rng2 = 69 + 6 - 8 + 1 = 68
+Flyout
+Team 1 pitcher (Henry Wright): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Russell Wood: rng1 = 90 + 4 - 7 + 1 = 88
+Walk
+Team 1 pitcher (Henry Wright): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-4
+
+Robert Bailey: rng1 = 7 + 13 - 7 + 1 = 14
+rng2 = 85 + 12 - 8 + 1 = 90
+Flyout
+Team 1 pitcher (Henry Wright): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-4
+
+Nicolas Sanchez: rng1 = 13 + 12 - 7 + 1 = 19
+Strikeout
+Team 1 pitcher (Henry Wright): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+TOP INNING 7
+
+Malik Thompson: rng1 = 6 + 2 - 9 - 1 = -2
+Strikeout
+Team 2 pitcher (Donte Walter): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Eric Parker: rng1 = 80 + 15 - 9 - 1 = 85
+rng2 = 86 + 11 - 7 - 1 = 89
+Double
+Team 2 pitcher (Donte Walter): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: [0,1], base3: false
+base1: false, base2: true, base3: false
+Score: 3-4
+
+Mateo Estrada: rng1 = 86 + 13 - 9 - 1 = 89
+Walk
+Team 2 pitcher (Donte Walter): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [1,1], base2: [0,1], base3: false
+base1: true, base2: true, base3: false
+Score: 3-4
+
+Jose Walker: rng1 = 16 + 11 - 9 - 1 = 17
+Strikeout
+Team 2 pitcher (Donte Walter): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [1,1], base2: [0,1], base3: false
+base1: true, base2: true, base3: false
+Score: 3-4
+
+Terryl Maxwell: rng1 = 44 + 7 - 9 - 1 = 41
+rng2 = 34 + 11 - 7 - 1 = 37
+Groundout
+Team 2 pitcher (Donte Walter): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to David Juarez
+
+Jeff Murray: rng1 = 13 + 11 - 6 + 1 = 19
+Strikeout
+Team 1 pitcher (David Juarez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Josh Nelson: rng1 = 57 + 9 - 6 + 1 = 61
+rng2 = 58 + 13 - 7 + 1 = 65
+Flyout
+Team 1 pitcher (David Juarez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Diego Vargas: rng1 = 32 + 10 - 6 + 1 = 37
+rng2 = 85 + 8 - 7 + 1 = 87
+Flyout
+Team 1 pitcher (David Juarez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Zion Wright
+
+Lawrence Webb: rng1 = 78 + 10 - 8 - 1 = 79
+rng2 = 1 + 10 - 5 - 1 = 5
+Single
+Team 2 pitcher (Zion Wright): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-4
+
+Alex Diaz: rng1 = 12 + 11 - 8 - 1 = 14
+rng2 = 87 + 8 - 5 - 1 = 89
+Flyout
+Team 2 pitcher (Zion Wright): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-4
+
+Kieran Byrne: rng1 = 16 + 9 - 8 - 1 = 16
+Strikeout
+Team 2 pitcher (Zion Wright): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-4
+
+Jonathan Turner: rng1 = 21 + 7 - 8 - 1 = 19
+Strikeout
+Team 2 pitcher (Zion Wright): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+BOTTOM INNING 8
+
+Joey Crawford: rng1 = 19 + 10 - 6 + 1 = 24
+Strikeout
+Team 1 pitcher (David Juarez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Jeremy Anderson: rng1 = 76 + 7 - 6 + 1 = 78
+rng2 = 59 + 5 - 7 + 1 = 58
+Single
+Team 1 pitcher (David Juarez): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-4
+
+Tyrone Harris: rng1 = 58 + 3 - 6 + 1 = 56
+rng2 = 34 + 6 - 7 + 1 = 34
+Groundout
+Team 1 pitcher (David Juarez): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-4
+
+Russell Wood: rng1 = 77 + 4 - 6 + 1 = 76
+rng2 = 38 + 4 - 7 + 1 = 36
+Single
+Team 1 pitcher (David Juarez): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [8,2], base2: [7,2], base3: false
+base1: true, base2: true, base3: false
+Score: 3-4
+
+Robert Bailey: rng1 = 34 + 13 - 6 + 1 = 42
+rng2 = 1 + 12 - 7 + 1 = 7
+Groundout
+Team 1 pitcher (David Juarez): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Walt Lewis
+
+Malik Thompson: rng1 = 29 + 2 - 9 - 1 = 21
+Strikeout
+Team 2 pitcher (Walt Lewis): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Eric Parker: rng1 = 13 + 15 - 9 - 1 = 18
+Strikeout
+Team 2 pitcher (Walt Lewis): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Mateo Estrada: rng1 = 37 + 13 - 9 - 1 = 40
+rng2 = 41 + 13 - 8 - 1 = 45
+Groundout
+Team 2 pitcher (Walt Lewis): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 8
+Team 2 hits: 10
+Team 1 runs: 3
+Team 2 runs: 4
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-09-12
+Eric Parker	3	1	1	1	0	0	0	2	2					St Louis
+Mateo Estrada	4	1	1	0	0	0	0	1	0	
+Jose Walker	4	0	2	0	0	0	1	0	2	
+Terryl Maxwell	4	0	0	0	0	0	1	0	1	
+Lawrence Webb	4	0	1	0	0	0	0	0	0	
+Alex Diaz	4	1	2	0	0	0	0	0	0	
+Kieran Byrne	4	0	1	1	0	0	1	0	1	
+Jonathan Turner	4	0	0	0	0	0	0	0	1	
+Malik Thompson	4	0	0	0	0	0	0	0	3	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Dalton Tovar	0	1	1	1	0	0	14	8	4	2	2	4	24	
+Henry Wright	0	0	1	0	0	0	4	0	0	0	1	1	5	
+David Juarez	0	0	1	0	0	0	6	2	0	0	0	2	8	
+Max Castillo	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Ryu Shi-Woo	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-09-12
+Robert Bailey	4	1	0	0	0	0	0	1	0					Milwaukee
+Nicolas Sanchez	3	1	1	0	0	1	1	1	1	
+Jeff Murray	4	0	0	0	0	0	0	0	3	
+Josh Nelson	4	0	1	0	0	0	1	0	0	
+Diego Vargas	4	0	1	0	0	0	0	0	0	
+Joey Crawford	4	1	2	1	0	0	0	0	2	
+Jeremy Anderson	4	0	2	1	0	0	1	0	0	
+Tyrone Harris	4	0	1	0	0	0	0	0	0	
+Russell Wood	3	1	2	0	0	1	1	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Kadeem Davis	1	0	1	1	0	0	15	6	3	0	2	4	23	
+Donte Walter	0	0	1	0	0	0	6	1	0	0	1	2	8	
+Zion Wright	0	0	1	0	0	0	3	1	0	0	0	2	4	
+Drew Burns	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Walt Lewis	0	0	1	0	1	1	3	0	0	0	0	2	3	

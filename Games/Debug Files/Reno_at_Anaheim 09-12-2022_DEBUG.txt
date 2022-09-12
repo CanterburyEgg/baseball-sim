@@ -1,0 +1,699 @@
+TOP INNING 1
+
+Mark White: rng1 = 91 + 10 - 7 - 1 = 93
+rng2 = 93 + 8 - 7 - 1 = 93
+Triple
+Team 2 pitcher (Wyatt Heller): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: false, base3: [0,0]
+base1: false, base2: false, base3: true
+Score: 0-0
+
+Jack Hayes: rng1 = 10 + 8 - 7 - 1 = 10
+Strikeout
+Team 2 pitcher (Wyatt Heller): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: [0,0]
+base1: false, base2: false, base3: true
+Score: 0-0
+
+Christian Mendez: rng1 = 22 + 8 - 7 - 1 = 22
+Strikeout
+Team 2 pitcher (Wyatt Heller): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: [0,0]
+base1: false, base2: false, base3: true
+Score: 0-0
+
+Brian Woods: rng1 = 62 + 6 - 7 - 1 = 60
+rng2 = 20 + 8 - 7 - 1 = 20
+Groundout
+Team 2 pitcher (Wyatt Heller): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Pedro Martinez: rng1 = 50 + 9 - 12 + 1 = 48
+rng2 = 56 + 7 - 8 + 1 = 56
+Lineout
+Team 1 pitcher (Sebastian Soto): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Kyrie Anderson: rng1 = 32 + 8 - 12 + 1 = 29
+rng2 = 87 + 9 - 8 + 1 = 89
+Flyout
+Team 1 pitcher (Sebastian Soto): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Andy Kelley: rng1 = 48 + 7 - 12 + 1 = 44
+rng2 = 19 + 8 - 8 + 1 = 20
+Groundout
+Team 1 pitcher (Sebastian Soto): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Josh Poole: rng1 = 63 + 8 - 7 - 1 = 63
+rng2 = 68 + 7 - 7 - 1 = 67
+Flyout
+Team 2 pitcher (Wyatt Heller): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Emmanuel Ramirez: rng1 = 70 + 8 - 7 - 1 = 70
+Walk
+Team 2 pitcher (Wyatt Heller): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Jason Collins: rng1 = 51 + 7 - 7 - 1 = 50
+rng2 = 6 + 6 - 7 - 1 = 4
+Groundout
+Team 2 pitcher (Wyatt Heller): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Billy Campbell: rng1 = 6 + 6 - 12 + 1 = 1
+Strikeout
+Team 1 pitcher (Sebastian Soto): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Orlando Cazalla: rng1 = 67 + 7 - 12 + 1 = 63
+rng2 = 52 + 8 - 8 + 1 = 53
+Lineout
+Team 1 pitcher (Sebastian Soto): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Esteban Mendoza: rng1 = 92 + 6 - 12 + 1 = 87
+Walk
+Team 1 pitcher (Sebastian Soto): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Leonardo Nunez: rng1 = 82 + 7 - 12 + 1 = 78
+rng2 = 81 + 5 - 8 + 1 = 79
+Home run
+Team 1 pitcher (Sebastian Soto): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Curtis McCormick: rng1 = 84 + 5 - 12 + 1 = 78
+rng2 = 79 + 6 - 8 + 1 = 78
+Triple
+Team 1 pitcher (Sebastian Soto): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: false, base2: false, base3: [7,0]
+base1: false, base2: false, base3: true
+Score: 0-2
+
+Eduardo Sandoval: rng1 = 97 + 4 - 12 + 1 = 90
+Walk
+Team 1 pitcher (Sebastian Soto): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 2
+
+base1: [8,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 0-2
+
+Pedro Martinez: rng1 = 27 + 9 - 12 + 1 = 25
+Strikeout
+Team 1 pitcher (Sebastian Soto): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 3
+
+Jordan James: rng1 = 33 + 4 - 7 - 1 = 29
+rng2 = 89 + 6 - 7 - 1 = 87
+Flyout
+Team 2 pitcher (Wyatt Heller): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Rayden Hood: rng1 = 14 + 5 - 7 - 1 = 11
+rng2 = 96 + 1 - 7 - 1 = 89
+Flyout
+Team 2 pitcher (Wyatt Heller): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Mark White: rng1 = 48 + 10 - 7 - 1 = 50
+rng2 = 54 + 8 - 7 - 1 = 54
+Lineout
+Team 2 pitcher (Wyatt Heller): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+BOTTOM INNING 3
+
+Kyrie Anderson: rng1 = 33 + 8 - 12 + 1 = 30
+rng2 = 7 + 9 - 8 + 1 = 9
+Groundout
+Team 1 pitcher (Sebastian Soto): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Andy Kelley: rng1 = 63 + 7 - 12 + 1 = 59
+rng2 = 26 + 8 - 8 + 1 = 27
+Groundout
+Team 1 pitcher (Sebastian Soto): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Billy Campbell: rng1 = 93 + 6 - 12 + 1 = 88
+Walk
+Team 1 pitcher (Sebastian Soto): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Orlando Cazalla: rng1 = 6 + 7 - 12 + 1 = 2
+Strikeout
+Team 1 pitcher (Sebastian Soto): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 4
+
+Jack Hayes: rng1 = 50 + 8 - 7 - 1 = 50
+rng2 = 74 + 9 - 7 - 1 = 75
+Flyout
+Team 2 pitcher (Wyatt Heller): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Christian Mendez: rng1 = 76 + 8 - 7 - 1 = 76
+rng2 = 17 + 8 - 7 - 1 = 17
+Single
+Team 2 pitcher (Wyatt Heller): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Brian Woods: rng1 = 51 + 6 - 7 - 1 = 49
+rng2 = 42 + 8 - 7 - 1 = 42
+Groundout
+Team 2 pitcher (Wyatt Heller): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Josh Poole: rng1 = 1 + 8 - 7 - 1 = 1
+Strikeout
+Team 2 pitcher (Wyatt Heller): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+BOTTOM INNING 4
+
+Esteban Mendoza: rng1 = 44 + 6 - 12 + 1 = 39
+rng2 = 1 + 6 - 8 + 1 = 0
+Groundout
+Team 1 pitcher (Sebastian Soto): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Leonardo Nunez: rng1 = 87 + 7 - 12 + 1 = 83
+rng2 = 50 + 5 - 8 + 1 = 48
+Single
+Team 1 pitcher (Sebastian Soto): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Curtis McCormick: rng1 = 80 + 5 - 12 + 1 = 74
+rng2 = 64 + 6 - 8 + 1 = 63
+Single
+Team 1 pitcher (Sebastian Soto): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 1
+
+base1: [7,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 0-2
+
+Eduardo Sandoval: rng1 = 92 + 4 - 12 + 1 = 85
+rng2 = 13 + 4 - 8 + 1 = 10
+Single
+Team 1 pitcher (Sebastian Soto): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 1
+
+base1: [8,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 0-3
+
+Pedro Martinez: rng1 = 43 + 9 - 12 + 1 = 41
+rng2 = 15 + 7 - 8 + 1 = 15
+Groundout
+Team 1 pitcher (Sebastian Soto): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 2
+
+base1: [0,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 0-3
+
+Kyrie Anderson: rng1 = 79 + 8 - 12 + 1 = 76
+rng2 = 94 + 9 - 8 + 1 = 96
+Home run
+Team 1 pitcher (Sebastian Soto): 20 batters faced, 6 runs allowed = 20 + 15.0 = 35.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Andy Kelley: rng1 = 18 + 7 - 12 + 1 = 14
+rng2 = 55 + 8 - 8 + 1 = 56
+Lineout
+Team 1 pitcher (Sebastian Soto): 21 batters faced, 6 runs allowed = 21 + 15.0 = 36.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+TOP INNING 5
+
+Emmanuel Ramirez: rng1 = 68 + 8 - 7 - 1 = 68
+rng2 = 33 + 6 - 7 - 1 = 31
+Groundout
+Team 2 pitcher (Wyatt Heller): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Jason Collins: rng1 = 13 + 7 - 7 - 1 = 12
+rng2 = 1 + 6 - 7 - 1 = -1
+Groundout
+Team 2 pitcher (Wyatt Heller): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Jordan James: rng1 = 35 + 4 - 7 - 1 = 31
+rng2 = 19 + 6 - 7 - 1 = 17
+Groundout
+Team 2 pitcher (Wyatt Heller): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Phil Segee
+
+Billy Campbell: rng1 = 8 + 6 - 9 + 1 = 6
+Strikeout
+Team 1 pitcher (Phil Segee): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Orlando Cazalla: rng1 = 75 + 7 - 9 + 1 = 74
+rng2 = 56 + 8 - 9 + 1 = 56
+Single
+Team 1 pitcher (Phil Segee): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-6
+
+Esteban Mendoza: rng1 = 55 + 6 - 9 + 1 = 53
+rng2 = 34 + 6 - 9 + 1 = 32
+Groundout
+Team 1 pitcher (Phil Segee): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [4,1], base3: false
+base1: false, base2: true, base3: false
+Score: 0-6
+
+Leonardo Nunez: rng1 = 90 + 7 - 9 + 1 = 89
+Walk
+Team 1 pitcher (Phil Segee): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [6,1], base2: [4,1], base3: false
+base1: true, base2: true, base3: false
+Score: 0-6
+
+Curtis McCormick: rng1 = 37 + 5 - 9 + 1 = 34
+rng2 = 91 + 6 - 9 + 1 = 89
+Flyout
+Team 1 pitcher (Phil Segee): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+TOP INNING 6
+
+Rayden Hood: rng1 = 4 + 5 - 7 - 1 = 1
+Strikeout
+Team 2 pitcher (Wyatt Heller): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Mark White: rng1 = 62 + 10 - 7 - 1 = 64
+rng2 = 71 + 8 - 7 - 1 = 71
+Flyout
+Team 2 pitcher (Wyatt Heller): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Jack Hayes: rng1 = 99 + 8 - 7 - 1 = 99
+rng2 = 11 + 9 - 7 - 1 = 12
+Single
+Team 2 pitcher (Wyatt Heller): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-6
+
+Christian Mendez: rng1 = 9 + 8 - 7 - 1 = 9
+Strikeout
+Team 2 pitcher (Wyatt Heller): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Louis Evans
+
+Eduardo Sandoval: rng1 = 6 + 4 - 9 + 1 = 2
+Strikeout
+Team 1 pitcher (Louis Evans): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Pedro Martinez: rng1 = 8 + 9 - 9 + 1 = 9
+Strikeout
+Team 1 pitcher (Louis Evans): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Kyrie Anderson: rng1 = 52 + 8 - 9 + 1 = 52
+rng2 = 65 + 9 - 7 + 1 = 68
+Flyout
+Team 1 pitcher (Louis Evans): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+TOP INNING 7
+
+Brian Woods: rng1 = 98 + 6 - 7 - 1 = 96
+rng2 = 96 + 8 - 7 - 1 = 96
+Home run
+Team 2 pitcher (Wyatt Heller): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Josh Poole: rng1 = 11 + 8 - 7 - 1 = 11
+rng2 = 80 + 7 - 7 - 1 = 79
+Flyout
+Team 2 pitcher (Wyatt Heller): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Emmanuel Ramirez: rng1 = 58 + 8 - 7 - 1 = 58
+rng2 = 65 + 6 - 7 - 1 = 63
+Flyout
+Team 2 pitcher (Wyatt Heller): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Jason Collins: rng1 = 46 + 7 - 7 - 1 = 45
+rng2 = 12 + 6 - 7 - 1 = 10
+Groundout
+Team 2 pitcher (Wyatt Heller): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+BOTTOM INNING 7
+
+Andy Kelley: rng1 = 41 + 7 - 9 + 1 = 40
+rng2 = 67 + 8 - 7 + 1 = 69
+Flyout
+Team 1 pitcher (Louis Evans): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Billy Campbell: rng1 = 9 + 6 - 9 + 1 = 7
+Strikeout
+Team 1 pitcher (Louis Evans): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Orlando Cazalla: rng1 = 13 + 7 - 9 + 1 = 12
+rng2 = 37 + 8 - 7 + 1 = 39
+Groundout
+Team 1 pitcher (Louis Evans): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Tim Brooks
+
+Jordan James: rng1 = 7 + 4 - 10 - 1 = 0
+Strikeout
+Team 2 pitcher (Tim Brooks): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Rayden Hood: rng1 = 35 + 5 - 10 - 1 = 29
+rng2 = 19 + 1 - 13 - 1 = 6
+Groundout
+Team 2 pitcher (Tim Brooks): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Mark White: rng1 = 89 + 10 - 10 - 1 = 88
+Walk
+Team 2 pitcher (Tim Brooks): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Jack Hayes: rng1 = 60 + 8 - 10 - 1 = 57
+rng2 = 91 + 9 - 13 - 1 = 86
+Flyout
+Team 2 pitcher (Tim Brooks): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Alexander Richards
+
+Esteban Mendoza: rng1 = 23 + 6 - 8 + 1 = 22
+Strikeout
+Team 1 pitcher (Alexander Richards): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Leonardo Nunez: rng1 = 17 + 7 - 8 + 1 = 17
+Strikeout
+Team 1 pitcher (Alexander Richards): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Curtis McCormick: rng1 = 39 + 5 - 8 + 1 = 37
+rng2 = 39 + 6 - 8 + 1 = 38
+Groundout
+Team 1 pitcher (Alexander Richards): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 9
+
+Christian Mendez: rng1 = 97 + 8 - 10 - 1 = 94
+rng2 = 37 + 8 - 13 - 1 = 31
+Single
+Team 2 pitcher (Tim Brooks): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Brian Woods: rng1 = 41 + 6 - 10 - 1 = 36
+rng2 = 45 + 8 - 13 - 1 = 39
+Groundout
+Team 2 pitcher (Tim Brooks): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Josh Poole: rng1 = 96 + 8 - 10 - 1 = 93
+rng2 = 5 + 7 - 13 - 1 = -2
+Single
+Team 2 pitcher (Tim Brooks): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Emmanuel Ramirez: rng1 = 81 + 8 - 10 - 1 = 78
+rng2 = 37 + 6 - 13 - 1 = 29
+Single
+Team 2 pitcher (Tim Brooks): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [5,1], base2: [4,1], base3: false
+base1: true, base2: true, base3: false
+Score: 1-6
+
+Jason Collins: rng1 = 29 + 7 - 10 - 1 = 25
+Strikeout
+Team 2 pitcher (Tim Brooks): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 7
+Team 2 hits: 7
+Team 1 runs: 1
+Team 2 runs: 6
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-09-12
+Mark White	3	0	1	0	1	0	0	1	0					Reno
+Jack Hayes	4	0	1	0	0	0	0	0	1	
+Christian Mendez	4	0	2	0	0	0	0	0	2	
+Brian Woods	4	1	1	0	0	1	1	0	0	
+Josh Poole	4	0	1	0	0	0	0	0	1	
+Emmanuel Ramirez	3	0	1	0	0	0	0	1	0	
+Jason Collins	4	0	0	0	0	0	0	0	1	
+Jordan James	3	0	0	0	0	0	0	0	1	
+Rayden Hood	3	0	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Sebastian Soto	0	1	1	1	0	0	12	6	6	2	3	3	21	
+Phil Segee	0	0	1	0	0	0	3	1	0	0	1	1	5	
+Louis Evans	0	0	1	0	0	0	6	0	0	0	0	3	6	
+Alexander Richards	0	0	1	0	0	0	3	0	0	0	0	2	3	
+Reuben Watson	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-09-12
+Pedro Martinez	4	1	0	0	0	0	0	0	2					Anaheim
+Kyrie Anderson	4	1	1	0	0	1	3	0	0	
+Andy Kelley	4	0	0	0	0	0	0	0	0	
+Billy Campbell	3	0	0	0	0	0	0	1	3	
+Orlando Cazalla	4	0	1	0	0	0	0	0	1	
+Esteban Mendoza	3	1	0	0	0	0	0	1	1	
+Leonardo Nunez	3	2	2	0	0	1	2	1	1	
+Curtis McCormick	4	1	2	0	1	0	0	0	0	
+Eduardo Sandoval	2	0	1	0	0	0	1	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Wyatt Heller	1	0	1	1	0	0	21	4	1	1	1	5	25	
+Tim Brooks	0	0	1	0	0	0	6	3	0	0	1	2	9	
+Larry Gibson	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Matias Rivera	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Terry Adams	0	0	0	0	0	0	0	0	0	0	0	0	0	

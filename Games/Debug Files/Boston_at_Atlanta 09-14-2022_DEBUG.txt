@@ -1,0 +1,750 @@
+TOP INNING 1
+
+Juan Manzanares: rng1 = 56 + 15 - 7 - 1 = 63
+rng2 = 37 + 12 - 8 - 1 = 40
+Groundout
+Team 2 pitcher (Marcus Washington): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Aiden Hayes: rng1 = 57 + 11 - 7 - 1 = 60
+rng2 = 72 + 8 - 8 - 1 = 71
+Flyout
+Team 2 pitcher (Marcus Washington): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Juan Pearson: rng1 = 9 + 10 - 7 - 1 = 11
+rng2 = 27 + 9 - 8 - 1 = 27
+Groundout
+Team 2 pitcher (Marcus Washington): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Wakasugi Norogumi: rng1 = 86 + 14 - 13 + 1 = 88
+Walk
+Team 1 pitcher (Ahmad Key): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Lawson Haney: rng1 = 97 + 14 - 13 + 1 = 99
+rng2 = 80 + 11 - 13 + 1 = 79
+Home run
+Team 1 pitcher (Ahmad Key): 2 batters faced, 2 runs allowed = 2 + 5.0 = 7.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Ethan Spencer: rng1 = 65 + 12 - 13 + 1 = 65
+rng2 = 63 + 15 - 13 + 1 = 66
+Flyout
+Team 1 pitcher (Ahmad Key): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Ike Nicholson: rng1 = 96 + 9 - 13 + 1 = 93
+rng2 = 67 + 11 - 13 + 1 = 66
+Double
+Team 1 pitcher (Ahmad Key): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-2
+
+Hayden Wright: rng1 = 29 + 7 - 13 + 1 = 24
+Strikeout
+Team 1 pitcher (Ahmad Key): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-2
+
+Karsen Welch: rng1 = 57 + 10 - 13 + 1 = 55
+rng2 = 91 + 8 - 13 + 1 = 87
+Flyout
+Team 1 pitcher (Ahmad Key): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 2
+
+Emanuel Gutiérrez: rng1 = 95 + 6 - 7 - 1 = 93
+rng2 = 87 + 12 - 8 - 1 = 90
+Double
+Team 2 pitcher (Marcus Washington): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-2
+
+Noah Davidson: rng1 = 25 + 8 - 7 - 1 = 25
+Strikeout
+Team 2 pitcher (Marcus Washington): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-2
+
+Cannon Terry: rng1 = 64 + 5 - 7 - 1 = 61
+rng2 = 53 + 9 - 8 - 1 = 53
+Lineout
+Team 2 pitcher (Marcus Washington): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-2
+
+Quillin Grant: rng1 = 15 + 7 - 7 - 1 = 14
+rng2 = 87 + 8 - 8 - 1 = 86
+Flyout
+Team 2 pitcher (Marcus Washington): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+BOTTOM INNING 2
+
+Alfonso Stafford: rng1 = 91 + 12 - 13 + 1 = 91
+rng2 = 92 + 7 - 13 + 1 = 87
+Double
+Team 1 pitcher (Ahmad Key): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 0
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-2
+
+Xavier Cabrera: rng1 = 3 + 10 - 13 + 1 = 1
+Strikeout
+Team 1 pitcher (Ahmad Key): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 1
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-2
+
+Darren Chang: rng1 = 54 + 3 - 13 + 1 = 45
+rng2 = 81 + 8 - 13 + 1 = 77
+Flyout
+Team 1 pitcher (Ahmad Key): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 2
+
+base1: false, base2: false, base3: [6,0]
+base1: false, base2: false, base3: true
+Score: 0-2
+
+Wakasugi Norogumi: rng1 = 53 + 14 - 13 + 1 = 55
+rng2 = 96 + 14 - 13 + 1 = 98
+Flyout
+Team 1 pitcher (Ahmad Key): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 3
+
+Seamus Tanner: rng1 = 54 + 8 - 7 - 1 = 54
+rng2 = 58 + 6 - 8 - 1 = 55
+Lineout
+Team 2 pitcher (Marcus Washington): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Trent Cline: rng1 = 20 + 4 - 7 - 1 = 16
+Strikeout
+Team 2 pitcher (Marcus Washington): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Juan Manzanares: rng1 = 98 + 15 - 7 - 1 = 105
+rng2 = 57 + 12 - 8 - 1 = 60
+Single
+Team 2 pitcher (Marcus Washington): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Aiden Hayes: rng1 = 52 + 11 - 7 - 1 = 55
+rng2 = 17 + 8 - 8 - 1 = 16
+Groundout
+Team 2 pitcher (Marcus Washington): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+BOTTOM INNING 3
+
+Lawson Haney: rng1 = 55 + 14 - 13 + 1 = 57
+rng2 = 70 + 11 - 13 + 1 = 69
+Flyout
+Team 1 pitcher (Ahmad Key): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Ethan Spencer: rng1 = 25 + 12 - 13 + 1 = 25
+Strikeout
+Team 1 pitcher (Ahmad Key): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Ike Nicholson: rng1 = 79 + 9 - 13 + 1 = 76
+rng2 = 9 + 11 - 13 + 1 = 8
+Single
+Team 1 pitcher (Ahmad Key): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Hayden Wright: rng1 = 88 + 7 - 13 + 1 = 83
+rng2 = 62 + 9 - 13 + 1 = 59
+Single
+Team 1 pitcher (Ahmad Key): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 2
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-2
+
+Karsen Welch: rng1 = 51 + 10 - 13 + 1 = 49
+rng2 = 9 + 8 - 13 + 1 = 5
+Groundout
+Team 1 pitcher (Ahmad Key): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 4
+
+Juan Pearson: rng1 = 28 + 10 - 7 - 1 = 30
+rng2 = 30 + 9 - 8 - 1 = 30
+Groundout
+Team 2 pitcher (Marcus Washington): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Emanuel Gutiérrez: rng1 = 5 + 6 - 7 - 1 = 3
+Strikeout
+Team 2 pitcher (Marcus Washington): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Noah Davidson: rng1 = 65 + 8 - 7 - 1 = 65
+rng2 = 9 + 9 - 8 - 1 = 9
+Groundout
+Team 2 pitcher (Marcus Washington): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+BOTTOM INNING 4
+
+Alfonso Stafford: rng1 = 2 + 12 - 13 + 1 = 2
+Strikeout
+Team 1 pitcher (Ahmad Key): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Xavier Cabrera: rng1 = 53 + 10 - 13 + 1 = 51
+rng2 = 32 + 7 - 13 + 1 = 27
+Groundout
+Team 1 pitcher (Ahmad Key): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Darren Chang: rng1 = 47 + 3 - 13 + 1 = 38
+rng2 = 49 + 8 - 13 + 1 = 45
+Groundout
+Team 1 pitcher (Ahmad Key): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 5
+
+Cannon Terry: rng1 = 59 + 5 - 7 - 1 = 56
+rng2 = 34 + 9 - 8 - 1 = 34
+Groundout
+Team 2 pitcher (Marcus Washington): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Quillin Grant: rng1 = 87 + 7 - 7 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Marcus Washington): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Seamus Tanner: rng1 = 37 + 8 - 7 - 1 = 37
+rng2 = 28 + 6 - 8 - 1 = 25
+Groundout
+Team 2 pitcher (Marcus Washington): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Trent Cline: rng1 = 55 + 4 - 7 - 1 = 51
+rng2 = 37 + 6 - 8 - 1 = 34
+Groundout
+Team 2 pitcher (Marcus Washington): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+BOTTOM INNING 5
+
+Wakasugi Norogumi: rng1 = 68 + 14 - 13 + 1 = 70
+Walk
+Team 1 pitcher (Ahmad Key): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Lawson Haney: rng1 = 29 + 14 - 13 + 1 = 31
+rng2 = 93 + 11 - 13 + 1 = 92
+Flyout
+Team 1 pitcher (Ahmad Key): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Ethan Spencer: rng1 = 72 + 12 - 13 + 1 = 72
+rng2 = 1 + 15 - 13 + 1 = 4
+Single
+Team 1 pitcher (Ahmad Key): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 1
+
+base1: [2,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 0-2
+
+Ike Nicholson: rng1 = 87 + 9 - 13 + 1 = 84
+rng2 = 26 + 11 - 13 + 1 = 25
+Single
+Team 1 pitcher (Ahmad Key): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 1
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-3
+
+Hayden Wright: rng1 = 36 + 7 - 13 + 1 = 31
+rng2 = 13 + 9 - 13 + 1 = 10
+Groundout
+Team 1 pitcher (Ahmad Key): 23 batters faced, 3 runs allowed = 23 + 7.5 = 30.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+TOP INNING 6
+
+Juan Manzanares: rng1 = 51 + 15 - 7 - 1 = 58
+rng2 = 77 + 12 - 8 - 1 = 80
+Flyout
+Team 2 pitcher (Marcus Washington): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Aiden Hayes: rng1 = 10 + 11 - 7 - 1 = 13
+rng2 = 91 + 8 - 8 - 1 = 90
+Flyout
+Team 2 pitcher (Marcus Washington): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Juan Pearson: rng1 = 54 + 10 - 7 - 1 = 56
+rng2 = 71 + 9 - 8 - 1 = 71
+Flyout
+Team 2 pitcher (Marcus Washington): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Pablo Quintana
+
+Karsen Welch: rng1 = 91 + 10 - 9 + 1 = 93
+rng2 = 8 + 8 - 7 + 1 = 10
+Single
+Team 1 pitcher (Pablo Quintana): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Alfonso Stafford: rng1 = 62 + 12 - 9 + 1 = 66
+rng2 = 8 + 7 - 7 + 1 = 9
+Groundout
+Team 1 pitcher (Pablo Quintana): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Xavier Cabrera: rng1 = 64 + 10 - 9 + 1 = 66
+rng2 = 46 + 7 - 7 + 1 = 47
+Groundout
+Team 1 pitcher (Pablo Quintana): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Darren Chang: rng1 = 79 + 3 - 9 + 1 = 74
+rng2 = 71 + 8 - 7 + 1 = 73
+Double
+Team 1 pitcher (Pablo Quintana): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: [8,1], base3: [7,1]
+base1: false, base2: true, base3: true
+Score: 0-3
+
+Wakasugi Norogumi: rng1 = 22 + 14 - 9 + 1 = 28
+rng2 = 36 + 14 - 7 + 1 = 44
+Groundout
+Team 1 pitcher (Pablo Quintana): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+TOP INNING 7
+
+Emanuel Gutiérrez: rng1 = 58 + 6 - 7 - 1 = 56
+rng2 = 33 + 12 - 8 - 1 = 36
+Groundout
+Team 2 pitcher (Marcus Washington): 22 batters faced, 0 runs allowed = 22 + 0.0 = 22.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Noah Davidson: rng1 = 88 + 8 - 7 - 1 = 88
+Walk
+Team 2 pitcher (Marcus Washington): 23 batters faced, 0 runs allowed = 23 + 0.0 = 23.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Cannon Terry: rng1 = 86 + 5 - 7 - 1 = 83
+rng2 = 12 + 9 - 8 - 1 = 12
+Single
+Team 2 pitcher (Marcus Washington): 24 batters faced, 0 runs allowed = 24 + 0.0 = 24.0, outs: 1
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-3
+
+Quillin Grant: rng1 = 38 + 7 - 7 - 1 = 37
+rng2 = 21 + 8 - 8 - 1 = 20
+Groundout
+Team 2 pitcher (Marcus Washington): 25 batters faced, 0 runs allowed = 25 + 0.0 = 25.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Orlando Otero
+
+Lawson Haney: rng1 = 100 + 14 - 9 + 1 = 106
+rng2 = 65 + 11 - 8 + 1 = 69
+Double
+Team 1 pitcher (Orlando Otero): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [1,2], base3: false
+base1: false, base2: true, base3: false
+Score: 0-3
+
+Ethan Spencer: rng1 = 79 + 12 - 9 + 1 = 83
+rng2 = 30 + 15 - 8 + 1 = 38
+Single
+Team 1 pitcher (Orlando Otero): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Ike Nicholson: rng1 = 27 + 9 - 9 + 1 = 28
+rng2 = 56 + 11 - 8 + 1 = 60
+Flyout
+Team 1 pitcher (Orlando Otero): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Hayden Wright: rng1 = 63 + 7 - 9 + 1 = 62
+rng2 = 6 + 9 - 8 + 1 = 8
+Groundout
+Team 1 pitcher (Orlando Otero): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Karsen Welch: rng1 = 1 + 10 - 9 + 1 = 3
+Strikeout
+Team 1 pitcher (Orlando Otero): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+TOP INNING 8
+
+Seamus Tanner: rng1 = 27 + 8 - 7 - 1 = 27
+Strikeout
+Team 2 pitcher (Marcus Washington): 26 batters faced, 0 runs allowed = 26 + 0.0 = 26.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Trent Cline: rng1 = 97 + 4 - 7 - 1 = 93
+rng2 = 1 + 6 - 8 - 1 = -2
+Single
+Team 2 pitcher (Marcus Washington): 27 batters faced, 0 runs allowed = 27 + 0.0 = 27.0, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Juan Manzanares: rng1 = 74 + 15 - 7 - 1 = 81
+rng2 = 11 + 12 - 8 - 1 = 14
+Single
+Team 2 pitcher (Marcus Washington): 28 batters faced, 0 runs allowed = 28 + 0.0 = 28.0, outs: 1
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-4
+
+Aiden Hayes: rng1 = 93 + 11 - 7 - 1 = 96
+rng2 = 11 + 8 - 8 - 1 = 10
+Single
+Team 2 pitcher (Marcus Washington): 29 batters faced, 1 runs allowed = 29 + 2.5 = 31.5, outs: 1
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-4
+
+Juan Pearson: rng1 = 77 + 10 - 7 - 1 = 79
+rng2 = 51 + 9 - 8 - 1 = 51
+Single
+Team 2 pitcher (Marcus Washington): 30 batters faced, 2 runs allowed = 30 + 5.0 = 35.0, outs: 1
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 2-4
+
+Team 2 pitcher change to Saiki Iwane
+
+Emanuel Gutiérrez: rng1 = 32 + 6 - 10 - 1 = 27
+Strikeout
+Team 2 pitcher (Saiki Iwane): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 2-4
+
+Noah Davidson: rng1 = 43 + 8 - 10 - 1 = 40
+rng2 = 46 + 9 - 8 - 1 = 46
+Groundout
+Team 2 pitcher (Saiki Iwane): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-4
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Grant Colmeyer
+
+Alfonso Stafford: rng1 = 64 + 12 - 7 + 1 = 70
+Walk
+Team 1 pitcher (Grant Colmeyer): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [6,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-4
+
+Xavier Cabrera: rng1 = 48 + 10 - 7 + 1 = 52
+rng2 = 13 + 7 - 5 + 1 = 16
+Groundout
+Team 1 pitcher (Grant Colmeyer): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [6,3], base3: false
+base1: false, base2: true, base3: false
+Score: 2-4
+
+Darren Chang: rng1 = 10 + 3 - 7 + 1 = 7
+Strikeout
+Team 1 pitcher (Grant Colmeyer): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [6,3], base3: false
+base1: false, base2: true, base3: false
+Score: 2-4
+
+Wakasugi Norogumi: rng1 = 64 + 14 - 7 + 1 = 72
+rng2 = 50 + 14 - 5 + 1 = 60
+Single
+Team 1 pitcher (Grant Colmeyer): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [0,3], base2: false, base3: [6,3]
+base1: true, base2: false, base3: true
+Score: 2-4
+
+Lawson Haney: rng1 = 73 + 14 - 7 + 1 = 81
+rng2 = 74 + 11 - 5 + 1 = 81
+Home run
+Team 1 pitcher (Grant Colmeyer): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Ethan Spencer: rng1 = 59 + 12 - 7 + 1 = 65
+rng2 = 30 + 15 - 5 + 1 = 41
+Groundout
+Team 1 pitcher (Grant Colmeyer): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-7
+
+-----------------------
+
+TOP INNING 9
+
+Cannon Terry: rng1 = 51 + 5 - 10 - 1 = 45
+rng2 = 72 + 9 - 8 - 1 = 72
+Flyout
+Team 2 pitcher (Saiki Iwane): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Quillin Grant: rng1 = 78 + 7 - 10 - 1 = 74
+rng2 = 64 + 8 - 8 - 1 = 63
+Single
+Team 2 pitcher (Saiki Iwane): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-7
+
+Seamus Tanner: rng1 = 42 + 8 - 10 - 1 = 39
+rng2 = 11 + 6 - 8 - 1 = 8
+Groundout
+Team 2 pitcher (Saiki Iwane): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-7
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 8
+Team 2 hits: 13
+Team 1 runs: 2
+Team 2 runs: 7
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-09-14
+Juan Manzanares	4	1	2	0	0	0	0	0	0					Boston
+Aiden Hayes	4	0	1	0	0	0	1	0	0	
+Juan Pearson	4	0	1	0	0	0	1	0	0	
+Emanuel Gutiérrez	4	0	1	1	0	0	0	0	2	
+Noah Davidson	3	0	0	0	0	0	0	1	1	
+Cannon Terry	4	0	1	0	0	0	0	0	0	
+Quillin Grant	3	0	1	0	0	0	0	0	0	
+Seamus Tanner	4	0	0	0	0	0	0	0	1	
+Trent Cline	3	1	1	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Ahmad Key	0	1	1	1	0	0	15	7	3	1	2	4	23	
+Pablo Quintana	0	0	1	0	0	0	3	2	0	0	0	0	5	
+Orlando Otero	0	0	1	0	0	0	3	2	1	0	0	1	5	
+Grant Colmeyer	0	0	1	0	0	0	3	2	3	1	1	1	6	
+Thomas Barnes	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-09-14
+Wakasugi Norogumi	3	3	1	0	0	0	0	2	0					Atlanta
+Lawson Haney	5	3	3	1	0	2	5	0	0	
+Ethan Spencer	5	0	2	0	0	0	1	0	1	
+Ike Nicholson	4	0	3	1	0	0	1	0	0	
+Hayden Wright	4	0	1	0	0	0	0	0	1	
+Karsen Welch	4	0	1	0	0	0	0	0	1	
+Alfonso Stafford	3	1	1	1	0	0	0	1	1	
+Xavier Cabrera	4	0	0	0	0	0	0	0	1	
+Darren Chang	4	0	1	1	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Marcus Washington	1	0	1	1	0	0	22	7	2	0	1	4	30	
+Saiki Iwane	0	0	1	0	0	0	5	1	0	0	0	1	5	
+Thomas Dillard	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Moises Alvarado	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Juancarlo Pinto	0	0	0	0	0	0	0	0	0	0	0	0	0	

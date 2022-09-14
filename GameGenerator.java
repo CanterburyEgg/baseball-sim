@@ -2674,28 +2674,64 @@ public class GameGenerator
 				FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
 			}
 
-			if ((p2index == 1 || p2index == 2 || p2index == 3) && pitchers2[p2index+1][2] == 0 && !pitchswapC && outs == 3 && (pitchers2[p2index][6] + 1.25*pitchers2[p2index][10] + 1.5*pitchers2[p2index][7] + 1.75*(pitchers2[p2index][8]) > 5))
+			if ((p2index == 1 || p2index == 2 || p2index == 3 || p2index == 4) && pitchers2[p2index+1][2] == 0 && !pitchswapC && outs == 3 && (pitchers2[p2index][6] + 1.25*pitchers2[p2index][10] + 1.5*pitchers2[p2index][7] + 1.75*(pitchers2[p2index][8]) > 5))
 			{
 				tempC = inning;
 				pitchswapC = true;
 			}
 
-			if ((p1index == 1 || p1index == 2 || p1index == 3) && pitchers1[p1index+1][2] == 0 && !pitchswapD && outs == 3 && (pitchers1[p1index][6] + 1.25*pitchers1[p1index][10] + 1.5*pitchers1[p1index][7] + 1.75*(pitchers1[p1index][8]) > 5))
+			if ((p1index == 1 || p1index == 2 || p1index == 3 || p1index == 4) && pitchers1[p1index+1][2] == 0 && !pitchswapD && outs == 3 && (pitchers1[p1index][6] + 1.25*pitchers1[p1index][10] + 1.5*pitchers1[p1index][7] + 1.75*(pitchers1[p1index][8]) > 5))
 			{
 				tempD = inning;
 				pitchswapD = true;
 			}
 			
-			if ((p2index == 1 || p2index == 2 || p2index == 3) && pitchers2[p2index+1][2] == 0 && !pitchswapC && outs != 3 && (pitchers2[p2index][6] + 1.25*pitchers2[p2index][10] + 1.5*pitchers2[p2index][7] + 1.75*(pitchers2[p2index][8]) > 12))
+			if ((p2index == 1 || p2index == 2 || p2index == 3 || p2index == 4) && pitchers2[p2index+1][2] == 0 && !pitchswapC && outs != 3 && (pitchers2[p2index][6] + 1.25*pitchers2[p2index][10] + 1.5*pitchers2[p2index][7] + 1.75*(pitchers2[p2index][8]) > 12))
 			{
-				p2index++;
-				FullPrintLine("Team 2 pitcher change to " + team2pitchers[p2index] + "\n");
+				if (p2index < 4)
+				{
+					p2index++;
+					FullPrintLine("Team 2 pitcher change to " + team2pitchers[p2index] + "\n");
+				}
+				else if (pitchers2[1][2] == 0)
+				{
+					p2index = 1;
+					FullPrintLine("Team 2 pitcher change to " + team2pitchers[p2index] + "\n");
+				}
+				else if (pitchers2[2][2] == 0)
+				{
+					p2index = 2;
+					FullPrintLine("Team 2 pitcher change to " + team2pitchers[p2index] + "\n");
+				}
+				else if (pitchers2[3][2] == 0)
+				{
+					p2index = 3;
+					FullPrintLine("Team 2 pitcher change to " + team2pitchers[p2index] + "\n");
+				}
 			}
 
-			if ((p1index == 1 || p1index == 2 || p1index == 3) && pitchers1[p1index+1][2] == 0 && !pitchswapD && outs != 3 && (pitchers1[p1index][6] + 1.25*pitchers1[p1index][10] + 1.5*pitchers1[p1index][7] + 1.75*(pitchers1[p1index][8]) > 12))
+			if ((p1index == 1 || p1index == 2 || p1index == 3 || p1index == 4) && pitchers1[p1index+1][2] == 0 && !pitchswapD && outs != 3 && (pitchers1[p1index][6] + 1.25*pitchers1[p1index][10] + 1.5*pitchers1[p1index][7] + 1.75*(pitchers1[p1index][8]) > 12))
 			{
-				p1index++;
-				FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
+				if (p1index < 4)
+				{
+					p1index++;
+					FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
+				}
+				else if (pitchers1[1][2] == 0)
+				{
+					p1index = 1;
+					FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
+				}
+				else if (pitchers1[2][2] == 0)
+				{
+					p1index = 2;
+					FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
+				}
+				else if (pitchers1[3][2] == 0)
+				{
+					p1index = 3;
+					FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
+				}
 			}
 			
 			if (outs == 3)
@@ -2748,44 +2784,6 @@ public class GameGenerator
 					FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
 					pitchswapB = false;
 					pitchswapD = false;
-				}
-				
-				if (inning == 19 && p2index == 4)
-				{
-					if (pitchers2[1][2] == 0)
-					{
-						p2index = 1;
-						FullPrintLine("Team 2 pitcher change to " + team2pitchers[p2index] + "\n");
-					}
-					else if (pitchers2[2][2] == 0)
-					{
-						p2index = 2;
-						FullPrintLine("Team 2 pitcher change to " + team2pitchers[p2index] + "\n");
-					}
-					else if (pitchers2[3][2] == 0)
-					{
-						p2index = 3;
-						FullPrintLine("Team 2 pitcher change to " + team2pitchers[p2index] + "\n");
-					}
-				}
-
-				if (inning == 20 && p1index == 4)
-				{
-					if (pitchers1[1][2] == 0)
-					{
-						p1index = 1;
-						FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
-					}
-					else if (pitchers1[2][2] == 0)
-					{
-						p1index = 2;
-						FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
-					}
-					else if (pitchers1[3][2] == 0)
-					{
-						p1index = 3;
-						FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
-					}
 				}
 			}
 			
@@ -2915,25 +2913,67 @@ public class GameGenerator
 			if (inning == tempC + 2 && pitchswapC && game)
 			{
 				pitchswapC = false;
+				
+				if (p2index < 4)
+				{
+					if (inning > 16 && Math.abs(runs1-runs2) < 6)
+						p2index = 4;
+					else
+						p2index++;
 
-				if (inning > 16 && Math.abs(runs1-runs2) < 6)
-					p2index = 4;
+					FullPrintLine("Team 2 pitcher change to " + team2pitchers[p2index] + "\n");
+				}
 				else
-					p2index++;
-
-				FullPrintLine("Team 2 pitcher change to " + team2pitchers[p2index] + "\n");
+				{
+					if (pitchers2[1][2] == 0)
+					{
+						p2index = 1;
+						FullPrintLine("Team 2 pitcher change to " + team2pitchers[p2index] + "\n");
+					}
+					else if (pitchers2[2][2] == 0)
+					{
+						p2index = 2;
+						FullPrintLine("Team 2 pitcher change to " + team2pitchers[p2index] + "\n");
+					}
+					else if (pitchers2[3][2] == 0)
+					{
+						p2index = 3;
+						FullPrintLine("Team 2 pitcher change to " + team2pitchers[p2index] + "\n");
+					}
+				}
 			}
 			
 			if (inning == tempD + 2 && pitchswapD && game)
 			{
 				pitchswapD = false;
 
-				if (inning > 16 && Math.abs(runs1-runs2) < 6)
-					p1index = 4;
-				else
-					p1index++;
+				if (p2index < 4)
+				{
+					if (inning > 16 && Math.abs(runs1-runs2) < 6)
+						p1index = 4;
+					else
+						p1index++;
 
-				FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
+					FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
+				}
+				else
+				{
+					if (pitchers1[1][2] == 0)
+					{
+						p1index = 1;
+						FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
+					}
+					else if (pitchers1[2][2] == 0)
+					{
+						p1index = 2;
+						FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
+					}
+					else if (pitchers1[3][2] == 0)
+					{
+						p1index = 3;
+						FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
+					}
+				}
 			}
 		}
 		

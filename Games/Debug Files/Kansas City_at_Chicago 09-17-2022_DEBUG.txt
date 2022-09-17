@@ -1,0 +1,722 @@
+TOP INNING 1
+
+Stanley Jackson: rng1 = 67 + 13 - 14 - 1 = 65
+rng2 = 77 + 11 - 14 - 1 = 73
+Flyout
+Team 2 pitcher (Jumon Patterson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Andres Fortune: rng1 = 98 + 11 - 14 - 1 = 94
+rng2 = 9 + 11 - 14 - 1 = 5
+Single
+Team 2 pitcher (Jumon Patterson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Noah Key: rng1 = 100 + 9 - 14 - 1 = 94
+rng2 = 82 + 8 - 14 - 1 = 75
+Double
+Team 2 pitcher (Jumon Patterson): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Dexter Stevens: rng1 = 45 + 4 - 14 - 1 = 34
+rng2 = 17 + 9 - 14 - 1 = 11
+Groundout
+Team 2 pitcher (Jumon Patterson): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Ewan Hunt: rng1 = 5 + 6 - 14 - 1 = -4
+Strikeout
+Team 2 pitcher (Jumon Patterson): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Justus Pate: rng1 = 66 + 12 - 7 + 1 = 72
+rng2 = 99 + 7 - 10 + 1 = 97
+Home run
+Team 1 pitcher (Tavell Nash): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Leonardo Pinto: rng1 = 66 + 10 - 7 + 1 = 70
+Walk
+Team 1 pitcher (Tavell Nash): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Leroy Powell: rng1 = 88 + 9 - 7 + 1 = 91
+rng2 = 19 + 12 - 10 + 1 = 22
+Single
+Team 1 pitcher (Tavell Nash): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 0
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Edward Lowe: rng1 = 29 + 8 - 7 + 1 = 31
+rng2 = 97 + 11 - 10 + 1 = 99
+Flyout
+Team 1 pitcher (Tavell Nash): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 1-1
+
+Nakazawa Shinji: rng1 = 39 + 5 - 7 + 1 = 38
+rng2 = 33 + 8 - 10 + 1 = 32
+Groundout
+Team 1 pitcher (Tavell Nash): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [4,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 1-1
+
+Estefania Espina: rng1 = 25 + 9 - 7 + 1 = 28
+rng2 = 95 + 7 - 10 + 1 = 93
+Flyout
+Team 1 pitcher (Tavell Nash): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 2
+
+Noel Ayers: rng1 = 41 + 6 - 14 - 1 = 32
+rng2 = 94 + 7 - 14 - 1 = 86
+Flyout
+Team 2 pitcher (Jumon Patterson): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Dominic Gardner: rng1 = 63 + 5 - 14 - 1 = 53
+rng2 = 6 + 6 - 14 - 1 = -3
+Groundout
+Team 2 pitcher (Jumon Patterson): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+David Freixa: rng1 = 73 + 6 - 14 - 1 = 64
+rng2 = 10 + 5 - 14 - 1 = 0
+Groundout
+Team 2 pitcher (Jumon Patterson): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Jaiden Fortner: rng1 = 10 + 5 - 7 + 1 = 9
+Strikeout
+Team 1 pitcher (Tavell Nash): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Alejandro López: rng1 = 64 + 5 - 7 + 1 = 63
+rng2 = 49 + 7 - 10 + 1 = 47
+Groundout
+Team 1 pitcher (Tavell Nash): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Kevin Taylor: rng1 = 89 + 6 - 7 + 1 = 89
+Walk
+Team 1 pitcher (Tavell Nash): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Justus Pate: rng1 = 71 + 12 - 7 + 1 = 77
+rng2 = 61 + 7 - 10 + 1 = 59
+Single
+Team 1 pitcher (Tavell Nash): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: [0,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 1-1
+
+Leonardo Pinto: rng1 = 4 + 10 - 7 + 1 = 8
+Strikeout
+Team 1 pitcher (Tavell Nash): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 3
+
+Katagiri Seibei: rng1 = 77 + 6 - 14 - 1 = 68
+rng2 = 28 + 5 - 14 - 1 = 18
+Groundout
+Team 2 pitcher (Jumon Patterson): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Stanley Jackson: rng1 = 64 + 13 - 14 - 1 = 62
+rng2 = 79 + 11 - 14 - 1 = 75
+Flyout
+Team 2 pitcher (Jumon Patterson): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Andres Fortune: rng1 = 5 + 11 - 14 - 1 = 1
+Strikeout
+Team 2 pitcher (Jumon Patterson): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Leroy Powell: rng1 = 55 + 9 - 7 + 1 = 58
+rng2 = 5 + 12 - 10 + 1 = 8
+Groundout
+Team 1 pitcher (Tavell Nash): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Edward Lowe: rng1 = 27 + 8 - 7 + 1 = 29
+rng2 = 21 + 11 - 10 + 1 = 23
+Groundout
+Team 1 pitcher (Tavell Nash): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Nakazawa Shinji: rng1 = 91 + 5 - 7 + 1 = 90
+Walk
+Team 1 pitcher (Tavell Nash): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Estefania Espina: rng1 = 24 + 9 - 7 + 1 = 27
+Strikeout
+Team 1 pitcher (Tavell Nash): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 4
+
+Noah Key: rng1 = 37 + 9 - 14 - 1 = 31
+rng2 = 9 + 8 - 14 - 1 = 2
+Groundout
+Team 2 pitcher (Jumon Patterson): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Dexter Stevens: rng1 = 47 + 4 - 14 - 1 = 36
+rng2 = 4 + 9 - 14 - 1 = -2
+Groundout
+Team 2 pitcher (Jumon Patterson): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Ewan Hunt: rng1 = 93 + 6 - 14 - 1 = 84
+rng2 = 99 + 8 - 14 - 1 = 92
+Double
+Team 2 pitcher (Jumon Patterson): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Noel Ayers: rng1 = 3 + 6 - 14 - 1 = -6
+Strikeout
+Team 2 pitcher (Jumon Patterson): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Jaiden Fortner: rng1 = 98 + 5 - 7 + 1 = 97
+rng2 = 62 + 7 - 10 + 1 = 60
+Single
+Team 1 pitcher (Tavell Nash): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Alejandro López: rng1 = 44 + 5 - 7 + 1 = 43
+rng2 = 54 + 7 - 10 + 1 = 52
+Lineout
+Team 1 pitcher (Tavell Nash): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Kevin Taylor: rng1 = 31 + 6 - 7 + 1 = 31
+rng2 = 72 + 6 - 10 + 1 = 69
+Flyout
+Team 1 pitcher (Tavell Nash): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Justus Pate: rng1 = 25 + 12 - 7 + 1 = 31
+rng2 = 100 + 7 - 10 + 1 = 98
+Flyout
+Team 1 pitcher (Tavell Nash): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 5
+
+Dominic Gardner: rng1 = 28 + 5 - 14 - 1 = 18
+Strikeout
+Team 2 pitcher (Jumon Patterson): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+David Freixa: rng1 = 93 + 6 - 14 - 1 = 84
+rng2 = 16 + 5 - 14 - 1 = 6
+Single
+Team 2 pitcher (Jumon Patterson): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Katagiri Seibei: rng1 = 72 + 6 - 14 - 1 = 63
+rng2 = 55 + 5 - 14 - 1 = 45
+Groundout
+Team 2 pitcher (Jumon Patterson): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Stanley Jackson: rng1 = 94 + 13 - 14 - 1 = 92
+rng2 = 44 + 11 - 14 - 1 = 40
+Single
+Team 2 pitcher (Jumon Patterson): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 2
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Andres Fortune: rng1 = 68 + 11 - 14 - 1 = 64
+rng2 = 68 + 11 - 14 - 1 = 64
+Flyout
+Team 2 pitcher (Jumon Patterson): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 5
+
+Leonardo Pinto: rng1 = 71 + 10 - 7 + 1 = 75
+rng2 = 45 + 5 - 10 + 1 = 41
+Single
+Team 1 pitcher (Tavell Nash): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Leroy Powell: rng1 = 82 + 9 - 7 + 1 = 85
+rng2 = 91 + 12 - 10 + 1 = 94
+Home run
+Team 1 pitcher (Tavell Nash): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Edward Lowe: rng1 = 8 + 8 - 7 + 1 = 10
+Strikeout
+Team 1 pitcher (Tavell Nash): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Nakazawa Shinji: rng1 = 4 + 5 - 7 + 1 = 3
+Strikeout
+Team 1 pitcher (Tavell Nash): 23 batters faced, 3 runs allowed = 23 + 7.5 = 30.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Estefania Espina: rng1 = 76 + 9 - 7 + 1 = 79
+rng2 = 38 + 7 - 10 + 1 = 36
+Single
+Team 1 pitcher (Tavell Nash): 24 batters faced, 3 runs allowed = 24 + 7.5 = 31.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Jaiden Fortner: rng1 = 46 + 5 - 7 + 1 = 45
+rng2 = 94 + 7 - 10 + 1 = 92
+Flyout
+Team 1 pitcher (Tavell Nash): 25 batters faced, 3 runs allowed = 25 + 7.5 = 32.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 6
+
+Noah Key: rng1 = 16 + 9 - 14 - 1 = 10
+Strikeout
+Team 2 pitcher (Jumon Patterson): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Dexter Stevens: rng1 = 37 + 4 - 14 - 1 = 26
+Strikeout
+Team 2 pitcher (Jumon Patterson): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Ewan Hunt: rng1 = 88 + 6 - 14 - 1 = 79
+rng2 = 56 + 8 - 14 - 1 = 49
+Single
+Team 2 pitcher (Jumon Patterson): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Noel Ayers: rng1 = 22 + 6 - 14 - 1 = 13
+rng2 = 17 + 7 - 14 - 1 = 9
+Groundout
+Team 2 pitcher (Jumon Patterson): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Cohen Roman
+
+Alejandro López: rng1 = 77 + 5 - 14 + 1 = 69
+Walk
+Team 1 pitcher (Cohen Roman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Kevin Taylor: rng1 = 65 + 6 - 14 + 1 = 58
+rng2 = 58 + 6 - 12 + 1 = 53
+Lineout
+Team 1 pitcher (Cohen Roman): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Justus Pate: rng1 = 61 + 12 - 14 + 1 = 60
+rng2 = 17 + 7 - 12 + 1 = 13
+Groundout
+Team 1 pitcher (Cohen Roman): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [7,1], base3: false
+base1: false, base2: true, base3: false
+Score: 1-3
+
+Leonardo Pinto: rng1 = 6 + 10 - 14 + 1 = 3
+Strikeout
+Team 1 pitcher (Cohen Roman): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 7
+
+Dominic Gardner: rng1 = 45 + 5 - 14 - 1 = 35
+rng2 = 32 + 6 - 14 - 1 = 23
+Groundout
+Team 2 pitcher (Jumon Patterson): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+David Freixa: rng1 = 38 + 6 - 14 - 1 = 29
+rng2 = 53 + 5 - 14 - 1 = 43
+Groundout
+Team 2 pitcher (Jumon Patterson): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Katagiri Seibei: rng1 = 23 + 6 - 14 - 1 = 14
+rng2 = 5 + 5 - 14 - 1 = -5
+Groundout
+Team 2 pitcher (Jumon Patterson): 27 batters faced, 1 runs allowed = 27 + 2.5 = 29.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+BOTTOM INNING 7
+
+Leroy Powell: rng1 = 6 + 9 - 14 + 1 = 2
+Strikeout
+Team 1 pitcher (Cohen Roman): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Edward Lowe: rng1 = 99 + 8 - 14 + 1 = 94
+rng2 = 37 + 11 - 12 + 1 = 37
+Single
+Team 1 pitcher (Cohen Roman): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Nakazawa Shinji: rng1 = 9 + 5 - 14 + 1 = 1
+Strikeout
+Team 1 pitcher (Cohen Roman): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Estefania Espina: rng1 = 50 + 9 - 14 + 1 = 46
+rng2 = 66 + 7 - 12 + 1 = 62
+Flyout
+Team 1 pitcher (Cohen Roman): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Bravon McDaniel
+
+Stanley Jackson: rng1 = 18 + 13 - 9 - 1 = 21
+Strikeout
+Team 2 pitcher (Bravon McDaniel): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Andres Fortune: rng1 = 58 + 11 - 9 - 1 = 59
+rng2 = 65 + 11 - 9 - 1 = 66
+Flyout
+Team 2 pitcher (Bravon McDaniel): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Noah Key: rng1 = 42 + 9 - 9 - 1 = 41
+rng2 = 34 + 8 - 9 - 1 = 32
+Groundout
+Team 2 pitcher (Bravon McDaniel): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Jensen Garrish
+
+Jaiden Fortner: rng1 = 13 + 5 - 14 + 1 = 5
+Strikeout
+Team 1 pitcher (Jensen Garrish): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Alejandro López: rng1 = 90 + 5 - 14 + 1 = 82
+rng2 = 60 + 7 - 13 + 1 = 55
+Single
+Team 1 pitcher (Jensen Garrish): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Kevin Taylor: rng1 = 28 + 6 - 14 + 1 = 21
+Strikeout
+Team 1 pitcher (Jensen Garrish): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Justus Pate: rng1 = 20 + 12 - 14 + 1 = 19
+Strikeout
+Team 1 pitcher (Jensen Garrish): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Charlie Jordan
+
+Dexter Stevens: rng1 = 49 + 4 - 15 - 1 = 37
+rng2 = 20 + 9 - 14 - 1 = 14
+Groundout
+Team 2 pitcher (Charlie Jordan): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Ewan Hunt: rng1 = 8 + 6 - 15 - 1 = -2
+Strikeout
+Team 2 pitcher (Charlie Jordan): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Noel Ayers: rng1 = 99 + 6 - 15 - 1 = 89
+Walk
+Team 2 pitcher (Charlie Jordan): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [5,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Dominic Gardner: rng1 = 81 + 5 - 15 - 1 = 70
+Walk
+Team 2 pitcher (Charlie Jordan): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [6,4], base2: [5,4], base3: false
+base1: true, base2: true, base3: false
+Score: 1-3
+
+David Freixa: rng1 = 36 + 6 - 15 - 1 = 26
+Strikeout
+Team 2 pitcher (Charlie Jordan): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 6
+Team 2 hits: 9
+Team 1 runs: 1
+Team 2 runs: 3
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-09-17
+Stanley Jackson	4	0	1	0	0	0	0	0	1					Kansas City
+Andres Fortune	4	1	1	0	0	0	0	0	1	
+Noah Key	4	0	1	1	0	0	1	0	1	
+Dexter Stevens	4	0	0	0	0	0	0	0	1	
+Ewan Hunt	4	0	2	1	0	0	0	0	2	
+Noel Ayers	3	0	0	0	0	0	0	1	1	
+Dominic Gardner	3	0	0	0	0	0	0	1	1	
+David Freixa	4	0	1	0	0	0	0	0	1	
+Katagiri Seibei	3	0	0	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Tavell Nash	0	1	1	1	0	0	15	7	3	2	3	5	25	
+Cohen Roman	0	0	1	0	0	0	6	1	0	0	1	3	8	
+Jensen Garrish	0	0	1	0	0	0	3	1	0	0	0	3	4	
+Aden Lowery	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Phoenix Deleon	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-09-17
+Justus Pate	5	1	2	0	0	1	1	0	1					Chicago
+Leonardo Pinto	3	1	1	0	0	0	0	1	2	
+Leroy Powell	4	1	2	0	0	1	2	0	1	
+Edward Lowe	4	0	1	0	0	0	0	0	1	
+Nakazawa Shinji	3	0	0	0	0	0	0	1	2	
+Estefania Espina	4	0	1	0	0	0	0	0	1	
+Jaiden Fortner	4	0	1	0	0	0	0	0	2	
+Alejandro López	3	0	1	0	0	0	0	1	0	
+Kevin Taylor	3	0	0	0	0	0	0	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Jumon Patterson	1	0	1	1	0	0	21	6	1	0	0	6	27	
+Bravon McDaniel	0	0	1	0	0	0	3	0	0	0	0	1	3	
+Armando Negron	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Ian Colome	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Charlie Jordan	0	0	1	0	1	1	3	0	0	0	2	2	5	

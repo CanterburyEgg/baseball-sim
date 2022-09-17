@@ -1,0 +1,733 @@
+TOP INNING 1
+
+Nicolás Moruga: rng1 = 56 + 15 - 10 - 1 = 60
+rng2 = 89 + 14 - 11 - 1 = 91
+Flyout
+Team 2 pitcher (Peter Nieves): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Tristian Love: rng1 = 80 + 13 - 10 - 1 = 82
+rng2 = 29 + 9 - 11 - 1 = 26
+Single
+Team 2 pitcher (Peter Nieves): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Aldo Gilmore: rng1 = 94 + 11 - 10 - 1 = 94
+rng2 = 74 + 11 - 11 - 1 = 73
+Double
+Team 2 pitcher (Peter Nieves): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Lucián Chicote: rng1 = 40 + 11 - 10 - 1 = 40
+rng2 = 33 + 10 - 11 - 1 = 31
+Groundout
+Team 2 pitcher (Peter Nieves): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: false, base3: [2,0]
+base1: false, base2: false, base3: true
+Score: 1-0
+
+Joaquín Laguna: rng1 = 73 + 6 - 10 - 1 = 68
+rng2 = 39 + 9 - 11 - 1 = 36
+Groundout
+Team 2 pitcher (Peter Nieves): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Keli Alohilani: rng1 = 88 + 12 - 11 + 1 = 90
+Walk
+Team 1 pitcher (Zachary Pearson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Tomas Canto: rng1 = 62 + 11 - 11 + 1 = 63
+rng2 = 46 + 12 - 11 + 1 = 48
+Lineout
+Team 1 pitcher (Zachary Pearson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Konner Knight: rng1 = 100 + 11 - 11 + 1 = 101
+rng2 = 54 + 5 - 11 + 1 = 49
+Single
+Team 1 pitcher (Zachary Pearson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Efrain Salas: rng1 = 27 + 3 - 11 + 1 = 20
+Strikeout
+Team 1 pitcher (Zachary Pearson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [2,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Aaron Pearce: rng1 = 63 + 3 - 11 + 1 = 56
+rng2 = 86 + 7 - 11 + 1 = 83
+Flyout
+Team 1 pitcher (Zachary Pearson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 2
+
+Zahir Burgos: rng1 = 98 + 9 - 10 - 1 = 96
+rng2 = 32 + 7 - 11 - 1 = 27
+Single
+Team 2 pitcher (Peter Nieves): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Alexis Shultz: rng1 = 62 + 10 - 10 - 1 = 61
+rng2 = 57 + 6 - 11 - 1 = 51
+Lineout
+Team 2 pitcher (Peter Nieves): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Edward Cox: rng1 = 68 + 11 - 10 - 1 = 68
+rng2 = 52 + 4 - 11 - 1 = 44
+Groundout
+Team 2 pitcher (Peter Nieves): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Trent Page: rng1 = 19 + 6 - 10 - 1 = 14
+rng2 = 87 + 6 - 11 - 1 = 81
+Flyout
+Team 2 pitcher (Peter Nieves): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Bryson Mckinney: rng1 = 96 + 5 - 11 + 1 = 91
+rng2 = 95 + 6 - 11 + 1 = 91
+Double
+Team 1 pitcher (Zachary Pearson): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 0
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Chaquille Barnett: rng1 = 87 + 6 - 11 + 1 = 83
+rng2 = 19 + 5 - 11 + 1 = 14
+Single
+Team 1 pitcher (Zachary Pearson): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Reilly Carter: rng1 = 64 + 5 - 11 + 1 = 59
+rng2 = 3 + 5 - 11 + 1 = -2
+Groundout
+Team 1 pitcher (Zachary Pearson): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Terry Schroeder: rng1 = 7 + 5 - 11 + 1 = 2
+Strikeout
+Team 1 pitcher (Zachary Pearson): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Keli Alohilani: rng1 = 33 + 12 - 11 + 1 = 35
+rng2 = 99 + 6 - 11 + 1 = 95
+Flyout
+Team 1 pitcher (Zachary Pearson): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 3
+
+Nicolás Moruga: rng1 = 42 + 15 - 10 - 1 = 46
+rng2 = 62 + 14 - 11 - 1 = 64
+Flyout
+Team 2 pitcher (Peter Nieves): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Tristian Love: rng1 = 36 + 13 - 10 - 1 = 38
+rng2 = 55 + 9 - 11 - 1 = 52
+Lineout
+Team 2 pitcher (Peter Nieves): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Aldo Gilmore: rng1 = 46 + 11 - 10 - 1 = 46
+rng2 = 25 + 11 - 11 - 1 = 24
+Groundout
+Team 2 pitcher (Peter Nieves): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Tomas Canto: rng1 = 33 + 11 - 11 + 1 = 34
+rng2 = 81 + 12 - 11 + 1 = 83
+Flyout
+Team 1 pitcher (Zachary Pearson): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Konner Knight: rng1 = 81 + 11 - 11 + 1 = 82
+rng2 = 35 + 5 - 11 + 1 = 30
+Single
+Team 1 pitcher (Zachary Pearson): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Efrain Salas: rng1 = 71 + 3 - 11 + 1 = 64
+rng2 = 77 + 8 - 11 + 1 = 75
+Flyout
+Team 1 pitcher (Zachary Pearson): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Aaron Pearce: rng1 = 15 + 3 - 11 + 1 = 8
+Strikeout
+Team 1 pitcher (Zachary Pearson): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 4
+
+Lucián Chicote: rng1 = 63 + 11 - 10 - 1 = 63
+rng2 = 94 + 10 - 11 - 1 = 92
+Flyout
+Team 2 pitcher (Peter Nieves): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Joaquín Laguna: rng1 = 5 + 6 - 10 - 1 = 0
+Strikeout
+Team 2 pitcher (Peter Nieves): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Zahir Burgos: rng1 = 28 + 9 - 10 - 1 = 26
+Strikeout
+Team 2 pitcher (Peter Nieves): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Bryson Mckinney: rng1 = 50 + 5 - 11 + 1 = 45
+rng2 = 39 + 6 - 11 + 1 = 35
+Groundout
+Team 1 pitcher (Zachary Pearson): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Chaquille Barnett: rng1 = 19 + 6 - 11 + 1 = 15
+rng2 = 21 + 5 - 11 + 1 = 16
+Groundout
+Team 1 pitcher (Zachary Pearson): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Reilly Carter: rng1 = 89 + 5 - 11 + 1 = 84
+rng2 = 58 + 5 - 11 + 1 = 53
+Single
+Team 1 pitcher (Zachary Pearson): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Terry Schroeder: rng1 = 98 + 5 - 11 + 1 = 93
+rng2 = 71 + 5 - 11 + 1 = 66
+Double
+Team 1 pitcher (Zachary Pearson): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 2
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-2
+
+Keli Alohilani: rng1 = 9 + 12 - 11 + 1 = 11
+rng2 = 22 + 6 - 11 + 1 = 18
+Groundout
+Team 1 pitcher (Zachary Pearson): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 5
+
+Alexis Shultz: rng1 = 67 + 10 - 10 - 1 = 66
+rng2 = 39 + 6 - 11 - 1 = 33
+Groundout
+Team 2 pitcher (Peter Nieves): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Edward Cox: rng1 = 51 + 11 - 10 - 1 = 51
+rng2 = 74 + 4 - 11 - 1 = 66
+Flyout
+Team 2 pitcher (Peter Nieves): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Trent Page: rng1 = 98 + 6 - 10 - 1 = 93
+rng2 = 40 + 6 - 11 - 1 = 34
+Single
+Team 2 pitcher (Peter Nieves): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Nicolás Moruga: rng1 = 16 + 15 - 10 - 1 = 20
+Strikeout
+Team 2 pitcher (Peter Nieves): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 5
+
+Tomas Canto: rng1 = 2 + 11 - 11 + 1 = 3
+Strikeout
+Team 1 pitcher (Zachary Pearson): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Konner Knight: rng1 = 20 + 11 - 11 + 1 = 21
+Strikeout
+Team 1 pitcher (Zachary Pearson): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Efrain Salas: rng1 = 47 + 3 - 11 + 1 = 40
+rng2 = 8 + 8 - 11 + 1 = 6
+Groundout
+Team 1 pitcher (Zachary Pearson): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 6
+
+Tristian Love: rng1 = 88 + 13 - 10 - 1 = 90
+Walk
+Team 2 pitcher (Peter Nieves): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Aldo Gilmore: rng1 = 68 + 11 - 10 - 1 = 68
+rng2 = 1 + 11 - 11 - 1 = 0
+Groundout
+Team 2 pitcher (Peter Nieves): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Lucián Chicote: rng1 = 48 + 11 - 10 - 1 = 48
+rng2 = 54 + 10 - 11 - 1 = 52
+Lineout
+Team 2 pitcher (Peter Nieves): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 6
+
+Aaron Pearce: rng1 = 14 + 3 - 11 + 1 = 7
+Strikeout
+Team 1 pitcher (Zachary Pearson): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Bryson Mckinney: rng1 = 100 + 5 - 11 + 1 = 95
+rng2 = 98 + 6 - 11 + 1 = 94
+Home run
+Team 1 pitcher (Zachary Pearson): 24 batters faced, 3 runs allowed = 24 + 7.5 = 31.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Chaquille Barnett: rng1 = 24 + 6 - 11 + 1 = 20
+Strikeout
+Team 1 pitcher (Zachary Pearson): 25 batters faced, 3 runs allowed = 25 + 7.5 = 32.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Reilly Carter: rng1 = 9 + 5 - 11 + 1 = 4
+Strikeout
+Team 1 pitcher (Zachary Pearson): 26 batters faced, 3 runs allowed = 26 + 7.5 = 33.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 7
+
+Joaquín Laguna: rng1 = 52 + 6 - 10 - 1 = 47
+rng2 = 21 + 9 - 11 - 1 = 18
+Groundout
+Team 2 pitcher (Peter Nieves): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Zahir Burgos: rng1 = 23 + 9 - 10 - 1 = 21
+Strikeout
+Team 2 pitcher (Peter Nieves): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Alexis Shultz: rng1 = 83 + 10 - 10 - 1 = 82
+rng2 = 66 + 6 - 11 - 1 = 60
+Single
+Team 2 pitcher (Peter Nieves): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Edward Cox: rng1 = 40 + 11 - 10 - 1 = 40
+rng2 = 83 + 4 - 11 - 1 = 75
+Flyout
+Team 2 pitcher (Peter Nieves): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Trey Hendrickson
+
+Terry Schroeder: rng1 = 5 + 5 - 14 + 1 = -3
+Strikeout
+Team 1 pitcher (Trey Hendrickson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Keli Alohilani: rng1 = 91 + 12 - 14 + 1 = 90
+Walk
+Team 1 pitcher (Trey Hendrickson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Tomas Canto: rng1 = 87 + 11 - 14 + 1 = 85
+rng2 = 1 + 12 - 13 + 1 = 1
+Single
+Team 1 pitcher (Trey Hendrickson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [1,1], base2: false, base3: [0,1]
+base1: true, base2: false, base3: true
+Score: 1-3
+
+Konner Knight: rng1 = 9 + 11 - 14 + 1 = 7
+Strikeout
+Team 1 pitcher (Trey Hendrickson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [1,1], base2: false, base3: [0,1]
+base1: true, base2: false, base3: true
+Score: 1-3
+
+Efrain Salas: rng1 = 50 + 3 - 14 + 1 = 40
+rng2 = 55 + 8 - 13 + 1 = 51
+Lineout
+Team 1 pitcher (Trey Hendrickson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Steve Randles
+
+Trent Page: rng1 = 2 + 6 - 13 - 1 = -6
+Strikeout
+Team 2 pitcher (Steve Randles): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Nicolás Moruga: rng1 = 6 + 15 - 13 - 1 = 7
+Strikeout
+Team 2 pitcher (Steve Randles): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Tristian Love: rng1 = 27 + 13 - 13 - 1 = 26
+Strikeout
+Team 2 pitcher (Steve Randles): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Harris Derickson
+
+Aaron Pearce: rng1 = 75 + 3 - 8 + 1 = 71
+Walk
+Team 1 pitcher (Harris Derickson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Bryson Mckinney: rng1 = 71 + 5 - 8 + 1 = 69
+Walk
+Team 1 pitcher (Harris Derickson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [5,2], base2: [4,2], base3: false
+base1: true, base2: true, base3: false
+Score: 1-3
+
+Chaquille Barnett: rng1 = 2 + 6 - 8 + 1 = 1
+Strikeout
+Team 1 pitcher (Harris Derickson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [5,2], base2: [4,2], base3: false
+base1: true, base2: true, base3: false
+Score: 1-3
+
+Reilly Carter: rng1 = 100 + 5 - 8 + 1 = 98
+rng2 = 64 + 5 - 9 + 1 = 61
+Single
+Team 1 pitcher (Harris Derickson): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [7,2], base2: false, base3: [5,2]
+base1: true, base2: false, base3: true
+Score: 1-4
+
+Terry Schroeder: rng1 = 78 + 5 - 8 + 1 = 76
+rng2 = 91 + 5 - 9 + 1 = 88
+Double
+Team 1 pitcher (Harris Derickson): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 1
+
+base1: false, base2: [8,2], base3: false
+base1: false, base2: true, base3: false
+Score: 1-6
+
+Keli Alohilani: rng1 = 39 + 12 - 8 + 1 = 44
+rng2 = 29 + 6 - 9 + 1 = 27
+Groundout
+Team 1 pitcher (Harris Derickson): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: false, base2: [8,2], base3: false
+base1: false, base2: true, base3: false
+Score: 1-6
+
+Team 1 pitcher change to Johan Cortez
+
+Tomas Canto: rng1 = 65 + 11 - 3 + 1 = 74
+rng2 = 30 + 12 - 9 + 1 = 34
+Single
+Team 1 pitcher (Johan Cortez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [1,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-7
+
+Konner Knight: rng1 = 5 + 11 - 3 + 1 = 14
+rng2 = 59 + 5 - 9 + 1 = 56
+Lineout
+Team 1 pitcher (Johan Cortez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-7
+
+-----------------------
+
+TOP INNING 9
+
+Aldo Gilmore: rng1 = 43 + 11 - 13 - 1 = 40
+rng2 = 51 + 11 - 9 - 1 = 52
+Lineout
+Team 2 pitcher (Steve Randles): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-7
+
+Lucián Chicote: rng1 = 85 + 11 - 13 - 1 = 82
+rng2 = 100 + 10 - 9 - 1 = 100
+Home run
+Team 2 pitcher (Steve Randles): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Joaquín Laguna: rng1 = 88 + 6 - 13 - 1 = 80
+rng2 = 28 + 9 - 9 - 1 = 27
+Single
+Team 2 pitcher (Steve Randles): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-7
+
+Zahir Burgos: rng1 = 43 + 9 - 13 - 1 = 38
+rng2 = 57 + 7 - 9 - 1 = 54
+Lineout
+Team 2 pitcher (Steve Randles): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-7
+
+Alexis Shultz: rng1 = 27 + 10 - 13 - 1 = 23
+Strikeout
+Team 2 pitcher (Steve Randles): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-7
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 7
+Team 2 hits: 11
+Team 1 runs: 2
+Team 2 runs: 7
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-09-17
+Nicolás Moruga	4	0	0	0	0	0	0	0	2					New York
+Tristian Love	3	1	1	0	0	0	0	1	1	
+Aldo Gilmore	4	0	1	1	0	0	1	0	0	
+Lucián Chicote	4	1	1	0	0	1	1	0	0	
+Joaquín Laguna	4	0	1	0	0	0	0	0	1	
+Zahir Burgos	4	0	1	0	0	0	0	0	2	
+Alexis Shultz	4	0	1	0	0	0	0	0	1	
+Edward Cox	3	0	0	0	0	0	0	0	0	
+Trent Page	3	0	1	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Zachary Pearson	0	1	1	1	0	0	18	7	3	1	1	8	26	
+Trey Hendrickson	0	0	1	0	0	0	3	1	0	0	1	2	5	
+Harris Derickson	0	0	1	0	0	0	2	2	4	0	2	1	6	
+Johan Cortez	0	0	1	0	0	0	1	1	0	0	0	0	2	
+Christopher Jones	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-09-17
+Keli Alohilani	3	0	0	0	0	0	0	2	0					Philadelphia
+Tomas Canto	5	0	2	0	0	0	1	0	1	
+Konner Knight	5	0	2	0	0	0	0	0	2	
+Efrain Salas	4	0	0	0	0	0	0	0	1	
+Aaron Pearce	3	1	0	0	0	0	0	1	2	
+Bryson Mckinney	3	3	2	1	0	1	1	1	0	
+Chaquille Barnett	4	0	1	0	0	0	1	0	2	
+Reilly Carter	4	2	2	0	0	0	1	0	1	
+Terry Schroeder	4	1	2	2	0	0	3	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Peter Nieves	1	0	1	1	0	0	21	5	1	0	1	4	26	
+Steve Randles	0	0	1	0	0	0	6	2	1	1	0	4	8	
+Rolando Maroto	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Jayden Cooper	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Eduardo Elvira	0	0	0	0	0	0	0	0	0	0	0	0	0	

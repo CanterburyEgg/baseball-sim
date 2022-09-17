@@ -2916,7 +2916,7 @@ public class GameGenerator
 				
 				if (p2index < 4)
 				{
-					if (inning > 16 && Math.abs(runs1-runs2) < 6)
+					if (inning > 16 && Math.abs(runs1-runs2) < 6 && pitchers2[1][2] == 0)
 						p2index = 4;
 					else
 						p2index++;
@@ -2947,9 +2947,9 @@ public class GameGenerator
 			{
 				pitchswapD = false;
 
-				if (p2index < 4)
+				if (p1index < 4)
 				{
-					if (inning > 16 && Math.abs(runs1-runs2) < 6)
+					if (inning > 16 && Math.abs(runs1-runs2) < 6 && pitchers1[4][2] == 0)
 						p1index = 4;
 					else
 						p1index++;

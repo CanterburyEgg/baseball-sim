@@ -1,0 +1,750 @@
+TOP INNING 1
+
+Edmundo Pousa: rng1 = 32 + 15 - 6 - 1 = 40
+rng2 = 67 + 12 - 5 - 1 = 73
+Flyout
+Team 2 pitcher (Harrison Fisher): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Byron Bartlett: rng1 = 44 + 15 - 6 - 1 = 52
+rng2 = 17 + 9 - 5 - 1 = 20
+Groundout
+Team 2 pitcher (Harrison Fisher): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Arturo Bellamy: rng1 = 37 + 11 - 6 - 1 = 41
+rng2 = 96 + 9 - 5 - 1 = 99
+Flyout
+Team 2 pitcher (Harrison Fisher): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Cody Henderson: rng1 = 67 + 14 - 5 + 1 = 77
+rng2 = 51 + 15 - 5 + 1 = 62
+Single
+Team 1 pitcher (Wayne Dean): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Aaron Vera: rng1 = 96 + 14 - 5 + 1 = 106
+rng2 = 18 + 8 - 5 + 1 = 22
+Single
+Team 1 pitcher (Wayne Dean): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Jadon Mitchell: rng1 = 27 + 9 - 5 + 1 = 32
+rng2 = 50 + 9 - 5 + 1 = 55
+Lineout
+Team 1 pitcher (Wayne Dean): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Joshua Fontina: rng1 = 31 + 8 - 5 + 1 = 35
+rng2 = 66 + 10 - 5 + 1 = 72
+Flyout
+Team 1 pitcher (Wayne Dean): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Nehemiah Clark: rng1 = 46 + 3 - 5 + 1 = 45
+rng2 = 29 + 9 - 5 + 1 = 34
+Groundout
+Team 1 pitcher (Wayne Dean): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Timothy Bentley: rng1 = 68 + 8 - 6 - 1 = 69
+Walk
+Team 2 pitcher (Harrison Fisher): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Owen Williamson: rng1 = 40 + 7 - 6 - 1 = 40
+rng2 = 17 + 9 - 5 - 1 = 20
+Groundout
+Team 2 pitcher (Harrison Fisher): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Fabián Sánchez: rng1 = 37 + 4 - 6 - 1 = 34
+rng2 = 75 + 8 - 5 - 1 = 77
+Flyout
+Team 2 pitcher (Harrison Fisher): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Devoreaux Waters: rng1 = 81 + 8 - 6 - 1 = 82
+rng2 = 64 + 5 - 5 - 1 = 63
+Single
+Team 2 pitcher (Harrison Fisher): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Abraham Noboa: rng1 = 34 + 4 - 6 - 1 = 31
+rng2 = 46 + 7 - 5 - 1 = 47
+Groundout
+Team 2 pitcher (Harrison Fisher): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Matías Martinez: rng1 = 18 + 6 - 5 + 1 = 20
+Strikeout
+Team 1 pitcher (Wayne Dean): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Martin Cambeiro: rng1 = 97 + 9 - 5 + 1 = 102
+rng2 = 62 + 2 - 5 + 1 = 60
+Single
+Team 1 pitcher (Wayne Dean): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Joshua Marsh: rng1 = 98 + 3 - 5 + 1 = 97
+rng2 = 89 + 7 - 5 + 1 = 92
+Double
+Team 1 pitcher (Wayne Dean): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+César Botín: rng1 = 91 + 5 - 5 + 1 = 92
+rng2 = 88 + 5 - 5 + 1 = 89
+Double
+Team 1 pitcher (Wayne Dean): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 1
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-2
+
+Cody Henderson: rng1 = 74 + 14 - 5 + 1 = 84
+rng2 = 24 + 15 - 5 + 1 = 35
+Single
+Team 1 pitcher (Wayne Dean): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Aaron Vera: rng1 = 31 + 14 - 5 + 1 = 41
+rng2 = 27 + 8 - 5 + 1 = 31
+Groundout
+Team 1 pitcher (Wayne Dean): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Jadon Mitchell: rng1 = 78 + 9 - 5 + 1 = 83
+rng2 = 46 + 9 - 5 + 1 = 51
+Single
+Team 1 pitcher (Wayne Dean): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 2
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-3
+
+Joshua Fontina: rng1 = 19 + 8 - 5 + 1 = 23
+Strikeout
+Team 1 pitcher (Wayne Dean): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 3
+
+Rakkan Gaines: rng1 = 49 + 4 - 6 - 1 = 46
+rng2 = 14 + 6 - 5 - 1 = 14
+Groundout
+Team 2 pitcher (Harrison Fisher): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Edmundo Pousa: rng1 = 2 + 15 - 6 - 1 = 10
+Strikeout
+Team 2 pitcher (Harrison Fisher): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Byron Bartlett: rng1 = 70 + 15 - 6 - 1 = 78
+rng2 = 53 + 9 - 5 - 1 = 56
+Single
+Team 2 pitcher (Harrison Fisher): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Arturo Bellamy: rng1 = 42 + 11 - 6 - 1 = 46
+rng2 = 85 + 9 - 5 - 1 = 88
+Flyout
+Team 2 pitcher (Harrison Fisher): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+BOTTOM INNING 3
+
+Nehemiah Clark: rng1 = 3 + 3 - 5 + 1 = 2
+Strikeout
+Team 1 pitcher (Wayne Dean): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Matías Martinez: rng1 = 8 + 6 - 5 + 1 = 10
+Strikeout
+Team 1 pitcher (Wayne Dean): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Martin Cambeiro: rng1 = 83 + 9 - 5 + 1 = 88
+Walk
+Team 1 pitcher (Wayne Dean): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Joshua Marsh: rng1 = 14 + 3 - 5 + 1 = 13
+rng2 = 42 + 7 - 5 + 1 = 45
+Groundout
+Team 1 pitcher (Wayne Dean): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 4
+
+Timothy Bentley: rng1 = 50 + 8 - 6 - 1 = 51
+rng2 = 19 + 11 - 5 - 1 = 24
+Groundout
+Team 2 pitcher (Harrison Fisher): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Owen Williamson: rng1 = 93 + 7 - 6 - 1 = 93
+rng2 = 12 + 9 - 5 - 1 = 15
+Single
+Team 2 pitcher (Harrison Fisher): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Fabián Sánchez: rng1 = 36 + 4 - 6 - 1 = 33
+rng2 = 63 + 8 - 5 - 1 = 65
+Flyout
+Team 2 pitcher (Harrison Fisher): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Devoreaux Waters: rng1 = 17 + 8 - 6 - 1 = 18
+Strikeout
+Team 2 pitcher (Harrison Fisher): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+BOTTOM INNING 4
+
+César Botín: rng1 = 78 + 5 - 5 + 1 = 79
+rng2 = 40 + 5 - 5 + 1 = 41
+Single
+Team 1 pitcher (Wayne Dean): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Cody Henderson: rng1 = 16 + 14 - 5 + 1 = 26
+Strikeout
+Team 1 pitcher (Wayne Dean): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Aaron Vera: rng1 = 27 + 14 - 5 + 1 = 37
+rng2 = 44 + 8 - 5 + 1 = 48
+Lineout
+Team 1 pitcher (Wayne Dean): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Jadon Mitchell: rng1 = 18 + 9 - 5 + 1 = 23
+Strikeout
+Team 1 pitcher (Wayne Dean): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 5
+
+Abraham Noboa: rng1 = 69 + 4 - 6 - 1 = 66
+rng2 = 2 + 7 - 5 - 1 = 3
+Groundout
+Team 2 pitcher (Harrison Fisher): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Rakkan Gaines: rng1 = 58 + 4 - 6 - 1 = 55
+rng2 = 80 + 6 - 5 - 1 = 80
+Flyout
+Team 2 pitcher (Harrison Fisher): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Edmundo Pousa: rng1 = 10 + 15 - 6 - 1 = 18
+Strikeout
+Team 2 pitcher (Harrison Fisher): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Kione Andrews
+
+Joshua Fontina: rng1 = 57 + 8 - 8 + 1 = 58
+rng2 = 62 + 10 - 7 + 1 = 66
+Flyout
+Team 1 pitcher (Kione Andrews): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Nehemiah Clark: rng1 = 84 + 3 - 8 + 1 = 80
+rng2 = 82 + 9 - 7 + 1 = 85
+Home run
+Team 1 pitcher (Kione Andrews): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Matías Martinez: rng1 = 3 + 6 - 8 + 1 = 2
+Strikeout
+Team 1 pitcher (Kione Andrews): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Martin Cambeiro: rng1 = 84 + 9 - 8 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Kione Andrews): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Joshua Marsh: rng1 = 9 + 3 - 8 + 1 = 5
+Strikeout
+Team 1 pitcher (Kione Andrews): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+TOP INNING 6
+
+Byron Bartlett: rng1 = 94 + 15 - 6 - 1 = 102
+rng2 = 33 + 9 - 5 - 1 = 36
+Single
+Team 2 pitcher (Harrison Fisher): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Arturo Bellamy: rng1 = 19 + 11 - 6 - 1 = 23
+Strikeout
+Team 2 pitcher (Harrison Fisher): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Timothy Bentley: rng1 = 55 + 8 - 6 - 1 = 56
+rng2 = 83 + 11 - 5 - 1 = 88
+Flyout
+Team 2 pitcher (Harrison Fisher): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Owen Williamson: rng1 = 51 + 7 - 6 - 1 = 51
+rng2 = 45 + 9 - 5 - 1 = 48
+Lineout
+Team 2 pitcher (Harrison Fisher): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Brady Goodman
+
+César Botín: rng1 = 79 + 5 - 14 + 1 = 71
+Walk
+Team 1 pitcher (Brady Goodman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Cody Henderson: rng1 = 97 + 14 - 14 + 1 = 98
+rng2 = 34 + 15 - 14 + 1 = 36
+Single
+Team 1 pitcher (Brady Goodman): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [0,2], base2: [8,2], base3: false
+base1: true, base2: true, base3: false
+Score: 1-4
+
+Aaron Vera: rng1 = 58 + 14 - 14 + 1 = 59
+rng2 = 60 + 8 - 14 + 1 = 55
+Lineout
+Team 1 pitcher (Brady Goodman): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [0,2], base2: [8,2], base3: false
+base1: true, base2: true, base3: false
+Score: 1-4
+
+Jadon Mitchell: rng1 = 20 + 9 - 14 + 1 = 16
+Strikeout
+Team 1 pitcher (Brady Goodman): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [0,2], base2: [8,2], base3: false
+base1: true, base2: true, base3: false
+Score: 1-4
+
+Joshua Fontina: rng1 = 70 + 8 - 14 + 1 = 65
+rng2 = 25 + 10 - 14 + 1 = 22
+Groundout
+Team 1 pitcher (Brady Goodman): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+TOP INNING 7
+
+Fabián Sánchez: rng1 = 66 + 4 - 6 - 1 = 63
+rng2 = 39 + 8 - 5 - 1 = 41
+Groundout
+Team 2 pitcher (Harrison Fisher): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Devoreaux Waters: rng1 = 8 + 8 - 6 - 1 = 9
+Strikeout
+Team 2 pitcher (Harrison Fisher): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Abraham Noboa: rng1 = 58 + 4 - 6 - 1 = 55
+rng2 = 34 + 7 - 5 - 1 = 35
+Groundout
+Team 2 pitcher (Harrison Fisher): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Jesus Perez
+
+Nehemiah Clark: rng1 = 62 + 3 - 5 + 1 = 61
+rng2 = 90 + 9 - 6 + 1 = 94
+Flyout
+Team 1 pitcher (Jesus Perez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Matías Martinez: rng1 = 8 + 6 - 5 + 1 = 10
+Strikeout
+Team 1 pitcher (Jesus Perez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Martin Cambeiro: rng1 = 71 + 9 - 5 + 1 = 76
+rng2 = 40 + 2 - 6 + 1 = 37
+Single
+Team 1 pitcher (Jesus Perez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [6,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Joshua Marsh: rng1 = 21 + 3 - 5 + 1 = 20
+Strikeout
+Team 1 pitcher (Jesus Perez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Foster Roebuck
+
+Rakkan Gaines: rng1 = 38 + 4 - 11 - 1 = 30
+rng2 = 55 + 6 - 11 - 1 = 49
+Lineout
+Team 2 pitcher (Foster Roebuck): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Edmundo Pousa: rng1 = 10 + 15 - 11 - 1 = 13
+rng2 = 93 + 12 - 11 - 1 = 93
+Flyout
+Team 2 pitcher (Foster Roebuck): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Byron Bartlett: rng1 = 7 + 15 - 11 - 1 = 10
+Strikeout
+Team 2 pitcher (Foster Roebuck): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+BOTTOM INNING 8
+
+César Botín: rng1 = 91 + 5 - 5 + 1 = 92
+rng2 = 83 + 5 - 6 + 1 = 83
+Home run
+Team 1 pitcher (Jesus Perez): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Cody Henderson: rng1 = 71 + 14 - 5 + 1 = 81
+rng2 = 6 + 15 - 6 + 1 = 16
+Single
+Team 1 pitcher (Jesus Perez): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 0
+
+base1: [0,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Aaron Vera: rng1 = 59 + 14 - 5 + 1 = 69
+Walk
+Team 1 pitcher (Jesus Perez): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 0
+
+base1: [1,3], base2: [0,3], base3: false
+base1: true, base2: true, base3: false
+Score: 1-5
+
+Jadon Mitchell: rng1 = 7 + 9 - 5 + 1 = 12
+rng2 = 63 + 9 - 6 + 1 = 67
+Flyout
+Team 1 pitcher (Jesus Perez): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: [1,3], base2: false, base3: [0,3]
+base1: true, base2: false, base3: true
+Score: 1-5
+
+Joshua Fontina: rng1 = 1 + 8 - 5 + 1 = 5
+Strikeout
+Team 1 pitcher (Jesus Perez): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [1,3], base2: false, base3: [0,3]
+base1: true, base2: false, base3: true
+Score: 1-5
+
+Team 1 pitcher change to Antonio McMillan
+
+Nehemiah Clark: rng1 = 4 + 3 - 14 + 1 = -6
+Strikeout
+Team 1 pitcher (Antonio McMillan): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+TOP INNING 9
+
+Arturo Bellamy: rng1 = 71 + 11 - 11 - 1 = 70
+Walk
+Team 2 pitcher (Foster Roebuck): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Timothy Bentley: rng1 = 25 + 8 - 11 - 1 = 21
+Strikeout
+Team 2 pitcher (Foster Roebuck): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Owen Williamson: rng1 = 9 + 7 - 11 - 1 = 4
+Strikeout
+Team 2 pitcher (Foster Roebuck): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Fabián Sánchez: rng1 = 83 + 4 - 11 - 1 = 75
+rng2 = 16 + 8 - 11 - 1 = 12
+Single
+Team 2 pitcher (Foster Roebuck): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [5,1], base2: false, base3: [2,1]
+base1: true, base2: false, base3: true
+Score: 1-5
+
+Devoreaux Waters: rng1 = 68 + 8 - 11 - 1 = 64
+rng2 = 10 + 5 - 11 - 1 = 3
+Groundout
+Team 2 pitcher (Foster Roebuck): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 5
+Team 2 hits: 13
+Team 1 runs: 1
+Team 2 runs: 5
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-09-18
+Edmundo Pousa	4	0	0	0	0	0	0	0	2					New Orleans
+Byron Bartlett	4	0	2	0	0	0	0	0	1	
+Arturo Bellamy	3	0	0	0	0	0	0	1	1	
+Timothy Bentley	3	1	0	0	0	0	0	1	1	
+Owen Williamson	4	0	1	0	0	0	0	0	1	
+Fabián Sánchez	4	0	1	0	0	0	0	0	0	
+Devoreaux Waters	4	0	1	0	0	0	1	0	2	
+Abraham Noboa	3	0	0	0	0	0	0	0	0	
+Rakkan Gaines	3	0	0	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Wayne Dean	0	1	1	1	0	0	12	8	3	0	1	6	21	
+Kione Andrews	0	0	1	0	0	0	3	1	1	1	0	2	5	
+Brady Goodman	0	0	1	0	0	0	3	1	0	0	1	1	5	
+Jesus Perez	0	0	1	0	0	0	5	3	1	1	1	3	9	
+Antonio McMillan	0	0	1	0	0	0	1	0	0	0	0	1	1	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-09-18
+Cody Henderson	5	0	4	0	0	0	1	0	1					Houston
+Aaron Vera	4	0	1	0	0	0	0	1	0	
+Jadon Mitchell	5	0	1	0	0	0	0	0	2	
+Joshua Fontina	5	0	0	0	0	0	0	0	2	
+Nehemiah Clark	5	1	1	0	0	1	1	0	2	
+Matías Martinez	4	0	0	0	0	0	0	0	4	
+Martin Cambeiro	2	1	2	0	0	0	0	1	0	
+Joshua Marsh	4	1	1	1	0	0	1	0	2	
+César Botín	3	2	3	1	0	1	2	1	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Harrison Fisher	1	0	1	1	0	0	21	4	1	0	1	5	26	
+Foster Roebuck	0	0	1	0	0	0	6	1	0	0	1	3	8	
+Craig Valencis	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Liam Newman	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Gideon Giles	0	0	0	0	0	0	0	0	0	0	0	0	0	

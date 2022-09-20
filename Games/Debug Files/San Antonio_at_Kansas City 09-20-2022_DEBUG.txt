@@ -1,0 +1,782 @@
+TOP INNING 1
+
+Dylan Marsh: rng1 = 93 + 15 - 10 - 1 = 97
+rng2 = 92 + 15 - 9 - 1 = 97
+Home run
+Team 2 pitcher (Conor Randall): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Rubén Indiano: rng1 = 18 + 14 - 10 - 1 = 21
+Strikeout
+Team 2 pitcher (Conor Randall): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Rodolfo Mullen: rng1 = 37 + 13 - 10 - 1 = 39
+rng2 = 56 + 12 - 9 - 1 = 58
+Lineout
+Team 2 pitcher (Conor Randall): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Frankie Bell: rng1 = 23 + 9 - 10 - 1 = 21
+Strikeout
+Team 2 pitcher (Conor Randall): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Stanley Jackson: rng1 = 65 + 13 - 11 + 1 = 68
+rng2 = 60 + 11 - 12 + 1 = 60
+Flyout
+Team 1 pitcher (Josh Hopkins): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Andres Fortune: rng1 = 46 + 11 - 11 + 1 = 47
+rng2 = 84 + 11 - 12 + 1 = 84
+Flyout
+Team 1 pitcher (Josh Hopkins): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Noah Key: rng1 = 52 + 9 - 11 + 1 = 51
+rng2 = 40 + 8 - 12 + 1 = 37
+Groundout
+Team 1 pitcher (Josh Hopkins): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 2
+
+Enrique Holmes: rng1 = 73 + 6 - 10 - 1 = 68
+rng2 = 75 + 9 - 9 - 1 = 74
+Flyout
+Team 2 pitcher (Conor Randall): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Marcelo Francis: rng1 = 68 + 12 - 10 - 1 = 69
+Walk
+Team 2 pitcher (Conor Randall): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Braylon Summers: rng1 = 50 + 6 - 10 - 1 = 45
+rng2 = 72 + 7 - 9 - 1 = 69
+Flyout
+Team 2 pitcher (Conor Randall): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Leon Watts: rng1 = 38 + 8 - 10 - 1 = 35
+rng2 = 78 + 3 - 9 - 1 = 71
+Flyout
+Team 2 pitcher (Conor Randall): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Dexter Stevens: rng1 = 55 + 4 - 11 + 1 = 49
+rng2 = 74 + 9 - 12 + 1 = 72
+Flyout
+Team 1 pitcher (Josh Hopkins): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Ewan Hunt: rng1 = 49 + 6 - 11 + 1 = 45
+rng2 = 36 + 8 - 12 + 1 = 33
+Groundout
+Team 1 pitcher (Josh Hopkins): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Noel Ayers: rng1 = 43 + 6 - 11 + 1 = 39
+rng2 = 4 + 7 - 12 + 1 = 0
+Groundout
+Team 1 pitcher (Josh Hopkins): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 3
+
+Leo Hawkins: rng1 = 12 + 6 - 10 - 1 = 7
+Strikeout
+Team 2 pitcher (Conor Randall): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Dylan Marsh: rng1 = 60 + 15 - 10 - 1 = 64
+rng2 = 30 + 15 - 9 - 1 = 35
+Groundout
+Team 2 pitcher (Conor Randall): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Rubén Indiano: rng1 = 31 + 14 - 10 - 1 = 34
+rng2 = 74 + 13 - 9 - 1 = 77
+Flyout
+Team 2 pitcher (Conor Randall): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Dominic Gardner: rng1 = 74 + 5 - 11 + 1 = 69
+Walk
+Team 1 pitcher (Josh Hopkins): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+David Freixa: rng1 = 92 + 6 - 11 + 1 = 88
+Walk
+Team 1 pitcher (Josh Hopkins): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 0
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Katagiri Seibei: rng1 = 83 + 6 - 11 + 1 = 79
+rng2 = 36 + 5 - 12 + 1 = 30
+Single
+Team 1 pitcher (Josh Hopkins): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 0
+
+base1: [8,0], base2: [7,0], base3: [6,0]
+base1: true, base2: true, base3: true
+Score: 1-0
+
+Stanley Jackson: rng1 = 32 + 13 - 11 + 1 = 35
+rng2 = 36 + 11 - 12 + 1 = 36
+Groundout
+Team 1 pitcher (Josh Hopkins): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: [0,0], base2: [8,0], base3: [7,0]
+base1: true, base2: true, base3: true
+Score: 1-0
+
+Andres Fortune: rng1 = 44 + 11 - 11 + 1 = 45
+rng2 = 65 + 11 - 12 + 1 = 65
+Flyout
+Team 1 pitcher (Josh Hopkins): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 2
+
+base1: [0,0], base2: [8,0], base3: [7,0]
+base1: true, base2: true, base3: true
+Score: 1-0
+
+Noah Key: rng1 = 30 + 9 - 11 + 1 = 29
+rng2 = 88 + 8 - 12 + 1 = 85
+Flyout
+Team 1 pitcher (Josh Hopkins): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 4
+
+Rodolfo Mullen: rng1 = 23 + 13 - 10 - 1 = 25
+Strikeout
+Team 2 pitcher (Conor Randall): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Frankie Bell: rng1 = 29 + 9 - 10 - 1 = 27
+Strikeout
+Team 2 pitcher (Conor Randall): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Enrique Holmes: rng1 = 94 + 6 - 10 - 1 = 89
+Walk
+Team 2 pitcher (Conor Randall): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Marcelo Francis: rng1 = 7 + 12 - 10 - 1 = 8
+Strikeout
+Team 2 pitcher (Conor Randall): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 4
+
+Dexter Stevens: rng1 = 4 + 4 - 11 + 1 = -2
+Strikeout
+Team 1 pitcher (Josh Hopkins): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Ewan Hunt: rng1 = 43 + 6 - 11 + 1 = 39
+rng2 = 95 + 8 - 12 + 1 = 92
+Flyout
+Team 1 pitcher (Josh Hopkins): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Noel Ayers: rng1 = 26 + 6 - 11 + 1 = 22
+Strikeout
+Team 1 pitcher (Josh Hopkins): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 5
+
+Braylon Summers: rng1 = 92 + 6 - 10 - 1 = 87
+Walk
+Team 2 pitcher (Conor Randall): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Leon Watts: rng1 = 75 + 8 - 10 - 1 = 72
+rng2 = 8 + 3 - 9 - 1 = 1
+Single
+Team 2 pitcher (Conor Randall): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 0
+
+base1: [7,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Leo Hawkins: rng1 = 79 + 6 - 10 - 1 = 74
+rng2 = 22 + 4 - 9 - 1 = 16
+Single
+Team 2 pitcher (Conor Randall): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 0
+
+base1: [8,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 2-0
+
+Dylan Marsh: rng1 = 33 + 15 - 10 - 1 = 37
+rng2 = 17 + 15 - 9 - 1 = 22
+Groundout
+Team 2 pitcher (Conor Randall): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 1
+
+base1: false, base2: [8,0], base3: [7,0]
+base1: false, base2: true, base3: true
+Score: 2-0
+
+Rubén Indiano: rng1 = 82 + 14 - 10 - 1 = 85
+rng2 = 77 + 13 - 9 - 1 = 80
+Home run
+Team 2 pitcher (Conor Randall): 20 batters faced, 5 runs allowed = 20 + 12.5 = 32.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Rodolfo Mullen: rng1 = 79 + 13 - 10 - 1 = 81
+rng2 = 31 + 12 - 9 - 1 = 33
+Single
+Team 2 pitcher (Conor Randall): 21 batters faced, 5 runs allowed = 21 + 12.5 = 33.5, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-0
+
+Frankie Bell: rng1 = 99 + 9 - 10 - 1 = 97
+rng2 = 31 + 12 - 9 - 1 = 33
+Single
+Team 2 pitcher (Conor Randall): 22 batters faced, 5 runs allowed = 22 + 12.5 = 34.5, outs: 1
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 5-0
+
+Enrique Holmes: rng1 = 48 + 6 - 10 - 1 = 43
+rng2 = 33 + 9 - 9 - 1 = 32
+Groundout
+Team 2 pitcher (Conor Randall): 23 batters faced, 5 runs allowed = 23 + 12.5 = 35.5, outs: 2
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 5-0
+
+Team 2 pitcher change to Jensen Garrish
+
+Marcelo Francis: rng1 = 91 + 12 - 14 - 1 = 88
+Walk
+Team 2 pitcher (Jensen Garrish): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [5,1], base2: [4,0], base3: [3,0]
+base1: true, base2: true, base3: true
+Score: 5-0
+
+Braylon Summers: rng1 = 95 + 6 - 14 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Jensen Garrish): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: [6,1], base2: [5,1], base3: [4,0]
+base1: true, base2: true, base3: true
+Score: 6-0
+
+Leon Watts: rng1 = 38 + 8 - 14 - 1 = 31
+rng2 = 17 + 3 - 13 - 1 = 6
+Groundout
+Team 2 pitcher (Jensen Garrish): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-0
+
+-----------------------
+
+BOTTOM INNING 5
+
+Dominic Gardner: rng1 = 29 + 5 - 11 + 1 = 24
+Strikeout
+Team 1 pitcher (Josh Hopkins): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-0
+
+David Freixa: rng1 = 55 + 6 - 11 + 1 = 51
+rng2 = 62 + 5 - 12 + 1 = 56
+Lineout
+Team 1 pitcher (Josh Hopkins): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-0
+
+Katagiri Seibei: rng1 = 7 + 6 - 11 + 1 = 3
+Strikeout
+Team 1 pitcher (Josh Hopkins): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-0
+
+-----------------------
+
+TOP INNING 6
+
+Leo Hawkins: rng1 = 65 + 6 - 14 - 1 = 56
+rng2 = 14 + 4 - 13 - 1 = 4
+Groundout
+Team 2 pitcher (Jensen Garrish): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-0
+
+Dylan Marsh: rng1 = 49 + 15 - 14 - 1 = 49
+rng2 = 90 + 15 - 13 - 1 = 91
+Flyout
+Team 2 pitcher (Jensen Garrish): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-0
+
+Rubén Indiano: rng1 = 30 + 14 - 14 - 1 = 29
+rng2 = 83 + 13 - 13 - 1 = 82
+Flyout
+Team 2 pitcher (Jensen Garrish): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-0
+
+-----------------------
+
+BOTTOM INNING 6
+
+Stanley Jackson: rng1 = 80 + 13 - 11 + 1 = 83
+rng2 = 71 + 11 - 12 + 1 = 71
+Double
+Team 1 pitcher (Josh Hopkins): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 0
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 6-0
+
+Andres Fortune: rng1 = 50 + 11 - 11 + 1 = 51
+rng2 = 69 + 11 - 12 + 1 = 69
+Flyout
+Team 1 pitcher (Josh Hopkins): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 6-0
+
+Noah Key: rng1 = 96 + 9 - 11 + 1 = 95
+rng2 = 9 + 8 - 12 + 1 = 6
+Single
+Team 1 pitcher (Josh Hopkins): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-1
+
+Dexter Stevens: rng1 = 98 + 4 - 11 + 1 = 92
+rng2 = 14 + 9 - 12 + 1 = 12
+Single
+Team 1 pitcher (Josh Hopkins): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 1
+
+base1: [3,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 6-1
+
+Ewan Hunt: rng1 = 67 + 6 - 11 + 1 = 63
+rng2 = 32 + 8 - 12 + 1 = 29
+Groundout
+Team 1 pitcher (Josh Hopkins): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Cohen Roman
+
+Rodolfo Mullen: rng1 = 53 + 13 - 14 - 1 = 51
+rng2 = 57 + 12 - 12 - 1 = 56
+Lineout
+Team 2 pitcher (Cohen Roman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Frankie Bell: rng1 = 84 + 9 - 14 - 1 = 78
+rng2 = 41 + 12 - 12 - 1 = 40
+Single
+Team 2 pitcher (Cohen Roman): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [3,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-1
+
+Enrique Holmes: rng1 = 7 + 6 - 14 - 1 = -2
+Strikeout
+Team 2 pitcher (Cohen Roman): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [3,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-1
+
+Marcelo Francis: rng1 = 35 + 12 - 14 - 1 = 32
+rng2 = 67 + 7 - 12 - 1 = 61
+Flyout
+Team 2 pitcher (Cohen Roman): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+BOTTOM INNING 7
+
+Noel Ayers: rng1 = 86 + 6 - 11 + 1 = 82
+rng2 = 84 + 7 - 12 + 1 = 80
+Home run
+Team 1 pitcher (Josh Hopkins): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-2
+
+Dominic Gardner: rng1 = 83 + 5 - 11 + 1 = 78
+rng2 = 69 + 6 - 12 + 1 = 64
+Single
+Team 1 pitcher (Josh Hopkins): 25 batters faced, 2 runs allowed = 25 + 5.0 = 30.0, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-2
+
+David Freixa: rng1 = 75 + 6 - 11 + 1 = 71
+Walk
+Team 1 pitcher (Josh Hopkins): 26 batters faced, 2 runs allowed = 26 + 5.0 = 31.0, outs: 0
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 6-2
+
+Katagiri Seibei: rng1 = 99 + 6 - 11 + 1 = 95
+rng2 = 95 + 5 - 12 + 1 = 89
+Double
+Team 1 pitcher (Josh Hopkins): 27 batters faced, 4 runs allowed = 27 + 10.0 = 37.0, outs: 0
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 6-4
+
+Team 1 pitcher change to Jackson Peck
+
+Stanley Jackson: rng1 = 20 + 13 - 10 + 1 = 24
+Strikeout
+Team 1 pitcher (Jackson Peck): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 6-4
+
+Andres Fortune: rng1 = 95 + 11 - 10 + 1 = 97
+rng2 = 57 + 11 - 7 + 1 = 62
+Single
+Team 1 pitcher (Jackson Peck): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-5
+
+Noah Key: rng1 = 28 + 9 - 10 + 1 = 28
+rng2 = 97 + 8 - 7 + 1 = 99
+Flyout
+Team 1 pitcher (Jackson Peck): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-5
+
+Dexter Stevens: rng1 = 90 + 4 - 10 + 1 = 85
+rng2 = 91 + 9 - 7 + 1 = 94
+Home run
+Team 1 pitcher (Jackson Peck): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-7
+
+Ewan Hunt: rng1 = 79 + 6 - 10 + 1 = 76
+rng2 = 73 + 8 - 7 + 1 = 75
+Double
+Team 1 pitcher (Jackson Peck): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: false, base2: [4,1], base3: false
+base1: false, base2: true, base3: false
+Score: 6-7
+
+Noel Ayers: rng1 = 63 + 6 - 10 + 1 = 60
+rng2 = 9 + 7 - 7 + 1 = 10
+Groundout
+Team 1 pitcher (Jackson Peck): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-7
+
+-----------------------
+
+TOP INNING 8
+
+Braylon Summers: rng1 = 30 + 6 - 14 - 1 = 21
+Strikeout
+Team 2 pitcher (Cohen Roman): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-7
+
+Leon Watts: rng1 = 84 + 8 - 14 - 1 = 77
+rng2 = 35 + 3 - 12 - 1 = 25
+Single
+Team 2 pitcher (Cohen Roman): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-7
+
+Leo Hawkins: rng1 = 53 + 6 - 14 - 1 = 44
+rng2 = 50 + 4 - 12 - 1 = 41
+Groundout
+Team 2 pitcher (Cohen Roman): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-7
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Ripley Sjostrand
+
+Dominic Gardner: rng1 = 74 + 5 - 12 + 1 = 68
+rng2 = 70 + 6 - 9 + 1 = 68
+Flyout
+Team 1 pitcher (Ripley Sjostrand): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-7
+
+David Freixa: rng1 = 54 + 6 - 12 + 1 = 49
+rng2 = 81 + 5 - 9 + 1 = 78
+Flyout
+Team 1 pitcher (Ripley Sjostrand): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-7
+
+Katagiri Seibei: rng1 = 20 + 6 - 12 + 1 = 15
+rng2 = 85 + 5 - 9 + 1 = 82
+Flyout
+Team 1 pitcher (Ripley Sjostrand): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-7
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Phoenix Deleon
+
+Dylan Marsh: rng1 = 80 + 15 - 15 - 1 = 79
+rng2 = 46 + 15 - 14 - 1 = 46
+Single
+Team 2 pitcher (Phoenix Deleon): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-7
+
+Rubén Indiano: rng1 = 61 + 14 - 15 - 1 = 59
+rng2 = 50 + 13 - 14 - 1 = 48
+Lineout
+Team 2 pitcher (Phoenix Deleon): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-7
+
+Rodolfo Mullen: rng1 = 81 + 13 - 15 - 1 = 78
+rng2 = 10 + 12 - 14 - 1 = 7
+Single
+Team 2 pitcher (Phoenix Deleon): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,4], base2: false, base3: [0,4]
+base1: true, base2: false, base3: true
+Score: 6-7
+
+Frankie Bell: rng1 = 44 + 9 - 15 - 1 = 37
+rng2 = 86 + 12 - 14 - 1 = 83
+Flyout
+Team 2 pitcher (Phoenix Deleon): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [2,4], base2: false, base3: [0,4]
+base1: true, base2: false, base3: true
+Score: 6-7
+
+Enrique Holmes: rng1 = 81 + 6 - 15 - 1 = 71
+Walk
+Team 2 pitcher (Phoenix Deleon): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: [4,4], base2: [2,4], base3: [0,4]
+base1: true, base2: true, base3: true
+Score: 6-7
+
+Marcelo Francis: rng1 = 67 + 12 - 15 - 1 = 63
+rng2 = 97 + 7 - 14 - 1 = 89
+Flyout
+Team 2 pitcher (Phoenix Deleon): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-7
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 10
+Team 2 hits: 10
+Team 1 runs: 6
+Team 2 runs: 7
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-09-20
+Dylan Marsh	5	1	2	0	0	1	1	0	0					San Antonio
+Rubén Indiano	5	1	1	0	0	1	3	0	1	
+Rodolfo Mullen	5	0	2	0	0	0	0	0	1	
+Frankie Bell	5	1	2	0	0	0	0	0	2	
+Enrique Holmes	3	0	0	0	0	0	0	2	1	
+Marcelo Francis	3	0	0	0	0	0	0	2	1	
+Braylon Summers	2	1	0	0	0	0	1	1	1	
+Leon Watts	4	1	2	0	0	0	0	0	0	
+Leo Hawkins	4	1	1	0	0	0	1	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Josh Hopkins	0	0	1	1	0	0	18	7	5	1	3	4	27	
+Jackson Peck	0	1	1	0	0	0	3	3	2	1	0	1	6	
+Ripley Sjostrand	0	0	1	0	0	0	3	0	0	0	0	0	3	
+Lucas Gardner	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Sakai Tsuneo	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-09-20
+Stanley Jackson	4	1	1	1	0	0	0	0	1					Kansas City
+Andres Fortune	4	1	1	0	0	0	1	0	0	
+Noah Key	4	0	1	0	0	0	1	0	0	
+Dexter Stevens	4	1	2	0	0	1	2	0	1	
+Ewan Hunt	4	0	1	1	0	0	0	0	0	
+Noel Ayers	4	1	1	0	0	1	1	0	1	
+Dominic Gardner	3	1	1	0	0	0	0	1	1	
+David Freixa	2	1	0	0	0	0	0	2	0	
+Katagiri Seibei	4	1	2	1	0	0	2	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Conor Randall	0	0	1	1	0	0	14	6	6	2	3	6	23	
+Jensen Garrish	0	0	1	0	0	0	4	0	0	0	1	0	6	
+Cohen Roman	1	0	1	0	0	0	6	2	0	0	0	2	7	
+Aden Lowery	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Phoenix Deleon	0	0	1	0	1	1	3	2	0	0	1	0	6	

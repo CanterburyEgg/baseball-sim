@@ -1,0 +1,797 @@
+TOP INNING 1
+
+Ethan Murphy: rng1 = 26 + 7 - 15 - 1 = 17
+Strikeout
+Team 2 pitcher (D'Mario Morgan): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Irvin Brown: rng1 = 9 + 7 - 15 - 1 = 0
+Strikeout
+Team 2 pitcher (D'Mario Morgan): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Luis Canales: rng1 = 39 + 6 - 15 - 1 = 29
+rng2 = 26 + 7 - 15 - 1 = 17
+Groundout
+Team 2 pitcher (D'Mario Morgan): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Ashton Martin: rng1 = 77 + 15 - 7 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Demetrius Middleton): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Bradley Murphy: rng1 = 70 + 11 - 7 + 1 = 75
+rng2 = 41 + 11 - 4 + 1 = 49
+Single
+Team 1 pitcher (Demetrius Middleton): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Caden Beckett: rng1 = 77 + 11 - 7 + 1 = 82
+rng2 = 67 + 6 - 4 + 1 = 70
+Double
+Team 1 pitcher (Demetrius Middleton): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 0
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-2
+
+Joel Arboleda: rng1 = 11 + 8 - 7 + 1 = 13
+rng2 = 45 + 10 - 4 + 1 = 52
+Lineout
+Team 1 pitcher (Demetrius Middleton): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-2
+
+Yodogawa Shosuke: rng1 = 36 + 9 - 7 + 1 = 39
+rng2 = 7 + 9 - 4 + 1 = 13
+Groundout
+Team 1 pitcher (Demetrius Middleton): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-2
+
+Quinell McDaniel: rng1 = 77 + 6 - 7 + 1 = 77
+rng2 = 61 + 9 - 4 + 1 = 67
+Double
+Team 1 pitcher (Demetrius Middleton): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-3
+
+Alonso Welch: rng1 = 28 + 7 - 7 + 1 = 29
+rng2 = 62 + 5 - 4 + 1 = 64
+Flyout
+Team 1 pitcher (Demetrius Middleton): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+TOP INNING 2
+
+Javier Guillén: rng1 = 100 + 5 - 15 - 1 = 89
+Walk
+Team 2 pitcher (D'Mario Morgan): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Jon Williamson: rng1 = 73 + 4 - 15 - 1 = 61
+rng2 = 22 + 7 - 15 - 1 = 13
+Groundout
+Team 2 pitcher (D'Mario Morgan): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Benito Maroto: rng1 = 91 + 5 - 15 - 1 = 80
+rng2 = 95 + 6 - 15 - 1 = 85
+Home run
+Team 2 pitcher (D'Mario Morgan): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Tyler Johnston: rng1 = 89 + 6 - 15 - 1 = 79
+rng2 = 19 + 5 - 15 - 1 = 8
+Single
+Team 2 pitcher (D'Mario Morgan): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Alfonso Manzanedo: rng1 = 90 + 4 - 15 - 1 = 78
+rng2 = 22 + 6 - 15 - 1 = 12
+Single
+Team 2 pitcher (D'Mario Morgan): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [7,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 1-3
+
+Jesús Alarcón: rng1 = 75 + 4 - 15 - 1 = 63
+rng2 = 50 + 6 - 15 - 1 = 40
+Groundout
+Team 2 pitcher (D'Mario Morgan): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+BOTTOM INNING 2
+
+Chwa Jung-Su: rng1 = 100 + 7 - 7 + 1 = 101
+rng2 = 84 + 4 - 4 + 1 = 85
+Home run
+Team 1 pitcher (Demetrius Middleton): 8 batters faced, 4 runs allowed = 8 + 10.0 = 18.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Ethan Clarke: rng1 = 90 + 5 - 7 + 1 = 89
+Walk
+Team 1 pitcher (Demetrius Middleton): 9 batters faced, 4 runs allowed = 9 + 10.0 = 19.0, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Ashton Martin: rng1 = 74 + 15 - 7 + 1 = 83
+rng2 = 16 + 13 - 4 + 1 = 26
+Single
+Team 1 pitcher (Demetrius Middleton): 10 batters faced, 4 runs allowed = 10 + 10.0 = 20.0, outs: 0
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-4
+
+Bradley Murphy: rng1 = 51 + 11 - 7 + 1 = 56
+rng2 = 35 + 11 - 4 + 1 = 43
+Groundout
+Team 1 pitcher (Demetrius Middleton): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 2
+
+base1: false, base2: false, base3: [8,0]
+base1: false, base2: false, base3: true
+Score: 1-4
+
+Caden Beckett: rng1 = 16 + 11 - 7 + 1 = 21
+Strikeout
+Team 1 pitcher (Demetrius Middleton): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+TOP INNING 3
+
+Ethan Murphy: rng1 = 47 + 7 - 15 - 1 = 38
+rng2 = 95 + 4 - 15 - 1 = 83
+Flyout
+Team 2 pitcher (D'Mario Morgan): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Irvin Brown: rng1 = 19 + 7 - 15 - 1 = 10
+Strikeout
+Team 2 pitcher (D'Mario Morgan): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Luis Canales: rng1 = 90 + 6 - 15 - 1 = 80
+rng2 = 88 + 7 - 15 - 1 = 79
+Home run
+Team 2 pitcher (D'Mario Morgan): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Javier Guillén: rng1 = 100 + 5 - 15 - 1 = 89
+Walk
+Team 2 pitcher (D'Mario Morgan): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-4
+
+Jon Williamson: rng1 = 81 + 4 - 15 - 1 = 69
+Walk
+Team 2 pitcher (D'Mario Morgan): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 2
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-4
+
+Benito Maroto: rng1 = 95 + 5 - 15 - 1 = 84
+rng2 = 93 + 6 - 15 - 1 = 83
+Home run
+Team 2 pitcher (D'Mario Morgan): 15 batters faced, 5 runs allowed = 15 + 12.5 = 27.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Tyler Johnston: rng1 = 100 + 6 - 15 - 1 = 90
+Walk
+Team 2 pitcher (D'Mario Morgan): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-4
+
+Alfonso Manzanedo: rng1 = 2 + 4 - 15 - 1 = -10
+Strikeout
+Team 2 pitcher (D'Mario Morgan): 17 batters faced, 5 runs allowed = 17 + 12.5 = 29.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-4
+
+-----------------------
+
+BOTTOM INNING 3
+
+Joel Arboleda: rng1 = 32 + 8 - 7 + 1 = 34
+rng2 = 78 + 10 - 4 + 1 = 85
+Flyout
+Team 1 pitcher (Demetrius Middleton): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Yodogawa Shosuke: rng1 = 97 + 9 - 7 + 1 = 100
+rng2 = 31 + 9 - 4 + 1 = 37
+Single
+Team 1 pitcher (Demetrius Middleton): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-4
+
+Quinell McDaniel: rng1 = 80 + 6 - 7 + 1 = 80
+rng2 = 95 + 9 - 4 + 1 = 101
+Home run
+Team 1 pitcher (Demetrius Middleton): 15 batters faced, 6 runs allowed = 15 + 15.0 = 30.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-6
+
+Alonso Welch: rng1 = 10 + 7 - 7 + 1 = 11
+rng2 = 75 + 5 - 4 + 1 = 77
+Flyout
+Team 1 pitcher (Demetrius Middleton): 16 batters faced, 6 runs allowed = 16 + 15.0 = 31.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-6
+
+Chwa Jung-Su: rng1 = 24 + 7 - 7 + 1 = 25
+Strikeout
+Team 1 pitcher (Demetrius Middleton): 17 batters faced, 6 runs allowed = 17 + 15.0 = 32.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-6
+
+-----------------------
+
+TOP INNING 4
+
+Team 2 pitcher change to Jason Francisco
+
+Jesús Alarcón: rng1 = 24 + 4 - 8 - 1 = 19
+Strikeout
+Team 2 pitcher (Jason Francisco): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-6
+
+Ethan Murphy: rng1 = 89 + 7 - 8 - 1 = 87
+Walk
+Team 2 pitcher (Jason Francisco): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-6
+
+Irvin Brown: rng1 = 25 + 7 - 8 - 1 = 23
+Strikeout
+Team 2 pitcher (Jason Francisco): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-6
+
+Luis Canales: rng1 = 97 + 6 - 8 - 1 = 94
+rng2 = 77 + 7 - 7 - 1 = 76
+Double
+Team 2 pitcher (Jason Francisco): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: [2,1], base3: [0,1]
+base1: false, base2: true, base3: true
+Score: 5-6
+
+Javier Guillén: rng1 = 56 + 5 - 8 - 1 = 52
+rng2 = 19 + 7 - 7 - 1 = 18
+Groundout
+Team 2 pitcher (Jason Francisco): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-6
+
+-----------------------
+
+BOTTOM INNING 4
+
+Team 1 pitcher change to Logan Rogers
+
+Ethan Clarke: rng1 = 98 + 5 - 8 + 1 = 96
+rng2 = 53 + 5 - 5 + 1 = 54
+Single
+Team 1 pitcher (Logan Rogers): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-6
+
+Ashton Martin: rng1 = 10 + 15 - 8 + 1 = 18
+Strikeout
+Team 1 pitcher (Logan Rogers): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-6
+
+Bradley Murphy: rng1 = 3 + 11 - 8 + 1 = 7
+Strikeout
+Team 1 pitcher (Logan Rogers): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-6
+
+Caden Beckett: rng1 = 16 + 11 - 8 + 1 = 20
+Strikeout
+Team 1 pitcher (Logan Rogers): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-6
+
+-----------------------
+
+TOP INNING 5
+
+Team 2 pitcher change to Amed Romeo
+
+Jon Williamson: rng1 = 2 + 4 - 7 - 1 = -2
+Strikeout
+Team 2 pitcher (Amed Romeo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-6
+
+Benito Maroto: rng1 = 44 + 5 - 7 - 1 = 41
+rng2 = 80 + 6 - 8 - 1 = 77
+Flyout
+Team 2 pitcher (Amed Romeo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-6
+
+Tyler Johnston: rng1 = 59 + 6 - 7 - 1 = 57
+rng2 = 17 + 5 - 8 - 1 = 13
+Groundout
+Team 2 pitcher (Amed Romeo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-6
+
+-----------------------
+
+BOTTOM INNING 5
+
+Joel Arboleda: rng1 = 37 + 8 - 8 + 1 = 38
+rng2 = 65 + 10 - 5 + 1 = 71
+Flyout
+Team 1 pitcher (Logan Rogers): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-6
+
+Yodogawa Shosuke: rng1 = 86 + 9 - 8 + 1 = 88
+Walk
+Team 1 pitcher (Logan Rogers): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-6
+
+Quinell McDaniel: rng1 = 90 + 6 - 8 + 1 = 89
+Walk
+Team 1 pitcher (Logan Rogers): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [5,1], base2: [4,1], base3: false
+base1: true, base2: true, base3: false
+Score: 5-6
+
+Alonso Welch: rng1 = 32 + 7 - 8 + 1 = 32
+rng2 = 6 + 5 - 5 + 1 = 7
+Groundout
+Team 1 pitcher (Logan Rogers): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [6,1], base2: false, base3: [4,1]
+base1: true, base2: false, base3: true
+Score: 5-6
+
+Chwa Jung-Su: rng1 = 84 + 7 - 8 + 1 = 84
+rng2 = 93 + 4 - 5 + 1 = 93
+Triple
+Team 1 pitcher (Logan Rogers): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 2
+
+base1: false, base2: false, base3: [7,1]
+base1: false, base2: false, base3: true
+Score: 5-8
+
+Team 1 pitcher change to Reed Winters
+
+Ethan Clarke: rng1 = 2 + 5 - 8 + 1 = 0
+Strikeout
+Team 1 pitcher (Reed Winters): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-8
+
+-----------------------
+
+TOP INNING 6
+
+Alfonso Manzanedo: rng1 = 41 + 4 - 7 - 1 = 37
+rng2 = 21 + 6 - 8 - 1 = 18
+Groundout
+Team 2 pitcher (Amed Romeo): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-8
+
+Jesús Alarcón: rng1 = 74 + 4 - 7 - 1 = 70
+Walk
+Team 2 pitcher (Amed Romeo): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-8
+
+Ethan Murphy: rng1 = 59 + 7 - 7 - 1 = 58
+rng2 = 65 + 4 - 8 - 1 = 60
+Flyout
+Team 2 pitcher (Amed Romeo): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-8
+
+Irvin Brown: rng1 = 27 + 7 - 7 - 1 = 26
+Strikeout
+Team 2 pitcher (Amed Romeo): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-8
+
+-----------------------
+
+BOTTOM INNING 6
+
+Ashton Martin: rng1 = 92 + 15 - 8 + 1 = 100
+rng2 = 1 + 13 - 6 + 1 = 9
+Single
+Team 1 pitcher (Reed Winters): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [0,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-8
+
+Bradley Murphy: rng1 = 41 + 11 - 8 + 1 = 45
+rng2 = 12 + 11 - 6 + 1 = 18
+Groundout
+Team 1 pitcher (Reed Winters): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-8
+
+Caden Beckett: rng1 = 69 + 11 - 8 + 1 = 73
+rng2 = 69 + 6 - 6 + 1 = 70
+Double
+Team 1 pitcher (Reed Winters): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: false, base2: [2,2], base3: false
+base1: false, base2: true, base3: false
+Score: 5-9
+
+Joel Arboleda: rng1 = 75 + 8 - 8 + 1 = 76
+rng2 = 89 + 10 - 6 + 1 = 94
+Home run
+Team 1 pitcher (Reed Winters): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-11
+
+Yodogawa Shosuke: rng1 = 52 + 9 - 8 + 1 = 54
+rng2 = 94 + 9 - 6 + 1 = 98
+Flyout
+Team 1 pitcher (Reed Winters): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-11
+
+Team 1 pitcher change to William Sheppard
+
+Quinell McDaniel: rng1 = 8 + 6 - 7 + 1 = 8
+Strikeout
+Team 1 pitcher (William Sheppard): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-11
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Ezequiel Abrogado
+
+Luis Canales: rng1 = 75 + 6 - 7 - 1 = 73
+rng2 = 87 + 7 - 6 - 1 = 87
+Double
+Team 2 pitcher (Ezequiel Abrogado): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [2,3], base3: false
+base1: false, base2: true, base3: false
+Score: 5-11
+
+Javier Guillén: rng1 = 37 + 5 - 7 - 1 = 34
+rng2 = 43 + 7 - 6 - 1 = 43
+Groundout
+Team 2 pitcher (Ezequiel Abrogado): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: [2,3]
+base1: false, base2: false, base3: true
+Score: 5-11
+
+Jon Williamson: rng1 = 70 + 4 - 7 - 1 = 66
+rng2 = 85 + 7 - 6 - 1 = 85
+Flyout
+Team 2 pitcher (Ezequiel Abrogado): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-11
+
+Benito Maroto: rng1 = 22 + 5 - 7 - 1 = 19
+Strikeout
+Team 2 pitcher (Ezequiel Abrogado): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-11
+
+-----------------------
+
+BOTTOM INNING 7
+
+Alonso Welch: rng1 = 67 + 7 - 7 + 1 = 68
+rng2 = 26 + 5 - 5 + 1 = 27
+Groundout
+Team 1 pitcher (William Sheppard): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-11
+
+Chwa Jung-Su: rng1 = 13 + 7 - 7 + 1 = 14
+rng2 = 23 + 4 - 5 + 1 = 23
+Groundout
+Team 1 pitcher (William Sheppard): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-11
+
+Ethan Clarke: rng1 = 67 + 5 - 7 + 1 = 66
+rng2 = 74 + 5 - 5 + 1 = 75
+Flyout
+Team 1 pitcher (William Sheppard): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-11
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Calvin Hogan
+
+Tyler Johnston: rng1 = 40 + 6 - 8 - 1 = 37
+rng2 = 30 + 5 - 9 - 1 = 25
+Groundout
+Team 2 pitcher (Calvin Hogan): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-11
+
+Alfonso Manzanedo: rng1 = 29 + 4 - 8 - 1 = 24
+Strikeout
+Team 2 pitcher (Calvin Hogan): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-11
+
+Jesús Alarcón: rng1 = 63 + 4 - 8 - 1 = 58
+rng2 = 4 + 6 - 9 - 1 = 0
+Groundout
+Team 2 pitcher (Calvin Hogan): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-11
+
+-----------------------
+
+BOTTOM INNING 8
+
+Ashton Martin: rng1 = 36 + 15 - 7 + 1 = 45
+rng2 = 49 + 13 - 5 + 1 = 58
+Lineout
+Team 1 pitcher (William Sheppard): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-11
+
+Bradley Murphy: rng1 = 24 + 11 - 7 + 1 = 29
+rng2 = 63 + 11 - 5 + 1 = 70
+Flyout
+Team 1 pitcher (William Sheppard): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-11
+
+Caden Beckett: rng1 = 97 + 11 - 7 + 1 = 102
+rng2 = 43 + 6 - 5 + 1 = 45
+Single
+Team 1 pitcher (William Sheppard): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [2,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-11
+
+Joel Arboleda: rng1 = 63 + 8 - 7 + 1 = 65
+rng2 = 56 + 10 - 5 + 1 = 62
+Flyout
+Team 1 pitcher (William Sheppard): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-11
+
+-----------------------
+
+TOP INNING 9
+
+Ethan Murphy: rng1 = 94 + 7 - 8 - 1 = 92
+rng2 = 68 + 4 - 9 - 1 = 62
+Single
+Team 2 pitcher (Calvin Hogan): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [0,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-11
+
+Irvin Brown: rng1 = 17 + 7 - 8 - 1 = 15
+rng2 = 89 + 4 - 9 - 1 = 83
+Flyout
+Team 2 pitcher (Calvin Hogan): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [0,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-11
+
+Luis Canales: rng1 = 10 + 6 - 8 - 1 = 7
+Strikeout
+Team 2 pitcher (Calvin Hogan): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [0,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-11
+
+Javier Guillén: rng1 = 10 + 5 - 8 - 1 = 6
+Strikeout
+Team 2 pitcher (Calvin Hogan): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-11
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 8
+Team 2 hits: 13
+Team 1 runs: 6
+Team 2 runs: 11
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-10-02
+Ethan Murphy	4	0	1	0	0	0	0	1	1					Tampa Bay
+Irvin Brown	5	0	0	0	0	0	0	0	4	
+Luis Canales	5	2	3	2	0	1	1	0	1	
+Javier Guillén	3	1	0	0	0	0	0	2	1	
+Jon Williamson	3	1	0	0	0	0	1	1	1	
+Benito Maroto	4	2	2	0	0	2	4	0	1	
+Tyler Johnston	3	0	1	0	0	0	0	1	0	
+Alfonso Manzanedo	4	0	1	0	0	0	0	0	2	
+Jesús Alarcón	3	0	0	0	0	0	0	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Demetrius Middleton	0	1	1	1	0	0	9	7	6	2	1	2	17	
+Logan Rogers	0	0	1	0	0	0	5	2	2	0	2	3	9	
+Reed Winters	0	0	1	0	0	0	3	3	3	1	0	1	6	
+William Sheppard	0	0	1	0	0	0	7	1	0	0	0	1	8	
+Boone Almas	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-10-02
+Ashton Martin	4	1	2	0	0	0	0	0	1					Los Angeles
+Bradley Murphy	5	2	1	0	0	0	0	0	1	
+Caden Beckett	5	2	3	2	0	0	3	0	2	
+Joel Arboleda	5	1	1	0	0	1	2	0	0	
+Yodogawa Shosuke	3	2	1	0	0	0	0	1	0	
+Quinell McDaniel	3	1	2	1	0	1	3	1	1	
+Alonso Welch	4	1	0	0	0	0	0	0	0	
+Chwa Jung-Su	4	1	2	0	1	1	3	0	1	
+Ethan Clarke	3	0	1	0	0	0	0	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+D'Mario Morgan	1	0	1	1	0	0	9	5	5	3	4	4	17	
+Jason Francisco	0	0	1	0	0	0	3	1	0	0	1	2	5	
+Amed Romeo	0	0	1	0	0	0	6	0	0	0	1	2	7	
+Ezequiel Abrogado	0	0	1	0	0	0	3	1	1	0	0	1	4	
+Calvin Hogan	0	0	1	0	0	0	6	1	0	0	0	3	7	

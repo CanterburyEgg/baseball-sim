@@ -1,0 +1,883 @@
+TOP INNING 1
+
+Cody McCarthy: rng1 = 4 + 14 - 12 - 1 = 5
+Strikeout
+Team 2 pitcher (Ricardo Canseco): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Joseph Thayer: rng1 = 22 + 14 - 12 - 1 = 23
+Strikeout
+Team 2 pitcher (Ricardo Canseco): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Randall Hodge: rng1 = 61 + 14 - 12 - 1 = 62
+rng2 = 33 + 8 - 12 - 1 = 28
+Groundout
+Team 2 pitcher (Ricardo Canseco): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Liam Green: rng1 = 77 + 14 - 13 + 1 = 79
+rng2 = 34 + 13 - 13 + 1 = 35
+Single
+Team 1 pitcher (Christian Galán): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Henry Webb: rng1 = 58 + 13 - 13 + 1 = 59
+rng2 = 87 + 13 - 13 + 1 = 88
+Flyout
+Team 1 pitcher (Christian Galán): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Yaniel Benitez: rng1 = 32 + 10 - 13 + 1 = 30
+rng2 = 70 + 14 - 13 + 1 = 72
+Flyout
+Team 1 pitcher (Christian Galán): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Isaac Correa: rng1 = 91 + 10 - 13 + 1 = 89
+Walk
+Team 1 pitcher (Christian Galán): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [3,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Watabe Kazuyuki: rng1 = 6 + 7 - 13 + 1 = 1
+Strikeout
+Team 1 pitcher (Christian Galán): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Reuben Sutton: rng1 = 18 + 13 - 12 - 1 = 18
+Strikeout
+Team 2 pitcher (Ricardo Canseco): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Dante Leoz: rng1 = 20 + 13 - 12 - 1 = 20
+Strikeout
+Team 2 pitcher (Ricardo Canseco): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Caden Bryan: rng1 = 77 + 7 - 12 - 1 = 71
+Walk
+Team 2 pitcher (Ricardo Canseco): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Jorge Donald: rng1 = 44 + 3 - 12 - 1 = 34
+rng2 = 54 + 7 - 12 - 1 = 48
+Lineout
+Team 2 pitcher (Ricardo Canseco): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Iker Pareja: rng1 = 11 + 10 - 13 + 1 = 9
+Strikeout
+Team 1 pitcher (Christian Galán): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Romiro Hidalgo: rng1 = 24 + 6 - 13 + 1 = 18
+Strikeout
+Team 1 pitcher (Christian Galán): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Andrew Turner: rng1 = 81 + 4 - 13 + 1 = 73
+rng2 = 61 + 7 - 13 + 1 = 56
+Single
+Team 1 pitcher (Christian Galán): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Leon Fraser: rng1 = 6 + 4 - 13 + 1 = -2
+Strikeout
+Team 1 pitcher (Christian Galán): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 3
+
+Kyle Murphy: rng1 = 28 + 6 - 12 - 1 = 21
+Strikeout
+Team 2 pitcher (Ricardo Canseco): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Esteban Obregón: rng1 = 66 + 6 - 12 - 1 = 59
+rng2 = 4 + 4 - 12 - 1 = -5
+Groundout
+Team 2 pitcher (Ricardo Canseco): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Cody McCarthy: rng1 = 45 + 14 - 12 - 1 = 46
+rng2 = 62 + 11 - 12 - 1 = 60
+Flyout
+Team 2 pitcher (Ricardo Canseco): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Liam Green: rng1 = 99 + 14 - 13 + 1 = 101
+rng2 = 96 + 13 - 13 + 1 = 97
+Home run
+Team 1 pitcher (Christian Galán): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Henry Webb: rng1 = 41 + 13 - 13 + 1 = 42
+rng2 = 5 + 13 - 13 + 1 = 6
+Groundout
+Team 1 pitcher (Christian Galán): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Yaniel Benitez: rng1 = 47 + 10 - 13 + 1 = 45
+rng2 = 5 + 14 - 13 + 1 = 7
+Groundout
+Team 1 pitcher (Christian Galán): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Isaac Correa: rng1 = 43 + 10 - 13 + 1 = 41
+rng2 = 77 + 11 - 13 + 1 = 76
+Flyout
+Team 1 pitcher (Christian Galán): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 4
+
+Joseph Thayer: rng1 = 87 + 14 - 12 - 1 = 88
+Walk
+Team 2 pitcher (Ricardo Canseco): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Randall Hodge: rng1 = 84 + 14 - 12 - 1 = 85
+rng2 = 95 + 8 - 12 - 1 = 90
+Double
+Team 2 pitcher (Ricardo Canseco): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 0
+
+base1: false, base2: [2,0], base3: [1,0]
+base1: false, base2: true, base3: true
+Score: 0-1
+
+Reuben Sutton: rng1 = 91 + 13 - 12 - 1 = 91
+rng2 = 67 + 13 - 12 - 1 = 67
+Double
+Team 2 pitcher (Ricardo Canseco): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 0
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-1
+
+Dante Leoz: rng1 = 33 + 13 - 12 - 1 = 33
+rng2 = 65 + 13 - 12 - 1 = 65
+Flyout
+Team 2 pitcher (Ricardo Canseco): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 1
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-1
+
+Caden Bryan: rng1 = 15 + 7 - 12 - 1 = 9
+Strikeout
+Team 2 pitcher (Ricardo Canseco): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 2
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-1
+
+Jorge Donald: rng1 = 98 + 3 - 12 - 1 = 88
+Walk
+Team 2 pitcher (Ricardo Canseco): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 2
+
+base1: [6,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-1
+
+Kyle Murphy: rng1 = 90 + 6 - 12 - 1 = 83
+rng2 = 75 + 4 - 12 - 1 = 66
+Double
+Team 2 pitcher (Ricardo Canseco): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 2
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-1
+
+Esteban Obregón: rng1 = 46 + 6 - 12 - 1 = 39
+rng2 = 12 + 4 - 12 - 1 = 3
+Groundout
+Team 2 pitcher (Ricardo Canseco): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Watabe Kazuyuki: rng1 = 99 + 7 - 13 + 1 = 94
+rng2 = 41 + 10 - 13 + 1 = 39
+Single
+Team 1 pitcher (Christian Galán): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-1
+
+Iker Pareja: rng1 = 81 + 10 - 13 + 1 = 79
+rng2 = 3 + 7 - 13 + 1 = -2
+Single
+Team 1 pitcher (Christian Galán): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 0
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 4-1
+
+Romiro Hidalgo: rng1 = 45 + 6 - 13 + 1 = 39
+rng2 = 62 + 6 - 13 + 1 = 56
+Lineout
+Team 1 pitcher (Christian Galán): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 1
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 4-1
+
+Andrew Turner: rng1 = 98 + 4 - 13 + 1 = 90
+Walk
+Team 1 pitcher (Christian Galán): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 1
+
+base1: [7,0], base2: [5,0], base3: [4,0]
+base1: true, base2: true, base3: true
+Score: 4-1
+
+Leon Fraser: rng1 = 71 + 4 - 13 + 1 = 63
+rng2 = 81 + 6 - 13 + 1 = 75
+Flyout
+Team 1 pitcher (Christian Galán): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 2
+
+base1: [7,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 4-2
+
+Liam Green: rng1 = 57 + 14 - 13 + 1 = 59
+rng2 = 65 + 13 - 13 + 1 = 66
+Flyout
+Team 1 pitcher (Christian Galán): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-2
+
+-----------------------
+
+TOP INNING 5
+
+Cody McCarthy: rng1 = 84 + 14 - 12 - 1 = 85
+rng2 = 22 + 11 - 12 - 1 = 20
+Single
+Team 2 pitcher (Ricardo Canseco): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-2
+
+Joseph Thayer: rng1 = 9 + 14 - 12 - 1 = 10
+Strikeout
+Team 2 pitcher (Ricardo Canseco): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-2
+
+Randall Hodge: rng1 = 96 + 14 - 12 - 1 = 97
+rng2 = 11 + 8 - 12 - 1 = 6
+Single
+Team 2 pitcher (Ricardo Canseco): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 1
+
+base1: [2,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 4-2
+
+Reuben Sutton: rng1 = 94 + 13 - 12 - 1 = 94
+rng2 = 64 + 13 - 12 - 1 = 64
+Single
+Team 2 pitcher (Ricardo Canseco): 22 batters faced, 5 runs allowed = 22 + 12.5 = 34.5, outs: 1
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 5-2
+
+Dante Leoz: rng1 = 4 + 13 - 12 - 1 = 4
+Strikeout
+Team 2 pitcher (Ricardo Canseco): 23 batters faced, 5 runs allowed = 23 + 12.5 = 35.5, outs: 2
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 5-2
+
+Team 2 pitcher change to Jacobo Pozo
+
+Caden Bryan: rng1 = 36 + 7 - 9 - 1 = 33
+rng2 = 32 + 13 - 11 - 1 = 33
+Groundout
+Team 2 pitcher (Jacobo Pozo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-2
+
+-----------------------
+
+BOTTOM INNING 5
+
+Henry Webb: rng1 = 73 + 13 - 13 + 1 = 74
+rng2 = 19 + 13 - 13 + 1 = 20
+Single
+Team 1 pitcher (Christian Galán): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-2
+
+Yaniel Benitez: rng1 = 24 + 10 - 13 + 1 = 22
+Strikeout
+Team 1 pitcher (Christian Galán): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-2
+
+Isaac Correa: rng1 = 20 + 10 - 13 + 1 = 18
+Strikeout
+Team 1 pitcher (Christian Galán): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-2
+
+Watabe Kazuyuki: rng1 = 12 + 7 - 13 + 1 = 7
+Strikeout
+Team 1 pitcher (Christian Galán): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-2
+
+-----------------------
+
+TOP INNING 6
+
+Jorge Donald: rng1 = 78 + 3 - 9 - 1 = 71
+Walk
+Team 2 pitcher (Jacobo Pozo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-2
+
+Kyle Murphy: rng1 = 71 + 6 - 9 - 1 = 67
+rng2 = 86 + 4 - 11 - 1 = 78
+Flyout
+Team 2 pitcher (Jacobo Pozo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-2
+
+Esteban Obregón: rng1 = 91 + 6 - 9 - 1 = 87
+Walk
+Team 2 pitcher (Jacobo Pozo): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [8,1], base2: [6,1], base3: false
+base1: true, base2: true, base3: false
+Score: 5-2
+
+Cody McCarthy: rng1 = 22 + 14 - 9 - 1 = 26
+Strikeout
+Team 2 pitcher (Jacobo Pozo): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: [8,1], base2: [6,1], base3: false
+base1: true, base2: true, base3: false
+Score: 5-2
+
+Joseph Thayer: rng1 = 11 + 14 - 9 - 1 = 15
+rng2 = 93 + 9 - 11 - 1 = 90
+Flyout
+Team 2 pitcher (Jacobo Pozo): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-2
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Ian Berg
+
+Iker Pareja: rng1 = 96 + 10 - 11 + 1 = 96
+rng2 = 90 + 7 - 11 + 1 = 87
+Double
+Team 1 pitcher (Ian Berg): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [5,1], base3: false
+base1: false, base2: true, base3: false
+Score: 5-2
+
+Romiro Hidalgo: rng1 = 40 + 6 - 11 + 1 = 36
+rng2 = 72 + 6 - 11 + 1 = 68
+Flyout
+Team 1 pitcher (Ian Berg): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [5,1], base3: false
+base1: false, base2: true, base3: false
+Score: 5-2
+
+Andrew Turner: rng1 = 28 + 4 - 11 + 1 = 22
+Strikeout
+Team 1 pitcher (Ian Berg): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [5,1], base3: false
+base1: false, base2: true, base3: false
+Score: 5-2
+
+Leon Fraser: rng1 = 66 + 4 - 11 + 1 = 60
+rng2 = 11 + 6 - 11 + 1 = 7
+Groundout
+Team 1 pitcher (Ian Berg): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-2
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Lee Combs
+
+Randall Hodge: rng1 = 68 + 14 - 10 - 1 = 71
+Walk
+Team 2 pitcher (Lee Combs): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-2
+
+Reuben Sutton: rng1 = 41 + 13 - 10 - 1 = 43
+rng2 = 23 + 13 - 9 - 1 = 26
+Groundout
+Team 2 pitcher (Lee Combs): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [2,2], base3: false
+base1: false, base2: true, base3: false
+Score: 5-2
+
+Dante Leoz: rng1 = 94 + 13 - 10 - 1 = 96
+rng2 = 84 + 13 - 9 - 1 = 87
+Double
+Team 2 pitcher (Lee Combs): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [4,2], base3: false
+base1: false, base2: true, base3: false
+Score: 6-2
+
+Caden Bryan: rng1 = 20 + 7 - 10 - 1 = 16
+Strikeout
+Team 2 pitcher (Lee Combs): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [4,2], base3: false
+base1: false, base2: true, base3: false
+Score: 6-2
+
+Jorge Donald: rng1 = 47 + 3 - 10 - 1 = 39
+rng2 = 18 + 7 - 9 - 1 = 15
+Groundout
+Team 2 pitcher (Lee Combs): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-2
+
+-----------------------
+
+BOTTOM INNING 7
+
+Liam Green: rng1 = 48 + 14 - 11 + 1 = 52
+rng2 = 55 + 13 - 11 + 1 = 58
+Lineout
+Team 1 pitcher (Ian Berg): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-2
+
+Henry Webb: rng1 = 16 + 13 - 11 + 1 = 19
+Strikeout
+Team 1 pitcher (Ian Berg): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-2
+
+Yaniel Benitez: rng1 = 50 + 10 - 11 + 1 = 50
+rng2 = 78 + 14 - 11 + 1 = 82
+Flyout
+Team 1 pitcher (Ian Berg): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-2
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Evan Veselka
+
+Kyle Murphy: rng1 = 78 + 6 - 6 - 1 = 77
+rng2 = 71 + 4 - 6 - 1 = 68
+Double
+Team 2 pitcher (Evan Veselka): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [7,3], base3: false
+base1: false, base2: true, base3: false
+Score: 6-2
+
+Esteban Obregón: rng1 = 92 + 6 - 6 - 1 = 91
+rng2 = 23 + 4 - 6 - 1 = 20
+Single
+Team 2 pitcher (Evan Veselka): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [8,3], base2: false, base3: [7,3]
+base1: true, base2: false, base3: true
+Score: 6-2
+
+Cody McCarthy: rng1 = 10 + 14 - 6 - 1 = 17
+Strikeout
+Team 2 pitcher (Evan Veselka): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [8,3], base2: false, base3: [7,3]
+base1: true, base2: false, base3: true
+Score: 6-2
+
+Joseph Thayer: rng1 = 64 + 14 - 6 - 1 = 71
+Walk
+Team 2 pitcher (Evan Veselka): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [1,3], base2: [8,3], base3: [7,3]
+base1: true, base2: true, base3: true
+Score: 6-2
+
+Randall Hodge: rng1 = 10 + 14 - 6 - 1 = 17
+Strikeout
+Team 2 pitcher (Evan Veselka): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: [1,3], base2: [8,3], base3: [7,3]
+base1: true, base2: true, base3: true
+Score: 6-2
+
+Reuben Sutton: rng1 = 75 + 13 - 6 - 1 = 81
+rng2 = 32 + 13 - 6 - 1 = 38
+Single
+Team 2 pitcher (Evan Veselka): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: [3,3], base2: [1,3], base3: false
+base1: true, base2: true, base3: false
+Score: 8-2
+
+Dante Leoz: rng1 = 98 + 13 - 6 - 1 = 104
+rng2 = 34 + 13 - 6 - 1 = 40
+Single
+Team 2 pitcher (Evan Veselka): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 2
+
+base1: [4,3], base2: [3,3], base3: false
+base1: true, base2: true, base3: false
+Score: 9-2
+
+Team 2 pitcher change to Jack Wells
+
+Caden Bryan: rng1 = 31 + 7 - 13 - 1 = 24
+Strikeout
+Team 2 pitcher (Jack Wells): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-2
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Rakeem Bradley
+
+Isaac Correa: rng1 = 66 + 10 - 11 + 1 = 66
+rng2 = 78 + 11 - 10 + 1 = 80
+Flyout
+Team 1 pitcher (Rakeem Bradley): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-2
+
+Watabe Kazuyuki: rng1 = 16 + 7 - 11 + 1 = 13
+rng2 = 18 + 10 - 10 + 1 = 19
+Groundout
+Team 1 pitcher (Rakeem Bradley): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-2
+
+Iker Pareja: rng1 = 69 + 10 - 11 + 1 = 69
+Walk
+Team 1 pitcher (Rakeem Bradley): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-2
+
+Romiro Hidalgo: rng1 = 87 + 6 - 11 + 1 = 83
+rng2 = 65 + 6 - 10 + 1 = 62
+Single
+Team 1 pitcher (Rakeem Bradley): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [6,2], base2: [5,2], base3: false
+base1: true, base2: true, base3: false
+Score: 9-2
+
+Andrew Turner: rng1 = 85 + 4 - 11 + 1 = 79
+rng2 = 13 + 7 - 10 + 1 = 11
+Single
+Team 1 pitcher (Rakeem Bradley): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [7,2], base2: false, base3: [6,2]
+base1: true, base2: false, base3: true
+Score: 9-3
+
+Leon Fraser: rng1 = 95 + 4 - 11 + 1 = 89
+Walk
+Team 1 pitcher (Rakeem Bradley): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: [8,2], base2: [7,2], base3: [6,2]
+base1: true, base2: true, base3: true
+Score: 9-3
+
+Liam Green: rng1 = 67 + 14 - 11 + 1 = 71
+Walk
+Team 1 pitcher (Rakeem Bradley): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 2
+
+base1: [0,2], base2: [8,2], base3: [7,2]
+base1: true, base2: true, base3: true
+Score: 9-4
+
+Team 1 pitcher change to Keegan Schiel
+
+Henry Webb: rng1 = 49 + 13 - 5 + 1 = 58
+rng2 = 14 + 13 - 7 + 1 = 21
+Groundout
+Team 1 pitcher (Keegan Schiel): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-4
+
+-----------------------
+
+TOP INNING 9
+
+Jorge Donald: rng1 = 89 + 3 - 13 - 1 = 78
+rng2 = 27 + 7 - 12 - 1 = 21
+Single
+Team 2 pitcher (Jack Wells): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [6,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-4
+
+Kyle Murphy: rng1 = 5 + 6 - 13 - 1 = -3
+Strikeout
+Team 2 pitcher (Jack Wells): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [6,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-4
+
+Esteban Obregón: rng1 = 56 + 6 - 13 - 1 = 48
+rng2 = 11 + 4 - 12 - 1 = 2
+Groundout
+Team 2 pitcher (Jack Wells): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: [6,4], base3: false
+base1: false, base2: true, base3: false
+Score: 9-4
+
+Cody McCarthy: rng1 = 31 + 14 - 13 - 1 = 31
+rng2 = 36 + 11 - 12 - 1 = 34
+Groundout
+Team 2 pitcher (Jack Wells): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-4
+
+-----------------------
+
+BOTTOM INNING 9
+
+Yaniel Benitez: rng1 = 68 + 10 - 5 + 1 = 74
+rng2 = 60 + 14 - 7 + 1 = 68
+Double
+Team 1 pitcher (Keegan Schiel): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: false, base2: [2,3], base3: false
+base1: false, base2: true, base3: false
+Score: 9-4
+
+Isaac Correa: rng1 = 66 + 10 - 5 + 1 = 72
+rng2 = 9 + 11 - 7 + 1 = 14
+Single
+Team 1 pitcher (Keegan Schiel): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 0
+
+base1: [3,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-5
+
+Watabe Kazuyuki: rng1 = 75 + 7 - 5 + 1 = 78
+rng2 = 24 + 10 - 7 + 1 = 28
+Single
+Team 1 pitcher (Keegan Schiel): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 0
+
+base1: [4,3], base2: [3,3], base3: false
+base1: true, base2: true, base3: false
+Score: 9-5
+
+Iker Pareja: rng1 = 27 + 10 - 5 + 1 = 33
+rng2 = 42 + 7 - 7 + 1 = 43
+Groundout
+Team 1 pitcher (Keegan Schiel): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: [5,3], base2: false, base3: [3,3]
+base1: true, base2: false, base3: true
+Score: 9-5
+
+Romiro Hidalgo: rng1 = 38 + 6 - 5 + 1 = 40
+rng2 = 61 + 6 - 7 + 1 = 61
+Flyout
+Team 1 pitcher (Keegan Schiel): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: [5,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-6
+
+Andrew Turner: rng1 = 17 + 4 - 5 + 1 = 17
+Strikeout
+Team 1 pitcher (Keegan Schiel): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-6
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 12
+Team 2 hits: 12
+Team 1 runs: 9
+Team 2 runs: 6
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-10-07
+Cody McCarthy	6	1	1	0	0	0	0	0	3					Detroit
+Joseph Thayer	3	2	0	0	0	0	0	2	2	
+Randall Hodge	4	2	2	1	0	0	0	1	1	
+Reuben Sutton	5	1	3	1	0	0	5	0	1	
+Dante Leoz	5	0	2	1	0	0	2	0	2	
+Caden Bryan	4	0	0	0	0	0	0	1	3	
+Jorge Donald	3	1	1	0	0	0	0	2	0	
+Kyle Murphy	5	1	2	2	0	0	2	0	2	
+Esteban Obregón	4	1	1	0	0	0	0	1	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Christian Galán	1	0	1	1	0	0	15	6	2	1	2	7	23	
+Ian Berg	0	0	1	0	0	0	6	1	0	0	0	2	7	
+Rakeem Bradley	0	0	1	0	0	0	2	2	2	0	3	0	7	
+Keegan Schiel	0	0	1	0	0	0	4	3	2	0	0	1	7	
+Isaac Wilson	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-10-07
+Liam Green	4	1	2	0	0	1	2	1	0					Vancouver
+Henry Webb	5	0	1	0	0	0	0	0	1	
+Yaniel Benitez	5	1	1	1	0	0	0	0	1	
+Isaac Correa	4	1	1	0	0	0	1	1	1	
+Watabe Kazuyuki	5	1	2	0	0	0	0	0	2	
+Iker Pareja	4	1	2	1	0	0	0	1	1	
+Romiro Hidalgo	5	1	1	0	0	0	1	0	1	
+Andrew Turner	4	0	2	0	0	0	1	1	2	
+Leon Fraser	3	0	0	0	0	0	1	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Ricardo Canseco	0	1	1	1	0	0	14	6	5	0	3	8	23	
+Jacobo Pozo	0	0	1	0	0	0	4	0	0	0	2	1	6	
+Lee Combs	0	0	1	0	0	0	3	1	1	0	1	1	5	
+Evan Veselka	0	0	1	0	0	0	2	4	3	0	1	2	7	
+Jack Wells	0	0	1	0	0	0	4	1	0	0	0	2	5	

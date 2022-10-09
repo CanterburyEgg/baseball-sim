@@ -1,0 +1,767 @@
+TOP INNING 1
+
+Rafael Figueroa: rng1 = 80 + 14 - 12 - 1 = 81
+rng2 = 58 + 10 - 8 - 1 = 59
+Single
+Team 2 pitcher (Sebastian Soto): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Jeronimo Maldonado: rng1 = 94 + 10 - 12 - 1 = 91
+rng2 = 14 + 14 - 8 - 1 = 19
+Single
+Team 2 pitcher (Sebastian Soto): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Alonso Medina: rng1 = 38 + 10 - 12 - 1 = 35
+rng2 = 74 + 8 - 8 - 1 = 73
+Flyout
+Team 2 pitcher (Sebastian Soto): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Phil Hill: rng1 = 4 + 8 - 12 - 1 = -1
+Strikeout
+Team 2 pitcher (Sebastian Soto): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Gary Miller: rng1 = 30 + 8 - 12 - 1 = 25
+Strikeout
+Team 2 pitcher (Sebastian Soto): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Mark White: rng1 = 29 + 10 - 8 + 1 = 32
+rng2 = 85 + 8 - 9 + 1 = 85
+Flyout
+Team 1 pitcher (Edward Stevens): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jack Hayes: rng1 = 82 + 8 - 8 + 1 = 83
+rng2 = 52 + 9 - 9 + 1 = 53
+Single
+Team 1 pitcher (Edward Stevens): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Christian Mendez: rng1 = 41 + 8 - 8 + 1 = 42
+rng2 = 69 + 8 - 9 + 1 = 69
+Flyout
+Team 1 pitcher (Edward Stevens): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Brian Woods: rng1 = 69 + 6 - 8 + 1 = 68
+rng2 = 43 + 8 - 9 + 1 = 43
+Groundout
+Team 1 pitcher (Edward Stevens): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Song Il-Hyun: rng1 = 8 + 6 - 12 - 1 = 1
+Strikeout
+Team 2 pitcher (Sebastian Soto): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Sean Watson: rng1 = 32 + 10 - 12 - 1 = 29
+rng2 = 47 + 7 - 8 - 1 = 45
+Groundout
+Team 2 pitcher (Sebastian Soto): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Joaquin Mancebo: rng1 = 81 + 7 - 12 - 1 = 75
+rng2 = 41 + 6 - 8 - 1 = 38
+Single
+Team 2 pitcher (Sebastian Soto): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Roger Wilson: rng1 = 60 + 3 - 12 - 1 = 50
+rng2 = 52 + 5 - 8 - 1 = 48
+Lineout
+Team 2 pitcher (Sebastian Soto): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Josh Poole: rng1 = 81 + 8 - 8 + 1 = 82
+rng2 = 3 + 7 - 9 + 1 = 2
+Single
+Team 1 pitcher (Edward Stevens): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Emmanuel Ramirez: rng1 = 97 + 8 - 8 + 1 = 98
+rng2 = 60 + 6 - 9 + 1 = 58
+Single
+Team 1 pitcher (Edward Stevens): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 0
+
+base1: [5,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Jason Collins: rng1 = 31 + 7 - 8 + 1 = 31
+rng2 = 67 + 6 - 9 + 1 = 65
+Flyout
+Team 1 pitcher (Edward Stevens): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Jordan James: rng1 = 61 + 4 - 8 + 1 = 58
+rng2 = 3 + 6 - 9 + 1 = 1
+Groundout
+Team 1 pitcher (Edward Stevens): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Rayden Hood: rng1 = 96 + 5 - 8 + 1 = 94
+rng2 = 81 + 1 - 9 + 1 = 74
+Double
+Team 1 pitcher (Edward Stevens): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 2
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-2
+
+Mark White: rng1 = 10 + 10 - 8 + 1 = 13
+rng2 = 79 + 8 - 9 + 1 = 79
+Flyout
+Team 1 pitcher (Edward Stevens): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 3
+
+Rafael Figueroa: rng1 = 79 + 14 - 12 - 1 = 80
+rng2 = 77 + 10 - 8 - 1 = 78
+Triple
+Team 2 pitcher (Sebastian Soto): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 0
+
+base1: false, base2: false, base3: [0,0]
+base1: false, base2: false, base3: true
+Score: 0-2
+
+Jeronimo Maldonado: rng1 = 56 + 10 - 12 - 1 = 53
+rng2 = 88 + 14 - 8 - 1 = 93
+Flyout
+Team 2 pitcher (Sebastian Soto): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Alonso Medina: rng1 = 46 + 10 - 12 - 1 = 43
+rng2 = 64 + 8 - 8 - 1 = 63
+Flyout
+Team 2 pitcher (Sebastian Soto): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Phil Hill: rng1 = 47 + 8 - 12 - 1 = 42
+rng2 = 94 + 11 - 8 - 1 = 96
+Flyout
+Team 2 pitcher (Sebastian Soto): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 3
+
+Jack Hayes: rng1 = 44 + 8 - 8 + 1 = 45
+rng2 = 97 + 9 - 9 + 1 = 98
+Flyout
+Team 1 pitcher (Edward Stevens): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Christian Mendez: rng1 = 15 + 8 - 8 + 1 = 16
+Strikeout
+Team 1 pitcher (Edward Stevens): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Brian Woods: rng1 = 74 + 6 - 8 + 1 = 73
+rng2 = 31 + 8 - 9 + 1 = 31
+Single
+Team 1 pitcher (Edward Stevens): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Josh Poole: rng1 = 1 + 8 - 8 + 1 = 2
+Strikeout
+Team 1 pitcher (Edward Stevens): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 4
+
+Gary Miller: rng1 = 42 + 8 - 12 - 1 = 37
+rng2 = 49 + 10 - 8 - 1 = 50
+Lineout
+Team 2 pitcher (Sebastian Soto): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Song Il-Hyun: rng1 = 78 + 6 - 12 - 1 = 71
+Walk
+Team 2 pitcher (Sebastian Soto): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Sean Watson: rng1 = 75 + 10 - 12 - 1 = 72
+rng2 = 46 + 7 - 8 - 1 = 44
+Single
+Team 2 pitcher (Sebastian Soto): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 1
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 1-2
+
+Joaquin Mancebo: rng1 = 46 + 7 - 12 - 1 = 40
+rng2 = 17 + 6 - 8 - 1 = 14
+Groundout
+Team 2 pitcher (Sebastian Soto): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 4
+
+Emmanuel Ramirez: rng1 = 57 + 8 - 8 + 1 = 58
+rng2 = 86 + 6 - 9 + 1 = 84
+Flyout
+Team 1 pitcher (Edward Stevens): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Jason Collins: rng1 = 54 + 7 - 8 + 1 = 54
+rng2 = 25 + 6 - 9 + 1 = 23
+Groundout
+Team 1 pitcher (Edward Stevens): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Jordan James: rng1 = 69 + 4 - 8 + 1 = 66
+rng2 = 68 + 6 - 9 + 1 = 66
+Flyout
+Team 1 pitcher (Edward Stevens): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 5
+
+Roger Wilson: rng1 = 75 + 3 - 12 - 1 = 65
+rng2 = 46 + 5 - 8 - 1 = 42
+Groundout
+Team 2 pitcher (Sebastian Soto): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Rafael Figueroa: rng1 = 59 + 14 - 12 - 1 = 60
+rng2 = 57 + 10 - 8 - 1 = 58
+Lineout
+Team 2 pitcher (Sebastian Soto): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Jeronimo Maldonado: rng1 = 70 + 10 - 12 - 1 = 67
+rng2 = 10 + 14 - 8 - 1 = 15
+Groundout
+Team 2 pitcher (Sebastian Soto): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 5
+
+Rayden Hood: rng1 = 78 + 5 - 8 + 1 = 76
+rng2 = 32 + 1 - 9 + 1 = 25
+Single
+Team 1 pitcher (Edward Stevens): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Mark White: rng1 = 90 + 10 - 8 + 1 = 93
+rng2 = 80 + 8 - 9 + 1 = 80
+Home run
+Team 1 pitcher (Edward Stevens): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Jack Hayes: rng1 = 43 + 8 - 8 + 1 = 44
+rng2 = 78 + 9 - 9 + 1 = 79
+Flyout
+Team 1 pitcher (Edward Stevens): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Christian Mendez: rng1 = 46 + 8 - 8 + 1 = 47
+rng2 = 33 + 8 - 9 + 1 = 33
+Groundout
+Team 1 pitcher (Edward Stevens): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Brian Woods: rng1 = 68 + 6 - 8 + 1 = 67
+rng2 = 30 + 8 - 9 + 1 = 30
+Groundout
+Team 1 pitcher (Edward Stevens): 22 batters faced, 4 runs allowed = 22 + 10.0 = 32.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+TOP INNING 6
+
+Alonso Medina: rng1 = 40 + 10 - 12 - 1 = 37
+rng2 = 22 + 8 - 8 - 1 = 21
+Groundout
+Team 2 pitcher (Sebastian Soto): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Phil Hill: rng1 = 96 + 8 - 12 - 1 = 91
+rng2 = 15 + 11 - 8 - 1 = 17
+Single
+Team 2 pitcher (Sebastian Soto): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Gary Miller: rng1 = 9 + 8 - 12 - 1 = 4
+Strikeout
+Team 2 pitcher (Sebastian Soto): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Song Il-Hyun: rng1 = 67 + 6 - 12 - 1 = 60
+rng2 = 90 + 8 - 8 - 1 = 89
+Flyout
+Team 2 pitcher (Sebastian Soto): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Jessie Alston
+
+Josh Poole: rng1 = 90 + 8 - 6 + 1 = 93
+rng2 = 49 + 7 - 7 + 1 = 50
+Single
+Team 1 pitcher (Jessie Alston): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Emmanuel Ramirez: rng1 = 17 + 8 - 6 + 1 = 20
+Strikeout
+Team 1 pitcher (Jessie Alston): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Jason Collins: rng1 = 27 + 7 - 6 + 1 = 29
+rng2 = 31 + 6 - 7 + 1 = 31
+Groundout
+Team 1 pitcher (Jessie Alston): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [4,1], base3: false
+base1: false, base2: true, base3: false
+Score: 1-4
+
+Jordan James: rng1 = 89 + 4 - 6 + 1 = 88
+Walk
+Team 1 pitcher (Jessie Alston): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [7,1], base2: [4,1], base3: false
+base1: true, base2: true, base3: false
+Score: 1-4
+
+Rayden Hood: rng1 = 99 + 5 - 6 + 1 = 99
+rng2 = 7 + 1 - 7 + 1 = 2
+Single
+Team 1 pitcher (Jessie Alston): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [8,1], base2: [7,1], base3: false
+base1: true, base2: true, base3: false
+Score: 1-5
+
+Mark White: rng1 = 18 + 10 - 6 + 1 = 23
+Strikeout
+Team 1 pitcher (Jessie Alston): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Louis Evans
+
+Sean Watson: rng1 = 63 + 10 - 9 - 1 = 63
+rng2 = 28 + 7 - 7 - 1 = 27
+Groundout
+Team 2 pitcher (Louis Evans): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Joaquin Mancebo: rng1 = 26 + 7 - 9 - 1 = 23
+Strikeout
+Team 2 pitcher (Louis Evans): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Roger Wilson: rng1 = 25 + 3 - 9 - 1 = 18
+Strikeout
+Team 2 pitcher (Louis Evans): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Michael Ross
+
+Jack Hayes: rng1 = 32 + 8 - 6 + 1 = 35
+rng2 = 31 + 9 - 8 + 1 = 33
+Groundout
+Team 1 pitcher (Michael Ross): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Christian Mendez: rng1 = 51 + 8 - 6 + 1 = 54
+rng2 = 68 + 8 - 8 + 1 = 69
+Flyout
+Team 1 pitcher (Michael Ross): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Brian Woods: rng1 = 77 + 6 - 6 + 1 = 78
+rng2 = 47 + 8 - 8 + 1 = 48
+Single
+Team 1 pitcher (Michael Ross): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [3,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Josh Poole: rng1 = 62 + 8 - 6 + 1 = 65
+rng2 = 8 + 7 - 8 + 1 = 8
+Groundout
+Team 1 pitcher (Michael Ross): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+TOP INNING 8
+
+Rafael Figueroa: rng1 = 90 + 14 - 9 - 1 = 94
+rng2 = 56 + 10 - 7 - 1 = 58
+Single
+Team 2 pitcher (Louis Evans): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Jeronimo Maldonado: rng1 = 96 + 10 - 9 - 1 = 96
+rng2 = 76 + 14 - 7 - 1 = 82
+Home run
+Team 2 pitcher (Louis Evans): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Alonso Medina: rng1 = 39 + 10 - 9 - 1 = 39
+rng2 = 51 + 8 - 7 - 1 = 51
+Lineout
+Team 2 pitcher (Louis Evans): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Phil Hill: rng1 = 76 + 8 - 9 - 1 = 74
+rng2 = 6 + 11 - 7 - 1 = 9
+Single
+Team 2 pitcher (Louis Evans): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 1
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-5
+
+Gary Miller: rng1 = 49 + 8 - 9 - 1 = 47
+rng2 = 50 + 10 - 7 - 1 = 52
+Lineout
+Team 2 pitcher (Louis Evans): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-5
+
+Team 2 pitcher change to Phil Segee
+
+Song Il-Hyun: rng1 = 18 + 6 - 9 - 1 = 14
+rng2 = 82 + 8 - 9 - 1 = 80
+Flyout
+Team 2 pitcher (Phil Segee): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+BOTTOM INNING 8
+
+Emmanuel Ramirez: rng1 = 83 + 8 - 6 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Michael Ross): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-5
+
+Jason Collins: rng1 = 77 + 7 - 6 + 1 = 79
+rng2 = 6 + 6 - 8 + 1 = 5
+Single
+Team 1 pitcher (Michael Ross): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 0
+
+base1: [6,2], base2: false, base3: [5,2]
+base1: true, base2: false, base3: true
+Score: 3-5
+
+Jordan James: rng1 = 87 + 4 - 6 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Michael Ross): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 0
+
+base1: [7,2], base2: [6,2], base3: [5,2]
+base1: true, base2: true, base3: true
+Score: 3-5
+
+Rayden Hood: rng1 = 18 + 5 - 6 + 1 = 18
+Strikeout
+Team 1 pitcher (Michael Ross): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: [7,2], base2: [6,2], base3: [5,2]
+base1: true, base2: true, base3: true
+Score: 3-5
+
+Mark White: rng1 = 84 + 10 - 6 + 1 = 89
+Walk
+Team 1 pitcher (Michael Ross): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: [0,2], base2: [7,2], base3: [6,2]
+base1: true, base2: true, base3: true
+Score: 3-6
+
+Jack Hayes: rng1 = 74 + 8 - 6 + 1 = 77
+rng2 = 9 + 9 - 8 + 1 = 11
+Single
+Team 1 pitcher (Michael Ross): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 1
+
+base1: [1,2], base2: [0,2], base3: false
+base1: true, base2: true, base3: false
+Score: 3-8
+
+Team 1 pitcher change to Miguel Vega
+
+Christian Mendez: rng1 = 57 + 8 - 6 + 1 = 60
+rng2 = 15 + 8 - 3 + 1 = 21
+Groundout
+Team 1 pitcher (Miguel Vega): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-8
+
+-----------------------
+
+TOP INNING 9
+
+Sean Watson: rng1 = 8 + 10 - 9 - 1 = 8
+Strikeout
+Team 2 pitcher (Phil Segee): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Joaquin Mancebo: rng1 = 12 + 7 - 9 - 1 = 9
+Strikeout
+Team 2 pitcher (Phil Segee): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Roger Wilson: rng1 = 83 + 3 - 9 - 1 = 76
+rng2 = 3 + 5 - 9 - 1 = -2
+Single
+Team 2 pitcher (Phil Segee): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-8
+
+Rafael Figueroa: rng1 = 22 + 14 - 9 - 1 = 26
+Strikeout
+Team 2 pitcher (Phil Segee): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-8
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 10
+Team 2 hits: 12
+Team 1 runs: 3
+Team 2 runs: 8
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-10-08
+Rafael Figueroa	5	2	3	0	1	0	0	0	1					Cleveland
+Jeronimo Maldonado	4	1	2	0	0	1	3	0	0	
+Alonso Medina	4	0	0	0	0	0	0	0	0	
+Phil Hill	4	0	2	0	0	0	0	0	1	
+Gary Miller	4	0	0	0	0	0	0	0	2	
+Song Il-Hyun	3	0	0	0	0	0	0	1	1	
+Sean Watson	4	0	1	0	0	0	0	0	1	
+Joaquin Mancebo	4	0	1	0	0	0	0	0	2	
+Roger Wilson	4	0	1	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Edward Stevens	0	1	1	1	0	0	15	7	4	1	0	2	22	
+Jessie Alston	0	0	1	0	0	0	3	2	1	0	1	2	6	
+Michael Ross	0	0	1	0	0	0	4	3	3	0	1	1	10	
+Miguel Vega	0	0	1	0	0	0	2	0	0	0	0	0	1	
+Ige Shukishi	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-10-08
+Mark White	4	1	1	0	0	1	3	1	1					Reno
+Jack Hayes	5	0	2	0	0	0	2	0	0	
+Christian Mendez	5	0	0	0	0	0	0	0	1	
+Brian Woods	4	0	2	0	0	0	0	0	0	
+Josh Poole	4	2	2	0	0	0	0	0	1	
+Emmanuel Ramirez	3	2	1	0	0	0	0	0	1	
+Jason Collins	4	1	1	0	0	0	1	0	0	
+Jordan James	2	1	0	0	0	0	0	1	0	
+Rayden Hood	4	1	3	1	0	0	2	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Sebastian Soto	1	0	1	1	0	0	18	6	1	0	1	4	24	
+Louis Evans	0	0	1	0	0	0	5	3	2	1	0	2	8	
+Phil Segee	0	0	1	0	0	0	4	1	0	0	0	3	5	
+Alexander Richards	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Reuben Watson	0	0	0	0	0	0	0	0	0	0	0	0	0	

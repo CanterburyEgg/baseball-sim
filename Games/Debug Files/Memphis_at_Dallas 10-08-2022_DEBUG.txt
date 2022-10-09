@@ -1,0 +1,913 @@
+TOP INNING 1
+
+Lawrence Randolph: rng1 = 28 + 15 - 10 - 1 = 32
+rng2 = 74 + 11 - 9 - 1 = 75
+Flyout
+Team 2 pitcher (Dylan Werth): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Sip Hyun-Ki: rng1 = 23 + 15 - 10 - 1 = 27
+Strikeout
+Team 2 pitcher (Dylan Werth): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Phoenix Moore: rng1 = 23 + 14 - 10 - 1 = 26
+Strikeout
+Team 2 pitcher (Dylan Werth): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Finnegan Maxwell: rng1 = 59 + 15 - 9 + 1 = 66
+rng2 = 16 + 14 - 9 + 1 = 22
+Groundout
+Team 1 pitcher (Javier Manzanares): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Angel Gutiérrez: rng1 = 86 + 15 - 9 + 1 = 93
+rng2 = 48 + 12 - 9 + 1 = 52
+Single
+Team 1 pitcher (Javier Manzanares): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Randy Carson: rng1 = 87 + 13 - 9 + 1 = 92
+rng2 = 97 + 12 - 9 + 1 = 101
+Home run
+Team 1 pitcher (Javier Manzanares): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Nick Hamburger: rng1 = 41 + 12 - 9 + 1 = 45
+rng2 = 82 + 14 - 9 + 1 = 88
+Flyout
+Team 1 pitcher (Javier Manzanares): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Jerome Goodwin: rng1 = 23 + 11 - 9 + 1 = 26
+Strikeout
+Team 1 pitcher (Javier Manzanares): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 2
+
+Trace Spears: rng1 = 86 + 9 - 10 - 1 = 84
+rng2 = 41 + 12 - 9 - 1 = 43
+Single
+Team 2 pitcher (Dylan Werth): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Mason Foster: rng1 = 99 + 14 - 10 - 1 = 102
+rng2 = 8 + 9 - 9 - 1 = 7
+Single
+Team 2 pitcher (Dylan Werth): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [4,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 0-2
+
+Parker Dillard: rng1 = 13 + 8 - 10 - 1 = 10
+Strikeout
+Team 2 pitcher (Dylan Werth): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [4,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 0-2
+
+Patrick Marshall: rng1 = 92 + 8 - 10 - 1 = 89
+Walk
+Team 2 pitcher (Dylan Werth): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [6,0], base2: [4,0], base3: [3,0]
+base1: true, base2: true, base3: true
+Score: 0-2
+
+Readale Roberson: rng1 = 100 + 5 - 10 - 1 = 94
+rng2 = 45 + 8 - 9 - 1 = 43
+Single
+Team 2 pitcher (Dylan Werth): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 1
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-2
+
+Juan Bolton: rng1 = 53 + 3 - 10 - 1 = 45
+rng2 = 5 + 8 - 9 - 1 = 3
+Groundout
+Team 2 pitcher (Dylan Werth): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 2
+
+base1: false, base2: [7,0], base3: [6,0]
+base1: false, base2: true, base3: true
+Score: 2-2
+
+Lawrence Randolph: rng1 = 96 + 15 - 10 - 1 = 100
+rng2 = 84 + 11 - 9 - 1 = 85
+Home run
+Team 2 pitcher (Dylan Werth): 10 batters faced, 5 runs allowed = 10 + 12.5 = 22.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-2
+
+Sip Hyun-Ki: rng1 = 93 + 15 - 10 - 1 = 97
+rng2 = 83 + 10 - 9 - 1 = 83
+Home run
+Team 2 pitcher (Dylan Werth): 11 batters faced, 6 runs allowed = 11 + 15.0 = 26.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-2
+
+Phoenix Moore: rng1 = 58 + 14 - 10 - 1 = 61
+rng2 = 86 + 12 - 9 - 1 = 88
+Flyout
+Team 2 pitcher (Dylan Werth): 12 batters faced, 6 runs allowed = 12 + 15.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-2
+
+-----------------------
+
+BOTTOM INNING 2
+
+Casey Myers-Morgan: rng1 = 67 + 10 - 9 + 1 = 69
+Walk
+Team 1 pitcher (Javier Manzanares): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-2
+
+Emiliano Costa: rng1 = 83 + 9 - 9 + 1 = 84
+rng2 = 13 + 9 - 9 + 1 = 14
+Single
+Team 1 pitcher (Javier Manzanares): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 0
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 6-2
+
+Francisco Illescas: rng1 = 20 + 7 - 9 + 1 = 19
+Strikeout
+Team 1 pitcher (Javier Manzanares): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 1
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 6-2
+
+Ameer Jacobson: rng1 = 77 + 1 - 9 + 1 = 70
+Walk
+Team 1 pitcher (Javier Manzanares): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 1
+
+base1: [8,0], base2: [6,0], base3: [5,0]
+base1: true, base2: true, base3: true
+Score: 6-2
+
+Finnegan Maxwell: rng1 = 79 + 15 - 9 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Javier Manzanares): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 1
+
+base1: [0,0], base2: [8,0], base3: [6,0]
+base1: true, base2: true, base3: true
+Score: 6-3
+
+Angel Gutiérrez: rng1 = 89 + 15 - 9 + 1 = 96
+rng2 = 8 + 12 - 9 + 1 = 12
+Single
+Team 1 pitcher (Javier Manzanares): 11 batters faced, 5 runs allowed = 11 + 12.5 = 23.5, outs: 1
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 6-5
+
+Randy Carson: rng1 = 22 + 13 - 9 + 1 = 27
+Strikeout
+Team 1 pitcher (Javier Manzanares): 12 batters faced, 5 runs allowed = 12 + 12.5 = 24.5, outs: 2
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 6-5
+
+Nick Hamburger: rng1 = 33 + 12 - 9 + 1 = 37
+rng2 = 88 + 14 - 9 + 1 = 94
+Flyout
+Team 1 pitcher (Javier Manzanares): 13 batters faced, 5 runs allowed = 13 + 12.5 = 25.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-5
+
+-----------------------
+
+TOP INNING 3
+
+Trace Spears: rng1 = 4 + 9 - 10 - 1 = 2
+Strikeout
+Team 2 pitcher (Dylan Werth): 13 batters faced, 6 runs allowed = 13 + 15.0 = 28.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-5
+
+Mason Foster: rng1 = 85 + 14 - 10 - 1 = 88
+Walk
+Team 2 pitcher (Dylan Werth): 14 batters faced, 6 runs allowed = 14 + 15.0 = 29.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-5
+
+Parker Dillard: rng1 = 16 + 8 - 10 - 1 = 13
+rng2 = 100 + 9 - 9 - 1 = 99
+Flyout
+Team 2 pitcher (Dylan Werth): 15 batters faced, 6 runs allowed = 15 + 15.0 = 30.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-5
+
+Patrick Marshall: rng1 = 32 + 8 - 10 - 1 = 29
+rng2 = 90 + 9 - 9 - 1 = 89
+Flyout
+Team 2 pitcher (Dylan Werth): 16 batters faced, 6 runs allowed = 16 + 15.0 = 31.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-5
+
+-----------------------
+
+BOTTOM INNING 3
+
+Jerome Goodwin: rng1 = 25 + 11 - 9 + 1 = 28
+rng2 = 72 + 9 - 9 + 1 = 73
+Flyout
+Team 1 pitcher (Javier Manzanares): 14 batters faced, 5 runs allowed = 14 + 12.5 = 26.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-5
+
+Casey Myers-Morgan: rng1 = 75 + 10 - 9 + 1 = 77
+rng2 = 34 + 9 - 9 + 1 = 35
+Single
+Team 1 pitcher (Javier Manzanares): 15 batters faced, 5 runs allowed = 15 + 12.5 = 27.5, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-5
+
+Emiliano Costa: rng1 = 27 + 9 - 9 + 1 = 28
+rng2 = 13 + 9 - 9 + 1 = 14
+Groundout
+Team 1 pitcher (Javier Manzanares): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-5
+
+-----------------------
+
+TOP INNING 4
+
+Team 2 pitcher change to Douglas Bosak
+
+Readale Roberson: rng1 = 41 + 5 - 6 - 1 = 39
+rng2 = 39 + 8 - 6 - 1 = 40
+Groundout
+Team 2 pitcher (Douglas Bosak): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-5
+
+Juan Bolton: rng1 = 96 + 3 - 6 - 1 = 92
+rng2 = 34 + 8 - 6 - 1 = 35
+Single
+Team 2 pitcher (Douglas Bosak): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-5
+
+Lawrence Randolph: rng1 = 30 + 15 - 6 - 1 = 38
+rng2 = 74 + 11 - 6 - 1 = 78
+Flyout
+Team 2 pitcher (Douglas Bosak): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-5
+
+Sip Hyun-Ki: rng1 = 90 + 15 - 6 - 1 = 98
+rng2 = 42 + 10 - 6 - 1 = 45
+Single
+Team 2 pitcher (Douglas Bosak): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [1,1], base2: false, base3: [8,1]
+base1: true, base2: false, base3: true
+Score: 6-5
+
+Phoenix Moore: rng1 = 89 + 14 - 6 - 1 = 96
+rng2 = 93 + 12 - 6 - 1 = 98
+Home run
+Team 2 pitcher (Douglas Bosak): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-5
+
+Trace Spears: rng1 = 75 + 9 - 6 - 1 = 77
+rng2 = 64 + 12 - 6 - 1 = 69
+Double
+Team 2 pitcher (Douglas Bosak): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: false, base2: [3,1], base3: false
+base1: false, base2: true, base3: false
+Score: 9-5
+
+Team 2 pitcher change to Sergio Narvaez
+
+Mason Foster: rng1 = 2 + 14 - 11 - 1 = 4
+Strikeout
+Team 2 pitcher (Sergio Narvaez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-5
+
+-----------------------
+
+BOTTOM INNING 4
+
+Francisco Illescas: rng1 = 23 + 7 - 9 + 1 = 22
+Strikeout
+Team 1 pitcher (Javier Manzanares): 17 batters faced, 5 runs allowed = 17 + 12.5 = 29.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-5
+
+Ameer Jacobson: rng1 = 65 + 1 - 9 + 1 = 58
+rng2 = 97 + 9 - 9 + 1 = 98
+Flyout
+Team 1 pitcher (Javier Manzanares): 18 batters faced, 5 runs allowed = 18 + 12.5 = 30.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-5
+
+Finnegan Maxwell: rng1 = 99 + 15 - 9 + 1 = 106
+rng2 = 90 + 14 - 9 + 1 = 96
+Home run
+Team 1 pitcher (Javier Manzanares): 19 batters faced, 6 runs allowed = 19 + 15.0 = 34.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-6
+
+Angel Gutiérrez: rng1 = 77 + 15 - 9 + 1 = 84
+rng2 = 54 + 12 - 9 + 1 = 58
+Single
+Team 1 pitcher (Javier Manzanares): 20 batters faced, 6 runs allowed = 20 + 15.0 = 35.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-6
+
+Randy Carson: rng1 = 51 + 13 - 9 + 1 = 56
+rng2 = 7 + 12 - 9 + 1 = 11
+Groundout
+Team 1 pitcher (Javier Manzanares): 21 batters faced, 6 runs allowed = 21 + 15.0 = 36.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-6
+
+-----------------------
+
+TOP INNING 5
+
+Parker Dillard: rng1 = 92 + 8 - 11 - 1 = 88
+Walk
+Team 2 pitcher (Sergio Narvaez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-6
+
+Patrick Marshall: rng1 = 45 + 8 - 11 - 1 = 41
+rng2 = 83 + 9 - 12 - 1 = 79
+Flyout
+Team 2 pitcher (Sergio Narvaez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-6
+
+Readale Roberson: rng1 = 39 + 5 - 11 - 1 = 32
+rng2 = 55 + 8 - 12 - 1 = 50
+Lineout
+Team 2 pitcher (Sergio Narvaez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-6
+
+Juan Bolton: rng1 = 39 + 3 - 11 - 1 = 30
+rng2 = 88 + 8 - 12 - 1 = 83
+Flyout
+Team 2 pitcher (Sergio Narvaez): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-6
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Brentley Dickson
+
+Nick Hamburger: rng1 = 90 + 12 - 8 + 1 = 95
+rng2 = 16 + 14 - 7 + 1 = 24
+Single
+Team 1 pitcher (Brentley Dickson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-6
+
+Jerome Goodwin: rng1 = 63 + 11 - 8 + 1 = 67
+rng2 = 39 + 9 - 7 + 1 = 42
+Groundout
+Team 1 pitcher (Brentley Dickson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-6
+
+Casey Myers-Morgan: rng1 = 83 + 10 - 8 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Brentley Dickson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [5,1], base2: [4,1], base3: false
+base1: true, base2: true, base3: false
+Score: 9-6
+
+Emiliano Costa: rng1 = 98 + 9 - 8 + 1 = 100
+rng2 = 6 + 9 - 7 + 1 = 9
+Single
+Team 1 pitcher (Brentley Dickson): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [6,1], base2: [5,1], base3: false
+base1: true, base2: true, base3: false
+Score: 9-7
+
+Francisco Illescas: rng1 = 79 + 7 - 8 + 1 = 79
+rng2 = 30 + 6 - 7 + 1 = 30
+Single
+Team 1 pitcher (Brentley Dickson): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 1
+
+base1: [7,1], base2: [6,1], base3: false
+base1: true, base2: true, base3: false
+Score: 9-8
+
+Ameer Jacobson: rng1 = 82 + 1 - 8 + 1 = 76
+rng2 = 33 + 9 - 7 + 1 = 36
+Single
+Team 1 pitcher (Brentley Dickson): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 1
+
+base1: [8,1], base2: false, base3: [7,1]
+base1: true, base2: false, base3: true
+Score: 9-9
+
+Team 1 pitcher change to Major Ortiz
+
+Finnegan Maxwell: rng1 = 61 + 15 - 9 + 1 = 68
+rng2 = 33 + 14 - 11 + 1 = 37
+Groundout
+Team 1 pitcher (Major Ortiz): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-9
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Ezequiel Santangelo
+
+Lawrence Randolph: rng1 = 12 + 15 - 6 - 1 = 20
+Strikeout
+Team 2 pitcher (Ezequiel Santangelo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-9
+
+Sip Hyun-Ki: rng1 = 67 + 15 - 6 - 1 = 75
+rng2 = 93 + 10 - 5 - 1 = 97
+Home run
+Team 2 pitcher (Ezequiel Santangelo): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-9
+
+Phoenix Moore: rng1 = 36 + 14 - 6 - 1 = 43
+rng2 = 94 + 12 - 5 - 1 = 100
+Flyout
+Team 2 pitcher (Ezequiel Santangelo): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-9
+
+Trace Spears: rng1 = 44 + 9 - 6 - 1 = 46
+rng2 = 35 + 12 - 5 - 1 = 41
+Groundout
+Team 2 pitcher (Ezequiel Santangelo): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 10-9
+
+-----------------------
+
+BOTTOM INNING 6
+
+Angel Gutiérrez: rng1 = 53 + 15 - 9 + 1 = 60
+rng2 = 59 + 12 - 11 + 1 = 61
+Flyout
+Team 1 pitcher (Major Ortiz): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-9
+
+Randy Carson: rng1 = 88 + 13 - 9 + 1 = 93
+rng2 = 82 + 12 - 11 + 1 = 84
+Home run
+Team 1 pitcher (Major Ortiz): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-10
+
+Nick Hamburger: rng1 = 58 + 12 - 9 + 1 = 62
+rng2 = 84 + 14 - 11 + 1 = 88
+Flyout
+Team 1 pitcher (Major Ortiz): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-10
+
+Jerome Goodwin: rng1 = 6 + 11 - 9 + 1 = 9
+Strikeout
+Team 1 pitcher (Major Ortiz): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 10-10
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Seno Mashiro
+
+Mason Foster: rng1 = 65 + 14 - 13 - 1 = 65
+rng2 = 40 + 9 - 13 - 1 = 35
+Groundout
+Team 2 pitcher (Seno Mashiro): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-10
+
+Parker Dillard: rng1 = 1 + 8 - 13 - 1 = -5
+Strikeout
+Team 2 pitcher (Seno Mashiro): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-10
+
+Patrick Marshall: rng1 = 64 + 8 - 13 - 1 = 58
+rng2 = 13 + 9 - 13 - 1 = 8
+Groundout
+Team 2 pitcher (Seno Mashiro): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 10-10
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Hiraoka Yosai
+
+Casey Myers-Morgan: rng1 = 52 + 10 - 8 + 1 = 55
+rng2 = 94 + 9 - 4 + 1 = 100
+Flyout
+Team 1 pitcher (Hiraoka Yosai): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-10
+
+Emiliano Costa: rng1 = 69 + 9 - 8 + 1 = 71
+Walk
+Team 1 pitcher (Hiraoka Yosai): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [6,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 10-10
+
+Francisco Illescas: rng1 = 98 + 7 - 8 + 1 = 98
+rng2 = 74 + 6 - 4 + 1 = 77
+Double
+Team 1 pitcher (Hiraoka Yosai): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: [7,3], base3: [6,3]
+base1: false, base2: true, base3: true
+Score: 10-10
+
+Ameer Jacobson: rng1 = 78 + 1 - 8 + 1 = 72
+rng2 = 23 + 9 - 4 + 1 = 29
+Single
+Team 1 pitcher (Hiraoka Yosai): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [8,3], base2: false, base3: [7,3]
+base1: true, base2: false, base3: true
+Score: 10-11
+
+Finnegan Maxwell: rng1 = 3 + 15 - 8 + 1 = 11
+rng2 = 18 + 14 - 4 + 1 = 29
+Groundout
+Team 1 pitcher (Hiraoka Yosai): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 10-11
+
+-----------------------
+
+TOP INNING 8
+
+Readale Roberson: rng1 = 88 + 5 - 13 - 1 = 79
+rng2 = 12 + 8 - 13 - 1 = 6
+Single
+Team 2 pitcher (Seno Mashiro): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [7,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 10-11
+
+Juan Bolton: rng1 = 94 + 3 - 13 - 1 = 83
+rng2 = 10 + 8 - 13 - 1 = 4
+Single
+Team 2 pitcher (Seno Mashiro): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [8,4], base2: [7,4], base3: false
+base1: true, base2: true, base3: false
+Score: 10-11
+
+Lawrence Randolph: rng1 = 80 + 15 - 13 - 1 = 81
+rng2 = 39 + 11 - 13 - 1 = 36
+Single
+Team 2 pitcher (Seno Mashiro): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 0
+
+base1: [0,4], base2: false, base3: [8,4]
+base1: true, base2: false, base3: true
+Score: 11-11
+
+Sip Hyun-Ki: rng1 = 42 + 15 - 13 - 1 = 43
+rng2 = 2 + 10 - 13 - 1 = -2
+Groundout
+Team 2 pitcher (Seno Mashiro): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 1
+
+base1: false, base2: [0,4], base3: false
+base1: false, base2: true, base3: false
+Score: 12-11
+
+Phoenix Moore: rng1 = 27 + 14 - 13 - 1 = 27
+Strikeout
+Team 2 pitcher (Seno Mashiro): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: false, base2: [0,4], base3: false
+base1: false, base2: true, base3: false
+Score: 12-11
+
+Trace Spears: rng1 = 95 + 9 - 13 - 1 = 90
+Walk
+Team 2 pitcher (Seno Mashiro): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 2
+
+base1: [3,4], base2: [0,4], base3: false
+base1: true, base2: true, base3: false
+Score: 12-11
+
+Mason Foster: rng1 = 96 + 14 - 13 - 1 = 96
+rng2 = 40 + 9 - 13 - 1 = 35
+Single
+Team 2 pitcher (Seno Mashiro): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 2
+
+base1: [4,4], base2: [3,4], base3: false
+base1: true, base2: true, base3: false
+Score: 13-11
+
+Parker Dillard: rng1 = 62 + 8 - 13 - 1 = 56
+rng2 = 21 + 9 - 13 - 1 = 16
+Groundout
+Team 2 pitcher (Seno Mashiro): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 13-11
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Luciano Garrido
+
+Angel Gutiérrez: rng1 = 60 + 15 - 12 + 1 = 64
+rng2 = 16 + 12 - 11 + 1 = 18
+Groundout
+Team 1 pitcher (Luciano Garrido): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 13-11
+
+Randy Carson: rng1 = 53 + 13 - 12 + 1 = 55
+rng2 = 94 + 12 - 11 + 1 = 96
+Flyout
+Team 1 pitcher (Luciano Garrido): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 13-11
+
+Nick Hamburger: rng1 = 97 + 12 - 12 + 1 = 98
+rng2 = 71 + 14 - 11 + 1 = 75
+Double
+Team 1 pitcher (Luciano Garrido): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [3,4], base3: false
+base1: false, base2: true, base3: false
+Score: 13-11
+
+Jerome Goodwin: rng1 = 52 + 11 - 12 + 1 = 52
+rng2 = 11 + 9 - 11 + 1 = 10
+Groundout
+Team 1 pitcher (Luciano Garrido): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 13-11
+
+-----------------------
+
+TOP INNING 9
+
+Patrick Marshall: rng1 = 97 + 8 - 13 - 1 = 91
+rng2 = 19 + 9 - 13 - 1 = 14
+Single
+Team 2 pitcher (Seno Mashiro): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 0
+
+base1: [6,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 13-11
+
+Readale Roberson: rng1 = 12 + 5 - 13 - 1 = 3
+Strikeout
+Team 2 pitcher (Seno Mashiro): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 1
+
+base1: [6,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 13-11
+
+Juan Bolton: rng1 = 21 + 3 - 13 - 1 = 10
+Strikeout
+Team 2 pitcher (Seno Mashiro): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 2
+
+base1: [6,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 13-11
+
+Lawrence Randolph: rng1 = 89 + 15 - 13 - 1 = 90
+Walk
+Team 2 pitcher (Seno Mashiro): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 2
+
+base1: [0,4], base2: [6,4], base3: false
+base1: true, base2: true, base3: false
+Score: 13-11
+
+Sip Hyun-Ki: rng1 = 69 + 15 - 13 - 1 = 70
+Walk
+Team 2 pitcher (Seno Mashiro): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 2
+
+base1: [1,4], base2: [0,4], base3: [6,4]
+base1: true, base2: true, base3: true
+Score: 13-11
+
+Phoenix Moore: rng1 = 48 + 14 - 13 - 1 = 48
+rng2 = 11 + 12 - 13 - 1 = 9
+Groundout
+Team 2 pitcher (Seno Mashiro): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 13-11
+
+-----------------------
+
+BOTTOM INNING 9
+
+Casey Myers-Morgan: rng1 = 59 + 10 - 12 + 1 = 58
+rng2 = 46 + 9 - 11 + 1 = 45
+Groundout
+Team 1 pitcher (Luciano Garrido): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 13-11
+
+Emiliano Costa: rng1 = 45 + 9 - 12 + 1 = 43
+rng2 = 46 + 9 - 11 + 1 = 45
+Groundout
+Team 1 pitcher (Luciano Garrido): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 13-11
+
+Francisco Illescas: rng1 = 17 + 7 - 12 + 1 = 13
+rng2 = 31 + 6 - 11 + 1 = 27
+Groundout
+Team 1 pitcher (Luciano Garrido): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 13-11
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 15
+Team 2 hits: 15
+Team 1 runs: 13
+Team 2 runs: 11
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-10-08
+Lawrence Randolph	5	2	2	0	0	1	4	1	1					Memphis
+Sip Hyun-Ki	5	3	3	0	0	2	3	1	1	
+Phoenix Moore	6	1	1	0	0	1	3	0	2	
+Trace Spears	4	1	2	1	0	0	0	1	1	
+Mason Foster	4	1	2	0	0	0	1	1	1	
+Parker Dillard	4	0	0	0	0	0	0	1	2	
+Patrick Marshall	4	1	1	0	0	0	0	1	0	
+Readale Roberson	5	2	2	0	0	0	2	0	1	
+Juan Bolton	5	2	2	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Javier Manzanares	0	0	1	1	0	0	12	7	6	2	2	4	21	
+Brentley Dickson	0	0	1	0	0	0	1	4	3	0	0	0	6	
+Major Ortiz	0	0	1	0	0	0	5	1	1	1	0	1	5	
+Hiraoka Yosai	1	0	1	0	0	0	3	2	1	0	1	0	5	
+Luciano Garrido	0	0	1	0	0	0	6	1	0	0	0	0	7	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-10-08
+Finnegan Maxwell	4	1	1	0	0	1	2	0	0					Dallas
+Angel Gutiérrez	5	1	3	0	0	0	2	0	0	
+Randy Carson	5	2	2	0	0	2	3	0	1	
+Nick Hamburger	5	0	2	1	0	0	0	0	0	
+Jerome Goodwin	5	1	0	0	0	0	0	0	2	
+Casey Myers-Morgan	3	2	1	0	0	0	0	1	0	
+Emiliano Costa	4	3	2	0	0	0	1	1	0	
+Francisco Illescas	5	0	2	1	0	0	1	0	2	
+Ameer Jacobson	3	1	2	0	0	0	2	1	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Dylan Werth	0	0	1	1	0	0	9	5	6	2	2	4	16	
+Douglas Bosak	0	0	1	0	0	0	2	4	3	1	0	0	6	
+Sergio Narvaez	0	0	1	0	0	0	4	0	0	0	1	1	5	
+Ezequiel Santangelo	0	0	1	0	0	0	3	1	1	1	0	1	4	
+Seno Mashiro	0	1	1	0	0	0	9	5	3	0	3	4	17	

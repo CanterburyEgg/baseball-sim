@@ -1,0 +1,719 @@
+TOP INNING 1
+
+Lawrence Randolph: rng1 = 1 + 15 - 8 - 1 = 7
+Strikeout
+Team 2 pitcher (Kyo Hyun-Woo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Sip Hyun-Ki: rng1 = 1 + 15 - 8 - 1 = 7
+Strikeout
+Team 2 pitcher (Kyo Hyun-Woo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Phoenix Moore: rng1 = 65 + 14 - 8 - 1 = 70
+Walk
+Team 2 pitcher (Kyo Hyun-Woo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Trace Spears: rng1 = 33 + 9 - 8 - 1 = 33
+rng2 = 22 + 12 - 8 - 1 = 25
+Groundout
+Team 2 pitcher (Kyo Hyun-Woo): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+George Nagle: rng1 = 4 + 15 - 9 + 1 = 11
+rng2 = 52 + 14 - 9 + 1 = 58
+Lineout
+Team 1 pitcher (Javier Manzanares): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Antonio Carrera: rng1 = 35 + 15 - 9 + 1 = 42
+rng2 = 84 + 11 - 9 + 1 = 87
+Flyout
+Team 1 pitcher (Javier Manzanares): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jason Burress: rng1 = 7 + 14 - 9 + 1 = 13
+rng2 = 11 + 10 - 9 + 1 = 13
+Groundout
+Team 1 pitcher (Javier Manzanares): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Mason Foster: rng1 = 1 + 14 - 8 - 1 = 6
+Strikeout
+Team 2 pitcher (Kyo Hyun-Woo): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Parker Dillard: rng1 = 90 + 8 - 8 - 1 = 89
+Walk
+Team 2 pitcher (Kyo Hyun-Woo): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Patrick Marshall: rng1 = 72 + 8 - 8 - 1 = 71
+Walk
+Team 2 pitcher (Kyo Hyun-Woo): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Readale Roberson: rng1 = 68 + 5 - 8 - 1 = 64
+rng2 = 97 + 8 - 8 - 1 = 96
+Flyout
+Team 2 pitcher (Kyo Hyun-Woo): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Juan Bolton: rng1 = 11 + 3 - 8 - 1 = 5
+Strikeout
+Team 2 pitcher (Kyo Hyun-Woo): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Charles Harris: rng1 = 28 + 8 - 9 + 1 = 28
+rng2 = 69 + 10 - 9 + 1 = 71
+Flyout
+Team 1 pitcher (Javier Manzanares): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Bautista Saelices: rng1 = 100 + 9 - 9 + 1 = 101
+rng2 = 9 + 8 - 9 + 1 = 9
+Single
+Team 1 pitcher (Javier Manzanares): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Noah Fontenot: rng1 = 52 + 9 - 9 + 1 = 53
+rng2 = 34 + 7 - 9 + 1 = 33
+Groundout
+Team 1 pitcher (Javier Manzanares): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 3
+
+Lawrence Randolph: rng1 = 4 + 15 - 8 - 1 = 10
+Strikeout
+Team 2 pitcher (Kyo Hyun-Woo): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Sip Hyun-Ki: rng1 = 58 + 15 - 8 - 1 = 64
+rng2 = 36 + 10 - 8 - 1 = 37
+Groundout
+Team 2 pitcher (Kyo Hyun-Woo): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Phoenix Moore: rng1 = 63 + 14 - 8 - 1 = 68
+rng2 = 59 + 12 - 8 - 1 = 62
+Flyout
+Team 2 pitcher (Kyo Hyun-Woo): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Dante Arias: rng1 = 70 + 10 - 9 + 1 = 72
+rng2 = 11 + 6 - 9 + 1 = 9
+Single
+Team 1 pitcher (Javier Manzanares): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Albert Lang: rng1 = 2 + 5 - 9 + 1 = -1
+Strikeout
+Team 1 pitcher (Javier Manzanares): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Nathan Kaur: rng1 = 80 + 7 - 9 + 1 = 79
+rng2 = 30 + 5 - 9 + 1 = 27
+Single
+Team 1 pitcher (Javier Manzanares): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: [8,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+George Nagle: rng1 = 82 + 15 - 9 + 1 = 89
+Walk
+Team 1 pitcher (Javier Manzanares): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: [0,0], base2: [8,0], base3: [6,0]
+base1: true, base2: true, base3: true
+Score: 0-0
+
+Antonio Carrera: rng1 = 99 + 15 - 9 + 1 = 106
+rng2 = 85 + 11 - 9 + 1 = 88
+Double
+Team 1 pitcher (Javier Manzanares): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 1
+
+base1: false, base2: [1,0], base3: [0,0]
+base1: false, base2: true, base3: true
+Score: 0-2
+
+Jason Burress: rng1 = 17 + 14 - 9 + 1 = 23
+Strikeout
+Team 1 pitcher (Javier Manzanares): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 2
+
+base1: false, base2: [1,0], base3: [0,0]
+base1: false, base2: true, base3: true
+Score: 0-2
+
+Charles Harris: rng1 = 78 + 8 - 9 + 1 = 78
+rng2 = 57 + 10 - 9 + 1 = 59
+Single
+Team 1 pitcher (Javier Manzanares): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Bautista Saelices: rng1 = 58 + 9 - 9 + 1 = 59
+rng2 = 69 + 8 - 9 + 1 = 69
+Flyout
+Team 1 pitcher (Javier Manzanares): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+TOP INNING 4
+
+Trace Spears: rng1 = 75 + 9 - 8 - 1 = 75
+rng2 = 17 + 12 - 8 - 1 = 20
+Single
+Team 2 pitcher (Kyo Hyun-Woo): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Mason Foster: rng1 = 41 + 14 - 8 - 1 = 46
+rng2 = 13 + 9 - 8 - 1 = 13
+Groundout
+Team 2 pitcher (Kyo Hyun-Woo): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Parker Dillard: rng1 = 63 + 8 - 8 - 1 = 62
+rng2 = 52 + 9 - 8 - 1 = 52
+Lineout
+Team 2 pitcher (Kyo Hyun-Woo): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+BOTTOM INNING 4
+
+Noah Fontenot: rng1 = 20 + 9 - 9 + 1 = 21
+Strikeout
+Team 1 pitcher (Javier Manzanares): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Dante Arias: rng1 = 12 + 10 - 9 + 1 = 14
+rng2 = 91 + 6 - 9 + 1 = 89
+Flyout
+Team 1 pitcher (Javier Manzanares): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Albert Lang: rng1 = 15 + 5 - 9 + 1 = 12
+rng2 = 43 + 7 - 9 + 1 = 42
+Groundout
+Team 1 pitcher (Javier Manzanares): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+TOP INNING 5
+
+Patrick Marshall: rng1 = 84 + 8 - 8 - 1 = 83
+rng2 = 86 + 9 - 8 - 1 = 86
+Double
+Team 2 pitcher (Kyo Hyun-Woo): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 0
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-4
+
+Readale Roberson: rng1 = 19 + 5 - 8 - 1 = 15
+rng2 = 48 + 8 - 8 - 1 = 47
+Groundout
+Team 2 pitcher (Kyo Hyun-Woo): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 1
+
+base1: false, base2: false, base3: [6,0]
+base1: false, base2: false, base3: true
+Score: 0-4
+
+Juan Bolton: rng1 = 84 + 3 - 8 - 1 = 78
+rng2 = 59 + 8 - 8 - 1 = 58
+Single
+Team 2 pitcher (Kyo Hyun-Woo): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Lawrence Randolph: rng1 = 8 + 15 - 8 - 1 = 14
+rng2 = 12 + 11 - 8 - 1 = 14
+Groundout
+Team 2 pitcher (Kyo Hyun-Woo): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Sip Hyun-Ki: rng1 = 78 + 15 - 8 - 1 = 84
+rng2 = 81 + 10 - 8 - 1 = 82
+Home run
+Team 2 pitcher (Kyo Hyun-Woo): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Phoenix Moore: rng1 = 55 + 14 - 8 - 1 = 60
+rng2 = 78 + 12 - 8 - 1 = 81
+Flyout
+Team 2 pitcher (Kyo Hyun-Woo): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+BOTTOM INNING 5
+
+Nathan Kaur: rng1 = 64 + 7 - 9 + 1 = 63
+rng2 = 62 + 5 - 9 + 1 = 59
+Flyout
+Team 1 pitcher (Javier Manzanares): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+George Nagle: rng1 = 22 + 15 - 9 + 1 = 29
+rng2 = 71 + 14 - 9 + 1 = 77
+Flyout
+Team 1 pitcher (Javier Manzanares): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Antonio Carrera: rng1 = 9 + 15 - 9 + 1 = 16
+Strikeout
+Team 1 pitcher (Javier Manzanares): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Rodrigo Valerio
+
+Trace Spears: rng1 = 22 + 9 - 11 - 1 = 19
+Strikeout
+Team 2 pitcher (Rodrigo Valerio): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Mason Foster: rng1 = 68 + 14 - 11 - 1 = 70
+Walk
+Team 2 pitcher (Rodrigo Valerio): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-4
+
+Parker Dillard: rng1 = 98 + 8 - 11 - 1 = 94
+rng2 = 42 + 9 - 10 - 1 = 40
+Single
+Team 2 pitcher (Rodrigo Valerio): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [5,1], base2: false, base3: [4,1]
+base1: true, base2: false, base3: true
+Score: 3-4
+
+Patrick Marshall: rng1 = 8 + 8 - 11 - 1 = 4
+Strikeout
+Team 2 pitcher (Rodrigo Valerio): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [5,1], base2: false, base3: [4,1]
+base1: true, base2: false, base3: true
+Score: 3-4
+
+Readale Roberson: rng1 = 8 + 5 - 11 - 1 = 1
+Strikeout
+Team 2 pitcher (Rodrigo Valerio): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Brentley Dickson
+
+Jason Burress: rng1 = 80 + 14 - 8 + 1 = 87
+Walk
+Team 1 pitcher (Brentley Dickson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-4
+
+Charles Harris: rng1 = 71 + 8 - 8 + 1 = 72
+rng2 = 42 + 10 - 7 + 1 = 46
+Single
+Team 1 pitcher (Brentley Dickson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [3,1], base2: [2,1], base3: false
+base1: true, base2: true, base3: false
+Score: 3-4
+
+Bautista Saelices: rng1 = 88 + 9 - 8 + 1 = 90
+Walk
+Team 1 pitcher (Brentley Dickson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 0
+
+base1: [4,1], base2: [3,1], base3: [2,1]
+base1: true, base2: true, base3: true
+Score: 3-4
+
+Noah Fontenot: rng1 = 43 + 9 - 8 + 1 = 45
+rng2 = 79 + 7 - 7 + 1 = 80
+Flyout
+Team 1 pitcher (Brentley Dickson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [4,1], base2: [3,1], base3: [2,1]
+base1: true, base2: true, base3: true
+Score: 3-4
+
+Dante Arias: rng1 = 42 + 10 - 8 + 1 = 45
+rng2 = 83 + 6 - 7 + 1 = 83
+Flyout
+Team 1 pitcher (Brentley Dickson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: [4,1], base2: [3,1], base3: [2,1]
+base1: true, base2: true, base3: true
+Score: 3-4
+
+Albert Lang: rng1 = 39 + 5 - 8 + 1 = 37
+rng2 = 76 + 7 - 7 + 1 = 77
+Flyout
+Team 1 pitcher (Brentley Dickson): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Taylor Murphy
+
+Juan Bolton: rng1 = 85 + 3 - 14 - 1 = 73
+rng2 = 14 + 8 - 12 - 1 = 9
+Single
+Team 2 pitcher (Taylor Murphy): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-4
+
+Lawrence Randolph: rng1 = 39 + 15 - 14 - 1 = 39
+rng2 = 55 + 11 - 12 - 1 = 53
+Lineout
+Team 2 pitcher (Taylor Murphy): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-4
+
+Sip Hyun-Ki: rng1 = 24 + 15 - 14 - 1 = 24
+Strikeout
+Team 2 pitcher (Taylor Murphy): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-4
+
+Phoenix Moore: rng1 = 9 + 14 - 14 - 1 = 8
+Strikeout
+Team 2 pitcher (Taylor Murphy): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Major Ortiz
+
+Nathan Kaur: rng1 = 86 + 7 - 9 + 1 = 85
+rng2 = 78 + 5 - 11 + 1 = 73
+Double
+Team 1 pitcher (Major Ortiz): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [8,2], base3: false
+base1: false, base2: true, base3: false
+Score: 3-4
+
+George Nagle: rng1 = 96 + 15 - 9 + 1 = 103
+rng2 = 72 + 14 - 11 + 1 = 76
+Double
+Team 1 pitcher (Major Ortiz): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: false, base2: [0,2], base3: false
+base1: false, base2: true, base3: false
+Score: 3-5
+
+Antonio Carrera: rng1 = 22 + 15 - 9 + 1 = 29
+rng2 = 15 + 11 - 11 + 1 = 16
+Groundout
+Team 1 pitcher (Major Ortiz): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [0,2], base3: false
+base1: false, base2: true, base3: false
+Score: 3-5
+
+Jason Burress: rng1 = 61 + 14 - 9 + 1 = 67
+rng2 = 94 + 10 - 11 + 1 = 94
+Flyout
+Team 1 pitcher (Major Ortiz): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [0,2], base3: false
+base1: false, base2: true, base3: false
+Score: 3-5
+
+Charles Harris: rng1 = 81 + 8 - 9 + 1 = 81
+rng2 = 4 + 10 - 11 + 1 = 4
+Single
+Team 1 pitcher (Major Ortiz): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: [3,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-6
+
+Bautista Saelices: rng1 = 16 + 9 - 9 + 1 = 17
+Strikeout
+Team 1 pitcher (Major Ortiz): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-6
+
+-----------------------
+
+TOP INNING 8
+
+Trace Spears: rng1 = 74 + 9 - 14 - 1 = 68
+rng2 = 15 + 12 - 12 - 1 = 14
+Groundout
+Team 2 pitcher (Taylor Murphy): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-6
+
+Mason Foster: rng1 = 44 + 14 - 14 - 1 = 43
+rng2 = 3 + 9 - 12 - 1 = -1
+Groundout
+Team 2 pitcher (Taylor Murphy): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-6
+
+Parker Dillard: rng1 = 4 + 8 - 14 - 1 = -3
+Strikeout
+Team 2 pitcher (Taylor Murphy): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-6
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Hiraoka Yosai
+
+Noah Fontenot: rng1 = 48 + 9 - 8 + 1 = 50
+rng2 = 70 + 7 - 4 + 1 = 74
+Flyout
+Team 1 pitcher (Hiraoka Yosai): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-6
+
+Dante Arias: rng1 = 59 + 10 - 8 + 1 = 62
+rng2 = 14 + 6 - 4 + 1 = 17
+Groundout
+Team 1 pitcher (Hiraoka Yosai): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-6
+
+Albert Lang: rng1 = 37 + 5 - 8 + 1 = 35
+rng2 = 53 + 7 - 4 + 1 = 57
+Lineout
+Team 1 pitcher (Hiraoka Yosai): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-6
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Macos Alguacil
+
+Patrick Marshall: rng1 = 43 + 8 - 14 - 1 = 36
+rng2 = 13 + 9 - 13 - 1 = 8
+Groundout
+Team 2 pitcher (Macos Alguacil): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-6
+
+Readale Roberson: rng1 = 10 + 5 - 14 - 1 = 0
+Strikeout
+Team 2 pitcher (Macos Alguacil): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-6
+
+Juan Bolton: rng1 = 80 + 3 - 14 - 1 = 68
+rng2 = 80 + 8 - 13 - 1 = 74
+Flyout
+Team 2 pitcher (Macos Alguacil): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-6
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 6
+Team 2 hits: 9
+Team 1 runs: 3
+Team 2 runs: 6
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-10-16
+Lawrence Randolph	4	1	0	0	0	0	0	0	2					Memphis
+Sip Hyun-Ki	4	1	1	0	0	1	2	0	2	
+Phoenix Moore	3	0	0	0	0	0	0	1	1	
+Trace Spears	4	0	1	0	0	0	0	0	1	
+Mason Foster	3	0	0	0	0	0	0	1	1	
+Parker Dillard	3	0	1	0	0	0	0	1	1	
+Patrick Marshall	3	1	1	1	0	0	0	1	1	
+Readale Roberson	4	0	0	0	0	0	0	0	2	
+Juan Bolton	4	0	2	0	0	0	1	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Javier Manzanares	0	1	1	1	0	0	15	5	4	0	1	4	20	
+Brentley Dickson	0	0	1	0	0	0	3	1	0	0	2	0	6	
+Major Ortiz	0	0	1	0	0	0	3	3	2	0	0	1	6	
+Hiraoka Yosai	0	0	1	0	0	0	3	0	0	0	0	0	3	
+Luciano Garrido	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2022-10-16
+George Nagle	3	2	1	1	0	0	1	1	0					Las Vegas
+Antonio Carrera	4	1	1	1	0	0	2	0	1	
+Jason Burress	3	0	0	0	0	0	0	1	1	
+Charles Harris	4	0	3	0	0	0	3	0	0	
+Bautista Saelices	3	0	1	0	0	0	0	1	1	
+Noah Fontenot	4	0	0	0	0	0	0	0	1	
+Dante Arias	4	1	1	0	0	0	0	0	0	
+Albert Lang	4	0	0	0	0	0	0	0	1	
+Nathan Kaur	3	2	2	1	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Kyo Hyun-Woo	1	0	1	1	0	0	15	4	3	1	3	5	21	
+Rodrigo Valerio	0	0	1	0	0	0	3	1	0	0	1	3	5	
+Taylor Murphy	0	0	1	0	0	0	6	1	0	0	0	3	7	
+Jacob Wallace	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Macos Alguacil	0	0	1	0	1	1	3	0	0	0	0	1	3	

@@ -1,0 +1,847 @@
+TOP INNING 1
+
+Antonio Carrera: rng1 = 77 + 15 - 8 - 1 = 83
+rng2 = 12 + 13 - 10 - 1 = 14
+Single
+Team 2 pitcher (Gage Atkins): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+George Nagle: rng1 = 68 + 15 - 8 - 1 = 74
+rng2 = 8 + 14 - 10 - 1 = 11
+Single
+Team 2 pitcher (Gage Atkins): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Dante Arias: rng1 = 12 + 10 - 8 - 1 = 13
+rng2 = 10 + 5 - 10 - 1 = 4
+Groundout
+Team 2 pitcher (Gage Atkins): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Jason Burress: rng1 = 91 + 12 - 8 - 1 = 94
+rng2 = 79 + 10 - 10 - 1 = 78
+Triple
+Team 2 pitcher (Gage Atkins): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: false, base3: [3,0]
+base1: false, base2: false, base3: true
+Score: 1-0
+
+Bautista Saelices: rng1 = 40 + 9 - 8 - 1 = 40
+rng2 = 88 + 9 - 10 - 1 = 86
+Flyout
+Team 2 pitcher (Gage Atkins): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Lawrence Randolph: rng1 = 15 + 15 - 9 + 1 = 22
+Strikeout
+Team 1 pitcher (Zaiden Payne): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Phoenix Moore: rng1 = 67 + 15 - 9 + 1 = 74
+rng2 = 8 + 11 - 8 + 1 = 12
+Single
+Team 1 pitcher (Zaiden Payne): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Sip Hyun-Ki: rng1 = 91 + 15 - 9 + 1 = 98
+rng2 = 24 + 12 - 8 + 1 = 29
+Single
+Team 1 pitcher (Zaiden Payne): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Trace Spears: rng1 = 28 + 8 - 9 + 1 = 28
+rng2 = 53 + 12 - 8 + 1 = 58
+Lineout
+Team 1 pitcher (Zaiden Payne): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Mason Foster: rng1 = 99 + 12 - 9 + 1 = 103
+rng2 = 71 + 10 - 8 + 1 = 74
+Double
+Team 1 pitcher (Zaiden Payne): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-2
+
+Patrick Marshall: rng1 = 34 + 8 - 9 + 1 = 34
+rng2 = 39 + 9 - 8 + 1 = 41
+Groundout
+Team 1 pitcher (Zaiden Payne): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 2
+
+Noah Fontenot: rng1 = 76 + 10 - 8 - 1 = 77
+rng2 = 12 + 6 - 10 - 1 = 7
+Single
+Team 2 pitcher (Gage Atkins): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Terry Schroeder: rng1 = 31 + 6 - 8 - 1 = 28
+rng2 = 81 + 5 - 10 - 1 = 75
+Flyout
+Team 2 pitcher (Gage Atkins): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Ameer Jacobson: rng1 = 5 + 1 - 8 - 1 = -3
+Strikeout
+Team 2 pitcher (Gage Atkins): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Axel Chavez: rng1 = 36 + 4 - 8 - 1 = 31
+rng2 = 27 + 5 - 10 - 1 = 21
+Groundout
+Team 2 pitcher (Gage Atkins): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 2
+
+Parker Dillard: rng1 = 15 + 7 - 9 + 1 = 14
+rng2 = 58 + 9 - 8 + 1 = 60
+Flyout
+Team 1 pitcher (Zaiden Payne): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Readale Roberson: rng1 = 35 + 5 - 9 + 1 = 32
+rng2 = 18 + 8 - 8 + 1 = 19
+Groundout
+Team 1 pitcher (Zaiden Payne): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Aidan Sharp: rng1 = 68 + 5 - 9 + 1 = 65
+rng2 = 47 + 5 - 8 + 1 = 45
+Groundout
+Team 1 pitcher (Zaiden Payne): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 3
+
+Antonio Carrera: rng1 = 1 + 15 - 8 - 1 = 7
+Strikeout
+Team 2 pitcher (Gage Atkins): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+George Nagle: rng1 = 61 + 15 - 8 - 1 = 67
+rng2 = 53 + 14 - 10 - 1 = 56
+Lineout
+Team 2 pitcher (Gage Atkins): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Dante Arias: rng1 = 28 + 10 - 8 - 1 = 29
+rng2 = 23 + 5 - 10 - 1 = 17
+Groundout
+Team 2 pitcher (Gage Atkins): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 3
+
+Lawrence Randolph: rng1 = 79 + 15 - 9 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Zaiden Payne): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Phoenix Moore: rng1 = 60 + 15 - 9 + 1 = 67
+rng2 = 12 + 11 - 8 + 1 = 16
+Groundout
+Team 1 pitcher (Zaiden Payne): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-2
+
+Sip Hyun-Ki: rng1 = 94 + 15 - 9 + 1 = 101
+rng2 = 61 + 12 - 8 + 1 = 66
+Double
+Team 1 pitcher (Zaiden Payne): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-3
+
+Trace Spears: rng1 = 17 + 8 - 9 + 1 = 17
+Strikeout
+Team 1 pitcher (Zaiden Payne): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-3
+
+Mason Foster: rng1 = 86 + 12 - 9 + 1 = 90
+Walk
+Team 1 pitcher (Zaiden Payne): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 2
+
+base1: [4,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-3
+
+Patrick Marshall: rng1 = 36 + 8 - 9 + 1 = 36
+rng2 = 44 + 9 - 8 + 1 = 46
+Groundout
+Team 1 pitcher (Zaiden Payne): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 4
+
+Jason Burress: rng1 = 47 + 12 - 8 - 1 = 50
+rng2 = 39 + 10 - 10 - 1 = 38
+Groundout
+Team 2 pitcher (Gage Atkins): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Bautista Saelices: rng1 = 59 + 9 - 8 - 1 = 59
+rng2 = 27 + 9 - 10 - 1 = 25
+Groundout
+Team 2 pitcher (Gage Atkins): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Noah Fontenot: rng1 = 56 + 10 - 8 - 1 = 57
+rng2 = 55 + 6 - 10 - 1 = 50
+Lineout
+Team 2 pitcher (Gage Atkins): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+BOTTOM INNING 4
+
+Parker Dillard: rng1 = 92 + 7 - 9 + 1 = 91
+rng2 = 18 + 9 - 8 + 1 = 20
+Single
+Team 1 pitcher (Zaiden Payne): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Readale Roberson: rng1 = 11 + 5 - 9 + 1 = 8
+Strikeout
+Team 1 pitcher (Zaiden Payne): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Aidan Sharp: rng1 = 2 + 5 - 9 + 1 = -1
+Strikeout
+Team 1 pitcher (Zaiden Payne): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Lawrence Randolph: rng1 = 73 + 15 - 9 + 1 = 80
+rng2 = 68 + 12 - 8 + 1 = 73
+Double
+Team 1 pitcher (Zaiden Payne): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 2
+
+base1: false, base2: [0,0], base3: [6,0]
+base1: false, base2: true, base3: true
+Score: 1-3
+
+Phoenix Moore: rng1 = 88 + 15 - 9 + 1 = 95
+rng2 = 66 + 11 - 8 + 1 = 70
+Double
+Team 1 pitcher (Zaiden Payne): 20 batters faced, 5 runs allowed = 20 + 12.5 = 32.5, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-5
+
+Sip Hyun-Ki: rng1 = 43 + 15 - 9 + 1 = 50
+rng2 = 45 + 12 - 8 + 1 = 50
+Lineout
+Team 1 pitcher (Zaiden Payne): 21 batters faced, 5 runs allowed = 21 + 12.5 = 33.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+TOP INNING 5
+
+Terry Schroeder: rng1 = 57 + 6 - 8 - 1 = 54
+rng2 = 30 + 5 - 10 - 1 = 24
+Groundout
+Team 2 pitcher (Gage Atkins): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Ameer Jacobson: rng1 = 76 + 1 - 8 - 1 = 68
+rng2 = 96 + 8 - 10 - 1 = 93
+Flyout
+Team 2 pitcher (Gage Atkins): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Axel Chavez: rng1 = 54 + 4 - 8 - 1 = 49
+rng2 = 47 + 5 - 10 - 1 = 41
+Groundout
+Team 2 pitcher (Gage Atkins): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Rodrigo Valerio
+
+Trace Spears: rng1 = 83 + 8 - 10 + 1 = 82
+rng2 = 21 + 12 - 10 + 1 = 24
+Single
+Team 1 pitcher (Rodrigo Valerio): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Mason Foster: rng1 = 4 + 12 - 10 + 1 = 7
+Strikeout
+Team 1 pitcher (Rodrigo Valerio): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Patrick Marshall: rng1 = 91 + 8 - 10 + 1 = 90
+Walk
+Team 1 pitcher (Rodrigo Valerio): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [5,1], base2: [3,1], base3: false
+base1: true, base2: true, base3: false
+Score: 1-5
+
+Parker Dillard: rng1 = 41 + 7 - 10 + 1 = 39
+rng2 = 3 + 9 - 10 + 1 = 3
+Groundout
+Team 1 pitcher (Rodrigo Valerio): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+TOP INNING 6
+
+Antonio Carrera: rng1 = 78 + 15 - 8 - 1 = 84
+rng2 = 92 + 13 - 10 - 1 = 94
+Home run
+Team 2 pitcher (Gage Atkins): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-5
+
+George Nagle: rng1 = 10 + 15 - 8 - 1 = 16
+Strikeout
+Team 2 pitcher (Gage Atkins): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-5
+
+Dante Arias: rng1 = 80 + 10 - 8 - 1 = 81
+rng2 = 5 + 5 - 10 - 1 = -1
+Single
+Team 2 pitcher (Gage Atkins): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-5
+
+Jason Burress: rng1 = 1 + 12 - 8 - 1 = 4
+Strikeout
+Team 2 pitcher (Gage Atkins): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-5
+
+Bautista Saelices: rng1 = 21 + 9 - 8 - 1 = 21
+Strikeout
+Team 2 pitcher (Gage Atkins): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-5
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Taylor Murphy
+
+Readale Roberson: rng1 = 81 + 5 - 15 + 1 = 72
+rng2 = 41 + 8 - 13 + 1 = 37
+Single
+Team 1 pitcher (Taylor Murphy): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-5
+
+Aidan Sharp: rng1 = 34 + 5 - 15 + 1 = 25
+Strikeout
+Team 1 pitcher (Taylor Murphy): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-5
+
+Lawrence Randolph: rng1 = 27 + 15 - 15 + 1 = 28
+rng2 = 45 + 12 - 13 + 1 = 45
+Groundout
+Team 1 pitcher (Taylor Murphy): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [7,2], base3: false
+base1: false, base2: true, base3: false
+Score: 2-5
+
+Phoenix Moore: rng1 = 34 + 15 - 15 + 1 = 35
+rng2 = 92 + 11 - 13 + 1 = 91
+Flyout
+Team 1 pitcher (Taylor Murphy): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-5
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Brentley Dickson
+
+Noah Fontenot: rng1 = 86 + 10 - 9 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Brentley Dickson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-5
+
+Terry Schroeder: rng1 = 90 + 6 - 9 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Brentley Dickson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [6,1], base2: [5,1], base3: false
+base1: true, base2: true, base3: false
+Score: 2-5
+
+Ameer Jacobson: rng1 = 60 + 1 - 9 - 1 = 51
+rng2 = 29 + 8 - 7 - 1 = 29
+Groundout
+Team 2 pitcher (Brentley Dickson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: [5,1]
+base1: false, base2: false, base3: true
+Score: 2-5
+
+Axel Chavez: rng1 = 91 + 4 - 9 - 1 = 85
+rng2 = 33 + 5 - 7 - 1 = 30
+Single
+Team 2 pitcher (Brentley Dickson): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-5
+
+Antonio Carrera: rng1 = 70 + 15 - 9 - 1 = 75
+rng2 = 58 + 13 - 7 - 1 = 63
+Single
+Team 2 pitcher (Brentley Dickson): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [0,1], base2: false, base3: [8,1]
+base1: true, base2: false, base3: true
+Score: 3-5
+
+George Nagle: rng1 = 81 + 15 - 9 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Brentley Dickson): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: [1,1], base2: [0,1], base3: [8,1]
+base1: true, base2: true, base3: true
+Score: 3-5
+
+Dante Arias: rng1 = 78 + 10 - 9 - 1 = 78
+rng2 = 100 + 5 - 7 - 1 = 97
+Home run
+Team 2 pitcher (Brentley Dickson): 7 batters faced, 5 runs allowed = 7 + 12.5 = 19.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-5
+
+Team 2 pitcher change to Major Ortiz
+
+Jason Burress: rng1 = 87 + 12 - 7 - 1 = 91
+rng2 = 92 + 10 - 9 - 1 = 92
+Double
+Team 2 pitcher (Major Ortiz): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: false, base2: [3,2], base3: false
+base1: false, base2: true, base3: false
+Score: 7-5
+
+Bautista Saelices: rng1 = 68 + 9 - 7 - 1 = 69
+Walk
+Team 2 pitcher (Major Ortiz): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: [4,2], base2: [3,2], base3: false
+base1: true, base2: true, base3: false
+Score: 7-5
+
+Noah Fontenot: rng1 = 100 + 10 - 7 - 1 = 102
+rng2 = 2 + 6 - 9 - 1 = -2
+Single
+Team 2 pitcher (Major Ortiz): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: [5,2], base2: false, base3: [4,2]
+base1: true, base2: false, base3: true
+Score: 8-5
+
+Terry Schroeder: rng1 = 92 + 6 - 7 - 1 = 90
+Walk
+Team 2 pitcher (Major Ortiz): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [6,2], base2: [5,2], base3: [4,2]
+base1: true, base2: true, base3: true
+Score: 8-5
+
+Ameer Jacobson: rng1 = 79 + 1 - 7 - 1 = 72
+rng2 = 42 + 8 - 9 - 1 = 40
+Single
+Team 2 pitcher (Major Ortiz): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: [7,2], base2: [6,2], base3: [5,2]
+base1: true, base2: true, base3: true
+Score: 9-5
+
+Axel Chavez: rng1 = 59 + 4 - 7 - 1 = 55
+rng2 = 40 + 5 - 9 - 1 = 35
+Groundout
+Team 2 pitcher (Major Ortiz): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-5
+
+-----------------------
+
+BOTTOM INNING 7
+
+Sip Hyun-Ki: rng1 = 30 + 15 - 15 + 1 = 31
+rng2 = 93 + 12 - 13 + 1 = 93
+Flyout
+Team 1 pitcher (Taylor Murphy): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-5
+
+Trace Spears: rng1 = 59 + 8 - 15 + 1 = 53
+rng2 = 78 + 12 - 13 + 1 = 78
+Flyout
+Team 1 pitcher (Taylor Murphy): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-5
+
+Mason Foster: rng1 = 3 + 12 - 15 + 1 = 1
+Strikeout
+Team 1 pitcher (Taylor Murphy): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-5
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Hiraoka Yosai
+
+Antonio Carrera: rng1 = 61 + 15 - 9 - 1 = 66
+rng2 = 88 + 13 - 5 - 1 = 95
+Flyout
+Team 2 pitcher (Hiraoka Yosai): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-5
+
+George Nagle: rng1 = 59 + 15 - 9 - 1 = 64
+rng2 = 73 + 14 - 5 - 1 = 81
+Flyout
+Team 2 pitcher (Hiraoka Yosai): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-5
+
+Dante Arias: rng1 = 62 + 10 - 9 - 1 = 62
+rng2 = 69 + 5 - 5 - 1 = 68
+Flyout
+Team 2 pitcher (Hiraoka Yosai): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-5
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Phil Segee
+
+Patrick Marshall: rng1 = 5 + 8 - 9 + 1 = 5
+Strikeout
+Team 1 pitcher (Phil Segee): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-5
+
+Parker Dillard: rng1 = 82 + 7 - 9 + 1 = 81
+rng2 = 90 + 9 - 9 + 1 = 91
+Double
+Team 1 pitcher (Phil Segee): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [6,3], base3: false
+base1: false, base2: true, base3: false
+Score: 9-5
+
+Readale Roberson: rng1 = 90 + 5 - 9 + 1 = 87
+Walk
+Team 1 pitcher (Phil Segee): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [7,3], base2: [6,3], base3: false
+base1: true, base2: true, base3: false
+Score: 9-5
+
+Aidan Sharp: rng1 = 68 + 5 - 9 + 1 = 65
+rng2 = 93 + 5 - 9 + 1 = 90
+Flyout
+Team 1 pitcher (Phil Segee): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [7,3], base2: [6,3], base3: false
+base1: true, base2: true, base3: false
+Score: 9-5
+
+Lawrence Randolph: rng1 = 99 + 15 - 9 + 1 = 106
+rng2 = 34 + 12 - 9 + 1 = 38
+Single
+Team 1 pitcher (Phil Segee): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [0,3], base2: false, base3: [7,3]
+base1: true, base2: false, base3: true
+Score: 9-6
+
+Phoenix Moore: rng1 = 81 + 15 - 9 + 1 = 88
+Walk
+Team 1 pitcher (Phil Segee): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: [1,3], base2: [0,3], base3: [7,3]
+base1: true, base2: true, base3: true
+Score: 9-6
+
+Sip Hyun-Ki: rng1 = 34 + 15 - 9 + 1 = 41
+rng2 = 44 + 12 - 9 + 1 = 48
+Lineout
+Team 1 pitcher (Phil Segee): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-6
+
+-----------------------
+
+TOP INNING 9
+
+Jason Burress: rng1 = 7 + 12 - 9 - 1 = 9
+Strikeout
+Team 2 pitcher (Hiraoka Yosai): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-6
+
+Bautista Saelices: rng1 = 10 + 9 - 9 - 1 = 9
+Strikeout
+Team 2 pitcher (Hiraoka Yosai): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-6
+
+Noah Fontenot: rng1 = 56 + 10 - 9 - 1 = 56
+rng2 = 87 + 6 - 5 - 1 = 87
+Flyout
+Team 2 pitcher (Hiraoka Yosai): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-6
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Macos Alguacil
+
+Trace Spears: rng1 = 41 + 8 - 15 + 1 = 35
+rng2 = 77 + 12 - 14 + 1 = 76
+Flyout
+Team 1 pitcher (Macos Alguacil): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-6
+
+Mason Foster: rng1 = 40 + 12 - 15 + 1 = 38
+rng2 = 52 + 10 - 14 + 1 = 49
+Lineout
+Team 1 pitcher (Macos Alguacil): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-6
+
+Patrick Marshall: rng1 = 96 + 8 - 15 + 1 = 90
+Walk
+Team 1 pitcher (Macos Alguacil): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [5,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-6
+
+Parker Dillard: rng1 = 34 + 7 - 15 + 1 = 27
+Strikeout
+Team 1 pitcher (Macos Alguacil): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-6
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 12
+Team 2 hits: 11
+Team 1 runs: 9
+Team 2 runs: 6
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-03-31
+Antonio Carrera	5	3	3	0	0	1	1	0	1					Las Vegas
+George Nagle	4	1	1	0	0	0	0	0	1	
+Dante Arias	5	1	2	0	0	1	5	0	0	
+Jason Burress	5	1	2	1	1	0	0	0	2	
+Bautista Saelices	4	1	0	0	0	0	0	1	2	
+Noah Fontenot	4	1	2	0	0	0	1	0	0	
+Terry Schroeder	2	0	0	0	0	0	0	1	0	
+Ameer Jacobson	4	0	1	0	0	0	1	0	1	
+Axel Chavez	4	1	1	0	0	0	1	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Zaiden Payne	0	0	1	1	0	0	12	7	5	0	1	4	21	
+Rodrigo Valerio	0	0	1	0	0	0	3	1	0	0	1	1	4	
+Taylor Murphy	1	0	1	0	0	0	6	1	0	0	0	2	7	
+Phil Segee	0	0	1	0	0	0	3	2	1	0	2	1	7	
+Macos Alguacil	0	0	1	0	1	1	3	0	0	0	1	1	4	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-03-31
+Lawrence Randolph	4	2	2	1	0	0	1	0	1					Memphis
+Phoenix Moore	4	1	2	1	0	0	2	1	0	
+Sip Hyun-Ki	5	1	2	1	0	0	1	0	0	
+Trace Spears	5	0	1	0	0	0	0	0	1	
+Mason Foster	4	0	1	1	0	0	2	1	2	
+Patrick Marshall	3	0	0	0	0	0	0	2	1	
+Parker Dillard	5	2	2	1	0	0	0	0	1	
+Readale Roberson	3	0	1	0	0	0	0	1	1	
+Aidan Sharp	4	0	0	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Gage Atkins	0	0	1	1	0	0	18	6	2	1	0	5	23	
+Brentley Dickson	0	1	1	0	0	0	2	3	5	1	0	0	7	
+Major Ortiz	0	0	1	0	0	0	1	3	2	0	2	0	6	
+Hiraoka Yosai	0	0	1	0	0	0	6	0	0	0	0	2	6	
+Luciano Garrido	0	0	0	0	0	0	0	0	0	0	0	0	0	

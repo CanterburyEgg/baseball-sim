@@ -1,0 +1,878 @@
+TOP INNING 1
+
+Byron Bartlett: rng1 = 88 + 15 - 6 - 1 = 96
+rng2 = 94 + 11 - 7 - 1 = 97
+Home run
+Team 2 pitcher (Jessie Alston): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Arturo Bellamy: rng1 = 33 + 13 - 6 - 1 = 39
+rng2 = 54 + 10 - 7 - 1 = 56
+Lineout
+Team 2 pitcher (Jessie Alston): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Edmundo Pousa: rng1 = 6 + 13 - 6 - 1 = 12
+rng2 = 34 + 9 - 7 - 1 = 35
+Groundout
+Team 2 pitcher (Jessie Alston): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Owen Williamson: rng1 = 86 + 6 - 6 - 1 = 85
+rng2 = 22 + 8 - 7 - 1 = 22
+Single
+Team 2 pitcher (Jessie Alston): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Devoreaux Waters: rng1 = 30 + 8 - 6 - 1 = 31
+rng2 = 24 + 5 - 7 - 1 = 21
+Groundout
+Team 2 pitcher (Jessie Alston): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Konner Knight: rng1 = 40 + 13 - 15 + 1 = 39
+rng2 = 25 + 4 - 15 + 1 = 15
+Groundout
+Team 1 pitcher (Raúl Pozo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Keli Alohilani: rng1 = 34 + 13 - 15 + 1 = 33
+rng2 = 51 + 8 - 15 + 1 = 45
+Groundout
+Team 1 pitcher (Raúl Pozo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Tomas Canto: rng1 = 46 + 12 - 15 + 1 = 44
+rng2 = 91 + 14 - 15 + 1 = 91
+Flyout
+Team 1 pitcher (Raúl Pozo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 2
+
+Oscar Pierce: rng1 = 79 + 6 - 6 - 1 = 78
+rng2 = 91 + 6 - 7 - 1 = 89
+Double
+Team 2 pitcher (Jessie Alston): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 0
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Fabián Sánchez: rng1 = 87 + 3 - 6 - 1 = 83
+rng2 = 50 + 8 - 7 - 1 = 50
+Single
+Team 2 pitcher (Jessie Alston): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Chon Il-Seong: rng1 = 78 + 6 - 6 - 1 = 77
+rng2 = 26 + 3 - 7 - 1 = 21
+Single
+Team 2 pitcher (Jessie Alston): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 0
+
+base1: [7,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 2-0
+
+Rakkan Gaines: rng1 = 36 + 3 - 6 - 1 = 32
+rng2 = 72 + 5 - 7 - 1 = 69
+Flyout
+Team 2 pitcher (Jessie Alston): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Byron Bartlett: rng1 = 73 + 15 - 6 - 1 = 81
+rng2 = 81 + 11 - 7 - 1 = 84
+Home run
+Team 2 pitcher (Jessie Alston): 10 batters faced, 5 runs allowed = 10 + 12.5 = 22.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Arturo Bellamy: rng1 = 69 + 13 - 6 - 1 = 75
+rng2 = 56 + 10 - 7 - 1 = 58
+Single
+Team 2 pitcher (Jessie Alston): 11 batters faced, 5 runs allowed = 11 + 12.5 = 23.5, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-0
+
+Edmundo Pousa: rng1 = 55 + 13 - 6 - 1 = 61
+rng2 = 84 + 9 - 7 - 1 = 85
+Flyout
+Team 2 pitcher (Jessie Alston): 12 batters faced, 5 runs allowed = 12 + 12.5 = 24.5, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-0
+
+Owen Williamson: rng1 = 7 + 6 - 6 - 1 = 6
+Strikeout
+Team 2 pitcher (Jessie Alston): 13 batters faced, 5 runs allowed = 13 + 12.5 = 25.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Jong Jung-Hwa: rng1 = 75 + 11 - 15 + 1 = 72
+rng2 = 66 + 13 - 15 + 1 = 65
+Double
+Team 1 pitcher (Raúl Pozo): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 5-0
+
+Jerome Goodwin: rng1 = 78 + 11 - 15 + 1 = 75
+rng2 = 54 + 9 - 15 + 1 = 49
+Single
+Team 1 pitcher (Raúl Pozo): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-1
+
+Hano Hiroki: rng1 = 80 + 8 - 15 + 1 = 74
+rng2 = 78 + 8 - 15 + 1 = 72
+Double
+Team 1 pitcher (Raúl Pozo): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 0
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 5-2
+
+Nehemiah Clark: rng1 = 88 + 2 - 15 + 1 = 76
+rng2 = 21 + 10 - 15 + 1 = 17
+Single
+Team 1 pitcher (Raúl Pozo): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-3
+
+Emmanuel Ramirez: rng1 = 79 + 7 - 15 + 1 = 72
+rng2 = 99 + 5 - 15 + 1 = 90
+Double
+Team 1 pitcher (Raúl Pozo): 8 batters faced, 4 runs allowed = 8 + 10.0 = 18.0, outs: 0
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 5-4
+
+Chwa Jung-Su: rng1 = 100 + 7 - 15 + 1 = 93
+rng2 = 74 + 5 - 15 + 1 = 65
+Double
+Team 1 pitcher (Raúl Pozo): 9 batters faced, 5 runs allowed = 9 + 12.5 = 21.5, outs: 0
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 5-5
+
+Konner Knight: rng1 = 41 + 13 - 15 + 1 = 40
+rng2 = 17 + 4 - 15 + 1 = 7
+Groundout
+Team 1 pitcher (Raúl Pozo): 10 batters faced, 5 runs allowed = 10 + 12.5 = 22.5, outs: 1
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 5-5
+
+Keli Alohilani: rng1 = 39 + 13 - 15 + 1 = 38
+rng2 = 81 + 8 - 15 + 1 = 75
+Flyout
+Team 1 pitcher (Raúl Pozo): 11 batters faced, 5 runs allowed = 11 + 12.5 = 23.5, outs: 2
+
+base1: false, base2: false, base3: [8,0]
+base1: false, base2: false, base3: true
+Score: 5-5
+
+Tomas Canto: rng1 = 97 + 12 - 15 + 1 = 95
+rng2 = 52 + 14 - 15 + 1 = 52
+Single
+Team 1 pitcher (Raúl Pozo): 12 batters faced, 6 runs allowed = 12 + 15.0 = 27.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-6
+
+Jong Jung-Hwa: rng1 = 32 + 11 - 15 + 1 = 29
+rng2 = 90 + 13 - 15 + 1 = 89
+Flyout
+Team 1 pitcher (Raúl Pozo): 13 batters faced, 6 runs allowed = 13 + 15.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-6
+
+-----------------------
+
+TOP INNING 3
+
+Devoreaux Waters: rng1 = 66 + 8 - 6 - 1 = 67
+rng2 = 79 + 5 - 7 - 1 = 76
+Flyout
+Team 2 pitcher (Jessie Alston): 14 batters faced, 5 runs allowed = 14 + 12.5 = 26.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-6
+
+Oscar Pierce: rng1 = 79 + 6 - 6 - 1 = 78
+rng2 = 74 + 6 - 7 - 1 = 72
+Double
+Team 2 pitcher (Jessie Alston): 15 batters faced, 5 runs allowed = 15 + 12.5 = 27.5, outs: 1
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 5-6
+
+Fabián Sánchez: rng1 = 35 + 3 - 6 - 1 = 31
+rng2 = 7 + 8 - 7 - 1 = 7
+Groundout
+Team 2 pitcher (Jessie Alston): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 2
+
+base1: false, base2: false, base3: [5,0]
+base1: false, base2: false, base3: true
+Score: 5-6
+
+Chon Il-Seong: rng1 = 76 + 6 - 6 - 1 = 75
+rng2 = 13 + 3 - 7 - 1 = 8
+Single
+Team 2 pitcher (Jessie Alston): 17 batters faced, 6 runs allowed = 17 + 15.0 = 32.0, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-6
+
+Rakkan Gaines: rng1 = 94 + 3 - 6 - 1 = 90
+Walk
+Team 2 pitcher (Jessie Alston): 18 batters faced, 6 runs allowed = 18 + 15.0 = 33.0, outs: 2
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 6-6
+
+Byron Bartlett: rng1 = 7 + 15 - 6 - 1 = 15
+rng2 = 45 + 11 - 7 - 1 = 48
+Lineout
+Team 2 pitcher (Jessie Alston): 19 batters faced, 6 runs allowed = 19 + 15.0 = 34.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-6
+
+-----------------------
+
+BOTTOM INNING 3
+
+Jerome Goodwin: rng1 = 17 + 11 - 15 + 1 = 14
+rng2 = 49 + 9 - 15 + 1 = 44
+Groundout
+Team 1 pitcher (Raúl Pozo): 14 batters faced, 6 runs allowed = 14 + 15.0 = 29.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-6
+
+Hano Hiroki: rng1 = 86 + 8 - 15 + 1 = 80
+rng2 = 86 + 8 - 15 + 1 = 80
+Home run
+Team 1 pitcher (Raúl Pozo): 15 batters faced, 7 runs allowed = 15 + 17.5 = 32.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-7
+
+Nehemiah Clark: rng1 = 98 + 2 - 15 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Raúl Pozo): 16 batters faced, 7 runs allowed = 16 + 17.5 = 33.5, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-7
+
+Emmanuel Ramirez: rng1 = 38 + 7 - 15 + 1 = 31
+rng2 = 36 + 5 - 15 + 1 = 27
+Groundout
+Team 1 pitcher (Raúl Pozo): 17 batters faced, 7 runs allowed = 17 + 17.5 = 34.5, outs: 2
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 6-7
+
+Chwa Jung-Su: rng1 = 75 + 7 - 15 + 1 = 68
+rng2 = 38 + 5 - 15 + 1 = 29
+Groundout
+Team 1 pitcher (Raúl Pozo): 18 batters faced, 7 runs allowed = 18 + 17.5 = 35.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-7
+
+-----------------------
+
+TOP INNING 4
+
+Team 2 pitcher change to Steve Randles
+
+Arturo Bellamy: rng1 = 21 + 13 - 12 - 1 = 21
+Strikeout
+Team 2 pitcher (Steve Randles): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-7
+
+Edmundo Pousa: rng1 = 41 + 13 - 12 - 1 = 41
+rng2 = 26 + 9 - 8 - 1 = 26
+Groundout
+Team 2 pitcher (Steve Randles): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-7
+
+Owen Williamson: rng1 = 43 + 6 - 12 - 1 = 36
+rng2 = 41 + 8 - 8 - 1 = 40
+Groundout
+Team 2 pitcher (Steve Randles): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-7
+
+-----------------------
+
+BOTTOM INNING 4
+
+Team 1 pitcher change to Kione Andrews
+
+Konner Knight: rng1 = 77 + 13 - 9 + 1 = 82
+rng2 = 13 + 4 - 7 + 1 = 11
+Single
+Team 1 pitcher (Kione Andrews): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-7
+
+Keli Alohilani: rng1 = 85 + 13 - 9 + 1 = 90
+Walk
+Team 1 pitcher (Kione Andrews): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,1], base2: [0,1], base3: false
+base1: true, base2: true, base3: false
+Score: 6-7
+
+Tomas Canto: rng1 = 68 + 12 - 9 + 1 = 72
+rng2 = 92 + 14 - 7 + 1 = 100
+Home run
+Team 1 pitcher (Kione Andrews): 3 batters faced, 3 runs allowed = 3 + 7.5 = 10.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-10
+
+Jong Jung-Hwa: rng1 = 17 + 11 - 9 + 1 = 20
+Strikeout
+Team 1 pitcher (Kione Andrews): 4 batters faced, 3 runs allowed = 4 + 7.5 = 11.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-10
+
+Jerome Goodwin: rng1 = 89 + 11 - 9 + 1 = 92
+rng2 = 21 + 9 - 7 + 1 = 24
+Single
+Team 1 pitcher (Kione Andrews): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 1
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-10
+
+Hano Hiroki: rng1 = 20 + 8 - 9 + 1 = 20
+Strikeout
+Team 1 pitcher (Kione Andrews): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-10
+
+Team 1 pitcher change to Brady Goodman
+
+Nehemiah Clark: rng1 = 70 + 2 - 14 + 1 = 59
+rng2 = 62 + 10 - 14 + 1 = 59
+Flyout
+Team 1 pitcher (Brady Goodman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-10
+
+-----------------------
+
+TOP INNING 5
+
+Devoreaux Waters: rng1 = 41 + 8 - 12 - 1 = 36
+rng2 = 69 + 5 - 8 - 1 = 65
+Flyout
+Team 2 pitcher (Steve Randles): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-10
+
+Oscar Pierce: rng1 = 93 + 6 - 12 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Steve Randles): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-10
+
+Fabián Sánchez: rng1 = 90 + 3 - 12 - 1 = 80
+rng2 = 3 + 8 - 8 - 1 = 2
+Single
+Team 2 pitcher (Steve Randles): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [6,1], base2: false, base3: [5,1]
+base1: true, base2: false, base3: true
+Score: 6-10
+
+Chon Il-Seong: rng1 = 34 + 6 - 12 - 1 = 27
+Strikeout
+Team 2 pitcher (Steve Randles): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [6,1], base2: false, base3: [5,1]
+base1: true, base2: false, base3: true
+Score: 6-10
+
+Rakkan Gaines: rng1 = 80 + 3 - 12 - 1 = 70
+Walk
+Team 2 pitcher (Steve Randles): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [8,1], base2: [6,1], base3: [5,1]
+base1: true, base2: true, base3: true
+Score: 6-10
+
+Byron Bartlett: rng1 = 54 + 15 - 12 - 1 = 56
+rng2 = 67 + 11 - 8 - 1 = 69
+Flyout
+Team 2 pitcher (Steve Randles): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-10
+
+-----------------------
+
+BOTTOM INNING 5
+
+Emmanuel Ramirez: rng1 = 74 + 7 - 14 + 1 = 68
+rng2 = 79 + 5 - 14 + 1 = 71
+Flyout
+Team 1 pitcher (Brady Goodman): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-10
+
+Chwa Jung-Su: rng1 = 54 + 7 - 14 + 1 = 48
+rng2 = 100 + 5 - 14 + 1 = 92
+Flyout
+Team 1 pitcher (Brady Goodman): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-10
+
+Konner Knight: rng1 = 11 + 13 - 14 + 1 = 11
+rng2 = 65 + 4 - 14 + 1 = 56
+Lineout
+Team 1 pitcher (Brady Goodman): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-10
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Agustin Acosta
+
+Arturo Bellamy: rng1 = 41 + 13 - 8 - 1 = 45
+rng2 = 46 + 10 - 14 - 1 = 41
+Groundout
+Team 2 pitcher (Agustin Acosta): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-10
+
+Edmundo Pousa: rng1 = 66 + 13 - 8 - 1 = 70
+Walk
+Team 2 pitcher (Agustin Acosta): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-10
+
+Owen Williamson: rng1 = 15 + 6 - 8 - 1 = 12
+rng2 = 69 + 8 - 14 - 1 = 62
+Flyout
+Team 2 pitcher (Agustin Acosta): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-10
+
+Devoreaux Waters: rng1 = 64 + 8 - 8 - 1 = 63
+rng2 = 43 + 5 - 14 - 1 = 33
+Groundout
+Team 2 pitcher (Agustin Acosta): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-10
+
+-----------------------
+
+BOTTOM INNING 6
+
+Keli Alohilani: rng1 = 21 + 13 - 14 + 1 = 21
+Strikeout
+Team 1 pitcher (Brady Goodman): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-10
+
+Tomas Canto: rng1 = 72 + 12 - 14 + 1 = 71
+Walk
+Team 1 pitcher (Brady Goodman): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-10
+
+Jong Jung-Hwa: rng1 = 99 + 11 - 14 + 1 = 97
+rng2 = 77 + 13 - 14 + 1 = 77
+Double
+Team 1 pitcher (Brady Goodman): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: false, base2: [3,2], base3: [2,2]
+base1: false, base2: true, base3: true
+Score: 6-10
+
+Jerome Goodwin: rng1 = 92 + 11 - 14 + 1 = 90
+Walk
+Team 1 pitcher (Brady Goodman): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: [4,2], base2: [3,2], base3: [2,2]
+base1: true, base2: true, base3: true
+Score: 6-10
+
+Hano Hiroki: rng1 = 15 + 8 - 14 + 1 = 10
+Strikeout
+Team 1 pitcher (Brady Goodman): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: [4,2], base2: [3,2], base3: [2,2]
+base1: true, base2: true, base3: true
+Score: 6-10
+
+Nehemiah Clark: rng1 = 32 + 2 - 14 + 1 = 21
+Strikeout
+Team 1 pitcher (Brady Goodman): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-10
+
+-----------------------
+
+TOP INNING 7
+
+Oscar Pierce: rng1 = 68 + 6 - 8 - 1 = 65
+rng2 = 60 + 6 - 14 - 1 = 51
+Lineout
+Team 2 pitcher (Agustin Acosta): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-10
+
+Fabián Sánchez: rng1 = 34 + 3 - 8 - 1 = 28
+rng2 = 100 + 8 - 14 - 1 = 93
+Flyout
+Team 2 pitcher (Agustin Acosta): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-10
+
+Chon Il-Seong: rng1 = 12 + 6 - 8 - 1 = 9
+Strikeout
+Team 2 pitcher (Agustin Acosta): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-10
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Tamashiro Genjo
+
+Emmanuel Ramirez: rng1 = 85 + 7 - 5 + 1 = 88
+Walk
+Team 1 pitcher (Tamashiro Genjo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [7,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-10
+
+Chwa Jung-Su: rng1 = 71 + 7 - 5 + 1 = 74
+rng2 = 100 + 5 - 9 + 1 = 97
+Home run
+Team 1 pitcher (Tamashiro Genjo): 2 batters faced, 2 runs allowed = 2 + 5.0 = 7.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-12
+
+Konner Knight: rng1 = 92 + 13 - 5 + 1 = 101
+rng2 = 79 + 4 - 9 + 1 = 75
+Double
+Team 1 pitcher (Tamashiro Genjo): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 0
+
+base1: false, base2: [0,3], base3: false
+base1: false, base2: true, base3: false
+Score: 6-12
+
+Keli Alohilani: rng1 = 54 + 13 - 5 + 1 = 63
+rng2 = 38 + 8 - 9 + 1 = 38
+Groundout
+Team 1 pitcher (Tamashiro Genjo): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: false, base2: false, base3: [0,3]
+base1: false, base2: false, base3: true
+Score: 6-12
+
+Tomas Canto: rng1 = 85 + 12 - 5 + 1 = 93
+rng2 = 52 + 14 - 9 + 1 = 58
+Single
+Team 1 pitcher (Tamashiro Genjo): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 1
+
+base1: [2,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-13
+
+Jong Jung-Hwa: rng1 = 100 + 11 - 5 + 1 = 107
+rng2 = 46 + 13 - 9 + 1 = 51
+Single
+Team 1 pitcher (Tamashiro Genjo): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 1
+
+base1: [3,3], base2: [2,3], base3: false
+base1: true, base2: true, base3: false
+Score: 6-13
+
+Team 1 pitcher change to Antonio McMillan
+
+Jerome Goodwin: rng1 = 43 + 11 - 14 + 1 = 41
+rng2 = 63 + 9 - 15 + 1 = 58
+Lineout
+Team 1 pitcher (Antonio McMillan): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [3,3], base2: [2,3], base3: false
+base1: true, base2: true, base3: false
+Score: 6-13
+
+Hano Hiroki: rng1 = 8 + 8 - 14 + 1 = 3
+Strikeout
+Team 1 pitcher (Antonio McMillan): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-13
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Rolando Maroto
+
+Rakkan Gaines: rng1 = 70 + 3 - 10 - 1 = 62
+rng2 = 87 + 5 - 8 - 1 = 83
+Flyout
+Team 2 pitcher (Rolando Maroto): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-13
+
+Byron Bartlett: rng1 = 62 + 15 - 10 - 1 = 66
+rng2 = 95 + 11 - 8 - 1 = 97
+Flyout
+Team 2 pitcher (Rolando Maroto): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-13
+
+Arturo Bellamy: rng1 = 28 + 13 - 10 - 1 = 30
+rng2 = 87 + 10 - 8 - 1 = 88
+Flyout
+Team 2 pitcher (Rolando Maroto): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-13
+
+-----------------------
+
+BOTTOM INNING 8
+
+Nehemiah Clark: rng1 = 44 + 2 - 14 + 1 = 33
+rng2 = 24 + 10 - 15 + 1 = 20
+Groundout
+Team 1 pitcher (Antonio McMillan): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-13
+
+Emmanuel Ramirez: rng1 = 54 + 7 - 14 + 1 = 48
+rng2 = 63 + 5 - 15 + 1 = 54
+Lineout
+Team 1 pitcher (Antonio McMillan): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-13
+
+Chwa Jung-Su: rng1 = 31 + 7 - 14 + 1 = 25
+Strikeout
+Team 1 pitcher (Antonio McMillan): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-13
+
+-----------------------
+
+TOP INNING 9
+
+Edmundo Pousa: rng1 = 71 + 13 - 10 - 1 = 73
+rng2 = 84 + 9 - 8 - 1 = 84
+Home run
+Team 2 pitcher (Rolando Maroto): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-13
+
+Owen Williamson: rng1 = 88 + 6 - 10 - 1 = 83
+rng2 = 75 + 8 - 8 - 1 = 74
+Double
+Team 2 pitcher (Rolando Maroto): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 0
+
+base1: false, base2: [3,3], base3: false
+base1: false, base2: true, base3: false
+Score: 7-13
+
+Devoreaux Waters: rng1 = 14 + 8 - 10 - 1 = 11
+rng2 = 76 + 5 - 8 - 1 = 72
+Flyout
+Team 2 pitcher (Rolando Maroto): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: [3,3], base3: false
+base1: false, base2: true, base3: false
+Score: 7-13
+
+Oscar Pierce: rng1 = 34 + 6 - 10 - 1 = 29
+rng2 = 19 + 6 - 8 - 1 = 16
+Groundout
+Team 2 pitcher (Rolando Maroto): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: [3,3], base3: false
+base1: false, base2: true, base3: false
+Score: 7-13
+
+Fabián Sánchez: rng1 = 53 + 3 - 10 - 1 = 45
+rng2 = 91 + 8 - 8 - 1 = 90
+Flyout
+Team 2 pitcher (Rolando Maroto): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-13
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 12
+Team 2 hits: 16
+Team 1 runs: 7
+Team 2 runs: 13
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-04-03
+Byron Bartlett	5	2	2	0	0	2	3	0	0					New Orleans
+Arturo Bellamy	5	0	1	0	0	0	0	0	1	
+Edmundo Pousa	4	1	1	0	0	1	1	1	0	
+Owen Williamson	5	0	2	1	0	0	0	0	1	
+Devoreaux Waters	5	0	0	0	0	0	0	0	0	
+Oscar Pierce	4	2	2	2	0	0	0	0	0	
+Fabián Sánchez	5	1	2	0	0	0	1	0	0	
+Chon Il-Seong	4	1	2	0	0	0	1	0	2	
+Rakkan Gaines	2	0	0	0	0	0	1	2	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Raúl Pozo	0	1	1	1	0	0	9	8	7	1	0	0	18	
+Kione Andrews	0	0	1	0	0	0	2	3	3	1	1	2	6	
+Brady Goodman	0	0	1	0	0	0	7	1	0	0	2	3	10	
+Tamashiro Genjo	0	0	1	0	0	0	1	4	3	1	1	0	6	
+Antonio McMillan	0	0	1	0	0	0	5	0	0	0	0	2	5	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-04-03
+Konner Knight	5	2	2	1	0	0	0	0	0					Philadelphia
+Keli Alohilani	4	1	0	0	0	0	0	1	1	
+Tomas Canto	4	1	3	0	0	1	5	1	0	
+Jong Jung-Hwa	5	1	3	2	0	0	0	0	1	
+Jerome Goodwin	4	1	2	0	0	0	1	1	0	
+Hano Hiroki	5	2	2	1	0	1	2	0	3	
+Nehemiah Clark	4	1	1	0	0	0	1	0	1	
+Emmanuel Ramirez	4	2	1	1	0	0	1	1	0	
+Chwa Jung-Su	5	2	2	1	0	1	3	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Jessie Alston	1	0	1	1	0	0	9	9	6	2	1	1	19	
+Steve Randles	0	0	1	0	0	0	6	1	0	0	1	2	9	
+Agustin Acosta	0	0	1	0	0	0	6	0	0	0	1	1	7	
+Rolando Maroto	0	0	1	0	0	0	6	2	1	1	0	0	8	
+Eduardo Elvira	0	0	0	0	0	0	0	0	0	0	0	0	0	

@@ -1,0 +1,905 @@
+TOP INNING 1
+
+Blake Welsh: rng1 = 91 + 12 - 13 - 1 = 89
+Walk
+Team 2 pitcher (Christian Galán): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Caleb Harrington: rng1 = 22 + 12 - 13 - 1 = 20
+Strikeout
+Team 2 pitcher (Christian Galán): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Jaquon Lyons: rng1 = 95 + 12 - 13 - 1 = 93
+rng2 = 24 + 10 - 14 - 1 = 19
+Single
+Team 2 pitcher (Christian Galán): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Tommy Baxter: rng1 = 23 + 11 - 13 - 1 = 20
+Strikeout
+Team 2 pitcher (Christian Galán): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [2,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Timothy Bentley: rng1 = 8 + 7 - 13 - 1 = 1
+Strikeout
+Team 2 pitcher (Christian Galán): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Cody McCarthy: rng1 = 20 + 14 - 7 + 1 = 28
+rng2 = 65 + 12 - 7 + 1 = 71
+Flyout
+Team 1 pitcher (Callum Rees): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Randall Hodge: rng1 = 60 + 13 - 7 + 1 = 67
+rng2 = 22 + 9 - 7 + 1 = 25
+Groundout
+Team 1 pitcher (Callum Rees): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Joseph Thayer: rng1 = 26 + 13 - 7 + 1 = 33
+rng2 = 83 + 8 - 7 + 1 = 85
+Flyout
+Team 1 pitcher (Callum Rees): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Emiel Ware: rng1 = 36 + 10 - 13 - 1 = 32
+rng2 = 5 + 9 - 14 - 1 = -1
+Groundout
+Team 2 pitcher (Christian Galán): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Isaac Secada: rng1 = 88 + 7 - 13 - 1 = 81
+rng2 = 43 + 10 - 14 - 1 = 38
+Single
+Team 2 pitcher (Christian Galán): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Varrien Cannon: rng1 = 62 + 4 - 13 - 1 = 52
+rng2 = 85 + 8 - 14 - 1 = 78
+Flyout
+Team 2 pitcher (Christian Galán): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Darren Chang: rng1 = 87 + 4 - 13 - 1 = 77
+rng2 = 49 + 7 - 14 - 1 = 41
+Single
+Team 2 pitcher (Christian Galán): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: [8,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Blake Welsh: rng1 = 81 + 12 - 13 - 1 = 79
+rng2 = 34 + 9 - 14 - 1 = 28
+Single
+Team 2 pitcher (Christian Galán): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: [0,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Caleb Harrington: rng1 = 73 + 12 - 13 - 1 = 71
+Walk
+Team 2 pitcher (Christian Galán): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: [1,0], base2: [0,0], base3: [8,0]
+base1: true, base2: true, base3: true
+Score: 1-0
+
+Jaquon Lyons: rng1 = 37 + 12 - 13 - 1 = 35
+rng2 = 56 + 10 - 14 - 1 = 51
+Lineout
+Team 2 pitcher (Christian Galán): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Reuben Sutton: rng1 = 76 + 12 - 7 + 1 = 82
+rng2 = 12 + 14 - 7 + 1 = 20
+Single
+Team 1 pitcher (Callum Rees): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Dante Leoz: rng1 = 74 + 12 - 7 + 1 = 80
+rng2 = 13 + 13 - 7 + 1 = 20
+Single
+Team 1 pitcher (Callum Rees): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Caden Bryan: rng1 = 1 + 8 - 7 + 1 = 3
+Strikeout
+Team 1 pitcher (Callum Rees): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Ethan Murphy: rng1 = 63 + 6 - 7 + 1 = 63
+rng2 = 41 + 6 - 7 + 1 = 41
+Groundout
+Team 1 pitcher (Callum Rees): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [6,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Trent Page: rng1 = 4 + 6 - 7 + 1 = 4
+Strikeout
+Team 1 pitcher (Callum Rees): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 3
+
+Tommy Baxter: rng1 = 77 + 11 - 13 - 1 = 74
+rng2 = 25 + 14 - 14 - 1 = 24
+Single
+Team 2 pitcher (Christian Galán): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Timothy Bentley: rng1 = 37 + 7 - 13 - 1 = 30
+rng2 = 64 + 12 - 14 - 1 = 61
+Flyout
+Team 2 pitcher (Christian Galán): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Emiel Ware: rng1 = 15 + 10 - 13 - 1 = 11
+rng2 = 24 + 9 - 14 - 1 = 18
+Groundout
+Team 2 pitcher (Christian Galán): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Alonso Welch: rng1 = 49 + 7 - 7 + 1 = 50
+rng2 = 7 + 4 - 7 + 1 = 5
+Groundout
+Team 1 pitcher (Callum Rees): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Cody McCarthy: rng1 = 22 + 14 - 7 + 1 = 30
+rng2 = 14 + 12 - 7 + 1 = 20
+Groundout
+Team 1 pitcher (Callum Rees): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Randall Hodge: rng1 = 34 + 13 - 7 + 1 = 41
+rng2 = 18 + 9 - 7 + 1 = 21
+Groundout
+Team 1 pitcher (Callum Rees): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 4
+
+Isaac Secada: rng1 = 39 + 7 - 13 - 1 = 32
+rng2 = 23 + 10 - 14 - 1 = 18
+Groundout
+Team 2 pitcher (Christian Galán): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Varrien Cannon: rng1 = 56 + 4 - 13 - 1 = 46
+rng2 = 18 + 8 - 14 - 1 = 11
+Groundout
+Team 2 pitcher (Christian Galán): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Darren Chang: rng1 = 1 + 4 - 13 - 1 = -9
+Strikeout
+Team 2 pitcher (Christian Galán): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 4
+
+Joseph Thayer: rng1 = 35 + 13 - 7 + 1 = 42
+rng2 = 90 + 8 - 7 + 1 = 92
+Flyout
+Team 1 pitcher (Callum Rees): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Reuben Sutton: rng1 = 40 + 12 - 7 + 1 = 46
+rng2 = 4 + 14 - 7 + 1 = 12
+Groundout
+Team 1 pitcher (Callum Rees): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Dante Leoz: rng1 = 86 + 12 - 7 + 1 = 92
+rng2 = 21 + 13 - 7 + 1 = 28
+Single
+Team 1 pitcher (Callum Rees): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Caden Bryan: rng1 = 5 + 8 - 7 + 1 = 7
+Strikeout
+Team 1 pitcher (Callum Rees): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 5
+
+Blake Welsh: rng1 = 1 + 12 - 13 - 1 = -1
+Strikeout
+Team 2 pitcher (Christian Galán): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Caleb Harrington: rng1 = 60 + 12 - 13 - 1 = 58
+rng2 = 13 + 8 - 14 - 1 = 6
+Groundout
+Team 2 pitcher (Christian Galán): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Jaquon Lyons: rng1 = 48 + 12 - 13 - 1 = 46
+rng2 = 77 + 10 - 14 - 1 = 72
+Flyout
+Team 2 pitcher (Christian Galán): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 5
+
+Ethan Murphy: rng1 = 17 + 6 - 7 + 1 = 17
+Strikeout
+Team 1 pitcher (Callum Rees): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Trent Page: rng1 = 18 + 6 - 7 + 1 = 18
+Strikeout
+Team 1 pitcher (Callum Rees): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Alonso Welch: rng1 = 12 + 7 - 7 + 1 = 13
+rng2 = 72 + 4 - 7 + 1 = 70
+Flyout
+Team 1 pitcher (Callum Rees): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 6
+
+Tommy Baxter: rng1 = 90 + 11 - 13 - 1 = 87
+Walk
+Team 2 pitcher (Christian Galán): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Timothy Bentley: rng1 = 73 + 7 - 13 - 1 = 66
+rng2 = 9 + 12 - 14 - 1 = 6
+Groundout
+Team 2 pitcher (Christian Galán): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Emiel Ware: rng1 = 87 + 10 - 13 - 1 = 83
+rng2 = 8 + 9 - 14 - 1 = 2
+Single
+Team 2 pitcher (Christian Galán): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 1
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Isaac Secada: rng1 = 67 + 7 - 13 - 1 = 60
+rng2 = 26 + 10 - 14 - 1 = 21
+Groundout
+Team 2 pitcher (Christian Galán): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 6
+
+Cody McCarthy: rng1 = 90 + 14 - 7 + 1 = 98
+rng2 = 41 + 12 - 7 + 1 = 47
+Single
+Team 1 pitcher (Callum Rees): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Randall Hodge: rng1 = 24 + 13 - 7 + 1 = 31
+rng2 = 42 + 9 - 7 + 1 = 45
+Groundout
+Team 1 pitcher (Callum Rees): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Joseph Thayer: rng1 = 82 + 13 - 7 + 1 = 89
+Walk
+Team 1 pitcher (Callum Rees): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Reuben Sutton: rng1 = 55 + 12 - 7 + 1 = 61
+rng2 = 21 + 14 - 7 + 1 = 29
+Groundout
+Team 1 pitcher (Callum Rees): 22 batters faced, 0 runs allowed = 22 + 0.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Keegan Schiel
+
+Varrien Cannon: rng1 = 73 + 4 - 5 - 1 = 71
+Walk
+Team 2 pitcher (Keegan Schiel): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Darren Chang: rng1 = 18 + 4 - 5 - 1 = 16
+Strikeout
+Team 2 pitcher (Keegan Schiel): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Blake Welsh: rng1 = 87 + 12 - 5 - 1 = 93
+rng2 = 90 + 9 - 8 - 1 = 90
+Double
+Team 2 pitcher (Keegan Schiel): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [0,1], base3: false
+base1: false, base2: true, base3: false
+Score: 2-0
+
+Caleb Harrington: rng1 = 50 + 12 - 5 - 1 = 56
+rng2 = 59 + 8 - 8 - 1 = 58
+Lineout
+Team 2 pitcher (Keegan Schiel): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [0,1], base3: false
+base1: false, base2: true, base3: false
+Score: 2-0
+
+Jaquon Lyons: rng1 = 56 + 12 - 5 - 1 = 62
+rng2 = 86 + 10 - 8 - 1 = 87
+Flyout
+Team 2 pitcher (Keegan Schiel): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+BOTTOM INNING 7
+
+Dante Leoz: rng1 = 78 + 12 - 7 + 1 = 84
+rng2 = 72 + 13 - 7 + 1 = 79
+Home run
+Team 1 pitcher (Callum Rees): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Caden Bryan: rng1 = 38 + 8 - 7 + 1 = 40
+rng2 = 73 + 13 - 7 + 1 = 80
+Flyout
+Team 1 pitcher (Callum Rees): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Ethan Murphy: rng1 = 55 + 6 - 7 + 1 = 55
+rng2 = 12 + 6 - 7 + 1 = 12
+Groundout
+Team 1 pitcher (Callum Rees): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Trent Page: rng1 = 30 + 6 - 7 + 1 = 30
+rng2 = 23 + 5 - 7 + 1 = 22
+Groundout
+Team 1 pitcher (Callum Rees): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Jacob Wallace
+
+Tommy Baxter: rng1 = 73 + 11 - 7 - 1 = 76
+rng2 = 80 + 14 - 6 - 1 = 87
+Double
+Team 2 pitcher (Jacob Wallace): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [3,2], base3: false
+base1: false, base2: true, base3: false
+Score: 2-1
+
+Timothy Bentley: rng1 = 17 + 7 - 7 - 1 = 16
+Strikeout
+Team 2 pitcher (Jacob Wallace): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [3,2], base3: false
+base1: false, base2: true, base3: false
+Score: 2-1
+
+Emiel Ware: rng1 = 65 + 10 - 7 - 1 = 67
+rng2 = 23 + 9 - 6 - 1 = 25
+Groundout
+Team 2 pitcher (Jacob Wallace): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: [3,2]
+base1: false, base2: false, base3: true
+Score: 2-1
+
+Isaac Secada: rng1 = 80 + 7 - 7 - 1 = 79
+rng2 = 2 + 10 - 6 - 1 = 5
+Single
+Team 2 pitcher (Jacob Wallace): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Varrien Cannon: rng1 = 13 + 4 - 7 - 1 = 9
+Strikeout
+Team 2 pitcher (Jacob Wallace): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Abraham Pace
+
+Alonso Welch: rng1 = 67 + 7 - 10 + 1 = 65
+rng2 = 64 + 4 - 9 + 1 = 60
+Flyout
+Team 1 pitcher (Abraham Pace): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Cody McCarthy: rng1 = 66 + 14 - 10 + 1 = 71
+Walk
+Team 1 pitcher (Abraham Pace): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Randall Hodge: rng1 = 15 + 13 - 10 + 1 = 19
+Strikeout
+Team 1 pitcher (Abraham Pace): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Joseph Thayer: rng1 = 69 + 13 - 10 + 1 = 73
+rng2 = 9 + 8 - 9 + 1 = 9
+Single
+Team 1 pitcher (Abraham Pace): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [2,1], base2: false, base3: [0,1]
+base1: true, base2: false, base3: true
+Score: 3-1
+
+Reuben Sutton: rng1 = 39 + 12 - 10 + 1 = 42
+rng2 = 30 + 14 - 9 + 1 = 36
+Groundout
+Team 1 pitcher (Abraham Pace): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Hanley Harper
+
+Darren Chang: rng1 = 31 + 4 - 7 - 1 = 27
+Strikeout
+Team 2 pitcher (Hanley Harper): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Blake Welsh: rng1 = 15 + 12 - 7 - 1 = 19
+Strikeout
+Team 2 pitcher (Hanley Harper): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Caleb Harrington: rng1 = 24 + 12 - 7 - 1 = 28
+rng2 = 65 + 8 - 5 - 1 = 67
+Flyout
+Team 2 pitcher (Hanley Harper): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Kwok Kwang-Seok
+
+Dante Leoz: rng1 = 35 + 12 - 14 + 1 = 34
+rng2 = 84 + 13 - 13 + 1 = 85
+Flyout
+Team 1 pitcher (Kwok Kwang-Seok): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Caden Bryan: rng1 = 88 + 8 - 14 + 1 = 83
+rng2 = 100 + 13 - 13 + 1 = 101
+Home run
+Team 1 pitcher (Kwok Kwang-Seok): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Ethan Murphy: rng1 = 85 + 6 - 14 + 1 = 78
+rng2 = 23 + 6 - 13 + 1 = 17
+Single
+Team 1 pitcher (Kwok Kwang-Seok): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [6,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Trent Page: rng1 = 37 + 6 - 14 + 1 = 30
+rng2 = 92 + 5 - 13 + 1 = 85
+Flyout
+Team 1 pitcher (Kwok Kwang-Seok): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [6,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Alonso Welch: rng1 = 86 + 7 - 14 + 1 = 80
+rng2 = 79 + 4 - 13 + 1 = 71
+Double
+Team 1 pitcher (Kwok Kwang-Seok): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: false, base2: [8,4], base3: false
+base1: false, base2: true, base3: false
+Score: 3-3
+
+Cody McCarthy: rng1 = 65 + 14 - 14 + 1 = 66
+rng2 = 74 + 12 - 13 + 1 = 74
+Flyout
+Team 1 pitcher (Kwok Kwang-Seok): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+TOP INNING 10
+
+Jaquon Lyons: rng1 = 54 + 12 - 7 - 1 = 58
+rng2 = 38 + 10 - 5 - 1 = 42
+Groundout
+Team 2 pitcher (Hanley Harper): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Tommy Baxter: rng1 = 68 + 11 - 7 - 1 = 71
+Walk
+Team 2 pitcher (Hanley Harper): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [3,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Timothy Bentley: rng1 = 32 + 7 - 7 - 1 = 31
+rng2 = 64 + 12 - 5 - 1 = 70
+Flyout
+Team 2 pitcher (Hanley Harper): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [3,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Emiel Ware: rng1 = 50 + 10 - 7 - 1 = 52
+rng2 = 27 + 9 - 5 - 1 = 30
+Groundout
+Team 2 pitcher (Hanley Harper): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+BOTTOM INNING 10
+
+Team 1 pitcher change to Iván Curbelo
+
+Randall Hodge: rng1 = 43 + 13 - 14 + 1 = 43
+rng2 = 43 + 9 - 12 + 1 = 41
+Groundout
+Team 1 pitcher (Iván Curbelo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Joseph Thayer: rng1 = 53 + 13 - 14 + 1 = 53
+rng2 = 25 + 8 - 12 + 1 = 22
+Groundout
+Team 1 pitcher (Iván Curbelo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Reuben Sutton: rng1 = 47 + 12 - 14 + 1 = 46
+rng2 = 66 + 14 - 12 + 1 = 69
+Flyout
+Team 1 pitcher (Iván Curbelo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+TOP INNING 11
+
+Team 2 pitcher change to Isaac Wilson
+
+Isaac Secada: rng1 = 84 + 7 - 14 - 1 = 76
+rng2 = 63 + 10 - 14 - 1 = 58
+Single
+Team 2 pitcher (Isaac Wilson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [6,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Varrien Cannon: rng1 = 35 + 4 - 14 - 1 = 24
+Strikeout
+Team 2 pitcher (Isaac Wilson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [6,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Darren Chang: rng1 = 51 + 4 - 14 - 1 = 40
+rng2 = 58 + 7 - 14 - 1 = 50
+Lineout
+Team 2 pitcher (Isaac Wilson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [6,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Blake Welsh: rng1 = 50 + 12 - 14 - 1 = 47
+rng2 = 46 + 9 - 14 - 1 = 40
+Groundout
+Team 2 pitcher (Isaac Wilson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+BOTTOM INNING 11
+
+Dante Leoz: rng1 = 1 + 12 - 14 + 1 = 0
+Strikeout
+Team 1 pitcher (Iván Curbelo): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Caden Bryan: rng1 = 60 + 8 - 14 + 1 = 55
+rng2 = 72 + 13 - 12 + 1 = 74
+Flyout
+Team 1 pitcher (Iván Curbelo): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Ethan Murphy: rng1 = 98 + 6 - 14 + 1 = 91
+rng2 = 96 + 6 - 12 + 1 = 91
+Double
+Team 1 pitcher (Iván Curbelo): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: [6,2], base3: false
+base1: false, base2: true, base3: false
+Score: 3-3
+
+Trent Page: rng1 = 99 + 6 - 14 + 1 = 92
+rng2 = 46 + 5 - 12 + 1 = 40
+Single
+Team 1 pitcher (Iván Curbelo): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-4
+
+Innings: 11
+Team 1 hits: 10
+Team 2 hits: 11
+Team 1 runs: 3
+Team 2 runs: 4
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-04-04
+Blake Welsh	5	0	2	1	0	0	2	1	2					Miami
+Caleb Harrington	4	0	0	0	0	0	0	1	1	
+Jaquon Lyons	5	0	1	0	0	0	0	0	0	
+Tommy Baxter	3	1	2	1	0	0	0	2	1	
+Timothy Bentley	5	0	0	0	0	0	0	0	2	
+Emiel Ware	5	0	1	0	0	0	0	0	0	
+Isaac Secada	5	1	3	0	0	0	1	0	0	
+Varrien Cannon	4	1	0	0	0	0	0	1	2	
+Darren Chang	5	0	1	0	0	0	0	0	3	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Callum Rees	0	0	1	1	0	0	21	5	1	1	1	5	26	
+Abraham Pace	0	0	1	0	0	0	3	1	0	0	1	1	5	
+Iván Curbelo	0	1	1	0	0	0	5	2	1	0	0	1	7	
+Isaac Hartman	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Kwok Kwang-Seok	0	0	1	0	0	1	3	3	2	1	0	0	6	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-04-04
+Cody McCarthy	4	0	1	0	0	0	0	1	0					Detroit
+Randall Hodge	5	0	0	0	0	0	0	0	1	
+Joseph Thayer	4	0	1	0	0	0	0	1	0	
+Reuben Sutton	5	0	1	0	0	0	0	0	0	
+Dante Leoz	5	1	3	0	0	1	1	0	1	
+Caden Bryan	5	1	1	0	0	1	1	0	2	
+Ethan Murphy	5	2	2	1	0	0	0	0	1	
+Trent Page	5	0	1	0	0	0	1	0	2	
+Alonso Welch	4	0	1	1	0	0	1	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Christian Galán	0	0	1	1	0	0	18	6	1	0	3	5	25	
+Keegan Schiel	0	0	1	0	0	0	3	1	1	0	1	1	5	
+Jacob Wallace	0	0	1	0	0	0	3	2	1	0	0	2	5	
+Hanley Harper	0	0	1	0	0	0	6	0	0	0	1	2	7	
+Isaac Wilson	1	0	1	0	0	0	3	1	0	0	0	1	4	

@@ -1,0 +1,693 @@
+TOP INNING 1
+
+Cannon Terry: rng1 = 24 + 6 - 9 - 1 = 20
+Strikeout
+Team 2 pitcher (Josh Stokes): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Alex Murphy: rng1 = 96 + 8 - 9 - 1 = 94
+rng2 = 20 + 10 - 6 - 1 = 23
+Single
+Team 2 pitcher (Josh Stokes): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Leon Watts: rng1 = 17 + 9 - 9 - 1 = 16
+Strikeout
+Team 2 pitcher (Josh Stokes): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Jaiden Fortner: rng1 = 64 + 7 - 9 - 1 = 61
+rng2 = 61 + 8 - 6 - 1 = 62
+Flyout
+Team 2 pitcher (Josh Stokes): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Jeremy Anderson: rng1 = 41 + 13 - 10 + 1 = 45
+rng2 = 54 + 11 - 11 + 1 = 55
+Lineout
+Team 1 pitcher (John Long): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jeff Murray: rng1 = 6 + 13 - 10 + 1 = 10
+Strikeout
+Team 1 pitcher (John Long): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Leon Fraser: rng1 = 38 + 6 - 10 + 1 = 35
+rng2 = 82 + 8 - 11 + 1 = 80
+Flyout
+Team 1 pitcher (John Long): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Alejandro Munoz: rng1 = 12 + 10 - 9 - 1 = 12
+rng2 = 53 + 8 - 6 - 1 = 54
+Lineout
+Team 2 pitcher (Josh Stokes): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jacobi Davis: rng1 = 93 + 14 - 9 - 1 = 97
+rng2 = 38 + 11 - 6 - 1 = 42
+Single
+Team 2 pitcher (Josh Stokes): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Dominic Gardner: rng1 = 33 + 6 - 9 - 1 = 29
+rng2 = 8 + 7 - 6 - 1 = 8
+Groundout
+Team 2 pitcher (Josh Stokes): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Jamar Brown: rng1 = 41 + 8 - 9 - 1 = 39
+rng2 = 13 + 9 - 6 - 1 = 15
+Groundout
+Team 2 pitcher (Josh Stokes): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Lance Bishop: rng1 = 47 + 6 - 10 + 1 = 44
+rng2 = 1 + 9 - 11 + 1 = 0
+Groundout
+Team 1 pitcher (John Long): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Nicolas Sanchez: rng1 = 87 + 12 - 10 + 1 = 90
+Walk
+Team 1 pitcher (John Long): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Robert Bailey: rng1 = 81 + 13 - 10 + 1 = 85
+rng2 = 34 + 14 - 11 + 1 = 38
+Single
+Team 1 pitcher (John Long): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Josh Nelson: rng1 = 78 + 5 - 10 + 1 = 74
+rng2 = 37 + 8 - 11 + 1 = 35
+Single
+Team 1 pitcher (John Long): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 0-1
+
+Diego Vargas: rng1 = 81 + 13 - 10 + 1 = 85
+rng2 = 96 + 12 - 11 + 1 = 98
+Home run
+Team 1 pitcher (John Long): 8 batters faced, 4 runs allowed = 8 + 10.0 = 18.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Joey Crawford: rng1 = 60 + 11 - 10 + 1 = 62
+rng2 = 57 + 5 - 11 + 1 = 52
+Lineout
+Team 1 pitcher (John Long): 9 batters faced, 4 runs allowed = 9 + 10.0 = 19.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Jeremy Anderson: rng1 = 97 + 13 - 10 + 1 = 101
+rng2 = 82 + 11 - 11 + 1 = 83
+Home run
+Team 1 pitcher (John Long): 10 batters faced, 5 runs allowed = 10 + 12.5 = 22.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Jeff Murray: rng1 = 91 + 13 - 10 + 1 = 95
+rng2 = 41 + 9 - 11 + 1 = 40
+Single
+Team 1 pitcher (John Long): 11 batters faced, 5 runs allowed = 11 + 12.5 = 23.5, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Leon Fraser: rng1 = 70 + 6 - 10 + 1 = 67
+rng2 = 98 + 8 - 11 + 1 = 96
+Flyout
+Team 1 pitcher (John Long): 12 batters faced, 5 runs allowed = 12 + 12.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+TOP INNING 3
+
+Martin Avila: rng1 = 32 + 7 - 9 - 1 = 29
+rng2 = 60 + 6 - 6 - 1 = 59
+Flyout
+Team 2 pitcher (Josh Stokes): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Cannon Terry: rng1 = 39 + 6 - 9 - 1 = 35
+rng2 = 61 + 9 - 6 - 1 = 63
+Flyout
+Team 2 pitcher (Josh Stokes): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Alex Murphy: rng1 = 32 + 8 - 9 - 1 = 30
+rng2 = 35 + 10 - 6 - 1 = 38
+Groundout
+Team 2 pitcher (Josh Stokes): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+BOTTOM INNING 3
+
+Lance Bishop: rng1 = 35 + 6 - 10 + 1 = 32
+rng2 = 25 + 9 - 11 + 1 = 24
+Groundout
+Team 1 pitcher (John Long): 13 batters faced, 5 runs allowed = 13 + 12.5 = 25.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Nicolas Sanchez: rng1 = 35 + 12 - 10 + 1 = 38
+rng2 = 42 + 6 - 11 + 1 = 38
+Groundout
+Team 1 pitcher (John Long): 14 batters faced, 5 runs allowed = 14 + 12.5 = 26.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Robert Bailey: rng1 = 92 + 13 - 10 + 1 = 96
+rng2 = 18 + 14 - 11 + 1 = 22
+Single
+Team 1 pitcher (John Long): 15 batters faced, 5 runs allowed = 15 + 12.5 = 27.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Josh Nelson: rng1 = 30 + 5 - 10 + 1 = 26
+Strikeout
+Team 1 pitcher (John Long): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+TOP INNING 4
+
+Leon Watts: rng1 = 22 + 9 - 9 - 1 = 21
+Strikeout
+Team 2 pitcher (Josh Stokes): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Jaiden Fortner: rng1 = 11 + 7 - 9 - 1 = 8
+Strikeout
+Team 2 pitcher (Josh Stokes): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Alejandro Munoz: rng1 = 32 + 10 - 9 - 1 = 32
+rng2 = 35 + 8 - 6 - 1 = 36
+Groundout
+Team 2 pitcher (Josh Stokes): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+BOTTOM INNING 4
+
+Diego Vargas: rng1 = 34 + 13 - 10 + 1 = 38
+rng2 = 79 + 12 - 11 + 1 = 81
+Flyout
+Team 1 pitcher (John Long): 17 batters faced, 5 runs allowed = 17 + 12.5 = 29.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Joey Crawford: rng1 = 89 + 11 - 10 + 1 = 91
+rng2 = 28 + 5 - 11 + 1 = 23
+Single
+Team 1 pitcher (John Long): 18 batters faced, 5 runs allowed = 18 + 12.5 = 30.5, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Jeremy Anderson: rng1 = 3 + 13 - 10 + 1 = 7
+Strikeout
+Team 1 pitcher (John Long): 19 batters faced, 5 runs allowed = 19 + 12.5 = 31.5, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Jeff Murray: rng1 = 37 + 13 - 10 + 1 = 41
+rng2 = 10 + 9 - 11 + 1 = 9
+Groundout
+Team 1 pitcher (John Long): 20 batters faced, 5 runs allowed = 20 + 12.5 = 32.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+TOP INNING 5
+
+Jacobi Davis: rng1 = 35 + 14 - 9 - 1 = 39
+rng2 = 5 + 11 - 6 - 1 = 9
+Groundout
+Team 2 pitcher (Josh Stokes): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Dominic Gardner: rng1 = 45 + 6 - 9 - 1 = 41
+rng2 = 74 + 7 - 6 - 1 = 74
+Flyout
+Team 2 pitcher (Josh Stokes): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Jamar Brown: rng1 = 71 + 8 - 9 - 1 = 69
+Walk
+Team 2 pitcher (Josh Stokes): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Martin Avila: rng1 = 58 + 7 - 9 - 1 = 55
+rng2 = 15 + 6 - 6 - 1 = 14
+Groundout
+Team 2 pitcher (Josh Stokes): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Hattori Kenji
+
+Leon Fraser: rng1 = 100 + 6 - 5 + 1 = 102
+rng2 = 33 + 8 - 4 + 1 = 38
+Single
+Team 1 pitcher (Hattori Kenji): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Lance Bishop: rng1 = 37 + 6 - 5 + 1 = 39
+rng2 = 14 + 9 - 4 + 1 = 20
+Groundout
+Team 1 pitcher (Hattori Kenji): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Nicolas Sanchez: rng1 = 33 + 12 - 5 + 1 = 41
+rng2 = 96 + 6 - 4 + 1 = 99
+Flyout
+Team 1 pitcher (Hattori Kenji): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+TOP INNING 6
+
+Cannon Terry: rng1 = 95 + 6 - 9 - 1 = 91
+rng2 = 2 + 9 - 6 - 1 = 4
+Single
+Team 2 pitcher (Josh Stokes): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Alex Murphy: rng1 = 77 + 8 - 9 - 1 = 75
+rng2 = 13 + 10 - 6 - 1 = 16
+Single
+Team 2 pitcher (Josh Stokes): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 0
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-5
+
+Leon Watts: rng1 = 13 + 9 - 9 - 1 = 12
+rng2 = 86 + 5 - 6 - 1 = 84
+Flyout
+Team 2 pitcher (Josh Stokes): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 1
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-5
+
+Jaiden Fortner: rng1 = 59 + 7 - 9 - 1 = 56
+rng2 = 56 + 8 - 6 - 1 = 57
+Lineout
+Team 2 pitcher (Josh Stokes): 22 batters faced, 0 runs allowed = 22 + 0.0 = 22.0, outs: 2
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-5
+
+Alejandro Munoz: rng1 = 71 + 10 - 9 - 1 = 71
+Walk
+Team 2 pitcher (Josh Stokes): 23 batters faced, 0 runs allowed = 23 + 0.0 = 23.0, outs: 2
+
+base1: [4,0], base2: [1,0], base3: [0,0]
+base1: true, base2: true, base3: true
+Score: 0-5
+
+Jacobi Davis: rng1 = 51 + 14 - 9 - 1 = 55
+rng2 = 24 + 11 - 6 - 1 = 28
+Groundout
+Team 2 pitcher (Josh Stokes): 24 batters faced, 0 runs allowed = 24 + 0.0 = 24.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+BOTTOM INNING 6
+
+Robert Bailey: rng1 = 29 + 13 - 5 + 1 = 38
+rng2 = 86 + 14 - 4 + 1 = 97
+Flyout
+Team 1 pitcher (Hattori Kenji): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Josh Nelson: rng1 = 1 + 5 - 5 + 1 = 2
+Strikeout
+Team 1 pitcher (Hattori Kenji): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Diego Vargas: rng1 = 58 + 13 - 5 + 1 = 67
+rng2 = 1 + 12 - 4 + 1 = 10
+Groundout
+Team 1 pitcher (Hattori Kenji): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+TOP INNING 7
+
+Dominic Gardner: rng1 = 2 + 6 - 9 - 1 = -2
+Strikeout
+Team 2 pitcher (Josh Stokes): 25 batters faced, 0 runs allowed = 25 + 0.0 = 25.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Jamar Brown: rng1 = 63 + 8 - 9 - 1 = 61
+rng2 = 77 + 9 - 6 - 1 = 79
+Flyout
+Team 2 pitcher (Josh Stokes): 26 batters faced, 0 runs allowed = 26 + 0.0 = 26.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Martin Avila: rng1 = 6 + 7 - 9 - 1 = 3
+Strikeout
+Team 2 pitcher (Josh Stokes): 27 batters faced, 0 runs allowed = 27 + 0.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Eddie Lochland
+
+Joey Crawford: rng1 = 50 + 11 - 8 + 1 = 54
+rng2 = 36 + 5 - 7 + 1 = 35
+Groundout
+Team 1 pitcher (Eddie Lochland): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Jeremy Anderson: rng1 = 17 + 13 - 8 + 1 = 23
+Strikeout
+Team 1 pitcher (Eddie Lochland): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Jeff Murray: rng1 = 83 + 13 - 8 + 1 = 89
+Walk
+Team 1 pitcher (Eddie Lochland): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Leon Fraser: rng1 = 12 + 6 - 8 + 1 = 11
+rng2 = 31 + 8 - 7 + 1 = 33
+Groundout
+Team 1 pitcher (Eddie Lochland): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Donte Walter
+
+Cannon Terry: rng1 = 47 + 6 - 9 - 1 = 43
+rng2 = 51 + 9 - 8 - 1 = 51
+Lineout
+Team 2 pitcher (Donte Walter): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Alex Murphy: rng1 = 70 + 8 - 9 - 1 = 68
+rng2 = 71 + 10 - 8 - 1 = 72
+Flyout
+Team 2 pitcher (Donte Walter): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Leon Watts: rng1 = 29 + 9 - 9 - 1 = 28
+rng2 = 44 + 5 - 8 - 1 = 40
+Groundout
+Team 2 pitcher (Donte Walter): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+BOTTOM INNING 8
+
+Lance Bishop: rng1 = 30 + 6 - 8 + 1 = 29
+rng2 = 24 + 9 - 7 + 1 = 27
+Groundout
+Team 1 pitcher (Eddie Lochland): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Nicolas Sanchez: rng1 = 42 + 12 - 8 + 1 = 47
+rng2 = 28 + 6 - 7 + 1 = 28
+Groundout
+Team 1 pitcher (Eddie Lochland): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Robert Bailey: rng1 = 87 + 13 - 8 + 1 = 93
+rng2 = 65 + 14 - 7 + 1 = 73
+Double
+Team 1 pitcher (Eddie Lochland): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: [5,2], base3: false
+base1: false, base2: true, base3: false
+Score: 0-5
+
+Josh Nelson: rng1 = 86 + 5 - 8 + 1 = 84
+rng2 = 10 + 8 - 7 + 1 = 12
+Single
+Team 1 pitcher (Eddie Lochland): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [6,2], base2: false, base3: [5,2]
+base1: true, base2: false, base3: true
+Score: 0-5
+
+Diego Vargas: rng1 = 13 + 13 - 8 + 1 = 19
+Strikeout
+Team 1 pitcher (Eddie Lochland): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+TOP INNING 9
+
+Jaiden Fortner: rng1 = 24 + 7 - 9 - 1 = 21
+Strikeout
+Team 2 pitcher (Donte Walter): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Alejandro Munoz: rng1 = 37 + 10 - 9 - 1 = 37
+rng2 = 5 + 8 - 8 - 1 = 4
+Groundout
+Team 2 pitcher (Donte Walter): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Jacobi Davis: rng1 = 38 + 14 - 9 - 1 = 42
+rng2 = 27 + 11 - 8 - 1 = 29
+Groundout
+Team 2 pitcher (Donte Walter): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 4
+Team 2 hits: 10
+Team 1 runs: 0
+Team 2 runs: 5
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-04-06
+Cannon Terry	4	0	1	0	0	0	0	0	1					Austin
+Alex Murphy	4	0	2	0	0	0	0	0	0	
+Leon Watts	4	0	0	0	0	0	0	0	2	
+Jaiden Fortner	4	0	0	0	0	0	0	0	2	
+Alejandro Munoz	3	0	0	0	0	0	0	1	0	
+Jacobi Davis	4	0	1	0	0	0	0	0	0	
+Dominic Gardner	3	0	0	0	0	0	0	0	1	
+Jamar Brown	2	0	0	0	0	0	0	1	0	
+Martin Avila	3	0	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+John Long	0	1	1	1	0	0	12	7	5	2	1	3	20	
+Hattori Kenji	0	0	1	0	0	0	6	1	0	0	0	1	6	
+Eddie Lochland	0	0	1	0	0	0	6	2	0	0	1	2	9	
+Ryan Johnson	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Ron Moore	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-04-06
+Jeremy Anderson	4	1	1	0	0	1	1	0	2					Milwaukee
+Jeff Murray	3	0	1	0	0	0	0	1	1	
+Leon Fraser	4	0	1	0	0	0	0	0	0	
+Lance Bishop	4	0	0	0	0	0	0	0	0	
+Nicolas Sanchez	3	1	0	0	0	0	0	1	0	
+Robert Bailey	4	1	3	1	0	0	0	0	0	
+Josh Nelson	4	1	2	0	0	0	1	0	2	
+Diego Vargas	4	1	1	0	0	1	3	0	1	
+Joey Crawford	3	0	1	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Josh Stokes	1	0	1	1	0	0	21	4	0	0	2	6	27	
+Donte Walter	0	0	1	0	0	0	6	0	0	0	0	1	6	
+Drew Burns	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Zion Wright	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Walt Lewis	0	0	0	0	0	0	0	0	0	0	0	0	0	

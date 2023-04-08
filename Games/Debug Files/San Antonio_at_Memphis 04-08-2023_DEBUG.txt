@@ -1,0 +1,873 @@
+TOP INNING 1
+
+Dylan Marsh: rng1 = 52 + 15 - 8 - 1 = 58
+rng2 = 56 + 15 - 10 - 1 = 60
+Flyout
+Team 2 pitcher (Gage Atkins): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Rodolfo Mullen: rng1 = 76 + 14 - 8 - 1 = 81
+rng2 = 75 + 14 - 10 - 1 = 78
+Triple
+Team 2 pitcher (Gage Atkins): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: [1,0]
+base1: false, base2: false, base3: true
+Score: 0-0
+
+Rubén Indiano: rng1 = 92 + 14 - 8 - 1 = 97
+rng2 = 95 + 13 - 10 - 1 = 97
+Home run
+Team 2 pitcher (Gage Atkins): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Frankie Bell: rng1 = 2 + 8 - 8 - 1 = 1
+Strikeout
+Team 2 pitcher (Gage Atkins): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Marcelo Francis: rng1 = 7 + 12 - 8 - 1 = 10
+Strikeout
+Team 2 pitcher (Gage Atkins): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Lawrence Randolph: rng1 = 57 + 15 - 10 + 1 = 63
+rng2 = 62 + 12 - 10 + 1 = 65
+Flyout
+Team 1 pitcher (Josh Hopkins): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Phoenix Moore: rng1 = 15 + 15 - 10 + 1 = 21
+Strikeout
+Team 1 pitcher (Josh Hopkins): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Sip Hyun-Ki: rng1 = 69 + 15 - 10 + 1 = 75
+rng2 = 7 + 12 - 10 + 1 = 10
+Single
+Team 1 pitcher (Josh Hopkins): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Trace Spears: rng1 = 47 + 8 - 10 + 1 = 46
+rng2 = 21 + 12 - 10 + 1 = 24
+Groundout
+Team 1 pitcher (Josh Hopkins): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+TOP INNING 2
+
+Braylon Summers: rng1 = 39 + 7 - 8 - 1 = 37
+rng2 = 10 + 6 - 10 - 1 = 5
+Groundout
+Team 2 pitcher (Gage Atkins): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Enrique Holmes: rng1 = 37 + 5 - 8 - 1 = 33
+rng2 = 91 + 7 - 10 - 1 = 87
+Flyout
+Team 2 pitcher (Gage Atkins): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Trent Cline: rng1 = 17 + 5 - 8 - 1 = 13
+rng2 = 67 + 6 - 10 - 1 = 62
+Flyout
+Team 2 pitcher (Gage Atkins): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Mason Foster: rng1 = 4 + 12 - 10 + 1 = 7
+Strikeout
+Team 1 pitcher (Josh Hopkins): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Patrick Marshall: rng1 = 75 + 8 - 10 + 1 = 74
+rng2 = 60 + 9 - 10 + 1 = 60
+Single
+Team 1 pitcher (Josh Hopkins): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Parker Dillard: rng1 = 36 + 7 - 10 + 1 = 34
+rng2 = 97 + 9 - 10 + 1 = 97
+Flyout
+Team 1 pitcher (Josh Hopkins): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Readale Roberson: rng1 = 22 + 5 - 10 + 1 = 18
+Strikeout
+Team 1 pitcher (Josh Hopkins): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+TOP INNING 3
+
+Juan Bolton: rng1 = 83 + 3 - 8 - 1 = 77
+rng2 = 92 + 7 - 10 - 1 = 88
+Double
+Team 2 pitcher (Gage Atkins): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 0
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-0
+
+Dylan Marsh: rng1 = 31 + 15 - 8 - 1 = 37
+rng2 = 100 + 15 - 10 - 1 = 104
+Flyout
+Team 2 pitcher (Gage Atkins): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 1
+
+base1: false, base2: false, base3: [8,0]
+base1: false, base2: false, base3: true
+Score: 2-0
+
+Rodolfo Mullen: rng1 = 79 + 14 - 8 - 1 = 84
+rng2 = 55 + 14 - 10 - 1 = 58
+Single
+Team 2 pitcher (Gage Atkins): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Rubén Indiano: rng1 = 99 + 14 - 8 - 1 = 104
+rng2 = 29 + 13 - 10 - 1 = 31
+Single
+Team 2 pitcher (Gage Atkins): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 1
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 3-0
+
+Frankie Bell: rng1 = 58 + 8 - 8 - 1 = 57
+rng2 = 39 + 11 - 10 - 1 = 39
+Groundout
+Team 2 pitcher (Gage Atkins): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-0
+
+Marcelo Francis: rng1 = 65 + 12 - 8 - 1 = 68
+rng2 = 10 + 7 - 10 - 1 = 6
+Groundout
+Team 2 pitcher (Gage Atkins): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Aidan Sharp: rng1 = 37 + 5 - 10 + 1 = 33
+rng2 = 89 + 5 - 10 + 1 = 85
+Flyout
+Team 1 pitcher (Josh Hopkins): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Lawrence Randolph: rng1 = 4 + 15 - 10 + 1 = 10
+Strikeout
+Team 1 pitcher (Josh Hopkins): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Phoenix Moore: rng1 = 63 + 15 - 10 + 1 = 69
+Walk
+Team 1 pitcher (Josh Hopkins): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Sip Hyun-Ki: rng1 = 85 + 15 - 10 + 1 = 91
+rng2 = 41 + 12 - 10 + 1 = 44
+Single
+Team 1 pitcher (Josh Hopkins): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 2
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 4-0
+
+Trace Spears: rng1 = 76 + 8 - 10 + 1 = 75
+rng2 = 93 + 12 - 10 + 1 = 96
+Home run
+Team 1 pitcher (Josh Hopkins): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Mason Foster: rng1 = 98 + 12 - 10 + 1 = 101
+rng2 = 45 + 10 - 10 + 1 = 46
+Single
+Team 1 pitcher (Josh Hopkins): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Patrick Marshall: rng1 = 35 + 8 - 10 + 1 = 34
+rng2 = 97 + 9 - 10 + 1 = 97
+Flyout
+Team 1 pitcher (Josh Hopkins): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+TOP INNING 4
+
+Braylon Summers: rng1 = 79 + 7 - 8 - 1 = 77
+rng2 = 49 + 6 - 10 - 1 = 44
+Single
+Team 2 pitcher (Gage Atkins): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Enrique Holmes: rng1 = 13 + 5 - 8 - 1 = 9
+Strikeout
+Team 2 pitcher (Gage Atkins): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Trent Cline: rng1 = 82 + 5 - 8 - 1 = 78
+rng2 = 53 + 6 - 10 - 1 = 48
+Single
+Team 2 pitcher (Gage Atkins): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 1
+
+base1: [7,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 4-3
+
+Juan Bolton: rng1 = 17 + 3 - 8 - 1 = 11
+rng2 = 78 + 7 - 10 - 1 = 74
+Flyout
+Team 2 pitcher (Gage Atkins): 18 batters faced, 5 runs allowed = 18 + 12.5 = 30.5, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-3
+
+Dylan Marsh: rng1 = 3 + 15 - 8 - 1 = 9
+Strikeout
+Team 2 pitcher (Gage Atkins): 19 batters faced, 5 runs allowed = 19 + 12.5 = 31.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+BOTTOM INNING 4
+
+Parker Dillard: rng1 = 50 + 7 - 10 + 1 = 48
+rng2 = 6 + 9 - 10 + 1 = 6
+Groundout
+Team 1 pitcher (Josh Hopkins): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Readale Roberson: rng1 = 6 + 5 - 10 + 1 = 2
+Strikeout
+Team 1 pitcher (Josh Hopkins): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Aidan Sharp: rng1 = 47 + 5 - 10 + 1 = 43
+rng2 = 22 + 5 - 10 + 1 = 18
+Groundout
+Team 1 pitcher (Josh Hopkins): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+TOP INNING 5
+
+Team 2 pitcher change to Brentley Dickson
+
+Rodolfo Mullen: rng1 = 95 + 14 - 9 - 1 = 99
+rng2 = 19 + 14 - 7 - 1 = 25
+Single
+Team 2 pitcher (Brentley Dickson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-3
+
+Rubén Indiano: rng1 = 97 + 14 - 9 - 1 = 101
+rng2 = 31 + 13 - 7 - 1 = 36
+Single
+Team 2 pitcher (Brentley Dickson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [2,1], base2: false, base3: [1,1]
+base1: true, base2: false, base3: true
+Score: 5-3
+
+Frankie Bell: rng1 = 7 + 8 - 9 - 1 = 5
+Strikeout
+Team 2 pitcher (Brentley Dickson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,1], base2: false, base3: [1,1]
+base1: true, base2: false, base3: true
+Score: 5-3
+
+Marcelo Francis: rng1 = 25 + 12 - 9 - 1 = 27
+Strikeout
+Team 2 pitcher (Brentley Dickson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [2,1], base2: false, base3: [1,1]
+base1: true, base2: false, base3: true
+Score: 5-3
+
+Braylon Summers: rng1 = 60 + 7 - 9 - 1 = 57
+rng2 = 74 + 6 - 7 - 1 = 72
+Flyout
+Team 2 pitcher (Brentley Dickson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+BOTTOM INNING 5
+
+Lawrence Randolph: rng1 = 82 + 15 - 10 + 1 = 88
+Walk
+Team 1 pitcher (Josh Hopkins): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-3
+
+Phoenix Moore: rng1 = 41 + 15 - 10 + 1 = 47
+rng2 = 12 + 11 - 10 + 1 = 14
+Groundout
+Team 1 pitcher (Josh Hopkins): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-3
+
+Sip Hyun-Ki: rng1 = 58 + 15 - 10 + 1 = 64
+rng2 = 94 + 12 - 10 + 1 = 97
+Flyout
+Team 1 pitcher (Josh Hopkins): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-3
+
+Trace Spears: rng1 = 35 + 8 - 10 + 1 = 34
+rng2 = 11 + 12 - 10 + 1 = 14
+Groundout
+Team 1 pitcher (Josh Hopkins): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Major Ortiz
+
+Enrique Holmes: rng1 = 5 + 5 - 7 - 1 = 2
+Strikeout
+Team 2 pitcher (Major Ortiz): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Trent Cline: rng1 = 3 + 5 - 7 - 1 = 0
+Strikeout
+Team 2 pitcher (Major Ortiz): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Juan Bolton: rng1 = 97 + 3 - 7 - 1 = 92
+rng2 = 15 + 7 - 9 - 1 = 12
+Single
+Team 2 pitcher (Major Ortiz): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-3
+
+Dylan Marsh: rng1 = 46 + 15 - 7 - 1 = 53
+rng2 = 44 + 15 - 9 - 1 = 49
+Lineout
+Team 2 pitcher (Major Ortiz): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Jackson Peck
+
+Mason Foster: rng1 = 83 + 12 - 9 + 1 = 87
+Walk
+Team 1 pitcher (Jackson Peck): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-3
+
+Patrick Marshall: rng1 = 80 + 8 - 9 + 1 = 80
+rng2 = 66 + 9 - 7 + 1 = 69
+Double
+Team 1 pitcher (Jackson Peck): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: false, base2: [5,1], base3: [4,1]
+base1: false, base2: true, base3: true
+Score: 5-3
+
+Parker Dillard: rng1 = 91 + 7 - 9 + 1 = 90
+Walk
+Team 1 pitcher (Jackson Peck): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 0
+
+base1: [6,1], base2: [5,1], base3: [4,1]
+base1: true, base2: true, base3: true
+Score: 5-3
+
+Readale Roberson: rng1 = 5 + 5 - 9 + 1 = 2
+Strikeout
+Team 1 pitcher (Jackson Peck): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [6,1], base2: [5,1], base3: [4,1]
+base1: true, base2: true, base3: true
+Score: 5-3
+
+Aidan Sharp: rng1 = 65 + 5 - 9 + 1 = 62
+rng2 = 61 + 5 - 7 + 1 = 60
+Flyout
+Team 1 pitcher (Jackson Peck): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [6,1], base2: false, base3: [5,1]
+base1: true, base2: false, base3: true
+Score: 5-4
+
+Lawrence Randolph: rng1 = 25 + 15 - 9 + 1 = 32
+rng2 = 38 + 12 - 7 + 1 = 44
+Groundout
+Team 1 pitcher (Jackson Peck): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-4
+
+-----------------------
+
+TOP INNING 7
+
+Rodolfo Mullen: rng1 = 30 + 14 - 7 - 1 = 36
+rng2 = 95 + 14 - 9 - 1 = 99
+Flyout
+Team 2 pitcher (Major Ortiz): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Rubén Indiano: rng1 = 14 + 14 - 7 - 1 = 20
+Strikeout
+Team 2 pitcher (Major Ortiz): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Frankie Bell: rng1 = 30 + 8 - 7 - 1 = 30
+rng2 = 6 + 11 - 9 - 1 = 7
+Groundout
+Team 2 pitcher (Major Ortiz): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-4
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Ian Berg
+
+Phoenix Moore: rng1 = 79 + 15 - 10 + 1 = 85
+rng2 = 62 + 11 - 9 + 1 = 65
+Double
+Team 1 pitcher (Ian Berg): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [1,2], base3: false
+base1: false, base2: true, base3: false
+Score: 5-4
+
+Sip Hyun-Ki: rng1 = 85 + 15 - 10 + 1 = 91
+rng2 = 43 + 12 - 9 + 1 = 47
+Single
+Team 1 pitcher (Ian Berg): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-5
+
+Trace Spears: rng1 = 50 + 8 - 10 + 1 = 49
+rng2 = 69 + 12 - 9 + 1 = 73
+Flyout
+Team 1 pitcher (Ian Berg): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-5
+
+Mason Foster: rng1 = 44 + 12 - 10 + 1 = 47
+rng2 = 30 + 10 - 9 + 1 = 32
+Groundout
+Team 1 pitcher (Ian Berg): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [2,2], base3: false
+base1: false, base2: true, base3: false
+Score: 5-5
+
+Patrick Marshall: rng1 = 28 + 8 - 10 + 1 = 27
+Strikeout
+Team 1 pitcher (Ian Berg): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-5
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Hiraoka Yosai
+
+Marcelo Francis: rng1 = 41 + 12 - 9 - 1 = 43
+rng2 = 85 + 7 - 5 - 1 = 86
+Flyout
+Team 2 pitcher (Hiraoka Yosai): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-5
+
+Braylon Summers: rng1 = 64 + 7 - 9 - 1 = 61
+rng2 = 28 + 6 - 5 - 1 = 28
+Groundout
+Team 2 pitcher (Hiraoka Yosai): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-5
+
+Enrique Holmes: rng1 = 52 + 5 - 9 - 1 = 47
+rng2 = 35 + 7 - 5 - 1 = 36
+Groundout
+Team 2 pitcher (Hiraoka Yosai): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-5
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Cullen McClain
+
+Parker Dillard: rng1 = 57 + 7 - 6 + 1 = 59
+rng2 = 57 + 9 - 5 + 1 = 62
+Flyout
+Team 1 pitcher (Cullen McClain): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-5
+
+Readale Roberson: rng1 = 38 + 5 - 6 + 1 = 38
+rng2 = 88 + 8 - 5 + 1 = 92
+Flyout
+Team 1 pitcher (Cullen McClain): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-5
+
+Aidan Sharp: rng1 = 3 + 5 - 6 + 1 = 3
+Strikeout
+Team 1 pitcher (Cullen McClain): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-5
+
+-----------------------
+
+TOP INNING 9
+
+Trent Cline: rng1 = 26 + 5 - 9 - 1 = 21
+Strikeout
+Team 2 pitcher (Hiraoka Yosai): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-5
+
+Juan Bolton: rng1 = 32 + 3 - 9 - 1 = 25
+Strikeout
+Team 2 pitcher (Hiraoka Yosai): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-5
+
+Dylan Marsh: rng1 = 81 + 15 - 9 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Hiraoka Yosai): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [0,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-5
+
+Rodolfo Mullen: rng1 = 26 + 14 - 9 - 1 = 30
+rng2 = 16 + 14 - 5 - 1 = 24
+Groundout
+Team 2 pitcher (Hiraoka Yosai): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-5
+
+-----------------------
+
+BOTTOM INNING 9
+
+Lawrence Randolph: rng1 = 37 + 15 - 6 + 1 = 47
+rng2 = 80 + 12 - 5 + 1 = 88
+Flyout
+Team 1 pitcher (Cullen McClain): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-5
+
+Phoenix Moore: rng1 = 51 + 15 - 6 + 1 = 61
+rng2 = 59 + 11 - 5 + 1 = 66
+Flyout
+Team 1 pitcher (Cullen McClain): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-5
+
+Sip Hyun-Ki: rng1 = 10 + 15 - 6 + 1 = 20
+Strikeout
+Team 1 pitcher (Cullen McClain): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-5
+
+-----------------------
+
+TOP INNING 10
+
+Team 2 pitcher change to Luciano Garrido
+
+Rubén Indiano: rng1 = 70 + 14 - 11 - 1 = 72
+rng2 = 2 + 13 - 10 - 1 = 4
+Single
+Team 2 pitcher (Luciano Garrido): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [2,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-5
+
+Frankie Bell: rng1 = 2 + 8 - 11 - 1 = -2
+Strikeout
+Team 2 pitcher (Luciano Garrido): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [2,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-5
+
+Marcelo Francis: rng1 = 99 + 12 - 11 - 1 = 99
+rng2 = 83 + 7 - 10 - 1 = 79
+Home run
+Team 2 pitcher (Luciano Garrido): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-5
+
+Braylon Summers: rng1 = 93 + 7 - 11 - 1 = 88
+Walk
+Team 2 pitcher (Luciano Garrido): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: [5,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-5
+
+Enrique Holmes: rng1 = 18 + 5 - 11 - 1 = 11
+rng2 = 6 + 7 - 10 - 1 = 2
+Groundout
+Team 2 pitcher (Luciano Garrido): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: [6,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-5
+
+Trent Cline: rng1 = 20 + 5 - 11 - 1 = 13
+rng2 = 15 + 6 - 10 - 1 = 10
+Groundout
+Team 2 pitcher (Luciano Garrido): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-5
+
+-----------------------
+
+BOTTOM INNING 10
+
+Team 1 pitcher change to Sakai Tsuneo
+
+Trace Spears: rng1 = 39 + 8 - 12 + 1 = 36
+rng2 = 8 + 12 - 14 + 1 = 7
+Groundout
+Team 1 pitcher (Sakai Tsuneo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-5
+
+Mason Foster: rng1 = 51 + 12 - 12 + 1 = 52
+rng2 = 88 + 10 - 14 + 1 = 85
+Flyout
+Team 1 pitcher (Sakai Tsuneo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-5
+
+Patrick Marshall: rng1 = 85 + 8 - 12 + 1 = 82
+rng2 = 76 + 9 - 14 + 1 = 72
+Double
+Team 1 pitcher (Sakai Tsuneo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [5,4], base3: false
+base1: false, base2: true, base3: false
+Score: 7-5
+
+Parker Dillard: rng1 = 38 + 7 - 12 + 1 = 34
+rng2 = 83 + 9 - 14 + 1 = 79
+Flyout
+Team 1 pitcher (Sakai Tsuneo): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-5
+
+-----------------------
+
+Innings: 10
+Team 1 hits: 12
+Team 2 hits: 9
+Team 1 runs: 7
+Team 2 runs: 5
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-04-08
+Dylan Marsh	4	0	0	0	0	0	0	0	1					San Antonio
+Rodolfo Mullen	5	2	3	0	1	0	1	0	0	
+Rubén Indiano	5	2	4	0	0	1	2	0	1	
+Frankie Bell	5	0	0	0	0	0	1	0	3	
+Marcelo Francis	5	1	1	0	0	1	2	0	2	
+Braylon Summers	4	1	1	0	0	0	0	1	0	
+Enrique Holmes	5	0	0	0	0	0	0	0	2	
+Trent Cline	5	0	1	0	0	0	0	0	2	
+Juan Bolton	4	1	2	1	0	0	1	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Josh Hopkins	0	0	1	1	0	0	15	5	3	1	2	5	22	
+Jackson Peck	0	0	1	0	0	0	3	1	1	0	2	1	6	
+Ian Berg	0	0	1	0	0	0	3	2	1	0	0	1	5	
+Cullen McClain	1	0	1	0	0	0	6	0	0	0	0	2	6	
+Sakai Tsuneo	0	0	1	0	0	0	3	1	0	0	0	0	4	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-04-08
+Lawrence Randolph	4	0	0	0	0	0	0	1	1					Memphis
+Phoenix Moore	4	2	1	1	0	0	0	1	1	
+Sip Hyun-Ki	5	1	3	0	0	0	1	0	1	
+Trace Spears	5	1	1	0	0	1	3	0	0	
+Mason Foster	4	1	1	0	0	0	0	1	1	
+Patrick Marshall	5	0	3	2	0	0	0	0	1	
+Parker Dillard	4	0	0	0	0	0	0	1	0	
+Readale Roberson	4	0	0	0	0	0	0	0	3	
+Aidan Sharp	4	0	0	0	0	0	1	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Gage Atkins	0	0	1	1	0	0	12	7	5	1	0	4	19	
+Brentley Dickson	0	0	1	0	0	0	3	2	0	0	0	2	5	
+Major Ortiz	0	0	1	0	0	0	6	1	0	0	0	3	7	
+Hiraoka Yosai	0	0	1	0	0	0	6	0	0	0	0	2	7	
+Luciano Garrido	0	1	1	0	0	0	3	2	2	1	1	1	6	

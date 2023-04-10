@@ -1,0 +1,729 @@
+TOP INNING 1
+
+Ashton Martin: rng1 = 12 + 15 - 9 - 1 = 17
+Strikeout
+Team 2 pitcher (Austin Clarke): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Bradley Murphy: rng1 = 45 + 11 - 9 - 1 = 46
+rng2 = 26 + 12 - 6 - 1 = 31
+Groundout
+Team 2 pitcher (Austin Clarke): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Caden Beckett: rng1 = 2 + 11 - 9 - 1 = 3
+Strikeout
+Team 2 pitcher (Austin Clarke): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Drake LaStelle: rng1 = 6 + 15 - 11 + 1 = 11
+rng2 = 22 + 12 - 9 + 1 = 26
+Groundout
+Team 1 pitcher (Gustavo Soto): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Alfie Young: rng1 = 88 + 13 - 11 + 1 = 91
+rng2 = 100 + 6 - 9 + 1 = 98
+Home run
+Team 1 pitcher (Gustavo Soto): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Pascual Gilbert: rng1 = 24 + 9 - 11 + 1 = 23
+Strikeout
+Team 1 pitcher (Gustavo Soto): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Leonardo Vera: rng1 = 79 + 12 - 11 + 1 = 81
+rng2 = 2 + 12 - 9 + 1 = 6
+Single
+Team 1 pitcher (Gustavo Soto): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Jamie Reid: rng1 = 90 + 9 - 11 + 1 = 89
+Walk
+Team 1 pitcher (Gustavo Soto): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-1
+
+Charlie May: rng1 = 75 + 8 - 11 + 1 = 73
+rng2 = 46 + 10 - 9 + 1 = 48
+Single
+Team 1 pitcher (Gustavo Soto): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-2
+
+Darren Adams: rng1 = 81 + 8 - 11 + 1 = 79
+rng2 = 92 + 6 - 9 + 1 = 90
+Double
+Team 1 pitcher (Gustavo Soto): 7 batters faced, 4 runs allowed = 7 + 10.0 = 17.0, outs: 2
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-4
+
+Benito Maroto: rng1 = 35 + 4 - 11 + 1 = 29
+rng2 = 21 + 8 - 9 + 1 = 21
+Groundout
+Team 1 pitcher (Gustavo Soto): 8 batters faced, 4 runs allowed = 8 + 10.0 = 18.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+TOP INNING 2
+
+Yodogawa Shosuke: rng1 = 68 + 8 - 9 - 1 = 66
+rng2 = 40 + 10 - 6 - 1 = 43
+Groundout
+Team 2 pitcher (Austin Clarke): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Joel Arboleda: rng1 = 95 + 8 - 9 - 1 = 93
+rng2 = 46 + 10 - 6 - 1 = 49
+Single
+Team 2 pitcher (Austin Clarke): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Quinell McDaniel: rng1 = 78 + 6 - 9 - 1 = 74
+rng2 = 75 + 9 - 6 - 1 = 77
+Double
+Team 2 pitcher (Austin Clarke): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: [5,0], base3: [4,0]
+base1: false, base2: true, base3: true
+Score: 0-4
+
+Orlando Cazalla: rng1 = 27 + 5 - 9 - 1 = 22
+Strikeout
+Team 2 pitcher (Austin Clarke): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: [5,0], base3: [4,0]
+base1: false, base2: true, base3: true
+Score: 0-4
+
+Aaron Copley: rng1 = 63 + 6 - 9 - 1 = 59
+rng2 = 61 + 5 - 6 - 1 = 59
+Flyout
+Team 2 pitcher (Austin Clarke): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+BOTTOM INNING 2
+
+Manuel Alvarez: rng1 = 25 + 4 - 11 + 1 = 19
+Strikeout
+Team 1 pitcher (Gustavo Soto): 9 batters faced, 4 runs allowed = 9 + 10.0 = 19.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Drake LaStelle: rng1 = 52 + 15 - 11 + 1 = 57
+rng2 = 18 + 12 - 9 + 1 = 22
+Groundout
+Team 1 pitcher (Gustavo Soto): 10 batters faced, 4 runs allowed = 10 + 10.0 = 20.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Alfie Young: rng1 = 4 + 13 - 11 + 1 = 7
+Strikeout
+Team 1 pitcher (Gustavo Soto): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+TOP INNING 3
+
+Ethan Clarke: rng1 = 78 + 3 - 9 - 1 = 71
+Walk
+Team 2 pitcher (Austin Clarke): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Ashton Martin: rng1 = 66 + 15 - 9 - 1 = 71
+Walk
+Team 2 pitcher (Austin Clarke): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 0
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-4
+
+Bradley Murphy: rng1 = 20 + 11 - 9 - 1 = 21
+Strikeout
+Team 2 pitcher (Austin Clarke): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 1
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-4
+
+Caden Beckett: rng1 = 43 + 11 - 9 - 1 = 44
+rng2 = 54 + 7 - 6 - 1 = 54
+Lineout
+Team 2 pitcher (Austin Clarke): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 2
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-4
+
+Yodogawa Shosuke: rng1 = 75 + 8 - 9 - 1 = 73
+rng2 = 46 + 10 - 6 - 1 = 49
+Single
+Team 2 pitcher (Austin Clarke): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 2
+
+base1: [3,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 1-4
+
+Joel Arboleda: rng1 = 4 + 8 - 9 - 1 = 2
+Strikeout
+Team 2 pitcher (Austin Clarke): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+BOTTOM INNING 3
+
+Pascual Gilbert: rng1 = 81 + 9 - 11 + 1 = 80
+rng2 = 29 + 6 - 9 + 1 = 27
+Single
+Team 1 pitcher (Gustavo Soto): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 0
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Leonardo Vera: rng1 = 17 + 12 - 11 + 1 = 19
+Strikeout
+Team 1 pitcher (Gustavo Soto): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Jamie Reid: rng1 = 17 + 9 - 11 + 1 = 16
+Strikeout
+Team 1 pitcher (Gustavo Soto): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Charlie May: rng1 = 95 + 8 - 11 + 1 = 93
+rng2 = 98 + 10 - 9 + 1 = 100
+Home run
+Team 1 pitcher (Gustavo Soto): 15 batters faced, 6 runs allowed = 15 + 15.0 = 30.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Darren Adams: rng1 = 33 + 8 - 11 + 1 = 31
+rng2 = 65 + 6 - 9 + 1 = 63
+Flyout
+Team 1 pitcher (Gustavo Soto): 16 batters faced, 6 runs allowed = 16 + 15.0 = 31.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 4
+
+Quinell McDaniel: rng1 = 54 + 6 - 9 - 1 = 50
+rng2 = 16 + 9 - 6 - 1 = 18
+Groundout
+Team 2 pitcher (Austin Clarke): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Orlando Cazalla: rng1 = 16 + 5 - 9 - 1 = 11
+rng2 = 55 + 7 - 6 - 1 = 55
+Lineout
+Team 2 pitcher (Austin Clarke): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Aaron Copley: rng1 = 39 + 6 - 9 - 1 = 35
+rng2 = 3 + 5 - 6 - 1 = 1
+Groundout
+Team 2 pitcher (Austin Clarke): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+BOTTOM INNING 4
+
+Team 1 pitcher change to Calvin Hogan
+
+Benito Maroto: rng1 = 38 + 4 - 7 + 1 = 36
+rng2 = 65 + 8 - 8 + 1 = 66
+Flyout
+Team 1 pitcher (Calvin Hogan): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Manuel Alvarez: rng1 = 34 + 4 - 7 + 1 = 32
+rng2 = 4 + 8 - 8 + 1 = 5
+Groundout
+Team 1 pitcher (Calvin Hogan): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Drake LaStelle: rng1 = 53 + 15 - 7 + 1 = 62
+rng2 = 81 + 12 - 8 + 1 = 86
+Flyout
+Team 1 pitcher (Calvin Hogan): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 5
+
+Ethan Clarke: rng1 = 3 + 3 - 9 - 1 = -4
+Strikeout
+Team 2 pitcher (Austin Clarke): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Ashton Martin: rng1 = 6 + 15 - 9 - 1 = 11
+rng2 = 43 + 14 - 6 - 1 = 50
+Lineout
+Team 2 pitcher (Austin Clarke): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Bradley Murphy: rng1 = 74 + 11 - 9 - 1 = 75
+rng2 = 46 + 12 - 6 - 1 = 51
+Single
+Team 2 pitcher (Austin Clarke): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Caden Beckett: rng1 = 27 + 11 - 9 - 1 = 28
+rng2 = 21 + 7 - 6 - 1 = 21
+Groundout
+Team 2 pitcher (Austin Clarke): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+BOTTOM INNING 5
+
+Alfie Young: rng1 = 18 + 13 - 7 + 1 = 25
+Strikeout
+Team 1 pitcher (Calvin Hogan): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Pascual Gilbert: rng1 = 23 + 9 - 7 + 1 = 26
+Strikeout
+Team 1 pitcher (Calvin Hogan): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Leonardo Vera: rng1 = 100 + 12 - 7 + 1 = 106
+rng2 = 2 + 12 - 8 + 1 = 7
+Single
+Team 1 pitcher (Calvin Hogan): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Jamie Reid: rng1 = 9 + 9 - 7 + 1 = 12
+rng2 = 100 + 11 - 8 + 1 = 104
+Flyout
+Team 1 pitcher (Calvin Hogan): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 6
+
+Yodogawa Shosuke: rng1 = 13 + 8 - 9 - 1 = 11
+rng2 = 64 + 10 - 6 - 1 = 67
+Flyout
+Team 2 pitcher (Austin Clarke): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Joel Arboleda: rng1 = 22 + 8 - 9 - 1 = 20
+Strikeout
+Team 2 pitcher (Austin Clarke): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Quinell McDaniel: rng1 = 87 + 6 - 9 - 1 = 83
+rng2 = 46 + 9 - 6 - 1 = 48
+Single
+Team 2 pitcher (Austin Clarke): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Orlando Cazalla: rng1 = 34 + 5 - 9 - 1 = 29
+rng2 = 58 + 7 - 6 - 1 = 58
+Lineout
+Team 2 pitcher (Austin Clarke): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Reed Winters
+
+Charlie May: rng1 = 61 + 8 - 8 + 1 = 62
+rng2 = 24 + 10 - 7 + 1 = 28
+Groundout
+Team 1 pitcher (Reed Winters): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Darren Adams: rng1 = 10 + 8 - 8 + 1 = 11
+rng2 = 22 + 6 - 7 + 1 = 22
+Groundout
+Team 1 pitcher (Reed Winters): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Benito Maroto: rng1 = 4 + 4 - 8 + 1 = 1
+Strikeout
+Team 1 pitcher (Reed Winters): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Julian Underwood
+
+Aaron Copley: rng1 = 1 + 6 - 10 - 1 = -4
+Strikeout
+Team 2 pitcher (Julian Underwood): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Ethan Clarke: rng1 = 49 + 3 - 10 - 1 = 41
+rng2 = 30 + 5 - 9 - 1 = 25
+Groundout
+Team 2 pitcher (Julian Underwood): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Ashton Martin: rng1 = 45 + 15 - 10 - 1 = 49
+rng2 = 91 + 14 - 9 - 1 = 95
+Flyout
+Team 2 pitcher (Julian Underwood): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+BOTTOM INNING 7
+
+Manuel Alvarez: rng1 = 61 + 4 - 8 + 1 = 58
+rng2 = 45 + 8 - 7 + 1 = 47
+Groundout
+Team 1 pitcher (Reed Winters): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Drake LaStelle: rng1 = 59 + 15 - 8 + 1 = 67
+rng2 = 9 + 12 - 7 + 1 = 15
+Groundout
+Team 1 pitcher (Reed Winters): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Alfie Young: rng1 = 17 + 13 - 8 + 1 = 23
+Strikeout
+Team 1 pitcher (Reed Winters): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 8
+
+Bradley Murphy: rng1 = 72 + 11 - 10 - 1 = 72
+rng2 = 59 + 12 - 9 - 1 = 61
+Single
+Team 2 pitcher (Julian Underwood): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Caden Beckett: rng1 = 92 + 11 - 10 - 1 = 92
+rng2 = 91 + 7 - 9 - 1 = 88
+Double
+Team 2 pitcher (Julian Underwood): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: false, base2: [2,1], base3: [1,1]
+base1: false, base2: true, base3: true
+Score: 1-6
+
+Yodogawa Shosuke: rng1 = 35 + 8 - 10 - 1 = 32
+rng2 = 4 + 10 - 9 - 1 = 4
+Groundout
+Team 2 pitcher (Julian Underwood): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: false, base3: [2,1]
+base1: false, base2: false, base3: true
+Score: 2-6
+
+Joel Arboleda: rng1 = 87 + 8 - 10 - 1 = 84
+rng2 = 92 + 10 - 9 - 1 = 92
+Double
+Team 2 pitcher (Julian Underwood): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 1
+
+base1: false, base2: [4,1], base3: false
+base1: false, base2: true, base3: false
+Score: 3-6
+
+Quinell McDaniel: rng1 = 66 + 6 - 10 - 1 = 61
+rng2 = 94 + 9 - 9 - 1 = 93
+Flyout
+Team 2 pitcher (Julian Underwood): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: false, base2: [4,1], base3: false
+base1: false, base2: true, base3: false
+Score: 3-6
+
+Team 2 pitcher change to Hershel Easom
+
+Orlando Cazalla: rng1 = 74 + 5 - 7 - 1 = 71
+Walk
+Team 2 pitcher (Hershel Easom): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [6,2], base2: [4,1], base3: false
+base1: true, base2: true, base3: false
+Score: 3-6
+
+Aaron Copley: rng1 = 37 + 6 - 7 - 1 = 35
+rng2 = 15 + 5 - 9 - 1 = 10
+Groundout
+Team 2 pitcher (Hershel Easom): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-6
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Jerry Walls
+
+Pascual Gilbert: rng1 = 43 + 9 - 6 + 1 = 47
+rng2 = 30 + 6 - 5 + 1 = 32
+Groundout
+Team 1 pitcher (Jerry Walls): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-6
+
+Leonardo Vera: rng1 = 42 + 12 - 6 + 1 = 49
+rng2 = 77 + 12 - 5 + 1 = 85
+Flyout
+Team 1 pitcher (Jerry Walls): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-6
+
+Jamie Reid: rng1 = 90 + 9 - 6 + 1 = 94
+rng2 = 5 + 11 - 5 + 1 = 12
+Single
+Team 1 pitcher (Jerry Walls): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [4,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-6
+
+Charlie May: rng1 = 24 + 8 - 6 + 1 = 27
+Strikeout
+Team 1 pitcher (Jerry Walls): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-6
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Jordan Knight
+
+Ethan Clarke: rng1 = 99 + 3 - 11 - 1 = 90
+Walk
+Team 2 pitcher (Jordan Knight): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [8,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-6
+
+Ashton Martin: rng1 = 53 + 15 - 11 - 1 = 56
+rng2 = 57 + 14 - 11 - 1 = 59
+Flyout
+Team 2 pitcher (Jordan Knight): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [8,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-6
+
+Bradley Murphy: rng1 = 54 + 11 - 11 - 1 = 53
+rng2 = 98 + 12 - 11 - 1 = 98
+Flyout
+Team 2 pitcher (Jordan Knight): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [8,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-6
+
+Caden Beckett: rng1 = 61 + 11 - 11 - 1 = 60
+rng2 = 70 + 7 - 11 - 1 = 65
+Flyout
+Team 2 pitcher (Jordan Knight): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-6
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 8
+Team 2 hits: 8
+Team 1 runs: 3
+Team 2 runs: 6
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-04-10
+Ashton Martin	4	0	0	0	0	0	0	1	1					Los Angeles
+Bradley Murphy	5	1	2	0	0	0	0	0	1	
+Caden Beckett	5	1	1	1	0	0	0	0	1	
+Yodogawa Shosuke	4	0	1	0	0	0	2	0	0	
+Joel Arboleda	4	0	2	1	0	0	1	0	2	
+Quinell McDaniel	4	0	2	1	0	0	0	0	0	
+Orlando Cazalla	3	0	0	0	0	0	0	1	1	
+Aaron Copley	4	0	0	0	0	0	0	0	1	
+Ethan Clarke	2	1	0	0	0	0	0	2	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Gustavo Soto	0	1	1	1	0	0	9	6	6	2	1	5	16	
+Calvin Hogan	0	0	1	0	0	0	6	1	0	0	0	2	7	
+Reed Winters	0	0	1	0	0	0	6	0	0	0	0	2	6	
+Jerry Walls	0	0	1	0	0	0	3	1	0	0	0	1	4	
+Jason Francisco	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-04-10
+Drake LaStelle	4	0	0	0	0	0	0	0	0					San Diego
+Alfie Young	4	1	1	0	0	1	1	0	3	
+Pascual Gilbert	4	1	1	0	0	0	0	0	2	
+Leonardo Vera	4	1	2	0	0	0	0	0	1	
+Jamie Reid	3	1	1	0	0	0	0	1	1	
+Charlie May	4	2	2	0	0	1	3	0	1	
+Darren Adams	3	0	1	1	0	0	2	0	0	
+Benito Maroto	3	0	0	0	0	0	0	0	1	
+Manuel Alvarez	3	0	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Austin Clarke	1	0	1	1	0	0	18	5	1	0	2	7	25	
+Julian Underwood	0	0	1	0	0	0	5	3	2	0	0	1	8	
+Hershel Easom	0	0	1	0	0	0	1	0	0	0	1	0	2	
+Matthew Dorman	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Jordan Knight	0	0	1	0	1	1	3	0	0	0	1	0	4	

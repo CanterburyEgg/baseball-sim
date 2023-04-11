@@ -1,0 +1,687 @@
+TOP INNING 1
+
+Antonio Carrera: rng1 = 88 + 15 - 12 - 1 = 90
+Walk
+Team 2 pitcher (Carmelo Beldad): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+George Nagle: rng1 = 11 + 15 - 12 - 1 = 13
+rng2 = 98 + 14 - 12 - 1 = 99
+Flyout
+Team 2 pitcher (Carmelo Beldad): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Dante Arias: rng1 = 12 + 10 - 12 - 1 = 9
+Strikeout
+Team 2 pitcher (Carmelo Beldad): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Jason Burress: rng1 = 68 + 12 - 12 - 1 = 67
+rng2 = 38 + 10 - 12 - 1 = 35
+Groundout
+Team 2 pitcher (Carmelo Beldad): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Tristian Love: rng1 = 86 + 14 - 8 + 1 = 93
+rng2 = 22 + 11 - 7 + 1 = 27
+Single
+Team 1 pitcher (Emanuel Muñoz): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Nicolás Moruga: rng1 = 18 + 14 - 8 + 1 = 25
+Strikeout
+Team 1 pitcher (Emanuel Muñoz): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Edward Cox: rng1 = 31 + 13 - 8 + 1 = 37
+rng2 = 76 + 5 - 7 + 1 = 75
+Flyout
+Team 1 pitcher (Emanuel Muñoz): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Lucián Chicote: rng1 = 5 + 11 - 8 + 1 = 9
+Strikeout
+Team 1 pitcher (Emanuel Muñoz): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Bautista Saelices: rng1 = 90 + 9 - 12 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Carmelo Beldad): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Noah Fontenot: rng1 = 91 + 10 - 12 - 1 = 88
+Walk
+Team 2 pitcher (Carmelo Beldad): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 0
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Terry Schroeder: rng1 = 84 + 6 - 12 - 1 = 77
+rng2 = 23 + 5 - 12 - 1 = 15
+Single
+Team 2 pitcher (Carmelo Beldad): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 0
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Ameer Jacobson: rng1 = 10 + 1 - 12 - 1 = -2
+Strikeout
+Team 2 pitcher (Carmelo Beldad): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Axel Chavez: rng1 = 72 + 4 - 12 - 1 = 63
+rng2 = 34 + 5 - 12 - 1 = 26
+Groundout
+Team 2 pitcher (Carmelo Beldad): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [8,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Antonio Carrera: rng1 = 74 + 15 - 12 - 1 = 76
+rng2 = 92 + 13 - 12 - 1 = 92
+Double
+Team 2 pitcher (Carmelo Beldad): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-0
+
+George Nagle: rng1 = 24 + 15 - 12 - 1 = 26
+Strikeout
+Team 2 pitcher (Carmelo Beldad): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Aldo Gilmore: rng1 = 6 + 11 - 8 + 1 = 10
+Strikeout
+Team 1 pitcher (Emanuel Muñoz): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Javier Guillén: rng1 = 59 + 8 - 8 + 1 = 60
+rng2 = 99 + 10 - 7 + 1 = 103
+Flyout
+Team 1 pitcher (Emanuel Muñoz): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Alexis Shultz: rng1 = 44 + 10 - 8 + 1 = 47
+rng2 = 1 + 7 - 7 + 1 = 2
+Groundout
+Team 1 pitcher (Emanuel Muñoz): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+TOP INNING 3
+
+Dante Arias: rng1 = 6 + 10 - 12 - 1 = 3
+Strikeout
+Team 2 pitcher (Carmelo Beldad): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Jason Burress: rng1 = 90 + 12 - 12 - 1 = 89
+Walk
+Team 2 pitcher (Carmelo Beldad): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Bautista Saelices: rng1 = 40 + 9 - 12 - 1 = 36
+rng2 = 45 + 9 - 12 - 1 = 41
+Groundout
+Team 2 pitcher (Carmelo Beldad): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Joaquín Laguna: rng1 = 40 + 6 - 8 + 1 = 39
+rng2 = 47 + 10 - 7 + 1 = 51
+Lineout
+Team 1 pitcher (Emanuel Muñoz): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Zahir Burgos: rng1 = 64 + 7 - 8 + 1 = 64
+rng2 = 47 + 8 - 7 + 1 = 49
+Lineout
+Team 1 pitcher (Emanuel Muñoz): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Tristian Love: rng1 = 28 + 14 - 8 + 1 = 35
+rng2 = 49 + 11 - 7 + 1 = 54
+Lineout
+Team 1 pitcher (Emanuel Muñoz): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+TOP INNING 4
+
+Noah Fontenot: rng1 = 96 + 10 - 12 - 1 = 93
+rng2 = 56 + 6 - 12 - 1 = 49
+Single
+Team 2 pitcher (Carmelo Beldad): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Terry Schroeder: rng1 = 58 + 6 - 12 - 1 = 51
+rng2 = 71 + 5 - 12 - 1 = 63
+Flyout
+Team 2 pitcher (Carmelo Beldad): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Ameer Jacobson: rng1 = 82 + 1 - 12 - 1 = 70
+Walk
+Team 2 pitcher (Carmelo Beldad): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 1
+
+base1: [7,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-0
+
+Axel Chavez: rng1 = 71 + 4 - 12 - 1 = 62
+rng2 = 70 + 5 - 12 - 1 = 62
+Flyout
+Team 2 pitcher (Carmelo Beldad): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 2
+
+base1: [7,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-0
+
+Antonio Carrera: rng1 = 41 + 15 - 12 - 1 = 43
+rng2 = 86 + 13 - 12 - 1 = 86
+Flyout
+Team 2 pitcher (Carmelo Beldad): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 4
+
+Nicolás Moruga: rng1 = 92 + 14 - 8 + 1 = 99
+rng2 = 5 + 14 - 7 + 1 = 13
+Single
+Team 1 pitcher (Emanuel Muñoz): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Edward Cox: rng1 = 32 + 13 - 8 + 1 = 38
+rng2 = 68 + 5 - 7 + 1 = 67
+Flyout
+Team 1 pitcher (Emanuel Muñoz): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Lucián Chicote: rng1 = 90 + 11 - 8 + 1 = 94
+rng2 = 99 + 11 - 7 + 1 = 104
+Home run
+Team 1 pitcher (Emanuel Muñoz): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Aldo Gilmore: rng1 = 7 + 11 - 8 + 1 = 11
+rng2 = 31 + 11 - 7 + 1 = 36
+Groundout
+Team 1 pitcher (Emanuel Muñoz): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Javier Guillén: rng1 = 82 + 8 - 8 + 1 = 83
+rng2 = 21 + 10 - 7 + 1 = 25
+Single
+Team 1 pitcher (Emanuel Muñoz): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Alexis Shultz: rng1 = 13 + 10 - 8 + 1 = 16
+Strikeout
+Team 1 pitcher (Emanuel Muñoz): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+TOP INNING 5
+
+George Nagle: rng1 = 87 + 15 - 12 - 1 = 89
+Walk
+Team 2 pitcher (Carmelo Beldad): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Dante Arias: rng1 = 57 + 10 - 12 - 1 = 54
+rng2 = 72 + 5 - 12 - 1 = 64
+Flyout
+Team 2 pitcher (Carmelo Beldad): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Jason Burress: rng1 = 65 + 12 - 12 - 1 = 64
+rng2 = 53 + 10 - 12 - 1 = 50
+Lineout
+Team 2 pitcher (Carmelo Beldad): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Bautista Saelices: rng1 = 16 + 9 - 12 - 1 = 12
+rng2 = 36 + 9 - 12 - 1 = 32
+Groundout
+Team 2 pitcher (Carmelo Beldad): 23 batters faced, 3 runs allowed = 23 + 7.5 = 30.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+BOTTOM INNING 5
+
+Joaquín Laguna: rng1 = 71 + 6 - 8 + 1 = 70
+Walk
+Team 1 pitcher (Emanuel Muñoz): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Zahir Burgos: rng1 = 37 + 7 - 8 + 1 = 37
+rng2 = 59 + 8 - 7 + 1 = 61
+Flyout
+Team 1 pitcher (Emanuel Muñoz): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Tristian Love: rng1 = 100 + 14 - 8 + 1 = 107
+rng2 = 86 + 11 - 7 + 1 = 91
+Double
+Team 1 pitcher (Emanuel Muñoz): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-3
+
+Nicolás Moruga: rng1 = 12 + 14 - 8 + 1 = 19
+Strikeout
+Team 1 pitcher (Emanuel Muñoz): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-3
+
+Edward Cox: rng1 = 100 + 13 - 8 + 1 = 106
+rng2 = 80 + 5 - 7 + 1 = 79
+Home run
+Team 1 pitcher (Emanuel Muñoz): 21 batters faced, 5 runs allowed = 21 + 12.5 = 33.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Lucián Chicote: rng1 = 45 + 11 - 8 + 1 = 49
+rng2 = 68 + 11 - 7 + 1 = 73
+Flyout
+Team 1 pitcher (Emanuel Muñoz): 22 batters faced, 5 runs allowed = 22 + 12.5 = 34.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Trey Hendrickson
+
+Noah Fontenot: rng1 = 32 + 10 - 14 - 1 = 27
+Strikeout
+Team 2 pitcher (Trey Hendrickson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Terry Schroeder: rng1 = 14 + 6 - 14 - 1 = 5
+Strikeout
+Team 2 pitcher (Trey Hendrickson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Ameer Jacobson: rng1 = 23 + 1 - 14 - 1 = 9
+Strikeout
+Team 2 pitcher (Trey Hendrickson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Rodrigo Valerio
+
+Aldo Gilmore: rng1 = 9 + 11 - 10 + 1 = 11
+rng2 = 35 + 11 - 10 + 1 = 37
+Groundout
+Team 1 pitcher (Rodrigo Valerio): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Javier Guillén: rng1 = 69 + 8 - 10 + 1 = 68
+rng2 = 78 + 10 - 10 + 1 = 79
+Flyout
+Team 1 pitcher (Rodrigo Valerio): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Alexis Shultz: rng1 = 56 + 10 - 10 + 1 = 57
+rng2 = 76 + 7 - 10 + 1 = 74
+Flyout
+Team 1 pitcher (Rodrigo Valerio): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+TOP INNING 7
+
+Axel Chavez: rng1 = 7 + 4 - 14 - 1 = -4
+Strikeout
+Team 2 pitcher (Trey Hendrickson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Antonio Carrera: rng1 = 39 + 15 - 14 - 1 = 39
+rng2 = 61 + 13 - 12 - 1 = 61
+Flyout
+Team 2 pitcher (Trey Hendrickson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+George Nagle: rng1 = 70 + 15 - 14 - 1 = 70
+Walk
+Team 2 pitcher (Trey Hendrickson): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-5
+
+Dante Arias: rng1 = 28 + 10 - 14 - 1 = 23
+Strikeout
+Team 2 pitcher (Trey Hendrickson): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+BOTTOM INNING 7
+
+Joaquín Laguna: rng1 = 57 + 6 - 10 + 1 = 54
+rng2 = 42 + 10 - 10 + 1 = 43
+Groundout
+Team 1 pitcher (Rodrigo Valerio): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Zahir Burgos: rng1 = 1 + 7 - 10 + 1 = -1
+Strikeout
+Team 1 pitcher (Rodrigo Valerio): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Tristian Love: rng1 = 47 + 14 - 10 + 1 = 52
+rng2 = 34 + 11 - 10 + 1 = 36
+Groundout
+Team 1 pitcher (Rodrigo Valerio): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Shane Moran
+
+Jason Burress: rng1 = 56 + 12 - 8 - 1 = 59
+rng2 = 54 + 10 - 9 - 1 = 54
+Lineout
+Team 2 pitcher (Shane Moran): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Bautista Saelices: rng1 = 45 + 9 - 8 - 1 = 45
+rng2 = 20 + 9 - 9 - 1 = 19
+Groundout
+Team 2 pitcher (Shane Moran): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Noah Fontenot: rng1 = 45 + 10 - 8 - 1 = 46
+rng2 = 54 + 6 - 9 - 1 = 50
+Lineout
+Team 2 pitcher (Shane Moran): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Taylor Murphy
+
+Nicolás Moruga: rng1 = 21 + 14 - 15 + 1 = 21
+Strikeout
+Team 1 pitcher (Taylor Murphy): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Edward Cox: rng1 = 28 + 13 - 15 + 1 = 27
+Strikeout
+Team 1 pitcher (Taylor Murphy): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Lucián Chicote: rng1 = 99 + 11 - 15 + 1 = 96
+rng2 = 35 + 11 - 13 + 1 = 34
+Single
+Team 1 pitcher (Taylor Murphy): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [3,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-5
+
+Aldo Gilmore: rng1 = 46 + 11 - 15 + 1 = 43
+rng2 = 10 + 11 - 13 + 1 = 9
+Groundout
+Team 1 pitcher (Taylor Murphy): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Christopher Jones
+
+Terry Schroeder: rng1 = 48 + 6 - 15 - 1 = 38
+rng2 = 36 + 5 - 15 - 1 = 25
+Groundout
+Team 2 pitcher (Christopher Jones): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Ameer Jacobson: rng1 = 22 + 1 - 15 - 1 = 7
+Strikeout
+Team 2 pitcher (Christopher Jones): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Axel Chavez: rng1 = 15 + 4 - 15 - 1 = 3
+Strikeout
+Team 2 pitcher (Christopher Jones): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 3
+Team 2 hits: 7
+Team 1 runs: 3
+Team 2 runs: 5
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-04-11
+Antonio Carrera	3	0	1	1	0	0	2	1	0					Las Vegas
+George Nagle	2	0	0	0	0	0	0	2	1	
+Dante Arias	4	0	0	0	0	0	0	0	3	
+Jason Burress	3	0	0	0	0	0	0	1	0	
+Bautista Saelices	3	1	0	0	0	0	0	0	0	
+Noah Fontenot	3	0	1	0	0	0	0	1	1	
+Terry Schroeder	4	1	1	0	0	0	1	0	1	
+Ameer Jacobson	3	0	0	0	0	0	0	1	3	
+Axel Chavez	4	1	0	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Emanuel Muñoz	0	1	1	1	0	0	15	6	5	2	1	5	22	
+Rodrigo Valerio	0	0	1	0	0	0	6	0	0	0	0	1	6	
+Taylor Murphy	0	0	1	0	0	0	3	1	0	0	0	2	4	
+Phil Segee	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Macos Alguacil	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-04-11
+Tristian Love	4	1	2	1	0	0	1	0	0					New York
+Nicolás Moruga	4	1	1	0	0	0	0	0	3	
+Edward Cox	4	1	1	0	0	1	2	0	1	
+Lucián Chicote	4	1	2	0	0	1	2	0	1	
+Aldo Gilmore	4	0	0	0	0	0	0	0	1	
+Javier Guillén	3	0	1	0	0	0	0	0	0	
+Alexis Shultz	3	0	0	0	0	0	0	0	1	
+Joaquín Laguna	2	1	0	0	0	0	0	1	0	
+Zahir Burgos	3	0	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Carmelo Beldad	1	0	1	1	0	0	15	3	3	0	5	4	23	
+Trey Hendrickson	0	0	1	0	0	0	6	0	0	0	1	5	7	
+Shane Moran	0	0	1	0	0	0	3	0	0	0	0	0	3	
+Johan Cortez	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Christopher Jones	0	0	1	0	1	1	3	0	0	0	0	2	3	

@@ -1,0 +1,785 @@
+TOP INNING 1
+
+Byron Bartlett: rng1 = 96 + 15 - 12 - 1 = 98
+rng2 = 19 + 11 - 13 - 1 = 16
+Single
+Team 2 pitcher (Gabriel Pearson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Arturo Bellamy: rng1 = 75 + 13 - 12 - 1 = 75
+rng2 = 47 + 10 - 13 - 1 = 43
+Single
+Team 2 pitcher (Gabriel Pearson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Edmundo Pousa: rng1 = 98 + 13 - 12 - 1 = 98
+rng2 = 83 + 9 - 13 - 1 = 78
+Triple
+Team 2 pitcher (Gabriel Pearson): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 0
+
+base1: false, base2: false, base3: [2,0]
+base1: false, base2: false, base3: true
+Score: 2-0
+
+Owen Williamson: rng1 = 23 + 6 - 12 - 1 = 16
+Strikeout
+Team 2 pitcher (Gabriel Pearson): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: false, base2: false, base3: [2,0]
+base1: false, base2: false, base3: true
+Score: 2-0
+
+Devoreaux Waters: rng1 = 66 + 8 - 12 - 1 = 61
+rng2 = 91 + 5 - 13 - 1 = 82
+Flyout
+Team 2 pitcher (Gabriel Pearson): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Oscar Pierce: rng1 = 28 + 6 - 12 - 1 = 21
+Strikeout
+Team 2 pitcher (Gabriel Pearson): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+John Gibson: rng1 = 13 + 14 - 6 + 1 = 22
+Strikeout
+Team 1 pitcher (Kadeem Davis): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Efraim Agramonte: rng1 = 13 + 13 - 6 + 1 = 21
+Strikeout
+Team 1 pitcher (Kadeem Davis): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Jaz Eaton: rng1 = 44 + 13 - 6 + 1 = 52
+rng2 = 51 + 10 - 6 + 1 = 56
+Lineout
+Team 1 pitcher (Kadeem Davis): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+TOP INNING 2
+
+Fabián Sánchez: rng1 = 3 + 3 - 12 - 1 = -7
+Strikeout
+Team 2 pitcher (Gabriel Pearson): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Chon Il-Seong: rng1 = 62 + 6 - 12 - 1 = 55
+rng2 = 6 + 3 - 13 - 1 = -5
+Groundout
+Team 2 pitcher (Gabriel Pearson): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Rakkan Gaines: rng1 = 32 + 3 - 12 - 1 = 22
+Strikeout
+Team 2 pitcher (Gabriel Pearson): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Adalberto Smith: rng1 = 12 + 5 - 6 + 1 = 12
+rng2 = 78 + 11 - 6 + 1 = 84
+Flyout
+Team 1 pitcher (Kadeem Davis): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Isaías Juderías: rng1 = 2 + 11 - 6 + 1 = 8
+Strikeout
+Team 1 pitcher (Kadeem Davis): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Sean Lee: rng1 = 46 + 12 - 6 + 1 = 53
+rng2 = 37 + 9 - 6 + 1 = 41
+Groundout
+Team 1 pitcher (Kadeem Davis): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+TOP INNING 3
+
+Byron Bartlett: rng1 = 45 + 15 - 12 - 1 = 47
+rng2 = 60 + 11 - 13 - 1 = 57
+Lineout
+Team 2 pitcher (Gabriel Pearson): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Arturo Bellamy: rng1 = 6 + 13 - 12 - 1 = 6
+Strikeout
+Team 2 pitcher (Gabriel Pearson): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Edmundo Pousa: rng1 = 92 + 13 - 12 - 1 = 92
+rng2 = 84 + 9 - 13 - 1 = 79
+Home run
+Team 2 pitcher (Gabriel Pearson): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Owen Williamson: rng1 = 33 + 6 - 12 - 1 = 26
+Strikeout
+Team 2 pitcher (Gabriel Pearson): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Adrián Noboa: rng1 = 66 + 9 - 6 + 1 = 70
+Walk
+Team 1 pitcher (Kadeem Davis): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Anthony Davila: rng1 = 99 + 10 - 6 + 1 = 104
+rng2 = 46 + 9 - 6 + 1 = 50
+Single
+Team 1 pitcher (Kadeem Davis): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 0
+
+base1: [7,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 4-0
+
+Gregory Cooper: rng1 = 85 + 6 - 6 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Kadeem Davis): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 0
+
+base1: [8,0], base2: [7,0], base3: [6,0]
+base1: true, base2: true, base3: true
+Score: 4-0
+
+John Gibson: rng1 = 60 + 14 - 6 + 1 = 69
+Walk
+Team 1 pitcher (Kadeem Davis): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 0
+
+base1: [0,0], base2: [8,0], base3: [7,0]
+base1: true, base2: true, base3: true
+Score: 4-1
+
+Efraim Agramonte: rng1 = 63 + 13 - 6 + 1 = 71
+Walk
+Team 1 pitcher (Kadeem Davis): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 0
+
+base1: [1,0], base2: [0,0], base3: [8,0]
+base1: true, base2: true, base3: true
+Score: 4-2
+
+Jaz Eaton: rng1 = 20 + 13 - 6 + 1 = 28
+rng2 = 41 + 10 - 6 + 1 = 46
+Groundout
+Team 1 pitcher (Kadeem Davis): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 2
+
+base1: false, base2: false, base3: [0,0]
+base1: false, base2: false, base3: true
+Score: 4-3
+
+Adalberto Smith: rng1 = 99 + 5 - 6 + 1 = 99
+rng2 = 66 + 11 - 6 + 1 = 72
+Double
+Team 1 pitcher (Kadeem Davis): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 2
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-4
+
+Isaías Juderías: rng1 = 56 + 11 - 6 + 1 = 62
+rng2 = 73 + 10 - 6 + 1 = 78
+Flyout
+Team 1 pitcher (Kadeem Davis): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+TOP INNING 4
+
+Devoreaux Waters: rng1 = 96 + 8 - 12 - 1 = 91
+rng2 = 49 + 5 - 13 - 1 = 40
+Single
+Team 2 pitcher (Gabriel Pearson): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Oscar Pierce: rng1 = 37 + 6 - 12 - 1 = 30
+rng2 = 86 + 6 - 13 - 1 = 78
+Flyout
+Team 2 pitcher (Gabriel Pearson): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Fabián Sánchez: rng1 = 81 + 3 - 12 - 1 = 71
+Walk
+Team 2 pitcher (Gabriel Pearson): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 1
+
+base1: [6,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 4-4
+
+Chon Il-Seong: rng1 = 47 + 6 - 12 - 1 = 40
+rng2 = 3 + 3 - 13 - 1 = -8
+Groundout
+Team 2 pitcher (Gabriel Pearson): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 2
+
+base1: false, base2: [6,0], base3: [4,0]
+base1: false, base2: true, base3: true
+Score: 4-4
+
+Rakkan Gaines: rng1 = 89 + 3 - 12 - 1 = 79
+rng2 = 77 + 5 - 13 - 1 = 68
+Double
+Team 2 pitcher (Gabriel Pearson): 18 batters faced, 6 runs allowed = 18 + 15.0 = 33.0, outs: 2
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 6-4
+
+Byron Bartlett: rng1 = 41 + 15 - 12 - 1 = 43
+rng2 = 49 + 11 - 13 - 1 = 46
+Groundout
+Team 2 pitcher (Gabriel Pearson): 19 batters faced, 6 runs allowed = 19 + 15.0 = 34.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-4
+
+-----------------------
+
+BOTTOM INNING 4
+
+Sean Lee: rng1 = 21 + 12 - 6 + 1 = 28
+rng2 = 49 + 9 - 6 + 1 = 53
+Lineout
+Team 1 pitcher (Kadeem Davis): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Adrián Noboa: rng1 = 76 + 9 - 6 + 1 = 80
+rng2 = 50 + 10 - 6 + 1 = 55
+Single
+Team 1 pitcher (Kadeem Davis): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-4
+
+Anthony Davila: rng1 = 39 + 10 - 6 + 1 = 44
+rng2 = 99 + 9 - 6 + 1 = 103
+Flyout
+Team 1 pitcher (Kadeem Davis): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-4
+
+Gregory Cooper: rng1 = 33 + 6 - 6 + 1 = 34
+rng2 = 73 + 8 - 6 + 1 = 76
+Flyout
+Team 1 pitcher (Kadeem Davis): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-4
+
+-----------------------
+
+TOP INNING 5
+
+Team 2 pitcher change to Ghalen Fisher
+
+Arturo Bellamy: rng1 = 83 + 13 - 6 - 1 = 89
+Walk
+Team 2 pitcher (Ghalen Fisher): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-4
+
+Edmundo Pousa: rng1 = 59 + 13 - 6 - 1 = 65
+rng2 = 45 + 9 - 6 - 1 = 47
+Groundout
+Team 2 pitcher (Ghalen Fisher): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Owen Williamson: rng1 = 92 + 6 - 6 - 1 = 91
+rng2 = 77 + 8 - 6 - 1 = 78
+Triple
+Team 2 pitcher (Ghalen Fisher): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: [3,1]
+base1: false, base2: false, base3: true
+Score: 6-4
+
+Devoreaux Waters: rng1 = 96 + 8 - 6 - 1 = 97
+rng2 = 35 + 5 - 6 - 1 = 33
+Single
+Team 2 pitcher (Ghalen Fisher): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-4
+
+Oscar Pierce: rng1 = 83 + 6 - 6 - 1 = 82
+rng2 = 6 + 6 - 6 - 1 = 5
+Single
+Team 2 pitcher (Ghalen Fisher): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [5,1], base2: [4,1], base3: false
+base1: true, base2: true, base3: false
+Score: 7-4
+
+Fabián Sánchez: rng1 = 36 + 3 - 6 - 1 = 32
+rng2 = 57 + 8 - 6 - 1 = 58
+Lineout
+Team 2 pitcher (Ghalen Fisher): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-4
+
+-----------------------
+
+BOTTOM INNING 5
+
+John Gibson: rng1 = 5 + 14 - 6 + 1 = 14
+rng2 = 91 + 13 - 6 + 1 = 99
+Flyout
+Team 1 pitcher (Kadeem Davis): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-4
+
+Efraim Agramonte: rng1 = 6 + 13 - 6 + 1 = 14
+rng2 = 64 + 7 - 6 + 1 = 66
+Flyout
+Team 1 pitcher (Kadeem Davis): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-4
+
+Jaz Eaton: rng1 = 22 + 13 - 6 + 1 = 30
+rng2 = 28 + 10 - 6 + 1 = 33
+Groundout
+Team 1 pitcher (Kadeem Davis): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-4
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Harris Derickson
+
+Chon Il-Seong: rng1 = 39 + 6 - 6 - 1 = 38
+rng2 = 13 + 3 - 6 - 1 = 9
+Groundout
+Team 2 pitcher (Harris Derickson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-4
+
+Rakkan Gaines: rng1 = 40 + 3 - 6 - 1 = 36
+rng2 = 100 + 5 - 6 - 1 = 98
+Flyout
+Team 2 pitcher (Harris Derickson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-4
+
+Byron Bartlett: rng1 = 11 + 15 - 6 - 1 = 19
+Strikeout
+Team 2 pitcher (Harris Derickson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-4
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Kione Andrews
+
+Adalberto Smith: rng1 = 42 + 5 - 9 + 1 = 39
+rng2 = 42 + 11 - 7 + 1 = 47
+Groundout
+Team 1 pitcher (Kione Andrews): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-4
+
+Isaías Juderías: rng1 = 28 + 11 - 9 + 1 = 31
+rng2 = 80 + 10 - 7 + 1 = 84
+Flyout
+Team 1 pitcher (Kione Andrews): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-4
+
+Sean Lee: rng1 = 47 + 12 - 9 + 1 = 51
+rng2 = 15 + 9 - 7 + 1 = 18
+Groundout
+Team 1 pitcher (Kione Andrews): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-4
+
+-----------------------
+
+TOP INNING 7
+
+Arturo Bellamy: rng1 = 4 + 13 - 6 - 1 = 10
+Strikeout
+Team 2 pitcher (Harris Derickson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-4
+
+Edmundo Pousa: rng1 = 31 + 13 - 6 - 1 = 37
+rng2 = 3 + 9 - 6 - 1 = 5
+Groundout
+Team 2 pitcher (Harris Derickson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-4
+
+Owen Williamson: rng1 = 49 + 6 - 6 - 1 = 48
+rng2 = 64 + 8 - 6 - 1 = 65
+Flyout
+Team 2 pitcher (Harris Derickson): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-4
+
+-----------------------
+
+BOTTOM INNING 7
+
+Adrián Noboa: rng1 = 17 + 9 - 9 + 1 = 18
+Strikeout
+Team 1 pitcher (Kione Andrews): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-4
+
+Anthony Davila: rng1 = 93 + 10 - 9 + 1 = 95
+rng2 = 100 + 9 - 7 + 1 = 103
+Home run
+Team 1 pitcher (Kione Andrews): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-5
+
+Gregory Cooper: rng1 = 64 + 6 - 9 + 1 = 62
+rng2 = 58 + 8 - 7 + 1 = 60
+Flyout
+Team 1 pitcher (Kione Andrews): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-5
+
+John Gibson: rng1 = 10 + 14 - 9 + 1 = 16
+Strikeout
+Team 1 pitcher (Kione Andrews): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-5
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Amed Romeo
+
+Devoreaux Waters: rng1 = 76 + 8 - 6 - 1 = 77
+rng2 = 11 + 5 - 5 - 1 = 10
+Single
+Team 2 pitcher (Amed Romeo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [4,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-5
+
+Oscar Pierce: rng1 = 51 + 6 - 6 - 1 = 50
+rng2 = 68 + 6 - 5 - 1 = 68
+Flyout
+Team 2 pitcher (Amed Romeo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [4,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-5
+
+Fabián Sánchez: rng1 = 3 + 3 - 6 - 1 = -1
+Strikeout
+Team 2 pitcher (Amed Romeo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [4,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-5
+
+Chon Il-Seong: rng1 = 96 + 6 - 6 - 1 = 95
+rng2 = 46 + 3 - 5 - 1 = 43
+Single
+Team 2 pitcher (Amed Romeo): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [7,3], base2: [4,3], base3: false
+base1: true, base2: true, base3: false
+Score: 7-5
+
+Rakkan Gaines: rng1 = 28 + 3 - 6 - 1 = 24
+Strikeout
+Team 2 pitcher (Amed Romeo): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-5
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Brady Goodman
+
+Efraim Agramonte: rng1 = 75 + 13 - 14 + 1 = 75
+rng2 = 38 + 7 - 14 + 1 = 32
+Single
+Team 1 pitcher (Brady Goodman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-5
+
+Jaz Eaton: rng1 = 16 + 13 - 14 + 1 = 16
+Strikeout
+Team 1 pitcher (Brady Goodman): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-5
+
+Adalberto Smith: rng1 = 8 + 5 - 14 + 1 = 0
+Strikeout
+Team 1 pitcher (Brady Goodman): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-5
+
+Isaías Juderías: rng1 = 92 + 11 - 14 + 1 = 90
+Walk
+Team 1 pitcher (Brady Goodman): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [4,2], base2: [1,2], base3: false
+base1: true, base2: true, base3: false
+Score: 7-5
+
+Sean Lee: rng1 = 30 + 12 - 14 + 1 = 29
+rng2 = 91 + 9 - 14 + 1 = 87
+Flyout
+Team 1 pitcher (Brady Goodman): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-5
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Kirk Johns
+
+Byron Bartlett: rng1 = 73 + 15 - 11 - 1 = 76
+rng2 = 14 + 11 - 9 - 1 = 15
+Single
+Team 2 pitcher (Kirk Johns): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-5
+
+Arturo Bellamy: rng1 = 54 + 13 - 11 - 1 = 55
+rng2 = 19 + 10 - 9 - 1 = 19
+Groundout
+Team 2 pitcher (Kirk Johns): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-5
+
+Edmundo Pousa: rng1 = 4 + 13 - 11 - 1 = 5
+Strikeout
+Team 2 pitcher (Kirk Johns): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-5
+
+Owen Williamson: rng1 = 89 + 6 - 11 - 1 = 83
+rng2 = 68 + 8 - 9 - 1 = 66
+Double
+Team 2 pitcher (Kirk Johns): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: [3,4], base3: [1,4]
+base1: false, base2: true, base3: true
+Score: 7-5
+
+Devoreaux Waters: rng1 = 46 + 8 - 11 - 1 = 42
+rng2 = 21 + 5 - 9 - 1 = 16
+Groundout
+Team 2 pitcher (Kirk Johns): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-5
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Antonio McMillan
+
+Adrián Noboa: rng1 = 32 + 9 - 14 + 1 = 28
+rng2 = 4 + 10 - 15 + 1 = 0
+Groundout
+Team 1 pitcher (Antonio McMillan): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-5
+
+Anthony Davila: rng1 = 96 + 10 - 14 + 1 = 93
+rng2 = 86 + 9 - 15 + 1 = 81
+Home run
+Team 1 pitcher (Antonio McMillan): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-6
+
+Gregory Cooper: rng1 = 13 + 6 - 14 + 1 = 6
+Strikeout
+Team 1 pitcher (Antonio McMillan): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-6
+
+John Gibson: rng1 = 41 + 14 - 14 + 1 = 42
+rng2 = 34 + 13 - 15 + 1 = 33
+Groundout
+Team 1 pitcher (Antonio McMillan): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-6
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 13
+Team 2 hits: 6
+Team 1 runs: 7
+Team 2 runs: 6
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-04-11
+Byron Bartlett	5	1	2	0	0	0	0	0	1					New Orleans
+Arturo Bellamy	4	1	1	0	0	0	0	1	2	
+Edmundo Pousa	5	2	2	0	1	1	3	0	1	
+Owen Williamson	5	1	2	1	1	0	0	0	2	
+Devoreaux Waters	5	1	3	0	0	0	2	0	0	
+Oscar Pierce	4	0	1	0	0	0	0	0	1	
+Fabián Sánchez	3	1	0	0	0	0	0	1	2	
+Chon Il-Seong	4	0	1	0	0	0	0	0	0	
+Rakkan Gaines	4	0	1	1	0	0	2	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Kadeem Davis	1	0	1	1	0	0	15	3	4	0	3	3	21	
+Kione Andrews	0	0	1	0	0	0	6	1	1	1	0	2	7	
+Brady Goodman	0	0	1	0	0	0	3	1	0	0	1	2	5	
+Tamashiro Genjo	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Antonio McMillan	0	0	1	0	1	1	3	1	1	1	0	1	4	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-04-11
+John Gibson	4	1	0	0	0	0	1	1	2					San Francisco
+Efraim Agramonte	3	0	1	0	0	0	1	1	1	
+Jaz Eaton	4	0	0	0	0	0	1	0	1	
+Adalberto Smith	4	0	1	1	0	0	1	0	1	
+Isaías Juderías	3	0	0	0	0	0	0	1	1	
+Sean Lee	4	0	0	0	0	0	0	0	0	
+Adrián Noboa	3	1	1	0	0	0	0	1	1	
+Anthony Davila	4	3	3	0	0	2	2	0	0	
+Gregory Cooper	3	1	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Gabriel Pearson	0	1	1	1	0	0	12	6	6	1	1	6	19	
+Ghalen Fisher	0	0	1	0	0	0	3	3	1	0	1	0	6	
+Harris Derickson	0	0	1	0	0	0	6	0	0	0	0	2	6	
+Amed Romeo	0	0	1	0	0	0	3	2	0	0	0	2	5	
+Kirk Johns	0	0	1	0	0	0	3	2	0	0	0	1	5	

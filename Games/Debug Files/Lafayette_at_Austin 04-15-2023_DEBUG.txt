@@ -1,0 +1,684 @@
+TOP INNING 1
+
+Yoshiyuki Iesada: rng1 = 1 + 6 - 10 - 1 = -4
+Strikeout
+Team 2 pitcher (John Long): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jorge Gonzalez: rng1 = 43 + 14 - 10 - 1 = 46
+rng2 = 92 + 10 - 11 - 1 = 90
+Flyout
+Team 2 pitcher (John Long): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Diego Moreno: rng1 = 83 + 7 - 10 - 1 = 79
+rng2 = 69 + 3 - 11 - 1 = 60
+Single
+Team 2 pitcher (John Long): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Jason Collins: rng1 = 8 + 6 - 10 - 1 = 3
+Strikeout
+Team 2 pitcher (John Long): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Cannon Terry: rng1 = 30 + 6 - 10 + 1 = 27
+Strikeout
+Team 1 pitcher (Charles Reed): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Alex Murphy: rng1 = 33 + 8 - 10 + 1 = 32
+rng2 = 79 + 10 - 8 + 1 = 82
+Flyout
+Team 1 pitcher (Charles Reed): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Leon Watts: rng1 = 37 + 9 - 10 + 1 = 37
+rng2 = 69 + 5 - 8 + 1 = 67
+Flyout
+Team 1 pitcher (Charles Reed): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Sam Fowler: rng1 = 88 + 9 - 10 - 1 = 86
+Hit by pitch
+Team 2 pitcher (John Long): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Francisco Garcia: rng1 = 38 + 12 - 10 - 1 = 39
+rng2 = 2 + 13 - 11 - 1 = 3
+Groundout
+Team 2 pitcher (John Long): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Leo Hawkins: rng1 = 18 + 8 - 10 - 1 = 15
+rng2 = 54 + 6 - 11 - 1 = 48
+Lineout
+Team 2 pitcher (John Long): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Javier Guillén: rng1 = 12 + 7 - 10 - 1 = 8
+Strikeout
+Team 2 pitcher (John Long): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Jaiden Fortner: rng1 = 66 + 7 - 10 + 1 = 64
+rng2 = 22 + 8 - 8 + 1 = 23
+Groundout
+Team 1 pitcher (Charles Reed): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Alejandro Munoz: rng1 = 34 + 10 - 10 + 1 = 35
+rng2 = 98 + 8 - 8 + 1 = 99
+Flyout
+Team 1 pitcher (Charles Reed): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jacobi Davis: rng1 = 11 + 14 - 10 + 1 = 16
+Strikeout
+Team 1 pitcher (Charles Reed): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 3
+
+Julian Acosta: rng1 = 58 + 7 - 10 - 1 = 54
+rng2 = 93 + 8 - 11 - 1 = 89
+Flyout
+Team 2 pitcher (John Long): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Yoshiyuki Iesada: rng1 = 50 + 6 - 10 - 1 = 45
+rng2 = 10 + 5 - 11 - 1 = 3
+Groundout
+Team 2 pitcher (John Long): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jorge Gonzalez: rng1 = 35 + 14 - 10 - 1 = 38
+rng2 = 10 + 10 - 11 - 1 = 8
+Groundout
+Team 2 pitcher (John Long): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Dominic Gardner: rng1 = 60 + 6 - 10 + 1 = 57
+rng2 = 63 + 7 - 8 + 1 = 63
+Flyout
+Team 1 pitcher (Charles Reed): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jamar Brown: rng1 = 1 + 8 - 10 + 1 = 0
+Strikeout
+Team 1 pitcher (Charles Reed): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Martin Avila: rng1 = 41 + 7 - 10 + 1 = 39
+rng2 = 32 + 6 - 8 + 1 = 31
+Groundout
+Team 1 pitcher (Charles Reed): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 4
+
+Diego Moreno: rng1 = 70 + 7 - 10 - 1 = 66
+rng2 = 31 + 3 - 11 - 1 = 22
+Groundout
+Team 2 pitcher (John Long): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jason Collins: rng1 = 66 + 6 - 10 - 1 = 61
+rng2 = 41 + 5 - 11 - 1 = 34
+Groundout
+Team 2 pitcher (John Long): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Sam Fowler: rng1 = 93 + 9 - 10 - 1 = 91
+rng2 = 50 + 5 - 11 - 1 = 43
+Single
+Team 2 pitcher (John Long): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Francisco Garcia: rng1 = 91 + 12 - 10 - 1 = 92
+rng2 = 19 + 13 - 11 - 1 = 20
+Single
+Team 2 pitcher (John Long): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 2
+
+base1: [5,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Leo Hawkins: rng1 = 91 + 8 - 10 - 1 = 88
+Walk
+Team 2 pitcher (John Long): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 2
+
+base1: [6,0], base2: [5,0], base3: [4,0]
+base1: true, base2: true, base3: true
+Score: 0-0
+
+Javier Guillén: rng1 = 21 + 7 - 10 - 1 = 17
+Strikeout
+Team 2 pitcher (John Long): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 4
+
+Cannon Terry: rng1 = 75 + 6 - 10 + 1 = 72
+rng2 = 35 + 9 - 8 + 1 = 37
+Single
+Team 1 pitcher (Charles Reed): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Alex Murphy: rng1 = 27 + 8 - 10 + 1 = 26
+Strikeout
+Team 1 pitcher (Charles Reed): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Leon Watts: rng1 = 50 + 9 - 10 + 1 = 50
+rng2 = 61 + 5 - 8 + 1 = 59
+Flyout
+Team 1 pitcher (Charles Reed): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Jaiden Fortner: rng1 = 79 + 7 - 10 + 1 = 77
+rng2 = 83 + 8 - 8 + 1 = 84
+Home run
+Team 1 pitcher (Charles Reed): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Alejandro Munoz: rng1 = 50 + 10 - 10 + 1 = 51
+rng2 = 30 + 8 - 8 + 1 = 31
+Groundout
+Team 1 pitcher (Charles Reed): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 5
+
+Julian Acosta: rng1 = 25 + 7 - 10 - 1 = 21
+Strikeout
+Team 2 pitcher (John Long): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Yoshiyuki Iesada: rng1 = 4 + 6 - 10 - 1 = -1
+Strikeout
+Team 2 pitcher (John Long): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Jorge Gonzalez: rng1 = 30 + 14 - 10 - 1 = 33
+rng2 = 50 + 10 - 11 - 1 = 48
+Lineout
+Team 2 pitcher (John Long): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+BOTTOM INNING 5
+
+Jacobi Davis: rng1 = 29 + 14 - 10 + 1 = 34
+rng2 = 82 + 11 - 8 + 1 = 86
+Flyout
+Team 1 pitcher (Charles Reed): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Dominic Gardner: rng1 = 32 + 6 - 10 + 1 = 29
+rng2 = 56 + 7 - 8 + 1 = 56
+Lineout
+Team 1 pitcher (Charles Reed): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Jamar Brown: rng1 = 14 + 8 - 10 + 1 = 13
+rng2 = 58 + 9 - 8 + 1 = 60
+Flyout
+Team 1 pitcher (Charles Reed): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 6
+
+Diego Moreno: rng1 = 60 + 7 - 10 - 1 = 56
+rng2 = 77 + 3 - 11 - 1 = 68
+Flyout
+Team 2 pitcher (John Long): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Jason Collins: rng1 = 50 + 6 - 10 - 1 = 45
+rng2 = 58 + 5 - 11 - 1 = 51
+Lineout
+Team 2 pitcher (John Long): 22 batters faced, 0 runs allowed = 22 + 0.0 = 22.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Sam Fowler: rng1 = 20 + 9 - 10 - 1 = 18
+Strikeout
+Team 2 pitcher (John Long): 23 batters faced, 0 runs allowed = 23 + 0.0 = 23.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+BOTTOM INNING 6
+
+Martin Avila: rng1 = 80 + 7 - 10 + 1 = 78
+rng2 = 89 + 6 - 8 + 1 = 88
+Double
+Team 1 pitcher (Charles Reed): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 0
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-2
+
+Cannon Terry: rng1 = 86 + 6 - 10 + 1 = 83
+rng2 = 10 + 9 - 8 + 1 = 12
+Single
+Team 1 pitcher (Charles Reed): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Alex Murphy: rng1 = 34 + 8 - 10 + 1 = 33
+rng2 = 5 + 10 - 8 + 1 = 8
+Groundout
+Team 1 pitcher (Charles Reed): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-3
+
+Leon Watts: rng1 = 32 + 9 - 10 + 1 = 32
+rng2 = 83 + 5 - 8 + 1 = 81
+Flyout
+Team 1 pitcher (Charles Reed): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-3
+
+Jaiden Fortner: rng1 = 69 + 7 - 10 + 1 = 67
+rng2 = 1 + 8 - 8 + 1 = 2
+Groundout
+Team 1 pitcher (Charles Reed): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+TOP INNING 7
+
+Francisco Garcia: rng1 = 51 + 12 - 10 - 1 = 52
+rng2 = 5 + 13 - 11 - 1 = 6
+Groundout
+Team 2 pitcher (John Long): 24 batters faced, 0 runs allowed = 24 + 0.0 = 24.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Leo Hawkins: rng1 = 32 + 8 - 10 - 1 = 29
+rng2 = 12 + 6 - 11 - 1 = 6
+Groundout
+Team 2 pitcher (John Long): 25 batters faced, 0 runs allowed = 25 + 0.0 = 25.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Javier Guillén: rng1 = 69 + 7 - 10 - 1 = 65
+rng2 = 26 + 8 - 11 - 1 = 22
+Groundout
+Team 2 pitcher (John Long): 26 batters faced, 0 runs allowed = 26 + 0.0 = 26.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Ian Colome
+
+Alejandro Munoz: rng1 = 10 + 10 - 7 + 1 = 14
+rng2 = 62 + 8 - 6 + 1 = 65
+Flyout
+Team 1 pitcher (Ian Colome): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Jacobi Davis: rng1 = 100 + 14 - 7 + 1 = 108
+rng2 = 59 + 11 - 6 + 1 = 65
+Double
+Team 1 pitcher (Ian Colome): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [5,1], base3: false
+base1: false, base2: true, base3: false
+Score: 0-3
+
+Dominic Gardner: rng1 = 95 + 6 - 7 + 1 = 95
+rng2 = 21 + 7 - 6 + 1 = 23
+Single
+Team 1 pitcher (Ian Colome): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Jamar Brown: rng1 = 90 + 8 - 7 + 1 = 92
+rng2 = 51 + 9 - 6 + 1 = 55
+Single
+Team 1 pitcher (Ian Colome): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [7,1], base2: false, base3: [6,1]
+base1: true, base2: false, base3: true
+Score: 0-4
+
+Martin Avila: rng1 = 20 + 7 - 7 + 1 = 21
+Strikeout
+Team 1 pitcher (Ian Colome): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [7,1], base2: false, base3: [6,1]
+base1: true, base2: false, base3: true
+Score: 0-4
+
+Cannon Terry: rng1 = 34 + 6 - 7 + 1 = 34
+rng2 = 69 + 9 - 6 + 1 = 73
+Flyout
+Team 1 pitcher (Ian Colome): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+TOP INNING 8
+
+Julian Acosta: rng1 = 21 + 7 - 10 - 1 = 17
+Strikeout
+Team 2 pitcher (John Long): 27 batters faced, 0 runs allowed = 27 + 0.0 = 27.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Yoshiyuki Iesada: rng1 = 64 + 6 - 10 - 1 = 59
+rng2 = 44 + 5 - 11 - 1 = 37
+Groundout
+Team 2 pitcher (John Long): 28 batters faced, 0 runs allowed = 28 + 0.0 = 28.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Jorge Gonzalez: rng1 = 77 + 14 - 10 - 1 = 80
+rng2 = 91 + 10 - 11 - 1 = 89
+Double
+Team 2 pitcher (John Long): 29 batters faced, 0 runs allowed = 29 + 0.0 = 29.0, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-4
+
+Diego Moreno: rng1 = 50 + 7 - 10 - 1 = 46
+rng2 = 3 + 3 - 11 - 1 = -6
+Groundout
+Team 2 pitcher (John Long): 30 batters faced, 0 runs allowed = 30 + 0.0 = 30.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Nate Tucker
+
+Alex Murphy: rng1 = 32 + 8 - 11 + 1 = 30
+rng2 = 2 + 10 - 8 + 1 = 5
+Groundout
+Team 1 pitcher (Nate Tucker): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Leon Watts: rng1 = 57 + 9 - 11 + 1 = 56
+rng2 = 33 + 5 - 8 + 1 = 31
+Groundout
+Team 1 pitcher (Nate Tucker): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Jaiden Fortner: rng1 = 90 + 7 - 11 + 1 = 87
+Walk
+Team 1 pitcher (Nate Tucker): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [3,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Alejandro Munoz: rng1 = 35 + 10 - 11 + 1 = 35
+rng2 = 5 + 8 - 8 + 1 = 6
+Groundout
+Team 1 pitcher (Nate Tucker): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Hattori Kenji
+
+Jason Collins: rng1 = 73 + 6 - 5 - 1 = 73
+rng2 = 40 + 5 - 4 - 1 = 40
+Single
+Team 2 pitcher (Hattori Kenji): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Sam Fowler: rng1 = 63 + 9 - 5 - 1 = 66
+rng2 = 92 + 5 - 4 - 1 = 92
+Flyout
+Team 2 pitcher (Hattori Kenji): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Francisco Garcia: rng1 = 65 + 12 - 5 - 1 = 71
+Walk
+Team 2 pitcher (Hattori Kenji): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [5,1], base2: [3,1], base3: false
+base1: true, base2: true, base3: false
+Score: 0-4
+
+Leo Hawkins: rng1 = 12 + 8 - 5 - 1 = 14
+rng2 = 98 + 6 - 4 - 1 = 99
+Flyout
+Team 2 pitcher (Hattori Kenji): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [5,1], base2: [3,1], base3: false
+base1: true, base2: true, base3: false
+Score: 0-4
+
+Javier Guillén: rng1 = 30 + 7 - 5 - 1 = 31
+rng2 = 41 + 8 - 4 - 1 = 44
+Groundout
+Team 2 pitcher (Hattori Kenji): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 5
+Team 2 hits: 7
+Team 1 runs: 0
+Team 2 runs: 4
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-04-15
+Yoshiyuki Iesada	4	0	0	0	0	0	0	0	2					Lafayette
+Jorge Gonzalez	4	0	1	1	0	0	0	0	0	
+Diego Moreno	4	0	1	0	0	0	0	0	0	
+Jason Collins	4	0	1	0	0	0	0	0	1	
+Sam Fowler	3	0	1	0	0	0	0	0	1	
+Francisco Garcia	3	0	1	0	0	0	0	1	0	
+Leo Hawkins	3	0	0	0	0	0	0	1	0	
+Javier Guillén	4	0	0	0	0	0	0	0	2	
+Julian Acosta	3	0	0	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Charles Reed	0	1	1	1	0	0	18	4	3	1	0	4	22	
+Ian Colome	0	0	1	0	0	0	3	3	1	0	0	1	6	
+Nate Tucker	0	0	1	0	0	0	3	0	0	0	1	0	4	
+Miguel Lain	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Johnny Farmer	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-04-15
+Cannon Terry	4	1	2	0	0	0	1	0	1					Austin
+Alex Murphy	4	0	0	0	0	0	0	0	1	
+Leon Watts	4	0	0	0	0	0	0	0	0	
+Jaiden Fortner	3	1	1	0	0	1	2	1	0	
+Alejandro Munoz	4	0	0	0	0	0	0	0	0	
+Jacobi Davis	3	1	1	1	0	0	0	0	1	
+Dominic Gardner	3	0	1	0	0	0	1	0	0	
+Jamar Brown	3	0	1	0	0	0	0	0	1	
+Martin Avila	3	1	1	1	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+John Long	1	0	1	1	0	0	24	4	0	0	1	8	30	
+Hattori Kenji	0	0	1	0	0	0	3	1	0	0	1	0	5	
+Eddie Lochland	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Ryan Johnson	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Ron Moore	0	0	0	0	0	0	0	0	0	0	0	0	0	

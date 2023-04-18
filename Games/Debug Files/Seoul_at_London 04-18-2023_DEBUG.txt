@@ -1,0 +1,838 @@
+TOP INNING 1
+
+Matías Martinez: rng1 = 80 + 8 - 6 - 1 = 81
+rng2 = 82 + 8 - 6 - 1 = 83
+Home run
+Team 2 pitcher (Lorenzo Herrera): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Adam Harmon: rng1 = 69 + 11 - 6 - 1 = 73
+rng2 = 14 + 7 - 6 - 1 = 14
+Single
+Team 2 pitcher (Lorenzo Herrera): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Rei Matsui: rng1 = 48 + 5 - 6 - 1 = 46
+rng2 = 54 + 6 - 6 - 1 = 53
+Lineout
+Team 2 pitcher (Lorenzo Herrera): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Tomas Ortiz: rng1 = 3 + 5 - 6 - 1 = 1
+Strikeout
+Team 2 pitcher (Lorenzo Herrera): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Joshua Cooper: rng1 = 97 + 8 - 6 - 1 = 98
+rng2 = 88 + 6 - 6 - 1 = 87
+Double
+Team 2 pitcher (Lorenzo Herrera): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-0
+
+Domingo Jimenez: rng1 = 40 + 9 - 6 - 1 = 42
+rng2 = 64 + 8 - 6 - 1 = 65
+Flyout
+Team 2 pitcher (Lorenzo Herrera): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Guillermo Gonzalez: rng1 = 91 + 8 - 6 + 1 = 94
+rng2 = 97 + 6 - 7 + 1 = 97
+Home run
+Team 1 pitcher (Juan Alarcón): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Seta Senzo: rng1 = 18 + 7 - 6 + 1 = 20
+Strikeout
+Team 1 pitcher (Juan Alarcón): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Roger Wilson: rng1 = 79 + 5 - 6 + 1 = 79
+rng2 = 46 + 6 - 7 + 1 = 46
+Single
+Team 1 pitcher (Juan Alarcón): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Juanpablo Gomez: rng1 = 62 + 6 - 6 + 1 = 63
+rng2 = 21 + 6 - 7 + 1 = 21
+Groundout
+Team 1 pitcher (Juan Alarcón): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-1
+
+Declan Elliott: rng1 = 82 + 6 - 6 + 1 = 83
+rng2 = 91 + 6 - 7 + 1 = 91
+Double
+Team 1 pitcher (Juan Alarcón): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-2
+
+Chaquille Barnett: rng1 = 71 + 8 - 6 + 1 = 74
+rng2 = 2 + 6 - 7 + 1 = 2
+Single
+Team 1 pitcher (Juan Alarcón): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-3
+
+Leonel Mathis: rng1 = 28 + 4 - 6 + 1 = 27
+Strikeout
+Team 1 pitcher (Juan Alarcón): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+TOP INNING 2
+
+Juan-Martín Sáenz: rng1 = 74 + 5 - 6 - 1 = 72
+rng2 = 74 + 7 - 6 - 1 = 74
+Double
+Team 2 pitcher (Lorenzo Herrera): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 0
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-3
+
+Jake Barber: rng1 = 9 + 8 - 6 - 1 = 10
+Strikeout
+Team 2 pitcher (Lorenzo Herrera): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 1
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-3
+
+Wilmer Guevara: rng1 = 66 + 2 - 6 - 1 = 61
+rng2 = 90 + 7 - 6 - 1 = 90
+Flyout
+Team 2 pitcher (Lorenzo Herrera): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 2
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-3
+
+Matías Martinez: rng1 = 76 + 8 - 6 - 1 = 77
+rng2 = 70 + 8 - 6 - 1 = 71
+Double
+Team 2 pitcher (Lorenzo Herrera): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-3
+
+Adam Harmon: rng1 = 9 + 11 - 6 - 1 = 13
+rng2 = 63 + 7 - 6 - 1 = 63
+Flyout
+Team 2 pitcher (Lorenzo Herrera): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+BOTTOM INNING 2
+
+Aaron Pearce: rng1 = 81 + 5 - 6 + 1 = 81
+rng2 = 18 + 8 - 7 + 1 = 20
+Single
+Team 1 pitcher (Juan Alarcón): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Yu Minjun: rng1 = 26 + 3 - 6 + 1 = 24
+Strikeout
+Team 1 pitcher (Juan Alarcón): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Guillermo Gonzalez: rng1 = 15 + 8 - 6 + 1 = 18
+Strikeout
+Team 1 pitcher (Juan Alarcón): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Seta Senzo: rng1 = 69 + 7 - 6 + 1 = 71
+Walk
+Team 1 pitcher (Juan Alarcón): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 2
+
+base1: [1,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-3
+
+Roger Wilson: rng1 = 1 + 5 - 6 + 1 = 1
+Strikeout
+Team 1 pitcher (Juan Alarcón): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+TOP INNING 3
+
+Rei Matsui: rng1 = 22 + 5 - 6 - 1 = 20
+Strikeout
+Team 2 pitcher (Lorenzo Herrera): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Tomas Ortiz: rng1 = 74 + 5 - 6 - 1 = 72
+rng2 = 73 + 9 - 6 - 1 = 75
+Double
+Team 2 pitcher (Lorenzo Herrera): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 1
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-3
+
+Joshua Cooper: rng1 = 7 + 8 - 6 - 1 = 8
+Strikeout
+Team 2 pitcher (Lorenzo Herrera): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 2
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-3
+
+Domingo Jimenez: rng1 = 21 + 9 - 6 - 1 = 23
+Strikeout
+Team 2 pitcher (Lorenzo Herrera): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+BOTTOM INNING 3
+
+Juanpablo Gomez: rng1 = 95 + 6 - 6 + 1 = 96
+rng2 = 11 + 6 - 7 + 1 = 11
+Single
+Team 1 pitcher (Juan Alarcón): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Declan Elliott: rng1 = 92 + 6 - 6 + 1 = 93
+rng2 = 13 + 6 - 7 + 1 = 13
+Single
+Team 1 pitcher (Juan Alarcón): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 0
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-3
+
+Chaquille Barnett: rng1 = 82 + 8 - 6 + 1 = 85
+rng2 = 61 + 6 - 7 + 1 = 61
+Single
+Team 1 pitcher (Juan Alarcón): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 0
+
+base1: [5,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 3-4
+
+Leonel Mathis: rng1 = 95 + 4 - 6 + 1 = 94
+rng2 = 61 + 5 - 7 + 1 = 60
+Single
+Team 1 pitcher (Juan Alarcón): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 0
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 3-5
+
+Aaron Pearce: rng1 = 35 + 5 - 6 + 1 = 35
+rng2 = 57 + 8 - 7 + 1 = 59
+Flyout
+Team 1 pitcher (Juan Alarcón): 17 batters faced, 6 runs allowed = 17 + 15.0 = 32.0, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-6
+
+Yu Minjun: rng1 = 52 + 3 - 6 + 1 = 50
+rng2 = 45 + 4 - 7 + 1 = 43
+Groundout
+Team 1 pitcher (Juan Alarcón): 18 batters faced, 6 runs allowed = 18 + 15.0 = 33.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-6
+
+-----------------------
+
+TOP INNING 4
+
+Juan-Martín Sáenz: rng1 = 67 + 5 - 6 - 1 = 65
+rng2 = 73 + 7 - 6 - 1 = 73
+Flyout
+Team 2 pitcher (Lorenzo Herrera): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-6
+
+Jake Barber: rng1 = 15 + 8 - 6 - 1 = 16
+Strikeout
+Team 2 pitcher (Lorenzo Herrera): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-6
+
+Wilmer Guevara: rng1 = 60 + 2 - 6 - 1 = 55
+rng2 = 46 + 7 - 6 - 1 = 46
+Groundout
+Team 2 pitcher (Lorenzo Herrera): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-6
+
+-----------------------
+
+BOTTOM INNING 4
+
+Team 1 pitcher change to Francisco Espinoza
+
+Guillermo Gonzalez: rng1 = 87 + 8 - 5 + 1 = 91
+rng2 = 93 + 6 - 5 + 1 = 95
+Home run
+Team 1 pitcher (Francisco Espinoza): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Seta Senzo: rng1 = 92 + 7 - 5 + 1 = 95
+rng2 = 75 + 9 - 5 + 1 = 80
+Home run
+Team 1 pitcher (Francisco Espinoza): 2 batters faced, 2 runs allowed = 2 + 5.0 = 7.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Roger Wilson: rng1 = 43 + 5 - 5 + 1 = 44
+rng2 = 51 + 6 - 5 + 1 = 53
+Lineout
+Team 1 pitcher (Francisco Espinoza): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Juanpablo Gomez: rng1 = 36 + 6 - 5 + 1 = 38
+rng2 = 88 + 6 - 5 + 1 = 90
+Flyout
+Team 1 pitcher (Francisco Espinoza): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Declan Elliott: rng1 = 41 + 6 - 5 + 1 = 43
+rng2 = 9 + 6 - 5 + 1 = 11
+Groundout
+Team 1 pitcher (Francisco Espinoza): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-8
+
+-----------------------
+
+TOP INNING 5
+
+Matías Martinez: rng1 = 21 + 8 - 6 - 1 = 22
+Strikeout
+Team 2 pitcher (Lorenzo Herrera): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Adam Harmon: rng1 = 76 + 11 - 6 - 1 = 80
+rng2 = 35 + 7 - 6 - 1 = 35
+Single
+Team 2 pitcher (Lorenzo Herrera): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-8
+
+Rei Matsui: rng1 = 93 + 5 - 6 - 1 = 91
+rng2 = 57 + 6 - 6 - 1 = 56
+Single
+Team 2 pitcher (Lorenzo Herrera): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 1
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-8
+
+Tomas Ortiz: rng1 = 23 + 5 - 6 - 1 = 21
+Strikeout
+Team 2 pitcher (Lorenzo Herrera): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 2
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-8
+
+Joshua Cooper: rng1 = 100 + 8 - 6 - 1 = 101
+rng2 = 61 + 6 - 6 - 1 = 60
+Single
+Team 2 pitcher (Lorenzo Herrera): 23 batters faced, 4 runs allowed = 23 + 10.0 = 33.0, outs: 2
+
+base1: [4,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 4-8
+
+Domingo Jimenez: rng1 = 19 + 9 - 6 - 1 = 21
+Strikeout
+Team 2 pitcher (Lorenzo Herrera): 24 batters faced, 4 runs allowed = 24 + 10.0 = 34.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-8
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Rodney Fox
+
+Chaquille Barnett: rng1 = 31 + 8 - 8 + 1 = 32
+rng2 = 58 + 6 - 4 + 1 = 61
+Flyout
+Team 1 pitcher (Rodney Fox): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-8
+
+Leonel Mathis: rng1 = 27 + 4 - 8 + 1 = 24
+Strikeout
+Team 1 pitcher (Rodney Fox): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-8
+
+Aaron Pearce: rng1 = 48 + 5 - 8 + 1 = 46
+rng2 = 67 + 8 - 4 + 1 = 72
+Flyout
+Team 1 pitcher (Rodney Fox): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-8
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Jose Santana
+
+Juan-Martín Sáenz: rng1 = 90 + 5 - 3 - 1 = 91
+rng2 = 36 + 7 - 8 - 1 = 34
+Single
+Team 2 pitcher (Jose Santana): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-8
+
+Jake Barber: rng1 = 5 + 8 - 3 - 1 = 9
+Strikeout
+Team 2 pitcher (Jose Santana): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-8
+
+Wilmer Guevara: rng1 = 72 + 2 - 3 - 1 = 70
+Walk
+Team 2 pitcher (Jose Santana): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [8,1], base2: [6,1], base3: false
+base1: true, base2: true, base3: false
+Score: 4-8
+
+Matías Martinez: rng1 = 95 + 8 - 3 - 1 = 99
+rng2 = 60 + 8 - 8 - 1 = 59
+Single
+Team 2 pitcher (Jose Santana): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [0,1], base2: [8,1], base3: false
+base1: true, base2: true, base3: false
+Score: 5-8
+
+Adam Harmon: rng1 = 39 + 11 - 3 - 1 = 46
+rng2 = 37 + 7 - 8 - 1 = 35
+Groundout
+Team 2 pitcher (Jose Santana): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: false, base2: [0,1], base3: [8,1]
+base1: false, base2: true, base3: true
+Score: 5-8
+
+Rei Matsui: rng1 = 76 + 5 - 3 - 1 = 77
+rng2 = 73 + 6 - 8 - 1 = 70
+Double
+Team 2 pitcher (Jose Santana): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: false, base2: [2,1], base3: false
+base1: false, base2: true, base3: false
+Score: 7-8
+
+Team 2 pitcher change to Camryn Wagner
+
+Tomas Ortiz: rng1 = 30 + 5 - 6 - 1 = 28
+rng2 = 15 + 9 - 6 - 1 = 17
+Groundout
+Team 2 pitcher (Camryn Wagner): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-8
+
+-----------------------
+
+BOTTOM INNING 6
+
+Yu Minjun: rng1 = 22 + 3 - 8 + 1 = 18
+Strikeout
+Team 1 pitcher (Rodney Fox): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-8
+
+Guillermo Gonzalez: rng1 = 12 + 8 - 8 + 1 = 13
+rng2 = 65 + 6 - 4 + 1 = 68
+Flyout
+Team 1 pitcher (Rodney Fox): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-8
+
+Seta Senzo: rng1 = 28 + 7 - 8 + 1 = 28
+rng2 = 14 + 9 - 4 + 1 = 20
+Groundout
+Team 1 pitcher (Rodney Fox): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-8
+
+-----------------------
+
+TOP INNING 7
+
+Joshua Cooper: rng1 = 58 + 8 - 6 - 1 = 59
+rng2 = 34 + 6 - 6 - 1 = 33
+Groundout
+Team 2 pitcher (Camryn Wagner): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-8
+
+Domingo Jimenez: rng1 = 2 + 9 - 6 - 1 = 4
+Strikeout
+Team 2 pitcher (Camryn Wagner): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-8
+
+Juan-Martín Sáenz: rng1 = 81 + 5 - 6 - 1 = 79
+rng2 = 71 + 7 - 6 - 1 = 71
+Double
+Team 2 pitcher (Camryn Wagner): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: [6,2], base3: false
+base1: false, base2: true, base3: false
+Score: 7-8
+
+Jake Barber: rng1 = 28 + 8 - 6 - 1 = 29
+rng2 = 95 + 4 - 6 - 1 = 92
+Flyout
+Team 2 pitcher (Camryn Wagner): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-8
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Eddy Delgado
+
+Roger Wilson: rng1 = 71 + 5 - 3 + 1 = 74
+rng2 = 40 + 6 - 7 + 1 = 40
+Single
+Team 1 pitcher (Eddy Delgado): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [2,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-8
+
+Juanpablo Gomez: rng1 = 28 + 6 - 3 + 1 = 32
+rng2 = 74 + 6 - 7 + 1 = 74
+Flyout
+Team 1 pitcher (Eddy Delgado): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [2,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-8
+
+Declan Elliott: rng1 = 66 + 6 - 3 + 1 = 70
+Walk
+Team 1 pitcher (Eddy Delgado): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [4,3], base2: [2,3], base3: false
+base1: true, base2: true, base3: false
+Score: 7-8
+
+Chaquille Barnett: rng1 = 86 + 8 - 3 + 1 = 92
+rng2 = 1 + 6 - 7 + 1 = 1
+Single
+Team 1 pitcher (Eddy Delgado): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [5,3], base2: [4,3], base3: false
+base1: true, base2: true, base3: false
+Score: 7-9
+
+Leonel Mathis: rng1 = 20 + 4 - 3 + 1 = 22
+Strikeout
+Team 1 pitcher (Eddy Delgado): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [5,3], base2: [4,3], base3: false
+base1: true, base2: true, base3: false
+Score: 7-9
+
+Aaron Pearce: rng1 = 24 + 5 - 3 + 1 = 27
+Strikeout
+Team 1 pitcher (Eddy Delgado): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-9
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Max Castillo
+
+Wilmer Guevara: rng1 = 95 + 2 - 4 - 1 = 92
+rng2 = 89 + 7 - 3 - 1 = 92
+Double
+Team 2 pitcher (Max Castillo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [8,3], base3: false
+base1: false, base2: true, base3: false
+Score: 7-9
+
+Matías Martinez: rng1 = 71 + 8 - 4 - 1 = 74
+rng2 = 11 + 8 - 3 - 1 = 15
+Single
+Team 2 pitcher (Max Castillo): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: [0,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-9
+
+Adam Harmon: rng1 = 23 + 11 - 4 - 1 = 29
+rng2 = 12 + 7 - 3 - 1 = 15
+Groundout
+Team 2 pitcher (Max Castillo): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [0,3], base3: false
+base1: false, base2: true, base3: false
+Score: 8-9
+
+Rei Matsui: rng1 = 28 + 5 - 4 - 1 = 28
+rng2 = 51 + 6 - 3 - 1 = 53
+Lineout
+Team 2 pitcher (Max Castillo): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [0,3], base3: false
+base1: false, base2: true, base3: false
+Score: 8-9
+
+Tomas Ortiz: rng1 = 41 + 5 - 4 - 1 = 41
+rng2 = 29 + 9 - 3 - 1 = 34
+Groundout
+Team 2 pitcher (Max Castillo): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-9
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Shunji Onishi
+
+Yu Minjun: rng1 = 89 + 3 - 8 + 1 = 85
+rng2 = 10 + 4 - 10 + 1 = 5
+Single
+Team 1 pitcher (Shunji Onishi): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [8,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-9
+
+Guillermo Gonzalez: rng1 = 86 + 8 - 8 + 1 = 87
+Walk
+Team 1 pitcher (Shunji Onishi): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [0,4], base2: [8,4], base3: false
+base1: true, base2: true, base3: false
+Score: 8-9
+
+Seta Senzo: rng1 = 94 + 7 - 8 + 1 = 94
+rng2 = 4 + 9 - 10 + 1 = 4
+Single
+Team 1 pitcher (Shunji Onishi): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 0
+
+base1: [1,4], base2: [0,4], base3: false
+base1: true, base2: true, base3: false
+Score: 8-10
+
+Roger Wilson: rng1 = 61 + 5 - 8 + 1 = 59
+rng2 = 31 + 6 - 10 + 1 = 28
+Groundout
+Team 1 pitcher (Shunji Onishi): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [2,4], base2: false, base3: [0,4]
+base1: true, base2: false, base3: true
+Score: 8-10
+
+Juanpablo Gomez: rng1 = 55 + 6 - 8 + 1 = 54
+rng2 = 27 + 6 - 10 + 1 = 24
+Groundout
+Team 1 pitcher (Shunji Onishi): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: false, base2: [2,4], base3: false
+base1: false, base2: true, base3: false
+Score: 8-11
+
+Declan Elliott: rng1 = 7 + 6 - 8 + 1 = 6
+Strikeout
+Team 1 pitcher (Shunji Onishi): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-11
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Larry Gibson
+
+Joshua Cooper: rng1 = 35 + 8 - 10 - 1 = 32
+rng2 = 11 + 6 - 11 - 1 = 5
+Groundout
+Team 2 pitcher (Larry Gibson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-11
+
+Domingo Jimenez: rng1 = 4 + 9 - 10 - 1 = 2
+Strikeout
+Team 2 pitcher (Larry Gibson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-11
+
+Juan-Martín Sáenz: rng1 = 18 + 5 - 10 - 1 = 12
+rng2 = 34 + 7 - 11 - 1 = 29
+Groundout
+Team 2 pitcher (Larry Gibson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-11
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 15
+Team 2 hits: 15
+Team 1 runs: 8
+Team 2 runs: 11
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-04-18
+Matías Martinez	5	2	4	1	0	1	4	0	1					Seoul
+Adam Harmon	5	2	2	0	0	0	0	0	0	
+Rei Matsui	5	0	2	1	0	0	2	0	1	
+Tomas Ortiz	5	0	1	1	0	0	0	0	2	
+Joshua Cooper	5	0	2	1	0	0	2	0	1	
+Domingo Jimenez	5	0	0	0	0	0	0	0	4	
+Juan-Martín Sáenz	5	2	3	2	0	0	0	0	0	
+Jake Barber	4	0	0	0	0	0	0	0	3	
+Wilmer Guevara	3	2	1	1	0	0	0	1	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Juan Alarcón	0	1	1	1	0	0	9	9	6	1	1	5	18	
+Francisco Espinoza	0	0	1	0	0	0	3	2	2	2	0	0	5	
+Rodney Fox	0	0	1	0	0	0	6	0	0	0	0	2	6	
+Eddy Delgado	0	0	1	0	0	0	3	2	1	0	1	2	6	
+Shunji Onishi	0	0	1	0	0	0	3	2	2	0	1	1	6	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-04-18
+Guillermo Gonzalez	4	3	2	0	0	2	2	1	1					London
+Seta Senzo	4	1	2	0	0	1	2	1	1	
+Roger Wilson	5	2	2	0	0	0	0	0	1	
+Juanpablo Gomez	5	1	1	0	0	0	1	0	0	
+Declan Elliott	4	2	2	1	0	0	1	1	1	
+Chaquille Barnett	4	1	3	0	0	0	3	0	0	
+Leonel Mathis	4	0	1	0	0	0	1	0	3	
+Aaron Pearce	4	0	1	0	0	0	1	0	1	
+Yu Minjun	4	1	1	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Lorenzo Herrera	1	0	1	1	0	0	15	9	4	1	0	9	24	
+Jose Santana	0	0	1	0	0	0	2	3	3	0	1	1	6	
+Camryn Wagner	0	0	1	0	0	0	4	1	0	0	0	1	5	
+Max Castillo	0	0	1	0	0	0	3	2	1	0	0	0	5	
+Larry Gibson	0	0	1	0	1	1	3	0	0	0	0	1	3	

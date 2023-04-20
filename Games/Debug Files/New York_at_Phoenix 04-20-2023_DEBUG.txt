@@ -1,0 +1,733 @@
+TOP INNING 1
+
+Tristian Love: rng1 = 64 + 14 - 9 - 1 = 68
+rng2 = 29 + 11 - 8 - 1 = 31
+Groundout
+Team 2 pitcher (Daigo Yoshimochi): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Nicolás Moruga: rng1 = 18 + 14 - 9 - 1 = 22
+Strikeout
+Team 2 pitcher (Daigo Yoshimochi): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Edward Cox: rng1 = 2 + 13 - 9 - 1 = 5
+Strikeout
+Team 2 pitcher (Daigo Yoshimochi): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Serafín Sancho: rng1 = 78 + 14 - 11 + 1 = 82
+rng2 = 10 + 9 - 11 + 1 = 9
+Single
+Team 1 pitcher (Zachary Pearson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Desharious Roberson: rng1 = 14 + 12 - 11 + 1 = 16
+Strikeout
+Team 1 pitcher (Zachary Pearson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Stanley Soto: rng1 = 29 + 9 - 11 + 1 = 28
+rng2 = 56 + 5 - 11 + 1 = 51
+Lineout
+Team 1 pitcher (Zachary Pearson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Terryl Maxwell: rng1 = 36 + 6 - 11 + 1 = 32
+rng2 = 1 + 11 - 11 + 1 = 2
+Groundout
+Team 1 pitcher (Zachary Pearson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Lucián Chicote: rng1 = 21 + 11 - 9 - 1 = 22
+Strikeout
+Team 2 pitcher (Daigo Yoshimochi): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Aldo Gilmore: rng1 = 96 + 11 - 9 - 1 = 97
+rng2 = 59 + 11 - 8 - 1 = 61
+Single
+Team 2 pitcher (Daigo Yoshimochi): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Javier Guillén: rng1 = 100 + 8 - 9 - 1 = 98
+rng2 = 92 + 10 - 8 - 1 = 93
+Triple
+Team 2 pitcher (Daigo Yoshimochi): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: false, base3: [5,0]
+base1: false, base2: false, base3: true
+Score: 1-0
+
+Alexis Shultz: rng1 = 62 + 10 - 9 - 1 = 62
+rng2 = 28 + 7 - 8 - 1 = 26
+Groundout
+Team 2 pitcher (Daigo Yoshimochi): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: false, base3: [5,0]
+base1: false, base2: false, base3: true
+Score: 1-0
+
+Joaquín Laguna: rng1 = 1 + 6 - 9 - 1 = -3
+Strikeout
+Team 2 pitcher (Daigo Yoshimochi): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Josh Poole: rng1 = 94 + 8 - 11 + 1 = 92
+rng2 = 8 + 9 - 11 + 1 = 7
+Single
+Team 1 pitcher (Zachary Pearson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Reese Ross: rng1 = 25 + 6 - 11 + 1 = 21
+Strikeout
+Team 1 pitcher (Zachary Pearson): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Ethan Hayes: rng1 = 94 + 6 - 11 + 1 = 90
+Walk
+Team 1 pitcher (Zachary Pearson): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [6,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Bruno Rios: rng1 = 93 + 6 - 11 + 1 = 89
+Walk
+Team 1 pitcher (Zachary Pearson): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: [7,0], base2: [6,0], base3: [4,0]
+base1: true, base2: true, base3: true
+Score: 1-0
+
+Pedro Acosta: rng1 = 36 + 3 - 11 + 1 = 29
+rng2 = 70 + 8 - 11 + 1 = 68
+Flyout
+Team 1 pitcher (Zachary Pearson): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Serafín Sancho: rng1 = 3 + 14 - 11 + 1 = 7
+Strikeout
+Team 1 pitcher (Zachary Pearson): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 3
+
+Zahir Burgos: rng1 = 56 + 7 - 9 - 1 = 53
+rng2 = 11 + 8 - 8 - 1 = 10
+Groundout
+Team 2 pitcher (Daigo Yoshimochi): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Tristian Love: rng1 = 57 + 14 - 9 - 1 = 61
+rng2 = 47 + 11 - 8 - 1 = 49
+Lineout
+Team 2 pitcher (Daigo Yoshimochi): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Nicolás Moruga: rng1 = 49 + 14 - 9 - 1 = 53
+rng2 = 98 + 14 - 8 - 1 = 103
+Flyout
+Team 2 pitcher (Daigo Yoshimochi): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Desharious Roberson: rng1 = 5 + 12 - 11 + 1 = 7
+Strikeout
+Team 1 pitcher (Zachary Pearson): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Stanley Soto: rng1 = 42 + 9 - 11 + 1 = 41
+rng2 = 99 + 5 - 11 + 1 = 94
+Flyout
+Team 1 pitcher (Zachary Pearson): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Terryl Maxwell: rng1 = 48 + 6 - 11 + 1 = 44
+rng2 = 57 + 11 - 11 + 1 = 58
+Lineout
+Team 1 pitcher (Zachary Pearson): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 4
+
+Edward Cox: rng1 = 27 + 13 - 9 - 1 = 30
+rng2 = 16 + 5 - 8 - 1 = 12
+Groundout
+Team 2 pitcher (Daigo Yoshimochi): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Lucián Chicote: rng1 = 13 + 11 - 9 - 1 = 14
+rng2 = 98 + 11 - 8 - 1 = 100
+Flyout
+Team 2 pitcher (Daigo Yoshimochi): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Aldo Gilmore: rng1 = 46 + 11 - 9 - 1 = 47
+rng2 = 94 + 11 - 8 - 1 = 96
+Flyout
+Team 2 pitcher (Daigo Yoshimochi): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Josh Poole: rng1 = 76 + 8 - 11 + 1 = 74
+rng2 = 91 + 9 - 11 + 1 = 90
+Double
+Team 1 pitcher (Zachary Pearson): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 0
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Reese Ross: rng1 = 8 + 6 - 11 + 1 = 4
+Strikeout
+Team 1 pitcher (Zachary Pearson): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 1
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Ethan Hayes: rng1 = 26 + 6 - 11 + 1 = 22
+Strikeout
+Team 1 pitcher (Zachary Pearson): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 2
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Bruno Rios: rng1 = 22 + 6 - 11 + 1 = 18
+Strikeout
+Team 1 pitcher (Zachary Pearson): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 5
+
+Javier Guillén: rng1 = 91 + 8 - 9 - 1 = 89
+Walk
+Team 2 pitcher (Daigo Yoshimochi): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Alexis Shultz: rng1 = 77 + 10 - 9 - 1 = 77
+rng2 = 97 + 7 - 8 - 1 = 95
+Home run
+Team 2 pitcher (Daigo Yoshimochi): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Joaquín Laguna: rng1 = 81 + 6 - 9 - 1 = 77
+rng2 = 91 + 10 - 8 - 1 = 92
+Double
+Team 2 pitcher (Daigo Yoshimochi): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 0
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-1
+
+Zahir Burgos: rng1 = 29 + 7 - 9 - 1 = 26
+Strikeout
+Team 2 pitcher (Daigo Yoshimochi): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 1
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-1
+
+Tristian Love: rng1 = 16 + 14 - 9 - 1 = 20
+Strikeout
+Team 2 pitcher (Daigo Yoshimochi): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 2
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-1
+
+Nicolás Moruga: rng1 = 80 + 14 - 9 - 1 = 84
+rng2 = 27 + 14 - 8 - 1 = 32
+Single
+Team 2 pitcher (Daigo Yoshimochi): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-1
+
+Edward Cox: rng1 = 38 + 13 - 9 - 1 = 41
+rng2 = 45 + 5 - 8 - 1 = 41
+Groundout
+Team 2 pitcher (Daigo Yoshimochi): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+BOTTOM INNING 5
+
+Pedro Acosta: rng1 = 78 + 3 - 11 + 1 = 71
+Walk
+Team 1 pitcher (Zachary Pearson): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-1
+
+Serafín Sancho: rng1 = 44 + 14 - 11 + 1 = 48
+rng2 = 94 + 9 - 11 + 1 = 93
+Flyout
+Team 1 pitcher (Zachary Pearson): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-1
+
+Desharious Roberson: rng1 = 13 + 12 - 11 + 1 = 15
+rng2 = 78 + 8 - 11 + 1 = 76
+Flyout
+Team 1 pitcher (Zachary Pearson): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-1
+
+Stanley Soto: rng1 = 92 + 9 - 11 + 1 = 91
+rng2 = 37 + 5 - 11 + 1 = 32
+Single
+Team 1 pitcher (Zachary Pearson): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 2
+
+base1: [2,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 4-1
+
+Terryl Maxwell: rng1 = 38 + 6 - 11 + 1 = 34
+rng2 = 19 + 11 - 11 + 1 = 20
+Groundout
+Team 1 pitcher (Zachary Pearson): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Colton Hendrix
+
+Lucián Chicote: rng1 = 71 + 11 - 9 - 1 = 72
+rng2 = 24 + 11 - 8 - 1 = 26
+Single
+Team 2 pitcher (Colton Hendrix): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-1
+
+Aldo Gilmore: rng1 = 5 + 11 - 9 - 1 = 6
+Strikeout
+Team 2 pitcher (Colton Hendrix): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-1
+
+Javier Guillén: rng1 = 83 + 8 - 9 - 1 = 81
+rng2 = 56 + 10 - 8 - 1 = 57
+Single
+Team 2 pitcher (Colton Hendrix): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [5,1], base2: false, base3: [3,1]
+base1: true, base2: false, base3: true
+Score: 4-1
+
+Alexis Shultz: rng1 = 42 + 10 - 9 - 1 = 42
+rng2 = 95 + 7 - 8 - 1 = 93
+Flyout
+Team 2 pitcher (Colton Hendrix): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [5,1], base2: false, base3: [3,1]
+base1: true, base2: false, base3: true
+Score: 4-1
+
+Joaquín Laguna: rng1 = 57 + 6 - 9 - 1 = 53
+rng2 = 52 + 10 - 8 - 1 = 53
+Lineout
+Team 2 pitcher (Colton Hendrix): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+BOTTOM INNING 6
+
+Josh Poole: rng1 = 45 + 8 - 11 + 1 = 43
+rng2 = 32 + 9 - 11 + 1 = 31
+Groundout
+Team 1 pitcher (Zachary Pearson): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Reese Ross: rng1 = 29 + 6 - 11 + 1 = 25
+Strikeout
+Team 1 pitcher (Zachary Pearson): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Ethan Hayes: rng1 = 55 + 6 - 11 + 1 = 51
+rng2 = 52 + 6 - 11 + 1 = 48
+Lineout
+Team 1 pitcher (Zachary Pearson): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Lyndon Perell
+
+Zahir Burgos: rng1 = 15 + 7 - 11 - 1 = 10
+Strikeout
+Team 2 pitcher (Lyndon Perell): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Tristian Love: rng1 = 2 + 14 - 11 - 1 = 4
+Strikeout
+Team 2 pitcher (Lyndon Perell): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Nicolás Moruga: rng1 = 35 + 14 - 11 - 1 = 37
+rng2 = 90 + 14 - 11 - 1 = 92
+Flyout
+Team 2 pitcher (Lyndon Perell): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Shane Moran
+
+Bruno Rios: rng1 = 60 + 6 - 8 + 1 = 59
+rng2 = 84 + 6 - 9 + 1 = 82
+Flyout
+Team 1 pitcher (Shane Moran): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Pedro Acosta: rng1 = 1 + 3 - 8 + 1 = -3
+Strikeout
+Team 1 pitcher (Shane Moran): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Serafín Sancho: rng1 = 13 + 14 - 8 + 1 = 20
+Strikeout
+Team 1 pitcher (Shane Moran): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+TOP INNING 8
+
+Edward Cox: rng1 = 65 + 13 - 11 - 1 = 66
+rng2 = 66 + 5 - 11 - 1 = 59
+Flyout
+Team 2 pitcher (Lyndon Perell): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Lucián Chicote: rng1 = 4 + 11 - 11 - 1 = 3
+Strikeout
+Team 2 pitcher (Lyndon Perell): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Aldo Gilmore: rng1 = 38 + 11 - 11 - 1 = 37
+rng2 = 98 + 11 - 11 - 1 = 97
+Flyout
+Team 2 pitcher (Lyndon Perell): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+BOTTOM INNING 8
+
+Desharious Roberson: rng1 = 97 + 12 - 8 + 1 = 102
+rng2 = 79 + 8 - 9 + 1 = 79
+Home run
+Team 1 pitcher (Shane Moran): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Stanley Soto: rng1 = 3 + 9 - 8 + 1 = 5
+Strikeout
+Team 1 pitcher (Shane Moran): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Terryl Maxwell: rng1 = 49 + 6 - 8 + 1 = 48
+rng2 = 47 + 11 - 9 + 1 = 50
+Lineout
+Team 1 pitcher (Shane Moran): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Josh Poole: rng1 = 99 + 8 - 8 + 1 = 100
+rng2 = 51 + 9 - 9 + 1 = 52
+Single
+Team 1 pitcher (Shane Moran): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-2
+
+Reese Ross: rng1 = 27 + 6 - 8 + 1 = 26
+Strikeout
+Team 1 pitcher (Shane Moran): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-2
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Raymond Day
+
+Javier Guillén: rng1 = 65 + 8 - 6 - 1 = 66
+rng2 = 55 + 10 - 5 - 1 = 59
+Flyout
+Team 2 pitcher (Raymond Day): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Alexis Shultz: rng1 = 49 + 10 - 6 - 1 = 52
+rng2 = 89 + 7 - 5 - 1 = 90
+Flyout
+Team 2 pitcher (Raymond Day): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Joaquín Laguna: rng1 = 71 + 6 - 6 - 1 = 70
+Walk
+Team 2 pitcher (Raymond Day): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [7,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-2
+
+Zahir Burgos: rng1 = 5 + 7 - 6 - 1 = 5
+Strikeout
+Team 2 pitcher (Raymond Day): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-2
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Christopher Jones
+
+Ethan Hayes: rng1 = 35 + 6 - 15 + 1 = 27
+Strikeout
+Team 1 pitcher (Christopher Jones): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Bruno Rios: rng1 = 84 + 6 - 15 + 1 = 76
+rng2 = 36 + 6 - 15 + 1 = 28
+Single
+Team 1 pitcher (Christopher Jones): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [7,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-2
+
+Pedro Acosta: rng1 = 58 + 3 - 15 + 1 = 47
+rng2 = 68 + 8 - 15 + 1 = 62
+Flyout
+Team 1 pitcher (Christopher Jones): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [7,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-2
+
+Serafín Sancho: rng1 = 30 + 14 - 15 + 1 = 30
+rng2 = 93 + 9 - 15 + 1 = 88
+Flyout
+Team 1 pitcher (Christopher Jones): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-2
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 7
+Team 2 hits: 7
+Team 1 runs: 4
+Team 2 runs: 2
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-04-20
+Tristian Love	4	0	0	0	0	0	0	0	2					New York
+Nicolás Moruga	4	0	1	0	0	0	1	0	1	
+Edward Cox	4	0	0	0	0	0	0	0	1	
+Lucián Chicote	4	0	1	0	0	0	0	0	2	
+Aldo Gilmore	4	1	1	0	0	0	0	0	1	
+Javier Guillén	3	1	2	0	1	0	1	1	0	
+Alexis Shultz	4	1	1	0	0	1	2	0	0	
+Joaquín Laguna	3	1	1	1	0	0	0	1	1	
+Zahir Burgos	4	0	0	0	0	0	0	0	3	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Zachary Pearson	1	0	1	1	0	0	18	4	1	0	3	8	25	
+Shane Moran	0	0	1	0	0	0	6	2	1	1	0	4	8	
+Trey Hendrickson	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Johan Cortez	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Christopher Jones	0	0	1	0	1	1	3	1	0	0	0	1	4	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-04-20
+Serafín Sancho	5	0	1	0	0	0	0	0	2					Phoenix
+Desharious Roberson	4	1	1	0	0	1	1	0	2	
+Stanley Soto	4	0	1	0	0	0	0	0	1	
+Terryl Maxwell	4	0	0	0	0	0	0	0	0	
+Josh Poole	4	1	3	1	0	0	0	0	0	
+Reese Ross	4	0	0	0	0	0	0	0	4	
+Ethan Hayes	3	0	0	0	0	0	0	1	2	
+Bruno Rios	3	0	1	0	0	0	0	1	1	
+Pedro Acosta	3	0	0	0	0	0	1	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Daigo Yoshimochi	0	1	1	1	0	0	15	5	4	1	1	6	21	
+Colton Hendrix	0	0	1	0	0	0	3	2	0	0	0	1	5	
+Lyndon Perell	0	0	1	0	0	0	6	0	0	0	0	3	6	
+Raymond Day	0	0	1	0	0	0	3	0	0	0	1	1	4	
+Rakeem Bradley	0	0	0	0	0	0	0	0	0	0	0	0	0	

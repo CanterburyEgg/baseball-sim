@@ -1,0 +1,729 @@
+TOP INNING 1
+
+Cody McCarthy: rng1 = 5 + 14 - 13 - 1 = 5
+Strikeout
+Team 2 pitcher (Jordan Burns): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Randall Hodge: rng1 = 6 + 13 - 13 - 1 = 5
+Strikeout
+Team 2 pitcher (Jordan Burns): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Joseph Thayer: rng1 = 66 + 13 - 13 - 1 = 65
+rng2 = 27 + 8 - 11 - 1 = 23
+Groundout
+Team 2 pitcher (Jordan Burns): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Antonio Carrera: rng1 = 51 + 15 - 13 + 1 = 54
+rng2 = 32 + 13 - 14 + 1 = 32
+Groundout
+Team 1 pitcher (Christian Galán): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+George Nagle: rng1 = 2 + 15 - 13 + 1 = 5
+Strikeout
+Team 1 pitcher (Christian Galán): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Dante Arias: rng1 = 36 + 10 - 13 + 1 = 34
+rng2 = 33 + 5 - 14 + 1 = 25
+Groundout
+Team 1 pitcher (Christian Galán): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Reuben Sutton: rng1 = 56 + 12 - 13 - 1 = 54
+rng2 = 86 + 14 - 11 - 1 = 88
+Flyout
+Team 2 pitcher (Jordan Burns): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Dante Leoz: rng1 = 38 + 12 - 13 - 1 = 36
+rng2 = 32 + 13 - 11 - 1 = 33
+Groundout
+Team 2 pitcher (Jordan Burns): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Caden Bryan: rng1 = 68 + 8 - 13 - 1 = 62
+rng2 = 5 + 13 - 11 - 1 = 6
+Groundout
+Team 2 pitcher (Jordan Burns): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Jason Burress: rng1 = 28 + 12 - 13 + 1 = 28
+rng2 = 37 + 10 - 14 + 1 = 34
+Groundout
+Team 1 pitcher (Christian Galán): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Bautista Saelices: rng1 = 97 + 9 - 13 + 1 = 94
+rng2 = 98 + 9 - 14 + 1 = 94
+Home run
+Team 1 pitcher (Christian Galán): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Noah Fontenot: rng1 = 80 + 10 - 13 + 1 = 78
+rng2 = 42 + 6 - 14 + 1 = 35
+Single
+Team 1 pitcher (Christian Galán): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Terry Schroeder: rng1 = 36 + 6 - 13 + 1 = 30
+rng2 = 9 + 5 - 14 + 1 = 1
+Groundout
+Team 1 pitcher (Christian Galán): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Ameer Jacobson: rng1 = 55 + 1 - 13 + 1 = 44
+rng2 = 20 + 8 - 14 + 1 = 15
+Groundout
+Team 1 pitcher (Christian Galán): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 3
+
+Ethan Murphy: rng1 = 7 + 6 - 13 - 1 = -1
+Strikeout
+Team 2 pitcher (Jordan Burns): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Trent Page: rng1 = 79 + 6 - 13 - 1 = 71
+Walk
+Team 2 pitcher (Jordan Burns): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Alonso Welch: rng1 = 75 + 7 - 13 - 1 = 68
+rng2 = 15 + 4 - 11 - 1 = 7
+Groundout
+Team 2 pitcher (Jordan Burns): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Cody McCarthy: rng1 = 39 + 14 - 13 - 1 = 39
+rng2 = 2 + 12 - 11 - 1 = 2
+Groundout
+Team 2 pitcher (Jordan Burns): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Axel Chavez: rng1 = 16 + 4 - 13 + 1 = 8
+Strikeout
+Team 1 pitcher (Christian Galán): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Antonio Carrera: rng1 = 7 + 15 - 13 + 1 = 10
+Strikeout
+Team 1 pitcher (Christian Galán): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+George Nagle: rng1 = 87 + 15 - 13 + 1 = 90
+Walk
+Team 1 pitcher (Christian Galán): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Dante Arias: rng1 = 17 + 10 - 13 + 1 = 15
+rng2 = 8 + 5 - 14 + 1 = 0
+Groundout
+Team 1 pitcher (Christian Galán): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 4
+
+Randall Hodge: rng1 = 77 + 13 - 13 - 1 = 76
+rng2 = 80 + 9 - 11 - 1 = 77
+Double
+Team 2 pitcher (Jordan Burns): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 0
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Joseph Thayer: rng1 = 59 + 13 - 13 - 1 = 58
+rng2 = 65 + 8 - 11 - 1 = 61
+Flyout
+Team 2 pitcher (Jordan Burns): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 1
+
+base1: false, base2: false, base3: [1,0]
+base1: false, base2: false, base3: true
+Score: 0-1
+
+Reuben Sutton: rng1 = 16 + 12 - 13 - 1 = 14
+rng2 = 98 + 14 - 11 - 1 = 100
+Flyout
+Team 2 pitcher (Jordan Burns): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Dante Leoz: rng1 = 55 + 12 - 13 - 1 = 53
+rng2 = 88 + 13 - 11 - 1 = 89
+Flyout
+Team 2 pitcher (Jordan Burns): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Jason Burress: rng1 = 15 + 12 - 13 + 1 = 15
+rng2 = 100 + 10 - 14 + 1 = 97
+Flyout
+Team 1 pitcher (Christian Galán): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Bautista Saelices: rng1 = 44 + 9 - 13 + 1 = 41
+rng2 = 23 + 9 - 14 + 1 = 19
+Groundout
+Team 1 pitcher (Christian Galán): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Noah Fontenot: rng1 = 86 + 10 - 13 + 1 = 84
+rng2 = 6 + 6 - 14 + 1 = -1
+Single
+Team 1 pitcher (Christian Galán): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Terry Schroeder: rng1 = 50 + 6 - 13 + 1 = 44
+rng2 = 23 + 5 - 14 + 1 = 15
+Groundout
+Team 1 pitcher (Christian Galán): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 5
+
+Caden Bryan: rng1 = 37 + 8 - 13 - 1 = 31
+rng2 = 51 + 13 - 11 - 1 = 52
+Lineout
+Team 2 pitcher (Jordan Burns): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Ethan Murphy: rng1 = 60 + 6 - 13 - 1 = 52
+rng2 = 43 + 6 - 11 - 1 = 37
+Groundout
+Team 2 pitcher (Jordan Burns): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Trent Page: rng1 = 11 + 6 - 13 - 1 = 3
+Strikeout
+Team 2 pitcher (Jordan Burns): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 5
+
+Ameer Jacobson: rng1 = 97 + 1 - 13 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Christian Galán): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Axel Chavez: rng1 = 49 + 4 - 13 + 1 = 41
+rng2 = 55 + 5 - 14 + 1 = 47
+Groundout
+Team 1 pitcher (Christian Galán): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Antonio Carrera: rng1 = 81 + 15 - 13 + 1 = 84
+rng2 = 15 + 13 - 14 + 1 = 15
+Single
+Team 1 pitcher (Christian Galán): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 1
+
+base1: [0,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 1-1
+
+George Nagle: rng1 = 44 + 15 - 13 + 1 = 47
+rng2 = 92 + 14 - 14 + 1 = 93
+Flyout
+Team 1 pitcher (Christian Galán): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 2
+
+base1: [0,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 1-1
+
+Dante Arias: rng1 = 23 + 10 - 13 + 1 = 21
+Strikeout
+Team 1 pitcher (Christian Galán): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 6
+
+Alonso Welch: rng1 = 52 + 7 - 13 - 1 = 45
+rng2 = 84 + 4 - 11 - 1 = 76
+Flyout
+Team 2 pitcher (Jordan Burns): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Cody McCarthy: rng1 = 36 + 14 - 13 - 1 = 36
+rng2 = 59 + 12 - 11 - 1 = 59
+Flyout
+Team 2 pitcher (Jordan Burns): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Randall Hodge: rng1 = 80 + 13 - 13 - 1 = 79
+rng2 = 38 + 9 - 11 - 1 = 35
+Single
+Team 2 pitcher (Jordan Burns): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Joseph Thayer: rng1 = 52 + 13 - 13 - 1 = 51
+rng2 = 44 + 8 - 11 - 1 = 40
+Groundout
+Team 2 pitcher (Jordan Burns): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 6
+
+Jason Burress: rng1 = 83 + 12 - 13 + 1 = 83
+rng2 = 1 + 10 - 14 + 1 = -2
+Single
+Team 1 pitcher (Christian Galán): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Bautista Saelices: rng1 = 43 + 9 - 13 + 1 = 40
+rng2 = 86 + 9 - 14 + 1 = 82
+Flyout
+Team 1 pitcher (Christian Galán): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Noah Fontenot: rng1 = 89 + 10 - 13 + 1 = 87
+Walk
+Team 1 pitcher (Christian Galán): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 1
+
+base1: [5,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Terry Schroeder: rng1 = 66 + 6 - 13 + 1 = 60
+rng2 = 78 + 5 - 14 + 1 = 70
+Flyout
+Team 1 pitcher (Christian Galán): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 2
+
+base1: [5,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Ameer Jacobson: rng1 = 11 + 1 - 13 + 1 = 0
+Strikeout
+Team 1 pitcher (Christian Galán): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 7
+
+Reuben Sutton: rng1 = 72 + 12 - 13 - 1 = 70
+Walk
+Team 2 pitcher (Jordan Burns): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Dante Leoz: rng1 = 27 + 12 - 13 - 1 = 25
+Strikeout
+Team 2 pitcher (Jordan Burns): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Caden Bryan: rng1 = 49 + 8 - 13 - 1 = 43
+rng2 = 43 + 13 - 11 - 1 = 44
+Groundout
+Team 2 pitcher (Jordan Burns): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Ethan Murphy: rng1 = 22 + 6 - 13 - 1 = 14
+rng2 = 69 + 6 - 11 - 1 = 63
+Flyout
+Team 2 pitcher (Jordan Burns): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Keegan Schiel
+
+Axel Chavez: rng1 = 81 + 4 - 5 + 1 = 81
+rng2 = 31 + 5 - 8 + 1 = 29
+Single
+Team 1 pitcher (Keegan Schiel): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Antonio Carrera: rng1 = 46 + 15 - 5 + 1 = 57
+rng2 = 58 + 13 - 8 + 1 = 64
+Flyout
+Team 1 pitcher (Keegan Schiel): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+George Nagle: rng1 = 41 + 15 - 5 + 1 = 52
+rng2 = 13 + 14 - 8 + 1 = 20
+Groundout
+Team 1 pitcher (Keegan Schiel): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [8,1], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Dante Arias: rng1 = 23 + 10 - 5 + 1 = 29
+rng2 = 66 + 5 - 8 + 1 = 64
+Flyout
+Team 1 pitcher (Keegan Schiel): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 8
+
+Trent Page: rng1 = 12 + 6 - 13 - 1 = 4
+Strikeout
+Team 2 pitcher (Jordan Burns): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Alonso Welch: rng1 = 42 + 7 - 13 - 1 = 35
+rng2 = 36 + 4 - 11 - 1 = 28
+Groundout
+Team 2 pitcher (Jordan Burns): 27 batters faced, 1 runs allowed = 27 + 2.5 = 29.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Cody McCarthy: rng1 = 63 + 14 - 13 - 1 = 63
+rng2 = 18 + 12 - 11 - 1 = 18
+Groundout
+Team 2 pitcher (Jordan Burns): 28 batters faced, 1 runs allowed = 28 + 2.5 = 30.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 8
+
+Jason Burress: rng1 = 99 + 12 - 5 + 1 = 107
+rng2 = 46 + 10 - 8 + 1 = 49
+Single
+Team 1 pitcher (Keegan Schiel): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Bautista Saelices: rng1 = 32 + 9 - 5 + 1 = 37
+rng2 = 30 + 9 - 8 + 1 = 32
+Groundout
+Team 1 pitcher (Keegan Schiel): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Noah Fontenot: rng1 = 70 + 10 - 5 + 1 = 76
+rng2 = 48 + 6 - 8 + 1 = 47
+Single
+Team 1 pitcher (Keegan Schiel): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [5,1], base2: [4,1], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Terry Schroeder: rng1 = 52 + 6 - 5 + 1 = 54
+rng2 = 94 + 5 - 8 + 1 = 92
+Flyout
+Team 1 pitcher (Keegan Schiel): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [5,1], base2: [4,1], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Ameer Jacobson: rng1 = 41 + 1 - 5 + 1 = 38
+rng2 = 60 + 8 - 8 + 1 = 61
+Flyout
+Team 1 pitcher (Keegan Schiel): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Rodrigo Valerio
+
+Randall Hodge: rng1 = 73 + 13 - 10 - 1 = 75
+rng2 = 78 + 9 - 10 - 1 = 76
+Double
+Team 2 pitcher (Rodrigo Valerio): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [1,1], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Joseph Thayer: rng1 = 68 + 13 - 10 - 1 = 70
+Walk
+Team 2 pitcher (Rodrigo Valerio): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [2,1], base2: [1,1], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Reuben Sutton: rng1 = 31 + 12 - 10 - 1 = 32
+rng2 = 13 + 14 - 10 - 1 = 16
+Groundout
+Team 2 pitcher (Rodrigo Valerio): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [3,1], base2: [2,1], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Dante Leoz: rng1 = 6 + 12 - 10 - 1 = 7
+Strikeout
+Team 2 pitcher (Rodrigo Valerio): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [3,1], base2: [2,1], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Caden Bryan: rng1 = 79 + 8 - 10 - 1 = 76
+rng2 = 74 + 13 - 10 - 1 = 76
+Double
+Team 2 pitcher (Rodrigo Valerio): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: false, base2: [5,1], base3: false
+base1: false, base2: true, base3: false
+Score: 3-1
+
+Ethan Murphy: rng1 = 54 + 6 - 10 - 1 = 49
+rng2 = 74 + 6 - 10 - 1 = 69
+Flyout
+Team 2 pitcher (Rodrigo Valerio): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Isaac Wilson
+
+Axel Chavez: rng1 = 31 + 4 - 14 + 1 = 22
+Strikeout
+Team 1 pitcher (Isaac Wilson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Antonio Carrera: rng1 = 38 + 15 - 14 + 1 = 40
+rng2 = 12 + 13 - 14 + 1 = 12
+Groundout
+Team 1 pitcher (Isaac Wilson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+George Nagle: rng1 = 2 + 15 - 14 + 1 = 4
+Strikeout
+Team 1 pitcher (Isaac Wilson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 4
+Team 2 hits: 8
+Team 1 runs: 3
+Team 2 runs: 1
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-04-21
+Cody McCarthy	4	0	0	0	0	0	0	0	1					Detroit
+Randall Hodge	4	1	3	2	0	0	0	0	1	
+Joseph Thayer	3	1	0	0	0	0	0	1	0	
+Reuben Sutton	3	1	0	0	0	0	1	1	0	
+Dante Leoz	4	0	0	0	0	0	0	0	2	
+Caden Bryan	4	0	1	1	0	0	2	0	0	
+Ethan Murphy	4	0	0	0	0	0	0	0	1	
+Trent Page	2	0	0	0	0	0	0	1	2	
+Alonso Welch	3	0	0	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Christian Galán	0	0	1	1	0	0	18	5	1	1	2	5	26	
+Keegan Schiel	1	0	1	0	0	0	6	3	0	0	0	0	9	
+Jacob Wallace	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Hanley Harper	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Isaac Wilson	0	0	1	0	1	1	3	0	0	0	0	2	3	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-04-21
+Antonio Carrera	5	0	1	0	0	0	0	0	1					Las Vegas
+George Nagle	4	0	0	0	0	0	0	1	2	
+Dante Arias	4	0	0	0	0	0	0	0	1	
+Jason Burress	4	0	2	0	0	0	0	0	0	
+Bautista Saelices	4	1	1	0	0	1	1	0	0	
+Noah Fontenot	3	0	3	0	0	0	0	1	0	
+Terry Schroeder	4	0	0	0	0	0	0	0	0	
+Ameer Jacobson	3	0	0	0	0	0	0	0	1	
+Axel Chavez	4	0	1	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Jordan Burns	0	0	1	1	0	0	24	2	1	0	2	6	28	
+Rodrigo Valerio	0	1	1	0	0	0	3	2	2	0	1	1	6	
+Taylor Murphy	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Phil Segee	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Macos Alguacil	0	0	0	0	0	0	0	0	0	0	0	0	0	

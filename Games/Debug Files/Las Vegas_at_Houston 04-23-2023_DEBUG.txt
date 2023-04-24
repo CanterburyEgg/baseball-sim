@@ -1,0 +1,677 @@
+TOP INNING 1
+
+Antonio Carrera: rng1 = 27 + 15 - 7 - 1 = 34
+rng2 = 62 + 13 - 7 - 1 = 67
+Flyout
+Team 2 pitcher (Jonatan Velazquez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+George Nagle: rng1 = 76 + 15 - 7 - 1 = 83
+rng2 = 56 + 14 - 7 - 1 = 62
+Single
+Team 2 pitcher (Jonatan Velazquez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Dante Arias: rng1 = 7 + 10 - 7 - 1 = 9
+Strikeout
+Team 2 pitcher (Jonatan Velazquez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Jason Burress: rng1 = 39 + 12 - 7 - 1 = 43
+rng2 = 56 + 10 - 7 - 1 = 58
+Lineout
+Team 2 pitcher (Jonatan Velazquez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Cody Henderson: rng1 = 15 + 15 - 9 + 1 = 22
+Strikeout
+Team 1 pitcher (Zaiden Payne): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Xavier Washington: rng1 = 89 + 13 - 9 + 1 = 94
+rng2 = 63 + 12 - 8 + 1 = 68
+Double
+Team 1 pitcher (Zaiden Payne): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Kieran Byrne: rng1 = 78 + 12 - 9 + 1 = 82
+rng2 = 56 + 11 - 8 + 1 = 60
+Single
+Team 1 pitcher (Zaiden Payne): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Joshua Fontina: rng1 = 76 + 6 - 9 + 1 = 74
+rng2 = 30 + 11 - 8 + 1 = 34
+Single
+Team 1 pitcher (Zaiden Payne): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-1
+
+Elliot Hudson: rng1 = 71 + 10 - 9 + 1 = 73
+rng2 = 6 + 10 - 8 + 1 = 9
+Single
+Team 1 pitcher (Zaiden Payne): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 1
+
+base1: [4,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 0-2
+
+Jadon Mitchell: rng1 = 97 + 10 - 9 + 1 = 99
+rng2 = 53 + 9 - 8 + 1 = 55
+Single
+Team 1 pitcher (Zaiden Payne): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 1
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-3
+
+Aaron Vera: rng1 = 95 + 12 - 9 + 1 = 99
+rng2 = 35 + 7 - 8 + 1 = 35
+Single
+Team 1 pitcher (Zaiden Payne): 7 batters faced, 4 runs allowed = 7 + 10.0 = 17.0, outs: 1
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 0-4
+
+César Botín: rng1 = 59 + 8 - 9 + 1 = 59
+rng2 = 58 + 6 - 8 + 1 = 57
+Lineout
+Team 1 pitcher (Zaiden Payne): 8 batters faced, 4 runs allowed = 8 + 10.0 = 18.0, outs: 2
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 0-4
+
+Archie Porter: rng1 = 41 + 3 - 9 + 1 = 36
+rng2 = 84 + 3 - 8 + 1 = 80
+Flyout
+Team 1 pitcher (Zaiden Payne): 9 batters faced, 4 runs allowed = 9 + 10.0 = 19.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+TOP INNING 2
+
+Bautista Saelices: rng1 = 63 + 9 - 7 - 1 = 64
+rng2 = 15 + 9 - 7 - 1 = 16
+Groundout
+Team 2 pitcher (Jonatan Velazquez): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Noah Fontenot: rng1 = 51 + 10 - 7 - 1 = 53
+rng2 = 43 + 6 - 7 - 1 = 41
+Groundout
+Team 2 pitcher (Jonatan Velazquez): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Terry Schroeder: rng1 = 56 + 6 - 7 - 1 = 54
+rng2 = 23 + 5 - 7 - 1 = 20
+Groundout
+Team 2 pitcher (Jonatan Velazquez): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+BOTTOM INNING 2
+
+Cody Henderson: rng1 = 54 + 15 - 9 + 1 = 61
+rng2 = 64 + 15 - 8 + 1 = 72
+Flyout
+Team 1 pitcher (Zaiden Payne): 10 batters faced, 4 runs allowed = 10 + 10.0 = 20.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Xavier Washington: rng1 = 2 + 13 - 9 + 1 = 7
+Strikeout
+Team 1 pitcher (Zaiden Payne): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Kieran Byrne: rng1 = 79 + 12 - 9 + 1 = 83
+rng2 = 24 + 11 - 8 + 1 = 28
+Single
+Team 1 pitcher (Zaiden Payne): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Joshua Fontina: rng1 = 66 + 6 - 9 + 1 = 64
+rng2 = 81 + 11 - 8 + 1 = 85
+Flyout
+Team 1 pitcher (Zaiden Payne): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+TOP INNING 3
+
+Ameer Jacobson: rng1 = 49 + 1 - 7 - 1 = 42
+rng2 = 57 + 8 - 7 - 1 = 57
+Lineout
+Team 2 pitcher (Jonatan Velazquez): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Axel Chavez: rng1 = 93 + 4 - 7 - 1 = 89
+Walk
+Team 2 pitcher (Jonatan Velazquez): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Antonio Carrera: rng1 = 38 + 15 - 7 - 1 = 45
+rng2 = 96 + 13 - 7 - 1 = 101
+Flyout
+Team 2 pitcher (Jonatan Velazquez): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+George Nagle: rng1 = 25 + 15 - 7 - 1 = 32
+rng2 = 67 + 14 - 7 - 1 = 73
+Flyout
+Team 2 pitcher (Jonatan Velazquez): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+BOTTOM INNING 3
+
+Elliot Hudson: rng1 = 76 + 10 - 9 + 1 = 78
+rng2 = 11 + 10 - 8 + 1 = 14
+Single
+Team 1 pitcher (Zaiden Payne): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Jadon Mitchell: rng1 = 70 + 10 - 9 + 1 = 72
+rng2 = 80 + 9 - 8 + 1 = 82
+Home run
+Team 1 pitcher (Zaiden Payne): 15 batters faced, 6 runs allowed = 15 + 15.0 = 30.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Aaron Vera: rng1 = 64 + 12 - 9 + 1 = 68
+rng2 = 36 + 7 - 8 + 1 = 36
+Groundout
+Team 1 pitcher (Zaiden Payne): 16 batters faced, 6 runs allowed = 16 + 15.0 = 31.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+César Botín: rng1 = 62 + 8 - 9 + 1 = 62
+rng2 = 47 + 6 - 8 + 1 = 46
+Groundout
+Team 1 pitcher (Zaiden Payne): 17 batters faced, 6 runs allowed = 17 + 15.0 = 32.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Archie Porter: rng1 = 24 + 3 - 9 + 1 = 19
+Strikeout
+Team 1 pitcher (Zaiden Payne): 18 batters faced, 6 runs allowed = 18 + 15.0 = 33.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+TOP INNING 4
+
+Dante Arias: rng1 = 30 + 10 - 7 - 1 = 32
+rng2 = 12 + 5 - 7 - 1 = 9
+Groundout
+Team 2 pitcher (Jonatan Velazquez): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Jason Burress: rng1 = 46 + 12 - 7 - 1 = 50
+rng2 = 35 + 10 - 7 - 1 = 37
+Groundout
+Team 2 pitcher (Jonatan Velazquez): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Bautista Saelices: rng1 = 63 + 9 - 7 - 1 = 64
+rng2 = 96 + 9 - 7 - 1 = 97
+Flyout
+Team 2 pitcher (Jonatan Velazquez): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+BOTTOM INNING 4
+
+Team 1 pitcher change to Taylor Murphy
+
+Cody Henderson: rng1 = 55 + 15 - 15 + 1 = 56
+rng2 = 91 + 15 - 13 + 1 = 94
+Flyout
+Team 1 pitcher (Taylor Murphy): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Xavier Washington: rng1 = 56 + 13 - 15 + 1 = 55
+rng2 = 36 + 12 - 13 + 1 = 36
+Groundout
+Team 1 pitcher (Taylor Murphy): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Kieran Byrne: rng1 = 99 + 12 - 15 + 1 = 97
+rng2 = 42 + 11 - 13 + 1 = 41
+Single
+Team 1 pitcher (Taylor Murphy): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-6
+
+Joshua Fontina: rng1 = 61 + 6 - 15 + 1 = 53
+rng2 = 74 + 11 - 13 + 1 = 73
+Flyout
+Team 1 pitcher (Taylor Murphy): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+TOP INNING 5
+
+Noah Fontenot: rng1 = 23 + 10 - 7 - 1 = 25
+Strikeout
+Team 2 pitcher (Jonatan Velazquez): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Terry Schroeder: rng1 = 35 + 6 - 7 - 1 = 33
+rng2 = 83 + 5 - 7 - 1 = 80
+Flyout
+Team 2 pitcher (Jonatan Velazquez): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Ameer Jacobson: rng1 = 18 + 1 - 7 - 1 = 11
+rng2 = 90 + 8 - 7 - 1 = 90
+Flyout
+Team 2 pitcher (Jonatan Velazquez): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+BOTTOM INNING 5
+
+Elliot Hudson: rng1 = 88 + 10 - 15 + 1 = 84
+rng2 = 51 + 10 - 13 + 1 = 49
+Single
+Team 1 pitcher (Taylor Murphy): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-6
+
+Jadon Mitchell: rng1 = 7 + 10 - 15 + 1 = 3
+Strikeout
+Team 1 pitcher (Taylor Murphy): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-6
+
+Aaron Vera: rng1 = 35 + 12 - 15 + 1 = 33
+rng2 = 10 + 7 - 13 + 1 = 5
+Groundout
+Team 1 pitcher (Taylor Murphy): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+TOP INNING 6
+
+Axel Chavez: rng1 = 32 + 4 - 7 - 1 = 28
+rng2 = 69 + 5 - 7 - 1 = 66
+Flyout
+Team 2 pitcher (Jonatan Velazquez): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Antonio Carrera: rng1 = 11 + 15 - 7 - 1 = 18
+Strikeout
+Team 2 pitcher (Jonatan Velazquez): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+George Nagle: rng1 = 37 + 15 - 7 - 1 = 44
+rng2 = 43 + 14 - 7 - 1 = 49
+Lineout
+Team 2 pitcher (Jonatan Velazquez): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Rodrigo Valerio
+
+César Botín: rng1 = 26 + 8 - 10 + 1 = 25
+Strikeout
+Team 1 pitcher (Rodrigo Valerio): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Archie Porter: rng1 = 27 + 3 - 10 + 1 = 21
+Strikeout
+Team 1 pitcher (Rodrigo Valerio): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Cody Henderson: rng1 = 21 + 15 - 10 + 1 = 27
+Strikeout
+Team 1 pitcher (Rodrigo Valerio): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+TOP INNING 7
+
+Dante Arias: rng1 = 90 + 10 - 7 - 1 = 92
+rng2 = 11 + 5 - 7 - 1 = 8
+Single
+Team 2 pitcher (Jonatan Velazquez): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 0
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-6
+
+Jason Burress: rng1 = 25 + 12 - 7 - 1 = 29
+rng2 = 47 + 10 - 7 - 1 = 49
+Lineout
+Team 2 pitcher (Jonatan Velazquez): 22 batters faced, 0 runs allowed = 22 + 0.0 = 22.0, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-6
+
+Bautista Saelices: rng1 = 6 + 9 - 7 - 1 = 7
+Strikeout
+Team 2 pitcher (Jonatan Velazquez): 23 batters faced, 0 runs allowed = 23 + 0.0 = 23.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-6
+
+Noah Fontenot: rng1 = 30 + 10 - 7 - 1 = 32
+rng2 = 46 + 6 - 7 - 1 = 44
+Groundout
+Team 2 pitcher (Jonatan Velazquez): 24 batters faced, 0 runs allowed = 24 + 0.0 = 24.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+BOTTOM INNING 7
+
+Xavier Washington: rng1 = 48 + 13 - 10 + 1 = 52
+rng2 = 7 + 12 - 10 + 1 = 10
+Groundout
+Team 1 pitcher (Rodrigo Valerio): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Kieran Byrne: rng1 = 63 + 12 - 10 + 1 = 66
+rng2 = 71 + 11 - 10 + 1 = 73
+Flyout
+Team 1 pitcher (Rodrigo Valerio): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Joshua Fontina: rng1 = 41 + 6 - 10 + 1 = 38
+rng2 = 5 + 11 - 10 + 1 = 7
+Groundout
+Team 1 pitcher (Rodrigo Valerio): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+TOP INNING 8
+
+Terry Schroeder: rng1 = 14 + 6 - 7 - 1 = 12
+rng2 = 18 + 5 - 7 - 1 = 15
+Groundout
+Team 2 pitcher (Jonatan Velazquez): 25 batters faced, 0 runs allowed = 25 + 0.0 = 25.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Ameer Jacobson: rng1 = 9 + 1 - 7 - 1 = 2
+Strikeout
+Team 2 pitcher (Jonatan Velazquez): 26 batters faced, 0 runs allowed = 26 + 0.0 = 26.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Axel Chavez: rng1 = 37 + 4 - 7 - 1 = 33
+rng2 = 57 + 5 - 7 - 1 = 54
+Lineout
+Team 2 pitcher (Jonatan Velazquez): 27 batters faced, 0 runs allowed = 27 + 0.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Phil Segee
+
+Elliot Hudson: rng1 = 99 + 10 - 9 + 1 = 101
+rng2 = 9 + 10 - 9 + 1 = 11
+Single
+Team 1 pitcher (Phil Segee): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [4,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-6
+
+Jadon Mitchell: rng1 = 39 + 10 - 9 + 1 = 41
+rng2 = 61 + 9 - 9 + 1 = 62
+Flyout
+Team 1 pitcher (Phil Segee): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [4,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-6
+
+Aaron Vera: rng1 = 92 + 12 - 9 + 1 = 96
+rng2 = 47 + 7 - 9 + 1 = 46
+Single
+Team 1 pitcher (Phil Segee): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [6,3], base2: false, base3: [4,3]
+base1: true, base2: false, base3: true
+Score: 0-6
+
+César Botín: rng1 = 68 + 8 - 9 + 1 = 68
+rng2 = 22 + 6 - 9 + 1 = 20
+Groundout
+Team 1 pitcher (Phil Segee): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+TOP INNING 9
+
+Antonio Carrera: rng1 = 50 + 15 - 7 - 1 = 57
+rng2 = 1 + 13 - 7 - 1 = 6
+Groundout
+Team 2 pitcher (Jonatan Velazquez): 28 batters faced, 0 runs allowed = 28 + 0.0 = 28.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+George Nagle: rng1 = 60 + 15 - 7 - 1 = 67
+rng2 = 28 + 14 - 7 - 1 = 34
+Groundout
+Team 2 pitcher (Jonatan Velazquez): 29 batters faced, 0 runs allowed = 29 + 0.0 = 29.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Dante Arias: rng1 = 84 + 10 - 7 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Jonatan Velazquez): 30 batters faced, 0 runs allowed = 30 + 0.0 = 30.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-6
+
+Jason Burress: rng1 = 18 + 12 - 7 - 1 = 22
+Strikeout
+Team 2 pitcher (Jonatan Velazquez): 31 batters faced, 0 runs allowed = 31 + 0.0 = 31.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 2
+Team 2 hits: 13
+Team 1 runs: 0
+Team 2 runs: 6
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-04-23
+Antonio Carrera	4	0	0	0	0	0	0	0	1					Las Vegas
+George Nagle	4	0	1	0	0	0	0	0	0	
+Dante Arias	3	0	1	0	0	0	0	0	1	
+Jason Burress	4	0	0	0	0	0	0	0	1	
+Bautista Saelices	3	0	0	0	0	0	0	0	1	
+Noah Fontenot	3	0	0	0	0	0	0	0	1	
+Terry Schroeder	3	0	0	0	0	0	0	0	0	
+Ameer Jacobson	3	0	0	0	0	0	0	0	1	
+Axel Chavez	2	0	0	0	0	0	0	1	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Zaiden Payne	0	1	1	1	0	0	9	9	6	1	0	3	18	
+Taylor Murphy	0	0	1	0	0	0	6	2	0	0	0	1	7	
+Rodrigo Valerio	0	0	1	0	0	0	6	0	0	0	0	3	6	
+Phil Segee	0	0	1	0	0	0	3	2	0	0	0	0	4	
+Macos Alguacil	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-04-23
+Cody Henderson	4	0	0	0	0	0	0	0	2					Houston
+Xavier Washington	4	1	1	1	0	0	0	0	1	
+Kieran Byrne	4	1	3	0	0	0	1	0	0	
+Joshua Fontina	4	1	1	0	0	0	0	0	0	
+Elliot Hudson	4	2	4	0	0	0	1	0	0	
+Jadon Mitchell	4	1	2	0	0	1	3	0	1	
+Aaron Vera	4	0	2	0	0	0	1	0	0	
+César Botín	4	0	0	0	0	0	0	0	1	
+Archie Porter	3	0	0	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Jonatan Velazquez	1	0	1	1	0	0	27	2	0	0	1	6	31	
+Foster Roebuck	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Ryu Shi-Woo	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Craig Valencis	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Gideon Giles	0	0	0	0	0	0	0	0	0	0	0	0	0	

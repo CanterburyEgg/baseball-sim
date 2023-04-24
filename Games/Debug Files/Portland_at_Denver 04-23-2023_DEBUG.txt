@@ -1,0 +1,678 @@
+TOP INNING 1
+
+Kim Bon-Shim: rng1 = 21 + 13 - 15 - 1 = 18
+Strikeout
+Team 2 pitcher (Angel Chavez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Chae Yongsun: rng1 = 92 + 10 - 15 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Angel Chavez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Eduardo Rasgado: rng1 = 91 + 7 - 15 - 1 = 82
+rng2 = 23 + 7 - 15 - 1 = 14
+Single
+Team 2 pitcher (Angel Chavez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Abel Leoz: rng1 = 71 + 6 - 15 - 1 = 61
+rng2 = 72 + 9 - 15 - 1 = 65
+Flyout
+Team 2 pitcher (Angel Chavez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Felipe Grimes: rng1 = 96 + 7 - 15 - 1 = 87
+Walk
+Team 2 pitcher (Angel Chavez): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: [4,0], base2: [2,0], base3: [1,0]
+base1: true, base2: true, base3: true
+Score: 0-0
+
+Katagiri Seibei: rng1 = 4 + 6 - 15 - 1 = -6
+Strikeout
+Team 2 pitcher (Angel Chavez): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Hiro Hakayawa: rng1 = 55 + 13 - 9 + 1 = 60
+rng2 = 93 + 11 - 7 + 1 = 98
+Flyout
+Team 1 pitcher (Douglas Porter): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Zachary Hughes: rng1 = 79 + 12 - 9 + 1 = 83
+rng2 = 93 + 15 - 7 + 1 = 102
+Home run
+Team 1 pitcher (Douglas Porter): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Guillermo Tamayo: rng1 = 62 + 12 - 9 + 1 = 66
+rng2 = 32 + 8 - 7 + 1 = 34
+Groundout
+Team 1 pitcher (Douglas Porter): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Alfredo Encarnacion: rng1 = 62 + 10 - 9 + 1 = 64
+rng2 = 17 + 12 - 7 + 1 = 23
+Groundout
+Team 1 pitcher (Douglas Porter): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 2
+
+Romiro Hidalgo: rng1 = 56 + 5 - 15 - 1 = 45
+rng2 = 75 + 6 - 15 - 1 = 65
+Flyout
+Team 2 pitcher (Angel Chavez): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Irvin Brown: rng1 = 24 + 7 - 15 - 1 = 15
+rng2 = 5 + 4 - 15 - 1 = -7
+Groundout
+Team 2 pitcher (Angel Chavez): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Amir Gentry: rng1 = 87 + 3 - 15 - 1 = 74
+rng2 = 31 + 5 - 15 - 1 = 20
+Single
+Team 2 pitcher (Angel Chavez): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Kim Bon-Shim: rng1 = 45 + 13 - 15 - 1 = 42
+rng2 = 95 + 15 - 15 - 1 = 94
+Flyout
+Team 2 pitcher (Angel Chavez): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Micah Zamora: rng1 = 17 + 8 - 9 + 1 = 17
+Strikeout
+Team 1 pitcher (Douglas Porter): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Sean Stevens: rng1 = 33 + 7 - 9 + 1 = 32
+rng2 = 54 + 8 - 7 + 1 = 56
+Lineout
+Team 1 pitcher (Douglas Porter): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Zyrell Ford: rng1 = 9 + 8 - 9 + 1 = 9
+Strikeout
+Team 1 pitcher (Douglas Porter): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 3
+
+Chae Yongsun: rng1 = 25 + 10 - 15 - 1 = 19
+Strikeout
+Team 2 pitcher (Angel Chavez): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Eduardo Rasgado: rng1 = 61 + 7 - 15 - 1 = 52
+rng2 = 44 + 7 - 15 - 1 = 35
+Groundout
+Team 2 pitcher (Angel Chavez): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Abel Leoz: rng1 = 9 + 6 - 15 - 1 = -1
+Strikeout
+Team 2 pitcher (Angel Chavez): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Felix Alarcón: rng1 = 21 + 5 - 9 + 1 = 18
+Strikeout
+Team 1 pitcher (Douglas Porter): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Andy Kelley: rng1 = 6 + 4 - 9 + 1 = 2
+Strikeout
+Team 1 pitcher (Douglas Porter): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Hiro Hakayawa: rng1 = 78 + 13 - 9 + 1 = 83
+rng2 = 4 + 11 - 7 + 1 = 9
+Single
+Team 1 pitcher (Douglas Porter): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Zachary Hughes: rng1 = 51 + 12 - 9 + 1 = 55
+rng2 = 17 + 15 - 7 + 1 = 26
+Groundout
+Team 1 pitcher (Douglas Porter): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 4
+
+Felipe Grimes: rng1 = 24 + 7 - 15 - 1 = 15
+rng2 = 100 + 8 - 15 - 1 = 92
+Flyout
+Team 2 pitcher (Angel Chavez): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Katagiri Seibei: rng1 = 70 + 6 - 15 - 1 = 60
+rng2 = 51 + 7 - 15 - 1 = 42
+Groundout
+Team 2 pitcher (Angel Chavez): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Romiro Hidalgo: rng1 = 42 + 5 - 15 - 1 = 31
+rng2 = 30 + 6 - 15 - 1 = 20
+Groundout
+Team 2 pitcher (Angel Chavez): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Guillermo Tamayo: rng1 = 84 + 12 - 9 + 1 = 88
+Walk
+Team 1 pitcher (Douglas Porter): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 0
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Alfredo Encarnacion: rng1 = 59 + 10 - 9 + 1 = 61
+rng2 = 11 + 12 - 7 + 1 = 17
+Groundout
+Team 1 pitcher (Douglas Porter): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Micah Zamora: rng1 = 79 + 8 - 9 + 1 = 79
+rng2 = 98 + 11 - 7 + 1 = 103
+Home run
+Team 1 pitcher (Douglas Porter): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Sean Stevens: rng1 = 53 + 7 - 9 + 1 = 52
+rng2 = 46 + 8 - 7 + 1 = 48
+Lineout
+Team 1 pitcher (Douglas Porter): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Zyrell Ford: rng1 = 79 + 8 - 9 + 1 = 79
+rng2 = 7 + 4 - 7 + 1 = 5
+Single
+Team 1 pitcher (Douglas Porter): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Felix Alarcón: rng1 = 96 + 5 - 9 + 1 = 93
+rng2 = 24 + 6 - 7 + 1 = 24
+Single
+Team 1 pitcher (Douglas Porter): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 2
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-3
+
+Andy Kelley: rng1 = 19 + 4 - 9 + 1 = 15
+rng2 = 71 + 5 - 7 + 1 = 70
+Flyout
+Team 1 pitcher (Douglas Porter): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+TOP INNING 5
+
+Irvin Brown: rng1 = 73 + 7 - 15 - 1 = 64
+rng2 = 18 + 4 - 15 - 1 = 6
+Groundout
+Team 2 pitcher (Angel Chavez): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Amir Gentry: rng1 = 51 + 3 - 15 - 1 = 38
+rng2 = 70 + 5 - 15 - 1 = 59
+Flyout
+Team 2 pitcher (Angel Chavez): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Kim Bon-Shim: rng1 = 76 + 13 - 15 - 1 = 73
+rng2 = 56 + 15 - 15 - 1 = 55
+Single
+Team 2 pitcher (Angel Chavez): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Chae Yongsun: rng1 = 66 + 10 - 15 - 1 = 60
+rng2 = 94 + 14 - 15 - 1 = 92
+Flyout
+Team 2 pitcher (Angel Chavez): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+BOTTOM INNING 5
+
+Hiro Hakayawa: rng1 = 43 + 13 - 9 + 1 = 48
+rng2 = 7 + 11 - 7 + 1 = 12
+Groundout
+Team 1 pitcher (Douglas Porter): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Zachary Hughes: rng1 = 37 + 12 - 9 + 1 = 41
+rng2 = 26 + 15 - 7 + 1 = 35
+Groundout
+Team 1 pitcher (Douglas Porter): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Guillermo Tamayo: rng1 = 17 + 12 - 9 + 1 = 21
+Strikeout
+Team 1 pitcher (Douglas Porter): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+TOP INNING 6
+
+Eduardo Rasgado: rng1 = 60 + 7 - 15 - 1 = 51
+rng2 = 51 + 7 - 15 - 1 = 42
+Groundout
+Team 2 pitcher (Angel Chavez): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Abel Leoz: rng1 = 1 + 6 - 15 - 1 = -9
+Strikeout
+Team 2 pitcher (Angel Chavez): 22 batters faced, 0 runs allowed = 22 + 0.0 = 22.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Felipe Grimes: rng1 = 45 + 7 - 15 - 1 = 36
+rng2 = 83 + 8 - 15 - 1 = 75
+Flyout
+Team 2 pitcher (Angel Chavez): 23 batters faced, 0 runs allowed = 23 + 0.0 = 23.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+BOTTOM INNING 6
+
+Alfredo Encarnacion: rng1 = 3 + 10 - 9 + 1 = 5
+Strikeout
+Team 1 pitcher (Douglas Porter): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Micah Zamora: rng1 = 19 + 8 - 9 + 1 = 19
+Strikeout
+Team 1 pitcher (Douglas Porter): 23 batters faced, 3 runs allowed = 23 + 7.5 = 30.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Sean Stevens: rng1 = 5 + 7 - 9 + 1 = 4
+Strikeout
+Team 1 pitcher (Douglas Porter): 24 batters faced, 3 runs allowed = 24 + 7.5 = 31.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+TOP INNING 7
+
+Katagiri Seibei: rng1 = 94 + 6 - 15 - 1 = 84
+rng2 = 44 + 7 - 15 - 1 = 35
+Single
+Team 2 pitcher (Angel Chavez): 24 batters faced, 0 runs allowed = 24 + 0.0 = 24.0, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Romiro Hidalgo: rng1 = 45 + 5 - 15 - 1 = 34
+rng2 = 53 + 6 - 15 - 1 = 43
+Groundout
+Team 2 pitcher (Angel Chavez): 25 batters faced, 0 runs allowed = 25 + 0.0 = 25.0, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Irvin Brown: rng1 = 80 + 7 - 15 - 1 = 71
+Walk
+Team 2 pitcher (Angel Chavez): 26 batters faced, 0 runs allowed = 26 + 0.0 = 26.0, outs: 1
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-3
+
+Amir Gentry: rng1 = 61 + 3 - 15 - 1 = 48
+rng2 = 97 + 5 - 15 - 1 = 86
+Flyout
+Team 2 pitcher (Angel Chavez): 27 batters faced, 0 runs allowed = 27 + 0.0 = 27.0, outs: 2
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-3
+
+Kim Bon-Shim: rng1 = 29 + 13 - 15 - 1 = 26
+Strikeout
+Team 2 pitcher (Angel Chavez): 28 batters faced, 0 runs allowed = 28 + 0.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Noah Rosario
+
+Zyrell Ford: rng1 = 89 + 8 - 11 + 1 = 87
+Walk
+Team 1 pitcher (Noah Rosario): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Felix Alarcón: rng1 = 70 + 5 - 11 + 1 = 65
+rng2 = 14 + 6 - 5 + 1 = 16
+Groundout
+Team 1 pitcher (Noah Rosario): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Andy Kelley: rng1 = 90 + 4 - 11 + 1 = 84
+rng2 = 68 + 5 - 5 + 1 = 69
+Double
+Team 1 pitcher (Noah Rosario): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [8,1], base3: false
+base1: false, base2: true, base3: false
+Score: 0-4
+
+Hiro Hakayawa: rng1 = 46 + 13 - 11 + 1 = 49
+rng2 = 42 + 11 - 5 + 1 = 49
+Lineout
+Team 1 pitcher (Noah Rosario): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [8,1], base3: false
+base1: false, base2: true, base3: false
+Score: 0-4
+
+Zachary Hughes: rng1 = 33 + 12 - 11 + 1 = 35
+rng2 = 85 + 15 - 5 + 1 = 96
+Flyout
+Team 1 pitcher (Noah Rosario): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Amante Harvey
+
+Chae Yongsun: rng1 = 53 + 10 - 12 - 1 = 50
+rng2 = 53 + 14 - 10 - 1 = 56
+Lineout
+Team 2 pitcher (Amante Harvey): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Eduardo Rasgado: rng1 = 4 + 7 - 12 - 1 = -2
+Strikeout
+Team 2 pitcher (Amante Harvey): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Abel Leoz: rng1 = 52 + 6 - 12 - 1 = 45
+rng2 = 5 + 9 - 10 - 1 = 3
+Groundout
+Team 2 pitcher (Amante Harvey): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Ripley Sjostrand
+
+Guillermo Tamayo: rng1 = 26 + 12 - 14 + 1 = 25
+Strikeout
+Team 1 pitcher (Ripley Sjostrand): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Alfredo Encarnacion: rng1 = 63 + 10 - 14 + 1 = 60
+rng2 = 2 + 12 - 11 + 1 = 4
+Groundout
+Team 1 pitcher (Ripley Sjostrand): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Micah Zamora: rng1 = 26 + 8 - 14 + 1 = 21
+Strikeout
+Team 1 pitcher (Ripley Sjostrand): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+TOP INNING 9
+
+Felipe Grimes: rng1 = 67 + 7 - 12 - 1 = 61
+rng2 = 51 + 8 - 10 - 1 = 48
+Lineout
+Team 2 pitcher (Amante Harvey): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Katagiri Seibei: rng1 = 95 + 6 - 12 - 1 = 88
+Walk
+Team 2 pitcher (Amante Harvey): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Romiro Hidalgo: rng1 = 39 + 5 - 12 - 1 = 31
+rng2 = 92 + 6 - 10 - 1 = 87
+Flyout
+Team 2 pitcher (Amante Harvey): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Irvin Brown: rng1 = 48 + 7 - 12 - 1 = 42
+rng2 = 77 + 4 - 10 - 1 = 70
+Flyout
+Team 2 pitcher (Amante Harvey): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 4
+Team 2 hits: 6
+Team 1 runs: 0
+Team 2 runs: 4
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-04-23
+Kim Bon-Shim	4	0	1	0	0	0	0	0	2					Portland
+Chae Yongsun	3	0	0	0	0	0	0	0	1	
+Eduardo Rasgado	4	0	1	0	0	0	0	0	1	
+Abel Leoz	4	0	0	0	0	0	0	0	2	
+Felipe Grimes	3	0	0	0	0	0	0	1	0	
+Katagiri Seibei	3	0	1	0	0	0	0	1	1	
+Romiro Hidalgo	4	0	0	0	0	0	0	0	0	
+Irvin Brown	3	0	0	0	0	0	0	1	0	
+Amir Gentry	3	0	1	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Douglas Porter	0	1	1	1	0	0	18	5	3	2	1	8	24	
+Noah Rosario	0	0	1	0	0	0	3	1	1	0	1	0	5	
+Ripley Sjostrand	0	0	1	0	0	0	3	0	0	0	0	2	3	
+Wayne Kelly	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Jensen Garrish	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-04-23
+Hiro Hakayawa	4	0	1	0	0	0	0	0	0					Denver
+Zachary Hughes	4	1	1	0	0	1	1	0	0	
+Guillermo Tamayo	3	0	0	0	0	0	0	1	2	
+Alfredo Encarnacion	4	1	0	0	0	0	0	0	1	
+Micah Zamora	4	1	1	0	0	1	2	0	3	
+Sean Stevens	3	0	0	0	0	0	0	0	1	
+Zyrell Ford	2	0	1	0	0	0	0	1	1	
+Felix Alarcón	3	1	1	0	0	0	0	0	1	
+Andy Kelley	3	0	1	1	0	0	1	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Angel Chavez	1	0	1	1	0	0	21	4	0	0	2	6	28	
+Amante Harvey	0	0	1	0	0	0	6	0	0	0	1	1	7	
+Lautaro Lain	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Jayden Cooper	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Marquis Haynes	0	0	0	0	0	0	0	0	0	0	0	0	0	

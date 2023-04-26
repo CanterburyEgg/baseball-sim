@@ -1,0 +1,788 @@
+TOP INNING 1
+
+Manuel Valdez: rng1 = 85 + 6 - 8 - 1 = 82
+rng2 = 42 + 8 - 9 - 1 = 40
+Single
+Team 2 pitcher (Ethan Scott): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Bobby King: rng1 = 78 + 7 - 8 - 1 = 76
+rng2 = 60 + 10 - 9 - 1 = 60
+Single
+Team 2 pitcher (Ethan Scott): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Joey Greer: rng1 = 56 + 5 - 8 - 1 = 52
+rng2 = 22 + 6 - 9 - 1 = 18
+Groundout
+Team 2 pitcher (Ethan Scott): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Jalen Walker: rng1 = 64 + 6 - 8 - 1 = 61
+rng2 = 12 + 6 - 9 - 1 = 8
+Groundout
+Team 2 pitcher (Ethan Scott): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Efrain Salas: rng1 = 46 + 5 - 8 - 1 = 42
+rng2 = 56 + 7 - 9 - 1 = 53
+Lineout
+Team 2 pitcher (Ethan Scott): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Jorge Donald: rng1 = 15 + 5 - 4 + 1 = 17
+Strikeout
+Team 1 pitcher (Travis Benson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Alex Diaz: rng1 = 35 + 15 - 4 + 1 = 47
+rng2 = 20 + 9 - 9 + 1 = 21
+Groundout
+Team 1 pitcher (Travis Benson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Booker Brown: rng1 = 64 + 8 - 4 + 1 = 69
+Walk
+Team 1 pitcher (Travis Benson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Richard Morris: rng1 = 16 + 9 - 4 + 1 = 22
+Strikeout
+Team 1 pitcher (Travis Benson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 2
+
+Jay Fleming: rng1 = 75 + 7 - 8 - 1 = 73
+rng2 = 58 + 9 - 9 - 1 = 57
+Single
+Team 2 pitcher (Ethan Scott): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Mike Rowe: rng1 = 49 + 7 - 8 - 1 = 47
+rng2 = 10 + 4 - 9 - 1 = 4
+Groundout
+Team 2 pitcher (Ethan Scott): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Antonio Alvarez: rng1 = 57 + 7 - 8 - 1 = 55
+rng2 = 55 + 5 - 9 - 1 = 50
+Lineout
+Team 2 pitcher (Ethan Scott): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Javarius Davis: rng1 = 100 + 6 - 4 + 1 = 103
+rng2 = 49 + 8 - 9 + 1 = 49
+Single
+Team 1 pitcher (Travis Benson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Esteban Obregón: rng1 = 54 + 7 - 4 + 1 = 58
+rng2 = 79 + 7 - 9 + 1 = 78
+Flyout
+Team 1 pitcher (Travis Benson): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Elijah Washington: rng1 = 12 + 4 - 4 + 1 = 13
+rng2 = 18 + 7 - 9 + 1 = 17
+Groundout
+Team 1 pitcher (Travis Benson): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 3
+
+Randy Phillips: rng1 = 9 + 4 - 8 - 1 = 4
+Strikeout
+Team 2 pitcher (Ethan Scott): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Manuel Valdez: rng1 = 47 + 6 - 8 - 1 = 44
+rng2 = 67 + 8 - 9 - 1 = 65
+Flyout
+Team 2 pitcher (Ethan Scott): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Bobby King: rng1 = 28 + 7 - 8 - 1 = 26
+Strikeout
+Team 2 pitcher (Ethan Scott): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Kyle Stewart: rng1 = 77 + 7 - 4 + 1 = 81
+rng2 = 54 + 6 - 9 + 1 = 52
+Single
+Team 1 pitcher (Travis Benson): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Patrick Cook: rng1 = 75 + 3 - 4 + 1 = 75
+rng2 = 13 + 6 - 9 + 1 = 11
+Single
+Team 1 pitcher (Travis Benson): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 0
+
+base1: [8,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Jorge Donald: rng1 = 60 + 5 - 4 + 1 = 62
+rng2 = 64 + 9 - 9 + 1 = 65
+Flyout
+Team 1 pitcher (Travis Benson): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Alex Diaz: rng1 = 6 + 15 - 4 + 1 = 18
+Strikeout
+Team 1 pitcher (Travis Benson): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Booker Brown: rng1 = 51 + 8 - 4 + 1 = 56
+rng2 = 6 + 3 - 9 + 1 = 1
+Groundout
+Team 1 pitcher (Travis Benson): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 4
+
+Joey Greer: rng1 = 36 + 5 - 8 - 1 = 32
+rng2 = 13 + 6 - 9 - 1 = 9
+Groundout
+Team 2 pitcher (Ethan Scott): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Jalen Walker: rng1 = 87 + 6 - 8 - 1 = 84
+rng2 = 21 + 6 - 9 - 1 = 17
+Single
+Team 2 pitcher (Ethan Scott): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Efrain Salas: rng1 = 30 + 5 - 8 - 1 = 26
+Strikeout
+Team 2 pitcher (Ethan Scott): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Jay Fleming: rng1 = 80 + 7 - 8 - 1 = 78
+rng2 = 84 + 9 - 9 - 1 = 83
+Home run
+Team 2 pitcher (Ethan Scott): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Mike Rowe: rng1 = 28 + 7 - 8 - 1 = 26
+Strikeout
+Team 2 pitcher (Ethan Scott): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Richard Morris: rng1 = 15 + 9 - 4 + 1 = 21
+Strikeout
+Team 1 pitcher (Travis Benson): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Javarius Davis: rng1 = 68 + 6 - 4 + 1 = 71
+Walk
+Team 1 pitcher (Travis Benson): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Esteban Obregón: rng1 = 86 + 7 - 4 + 1 = 90
+Walk
+Team 1 pitcher (Travis Benson): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 1
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-1
+
+Elijah Washington: rng1 = 37 + 4 - 4 + 1 = 38
+rng2 = 67 + 7 - 9 + 1 = 66
+Flyout
+Team 1 pitcher (Travis Benson): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 2
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-1
+
+Kyle Stewart: rng1 = 37 + 7 - 4 + 1 = 41
+rng2 = 41 + 6 - 9 + 1 = 39
+Groundout
+Team 1 pitcher (Travis Benson): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+TOP INNING 5
+
+Antonio Alvarez: rng1 = 75 + 7 - 8 - 1 = 73
+rng2 = 39 + 5 - 9 - 1 = 34
+Single
+Team 2 pitcher (Ethan Scott): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Randy Phillips: rng1 = 12 + 4 - 8 - 1 = 7
+Strikeout
+Team 2 pitcher (Ethan Scott): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Manuel Valdez: rng1 = 82 + 6 - 8 - 1 = 79
+rng2 = 58 + 8 - 9 - 1 = 56
+Single
+Team 2 pitcher (Ethan Scott): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 1
+
+base1: [0,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 3-1
+
+Bobby King: rng1 = 99 + 7 - 8 - 1 = 97
+rng2 = 32 + 10 - 9 - 1 = 32
+Single
+Team 2 pitcher (Ethan Scott): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 1
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 4-1
+
+Joey Greer: rng1 = 90 + 5 - 8 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Ethan Scott): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 1
+
+base1: [2,0], base2: [1,0], base3: [0,0]
+base1: true, base2: true, base3: true
+Score: 4-1
+
+Jalen Walker: rng1 = 65 + 6 - 8 - 1 = 62
+rng2 = 12 + 6 - 9 - 1 = 8
+Groundout
+Team 2 pitcher (Ethan Scott): 22 batters faced, 4 runs allowed = 22 + 10.0 = 32.0, outs: 2
+
+base1: [3,0], base2: [2,0], base3: [1,0]
+base1: true, base2: true, base3: true
+Score: 4-1
+
+Efrain Salas: rng1 = 89 + 5 - 8 - 1 = 85
+rng2 = 67 + 7 - 9 - 1 = 64
+Single
+Team 2 pitcher (Ethan Scott): 23 batters faced, 6 runs allowed = 23 + 15.0 = 38.0, outs: 2
+
+base1: [4,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 6-1
+
+Team 2 pitcher change to Uyehara Tanzan
+
+Jay Fleming: rng1 = 11 + 7 - 5 - 1 = 12
+rng2 = 96 + 9 - 5 - 1 = 99
+Flyout
+Team 2 pitcher (Uyehara Tanzan): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+BOTTOM INNING 5
+
+Patrick Cook: rng1 = 41 + 3 - 4 + 1 = 41
+rng2 = 20 + 6 - 9 + 1 = 18
+Groundout
+Team 1 pitcher (Travis Benson): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Jorge Donald: rng1 = 62 + 5 - 4 + 1 = 64
+rng2 = 92 + 9 - 9 + 1 = 93
+Flyout
+Team 1 pitcher (Travis Benson): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Alex Diaz: rng1 = 15 + 15 - 4 + 1 = 27
+Strikeout
+Team 1 pitcher (Travis Benson): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+TOP INNING 6
+
+Mike Rowe: rng1 = 57 + 7 - 5 - 1 = 58
+rng2 = 42 + 4 - 5 - 1 = 40
+Groundout
+Team 2 pitcher (Uyehara Tanzan): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Antonio Alvarez: rng1 = 28 + 7 - 5 - 1 = 29
+rng2 = 70 + 5 - 5 - 1 = 69
+Flyout
+Team 2 pitcher (Uyehara Tanzan): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Randy Phillips: rng1 = 44 + 4 - 5 - 1 = 42
+rng2 = 53 + 7 - 5 - 1 = 54
+Lineout
+Team 2 pitcher (Uyehara Tanzan): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+BOTTOM INNING 6
+
+Booker Brown: rng1 = 14 + 8 - 4 + 1 = 19
+Strikeout
+Team 1 pitcher (Travis Benson): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Richard Morris: rng1 = 20 + 9 - 4 + 1 = 26
+Strikeout
+Team 1 pitcher (Travis Benson): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Javarius Davis: rng1 = 28 + 6 - 4 + 1 = 31
+rng2 = 51 + 8 - 9 + 1 = 51
+Lineout
+Team 1 pitcher (Travis Benson): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+TOP INNING 7
+
+Manuel Valdez: rng1 = 3 + 6 - 5 - 1 = 3
+Strikeout
+Team 2 pitcher (Uyehara Tanzan): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Bobby King: rng1 = 28 + 7 - 5 - 1 = 29
+rng2 = 78 + 10 - 5 - 1 = 82
+Flyout
+Team 2 pitcher (Uyehara Tanzan): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Joey Greer: rng1 = 93 + 5 - 5 - 1 = 92
+rng2 = 50 + 6 - 5 - 1 = 50
+Single
+Team 2 pitcher (Uyehara Tanzan): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-1
+
+Jalen Walker: rng1 = 52 + 6 - 5 - 1 = 52
+rng2 = 63 + 6 - 5 - 1 = 63
+Flyout
+Team 2 pitcher (Uyehara Tanzan): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+BOTTOM INNING 7
+
+Esteban Obregón: rng1 = 36 + 7 - 4 + 1 = 40
+rng2 = 47 + 7 - 9 + 1 = 46
+Groundout
+Team 1 pitcher (Travis Benson): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Elijah Washington: rng1 = 65 + 4 - 4 + 1 = 66
+rng2 = 49 + 7 - 9 + 1 = 48
+Lineout
+Team 1 pitcher (Travis Benson): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Kyle Stewart: rng1 = 59 + 7 - 4 + 1 = 63
+rng2 = 49 + 6 - 9 + 1 = 47
+Groundout
+Team 1 pitcher (Travis Benson): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Gabriel Clark
+
+Efrain Salas: rng1 = 68 + 5 - 6 - 1 = 66
+rng2 = 80 + 7 - 7 - 1 = 79
+Flyout
+Team 2 pitcher (Gabriel Clark): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Jay Fleming: rng1 = 99 + 7 - 6 - 1 = 99
+rng2 = 81 + 9 - 7 - 1 = 82
+Home run
+Team 2 pitcher (Gabriel Clark): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-1
+
+Mike Rowe: rng1 = 82 + 7 - 6 - 1 = 82
+rng2 = 45 + 4 - 7 - 1 = 41
+Single
+Team 2 pitcher (Gabriel Clark): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-1
+
+Antonio Alvarez: rng1 = 37 + 7 - 6 - 1 = 37
+rng2 = 82 + 5 - 7 - 1 = 79
+Flyout
+Team 2 pitcher (Gabriel Clark): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-1
+
+Randy Phillips: rng1 = 73 + 4 - 6 - 1 = 70
+Walk
+Team 2 pitcher (Gabriel Clark): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [8,2], base2: [6,2], base3: false
+base1: true, base2: true, base3: false
+Score: 7-1
+
+Manuel Valdez: rng1 = 41 + 6 - 6 - 1 = 40
+rng2 = 82 + 8 - 7 - 1 = 82
+Flyout
+Team 2 pitcher (Gabriel Clark): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-1
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Robb Tremblay
+
+Patrick Cook: rng1 = 100 + 3 - 7 + 1 = 97
+rng2 = 49 + 6 - 4 + 1 = 52
+Single
+Team 1 pitcher (Robb Tremblay): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-1
+
+Jorge Donald: rng1 = 25 + 5 - 7 + 1 = 24
+Strikeout
+Team 1 pitcher (Robb Tremblay): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-1
+
+Alex Diaz: rng1 = 76 + 15 - 7 + 1 = 85
+rng2 = 28 + 9 - 4 + 1 = 34
+Single
+Team 1 pitcher (Robb Tremblay): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [1,1], base2: [8,1], base3: false
+base1: true, base2: true, base3: false
+Score: 7-1
+
+Booker Brown: rng1 = 58 + 8 - 7 + 1 = 60
+rng2 = 56 + 3 - 4 + 1 = 56
+Lineout
+Team 1 pitcher (Robb Tremblay): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [1,1], base2: [8,1], base3: false
+base1: true, base2: true, base3: false
+Score: 7-1
+
+Richard Morris: rng1 = 28 + 9 - 7 + 1 = 31
+rng2 = 50 + 3 - 4 + 1 = 50
+Lineout
+Team 1 pitcher (Robb Tremblay): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-1
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Jerry Taylor
+
+Bobby King: rng1 = 29 + 7 - 3 - 1 = 32
+rng2 = 68 + 10 - 4 - 1 = 73
+Flyout
+Team 2 pitcher (Jerry Taylor): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-1
+
+Joey Greer: rng1 = 99 + 5 - 3 - 1 = 100
+rng2 = 88 + 6 - 4 - 1 = 89
+Double
+Team 2 pitcher (Jerry Taylor): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [2,3], base3: false
+base1: false, base2: true, base3: false
+Score: 7-1
+
+Jalen Walker: rng1 = 39 + 6 - 3 - 1 = 41
+rng2 = 81 + 6 - 4 - 1 = 82
+Flyout
+Team 2 pitcher (Jerry Taylor): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [2,3], base3: false
+base1: false, base2: true, base3: false
+Score: 7-1
+
+Efrain Salas: rng1 = 95 + 5 - 3 - 1 = 96
+rng2 = 80 + 7 - 4 - 1 = 82
+Home run
+Team 2 pitcher (Jerry Taylor): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-1
+
+Jay Fleming: rng1 = 93 + 7 - 3 - 1 = 96
+rng2 = 9 + 9 - 4 - 1 = 13
+Single
+Team 2 pitcher (Jerry Taylor): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: [5,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-1
+
+Mike Rowe: rng1 = 88 + 7 - 3 - 1 = 91
+rng2 = 60 + 4 - 4 - 1 = 59
+Single
+Team 2 pitcher (Jerry Taylor): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: [6,3], base2: false, base3: [5,3]
+base1: true, base2: false, base3: true
+Score: 9-1
+
+Antonio Alvarez: rng1 = 27 + 7 - 3 - 1 = 30
+rng2 = 31 + 5 - 4 - 1 = 31
+Groundout
+Team 2 pitcher (Jerry Taylor): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-1
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Kangjon Kwang-Hyun
+
+Javarius Davis: rng1 = 54 + 6 - 6 + 1 = 55
+rng2 = 84 + 8 - 6 + 1 = 87
+Flyout
+Team 1 pitcher (Kangjon Kwang-Hyun): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-1
+
+Esteban Obregón: rng1 = 39 + 7 - 6 + 1 = 41
+rng2 = 8 + 7 - 6 + 1 = 10
+Groundout
+Team 1 pitcher (Kangjon Kwang-Hyun): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-1
+
+Elijah Washington: rng1 = 54 + 4 - 6 + 1 = 53
+rng2 = 73 + 7 - 6 + 1 = 75
+Flyout
+Team 1 pitcher (Kangjon Kwang-Hyun): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-1
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 16
+Team 2 hits: 5
+Team 1 runs: 9
+Team 2 runs: 1
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-04-26
+Manuel Valdez	5	1	2	0	0	0	0	0	1					Paris
+Bobby King	5	1	2	0	0	0	1	0	1	
+Joey Greer	4	2	2	1	0	0	1	0	0	
+Jalen Walker	5	1	1	0	0	0	0	0	0	
+Efrain Salas	5	1	2	0	0	1	4	0	1	
+Jay Fleming	5	2	4	0	0	2	3	0	0	
+Mike Rowe	5	0	2	0	0	0	0	0	1	
+Antonio Alvarez	5	1	1	0	0	0	0	0	0	
+Randy Phillips	3	0	0	0	0	0	0	1	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Travis Benson	1	0	1	1	0	0	21	3	1	0	3	7	26	
+Robb Tremblay	0	0	1	0	0	0	3	2	0	0	0	1	5	
+Kangjon Kwang-Hyun	0	0	1	0	0	0	3	0	0	0	0	0	3	
+Miguel Vega	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Nestor Cordero	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-04-26
+Jorge Donald	4	0	0	0	0	0	1	0	2					Tokyo
+Alex Diaz	4	0	1	0	0	0	0	0	2	
+Booker Brown	3	0	0	0	0	0	0	1	1	
+Richard Morris	4	0	0	0	0	0	0	0	3	
+Javarius Davis	3	0	1	0	0	0	0	1	0	
+Esteban Obregón	3	0	0	0	0	0	0	1	0	
+Elijah Washington	4	0	0	0	0	0	0	0	0	
+Kyle Stewart	3	1	1	0	0	0	0	0	0	
+Patrick Cook	3	0	2	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Ethan Scott	0	1	1	1	0	0	14	9	6	1	0	5	23	
+Uyehara Tanzan	0	0	1	0	0	0	7	1	0	0	0	1	8	
+Gabriel Clark	0	0	1	0	0	0	3	2	1	1	1	0	6	
+Jerry Taylor	0	0	1	0	0	0	3	4	2	1	0	0	7	
+Arthur Campbell	0	0	0	0	0	0	0	0	0	0	0	0	0	

@@ -1,0 +1,728 @@
+TOP INNING 1
+
+Byron Bartlett: rng1 = 7 + 15 - 5 - 1 = 16
+Strikeout
+Team 2 pitcher (Toby Harris): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Arturo Bellamy: rng1 = 89 + 13 - 5 - 1 = 96
+rng2 = 20 + 10 - 5 - 1 = 24
+Single
+Team 2 pitcher (Toby Harris): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Edmundo Pousa: rng1 = 27 + 13 - 5 - 1 = 34
+rng2 = 37 + 9 - 5 - 1 = 40
+Groundout
+Team 2 pitcher (Toby Harris): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Finnegan Maxwell: rng1 = 39 + 15 - 15 + 1 = 40
+rng2 = 11 + 15 - 15 + 1 = 12
+Groundout
+Team 1 pitcher (Raúl Pozo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Angel Gutiérrez: rng1 = 55 + 15 - 15 + 1 = 56
+rng2 = 66 + 12 - 15 + 1 = 64
+Flyout
+Team 1 pitcher (Raúl Pozo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Randy Carson: rng1 = 54 + 12 - 15 + 1 = 52
+rng2 = 56 + 11 - 15 + 1 = 53
+Lineout
+Team 1 pitcher (Raúl Pozo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Owen Williamson: rng1 = 90 + 6 - 5 - 1 = 90
+Walk
+Team 2 pitcher (Toby Harris): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Devoreaux Waters: rng1 = 40 + 8 - 5 - 1 = 42
+rng2 = 90 + 5 - 5 - 1 = 89
+Flyout
+Team 2 pitcher (Toby Harris): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Oscar Pierce: rng1 = 5 + 6 - 5 - 1 = 5
+Strikeout
+Team 2 pitcher (Toby Harris): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Fabián Sánchez: rng1 = 34 + 3 - 5 - 1 = 31
+rng2 = 93 + 8 - 5 - 1 = 95
+Flyout
+Team 2 pitcher (Toby Harris): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Nick Hamburger: rng1 = 56 + 12 - 15 + 1 = 54
+rng2 = 99 + 14 - 15 + 1 = 99
+Flyout
+Team 1 pitcher (Raúl Pozo): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Casey Myers-Morgan: rng1 = 77 + 10 - 15 + 1 = 73
+rng2 = 54 + 10 - 15 + 1 = 50
+Single
+Team 1 pitcher (Raúl Pozo): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Bailey Myers-Morgan: rng1 = 95 + 8 - 15 + 1 = 89
+Walk
+Team 1 pitcher (Raúl Pozo): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Emiliano Costa: rng1 = 37 + 8 - 15 + 1 = 31
+rng2 = 42 + 10 - 15 + 1 = 38
+Groundout
+Team 1 pitcher (Raúl Pozo): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Nakazawa Shinji: rng1 = 76 + 3 - 15 + 1 = 65
+rng2 = 20 + 7 - 15 + 1 = 13
+Groundout
+Team 1 pitcher (Raúl Pozo): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 3
+
+Chon Il-Seong: rng1 = 20 + 6 - 5 - 1 = 20
+Strikeout
+Team 2 pitcher (Toby Harris): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Rakkan Gaines: rng1 = 49 + 3 - 5 - 1 = 46
+rng2 = 95 + 5 - 5 - 1 = 94
+Flyout
+Team 2 pitcher (Toby Harris): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Byron Bartlett: rng1 = 75 + 15 - 5 - 1 = 84
+rng2 = 2 + 11 - 5 - 1 = 7
+Single
+Team 2 pitcher (Toby Harris): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Arturo Bellamy: rng1 = 26 + 13 - 5 - 1 = 33
+rng2 = 24 + 10 - 5 - 1 = 28
+Groundout
+Team 2 pitcher (Toby Harris): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+David Freixa: rng1 = 34 + 5 - 15 + 1 = 25
+Strikeout
+Team 1 pitcher (Raúl Pozo): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Finnegan Maxwell: rng1 = 36 + 15 - 15 + 1 = 37
+rng2 = 65 + 15 - 15 + 1 = 66
+Flyout
+Team 1 pitcher (Raúl Pozo): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Angel Gutiérrez: rng1 = 88 + 15 - 15 + 1 = 89
+Walk
+Team 1 pitcher (Raúl Pozo): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Randy Carson: rng1 = 81 + 12 - 15 + 1 = 79
+rng2 = 37 + 11 - 15 + 1 = 34
+Single
+Team 1 pitcher (Raúl Pozo): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 2
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Nick Hamburger: rng1 = 64 + 12 - 15 + 1 = 62
+rng2 = 45 + 14 - 15 + 1 = 45
+Groundout
+Team 1 pitcher (Raúl Pozo): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 4
+
+Edmundo Pousa: rng1 = 53 + 13 - 5 - 1 = 60
+rng2 = 82 + 9 - 5 - 1 = 85
+Flyout
+Team 2 pitcher (Toby Harris): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Owen Williamson: rng1 = 8 + 6 - 5 - 1 = 8
+Strikeout
+Team 2 pitcher (Toby Harris): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Devoreaux Waters: rng1 = 72 + 8 - 5 - 1 = 74
+rng2 = 17 + 5 - 5 - 1 = 16
+Single
+Team 2 pitcher (Toby Harris): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Oscar Pierce: rng1 = 78 + 6 - 5 - 1 = 78
+rng2 = 96 + 6 - 5 - 1 = 96
+Home run
+Team 2 pitcher (Toby Harris): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Fabián Sánchez: rng1 = 83 + 3 - 5 - 1 = 80
+rng2 = 92 + 8 - 5 - 1 = 94
+Home run
+Team 2 pitcher (Toby Harris): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Chon Il-Seong: rng1 = 98 + 6 - 5 - 1 = 98
+rng2 = 99 + 3 - 5 - 1 = 96
+Home run
+Team 2 pitcher (Toby Harris): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Rakkan Gaines: rng1 = 74 + 3 - 5 - 1 = 71
+Walk
+Team 2 pitcher (Toby Harris): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Byron Bartlett: rng1 = 67 + 15 - 5 - 1 = 76
+rng2 = 76 + 11 - 5 - 1 = 81
+Home run
+Team 2 pitcher (Toby Harris): 19 batters faced, 6 runs allowed = 19 + 15.0 = 34.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-0
+
+Arturo Bellamy: rng1 = 77 + 13 - 5 - 1 = 84
+rng2 = 4 + 10 - 5 - 1 = 8
+Single
+Team 2 pitcher (Toby Harris): 20 batters faced, 6 runs allowed = 20 + 15.0 = 35.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-0
+
+Team 2 pitcher change to Sergio Narvaez
+
+Edmundo Pousa: rng1 = 4 + 13 - 11 - 1 = 5
+Strikeout
+Team 2 pitcher (Sergio Narvaez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-0
+
+-----------------------
+
+BOTTOM INNING 4
+
+Casey Myers-Morgan: rng1 = 47 + 10 - 15 + 1 = 43
+rng2 = 66 + 10 - 15 + 1 = 62
+Flyout
+Team 1 pitcher (Raúl Pozo): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-0
+
+Bailey Myers-Morgan: rng1 = 61 + 8 - 15 + 1 = 55
+rng2 = 40 + 11 - 15 + 1 = 37
+Groundout
+Team 1 pitcher (Raúl Pozo): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-0
+
+Emiliano Costa: rng1 = 18 + 8 - 15 + 1 = 12
+rng2 = 30 + 10 - 15 + 1 = 26
+Groundout
+Team 1 pitcher (Raúl Pozo): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-0
+
+-----------------------
+
+TOP INNING 5
+
+Owen Williamson: rng1 = 23 + 6 - 11 - 1 = 17
+Strikeout
+Team 2 pitcher (Sergio Narvaez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-0
+
+Devoreaux Waters: rng1 = 73 + 8 - 11 - 1 = 69
+Walk
+Team 2 pitcher (Sergio Narvaez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-0
+
+Oscar Pierce: rng1 = 37 + 6 - 11 - 1 = 31
+rng2 = 39 + 6 - 12 - 1 = 32
+Groundout
+Team 2 pitcher (Sergio Narvaez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-0
+
+-----------------------
+
+BOTTOM INNING 5
+
+Nakazawa Shinji: rng1 = 69 + 3 - 15 + 1 = 58
+rng2 = 37 + 7 - 15 + 1 = 30
+Groundout
+Team 1 pitcher (Raúl Pozo): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-0
+
+David Freixa: rng1 = 27 + 5 - 15 + 1 = 18
+Strikeout
+Team 1 pitcher (Raúl Pozo): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-0
+
+Finnegan Maxwell: rng1 = 78 + 15 - 15 + 1 = 79
+rng2 = 48 + 15 - 15 + 1 = 49
+Single
+Team 1 pitcher (Raúl Pozo): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-0
+
+Angel Gutiérrez: rng1 = 31 + 15 - 15 + 1 = 32
+rng2 = 81 + 12 - 15 + 1 = 79
+Flyout
+Team 1 pitcher (Raúl Pozo): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-0
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Douglas Bosak
+
+Fabián Sánchez: rng1 = 68 + 3 - 7 - 1 = 63
+rng2 = 75 + 8 - 7 - 1 = 75
+Flyout
+Team 2 pitcher (Douglas Bosak): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-0
+
+Chon Il-Seong: rng1 = 20 + 6 - 7 - 1 = 18
+Strikeout
+Team 2 pitcher (Douglas Bosak): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-0
+
+Rakkan Gaines: rng1 = 59 + 3 - 7 - 1 = 54
+rng2 = 55 + 5 - 7 - 1 = 52
+Lineout
+Team 2 pitcher (Douglas Bosak): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-0
+
+-----------------------
+
+BOTTOM INNING 6
+
+Randy Carson: rng1 = 33 + 12 - 15 + 1 = 31
+rng2 = 81 + 11 - 15 + 1 = 78
+Flyout
+Team 1 pitcher (Raúl Pozo): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-0
+
+Nick Hamburger: rng1 = 32 + 12 - 15 + 1 = 30
+rng2 = 87 + 14 - 15 + 1 = 87
+Flyout
+Team 1 pitcher (Raúl Pozo): 22 batters faced, 0 runs allowed = 22 + 0.0 = 22.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-0
+
+Casey Myers-Morgan: rng1 = 88 + 10 - 15 + 1 = 84
+rng2 = 24 + 10 - 15 + 1 = 20
+Single
+Team 1 pitcher (Raúl Pozo): 23 batters faced, 0 runs allowed = 23 + 0.0 = 23.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-0
+
+Bailey Myers-Morgan: rng1 = 29 + 8 - 15 + 1 = 23
+Strikeout
+Team 1 pitcher (Raúl Pozo): 24 batters faced, 0 runs allowed = 24 + 0.0 = 24.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-0
+
+-----------------------
+
+TOP INNING 7
+
+Byron Bartlett: rng1 = 21 + 15 - 7 - 1 = 28
+rng2 = 71 + 11 - 7 - 1 = 74
+Flyout
+Team 2 pitcher (Douglas Bosak): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-0
+
+Arturo Bellamy: rng1 = 85 + 13 - 7 - 1 = 90
+Walk
+Team 2 pitcher (Douglas Bosak): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-0
+
+Edmundo Pousa: rng1 = 57 + 13 - 7 - 1 = 62
+rng2 = 74 + 9 - 7 - 1 = 75
+Flyout
+Team 2 pitcher (Douglas Bosak): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-0
+
+Owen Williamson: rng1 = 99 + 6 - 7 - 1 = 97
+rng2 = 71 + 8 - 7 - 1 = 71
+Double
+Team 2 pitcher (Douglas Bosak): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: [3,2], base3: [1,2]
+base1: false, base2: true, base3: true
+Score: 6-0
+
+Devoreaux Waters: rng1 = 42 + 8 - 7 - 1 = 42
+rng2 = 95 + 5 - 7 - 1 = 92
+Flyout
+Team 2 pitcher (Douglas Bosak): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-0
+
+-----------------------
+
+BOTTOM INNING 7
+
+Emiliano Costa: rng1 = 46 + 8 - 15 + 1 = 40
+rng2 = 64 + 10 - 15 + 1 = 60
+Flyout
+Team 1 pitcher (Raúl Pozo): 25 batters faced, 0 runs allowed = 25 + 0.0 = 25.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-0
+
+Nakazawa Shinji: rng1 = 65 + 3 - 15 + 1 = 54
+rng2 = 60 + 7 - 15 + 1 = 53
+Lineout
+Team 1 pitcher (Raúl Pozo): 26 batters faced, 0 runs allowed = 26 + 0.0 = 26.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-0
+
+David Freixa: rng1 = 17 + 5 - 15 + 1 = 8
+Strikeout
+Team 1 pitcher (Raúl Pozo): 27 batters faced, 0 runs allowed = 27 + 0.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-0
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Armando Negron
+
+Oscar Pierce: rng1 = 46 + 6 - 8 - 1 = 43
+rng2 = 87 + 6 - 5 - 1 = 87
+Flyout
+Team 2 pitcher (Armando Negron): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-0
+
+Fabián Sánchez: rng1 = 16 + 3 - 8 - 1 = 10
+Strikeout
+Team 2 pitcher (Armando Negron): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-0
+
+Chon Il-Seong: rng1 = 36 + 6 - 8 - 1 = 33
+rng2 = 86 + 3 - 5 - 1 = 83
+Flyout
+Team 2 pitcher (Armando Negron): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-0
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Brady Goodman
+
+Finnegan Maxwell: rng1 = 1 + 15 - 14 + 1 = 3
+Strikeout
+Team 1 pitcher (Brady Goodman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-0
+
+Angel Gutiérrez: rng1 = 98 + 15 - 14 + 1 = 100
+rng2 = 26 + 12 - 14 + 1 = 25
+Single
+Team 1 pitcher (Brady Goodman): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-0
+
+Randy Carson: rng1 = 29 + 12 - 14 + 1 = 28
+rng2 = 44 + 11 - 14 + 1 = 42
+Groundout
+Team 1 pitcher (Brady Goodman): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-0
+
+-----------------------
+
+TOP INNING 9
+
+Rakkan Gaines: rng1 = 6 + 3 - 8 - 1 = 0
+Strikeout
+Team 2 pitcher (Armando Negron): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-0
+
+Byron Bartlett: rng1 = 54 + 15 - 8 - 1 = 60
+rng2 = 87 + 11 - 5 - 1 = 92
+Flyout
+Team 2 pitcher (Armando Negron): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-0
+
+Arturo Bellamy: rng1 = 12 + 13 - 8 - 1 = 16
+Strikeout
+Team 2 pitcher (Armando Negron): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-0
+
+-----------------------
+
+BOTTOM INNING 9
+
+Nick Hamburger: rng1 = 71 + 12 - 14 + 1 = 70
+Walk
+Team 1 pitcher (Brady Goodman): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-0
+
+Casey Myers-Morgan: rng1 = 55 + 10 - 14 + 1 = 52
+rng2 = 91 + 10 - 14 + 1 = 88
+Flyout
+Team 1 pitcher (Brady Goodman): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-0
+
+Bailey Myers-Morgan: rng1 = 57 + 8 - 14 + 1 = 52
+rng2 = 80 + 11 - 14 + 1 = 78
+Flyout
+Team 1 pitcher (Brady Goodman): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-0
+
+Emiliano Costa: rng1 = 4 + 8 - 14 + 1 = -1
+Strikeout
+Team 1 pitcher (Brady Goodman): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-0
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 9
+Team 2 hits: 5
+Team 1 runs: 6
+Team 2 runs: 0
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-04-27
+Byron Bartlett	5	1	2	0	0	1	2	0	1					New Orleans
+Arturo Bellamy	4	0	2	0	0	0	0	1	1	
+Edmundo Pousa	4	0	0	0	0	0	0	0	1	
+Owen Williamson	3	0	1	1	0	0	0	1	2	
+Devoreaux Waters	3	1	1	0	0	0	0	1	0	
+Oscar Pierce	4	1	1	0	0	1	2	0	1	
+Fabián Sánchez	4	1	1	0	0	1	1	0	1	
+Chon Il-Seong	4	1	1	0	0	1	1	0	2	
+Rakkan Gaines	3	1	0	0	0	0	0	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Raúl Pozo	1	0	1	1	0	0	21	4	0	0	2	4	27	
+Brady Goodman	0	0	1	0	0	0	6	1	0	0	1	2	7	
+Kione Andrews	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Tamashiro Genjo	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Antonio McMillan	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-04-27
+Finnegan Maxwell	4	0	1	0	0	0	0	0	1					Dallas
+Angel Gutiérrez	3	0	1	0	0	0	0	1	0	
+Randy Carson	4	0	1	0	0	0	0	0	0	
+Nick Hamburger	3	0	0	0	0	0	0	1	0	
+Casey Myers-Morgan	4	0	2	0	0	0	0	0	0	
+Bailey Myers-Morgan	3	0	0	0	0	0	0	1	1	
+Emiliano Costa	4	0	0	0	0	0	0	0	1	
+Nakazawa Shinji	3	0	0	0	0	0	0	0	0	
+David Freixa	3	0	0	0	0	0	0	0	3	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Toby Harris	0	1	1	1	0	0	11	8	6	4	2	4	20	
+Sergio Narvaez	0	0	1	0	0	0	4	0	0	0	1	2	4	
+Douglas Bosak	0	0	1	0	0	0	6	1	0	0	1	1	8	
+Armando Negron	0	0	1	0	0	0	6	0	0	0	0	3	6	
+Seno Mashiro	0	0	0	0	0	0	0	0	0	0	0	0	0	

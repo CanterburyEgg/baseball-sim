@@ -1,0 +1,820 @@
+TOP INNING 1
+
+Aaron Garcia: rng1 = 51 + 14 - 6 - 1 = 58
+rng2 = 10 + 11 - 4 - 1 = 16
+Groundout
+Team 2 pitcher (Jose Rojas): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Tyler Sanders: rng1 = 34 + 14 - 6 - 1 = 41
+rng2 = 75 + 10 - 4 - 1 = 80
+Flyout
+Team 2 pitcher (Jose Rojas): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Mark Mullins: rng1 = 58 + 7 - 6 - 1 = 58
+rng2 = 81 + 8 - 4 - 1 = 84
+Flyout
+Team 2 pitcher (Jose Rojas): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Whalen Tate: rng1 = 77 + 8 - 11 + 1 = 75
+rng2 = 80 + 13 - 9 + 1 = 85
+Home run
+Team 1 pitcher (Zach Jackson): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Duante Jones: rng1 = 23 + 6 - 11 + 1 = 19
+Strikeout
+Team 1 pitcher (Zach Jackson): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Dan Robertson: rng1 = 24 + 6 - 11 + 1 = 20
+Strikeout
+Team 1 pitcher (Zach Jackson): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+David Hunter: rng1 = 60 + 10 - 11 + 1 = 60
+rng2 = 80 + 11 - 9 + 1 = 83
+Flyout
+Team 1 pitcher (Zach Jackson): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 2
+
+Anthony Bennett: rng1 = 20 + 14 - 6 - 1 = 27
+Strikeout
+Team 2 pitcher (Jose Rojas): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Eugene Bryant: rng1 = 98 + 7 - 6 - 1 = 98
+rng2 = 73 + 10 - 4 - 1 = 78
+Triple
+Team 2 pitcher (Jose Rojas): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: [4,0]
+base1: false, base2: false, base3: true
+Score: 0-1
+
+Kugo Tadayuki: rng1 = 88 + 9 - 6 - 1 = 90
+Walk
+Team 2 pitcher (Jose Rojas): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 0-1
+
+Joshua Marsh: rng1 = 77 + 5 - 6 - 1 = 75
+rng2 = 2 + 9 - 4 - 1 = 6
+Single
+Team 2 pitcher (Jose Rojas): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Stephen Gray: rng1 = 28 + 4 - 6 - 1 = 25
+Strikeout
+Team 2 pitcher (Jose Rojas): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Oscar Hernandez: rng1 = 21 + 3 - 6 - 1 = 17
+Strikeout
+Team 2 pitcher (Jose Rojas): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Francis Alford: rng1 = 87 + 5 - 11 + 1 = 82
+rng2 = 39 + 9 - 9 + 1 = 40
+Single
+Team 1 pitcher (Zach Jackson): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Logan Chambers: rng1 = 56 + 10 - 11 + 1 = 56
+rng2 = 51 + 5 - 9 + 1 = 48
+Lineout
+Team 1 pitcher (Zach Jackson): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Julian Alvarado: rng1 = 8 + 3 - 11 + 1 = 1
+Strikeout
+Team 1 pitcher (Zach Jackson): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Alan Kennedy: rng1 = 1 + 5 - 11 + 1 = -4
+Strikeout
+Team 1 pitcher (Zach Jackson): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 3
+
+Aaron Garcia: rng1 = 2 + 14 - 6 - 1 = 9
+Strikeout
+Team 2 pitcher (Jose Rojas): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Tyler Sanders: rng1 = 93 + 14 - 6 - 1 = 100
+rng2 = 70 + 10 - 4 - 1 = 75
+Double
+Team 2 pitcher (Jose Rojas): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Mark Mullins: rng1 = 83 + 7 - 6 - 1 = 83
+rng2 = 21 + 8 - 4 - 1 = 24
+Single
+Team 2 pitcher (Jose Rojas): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Anthony Bennett: rng1 = 94 + 14 - 6 - 1 = 101
+rng2 = 34 + 9 - 4 - 1 = 38
+Single
+Team 2 pitcher (Jose Rojas): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 1
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-1
+
+Eugene Bryant: rng1 = 48 + 7 - 6 - 1 = 48
+rng2 = 48 + 10 - 4 - 1 = 53
+Lineout
+Team 2 pitcher (Jose Rojas): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 2
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-1
+
+Kugo Tadayuki: rng1 = 66 + 9 - 6 - 1 = 68
+rng2 = 99 + 6 - 4 - 1 = 100
+Flyout
+Team 2 pitcher (Jose Rojas): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Cory Vance: rng1 = 59 + 7 - 11 + 1 = 56
+rng2 = 48 + 6 - 9 + 1 = 46
+Groundout
+Team 1 pitcher (Zach Jackson): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Whalen Tate: rng1 = 2 + 8 - 11 + 1 = 0
+Strikeout
+Team 1 pitcher (Zach Jackson): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Duante Jones: rng1 = 46 + 6 - 11 + 1 = 42
+rng2 = 39 + 11 - 9 + 1 = 42
+Groundout
+Team 1 pitcher (Zach Jackson): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+TOP INNING 4
+
+Joshua Marsh: rng1 = 68 + 5 - 6 - 1 = 66
+rng2 = 61 + 9 - 4 - 1 = 65
+Flyout
+Team 2 pitcher (Jose Rojas): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Stephen Gray: rng1 = 66 + 4 - 6 - 1 = 63
+rng2 = 46 + 7 - 4 - 1 = 48
+Lineout
+Team 2 pitcher (Jose Rojas): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Oscar Hernandez: rng1 = 90 + 3 - 6 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Jose Rojas): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Aaron Garcia: rng1 = 36 + 14 - 6 - 1 = 43
+rng2 = 89 + 11 - 4 - 1 = 95
+Flyout
+Team 2 pitcher (Jose Rojas): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Dan Robertson: rng1 = 68 + 6 - 11 + 1 = 64
+rng2 = 33 + 11 - 9 + 1 = 36
+Groundout
+Team 1 pitcher (Zach Jackson): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+David Hunter: rng1 = 88 + 10 - 11 + 1 = 88
+Walk
+Team 1 pitcher (Zach Jackson): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Francis Alford: rng1 = 83 + 5 - 11 + 1 = 78
+rng2 = 64 + 9 - 9 + 1 = 65
+Double
+Team 1 pitcher (Zach Jackson): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 1
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-2
+
+Logan Chambers: rng1 = 74 + 10 - 11 + 1 = 74
+rng2 = 90 + 5 - 9 + 1 = 87
+Double
+Team 1 pitcher (Zach Jackson): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 1
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-3
+
+Julian Alvarado: rng1 = 75 + 3 - 11 + 1 = 68
+rng2 = 8 + 6 - 9 + 1 = 6
+Groundout
+Team 1 pitcher (Zach Jackson): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 2
+
+base1: false, base2: false, base3: [5,0]
+base1: false, base2: false, base3: true
+Score: 2-3
+
+Alan Kennedy: rng1 = 68 + 5 - 11 + 1 = 63
+rng2 = 65 + 8 - 9 + 1 = 65
+Flyout
+Team 1 pitcher (Zach Jackson): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+TOP INNING 5
+
+Tyler Sanders: rng1 = 12 + 14 - 6 - 1 = 19
+Strikeout
+Team 2 pitcher (Jose Rojas): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Mark Mullins: rng1 = 50 + 7 - 6 - 1 = 50
+rng2 = 78 + 8 - 4 - 1 = 81
+Flyout
+Team 2 pitcher (Jose Rojas): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Anthony Bennett: rng1 = 29 + 14 - 6 - 1 = 36
+rng2 = 49 + 9 - 4 - 1 = 53
+Lineout
+Team 2 pitcher (Jose Rojas): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+BOTTOM INNING 5
+
+Cory Vance: rng1 = 9 + 7 - 11 + 1 = 6
+Strikeout
+Team 1 pitcher (Zach Jackson): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Whalen Tate: rng1 = 93 + 8 - 11 + 1 = 91
+rng2 = 36 + 13 - 9 + 1 = 41
+Single
+Team 1 pitcher (Zach Jackson): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-3
+
+Duante Jones: rng1 = 94 + 6 - 11 + 1 = 90
+Walk
+Team 1 pitcher (Zach Jackson): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 1
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-3
+
+Dan Robertson: rng1 = 15 + 6 - 11 + 1 = 11
+rng2 = 1 + 11 - 9 + 1 = 4
+Groundout
+Team 1 pitcher (Zach Jackson): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+TOP INNING 6
+
+Eugene Bryant: rng1 = 45 + 7 - 6 - 1 = 45
+rng2 = 99 + 10 - 4 - 1 = 104
+Flyout
+Team 2 pitcher (Jose Rojas): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Kugo Tadayuki: rng1 = 83 + 9 - 6 - 1 = 85
+rng2 = 3 + 6 - 4 - 1 = 4
+Single
+Team 2 pitcher (Jose Rojas): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-3
+
+Joshua Marsh: rng1 = 100 + 5 - 6 - 1 = 98
+rng2 = 31 + 9 - 4 - 1 = 35
+Single
+Team 2 pitcher (Jose Rojas): 25 batters faced, 2 runs allowed = 25 + 5.0 = 30.0, outs: 1
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-3
+
+Stephen Gray: rng1 = 9 + 4 - 6 - 1 = 6
+Strikeout
+Team 2 pitcher (Jose Rojas): 26 batters faced, 2 runs allowed = 26 + 5.0 = 31.0, outs: 2
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-3
+
+Oscar Hernandez: rng1 = 66 + 3 - 6 - 1 = 62
+rng2 = 6 + 7 - 4 - 1 = 8
+Groundout
+Team 2 pitcher (Jose Rojas): 27 batters faced, 2 runs allowed = 27 + 5.0 = 32.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Finn Sachse
+
+David Hunter: rng1 = 15 + 10 - 8 + 1 = 18
+Strikeout
+Team 1 pitcher (Finn Sachse): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Francis Alford: rng1 = 52 + 5 - 8 + 1 = 50
+rng2 = 8 + 9 - 8 + 1 = 10
+Groundout
+Team 1 pitcher (Finn Sachse): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Logan Chambers: rng1 = 76 + 10 - 8 + 1 = 79
+rng2 = 48 + 5 - 8 + 1 = 46
+Single
+Team 1 pitcher (Finn Sachse): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-3
+
+Julian Alvarado: rng1 = 17 + 3 - 8 + 1 = 13
+rng2 = 50 + 6 - 8 + 1 = 49
+Lineout
+Team 1 pitcher (Finn Sachse): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Thiago Ortiz
+
+Aaron Garcia: rng1 = 92 + 14 - 11 - 1 = 94
+rng2 = 60 + 11 - 12 - 1 = 58
+Single
+Team 2 pitcher (Thiago Ortiz): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-3
+
+Tyler Sanders: rng1 = 57 + 14 - 11 - 1 = 59
+rng2 = 24 + 10 - 12 - 1 = 21
+Groundout
+Team 2 pitcher (Thiago Ortiz): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [0,1], base3: false
+base1: false, base2: true, base3: false
+Score: 2-3
+
+Mark Mullins: rng1 = 98 + 7 - 11 - 1 = 93
+rng2 = 68 + 8 - 12 - 1 = 63
+Single
+Team 2 pitcher (Thiago Ortiz): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Anthony Bennett: rng1 = 73 + 14 - 11 - 1 = 75
+rng2 = 15 + 9 - 12 - 1 = 11
+Single
+Team 2 pitcher (Thiago Ortiz): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [3,1], base2: false, base3: [2,1]
+base1: true, base2: false, base3: true
+Score: 3-3
+
+Eugene Bryant: rng1 = 30 + 7 - 11 - 1 = 25
+Strikeout
+Team 2 pitcher (Thiago Ortiz): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [3,1], base2: false, base3: [2,1]
+base1: true, base2: false, base3: true
+Score: 3-3
+
+Kugo Tadayuki: rng1 = 87 + 9 - 11 - 1 = 84
+rng2 = 100 + 6 - 12 - 1 = 93
+Triple
+Team 2 pitcher (Thiago Ortiz): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: false, base2: false, base3: [5,1]
+base1: false, base2: false, base3: true
+Score: 5-3
+
+Team 2 pitcher change to Aaron Hall
+
+Joshua Marsh: rng1 = 74 + 5 - 9 - 1 = 69
+Walk
+Team 2 pitcher (Aaron Hall): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [6,2], base2: false, base3: [5,1]
+base1: true, base2: false, base3: true
+Score: 5-3
+
+Stephen Gray: rng1 = 43 + 4 - 9 - 1 = 37
+rng2 = 18 + 7 - 9 - 1 = 15
+Groundout
+Team 2 pitcher (Aaron Hall): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+BOTTOM INNING 7
+
+Alan Kennedy: rng1 = 17 + 5 - 8 + 1 = 15
+rng2 = 96 + 8 - 8 + 1 = 97
+Flyout
+Team 1 pitcher (Finn Sachse): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Cory Vance: rng1 = 62 + 7 - 8 + 1 = 62
+rng2 = 71 + 6 - 8 + 1 = 70
+Flyout
+Team 1 pitcher (Finn Sachse): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Whalen Tate: rng1 = 89 + 8 - 8 + 1 = 90
+Walk
+Team 1 pitcher (Finn Sachse): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-3
+
+Duante Jones: rng1 = 62 + 6 - 8 + 1 = 61
+rng2 = 59 + 11 - 8 + 1 = 63
+Flyout
+Team 1 pitcher (Finn Sachse): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+TOP INNING 8
+
+Oscar Hernandez: rng1 = 53 + 3 - 9 - 1 = 46
+rng2 = 36 + 7 - 9 - 1 = 33
+Groundout
+Team 2 pitcher (Aaron Hall): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Aaron Garcia: rng1 = 42 + 14 - 9 - 1 = 46
+rng2 = 40 + 11 - 9 - 1 = 41
+Groundout
+Team 2 pitcher (Aaron Hall): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Tyler Sanders: rng1 = 75 + 14 - 9 - 1 = 79
+rng2 = 68 + 10 - 9 - 1 = 68
+Double
+Team 2 pitcher (Aaron Hall): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: [1,2], base3: false
+base1: false, base2: true, base3: false
+Score: 5-3
+
+Mark Mullins: rng1 = 83 + 7 - 9 - 1 = 80
+rng2 = 13 + 8 - 9 - 1 = 11
+Single
+Team 2 pitcher (Aaron Hall): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-3
+
+Anthony Bennett: rng1 = 80 + 14 - 9 - 1 = 84
+rng2 = 21 + 9 - 9 - 1 = 20
+Single
+Team 2 pitcher (Aaron Hall): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: [3,2], base2: false, base3: [2,2]
+base1: true, base2: false, base3: true
+Score: 6-3
+
+Eugene Bryant: rng1 = 23 + 7 - 9 - 1 = 20
+Strikeout
+Team 2 pitcher (Aaron Hall): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-3
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Dennis Lee
+
+Dan Robertson: rng1 = 10 + 6 - 9 + 1 = 8
+Strikeout
+Team 1 pitcher (Dennis Lee): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+David Hunter: rng1 = 10 + 10 - 9 + 1 = 12
+rng2 = 33 + 11 - 9 + 1 = 36
+Groundout
+Team 1 pitcher (Dennis Lee): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Francis Alford: rng1 = 4 + 5 - 9 + 1 = 1
+Strikeout
+Team 1 pitcher (Dennis Lee): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-3
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Rory Cunningham
+
+Kugo Tadayuki: rng1 = 80 + 9 - 8 - 1 = 80
+rng2 = 2 + 6 - 7 - 1 = 0
+Single
+Team 2 pitcher (Rory Cunningham): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [5,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-3
+
+Joshua Marsh: rng1 = 15 + 5 - 8 - 1 = 11
+rng2 = 41 + 9 - 7 - 1 = 42
+Groundout
+Team 2 pitcher (Rory Cunningham): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [5,3], base3: false
+base1: false, base2: true, base3: false
+Score: 6-3
+
+Stephen Gray: rng1 = 73 + 4 - 8 - 1 = 68
+rng2 = 95 + 7 - 7 - 1 = 94
+Flyout
+Team 2 pitcher (Rory Cunningham): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [5,3], base3: false
+base1: false, base2: true, base3: false
+Score: 6-3
+
+Oscar Hernandez: rng1 = 16 + 3 - 8 - 1 = 10
+Strikeout
+Team 2 pitcher (Rory Cunningham): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-3
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Josh Harris
+
+Logan Chambers: rng1 = 87 + 10 - 15 + 1 = 83
+rng2 = 48 + 5 - 16 + 1 = 38
+Single
+Team 1 pitcher (Josh Harris): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [5,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-3
+
+Julian Alvarado: rng1 = 85 + 3 - 15 + 1 = 74
+rng2 = 83 + 6 - 16 + 1 = 74
+Double
+Team 1 pitcher (Josh Harris): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: false, base2: [6,4], base3: [5,4]
+base1: false, base2: true, base3: true
+Score: 6-3
+
+Alan Kennedy: rng1 = 59 + 5 - 15 + 1 = 50
+rng2 = 55 + 8 - 16 + 1 = 48
+Lineout
+Team 1 pitcher (Josh Harris): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: [6,4], base3: [5,4]
+base1: false, base2: true, base3: true
+Score: 6-3
+
+Cory Vance: rng1 = 14 + 7 - 15 + 1 = 7
+Strikeout
+Team 1 pitcher (Josh Harris): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: [6,4], base3: [5,4]
+base1: false, base2: true, base3: true
+Score: 6-3
+
+Whalen Tate: rng1 = 47 + 8 - 15 + 1 = 41
+rng2 = 19 + 13 - 16 + 1 = 17
+Groundout
+Team 1 pitcher (Josh Harris): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-3
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 15
+Team 2 hits: 8
+Team 1 runs: 6
+Team 2 runs: 3
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-04-28
+Aaron Garcia	5	1	1	0	0	0	0	0	1					Nashville
+Tyler Sanders	5	2	2	2	0	0	0	0	1	
+Mark Mullins	5	1	3	0	0	0	3	0	0	
+Anthony Bennett	5	1	3	0	0	0	0	0	1	
+Eugene Bryant	5	1	1	0	1	0	0	0	2	
+Kugo Tadayuki	4	0	3	0	1	0	2	1	0	
+Joshua Marsh	4	0	2	0	0	0	1	1	0	
+Stephen Gray	5	0	0	0	0	0	0	0	2	
+Oscar Hernandez	4	0	0	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Zach Jackson	0	0	1	1	0	0	15	5	3	1	2	6	21	
+Finn Sachse	1	0	1	0	0	0	6	1	0	0	1	1	8	
+Dennis Lee	0	0	1	0	0	0	3	0	0	0	0	2	3	
+Chester Fields	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Josh Harris	0	0	1	0	1	1	3	2	0	0	0	1	5	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-04-28
+Whalen Tate	4	1	2	0	0	1	1	1	1					New Haven
+Duante Jones	3	0	0	0	0	0	0	1	1	
+Dan Robertson	4	0	0	0	0	0	0	0	2	
+David Hunter	3	1	0	0	0	0	0	1	1	
+Francis Alford	4	1	2	1	0	0	1	0	1	
+Logan Chambers	4	0	3	1	0	0	1	0	0	
+Julian Alvarado	4	0	1	1	0	0	0	0	1	
+Alan Kennedy	4	0	0	0	0	0	0	0	1	
+Cory Vance	4	0	0	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Jose Rojas	0	0	1	1	0	0	18	7	2	0	1	6	27	
+Thiago Ortiz	0	1	1	0	0	0	2	4	3	0	0	1	6	
+Aaron Hall	0	0	1	0	0	0	4	3	1	0	1	1	8	
+Rory Cunningham	0	0	1	0	0	0	3	1	0	0	0	1	4	
+Emilio Aguilar	0	0	0	0	0	0	0	0	0	0	0	0	0	

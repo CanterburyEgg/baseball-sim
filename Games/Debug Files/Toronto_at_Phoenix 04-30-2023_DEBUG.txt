@@ -1,0 +1,788 @@
+TOP INNING 1
+
+Isaac Morris: rng1 = 94 + 15 - 10 - 1 = 98
+rng2 = 22 + 15 - 11 - 1 = 25
+Single
+Team 2 pitcher (Dirk-Jan Heeten): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Yorell Harmon: rng1 = 99 + 15 - 10 - 1 = 103
+rng2 = 36 + 15 - 11 - 1 = 39
+Single
+Team 2 pitcher (Dirk-Jan Heeten): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Angel Semprún: rng1 = 73 + 13 - 10 - 1 = 75
+rng2 = 21 + 9 - 11 - 1 = 18
+Single
+Team 2 pitcher (Dirk-Jan Heeten): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 0
+
+base1: [2,0], base2: [1,0], base3: [0,0]
+base1: true, base2: true, base3: true
+Score: 0-0
+
+Trey Walter: rng1 = 59 + 9 - 10 - 1 = 57
+rng2 = 34 + 10 - 11 - 1 = 32
+Groundout
+Team 2 pitcher (Dirk-Jan Heeten): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: false, base2: [2,0], base3: [1,0]
+base1: false, base2: true, base3: true
+Score: 1-0
+
+Francisco Illescas: rng1 = 16 + 6 - 10 - 1 = 11
+rng2 = 35 + 5 - 11 - 1 = 28
+Groundout
+Team 2 pitcher (Dirk-Jan Heeten): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: false, base2: [2,0], base3: [1,0]
+base1: false, base2: true, base3: true
+Score: 1-0
+
+Nathan Kaur: rng1 = 59 + 6 - 10 - 1 = 54
+rng2 = 41 + 5 - 11 - 1 = 34
+Groundout
+Team 2 pitcher (Dirk-Jan Heeten): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Serafín Sancho: rng1 = 42 + 14 - 13 + 1 = 44
+rng2 = 93 + 9 - 13 + 1 = 90
+Flyout
+Team 1 pitcher (Miyashiro Kuniaki): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Desharious Roberson: rng1 = 38 + 12 - 13 + 1 = 38
+rng2 = 12 + 8 - 13 + 1 = 8
+Groundout
+Team 1 pitcher (Miyashiro Kuniaki): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Stanley Soto: rng1 = 55 + 9 - 13 + 1 = 52
+rng2 = 15 + 5 - 13 + 1 = 8
+Groundout
+Team 1 pitcher (Miyashiro Kuniaki): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 2
+
+Kugo Ryutaro: rng1 = 77 + 7 - 10 - 1 = 73
+rng2 = 55 + 4 - 11 - 1 = 47
+Single
+Team 2 pitcher (Dirk-Jan Heeten): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Ivan Cruz: rng1 = 64 + 3 - 10 - 1 = 56
+rng2 = 82 + 6 - 11 - 1 = 76
+Flyout
+Team 2 pitcher (Dirk-Jan Heeten): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Martin Cambeiro: rng1 = 52 + 7 - 10 - 1 = 48
+rng2 = 1 + 2 - 11 - 1 = -9
+Groundout
+Team 2 pitcher (Dirk-Jan Heeten): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Isaac Morris: rng1 = 66 + 15 - 10 - 1 = 70
+Walk
+Team 2 pitcher (Dirk-Jan Heeten): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: [0,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Yorell Harmon: rng1 = 25 + 15 - 10 - 1 = 29
+rng2 = 31 + 15 - 11 - 1 = 34
+Groundout
+Team 2 pitcher (Dirk-Jan Heeten): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Terryl Maxwell: rng1 = 44 + 6 - 13 + 1 = 38
+rng2 = 67 + 11 - 13 + 1 = 66
+Flyout
+Team 1 pitcher (Miyashiro Kuniaki): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Josh Poole: rng1 = 44 + 8 - 13 + 1 = 40
+rng2 = 64 + 9 - 13 + 1 = 61
+Flyout
+Team 1 pitcher (Miyashiro Kuniaki): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Reese Ross: rng1 = 21 + 6 - 13 + 1 = 15
+rng2 = 42 + 9 - 13 + 1 = 39
+Groundout
+Team 1 pitcher (Miyashiro Kuniaki): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 3
+
+Angel Semprún: rng1 = 90 + 13 - 10 - 1 = 92
+rng2 = 86 + 9 - 11 - 1 = 83
+Home run
+Team 2 pitcher (Dirk-Jan Heeten): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Trey Walter: rng1 = 71 + 9 - 10 - 1 = 69
+Walk
+Team 2 pitcher (Dirk-Jan Heeten): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Francisco Illescas: rng1 = 2 + 6 - 10 - 1 = -3
+Strikeout
+Team 2 pitcher (Dirk-Jan Heeten): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Nathan Kaur: rng1 = 22 + 6 - 10 - 1 = 17
+Strikeout
+Team 2 pitcher (Dirk-Jan Heeten): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Kugo Ryutaro: rng1 = 93 + 7 - 10 - 1 = 89
+Walk
+Team 2 pitcher (Dirk-Jan Heeten): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 2
+
+base1: [6,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-0
+
+Ivan Cruz: rng1 = 31 + 3 - 10 - 1 = 23
+Strikeout
+Team 2 pitcher (Dirk-Jan Heeten): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Ethan Hayes: rng1 = 10 + 6 - 13 + 1 = 4
+Strikeout
+Team 1 pitcher (Miyashiro Kuniaki): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Bruno Rios: rng1 = 3 + 6 - 13 + 1 = -3
+Strikeout
+Team 1 pitcher (Miyashiro Kuniaki): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Pedro Acosta: rng1 = 23 + 3 - 13 + 1 = 14
+rng2 = 26 + 8 - 13 + 1 = 22
+Groundout
+Team 1 pitcher (Miyashiro Kuniaki): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+TOP INNING 4
+
+Martin Cambeiro: rng1 = 50 + 7 - 10 - 1 = 46
+rng2 = 76 + 2 - 11 - 1 = 66
+Flyout
+Team 2 pitcher (Dirk-Jan Heeten): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Isaac Morris: rng1 = 34 + 15 - 10 - 1 = 38
+rng2 = 70 + 15 - 11 - 1 = 73
+Flyout
+Team 2 pitcher (Dirk-Jan Heeten): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Yorell Harmon: rng1 = 53 + 15 - 10 - 1 = 57
+rng2 = 26 + 15 - 11 - 1 = 29
+Groundout
+Team 2 pitcher (Dirk-Jan Heeten): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+BOTTOM INNING 4
+
+Serafín Sancho: rng1 = 58 + 14 - 13 + 1 = 60
+rng2 = 38 + 9 - 13 + 1 = 35
+Groundout
+Team 1 pitcher (Miyashiro Kuniaki): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Desharious Roberson: rng1 = 1 + 12 - 13 + 1 = 1
+Strikeout
+Team 1 pitcher (Miyashiro Kuniaki): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Stanley Soto: rng1 = 13 + 9 - 13 + 1 = 10
+Strikeout
+Team 1 pitcher (Miyashiro Kuniaki): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+TOP INNING 5
+
+Angel Semprún: rng1 = 9 + 13 - 10 - 1 = 11
+rng2 = 88 + 9 - 11 - 1 = 85
+Flyout
+Team 2 pitcher (Dirk-Jan Heeten): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Trey Walter: rng1 = 59 + 9 - 10 - 1 = 57
+rng2 = 97 + 10 - 11 - 1 = 95
+Flyout
+Team 2 pitcher (Dirk-Jan Heeten): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Francisco Illescas: rng1 = 50 + 6 - 10 - 1 = 45
+rng2 = 69 + 5 - 11 - 1 = 62
+Flyout
+Team 2 pitcher (Dirk-Jan Heeten): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+BOTTOM INNING 5
+
+Terryl Maxwell: rng1 = 45 + 6 - 13 + 1 = 39
+rng2 = 67 + 11 - 13 + 1 = 66
+Flyout
+Team 1 pitcher (Miyashiro Kuniaki): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Josh Poole: rng1 = 11 + 8 - 13 + 1 = 7
+Strikeout
+Team 1 pitcher (Miyashiro Kuniaki): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Reese Ross: rng1 = 67 + 6 - 13 + 1 = 61
+rng2 = 71 + 9 - 13 + 1 = 68
+Flyout
+Team 1 pitcher (Miyashiro Kuniaki): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Colton Hendrix
+
+Nathan Kaur: rng1 = 87 + 6 - 9 - 1 = 83
+rng2 = 64 + 5 - 8 - 1 = 60
+Single
+Team 2 pitcher (Colton Hendrix): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Kugo Ryutaro: rng1 = 77 + 7 - 9 - 1 = 74
+rng2 = 19 + 4 - 8 - 1 = 14
+Single
+Team 2 pitcher (Colton Hendrix): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [6,1], base2: false, base3: [5,1]
+base1: true, base2: false, base3: true
+Score: 2-0
+
+Ivan Cruz: rng1 = 59 + 3 - 9 - 1 = 52
+rng2 = 44 + 6 - 8 - 1 = 41
+Groundout
+Team 2 pitcher (Colton Hendrix): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [7,1], base2: false, base3: [5,1]
+base1: true, base2: false, base3: true
+Score: 2-0
+
+Martin Cambeiro: rng1 = 1 + 7 - 9 - 1 = -2
+Strikeout
+Team 2 pitcher (Colton Hendrix): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [7,1], base2: false, base3: [5,1]
+base1: true, base2: false, base3: true
+Score: 2-0
+
+Isaac Morris: rng1 = 56 + 15 - 9 - 1 = 61
+rng2 = 16 + 15 - 8 - 1 = 22
+Groundout
+Team 2 pitcher (Colton Hendrix): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+BOTTOM INNING 6
+
+Ethan Hayes: rng1 = 20 + 6 - 13 + 1 = 14
+rng2 = 51 + 6 - 13 + 1 = 45
+Groundout
+Team 1 pitcher (Miyashiro Kuniaki): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Bruno Rios: rng1 = 78 + 6 - 13 + 1 = 72
+rng2 = 58 + 6 - 13 + 1 = 52
+Single
+Team 1 pitcher (Miyashiro Kuniaki): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Pedro Acosta: rng1 = 5 + 3 - 13 + 1 = -4
+Strikeout
+Team 1 pitcher (Miyashiro Kuniaki): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Serafín Sancho: rng1 = 23 + 14 - 13 + 1 = 25
+Strikeout
+Team 1 pitcher (Miyashiro Kuniaki): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Lyndon Perell
+
+Yorell Harmon: rng1 = 53 + 15 - 11 - 1 = 56
+rng2 = 48 + 15 - 11 - 1 = 51
+Lineout
+Team 2 pitcher (Lyndon Perell): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Angel Semprún: rng1 = 87 + 13 - 11 - 1 = 88
+Walk
+Team 2 pitcher (Lyndon Perell): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Trey Walter: rng1 = 97 + 9 - 11 - 1 = 94
+rng2 = 12 + 10 - 11 - 1 = 10
+Single
+Team 2 pitcher (Lyndon Perell): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [3,2], base2: [2,2], base3: false
+base1: true, base2: true, base3: false
+Score: 2-0
+
+Francisco Illescas: rng1 = 100 + 6 - 11 - 1 = 94
+rng2 = 78 + 5 - 11 - 1 = 71
+Double
+Team 2 pitcher (Lyndon Perell): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: false, base2: [4,2], base3: false
+base1: false, base2: true, base3: false
+Score: 4-0
+
+Nathan Kaur: rng1 = 85 + 6 - 11 - 1 = 79
+rng2 = 66 + 5 - 11 - 1 = 59
+Single
+Team 2 pitcher (Lyndon Perell): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 1
+
+base1: [5,2], base2: false, base3: [4,2]
+base1: true, base2: false, base3: true
+Score: 4-0
+
+Kugo Ryutaro: rng1 = 11 + 7 - 11 - 1 = 6
+Strikeout
+Team 2 pitcher (Lyndon Perell): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: [5,2], base2: false, base3: [4,2]
+base1: true, base2: false, base3: true
+Score: 4-0
+
+Ivan Cruz: rng1 = 62 + 3 - 11 - 1 = 53
+rng2 = 20 + 6 - 11 - 1 = 14
+Groundout
+Team 2 pitcher (Lyndon Perell): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+BOTTOM INNING 7
+
+Desharious Roberson: rng1 = 82 + 12 - 13 + 1 = 82
+rng2 = 28 + 8 - 13 + 1 = 24
+Single
+Team 1 pitcher (Miyashiro Kuniaki): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Stanley Soto: rng1 = 97 + 9 - 13 + 1 = 94
+rng2 = 11 + 5 - 13 + 1 = 4
+Single
+Team 1 pitcher (Miyashiro Kuniaki): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 0
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 4-0
+
+Terryl Maxwell: rng1 = 38 + 6 - 13 + 1 = 32
+rng2 = 47 + 11 - 13 + 1 = 46
+Groundout
+Team 1 pitcher (Miyashiro Kuniaki): 22 batters faced, 0 runs allowed = 22 + 0.0 = 22.0, outs: 1
+
+base1: [3,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 4-0
+
+Josh Poole: rng1 = 81 + 8 - 13 + 1 = 77
+rng2 = 84 + 9 - 13 + 1 = 81
+Home run
+Team 1 pitcher (Miyashiro Kuniaki): 23 batters faced, 3 runs allowed = 23 + 7.5 = 30.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Reese Ross: rng1 = 36 + 6 - 13 + 1 = 30
+rng2 = 12 + 9 - 13 + 1 = 9
+Groundout
+Team 1 pitcher (Miyashiro Kuniaki): 24 batters faced, 3 runs allowed = 24 + 7.5 = 31.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Ethan Hayes: rng1 = 79 + 6 - 13 + 1 = 73
+rng2 = 81 + 6 - 13 + 1 = 75
+Double
+Team 1 pitcher (Miyashiro Kuniaki): 25 batters faced, 3 runs allowed = 25 + 7.5 = 32.5, outs: 2
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-3
+
+Bruno Rios: rng1 = 14 + 6 - 13 + 1 = 8
+Strikeout
+Team 1 pitcher (Miyashiro Kuniaki): 26 batters faced, 3 runs allowed = 26 + 7.5 = 33.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Raymond Day
+
+Martin Cambeiro: rng1 = 72 + 7 - 6 - 1 = 72
+rng2 = 21 + 2 - 5 - 1 = 17
+Single
+Team 2 pitcher (Raymond Day): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [8,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Isaac Morris: rng1 = 55 + 15 - 6 - 1 = 63
+rng2 = 73 + 15 - 5 - 1 = 82
+Flyout
+Team 2 pitcher (Raymond Day): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [8,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Yorell Harmon: rng1 = 21 + 15 - 6 - 1 = 29
+rng2 = 64 + 15 - 5 - 1 = 73
+Flyout
+Team 2 pitcher (Raymond Day): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [8,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Angel Semprún: rng1 = 81 + 13 - 6 - 1 = 87
+Walk
+Team 2 pitcher (Raymond Day): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [2,3], base2: [8,3], base3: false
+base1: true, base2: true, base3: false
+Score: 4-3
+
+Trey Walter: rng1 = 42 + 9 - 6 - 1 = 44
+rng2 = 21 + 10 - 5 - 1 = 25
+Groundout
+Team 2 pitcher (Raymond Day): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Sammie Starr
+
+Pedro Acosta: rng1 = 79 + 3 - 10 + 1 = 73
+rng2 = 68 + 8 - 8 + 1 = 69
+Double
+Team 1 pitcher (Sammie Starr): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [8,1], base3: false
+base1: false, base2: true, base3: false
+Score: 4-3
+
+Serafín Sancho: rng1 = 47 + 14 - 10 + 1 = 52
+rng2 = 34 + 9 - 8 + 1 = 36
+Groundout
+Team 1 pitcher (Sammie Starr): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: [8,1]
+base1: false, base2: false, base3: true
+Score: 4-3
+
+Desharious Roberson: rng1 = 5 + 12 - 10 + 1 = 8
+Strikeout
+Team 1 pitcher (Sammie Starr): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: [8,1]
+base1: false, base2: false, base3: true
+Score: 4-3
+
+Stanley Soto: rng1 = 45 + 9 - 10 + 1 = 45
+rng2 = 43 + 5 - 8 + 1 = 41
+Groundout
+Team 1 pitcher (Sammie Starr): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Rakeem Bradley
+
+Francisco Illescas: rng1 = 57 + 6 - 12 - 1 = 50
+rng2 = 39 + 5 - 11 - 1 = 32
+Groundout
+Team 2 pitcher (Rakeem Bradley): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Nathan Kaur: rng1 = 71 + 6 - 12 - 1 = 64
+rng2 = 51 + 5 - 11 - 1 = 44
+Groundout
+Team 2 pitcher (Rakeem Bradley): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Kugo Ryutaro: rng1 = 90 + 7 - 12 - 1 = 84
+rng2 = 11 + 4 - 11 - 1 = 3
+Single
+Team 2 pitcher (Rakeem Bradley): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [6,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Ivan Cruz: rng1 = 88 + 3 - 12 - 1 = 78
+rng2 = 67 + 6 - 11 - 1 = 61
+Single
+Team 2 pitcher (Rakeem Bradley): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [7,4], base2: [6,4], base3: false
+base1: true, base2: true, base3: false
+Score: 4-3
+
+Martin Cambeiro: rng1 = 23 + 7 - 12 - 1 = 17
+Strikeout
+Team 2 pitcher (Rakeem Bradley): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Julian Carney
+
+Terryl Maxwell: rng1 = 43 + 6 - 11 + 1 = 39
+rng2 = 10 + 11 - 12 + 1 = 10
+Groundout
+Team 1 pitcher (Julian Carney): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Josh Poole: rng1 = 49 + 8 - 11 + 1 = 47
+rng2 = 9 + 9 - 12 + 1 = 7
+Groundout
+Team 1 pitcher (Julian Carney): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Reese Ross: rng1 = 20 + 6 - 11 + 1 = 16
+Strikeout
+Team 1 pitcher (Julian Carney): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 13
+Team 2 hits: 6
+Team 1 runs: 4
+Team 2 runs: 3
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-04-30
+Isaac Morris	4	1	1	0	0	0	0	1	0					Toronto
+Yorell Harmon	5	0	1	0	0	0	0	0	0	
+Angel Semprún	3	2	2	0	0	1	1	2	0	
+Trey Walter	4	1	1	0	0	0	1	1	0	
+Francisco Illescas	5	0	1	1	0	0	2	0	1	
+Nathan Kaur	5	0	2	0	0	0	0	0	1	
+Kugo Ryutaro	4	0	3	0	0	0	0	1	1	
+Ivan Cruz	5	0	1	0	0	0	0	0	1	
+Martin Cambeiro	5	0	1	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Miyashiro Kuniaki	1	0	1	1	0	0	21	5	3	1	0	8	26	
+Sammie Starr	0	0	1	0	0	0	3	1	0	0	0	1	4	
+Otis Michael	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Liam Newman	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Julian Carney	0	0	1	0	1	1	3	0	0	0	0	1	3	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-04-30
+Serafín Sancho	4	0	0	0	0	0	0	0	1					Phoenix
+Desharious Roberson	4	1	1	0	0	0	0	0	2	
+Stanley Soto	4	0	1	0	0	0	0	0	1	
+Terryl Maxwell	4	1	0	0	0	0	0	0	0	
+Josh Poole	4	1	1	0	0	1	3	0	1	
+Reese Ross	4	0	0	0	0	0	0	0	1	
+Ethan Hayes	3	0	1	1	0	0	0	0	1	
+Bruno Rios	3	0	1	0	0	0	0	0	2	
+Pedro Acosta	3	0	1	1	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Dirk-Jan Heeten	0	1	1	1	0	0	15	5	2	1	3	3	23	
+Colton Hendrix	0	0	1	0	0	0	3	2	0	0	0	1	5	
+Lyndon Perell	0	0	1	0	0	0	3	3	2	0	1	1	7	
+Raymond Day	0	0	1	0	0	0	3	1	0	0	1	0	5	
+Rakeem Bradley	0	0	1	0	0	0	3	2	0	0	0	1	5	

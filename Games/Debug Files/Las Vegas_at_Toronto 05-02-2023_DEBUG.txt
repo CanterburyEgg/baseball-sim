@@ -1,0 +1,833 @@
+TOP INNING 1
+
+Antonio Carrera: rng1 = 48 + 15 - 9 - 1 = 53
+rng2 = 52 + 13 - 10 - 1 = 54
+Lineout
+Team 2 pitcher (Theo Thomson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+George Nagle: rng1 = 33 + 15 - 9 - 1 = 38
+rng2 = 62 + 14 - 10 - 1 = 65
+Flyout
+Team 2 pitcher (Theo Thomson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Dante Arias: rng1 = 43 + 10 - 9 - 1 = 43
+rng2 = 73 + 5 - 10 - 1 = 67
+Flyout
+Team 2 pitcher (Theo Thomson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Isaac Morris: rng1 = 75 + 15 - 9 + 1 = 82
+rng2 = 55 + 15 - 8 + 1 = 63
+Single
+Team 1 pitcher (Zaiden Payne): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Yorell Harmon: rng1 = 89 + 15 - 9 + 1 = 96
+rng2 = 50 + 15 - 8 + 1 = 58
+Single
+Team 1 pitcher (Zaiden Payne): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Angel Semprún: rng1 = 85 + 13 - 9 + 1 = 90
+Walk
+Team 1 pitcher (Zaiden Payne): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 0
+
+base1: [2,0], base2: [1,0], base3: [0,0]
+base1: true, base2: true, base3: true
+Score: 0-0
+
+Trey Walter: rng1 = 100 + 9 - 9 + 1 = 101
+rng2 = 28 + 10 - 8 + 1 = 31
+Single
+Team 1 pitcher (Zaiden Payne): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 0
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-2
+
+Francisco Illescas: rng1 = 57 + 6 - 9 + 1 = 55
+rng2 = 61 + 5 - 8 + 1 = 59
+Flyout
+Team 1 pitcher (Zaiden Payne): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 1
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-2
+
+Nathan Kaur: rng1 = 6 + 6 - 9 + 1 = 4
+Strikeout
+Team 1 pitcher (Zaiden Payne): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-2
+
+Kugo Ryutaro: rng1 = 44 + 7 - 9 + 1 = 43
+rng2 = 88 + 4 - 8 + 1 = 85
+Flyout
+Team 1 pitcher (Zaiden Payne): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 2
+
+Jason Burress: rng1 = 94 + 12 - 9 - 1 = 96
+rng2 = 59 + 10 - 10 - 1 = 58
+Single
+Team 2 pitcher (Theo Thomson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Bautista Saelices: rng1 = 89 + 9 - 9 - 1 = 88
+Walk
+Team 2 pitcher (Theo Thomson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-2
+
+Noah Fontenot: rng1 = 66 + 10 - 9 - 1 = 66
+rng2 = 10 + 6 - 10 - 1 = 5
+Groundout
+Team 2 pitcher (Theo Thomson): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-2
+
+Terry Schroeder: rng1 = 83 + 6 - 9 - 1 = 79
+rng2 = 96 + 5 - 10 - 1 = 90
+Double
+Team 2 pitcher (Theo Thomson): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: false, base2: [6,0], base3: [5,0]
+base1: false, base2: true, base3: true
+Score: 1-2
+
+Ameer Jacobson: rng1 = 92 + 1 - 9 - 1 = 83
+rng2 = 12 + 8 - 10 - 1 = 9
+Single
+Team 2 pitcher (Theo Thomson): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Axel Chavez: rng1 = 79 + 4 - 9 - 1 = 73
+rng2 = 37 + 5 - 10 - 1 = 31
+Single
+Team 2 pitcher (Theo Thomson): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 1
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-2
+
+Antonio Carrera: rng1 = 78 + 15 - 9 - 1 = 83
+rng2 = 33 + 13 - 10 - 1 = 35
+Single
+Team 2 pitcher (Theo Thomson): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 1
+
+base1: [0,0], base2: [8,0], base3: [7,0]
+base1: true, base2: true, base3: true
+Score: 3-2
+
+George Nagle: rng1 = 25 + 15 - 9 - 1 = 30
+rng2 = 3 + 14 - 10 - 1 = 6
+Groundout
+Team 2 pitcher (Theo Thomson): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 2
+
+base1: false, base2: [0,0], base3: [8,0]
+base1: false, base2: true, base3: true
+Score: 4-2
+
+Dante Arias: rng1 = 64 + 10 - 9 - 1 = 64
+rng2 = 19 + 5 - 10 - 1 = 13
+Groundout
+Team 2 pitcher (Theo Thomson): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-2
+
+-----------------------
+
+BOTTOM INNING 2
+
+Ivan Cruz: rng1 = 6 + 3 - 9 + 1 = 1
+Strikeout
+Team 1 pitcher (Zaiden Payne): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Martin Cambeiro: rng1 = 45 + 7 - 9 + 1 = 44
+rng2 = 17 + 2 - 8 + 1 = 12
+Groundout
+Team 1 pitcher (Zaiden Payne): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Isaac Morris: rng1 = 71 + 15 - 9 + 1 = 78
+rng2 = 65 + 15 - 8 + 1 = 73
+Double
+Team 1 pitcher (Zaiden Payne): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-2
+
+Yorell Harmon: rng1 = 75 + 15 - 9 + 1 = 82
+rng2 = 89 + 15 - 8 + 1 = 97
+Home run
+Team 1 pitcher (Zaiden Payne): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Angel Semprún: rng1 = 88 + 13 - 9 + 1 = 93
+rng2 = 2 + 9 - 8 + 1 = 4
+Single
+Team 1 pitcher (Zaiden Payne): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Trey Walter: rng1 = 96 + 9 - 9 + 1 = 97
+rng2 = 1 + 10 - 8 + 1 = 4
+Single
+Team 1 pitcher (Zaiden Payne): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 2
+
+base1: [3,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 4-4
+
+Francisco Illescas: rng1 = 31 + 6 - 9 + 1 = 29
+rng2 = 78 + 5 - 8 + 1 = 76
+Flyout
+Team 1 pitcher (Zaiden Payne): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+TOP INNING 3
+
+Jason Burress: rng1 = 94 + 12 - 9 - 1 = 96
+rng2 = 56 + 10 - 10 - 1 = 55
+Single
+Team 2 pitcher (Theo Thomson): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Bautista Saelices: rng1 = 14 + 9 - 9 - 1 = 13
+rng2 = 83 + 9 - 10 - 1 = 81
+Flyout
+Team 2 pitcher (Theo Thomson): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Noah Fontenot: rng1 = 54 + 10 - 9 - 1 = 54
+rng2 = 25 + 6 - 10 - 1 = 20
+Groundout
+Team 2 pitcher (Theo Thomson): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Terry Schroeder: rng1 = 31 + 6 - 9 - 1 = 27
+Strikeout
+Team 2 pitcher (Theo Thomson): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+BOTTOM INNING 3
+
+Nathan Kaur: rng1 = 72 + 6 - 9 + 1 = 70
+Walk
+Team 1 pitcher (Zaiden Payne): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Kugo Ryutaro: rng1 = 44 + 7 - 9 + 1 = 43
+rng2 = 27 + 4 - 8 + 1 = 24
+Groundout
+Team 1 pitcher (Zaiden Payne): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Ivan Cruz: rng1 = 4 + 3 - 9 + 1 = -1
+Strikeout
+Team 1 pitcher (Zaiden Payne): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+TOP INNING 4
+
+Ameer Jacobson: rng1 = 94 + 1 - 9 - 1 = 85
+rng2 = 93 + 8 - 10 - 1 = 90
+Double
+Team 2 pitcher (Theo Thomson): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 0
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-4
+
+Axel Chavez: rng1 = 32 + 4 - 9 - 1 = 26
+Strikeout
+Team 2 pitcher (Theo Thomson): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 1
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-4
+
+Antonio Carrera: rng1 = 76 + 15 - 9 - 1 = 81
+rng2 = 52 + 13 - 10 - 1 = 54
+Single
+Team 2 pitcher (Theo Thomson): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 1
+
+base1: [0,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 4-4
+
+George Nagle: rng1 = 74 + 15 - 9 - 1 = 79
+rng2 = 60 + 14 - 10 - 1 = 63
+Single
+Team 2 pitcher (Theo Thomson): 20 batters faced, 5 runs allowed = 20 + 12.5 = 32.5, outs: 1
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 5-4
+
+Dante Arias: rng1 = 22 + 10 - 9 - 1 = 22
+Strikeout
+Team 2 pitcher (Theo Thomson): 21 batters faced, 5 runs allowed = 21 + 12.5 = 33.5, outs: 2
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 5-4
+
+Jason Burress: rng1 = 100 + 12 - 9 - 1 = 102
+rng2 = 74 + 10 - 10 - 1 = 73
+Double
+Team 2 pitcher (Theo Thomson): 22 batters faced, 6 runs allowed = 22 + 15.0 = 37.0, outs: 2
+
+base1: false, base2: [3,0], base3: [1,0]
+base1: false, base2: true, base3: true
+Score: 6-4
+
+Team 2 pitcher change to Otis Michael
+
+Bautista Saelices: rng1 = 45 + 9 - 11 - 1 = 42
+rng2 = 36 + 9 - 12 - 1 = 32
+Groundout
+Team 2 pitcher (Otis Michael): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-4
+
+-----------------------
+
+BOTTOM INNING 4
+
+Martin Cambeiro: rng1 = 16 + 7 - 9 + 1 = 15
+rng2 = 69 + 2 - 8 + 1 = 64
+Flyout
+Team 1 pitcher (Zaiden Payne): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Isaac Morris: rng1 = 96 + 15 - 9 + 1 = 103
+rng2 = 35 + 15 - 8 + 1 = 43
+Single
+Team 1 pitcher (Zaiden Payne): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-4
+
+Yorell Harmon: rng1 = 8 + 15 - 9 + 1 = 15
+rng2 = 13 + 15 - 8 + 1 = 21
+Groundout
+Team 1 pitcher (Zaiden Payne): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-4
+
+Angel Semprún: rng1 = 23 + 13 - 9 + 1 = 28
+rng2 = 37 + 9 - 8 + 1 = 39
+Groundout
+Team 1 pitcher (Zaiden Payne): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-4
+
+-----------------------
+
+TOP INNING 5
+
+Noah Fontenot: rng1 = 3 + 10 - 11 - 1 = 1
+Strikeout
+Team 2 pitcher (Otis Michael): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Terry Schroeder: rng1 = 11 + 6 - 11 - 1 = 5
+Strikeout
+Team 2 pitcher (Otis Michael): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Ameer Jacobson: rng1 = 84 + 1 - 11 - 1 = 73
+rng2 = 17 + 8 - 12 - 1 = 12
+Single
+Team 2 pitcher (Otis Michael): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-4
+
+Axel Chavez: rng1 = 10 + 4 - 11 - 1 = 2
+Strikeout
+Team 2 pitcher (Otis Michael): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-4
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Rodrigo Valerio
+
+Trey Walter: rng1 = 50 + 9 - 10 + 1 = 50
+rng2 = 8 + 10 - 10 + 1 = 9
+Groundout
+Team 1 pitcher (Rodrigo Valerio): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Francisco Illescas: rng1 = 66 + 6 - 10 + 1 = 63
+rng2 = 24 + 5 - 10 + 1 = 20
+Groundout
+Team 1 pitcher (Rodrigo Valerio): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Nathan Kaur: rng1 = 31 + 6 - 10 + 1 = 28
+rng2 = 3 + 5 - 10 + 1 = -1
+Groundout
+Team 1 pitcher (Rodrigo Valerio): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-4
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Sammie Starr
+
+Antonio Carrera: rng1 = 52 + 15 - 10 - 1 = 56
+rng2 = 99 + 13 - 8 - 1 = 103
+Flyout
+Team 2 pitcher (Sammie Starr): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+George Nagle: rng1 = 14 + 15 - 10 - 1 = 18
+Strikeout
+Team 2 pitcher (Sammie Starr): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Dante Arias: rng1 = 2 + 10 - 10 - 1 = 1
+Strikeout
+Team 2 pitcher (Sammie Starr): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-4
+
+-----------------------
+
+BOTTOM INNING 6
+
+Kugo Ryutaro: rng1 = 33 + 7 - 10 + 1 = 31
+rng2 = 97 + 4 - 10 + 1 = 92
+Flyout
+Team 1 pitcher (Rodrigo Valerio): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Ivan Cruz: rng1 = 24 + 3 - 10 + 1 = 18
+Strikeout
+Team 1 pitcher (Rodrigo Valerio): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Martin Cambeiro: rng1 = 95 + 7 - 10 + 1 = 93
+rng2 = 98 + 2 - 10 + 1 = 91
+Double
+Team 1 pitcher (Rodrigo Valerio): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: [8,1], base3: false
+base1: false, base2: true, base3: false
+Score: 6-4
+
+Isaac Morris: rng1 = 63 + 15 - 10 + 1 = 69
+Walk
+Team 1 pitcher (Rodrigo Valerio): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [0,1], base2: [8,1], base3: false
+base1: true, base2: true, base3: false
+Score: 6-4
+
+Yorell Harmon: rng1 = 8 + 15 - 10 + 1 = 14
+rng2 = 71 + 15 - 10 + 1 = 77
+Flyout
+Team 1 pitcher (Rodrigo Valerio): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-4
+
+-----------------------
+
+TOP INNING 7
+
+Jason Burress: rng1 = 59 + 12 - 10 - 1 = 60
+rng2 = 19 + 10 - 8 - 1 = 20
+Groundout
+Team 2 pitcher (Sammie Starr): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Bautista Saelices: rng1 = 77 + 9 - 10 - 1 = 75
+rng2 = 43 + 9 - 8 - 1 = 43
+Single
+Team 2 pitcher (Sammie Starr): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-4
+
+Noah Fontenot: rng1 = 88 + 10 - 10 - 1 = 87
+Walk
+Team 2 pitcher (Sammie Starr): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,2], base2: [4,2], base3: false
+base1: true, base2: true, base3: false
+Score: 6-4
+
+Terry Schroeder: rng1 = 26 + 6 - 10 - 1 = 21
+Strikeout
+Team 2 pitcher (Sammie Starr): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [5,2], base2: [4,2], base3: false
+base1: true, base2: true, base3: false
+Score: 6-4
+
+Ameer Jacobson: rng1 = 44 + 1 - 10 - 1 = 34
+rng2 = 81 + 8 - 8 - 1 = 80
+Flyout
+Team 2 pitcher (Sammie Starr): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-4
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Taylor Murphy
+
+Angel Semprún: rng1 = 69 + 13 - 15 + 1 = 68
+rng2 = 37 + 9 - 13 + 1 = 34
+Groundout
+Team 1 pitcher (Taylor Murphy): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Trey Walter: rng1 = 78 + 9 - 15 + 1 = 73
+rng2 = 93 + 10 - 13 + 1 = 91
+Double
+Team 1 pitcher (Taylor Murphy): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [3,2], base3: false
+base1: false, base2: true, base3: false
+Score: 6-4
+
+Francisco Illescas: rng1 = 60 + 6 - 15 + 1 = 52
+rng2 = 31 + 5 - 13 + 1 = 24
+Groundout
+Team 1 pitcher (Taylor Murphy): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: [3,2]
+base1: false, base2: false, base3: true
+Score: 6-4
+
+Nathan Kaur: rng1 = 48 + 6 - 15 + 1 = 40
+rng2 = 80 + 5 - 13 + 1 = 73
+Flyout
+Team 1 pitcher (Taylor Murphy): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-4
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Liam Newman
+
+Axel Chavez: rng1 = 82 + 4 - 10 - 1 = 75
+rng2 = 68 + 5 - 6 - 1 = 66
+Double
+Team 2 pitcher (Liam Newman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [8,3], base3: false
+base1: false, base2: true, base3: false
+Score: 6-4
+
+Antonio Carrera: rng1 = 40 + 15 - 10 - 1 = 44
+rng2 = 15 + 13 - 6 - 1 = 21
+Groundout
+Team 2 pitcher (Liam Newman): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [8,3], base3: false
+base1: false, base2: true, base3: false
+Score: 6-4
+
+George Nagle: rng1 = 14 + 15 - 10 - 1 = 18
+Strikeout
+Team 2 pitcher (Liam Newman): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [8,3], base3: false
+base1: false, base2: true, base3: false
+Score: 6-4
+
+Dante Arias: rng1 = 71 + 10 - 10 - 1 = 70
+Walk
+Team 2 pitcher (Liam Newman): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [2,3], base2: [8,3], base3: false
+base1: true, base2: true, base3: false
+Score: 6-4
+
+Jason Burress: rng1 = 21 + 12 - 10 - 1 = 22
+Strikeout
+Team 2 pitcher (Liam Newman): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-4
+
+-----------------------
+
+BOTTOM INNING 8
+
+Kugo Ryutaro: rng1 = 22 + 7 - 15 + 1 = 15
+rng2 = 82 + 4 - 13 + 1 = 74
+Flyout
+Team 1 pitcher (Taylor Murphy): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Ivan Cruz: rng1 = 30 + 3 - 15 + 1 = 19
+Strikeout
+Team 1 pitcher (Taylor Murphy): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Martin Cambeiro: rng1 = 45 + 7 - 15 + 1 = 38
+rng2 = 42 + 2 - 13 + 1 = 32
+Groundout
+Team 1 pitcher (Taylor Murphy): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-4
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Julian Carney
+
+Bautista Saelices: rng1 = 53 + 9 - 11 - 1 = 50
+rng2 = 47 + 9 - 12 - 1 = 43
+Groundout
+Team 2 pitcher (Julian Carney): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Noah Fontenot: rng1 = 85 + 10 - 11 - 1 = 83
+rng2 = 28 + 6 - 12 - 1 = 21
+Single
+Team 2 pitcher (Julian Carney): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [5,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-4
+
+Terry Schroeder: rng1 = 50 + 6 - 11 - 1 = 44
+rng2 = 79 + 5 - 12 - 1 = 71
+Flyout
+Team 2 pitcher (Julian Carney): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [5,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-4
+
+Ameer Jacobson: rng1 = 67 + 1 - 11 - 1 = 56
+rng2 = 21 + 8 - 12 - 1 = 16
+Groundout
+Team 2 pitcher (Julian Carney): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-4
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Macos Alguacil
+
+Isaac Morris: rng1 = 52 + 15 - 15 + 1 = 53
+rng2 = 13 + 15 - 14 + 1 = 15
+Groundout
+Team 1 pitcher (Macos Alguacil): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Yorell Harmon: rng1 = 38 + 15 - 15 + 1 = 39
+rng2 = 17 + 15 - 14 + 1 = 19
+Groundout
+Team 1 pitcher (Macos Alguacil): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Angel Semprún: rng1 = 18 + 13 - 15 + 1 = 17
+Strikeout
+Team 1 pitcher (Macos Alguacil): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-4
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 14
+Team 2 hits: 10
+Team 1 runs: 6
+Team 2 runs: 4
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-05-02
+Antonio Carrera	5	1	2	0	0	0	0	0	0					Las Vegas
+George Nagle	5	0	1	0	0	0	2	0	2	
+Dante Arias	4	0	0	0	0	0	0	1	2	
+Jason Burress	5	0	3	1	0	0	1	0	1	
+Bautista Saelices	4	1	1	0	0	0	0	1	0	
+Noah Fontenot	4	1	1	0	0	0	0	1	1	
+Terry Schroeder	5	1	1	1	0	0	1	0	3	
+Ameer Jacobson	5	2	3	1	0	0	2	0	0	
+Axel Chavez	4	0	2	1	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Zaiden Payne	1	0	1	1	0	0	12	8	4	1	2	3	21	
+Rodrigo Valerio	0	0	1	0	0	0	6	1	0	0	1	1	8	
+Taylor Murphy	0	0	1	0	0	0	6	1	0	0	0	1	7	
+Phil Segee	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Macos Alguacil	0	0	1	0	1	1	3	0	0	0	0	1	3	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-05-02
+Isaac Morris	4	2	3	1	0	0	0	1	0					Toronto
+Yorell Harmon	5	2	2	0	0	1	2	0	0	
+Angel Semprún	4	0	1	0	0	0	0	1	1	
+Trey Walter	4	0	3	1	0	0	2	0	0	
+Francisco Illescas	4	0	0	0	0	0	0	0	0	
+Nathan Kaur	3	0	0	0	0	0	0	1	1	
+Kugo Ryutaro	4	0	0	0	0	0	0	0	0	
+Ivan Cruz	4	0	0	0	0	0	0	0	4	
+Martin Cambeiro	4	0	1	1	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Theo Thomson	0	1	1	1	0	0	11	10	6	0	1	3	22	
+Otis Michael	0	0	1	0	0	0	4	1	0	0	0	3	5	
+Sammie Starr	0	0	1	0	0	0	6	1	0	0	1	3	8	
+Liam Newman	0	0	1	0	0	0	3	1	0	0	1	2	5	
+Julian Carney	0	0	1	0	0	0	3	1	0	0	0	0	4	

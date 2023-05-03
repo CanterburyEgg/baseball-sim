@@ -1,0 +1,818 @@
+TOP INNING 1
+
+Koyama Tsuneo: rng1 = 99 + 14 - 6 - 1 = 106
+rng2 = 85 + 11 - 3 - 1 = 92
+Double
+Team 2 pitcher (Keenan Elliott): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Justus Pate: rng1 = 91 + 13 - 6 - 1 = 97
+rng2 = 50 + 10 - 3 - 1 = 56
+Single
+Team 2 pitcher (Keenan Elliott): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Kim Tae-Woo: rng1 = 66 + 12 - 6 - 1 = 71
+Walk
+Team 2 pitcher (Keenan Elliott): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 0
+
+base1: [2,0], base2: [1,0], base3: [0,0]
+base1: true, base2: true, base3: true
+Score: 0-0
+
+Charles Harris: rng1 = 77 + 9 - 6 - 1 = 79
+rng2 = 59 + 12 - 3 - 1 = 67
+Double
+Team 2 pitcher (Keenan Elliott): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 0
+
+base1: false, base2: [3,0], base3: [2,0]
+base1: false, base2: true, base3: true
+Score: 2-0
+
+Jesús Alarcón: rng1 = 44 + 6 - 6 - 1 = 43
+rng2 = 4 + 11 - 3 - 1 = 11
+Groundout
+Team 2 pitcher (Keenan Elliott): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 1
+
+base1: false, base2: false, base3: [3,0]
+base1: false, base2: false, base3: true
+Score: 3-0
+
+Jayden Green: rng1 = 71 + 5 - 6 - 1 = 69
+Walk
+Team 2 pitcher (Keenan Elliott): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 1
+
+base1: [5,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 3-0
+
+Kojima Kunio: rng1 = 63 + 6 - 6 - 1 = 62
+rng2 = 77 + 7 - 3 - 1 = 80
+Flyout
+Team 2 pitcher (Keenan Elliott): 7 batters faced, 4 runs allowed = 7 + 10.0 = 17.0, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Noel Ayers: rng1 = 19 + 4 - 6 - 1 = 16
+Strikeout
+Team 2 pitcher (Keenan Elliott): 8 batters faced, 4 runs allowed = 8 + 10.0 = 18.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Tristian Love: rng1 = 68 + 14 - 4 + 1 = 79
+rng2 = 77 + 11 - 8 + 1 = 81
+Home run
+Team 1 pitcher (Gabriel Delgado): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Nicolás Moruga: rng1 = 3 + 14 - 4 + 1 = 14
+rng2 = 81 + 14 - 8 + 1 = 88
+Flyout
+Team 1 pitcher (Gabriel Delgado): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Edward Cox: rng1 = 39 + 13 - 4 + 1 = 49
+rng2 = 45 + 5 - 8 + 1 = 43
+Groundout
+Team 1 pitcher (Gabriel Delgado): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Lucián Chicote: rng1 = 100 + 11 - 4 + 1 = 108
+rng2 = 52 + 11 - 8 + 1 = 56
+Single
+Team 1 pitcher (Gabriel Delgado): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-1
+
+Aldo Gilmore: rng1 = 91 + 11 - 4 + 1 = 99
+rng2 = 100 + 11 - 8 + 1 = 104
+Home run
+Team 1 pitcher (Gabriel Delgado): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Javier Guillén: rng1 = 18 + 8 - 4 + 1 = 23
+Strikeout
+Team 1 pitcher (Gabriel Delgado): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+TOP INNING 2
+
+Jon Williamson: rng1 = 70 + 2 - 6 - 1 = 65
+rng2 = 36 + 6 - 3 - 1 = 38
+Groundout
+Team 2 pitcher (Keenan Elliott): 9 batters faced, 4 runs allowed = 9 + 10.0 = 19.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Koyama Tsuneo: rng1 = 15 + 14 - 6 - 1 = 22
+Strikeout
+Team 2 pitcher (Keenan Elliott): 10 batters faced, 4 runs allowed = 10 + 10.0 = 20.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Justus Pate: rng1 = 50 + 13 - 6 - 1 = 56
+rng2 = 11 + 10 - 3 - 1 = 17
+Groundout
+Team 2 pitcher (Keenan Elliott): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+BOTTOM INNING 2
+
+Alexis Shultz: rng1 = 18 + 10 - 4 + 1 = 25
+Strikeout
+Team 1 pitcher (Gabriel Delgado): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Joaquín Laguna: rng1 = 71 + 6 - 4 + 1 = 74
+rng2 = 45 + 10 - 8 + 1 = 48
+Single
+Team 1 pitcher (Gabriel Delgado): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Zahir Burgos: rng1 = 27 + 7 - 4 + 1 = 31
+rng2 = 20 + 8 - 8 + 1 = 21
+Groundout
+Team 1 pitcher (Gabriel Delgado): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 2
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-3
+
+Tristian Love: rng1 = 95 + 14 - 4 + 1 = 106
+rng2 = 70 + 11 - 8 + 1 = 74
+Double
+Team 1 pitcher (Gabriel Delgado): 10 batters faced, 4 runs allowed = 10 + 10.0 = 20.0, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-4
+
+Nicolás Moruga: rng1 = 22 + 14 - 4 + 1 = 33
+rng2 = 13 + 14 - 8 + 1 = 20
+Groundout
+Team 1 pitcher (Gabriel Delgado): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+TOP INNING 3
+
+Kim Tae-Woo: rng1 = 37 + 12 - 6 - 1 = 42
+rng2 = 29 + 12 - 3 - 1 = 37
+Groundout
+Team 2 pitcher (Keenan Elliott): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Charles Harris: rng1 = 6 + 9 - 6 - 1 = 8
+Strikeout
+Team 2 pitcher (Keenan Elliott): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Jesús Alarcón: rng1 = 75 + 6 - 6 - 1 = 74
+rng2 = 53 + 11 - 3 - 1 = 60
+Single
+Team 2 pitcher (Keenan Elliott): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Jayden Green: rng1 = 16 + 5 - 6 - 1 = 14
+rng2 = 82 + 8 - 3 - 1 = 86
+Flyout
+Team 2 pitcher (Keenan Elliott): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+BOTTOM INNING 3
+
+Edward Cox: rng1 = 11 + 13 - 4 + 1 = 21
+Strikeout
+Team 1 pitcher (Gabriel Delgado): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Lucián Chicote: rng1 = 64 + 11 - 4 + 1 = 72
+rng2 = 51 + 11 - 8 + 1 = 55
+Single
+Team 1 pitcher (Gabriel Delgado): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Aldo Gilmore: rng1 = 25 + 11 - 4 + 1 = 33
+rng2 = 48 + 11 - 8 + 1 = 52
+Lineout
+Team 1 pitcher (Gabriel Delgado): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Javier Guillén: rng1 = 84 + 8 - 4 + 1 = 89
+Walk
+Team 1 pitcher (Gabriel Delgado): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 2
+
+base1: [5,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 4-4
+
+Alexis Shultz: rng1 = 56 + 10 - 4 + 1 = 63
+rng2 = 20 + 7 - 8 + 1 = 20
+Groundout
+Team 1 pitcher (Gabriel Delgado): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+TOP INNING 4
+
+Kojima Kunio: rng1 = 5 + 6 - 6 - 1 = 4
+Strikeout
+Team 2 pitcher (Keenan Elliott): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Noel Ayers: rng1 = 8 + 4 - 6 - 1 = 5
+Strikeout
+Team 2 pitcher (Keenan Elliott): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Jon Williamson: rng1 = 86 + 2 - 6 - 1 = 81
+rng2 = 98 + 6 - 3 - 1 = 100
+Home run
+Team 2 pitcher (Keenan Elliott): 18 batters faced, 5 runs allowed = 18 + 12.5 = 30.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Koyama Tsuneo: rng1 = 81 + 14 - 6 - 1 = 88
+Walk
+Team 2 pitcher (Keenan Elliott): 19 batters faced, 5 runs allowed = 19 + 12.5 = 31.5, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-4
+
+Justus Pate: rng1 = 11 + 13 - 6 - 1 = 17
+Strikeout
+Team 2 pitcher (Keenan Elliott): 20 batters faced, 5 runs allowed = 20 + 12.5 = 32.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-4
+
+-----------------------
+
+BOTTOM INNING 4
+
+Joaquín Laguna: rng1 = 72 + 6 - 4 + 1 = 75
+rng2 = 2 + 10 - 8 + 1 = 5
+Single
+Team 1 pitcher (Gabriel Delgado): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-4
+
+Zahir Burgos: rng1 = 83 + 7 - 4 + 1 = 87
+Walk
+Team 1 pitcher (Gabriel Delgado): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 0
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 5-4
+
+Tristian Love: rng1 = 10 + 14 - 4 + 1 = 21
+Strikeout
+Team 1 pitcher (Gabriel Delgado): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 1
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 5-4
+
+Nicolás Moruga: rng1 = 77 + 14 - 4 + 1 = 88
+Walk
+Team 1 pitcher (Gabriel Delgado): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 1
+
+base1: [1,0], base2: [8,0], base3: [7,0]
+base1: true, base2: true, base3: true
+Score: 5-4
+
+Edward Cox: rng1 = 83 + 13 - 4 + 1 = 93
+rng2 = 20 + 5 - 8 + 1 = 18
+Single
+Team 1 pitcher (Gabriel Delgado): 21 batters faced, 6 runs allowed = 21 + 15.0 = 36.0, outs: 1
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 5-6
+
+Team 1 pitcher change to Logan Rogers
+
+Lucián Chicote: rng1 = 64 + 11 - 9 + 1 = 67
+rng2 = 93 + 11 - 6 + 1 = 99
+Flyout
+Team 1 pitcher (Logan Rogers): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-7
+
+Aldo Gilmore: rng1 = 99 + 11 - 9 + 1 = 102
+rng2 = 11 + 11 - 6 + 1 = 17
+Single
+Team 1 pitcher (Logan Rogers): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: [4,1], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 5-7
+
+Javier Guillén: rng1 = 25 + 8 - 9 + 1 = 25
+Strikeout
+Team 1 pitcher (Logan Rogers): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-7
+
+-----------------------
+
+TOP INNING 5
+
+Team 2 pitcher change to Shane Moran
+
+Kim Tae-Woo: rng1 = 85 + 12 - 8 - 1 = 88
+Walk
+Team 2 pitcher (Shane Moran): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-7
+
+Charles Harris: rng1 = 37 + 9 - 8 - 1 = 37
+rng2 = 89 + 12 - 9 - 1 = 91
+Flyout
+Team 2 pitcher (Shane Moran): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-7
+
+Jesús Alarcón: rng1 = 11 + 6 - 8 - 1 = 8
+Strikeout
+Team 2 pitcher (Shane Moran): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-7
+
+Jayden Green: rng1 = 97 + 5 - 8 - 1 = 93
+rng2 = 32 + 8 - 9 - 1 = 30
+Single
+Team 2 pitcher (Shane Moran): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [5,1], base2: false, base3: [2,1]
+base1: true, base2: false, base3: true
+Score: 5-7
+
+Kojima Kunio: rng1 = 43 + 6 - 8 - 1 = 40
+rng2 = 42 + 7 - 9 - 1 = 39
+Groundout
+Team 2 pitcher (Shane Moran): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-7
+
+-----------------------
+
+BOTTOM INNING 5
+
+Alexis Shultz: rng1 = 95 + 10 - 9 + 1 = 97
+rng2 = 78 + 7 - 6 + 1 = 80
+Home run
+Team 1 pitcher (Logan Rogers): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-8
+
+Joaquín Laguna: rng1 = 39 + 6 - 9 + 1 = 37
+rng2 = 81 + 10 - 6 + 1 = 86
+Flyout
+Team 1 pitcher (Logan Rogers): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-8
+
+Zahir Burgos: rng1 = 77 + 7 - 9 + 1 = 76
+rng2 = 72 + 8 - 6 + 1 = 75
+Double
+Team 1 pitcher (Logan Rogers): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: [8,1], base3: false
+base1: false, base2: true, base3: false
+Score: 5-8
+
+Tristian Love: rng1 = 60 + 14 - 9 + 1 = 66
+rng2 = 71 + 11 - 6 + 1 = 77
+Flyout
+Team 1 pitcher (Logan Rogers): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: [8,1], base3: false
+base1: false, base2: true, base3: false
+Score: 5-8
+
+Nicolás Moruga: rng1 = 77 + 14 - 9 + 1 = 83
+rng2 = 100 + 14 - 6 + 1 = 109
+Home run
+Team 1 pitcher (Logan Rogers): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-10
+
+Team 1 pitcher change to William Sheppard
+
+Edward Cox: rng1 = 51 + 13 - 11 + 1 = 54
+rng2 = 43 + 5 - 10 + 1 = 39
+Groundout
+Team 1 pitcher (William Sheppard): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-10
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Trey Hendrickson
+
+Noel Ayers: rng1 = 100 + 4 - 14 - 1 = 89
+Walk
+Team 2 pitcher (Trey Hendrickson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-10
+
+Jon Williamson: rng1 = 88 + 2 - 14 - 1 = 75
+rng2 = 70 + 6 - 12 - 1 = 63
+Single
+Team 2 pitcher (Trey Hendrickson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [8,2], base2: false, base3: [7,2]
+base1: true, base2: false, base3: true
+Score: 5-10
+
+Koyama Tsuneo: rng1 = 69 + 14 - 14 - 1 = 68
+rng2 = 87 + 11 - 12 - 1 = 85
+Flyout
+Team 2 pitcher (Trey Hendrickson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [8,2], base2: false, base3: [7,2]
+base1: true, base2: false, base3: true
+Score: 5-10
+
+Justus Pate: rng1 = 20 + 13 - 14 - 1 = 18
+Strikeout
+Team 2 pitcher (Trey Hendrickson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [8,2], base2: false, base3: [7,2]
+base1: true, base2: false, base3: true
+Score: 5-10
+
+Kim Tae-Woo: rng1 = 74 + 12 - 14 - 1 = 71
+Walk
+Team 2 pitcher (Trey Hendrickson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: [2,2], base2: [8,2], base3: [7,2]
+base1: true, base2: true, base3: true
+Score: 5-10
+
+Charles Harris: rng1 = 84 + 9 - 14 - 1 = 78
+rng2 = 68 + 12 - 12 - 1 = 67
+Double
+Team 2 pitcher (Trey Hendrickson): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: false, base2: [3,2], base3: false
+base1: false, base2: true, base3: false
+Score: 8-10
+
+Team 2 pitcher change to Johan Cortez
+
+Jesús Alarcón: rng1 = 29 + 6 - 6 - 1 = 28
+rng2 = 90 + 11 - 8 - 1 = 92
+Flyout
+Team 2 pitcher (Johan Cortez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-10
+
+-----------------------
+
+BOTTOM INNING 6
+
+Lucián Chicote: rng1 = 61 + 11 - 11 + 1 = 62
+rng2 = 69 + 11 - 10 + 1 = 71
+Flyout
+Team 1 pitcher (William Sheppard): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-10
+
+Aldo Gilmore: rng1 = 97 + 11 - 11 + 1 = 98
+rng2 = 38 + 11 - 10 + 1 = 40
+Single
+Team 1 pitcher (William Sheppard): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-10
+
+Javier Guillén: rng1 = 58 + 8 - 11 + 1 = 56
+rng2 = 39 + 10 - 10 + 1 = 40
+Groundout
+Team 1 pitcher (William Sheppard): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-10
+
+-----------------------
+
+TOP INNING 7
+
+Jayden Green: rng1 = 40 + 5 - 6 - 1 = 38
+rng2 = 7 + 8 - 8 - 1 = 6
+Groundout
+Team 2 pitcher (Johan Cortez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-10
+
+Kojima Kunio: rng1 = 32 + 6 - 6 - 1 = 31
+rng2 = 94 + 7 - 8 - 1 = 92
+Flyout
+Team 2 pitcher (Johan Cortez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-10
+
+Noel Ayers: rng1 = 61 + 4 - 6 - 1 = 58
+rng2 = 83 + 7 - 8 - 1 = 81
+Flyout
+Team 2 pitcher (Johan Cortez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-10
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Ignacio Morales
+
+Alexis Shultz: rng1 = 56 + 10 - 8 + 1 = 59
+rng2 = 25 + 7 - 7 + 1 = 26
+Groundout
+Team 1 pitcher (Ignacio Morales): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-10
+
+Joaquín Laguna: rng1 = 62 + 6 - 8 + 1 = 61
+rng2 = 73 + 10 - 7 + 1 = 77
+Flyout
+Team 1 pitcher (Ignacio Morales): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-10
+
+Zahir Burgos: rng1 = 78 + 7 - 8 + 1 = 78
+rng2 = 67 + 8 - 7 + 1 = 69
+Double
+Team 1 pitcher (Ignacio Morales): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [8,3], base3: false
+base1: false, base2: true, base3: false
+Score: 8-10
+
+Tristian Love: rng1 = 54 + 14 - 8 + 1 = 61
+rng2 = 72 + 11 - 7 + 1 = 77
+Flyout
+Team 1 pitcher (Ignacio Morales): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-10
+
+-----------------------
+
+TOP INNING 8
+
+Jon Williamson: rng1 = 14 + 2 - 6 - 1 = 9
+Strikeout
+Team 2 pitcher (Johan Cortez): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-10
+
+Koyama Tsuneo: rng1 = 84 + 14 - 6 - 1 = 91
+rng2 = 87 + 11 - 8 - 1 = 89
+Double
+Team 2 pitcher (Johan Cortez): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: [0,3], base3: false
+base1: false, base2: true, base3: false
+Score: 8-10
+
+Justus Pate: rng1 = 13 + 13 - 6 - 1 = 19
+Strikeout
+Team 2 pitcher (Johan Cortez): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: [0,3], base3: false
+base1: false, base2: true, base3: false
+Score: 8-10
+
+Kim Tae-Woo: rng1 = 49 + 12 - 6 - 1 = 54
+rng2 = 83 + 12 - 8 - 1 = 86
+Flyout
+Team 2 pitcher (Johan Cortez): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-10
+
+-----------------------
+
+BOTTOM INNING 8
+
+Nicolás Moruga: rng1 = 49 + 14 - 8 + 1 = 56
+rng2 = 16 + 14 - 7 + 1 = 24
+Groundout
+Team 1 pitcher (Ignacio Morales): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-10
+
+Edward Cox: rng1 = 3 + 13 - 8 + 1 = 9
+Strikeout
+Team 1 pitcher (Ignacio Morales): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-10
+
+Lucián Chicote: rng1 = 2 + 11 - 8 + 1 = 6
+Strikeout
+Team 1 pitcher (Ignacio Morales): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-10
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Christopher Jones
+
+Charles Harris: rng1 = 56 + 9 - 15 - 1 = 49
+rng2 = 80 + 12 - 15 - 1 = 76
+Flyout
+Team 2 pitcher (Christopher Jones): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-10
+
+Jesús Alarcón: rng1 = 47 + 6 - 15 - 1 = 37
+rng2 = 47 + 11 - 15 - 1 = 42
+Groundout
+Team 2 pitcher (Christopher Jones): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-10
+
+Jayden Green: rng1 = 59 + 5 - 15 - 1 = 48
+rng2 = 52 + 8 - 15 - 1 = 44
+Groundout
+Team 2 pitcher (Christopher Jones): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-10
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 9
+Team 2 hits: 14
+Team 1 runs: 8
+Team 2 runs: 10
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-05-03
+Koyama Tsuneo	4	1	2	2	0	0	0	1	1					Tampa Bay
+Justus Pate	5	1	1	0	0	0	0	0	3	
+Kim Tae-Woo	2	2	0	0	0	0	0	3	0	
+Charles Harris	5	1	2	2	0	0	5	0	1	
+Jesús Alarcón	5	0	1	0	0	0	1	0	1	
+Jayden Green	4	0	1	0	0	0	0	1	0	
+Kojima Kunio	4	0	0	0	0	0	1	0	1	
+Noel Ayers	3	1	0	0	0	0	0	1	2	
+Jon Williamson	4	2	2	0	0	1	1	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Gabriel Delgado	0	1	1	1	0	0	10	8	7	2	3	4	21	
+Logan Rogers	0	0	1	0	0	0	4	4	3	2	0	1	8	
+William Sheppard	0	0	1	0	0	0	4	1	0	0	0	0	4	
+Ignacio Morales	0	0	1	0	0	0	6	1	0	0	0	2	7	
+Boone Almas	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-05-03
+Tristian Love	5	1	2	1	0	1	2	0	1					New York
+Nicolás Moruga	4	2	1	0	0	1	2	1	0	
+Edward Cox	5	0	1	0	0	0	2	0	2	
+Lucián Chicote	5	1	2	0	0	0	1	0	1	
+Aldo Gilmore	4	1	3	0	0	1	2	0	0	
+Javier Guillén	3	0	0	0	0	0	0	1	2	
+Alexis Shultz	4	1	1	0	0	1	1	0	1	
+Joaquín Laguna	4	2	2	0	0	0	0	0	0	
+Zahir Burgos	3	2	2	2	0	0	0	1	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Keenan Elliott	1	0	1	1	0	0	12	5	5	1	3	6	20	
+Shane Moran	0	0	1	0	0	0	3	1	0	0	1	1	5	
+Trey Hendrickson	0	0	1	0	0	0	2	2	3	0	2	1	6	
+Johan Cortez	0	0	1	0	0	0	7	1	0	0	0	2	8	
+Christopher Jones	0	0	1	0	1	1	3	0	0	0	0	0	3	

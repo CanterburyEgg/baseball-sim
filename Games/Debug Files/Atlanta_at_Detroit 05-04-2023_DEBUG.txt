@@ -1,0 +1,831 @@
+TOP INNING 1
+
+Wakasugi Norogumi: rng1 = 12 + 15 - 7 - 1 = 19
+Strikeout
+Team 2 pitcher (Corey Durham): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Lawson Haney: rng1 = 81 + 14 - 7 - 1 = 87
+Walk
+Team 2 pitcher (Corey Durham): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Alfonso Stafford: rng1 = 61 + 13 - 7 - 1 = 66
+rng2 = 56 + 7 - 6 - 1 = 56
+Lineout
+Team 2 pitcher (Corey Durham): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Ethan Spencer: rng1 = 53 + 12 - 7 - 1 = 57
+rng2 = 29 + 15 - 6 - 1 = 37
+Groundout
+Team 2 pitcher (Corey Durham): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Cody McCarthy: rng1 = 8 + 14 - 6 + 1 = 17
+Strikeout
+Team 1 pitcher (Marcus Washington): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Randall Hodge: rng1 = 78 + 13 - 6 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Marcus Washington): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Joseph Thayer: rng1 = 7 + 13 - 6 + 1 = 15
+rng2 = 66 + 8 - 8 + 1 = 67
+Flyout
+Team 1 pitcher (Marcus Washington): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Reuben Sutton: rng1 = 27 + 12 - 6 + 1 = 34
+rng2 = 25 + 14 - 8 + 1 = 32
+Groundout
+Team 1 pitcher (Marcus Washington): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Ike Nicholson: rng1 = 79 + 9 - 7 - 1 = 80
+rng2 = 15 + 11 - 6 - 1 = 19
+Single
+Team 2 pitcher (Corey Durham): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Hayden Wright: rng1 = 95 + 8 - 7 - 1 = 95
+rng2 = 18 + 10 - 6 - 1 = 21
+Single
+Team 2 pitcher (Corey Durham): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 0
+
+base1: [5,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Xavier Cabrera: rng1 = 63 + 11 - 7 - 1 = 66
+rng2 = 75 + 7 - 6 - 1 = 75
+Flyout
+Team 2 pitcher (Corey Durham): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Karsen Welch: rng1 = 21 + 11 - 7 - 1 = 24
+Strikeout
+Team 2 pitcher (Corey Durham): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Alex Águila: rng1 = 79 + 5 - 7 - 1 = 76
+rng2 = 38 + 5 - 6 - 1 = 36
+Single
+Team 2 pitcher (Corey Durham): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [8,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Wakasugi Norogumi: rng1 = 75 + 15 - 7 - 1 = 82
+rng2 = 52 + 14 - 6 - 1 = 59
+Single
+Team 2 pitcher (Corey Durham): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 2
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-0
+
+Lawson Haney: rng1 = 44 + 14 - 7 - 1 = 50
+rng2 = 54 + 13 - 6 - 1 = 60
+Flyout
+Team 2 pitcher (Corey Durham): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Dante Leoz: rng1 = 11 + 12 - 6 + 1 = 18
+Strikeout
+Team 1 pitcher (Marcus Washington): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Caden Bryan: rng1 = 6 + 8 - 6 + 1 = 9
+Strikeout
+Team 1 pitcher (Marcus Washington): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Ethan Murphy: rng1 = 38 + 6 - 6 + 1 = 39
+rng2 = 20 + 6 - 8 + 1 = 19
+Groundout
+Team 1 pitcher (Marcus Washington): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+TOP INNING 3
+
+Alfonso Stafford: rng1 = 81 + 13 - 7 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Corey Durham): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 0
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Ethan Spencer: rng1 = 72 + 12 - 7 - 1 = 76
+rng2 = 59 + 15 - 6 - 1 = 67
+Double
+Team 2 pitcher (Corey Durham): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 0
+
+base1: false, base2: [3,0], base3: [2,0]
+base1: false, base2: true, base3: true
+Score: 2-0
+
+Ike Nicholson: rng1 = 81 + 9 - 7 - 1 = 82
+rng2 = 39 + 11 - 6 - 1 = 43
+Single
+Team 2 pitcher (Corey Durham): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 0
+
+base1: [4,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 3-0
+
+Hayden Wright: rng1 = 84 + 8 - 7 - 1 = 84
+rng2 = 96 + 10 - 6 - 1 = 99
+Home run
+Team 2 pitcher (Corey Durham): 15 batters faced, 6 runs allowed = 15 + 15.0 = 30.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-0
+
+Xavier Cabrera: rng1 = 41 + 11 - 7 - 1 = 44
+rng2 = 100 + 7 - 6 - 1 = 100
+Flyout
+Team 2 pitcher (Corey Durham): 16 batters faced, 6 runs allowed = 16 + 15.0 = 31.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-0
+
+Karsen Welch: rng1 = 27 + 11 - 7 - 1 = 30
+rng2 = 60 + 7 - 6 - 1 = 60
+Flyout
+Team 2 pitcher (Corey Durham): 17 batters faced, 6 runs allowed = 17 + 15.0 = 32.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-0
+
+Alex Águila: rng1 = 100 + 5 - 7 - 1 = 97
+rng2 = 67 + 5 - 6 - 1 = 65
+Double
+Team 2 pitcher (Corey Durham): 18 batters faced, 6 runs allowed = 18 + 15.0 = 33.0, outs: 2
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 6-0
+
+Wakasugi Norogumi: rng1 = 90 + 15 - 7 - 1 = 97
+rng2 = 65 + 14 - 6 - 1 = 72
+Double
+Team 2 pitcher (Corey Durham): 19 batters faced, 7 runs allowed = 19 + 17.5 = 36.5, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 7-0
+
+Lawson Haney: rng1 = 26 + 14 - 7 - 1 = 32
+rng2 = 56 + 13 - 6 - 1 = 62
+Flyout
+Team 2 pitcher (Corey Durham): 20 batters faced, 7 runs allowed = 20 + 17.5 = 37.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Trent Page: rng1 = 69 + 6 - 6 + 1 = 70
+Walk
+Team 1 pitcher (Marcus Washington): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-0
+
+Alonso Welch: rng1 = 70 + 7 - 6 + 1 = 72
+rng2 = 64 + 4 - 8 + 1 = 61
+Single
+Team 1 pitcher (Marcus Washington): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 0
+
+base1: [8,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 7-0
+
+Cody McCarthy: rng1 = 36 + 14 - 6 + 1 = 45
+rng2 = 72 + 12 - 8 + 1 = 77
+Flyout
+Team 1 pitcher (Marcus Washington): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-1
+
+Randall Hodge: rng1 = 80 + 13 - 6 + 1 = 88
+Walk
+Team 1 pitcher (Marcus Washington): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: [1,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 7-1
+
+Joseph Thayer: rng1 = 36 + 13 - 6 + 1 = 44
+rng2 = 77 + 8 - 8 + 1 = 78
+Flyout
+Team 1 pitcher (Marcus Washington): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 2
+
+base1: [1,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 7-1
+
+Reuben Sutton: rng1 = 74 + 12 - 6 + 1 = 81
+rng2 = 78 + 14 - 8 + 1 = 85
+Home run
+Team 1 pitcher (Marcus Washington): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-4
+
+Dante Leoz: rng1 = 79 + 12 - 6 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Marcus Washington): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-4
+
+Caden Bryan: rng1 = 47 + 8 - 6 + 1 = 50
+rng2 = 81 + 13 - 8 + 1 = 87
+Flyout
+Team 1 pitcher (Marcus Washington): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-4
+
+-----------------------
+
+TOP INNING 4
+
+Team 2 pitcher change to Jacob Wallace
+
+Alfonso Stafford: rng1 = 30 + 13 - 7 - 1 = 35
+rng2 = 93 + 7 - 6 - 1 = 93
+Flyout
+Team 2 pitcher (Jacob Wallace): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-4
+
+Ethan Spencer: rng1 = 26 + 12 - 7 - 1 = 30
+rng2 = 63 + 15 - 6 - 1 = 71
+Flyout
+Team 2 pitcher (Jacob Wallace): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-4
+
+Ike Nicholson: rng1 = 99 + 9 - 7 - 1 = 100
+rng2 = 62 + 11 - 6 - 1 = 66
+Double
+Team 2 pitcher (Jacob Wallace): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [4,1], base3: false
+base1: false, base2: true, base3: false
+Score: 7-4
+
+Hayden Wright: rng1 = 14 + 8 - 7 - 1 = 14
+rng2 = 14 + 10 - 6 - 1 = 17
+Groundout
+Team 2 pitcher (Jacob Wallace): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-4
+
+-----------------------
+
+BOTTOM INNING 4
+
+Ethan Murphy: rng1 = 11 + 6 - 6 + 1 = 12
+rng2 = 60 + 6 - 8 + 1 = 59
+Flyout
+Team 1 pitcher (Marcus Washington): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-4
+
+Trent Page: rng1 = 52 + 6 - 6 + 1 = 53
+rng2 = 75 + 5 - 8 + 1 = 73
+Flyout
+Team 1 pitcher (Marcus Washington): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-4
+
+Alonso Welch: rng1 = 74 + 7 - 6 + 1 = 76
+rng2 = 73 + 4 - 8 + 1 = 70
+Double
+Team 1 pitcher (Marcus Washington): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 2
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 7-4
+
+Cody McCarthy: rng1 = 44 + 14 - 6 + 1 = 53
+rng2 = 98 + 12 - 8 + 1 = 103
+Flyout
+Team 1 pitcher (Marcus Washington): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-4
+
+-----------------------
+
+TOP INNING 5
+
+Xavier Cabrera: rng1 = 9 + 11 - 7 - 1 = 12
+rng2 = 31 + 7 - 6 - 1 = 31
+Groundout
+Team 2 pitcher (Jacob Wallace): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-4
+
+Karsen Welch: rng1 = 38 + 11 - 7 - 1 = 41
+rng2 = 99 + 7 - 6 - 1 = 99
+Flyout
+Team 2 pitcher (Jacob Wallace): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-4
+
+Alex Águila: rng1 = 24 + 5 - 7 - 1 = 21
+Strikeout
+Team 2 pitcher (Jacob Wallace): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-4
+
+-----------------------
+
+BOTTOM INNING 5
+
+Randall Hodge: rng1 = 94 + 13 - 6 + 1 = 102
+rng2 = 9 + 9 - 8 + 1 = 11
+Single
+Team 1 pitcher (Marcus Washington): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-4
+
+Joseph Thayer: rng1 = 9 + 13 - 6 + 1 = 17
+Strikeout
+Team 1 pitcher (Marcus Washington): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-4
+
+Reuben Sutton: rng1 = 13 + 12 - 6 + 1 = 20
+Strikeout
+Team 1 pitcher (Marcus Washington): 22 batters faced, 4 runs allowed = 22 + 10.0 = 32.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-4
+
+Dante Leoz: rng1 = 70 + 12 - 6 + 1 = 77
+rng2 = 30 + 13 - 8 + 1 = 36
+Single
+Team 1 pitcher (Marcus Washington): 23 batters faced, 4 runs allowed = 23 + 10.0 = 33.0, outs: 2
+
+base1: [4,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 7-4
+
+Caden Bryan: rng1 = 31 + 8 - 6 + 1 = 34
+rng2 = 68 + 13 - 8 + 1 = 74
+Flyout
+Team 1 pitcher (Marcus Washington): 24 batters faced, 4 runs allowed = 24 + 10.0 = 34.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-4
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Keegan Schiel
+
+Wakasugi Norogumi: rng1 = 15 + 15 - 5 - 1 = 24
+Strikeout
+Team 2 pitcher (Keegan Schiel): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-4
+
+Lawson Haney: rng1 = 33 + 14 - 5 - 1 = 41
+rng2 = 89 + 13 - 8 - 1 = 93
+Flyout
+Team 2 pitcher (Keegan Schiel): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-4
+
+Alfonso Stafford: rng1 = 20 + 13 - 5 - 1 = 27
+Strikeout
+Team 2 pitcher (Keegan Schiel): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-4
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Thomas Dillard
+
+Ethan Murphy: rng1 = 53 + 6 - 9 + 1 = 51
+rng2 = 50 + 6 - 6 + 1 = 51
+Lineout
+Team 1 pitcher (Thomas Dillard): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-4
+
+Trent Page: rng1 = 35 + 6 - 9 + 1 = 33
+rng2 = 35 + 5 - 6 + 1 = 35
+Groundout
+Team 1 pitcher (Thomas Dillard): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-4
+
+Alonso Welch: rng1 = 81 + 7 - 9 + 1 = 80
+rng2 = 53 + 4 - 6 + 1 = 52
+Single
+Team 1 pitcher (Thomas Dillard): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-4
+
+Cody McCarthy: rng1 = 14 + 14 - 9 + 1 = 20
+Strikeout
+Team 1 pitcher (Thomas Dillard): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-4
+
+-----------------------
+
+TOP INNING 7
+
+Ethan Spencer: rng1 = 43 + 12 - 5 - 1 = 49
+rng2 = 71 + 15 - 8 - 1 = 77
+Flyout
+Team 2 pitcher (Keegan Schiel): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-4
+
+Ike Nicholson: rng1 = 46 + 9 - 5 - 1 = 49
+rng2 = 45 + 11 - 8 - 1 = 47
+Groundout
+Team 2 pitcher (Keegan Schiel): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-4
+
+Hayden Wright: rng1 = 13 + 8 - 5 - 1 = 15
+rng2 = 18 + 10 - 8 - 1 = 19
+Groundout
+Team 2 pitcher (Keegan Schiel): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-4
+
+-----------------------
+
+BOTTOM INNING 7
+
+Randall Hodge: rng1 = 25 + 13 - 9 + 1 = 30
+rng2 = 14 + 9 - 6 + 1 = 18
+Groundout
+Team 1 pitcher (Thomas Dillard): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-4
+
+Joseph Thayer: rng1 = 2 + 13 - 9 + 1 = 7
+Strikeout
+Team 1 pitcher (Thomas Dillard): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-4
+
+Reuben Sutton: rng1 = 47 + 12 - 9 + 1 = 51
+rng2 = 42 + 14 - 6 + 1 = 51
+Lineout
+Team 1 pitcher (Thomas Dillard): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-4
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Hanley Harper
+
+Xavier Cabrera: rng1 = 47 + 11 - 7 - 1 = 50
+rng2 = 81 + 7 - 5 - 1 = 82
+Flyout
+Team 2 pitcher (Hanley Harper): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-4
+
+Karsen Welch: rng1 = 88 + 11 - 7 - 1 = 91
+rng2 = 64 + 7 - 5 - 1 = 65
+Double
+Team 2 pitcher (Hanley Harper): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [7,3], base3: false
+base1: false, base2: true, base3: false
+Score: 7-4
+
+Alex Águila: rng1 = 51 + 5 - 7 - 1 = 48
+rng2 = 55 + 5 - 5 - 1 = 54
+Lineout
+Team 2 pitcher (Hanley Harper): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [7,3], base3: false
+base1: false, base2: true, base3: false
+Score: 7-4
+
+Wakasugi Norogumi: rng1 = 65 + 15 - 7 - 1 = 72
+rng2 = 62 + 14 - 5 - 1 = 70
+Double
+Team 2 pitcher (Hanley Harper): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [0,3], base3: false
+base1: false, base2: true, base3: false
+Score: 8-4
+
+Lawson Haney: rng1 = 71 + 14 - 7 - 1 = 77
+rng2 = 76 + 13 - 5 - 1 = 83
+Home run
+Team 2 pitcher (Hanley Harper): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-4
+
+Alfonso Stafford: rng1 = 76 + 13 - 7 - 1 = 81
+rng2 = 31 + 7 - 5 - 1 = 32
+Single
+Team 2 pitcher (Hanley Harper): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: [2,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 10-4
+
+Team 2 pitcher change to Isaac Wilson
+
+Ethan Spencer: rng1 = 87 + 12 - 14 - 1 = 84
+rng2 = 74 + 15 - 14 - 1 = 74
+Double
+Team 2 pitcher (Isaac Wilson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: false, base2: [3,4], base3: false
+base1: false, base2: true, base3: false
+Score: 11-4
+
+Ike Nicholson: rng1 = 41 + 9 - 14 - 1 = 35
+rng2 = 57 + 11 - 14 - 1 = 53
+Lineout
+Team 2 pitcher (Isaac Wilson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 11-4
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Saiki Iwane
+
+Dante Leoz: rng1 = 1 + 12 - 11 + 1 = 3
+Strikeout
+Team 1 pitcher (Saiki Iwane): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 11-4
+
+Caden Bryan: rng1 = 18 + 8 - 11 + 1 = 16
+Strikeout
+Team 1 pitcher (Saiki Iwane): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 11-4
+
+Ethan Murphy: rng1 = 16 + 6 - 11 + 1 = 12
+rng2 = 28 + 6 - 7 + 1 = 28
+Groundout
+Team 1 pitcher (Saiki Iwane): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 11-4
+
+-----------------------
+
+TOP INNING 9
+
+Hayden Wright: rng1 = 8 + 8 - 14 - 1 = 1
+Strikeout
+Team 2 pitcher (Isaac Wilson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 11-4
+
+Xavier Cabrera: rng1 = 71 + 11 - 14 - 1 = 67
+rng2 = 72 + 7 - 14 - 1 = 64
+Flyout
+Team 2 pitcher (Isaac Wilson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 11-4
+
+Karsen Welch: rng1 = 44 + 11 - 14 - 1 = 40
+rng2 = 4 + 7 - 14 - 1 = -4
+Groundout
+Team 2 pitcher (Isaac Wilson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 11-4
+
+-----------------------
+
+BOTTOM INNING 9
+
+Trent Page: rng1 = 55 + 6 - 11 + 1 = 51
+rng2 = 36 + 5 - 7 + 1 = 35
+Groundout
+Team 1 pitcher (Saiki Iwane): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 11-4
+
+Alonso Welch: rng1 = 28 + 7 - 11 + 1 = 25
+Strikeout
+Team 1 pitcher (Saiki Iwane): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 11-4
+
+Cody McCarthy: rng1 = 68 + 14 - 11 + 1 = 72
+rng2 = 53 + 12 - 7 + 1 = 59
+Single
+Team 1 pitcher (Saiki Iwane): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [0,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 11-4
+
+Randall Hodge: rng1 = 96 + 13 - 11 + 1 = 99
+rng2 = 54 + 9 - 7 + 1 = 57
+Single
+Team 1 pitcher (Saiki Iwane): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [1,2], base2: false, base3: [0,2]
+base1: true, base2: false, base3: true
+Score: 11-4
+
+Joseph Thayer: rng1 = 3 + 13 - 11 + 1 = 6
+Strikeout
+Team 1 pitcher (Saiki Iwane): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 11-4
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 15
+Team 2 hits: 8
+Team 1 runs: 11
+Team 2 runs: 4
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-05-04
+Wakasugi Norogumi	5	1	3	2	0	0	3	0	2					Atlanta
+Lawson Haney	4	1	1	0	0	1	2	1	0	
+Alfonso Stafford	4	2	1	0	0	0	0	0	1	
+Ethan Spencer	5	1	2	2	0	0	1	0	0	
+Ike Nicholson	5	2	3	1	0	0	1	0	0	
+Hayden Wright	5	2	2	0	0	1	3	0	1	
+Xavier Cabrera	5	0	0	0	0	0	1	0	0	
+Karsen Welch	5	1	1	1	0	0	0	0	1	
+Alex Águila	4	1	2	1	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Marcus Washington	1	0	1	1	0	0	15	5	4	1	2	5	24	
+Thomas Dillard	0	0	1	0	0	0	6	1	0	0	0	2	7	
+Saiki Iwane	0	0	1	0	0	0	6	2	0	0	0	4	8	
+Moises Alvarado	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Juancarlo Pinto	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-05-04
+Cody McCarthy	5	0	1	0	0	0	1	0	2					Detroit
+Randall Hodge	3	1	2	0	0	0	0	1	0	
+Joseph Thayer	5	0	0	0	0	0	0	0	3	
+Reuben Sutton	4	1	1	0	0	1	3	0	1	
+Dante Leoz	3	0	1	0	0	0	0	0	2	
+Caden Bryan	4	0	0	0	0	0	0	0	2	
+Ethan Murphy	4	0	0	0	0	0	0	0	0	
+Trent Page	3	1	0	0	0	0	0	1	0	
+Alonso Welch	4	1	3	1	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Corey Durham	0	1	1	1	0	0	9	9	7	1	1	2	20	
+Jacob Wallace	0	0	1	0	0	0	6	1	0	0	0	1	7	
+Keegan Schiel	0	0	1	0	0	0	6	0	0	0	0	2	6	
+Hanley Harper	0	0	1	0	0	0	2	4	4	1	0	0	6	
+Isaac Wilson	0	0	1	0	0	0	4	1	0	0	0	1	5	

@@ -1,0 +1,834 @@
+TOP INNING 1
+
+Eric Parker: rng1 = 14 + 17 - 6 - 1 = 24
+Strikeout
+Team 2 pitcher (Dominic Doyle): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Mateo Estrada: rng1 = 58 + 15 - 6 - 1 = 66
+rng2 = 20 + 14 - 7 - 1 = 26
+Groundout
+Team 2 pitcher (Dominic Doyle): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jonathan Turner: rng1 = 98 + 9 - 6 - 1 = 100
+rng2 = 4 + 6 - 7 - 1 = 2
+Single
+Team 2 pitcher (Dominic Doyle): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Umberto Tasis: rng1 = 98 + 10 - 6 - 1 = 101
+rng2 = 6 + 6 - 7 - 1 = 4
+Single
+Team 2 pitcher (Dominic Doyle): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [3,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Jose Walker: rng1 = 19 + 14 - 6 - 1 = 26
+Strikeout
+Team 2 pitcher (Dominic Doyle): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Ramon Cabrera: rng1 = 33 + 12 - 11 + 1 = 35
+rng2 = 68 + 12 - 9 + 1 = 72
+Flyout
+Team 1 pitcher (Max Wolfe): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Esteban Mendoza: rng1 = 3 + 11 - 11 + 1 = 4
+Strikeout
+Team 1 pitcher (Max Wolfe): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Billy Campbell: rng1 = 50 + 10 - 11 + 1 = 50
+rng2 = 28 + 10 - 9 + 1 = 30
+Groundout
+Team 1 pitcher (Max Wolfe): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Lawrence Webb: rng1 = 16 + 14 - 6 - 1 = 23
+Strikeout
+Team 2 pitcher (Dominic Doyle): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Miguel Castillo: rng1 = 22 + 10 - 6 - 1 = 25
+Strikeout
+Team 2 pitcher (Dominic Doyle): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Juan Reyes: rng1 = 66 + 10 - 6 - 1 = 69
+Walk
+Team 2 pitcher (Dominic Doyle): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Jorge Perez: rng1 = 96 + 10 - 6 - 1 = 99
+rng2 = 64 + 5 - 7 - 1 = 61
+Single
+Team 2 pitcher (Dominic Doyle): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Eric Parker: rng1 = 46 + 17 - 6 - 1 = 56
+rng2 = 85 + 15 - 7 - 1 = 92
+Flyout
+Team 2 pitcher (Dominic Doyle): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Kyrie Anderson: rng1 = 65 + 9 - 11 + 1 = 64
+rng2 = 60 + 13 - 9 + 1 = 65
+Flyout
+Team 1 pitcher (Max Wolfe): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Pedro Martinez: rng1 = 74 + 10 - 11 + 1 = 74
+rng2 = 96 + 9 - 9 + 1 = 97
+Home run
+Team 1 pitcher (Max Wolfe): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Leonardo Nunez: rng1 = 83 + 9 - 11 + 1 = 82
+rng2 = 39 + 9 - 9 + 1 = 40
+Single
+Team 1 pitcher (Max Wolfe): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Bryson Mckinney: rng1 = 72 + 6 - 11 + 1 = 68
+rng2 = 84 + 8 - 9 + 1 = 84
+Flyout
+Team 1 pitcher (Max Wolfe): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Curtis McCormick: rng1 = 32 + 5 - 11 + 1 = 27
+Strikeout
+Team 1 pitcher (Max Wolfe): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 3
+
+Mateo Estrada: rng1 = 63 + 15 - 6 - 1 = 71
+Walk
+Team 2 pitcher (Dominic Doyle): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Jonathan Turner: rng1 = 16 + 9 - 6 - 1 = 18
+Strikeout
+Team 2 pitcher (Dominic Doyle): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Umberto Tasis: rng1 = 4 + 10 - 6 - 1 = 7
+Strikeout
+Team 2 pitcher (Dominic Doyle): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Jose Walker: rng1 = 29 + 14 - 6 - 1 = 36
+rng2 = 56 + 13 - 7 - 1 = 61
+Flyout
+Team 2 pitcher (Dominic Doyle): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Daniel Ward: rng1 = 87 + 3 - 11 + 1 = 80
+rng2 = 99 + 3 - 9 + 1 = 94
+Home run
+Team 1 pitcher (Max Wolfe): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Ramon Cabrera: rng1 = 36 + 12 - 11 + 1 = 38
+rng2 = 60 + 12 - 9 + 1 = 64
+Flyout
+Team 1 pitcher (Max Wolfe): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Esteban Mendoza: rng1 = 90 + 11 - 11 + 1 = 91
+rng2 = 23 + 9 - 9 + 1 = 24
+Single
+Team 1 pitcher (Max Wolfe): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Billy Campbell: rng1 = 2 + 10 - 11 + 1 = 2
+Strikeout
+Team 1 pitcher (Max Wolfe): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Kyrie Anderson: rng1 = 61 + 9 - 11 + 1 = 60
+rng2 = 70 + 13 - 9 + 1 = 75
+Flyout
+Team 1 pitcher (Max Wolfe): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 4
+
+Lawrence Webb: rng1 = 67 + 14 - 6 - 1 = 74
+rng2 = 45 + 14 - 7 - 1 = 51
+Single
+Team 2 pitcher (Dominic Doyle): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Miguel Castillo: rng1 = 46 + 10 - 6 - 1 = 49
+rng2 = 66 + 15 - 7 - 1 = 73
+Flyout
+Team 2 pitcher (Dominic Doyle): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Juan Reyes: rng1 = 99 + 10 - 6 - 1 = 102
+rng2 = 71 + 11 - 7 - 1 = 74
+Double
+Team 2 pitcher (Dominic Doyle): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 1
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-2
+
+Jorge Perez: rng1 = 29 + 10 - 6 - 1 = 32
+rng2 = 77 + 5 - 7 - 1 = 74
+Flyout
+Team 2 pitcher (Dominic Doyle): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 2
+
+base1: false, base2: false, base3: [7,0]
+base1: false, base2: false, base3: true
+Score: 1-2
+
+Eric Parker: rng1 = 10 + 17 - 6 - 1 = 20
+Strikeout
+Team 2 pitcher (Dominic Doyle): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 4
+
+Pedro Martinez: rng1 = 46 + 10 - 11 + 1 = 46
+rng2 = 92 + 9 - 9 + 1 = 93
+Flyout
+Team 1 pitcher (Max Wolfe): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Leonardo Nunez: rng1 = 15 + 9 - 11 + 1 = 14
+rng2 = 98 + 9 - 9 + 1 = 99
+Flyout
+Team 1 pitcher (Max Wolfe): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Bryson Mckinney: rng1 = 30 + 6 - 11 + 1 = 26
+Strikeout
+Team 1 pitcher (Max Wolfe): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 5
+
+Mateo Estrada: rng1 = 82 + 15 - 6 - 1 = 90
+Walk
+Team 2 pitcher (Dominic Doyle): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Jonathan Turner: rng1 = 62 + 9 - 6 - 1 = 64
+rng2 = 56 + 6 - 7 - 1 = 54
+Lineout
+Team 2 pitcher (Dominic Doyle): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Umberto Tasis: rng1 = 13 + 10 - 6 - 1 = 16
+Strikeout
+Team 2 pitcher (Dominic Doyle): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Jose Walker: rng1 = 47 + 14 - 6 - 1 = 54
+rng2 = 99 + 13 - 7 - 1 = 104
+Flyout
+Team 2 pitcher (Dominic Doyle): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 5
+
+Curtis McCormick: rng1 = 96 + 5 - 11 + 1 = 91
+rng2 = 40 + 7 - 9 + 1 = 39
+Single
+Team 1 pitcher (Max Wolfe): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Daniel Ward: rng1 = 3 + 3 - 11 + 1 = -4
+Strikeout
+Team 1 pitcher (Max Wolfe): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Ramon Cabrera: rng1 = 88 + 12 - 11 + 1 = 90
+Walk
+Team 1 pitcher (Max Wolfe): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 1
+
+base1: [0,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-2
+
+Esteban Mendoza: rng1 = 68 + 11 - 11 + 1 = 69
+Walk
+Team 1 pitcher (Max Wolfe): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 1
+
+base1: [1,0], base2: [0,0], base3: [7,0]
+base1: true, base2: true, base3: true
+Score: 1-2
+
+Billy Campbell: rng1 = 53 + 10 - 11 + 1 = 53
+rng2 = 65 + 10 - 9 + 1 = 67
+Flyout
+Team 1 pitcher (Max Wolfe): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 2
+
+base1: [1,0], base2: [0,0], base3: [7,0]
+base1: true, base2: true, base3: true
+Score: 1-2
+
+Kyrie Anderson: rng1 = 20 + 9 - 11 + 1 = 19
+Strikeout
+Team 1 pitcher (Max Wolfe): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 6
+
+Lawrence Webb: rng1 = 67 + 14 - 6 - 1 = 74
+rng2 = 38 + 14 - 7 - 1 = 44
+Single
+Team 2 pitcher (Dominic Doyle): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Miguel Castillo: rng1 = 63 + 10 - 6 - 1 = 66
+rng2 = 50 + 15 - 7 - 1 = 57
+Lineout
+Team 2 pitcher (Dominic Doyle): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Juan Reyes: rng1 = 88 + 10 - 6 - 1 = 91
+rng2 = 68 + 11 - 7 - 1 = 71
+Double
+Team 2 pitcher (Dominic Doyle): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 1
+
+base1: false, base2: [7,0], base3: [5,0]
+base1: false, base2: true, base3: true
+Score: 1-2
+
+Jorge Perez: rng1 = 78 + 10 - 6 - 1 = 81
+rng2 = 50 + 5 - 7 - 1 = 47
+Single
+Team 2 pitcher (Dominic Doyle): 27 batters faced, 3 runs allowed = 27 + 7.5 = 34.5, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Team 2 pitcher change to Matias Rivera
+
+Eric Parker: rng1 = 23 + 17 - 13 - 1 = 26
+Strikeout
+Team 2 pitcher (Matias Rivera): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Mateo Estrada: rng1 = 35 + 15 - 13 - 1 = 36
+rng2 = 36 + 14 - 11 - 1 = 38
+Groundout
+Team 2 pitcher (Matias Rivera): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+BOTTOM INNING 6
+
+Pedro Martinez: rng1 = 11 + 10 - 11 + 1 = 11
+rng2 = 35 + 9 - 9 + 1 = 36
+Groundout
+Team 1 pitcher (Max Wolfe): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Leonardo Nunez: rng1 = 93 + 9 - 11 + 1 = 92
+rng2 = 54 + 9 - 9 + 1 = 55
+Single
+Team 1 pitcher (Max Wolfe): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Bryson Mckinney: rng1 = 91 + 6 - 11 + 1 = 87
+Walk
+Team 1 pitcher (Max Wolfe): 25 batters faced, 2 runs allowed = 25 + 5.0 = 30.0, outs: 1
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-2
+
+Curtis McCormick: rng1 = 85 + 5 - 11 + 1 = 80
+rng2 = 64 + 7 - 9 + 1 = 63
+Single
+Team 1 pitcher (Max Wolfe): 26 batters faced, 3 runs allowed = 26 + 7.5 = 33.5, outs: 1
+
+base1: [7,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 3-3
+
+Team 1 pitcher change to Mori Yoshikazu
+
+Daniel Ward: rng1 = 85 + 3 - 7 + 1 = 82
+rng2 = 78 + 3 - 7 + 1 = 75
+Double
+Team 1 pitcher (Mori Yoshikazu): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: [8,1], base3: [7,0]
+base1: false, base2: true, base3: true
+Score: 3-4
+
+Ramon Cabrera: rng1 = 32 + 12 - 7 + 1 = 38
+rng2 = 53 + 12 - 7 + 1 = 59
+Flyout
+Team 1 pitcher (Mori Yoshikazu): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: [8,1]
+base1: false, base2: false, base3: true
+Score: 3-5
+
+Esteban Mendoza: rng1 = 56 + 11 - 7 + 1 = 61
+rng2 = 33 + 9 - 7 + 1 = 36
+Groundout
+Team 1 pitcher (Mori Yoshikazu): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+TOP INNING 7
+
+Jonathan Turner: rng1 = 6 + 9 - 13 - 1 = 1
+Strikeout
+Team 2 pitcher (Matias Rivera): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Umberto Tasis: rng1 = 52 + 10 - 13 - 1 = 48
+rng2 = 21 + 6 - 11 - 1 = 15
+Groundout
+Team 2 pitcher (Matias Rivera): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Jose Walker: rng1 = 87 + 14 - 13 - 1 = 87
+Walk
+Team 2 pitcher (Matias Rivera): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-5
+
+Lawrence Webb: rng1 = 92 + 14 - 13 - 1 = 92
+rng2 = 88 + 14 - 11 - 1 = 90
+Double
+Team 2 pitcher (Matias Rivera): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: [5,1], base3: [4,1]
+base1: false, base2: true, base3: true
+Score: 3-5
+
+Miguel Castillo: rng1 = 87 + 10 - 13 - 1 = 83
+rng2 = 91 + 15 - 11 - 1 = 94
+Home run
+Team 2 pitcher (Matias Rivera): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-5
+
+Team 2 pitcher change to Tim Brooks
+
+Juan Reyes: rng1 = 65 + 10 - 11 - 1 = 63
+rng2 = 9 + 11 - 13 - 1 = 6
+Groundout
+Team 2 pitcher (Tim Brooks): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-5
+
+-----------------------
+
+BOTTOM INNING 7
+
+Billy Campbell: rng1 = 47 + 10 - 7 + 1 = 51
+rng2 = 5 + 10 - 7 + 1 = 9
+Groundout
+Team 1 pitcher (Mori Yoshikazu): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-5
+
+Kyrie Anderson: rng1 = 45 + 9 - 7 + 1 = 48
+rng2 = 56 + 13 - 7 + 1 = 63
+Flyout
+Team 1 pitcher (Mori Yoshikazu): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-5
+
+Pedro Martinez: rng1 = 57 + 10 - 7 + 1 = 61
+rng2 = 69 + 9 - 7 + 1 = 72
+Flyout
+Team 1 pitcher (Mori Yoshikazu): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-5
+
+-----------------------
+
+TOP INNING 8
+
+Jorge Perez: rng1 = 89 + 10 - 11 - 1 = 87
+Walk
+Team 2 pitcher (Tim Brooks): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-5
+
+Eric Parker: rng1 = 34 + 17 - 11 - 1 = 39
+rng2 = 19 + 15 - 13 - 1 = 20
+Groundout
+Team 2 pitcher (Tim Brooks): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [0,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-5
+
+Mateo Estrada: rng1 = 58 + 15 - 11 - 1 = 61
+rng2 = 36 + 14 - 13 - 1 = 36
+Groundout
+Team 2 pitcher (Tim Brooks): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-5
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Julio Carrera
+
+Leonardo Nunez: rng1 = 68 + 9 - 8 + 1 = 70
+Walk
+Team 1 pitcher (Julio Carrera): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-5
+
+Bryson Mckinney: rng1 = 54 + 6 - 8 + 1 = 53
+rng2 = 30 + 8 - 7 + 1 = 32
+Groundout
+Team 1 pitcher (Julio Carrera): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-5
+
+Curtis McCormick: rng1 = 51 + 5 - 8 + 1 = 49
+rng2 = 47 + 7 - 7 + 1 = 48
+Lineout
+Team 1 pitcher (Julio Carrera): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-5
+
+Daniel Ward: rng1 = 44 + 3 - 8 + 1 = 40
+rng2 = 80 + 3 - 7 + 1 = 77
+Flyout
+Team 1 pitcher (Julio Carrera): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-5
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Bradley Weaver
+
+Jonathan Turner: rng1 = 81 + 9 - 11 - 1 = 78
+rng2 = 81 + 6 - 11 - 1 = 75
+Double
+Team 2 pitcher (Bradley Weaver): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [2,3], base3: false
+base1: false, base2: true, base3: false
+Score: 6-5
+
+Umberto Tasis: rng1 = 56 + 10 - 11 - 1 = 54
+rng2 = 31 + 6 - 11 - 1 = 25
+Groundout
+Team 2 pitcher (Bradley Weaver): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [2,3], base3: false
+base1: false, base2: true, base3: false
+Score: 6-5
+
+Jose Walker: rng1 = 91 + 14 - 11 - 1 = 93
+rng2 = 86 + 13 - 11 - 1 = 87
+Double
+Team 2 pitcher (Bradley Weaver): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [4,3], base3: false
+base1: false, base2: true, base3: false
+Score: 7-5
+
+Lawrence Webb: rng1 = 74 + 14 - 11 - 1 = 76
+rng2 = 11 + 14 - 11 - 1 = 13
+Single
+Team 2 pitcher (Bradley Weaver): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: [5,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-5
+
+Miguel Castillo: rng1 = 25 + 10 - 11 - 1 = 23
+Strikeout
+Team 2 pitcher (Bradley Weaver): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: [5,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-5
+
+Juan Reyes: rng1 = 9 + 10 - 11 - 1 = 7
+Strikeout
+Team 2 pitcher (Bradley Weaver): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-5
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to David Juarez
+
+Ramon Cabrera: rng1 = 2 + 12 - 9 + 1 = 6
+Strikeout
+Team 1 pitcher (David Juarez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-5
+
+Esteban Mendoza: rng1 = 48 + 11 - 9 + 1 = 51
+rng2 = 44 + 9 - 9 + 1 = 45
+Groundout
+Team 1 pitcher (David Juarez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-5
+
+Billy Campbell: rng1 = 73 + 10 - 9 + 1 = 75
+rng2 = 29 + 10 - 9 + 1 = 31
+Single
+Team 1 pitcher (David Juarez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-5
+
+Kyrie Anderson: rng1 = 3 + 9 - 9 + 1 = 4
+Strikeout
+Team 1 pitcher (David Juarez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-5
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 13
+Team 2 hits: 9
+Team 1 runs: 8
+Team 2 runs: 5
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-05-04
+Eric Parker	5	0	0	0	0	0	0	0	3					St Louis
+Mateo Estrada	3	0	0	0	0	0	0	2	0	
+Jonathan Turner	5	1	2	1	0	0	0	0	2	
+Umberto Tasis	5	0	1	0	0	0	0	0	2	
+Jose Walker	4	2	1	1	0	0	1	1	1	
+Lawrence Webb	5	3	4	1	0	0	1	0	1	
+Miguel Castillo	5	1	1	0	0	1	3	0	2	
+Juan Reyes	4	1	2	2	0	0	1	1	1	
+Jorge Perez	3	0	2	0	0	0	2	1	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Max Wolfe	0	0	1	1	0	0	16	7	5	2	3	6	26	
+Mori Yoshikazu	1	0	1	0	0	0	5	1	0	0	0	0	6	
+Julio Carrera	0	0	1	0	0	0	3	0	0	0	1	0	4	
+Henry Wright	0	0	0	0	0	0	0	0	0	0	0	0	0	
+David Juarez	0	0	1	0	1	1	3	1	0	0	0	2	4	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-05-04
+Ramon Cabrera	4	0	0	0	0	0	1	1	1					Anaheim
+Esteban Mendoza	4	0	1	0	0	0	0	1	1	
+Billy Campbell	5	0	1	0	0	0	0	0	1	
+Kyrie Anderson	5	0	0	0	0	0	0	0	2	
+Pedro Martinez	4	1	1	0	0	1	1	0	0	
+Leonardo Nunez	3	1	2	0	0	0	0	1	0	
+Bryson Mckinney	3	1	0	0	0	0	0	1	1	
+Curtis McCormick	4	1	2	0	0	0	1	0	1	
+Daniel Ward	4	1	2	1	0	1	2	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Dominic Doyle	0	0	1	1	0	0	16	8	3	0	3	8	27	
+Matias Rivera	0	1	1	0	0	0	4	2	3	1	1	2	7	
+Tim Brooks	0	0	1	0	0	0	4	0	0	0	1	0	4	
+Bradley Weaver	0	0	1	0	0	0	3	3	2	0	0	2	6	
+Terry Adams	0	0	0	0	0	0	0	0	0	0	0	0	0	

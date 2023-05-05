@@ -1,0 +1,818 @@
+TOP INNING 1
+
+Jorge Donald: rng1 = 31 + 5 - 11 - 1 = 24
+Strikeout
+Team 2 pitcher (Tan Young-Ho): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Alex Diaz: rng1 = 1 + 15 - 11 - 1 = 4
+Strikeout
+Team 2 pitcher (Tan Young-Ho): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Booker Brown: rng1 = 39 + 8 - 11 - 1 = 35
+rng2 = 30 + 3 - 7 - 1 = 25
+Groundout
+Team 2 pitcher (Tan Young-Ho): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Matías Martinez: rng1 = 92 + 8 - 8 + 1 = 93
+rng2 = 37 + 8 - 9 + 1 = 37
+Single
+Team 1 pitcher (Ethan Scott): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Adam Harmon: rng1 = 70 + 11 - 8 + 1 = 74
+rng2 = 55 + 7 - 9 + 1 = 54
+Single
+Team 1 pitcher (Ethan Scott): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Rei Matsui: rng1 = 18 + 5 - 8 + 1 = 16
+Strikeout
+Team 1 pitcher (Ethan Scott): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Tomas Ortiz: rng1 = 18 + 5 - 8 + 1 = 16
+Strikeout
+Team 1 pitcher (Ethan Scott): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Joshua Cooper: rng1 = 64 + 8 - 8 + 1 = 65
+rng2 = 12 + 6 - 9 + 1 = 10
+Groundout
+Team 1 pitcher (Ethan Scott): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Richard Morris: rng1 = 40 + 9 - 11 - 1 = 37
+rng2 = 20 + 3 - 7 - 1 = 15
+Groundout
+Team 2 pitcher (Tan Young-Ho): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Javarius Davis: rng1 = 34 + 6 - 11 - 1 = 28
+rng2 = 21 + 8 - 7 - 1 = 21
+Groundout
+Team 2 pitcher (Tan Young-Ho): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Esteban Obregón: rng1 = 31 + 7 - 11 - 1 = 26
+Strikeout
+Team 2 pitcher (Tan Young-Ho): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Domingo Jimenez: rng1 = 32 + 9 - 8 + 1 = 34
+rng2 = 95 + 8 - 9 + 1 = 95
+Flyout
+Team 1 pitcher (Ethan Scott): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Juan-Martín Sáenz: rng1 = 51 + 5 - 8 + 1 = 49
+rng2 = 71 + 7 - 9 + 1 = 70
+Flyout
+Team 1 pitcher (Ethan Scott): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jake Barber: rng1 = 81 + 8 - 8 + 1 = 82
+rng2 = 85 + 4 - 9 + 1 = 81
+Home run
+Team 1 pitcher (Ethan Scott): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Wilmer Guevara: rng1 = 53 + 2 - 8 + 1 = 48
+rng2 = 78 + 7 - 9 + 1 = 77
+Flyout
+Team 1 pitcher (Ethan Scott): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 3
+
+Elijah Washington: rng1 = 48 + 4 - 11 - 1 = 40
+rng2 = 13 + 7 - 7 - 1 = 12
+Groundout
+Team 2 pitcher (Tan Young-Ho): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Kyle Stewart: rng1 = 89 + 7 - 11 - 1 = 84
+rng2 = 69 + 6 - 7 - 1 = 67
+Double
+Team 2 pitcher (Tan Young-Ho): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Patrick Cook: rng1 = 89 + 3 - 11 - 1 = 80
+rng2 = 74 + 6 - 7 - 1 = 72
+Double
+Team 2 pitcher (Tan Young-Ho): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Jorge Donald: rng1 = 71 + 5 - 11 - 1 = 64
+rng2 = 98 + 9 - 7 - 1 = 99
+Flyout
+Team 2 pitcher (Tan Young-Ho): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Alex Diaz: rng1 = 14 + 15 - 11 - 1 = 17
+Strikeout
+Team 2 pitcher (Tan Young-Ho): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Matías Martinez: rng1 = 2 + 8 - 8 + 1 = 3
+Strikeout
+Team 1 pitcher (Ethan Scott): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Adam Harmon: rng1 = 38 + 11 - 8 + 1 = 42
+rng2 = 31 + 7 - 9 + 1 = 30
+Groundout
+Team 1 pitcher (Ethan Scott): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Rei Matsui: rng1 = 87 + 5 - 8 + 1 = 85
+rng2 = 65 + 6 - 9 + 1 = 63
+Single
+Team 1 pitcher (Ethan Scott): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Tomas Ortiz: rng1 = 91 + 5 - 8 + 1 = 89
+Walk
+Team 1 pitcher (Ethan Scott): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 2
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Joshua Cooper: rng1 = 43 + 8 - 8 + 1 = 44
+rng2 = 92 + 6 - 9 + 1 = 90
+Flyout
+Team 1 pitcher (Ethan Scott): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 4
+
+Booker Brown: rng1 = 29 + 8 - 11 - 1 = 25
+Strikeout
+Team 2 pitcher (Tan Young-Ho): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Richard Morris: rng1 = 81 + 9 - 11 - 1 = 78
+rng2 = 6 + 3 - 7 - 1 = 1
+Single
+Team 2 pitcher (Tan Young-Ho): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Javarius Davis: rng1 = 52 + 6 - 11 - 1 = 46
+rng2 = 66 + 8 - 7 - 1 = 66
+Flyout
+Team 2 pitcher (Tan Young-Ho): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Esteban Obregón: rng1 = 74 + 7 - 11 - 1 = 69
+Walk
+Team 2 pitcher (Tan Young-Ho): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 2
+
+base1: [5,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Elijah Washington: rng1 = 89 + 4 - 11 - 1 = 81
+rng2 = 42 + 7 - 7 - 1 = 41
+Single
+Team 2 pitcher (Tan Young-Ho): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 2
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-1
+
+Kyle Stewart: rng1 = 4 + 7 - 11 - 1 = -1
+Strikeout
+Team 2 pitcher (Tan Young-Ho): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Domingo Jimenez: rng1 = 11 + 9 - 8 + 1 = 13
+rng2 = 30 + 8 - 9 + 1 = 30
+Groundout
+Team 1 pitcher (Ethan Scott): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Juan-Martín Sáenz: rng1 = 76 + 5 - 8 + 1 = 74
+rng2 = 25 + 7 - 9 + 1 = 24
+Single
+Team 1 pitcher (Ethan Scott): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Jake Barber: rng1 = 82 + 8 - 8 + 1 = 83
+rng2 = 78 + 4 - 9 + 1 = 74
+Double
+Team 1 pitcher (Ethan Scott): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 1
+
+base1: false, base2: [7,0], base3: [6,0]
+base1: false, base2: true, base3: true
+Score: 2-1
+
+Wilmer Guevara: rng1 = 78 + 2 - 8 + 1 = 73
+rng2 = 89 + 7 - 9 + 1 = 88
+Double
+Team 1 pitcher (Ethan Scott): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 1
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-3
+
+Matías Martinez: rng1 = 95 + 8 - 8 + 1 = 96
+rng2 = 74 + 8 - 9 + 1 = 74
+Double
+Team 1 pitcher (Ethan Scott): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-4
+
+Adam Harmon: rng1 = 15 + 11 - 8 + 1 = 19
+Strikeout
+Team 1 pitcher (Ethan Scott): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-4
+
+Rei Matsui: rng1 = 9 + 5 - 8 + 1 = 7
+Strikeout
+Team 1 pitcher (Ethan Scott): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-4
+
+-----------------------
+
+TOP INNING 5
+
+Patrick Cook: rng1 = 42 + 3 - 11 - 1 = 33
+rng2 = 72 + 6 - 7 - 1 = 70
+Flyout
+Team 2 pitcher (Tan Young-Ho): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Jorge Donald: rng1 = 69 + 5 - 11 - 1 = 62
+rng2 = 74 + 9 - 7 - 1 = 75
+Flyout
+Team 2 pitcher (Tan Young-Ho): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Alex Diaz: rng1 = 100 + 15 - 11 - 1 = 103
+rng2 = 85 + 9 - 7 - 1 = 86
+Double
+Team 2 pitcher (Tan Young-Ho): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-4
+
+Booker Brown: rng1 = 48 + 8 - 11 - 1 = 44
+rng2 = 42 + 3 - 7 - 1 = 37
+Groundout
+Team 2 pitcher (Tan Young-Ho): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-4
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Gabriel Clark
+
+Tomas Ortiz: rng1 = 69 + 5 - 6 + 1 = 69
+Walk
+Team 1 pitcher (Gabriel Clark): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-4
+
+Joshua Cooper: rng1 = 74 + 8 - 6 + 1 = 77
+rng2 = 73 + 6 - 7 + 1 = 73
+Double
+Team 1 pitcher (Gabriel Clark): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: false, base2: [4,1], base3: [3,1]
+base1: false, base2: true, base3: true
+Score: 2-4
+
+Domingo Jimenez: rng1 = 83 + 9 - 6 + 1 = 87
+Walk
+Team 1 pitcher (Gabriel Clark): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 0
+
+base1: [5,1], base2: [4,1], base3: [3,1]
+base1: true, base2: true, base3: true
+Score: 2-4
+
+Juan-Martín Sáenz: rng1 = 67 + 5 - 6 + 1 = 67
+rng2 = 62 + 7 - 7 + 1 = 63
+Flyout
+Team 1 pitcher (Gabriel Clark): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [5,1], base2: [4,1], base3: [3,1]
+base1: true, base2: true, base3: true
+Score: 2-4
+
+Jake Barber: rng1 = 34 + 8 - 6 + 1 = 37
+rng2 = 91 + 4 - 7 + 1 = 89
+Flyout
+Team 1 pitcher (Gabriel Clark): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [5,1], base2: [4,1], base3: false
+base1: true, base2: true, base3: false
+Score: 2-5
+
+Wilmer Guevara: rng1 = 78 + 2 - 6 + 1 = 75
+rng2 = 92 + 7 - 7 + 1 = 93
+Triple
+Team 1 pitcher (Gabriel Clark): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: false, base2: false, base3: [8,1]
+base1: false, base2: false, base3: true
+Score: 2-7
+
+Team 1 pitcher change to Uyehara Tanzan
+
+Matías Martinez: rng1 = 66 + 8 - 5 + 1 = 70
+Walk
+Team 1 pitcher (Uyehara Tanzan): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [0,2], base2: false, base3: [8,1]
+base1: true, base2: false, base3: true
+Score: 2-7
+
+Adam Harmon: rng1 = 67 + 11 - 5 + 1 = 74
+rng2 = 56 + 7 - 5 + 1 = 59
+Single
+Team 1 pitcher (Uyehara Tanzan): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: [1,2], base2: false, base3: [0,2]
+base1: true, base2: false, base3: true
+Score: 2-8
+
+Rei Matsui: rng1 = 73 + 5 - 5 + 1 = 74
+rng2 = 89 + 6 - 5 + 1 = 91
+Double
+Team 1 pitcher (Uyehara Tanzan): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: [2,2], base3: [1,2]
+base1: false, base2: true, base3: true
+Score: 2-9
+
+Tomas Ortiz: rng1 = 99 + 5 - 5 + 1 = 100
+rng2 = 21 + 9 - 5 + 1 = 26
+Single
+Team 1 pitcher (Uyehara Tanzan): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 2
+
+base1: [3,2], base2: false, base3: [2,2]
+base1: true, base2: false, base3: true
+Score: 2-10
+
+Joshua Cooper: rng1 = 34 + 8 - 5 + 1 = 38
+rng2 = 60 + 6 - 5 + 1 = 62
+Flyout
+Team 1 pitcher (Uyehara Tanzan): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-10
+
+-----------------------
+
+TOP INNING 6
+
+Richard Morris: rng1 = 95 + 9 - 11 - 1 = 92
+rng2 = 41 + 3 - 7 - 1 = 36
+Single
+Team 2 pitcher (Tan Young-Ho): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-10
+
+Javarius Davis: rng1 = 15 + 6 - 11 - 1 = 9
+Strikeout
+Team 2 pitcher (Tan Young-Ho): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-10
+
+Esteban Obregón: rng1 = 48 + 7 - 11 - 1 = 43
+rng2 = 35 + 7 - 7 - 1 = 34
+Groundout
+Team 2 pitcher (Tan Young-Ho): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 2
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-10
+
+Elijah Washington: rng1 = 5 + 4 - 11 - 1 = -3
+Strikeout
+Team 2 pitcher (Tan Young-Ho): 25 batters faced, 2 runs allowed = 25 + 5.0 = 30.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-10
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Jerry Taylor
+
+Domingo Jimenez: rng1 = 17 + 9 - 3 + 1 = 24
+Strikeout
+Team 1 pitcher (Jerry Taylor): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-10
+
+Juan-Martín Sáenz: rng1 = 23 + 5 - 3 + 1 = 26
+Strikeout
+Team 1 pitcher (Jerry Taylor): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-10
+
+Jake Barber: rng1 = 76 + 8 - 3 + 1 = 82
+rng2 = 39 + 4 - 4 + 1 = 40
+Single
+Team 1 pitcher (Jerry Taylor): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [7,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-10
+
+Wilmer Guevara: rng1 = 62 + 2 - 3 + 1 = 62
+rng2 = 49 + 7 - 4 + 1 = 53
+Lineout
+Team 1 pitcher (Jerry Taylor): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-10
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Francisco Espinoza
+
+Kyle Stewart: rng1 = 52 + 7 - 5 - 1 = 53
+rng2 = 49 + 6 - 5 - 1 = 49
+Lineout
+Team 2 pitcher (Francisco Espinoza): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-10
+
+Patrick Cook: rng1 = 38 + 3 - 5 - 1 = 35
+rng2 = 54 + 6 - 5 - 1 = 54
+Lineout
+Team 2 pitcher (Francisco Espinoza): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-10
+
+Jorge Donald: rng1 = 93 + 5 - 5 - 1 = 92
+rng2 = 2 + 9 - 5 - 1 = 5
+Single
+Team 2 pitcher (Francisco Espinoza): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-10
+
+Alex Diaz: rng1 = 85 + 15 - 5 - 1 = 94
+rng2 = 64 + 9 - 5 - 1 = 67
+Double
+Team 2 pitcher (Francisco Espinoza): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [1,1], base3: false
+base1: false, base2: true, base3: false
+Score: 3-10
+
+Booker Brown: rng1 = 54 + 8 - 5 - 1 = 56
+rng2 = 88 + 3 - 5 - 1 = 85
+Flyout
+Team 2 pitcher (Francisco Espinoza): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-10
+
+-----------------------
+
+BOTTOM INNING 7
+
+Matías Martinez: rng1 = 5 + 8 - 3 + 1 = 11
+rng2 = 85 + 8 - 4 + 1 = 90
+Flyout
+Team 1 pitcher (Jerry Taylor): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-10
+
+Adam Harmon: rng1 = 2 + 11 - 3 + 1 = 11
+rng2 = 63 + 7 - 4 + 1 = 67
+Flyout
+Team 1 pitcher (Jerry Taylor): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-10
+
+Rei Matsui: rng1 = 16 + 5 - 3 + 1 = 19
+Strikeout
+Team 1 pitcher (Jerry Taylor): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-10
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Rodney Fox
+
+Richard Morris: rng1 = 62 + 9 - 8 - 1 = 62
+rng2 = 92 + 3 - 4 - 1 = 90
+Flyout
+Team 2 pitcher (Rodney Fox): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-10
+
+Javarius Davis: rng1 = 37 + 6 - 8 - 1 = 34
+rng2 = 42 + 8 - 4 - 1 = 45
+Groundout
+Team 2 pitcher (Rodney Fox): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-10
+
+Esteban Obregón: rng1 = 89 + 7 - 8 - 1 = 87
+Walk
+Team 2 pitcher (Rodney Fox): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-10
+
+Elijah Washington: rng1 = 67 + 4 - 8 - 1 = 62
+rng2 = 60 + 7 - 4 - 1 = 62
+Flyout
+Team 2 pitcher (Rodney Fox): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-10
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Arthur Campbell
+
+Tomas Ortiz: rng1 = 3 + 5 - 7 + 1 = 2
+Strikeout
+Team 1 pitcher (Arthur Campbell): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-10
+
+Joshua Cooper: rng1 = 74 + 8 - 7 + 1 = 76
+rng2 = 12 + 6 - 8 + 1 = 11
+Single
+Team 1 pitcher (Arthur Campbell): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [4,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-10
+
+Domingo Jimenez: rng1 = 65 + 9 - 7 + 1 = 68
+rng2 = 81 + 8 - 8 + 1 = 82
+Flyout
+Team 1 pitcher (Arthur Campbell): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [4,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-10
+
+Juan-Martín Sáenz: rng1 = 50 + 5 - 7 + 1 = 49
+rng2 = 7 + 7 - 8 + 1 = 7
+Groundout
+Team 1 pitcher (Arthur Campbell): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-10
+
+-----------------------
+
+TOP INNING 9
+
+Kyle Stewart: rng1 = 76 + 7 - 8 - 1 = 74
+rng2 = 88 + 6 - 4 - 1 = 89
+Double
+Team 2 pitcher (Rodney Fox): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: false, base2: [7,2], base3: false
+base1: false, base2: true, base3: false
+Score: 3-10
+
+Patrick Cook: rng1 = 77 + 3 - 8 - 1 = 71
+Walk
+Team 2 pitcher (Rodney Fox): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 0
+
+base1: [8,2], base2: [7,2], base3: false
+base1: true, base2: true, base3: false
+Score: 3-10
+
+Jorge Donald: rng1 = 46 + 5 - 8 - 1 = 42
+rng2 = 34 + 9 - 4 - 1 = 38
+Groundout
+Team 2 pitcher (Rodney Fox): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [0,2], base2: [8,2], base3: false
+base1: true, base2: true, base3: false
+Score: 3-10
+
+Alex Diaz: rng1 = 55 + 15 - 8 - 1 = 61
+rng2 = 81 + 9 - 4 - 1 = 85
+Flyout
+Team 2 pitcher (Rodney Fox): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [0,2], base2: false, base3: [8,2]
+base1: true, base2: false, base3: true
+Score: 3-10
+
+Booker Brown: rng1 = 67 + 8 - 8 - 1 = 66
+rng2 = 48 + 3 - 4 - 1 = 46
+Groundout
+Team 2 pitcher (Rodney Fox): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-10
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 9
+Team 2 hits: 15
+Team 1 runs: 3
+Team 2 runs: 10
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-05-05
+Jorge Donald	5	1	1	0	0	0	0	0	1					Tokyo
+Alex Diaz	5	0	2	2	0	0	1	0	2	
+Booker Brown	5	0	0	0	0	0	0	0	1	
+Richard Morris	4	1	2	0	0	0	0	0	0	
+Javarius Davis	4	0	0	0	0	0	0	0	1	
+Esteban Obregón	2	0	0	0	0	0	0	2	1	
+Elijah Washington	4	0	1	0	0	0	1	0	1	
+Kyle Stewart	4	1	2	2	0	0	0	0	1	
+Patrick Cook	3	0	1	1	0	0	1	1	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Ethan Scott	0	1	1	1	0	0	12	8	4	1	1	5	21	
+Gabriel Clark	0	0	1	0	0	0	2	2	4	0	2	0	6	
+Uyehara Tanzan	0	0	1	0	0	0	1	3	2	0	1	0	5	
+Jerry Taylor	0	0	1	0	0	0	6	1	0	0	0	3	7	
+Arthur Campbell	0	0	1	0	0	0	3	1	0	0	0	1	4	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-05-05
+Matías Martinez	4	1	2	1	0	0	1	1	1					Seoul
+Adam Harmon	5	1	2	0	0	0	1	0	1	
+Rei Matsui	5	0	2	1	0	0	1	0	3	
+Tomas Ortiz	3	1	1	0	0	0	1	2	2	
+Joshua Cooper	5	1	2	1	0	0	0	0	0	
+Domingo Jimenez	4	1	0	0	0	0	0	1	1	
+Juan-Martín Sáenz	5	1	1	0	0	0	0	0	1	
+Jake Barber	4	2	3	1	0	1	2	0	0	
+Wilmer Guevara	4	2	2	1	1	0	4	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Tan Young-Ho	1	0	1	1	0	0	18	6	2	0	1	8	25	
+Francisco Espinoza	0	0	1	0	0	0	3	2	1	0	0	0	5	
+Rodney Fox	0	0	1	0	0	0	6	1	0	0	2	0	9	
+Eddy Delgado	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Shunji Onishi	0	0	0	0	0	0	0	0	0	0	0	0	0	

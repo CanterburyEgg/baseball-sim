@@ -1,0 +1,822 @@
+TOP INNING 1
+
+Eric Parker: rng1 = 52 + 17 - 9 - 1 = 59
+rng2 = 82 + 15 - 9 - 1 = 87
+Flyout
+Team 2 pitcher (Brandon Robinson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Mateo Estrada: rng1 = 1 + 15 - 9 - 1 = 6
+Strikeout
+Team 2 pitcher (Brandon Robinson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jonathan Turner: rng1 = 4 + 9 - 9 - 1 = 3
+Strikeout
+Team 2 pitcher (Brandon Robinson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Cannon Terry: rng1 = 81 + 6 - 7 + 1 = 81
+rng2 = 65 + 9 - 5 + 1 = 70
+Double
+Team 1 pitcher (Hagiwara Taji): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Alex Murphy: rng1 = 45 + 8 - 7 + 1 = 47
+rng2 = 21 + 10 - 5 + 1 = 27
+Groundout
+Team 1 pitcher (Hagiwara Taji): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: [0,0]
+base1: false, base2: false, base3: true
+Score: 0-0
+
+Leon Watts: rng1 = 79 + 9 - 7 + 1 = 82
+rng2 = 17 + 5 - 5 + 1 = 18
+Single
+Team 1 pitcher (Hagiwara Taji): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Jaiden Fortner: rng1 = 30 + 7 - 7 + 1 = 31
+rng2 = 25 + 8 - 5 + 1 = 29
+Groundout
+Team 1 pitcher (Hagiwara Taji): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Alejandro Munoz: rng1 = 24 + 10 - 7 + 1 = 28
+rng2 = 44 + 8 - 5 + 1 = 48
+Lineout
+Team 1 pitcher (Hagiwara Taji): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 2
+
+Umberto Tasis: rng1 = 69 + 10 - 9 - 1 = 69
+Walk
+Team 2 pitcher (Brandon Robinson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Jose Walker: rng1 = 34 + 14 - 9 - 1 = 38
+rng2 = 27 + 13 - 9 - 1 = 30
+Groundout
+Team 2 pitcher (Brandon Robinson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Lawrence Webb: rng1 = 17 + 14 - 9 - 1 = 21
+Strikeout
+Team 2 pitcher (Brandon Robinson): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Miguel Castillo: rng1 = 74 + 10 - 9 - 1 = 74
+rng2 = 20 + 15 - 9 - 1 = 25
+Single
+Team 2 pitcher (Brandon Robinson): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Juan Reyes: rng1 = 80 + 10 - 9 - 1 = 80
+rng2 = 30 + 11 - 9 - 1 = 31
+Single
+Team 2 pitcher (Brandon Robinson): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Jorge Perez: rng1 = 93 + 10 - 9 - 1 = 93
+rng2 = 17 + 5 - 9 - 1 = 12
+Single
+Team 2 pitcher (Brandon Robinson): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 2
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-1
+
+Eric Parker: rng1 = 75 + 17 - 9 - 1 = 82
+rng2 = 60 + 15 - 9 - 1 = 65
+Double
+Team 2 pitcher (Brandon Robinson): 10 batters faced, 4 runs allowed = 10 + 10.0 = 20.0, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-1
+
+Mateo Estrada: rng1 = 36 + 15 - 9 - 1 = 41
+rng2 = 47 + 14 - 9 - 1 = 51
+Lineout
+Team 2 pitcher (Brandon Robinson): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Jacobi Davis: rng1 = 19 + 14 - 7 + 1 = 27
+Strikeout
+Team 1 pitcher (Hagiwara Taji): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Dominic Gardner: rng1 = 19 + 6 - 7 + 1 = 19
+Strikeout
+Team 1 pitcher (Hagiwara Taji): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Jamar Brown: rng1 = 2 + 8 - 7 + 1 = 4
+Strikeout
+Team 1 pitcher (Hagiwara Taji): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+TOP INNING 3
+
+Jonathan Turner: rng1 = 12 + 9 - 9 - 1 = 11
+rng2 = 45 + 6 - 9 - 1 = 41
+Groundout
+Team 2 pitcher (Brandon Robinson): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Umberto Tasis: rng1 = 95 + 10 - 9 - 1 = 95
+rng2 = 14 + 6 - 9 - 1 = 10
+Single
+Team 2 pitcher (Brandon Robinson): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-1
+
+Jose Walker: rng1 = 59 + 14 - 9 - 1 = 63
+rng2 = 87 + 13 - 9 - 1 = 90
+Flyout
+Team 2 pitcher (Brandon Robinson): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-1
+
+Lawrence Webb: rng1 = 56 + 14 - 9 - 1 = 60
+rng2 = 7 + 14 - 9 - 1 = 11
+Groundout
+Team 2 pitcher (Brandon Robinson): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Martin Avila: rng1 = 41 + 7 - 7 + 1 = 42
+rng2 = 83 + 6 - 5 + 1 = 85
+Flyout
+Team 1 pitcher (Hagiwara Taji): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Cannon Terry: rng1 = 97 + 6 - 7 + 1 = 97
+rng2 = 49 + 9 - 5 + 1 = 54
+Single
+Team 1 pitcher (Hagiwara Taji): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-1
+
+Alex Murphy: rng1 = 67 + 8 - 7 + 1 = 69
+Walk
+Team 1 pitcher (Hagiwara Taji): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 4-1
+
+Leon Watts: rng1 = 2 + 9 - 7 + 1 = 5
+Strikeout
+Team 1 pitcher (Hagiwara Taji): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 2
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 4-1
+
+Jaiden Fortner: rng1 = 31 + 7 - 7 + 1 = 32
+rng2 = 80 + 8 - 5 + 1 = 84
+Flyout
+Team 1 pitcher (Hagiwara Taji): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+TOP INNING 4
+
+Miguel Castillo: rng1 = 98 + 10 - 9 - 1 = 98
+rng2 = 89 + 15 - 9 - 1 = 94
+Home run
+Team 2 pitcher (Brandon Robinson): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Juan Reyes: rng1 = 50 + 10 - 9 - 1 = 50
+rng2 = 14 + 11 - 9 - 1 = 15
+Groundout
+Team 2 pitcher (Brandon Robinson): 17 batters faced, 5 runs allowed = 17 + 12.5 = 29.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Jorge Perez: rng1 = 45 + 10 - 9 - 1 = 45
+rng2 = 1 + 5 - 9 - 1 = -4
+Groundout
+Team 2 pitcher (Brandon Robinson): 18 batters faced, 5 runs allowed = 18 + 12.5 = 30.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Eric Parker: rng1 = 19 + 17 - 9 - 1 = 26
+Strikeout
+Team 2 pitcher (Brandon Robinson): 19 batters faced, 5 runs allowed = 19 + 12.5 = 31.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Alejandro Munoz: rng1 = 33 + 10 - 7 + 1 = 37
+rng2 = 12 + 8 - 5 + 1 = 16
+Groundout
+Team 1 pitcher (Hagiwara Taji): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Jacobi Davis: rng1 = 70 + 14 - 7 + 1 = 78
+rng2 = 4 + 11 - 5 + 1 = 11
+Single
+Team 1 pitcher (Hagiwara Taji): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-1
+
+Dominic Gardner: rng1 = 84 + 6 - 7 + 1 = 84
+rng2 = 87 + 7 - 5 + 1 = 90
+Double
+Team 1 pitcher (Hagiwara Taji): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 1
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 5-2
+
+Jamar Brown: rng1 = 92 + 8 - 7 + 1 = 94
+rng2 = 9 + 9 - 5 + 1 = 14
+Single
+Team 1 pitcher (Hagiwara Taji): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 1
+
+base1: [7,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 5-2
+
+Martin Avila: rng1 = 91 + 7 - 7 + 1 = 92
+rng2 = 31 + 6 - 5 + 1 = 33
+Single
+Team 1 pitcher (Hagiwara Taji): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 1
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 5-3
+
+Cannon Terry: rng1 = 2 + 6 - 7 + 1 = 2
+Strikeout
+Team 1 pitcher (Hagiwara Taji): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 2
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 5-3
+
+Alex Murphy: rng1 = 57 + 8 - 7 + 1 = 59
+rng2 = 76 + 10 - 5 + 1 = 82
+Flyout
+Team 1 pitcher (Hagiwara Taji): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+TOP INNING 5
+
+Team 2 pitcher change to Eddie Lochland
+
+Mateo Estrada: rng1 = 39 + 15 - 8 - 1 = 45
+rng2 = 48 + 14 - 7 - 1 = 54
+Lineout
+Team 2 pitcher (Eddie Lochland): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Jonathan Turner: rng1 = 28 + 9 - 8 - 1 = 28
+rng2 = 57 + 6 - 7 - 1 = 55
+Lineout
+Team 2 pitcher (Eddie Lochland): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Umberto Tasis: rng1 = 97 + 10 - 8 - 1 = 98
+rng2 = 85 + 6 - 7 - 1 = 83
+Home run
+Team 2 pitcher (Eddie Lochland): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Jose Walker: rng1 = 14 + 14 - 8 - 1 = 19
+Strikeout
+Team 2 pitcher (Eddie Lochland): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-3
+
+-----------------------
+
+BOTTOM INNING 5
+
+Leon Watts: rng1 = 43 + 9 - 7 + 1 = 46
+rng2 = 83 + 5 - 5 + 1 = 84
+Flyout
+Team 1 pitcher (Hagiwara Taji): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Jaiden Fortner: rng1 = 87 + 7 - 7 + 1 = 88
+Walk
+Team 1 pitcher (Hagiwara Taji): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-3
+
+Alejandro Munoz: rng1 = 10 + 10 - 7 + 1 = 14
+rng2 = 98 + 8 - 5 + 1 = 102
+Flyout
+Team 1 pitcher (Hagiwara Taji): 23 batters faced, 3 runs allowed = 23 + 7.5 = 30.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-3
+
+Jacobi Davis: rng1 = 95 + 14 - 7 + 1 = 103
+rng2 = 60 + 11 - 5 + 1 = 67
+Double
+Team 1 pitcher (Hagiwara Taji): 24 batters faced, 4 runs allowed = 24 + 10.0 = 34.0, outs: 2
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 6-4
+
+Team 1 pitcher change to Julio Carrera
+
+Dominic Gardner: rng1 = 88 + 6 - 8 + 1 = 87
+Walk
+Team 1 pitcher (Julio Carrera): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [6,1], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 6-4
+
+Jamar Brown: rng1 = 54 + 8 - 8 + 1 = 55
+rng2 = 78 + 9 - 7 + 1 = 81
+Flyout
+Team 1 pitcher (Julio Carrera): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-4
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Hattori Kenji
+
+Lawrence Webb: rng1 = 55 + 14 - 5 - 1 = 63
+rng2 = 63 + 14 - 4 - 1 = 72
+Flyout
+Team 2 pitcher (Hattori Kenji): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Miguel Castillo: rng1 = 15 + 10 - 5 - 1 = 19
+Strikeout
+Team 2 pitcher (Hattori Kenji): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Juan Reyes: rng1 = 2 + 10 - 5 - 1 = 6
+Strikeout
+Team 2 pitcher (Hattori Kenji): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-4
+
+-----------------------
+
+BOTTOM INNING 6
+
+Martin Avila: rng1 = 85 + 7 - 8 + 1 = 85
+rng2 = 47 + 6 - 7 + 1 = 47
+Single
+Team 1 pitcher (Julio Carrera): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 0
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-4
+
+Cannon Terry: rng1 = 59 + 6 - 8 + 1 = 58
+rng2 = 11 + 9 - 7 + 1 = 14
+Groundout
+Team 1 pitcher (Julio Carrera): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: [8,1], base3: false
+base1: false, base2: true, base3: false
+Score: 6-4
+
+Alex Murphy: rng1 = 94 + 8 - 8 + 1 = 95
+rng2 = 24 + 10 - 7 + 1 = 28
+Single
+Team 1 pitcher (Julio Carrera): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-5
+
+Leon Watts: rng1 = 74 + 9 - 8 + 1 = 76
+rng2 = 56 + 5 - 7 + 1 = 55
+Single
+Team 1 pitcher (Julio Carrera): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: [2,1], base2: [1,1], base3: false
+base1: true, base2: true, base3: false
+Score: 6-5
+
+Jaiden Fortner: rng1 = 34 + 7 - 8 + 1 = 34
+rng2 = 1 + 8 - 7 + 1 = 3
+Groundout
+Team 1 pitcher (Julio Carrera): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: [2,1], base3: [1,1]
+base1: false, base2: true, base3: true
+Score: 6-5
+
+Alejandro Munoz: rng1 = 61 + 10 - 8 + 1 = 64
+rng2 = 85 + 8 - 7 + 1 = 87
+Flyout
+Team 1 pitcher (Julio Carrera): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-5
+
+-----------------------
+
+TOP INNING 7
+
+Jorge Perez: rng1 = 79 + 10 - 5 - 1 = 83
+rng2 = 68 + 5 - 4 - 1 = 68
+Double
+Team 2 pitcher (Hattori Kenji): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: false, base2: [8,2], base3: false
+base1: false, base2: true, base3: false
+Score: 6-5
+
+Eric Parker: rng1 = 37 + 17 - 5 - 1 = 48
+rng2 = 59 + 15 - 4 - 1 = 69
+Flyout
+Team 2 pitcher (Hattori Kenji): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: [8,2], base3: false
+base1: false, base2: true, base3: false
+Score: 6-5
+
+Mateo Estrada: rng1 = 46 + 15 - 5 - 1 = 55
+rng2 = 18 + 14 - 4 - 1 = 27
+Groundout
+Team 2 pitcher (Hattori Kenji): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: [8,2]
+base1: false, base2: false, base3: true
+Score: 6-5
+
+Jonathan Turner: rng1 = 12 + 9 - 5 - 1 = 15
+rng2 = 53 + 6 - 4 - 1 = 54
+Lineout
+Team 2 pitcher (Hattori Kenji): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-5
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Mori Yoshikazu
+
+Jacobi Davis: rng1 = 35 + 14 - 7 + 1 = 43
+rng2 = 83 + 11 - 7 + 1 = 88
+Flyout
+Team 1 pitcher (Mori Yoshikazu): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-5
+
+Dominic Gardner: rng1 = 30 + 6 - 7 + 1 = 30
+rng2 = 57 + 7 - 7 + 1 = 58
+Lineout
+Team 1 pitcher (Mori Yoshikazu): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-5
+
+Jamar Brown: rng1 = 12 + 8 - 7 + 1 = 14
+rng2 = 41 + 9 - 7 + 1 = 44
+Groundout
+Team 1 pitcher (Mori Yoshikazu): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-5
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Ryan Johnson
+
+Umberto Tasis: rng1 = 21 + 10 - 5 - 1 = 25
+Strikeout
+Team 2 pitcher (Ryan Johnson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-5
+
+Jose Walker: rng1 = 72 + 14 - 5 - 1 = 80
+rng2 = 85 + 13 - 5 - 1 = 92
+Double
+Team 2 pitcher (Ryan Johnson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [4,3], base3: false
+base1: false, base2: true, base3: false
+Score: 6-5
+
+Lawrence Webb: rng1 = 35 + 14 - 5 - 1 = 43
+rng2 = 96 + 14 - 5 - 1 = 104
+Flyout
+Team 2 pitcher (Ryan Johnson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [4,3], base3: false
+base1: false, base2: true, base3: false
+Score: 6-5
+
+Miguel Castillo: rng1 = 9 + 10 - 5 - 1 = 13
+rng2 = 11 + 15 - 5 - 1 = 20
+Groundout
+Team 2 pitcher (Ryan Johnson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-5
+
+-----------------------
+
+BOTTOM INNING 8
+
+Martin Avila: rng1 = 27 + 7 - 7 + 1 = 28
+rng2 = 93 + 6 - 7 + 1 = 93
+Flyout
+Team 1 pitcher (Mori Yoshikazu): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-5
+
+Cannon Terry: rng1 = 87 + 6 - 7 + 1 = 87
+Walk
+Team 1 pitcher (Mori Yoshikazu): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [0,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-5
+
+Alex Murphy: rng1 = 2 + 8 - 7 + 1 = 4
+Strikeout
+Team 1 pitcher (Mori Yoshikazu): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [0,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-5
+
+Leon Watts: rng1 = 5 + 9 - 7 + 1 = 8
+Strikeout
+Team 1 pitcher (Mori Yoshikazu): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-5
+
+-----------------------
+
+TOP INNING 9
+
+Juan Reyes: rng1 = 9 + 10 - 5 - 1 = 13
+rng2 = 57 + 11 - 5 - 1 = 62
+Flyout
+Team 2 pitcher (Ryan Johnson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-5
+
+Jorge Perez: rng1 = 38 + 10 - 5 - 1 = 42
+rng2 = 77 + 5 - 5 - 1 = 76
+Flyout
+Team 2 pitcher (Ryan Johnson): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-5
+
+Eric Parker: rng1 = 79 + 17 - 5 - 1 = 90
+Walk
+Team 2 pitcher (Ryan Johnson): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [0,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-5
+
+Mateo Estrada: rng1 = 82 + 15 - 5 - 1 = 91
+rng2 = 11 + 14 - 5 - 1 = 19
+Single
+Team 2 pitcher (Ryan Johnson): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [1,3], base2: false, base3: [0,3]
+base1: true, base2: false, base3: true
+Score: 6-5
+
+Jonathan Turner: rng1 = 1 + 9 - 5 - 1 = 4
+Strikeout
+Team 2 pitcher (Ryan Johnson): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-5
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to David Juarez
+
+Jaiden Fortner: rng1 = 27 + 7 - 9 + 1 = 26
+Strikeout
+Team 1 pitcher (David Juarez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-5
+
+Alejandro Munoz: rng1 = 28 + 10 - 9 + 1 = 30
+rng2 = 12 + 8 - 9 + 1 = 12
+Groundout
+Team 1 pitcher (David Juarez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-5
+
+Jacobi Davis: rng1 = 88 + 14 - 9 + 1 = 94
+rng2 = 1 + 11 - 9 + 1 = 4
+Single
+Team 1 pitcher (David Juarez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [5,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-5
+
+Dominic Gardner: rng1 = 49 + 6 - 9 + 1 = 47
+rng2 = 62 + 7 - 9 + 1 = 61
+Flyout
+Team 1 pitcher (David Juarez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-5
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 10
+Team 2 hits: 12
+Team 1 runs: 6
+Team 2 runs: 5
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-05-05
+Eric Parker	4	0	1	1	0	0	2	1	1					St Louis
+Mateo Estrada	5	0	1	0	0	0	0	0	1	
+Jonathan Turner	5	0	0	0	0	0	0	0	2	
+Umberto Tasis	3	2	2	0	0	1	1	1	1	
+Jose Walker	4	0	1	1	0	0	0	0	1	
+Lawrence Webb	4	0	0	0	0	0	0	0	1	
+Miguel Castillo	4	2	2	0	0	1	2	0	1	
+Juan Reyes	4	1	1	0	0	0	0	0	1	
+Jorge Perez	4	1	2	1	0	0	1	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Hagiwara Taji	1	0	1	1	0	0	14	8	4	0	2	5	24	
+Julio Carrera	0	0	1	0	0	0	4	3	1	0	1	0	8	
+Mori Yoshikazu	0	0	1	0	0	0	6	0	0	0	1	2	7	
+Henry Wright	0	0	0	0	0	0	0	0	0	0	0	0	0	
+David Juarez	0	0	1	0	1	1	3	1	0	0	0	1	4	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-05-05
+Cannon Terry	4	1	2	1	0	0	0	1	1					Austin
+Alex Murphy	4	0	1	0	0	0	1	1	1	
+Leon Watts	5	0	2	0	0	0	1	0	2	
+Jaiden Fortner	4	1	0	0	0	0	0	1	1	
+Alejandro Munoz	5	0	0	0	0	0	0	0	0	
+Jacobi Davis	5	1	3	1	0	0	1	0	1	
+Dominic Gardner	4	1	1	1	0	0	1	1	1	
+Jamar Brown	4	0	1	0	0	0	0	0	1	
+Martin Avila	4	1	2	0	0	0	1	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Brandon Robinson	0	1	1	1	0	0	12	6	5	1	1	4	19	
+Eddie Lochland	0	0	1	0	0	0	3	1	1	1	0	1	4	
+Hattori Kenji	0	0	1	0	0	0	6	1	0	0	0	2	7	
+Ryan Johnson	0	0	1	0	0	0	6	2	0	0	1	2	9	
+Ron Moore	0	0	0	0	0	0	0	0	0	0	0	0	0	

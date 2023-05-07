@@ -1,0 +1,644 @@
+TOP INNING 1
+
+Tomas Padilla: rng1 = 50 + 5 - 6 - 1 = 48
+rng2 = 58 + 7 - 7 - 1 = 57
+Lineout
+Team 2 pitcher (Quintavius Lewis): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Russell Glover: rng1 = 45 + 13 - 6 - 1 = 51
+rng2 = 26 + 8 - 7 - 1 = 26
+Groundout
+Team 2 pitcher (Quintavius Lewis): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Adam Rogers: rng1 = 37 + 5 - 6 - 1 = 35
+rng2 = 53 + 6 - 7 - 1 = 51
+Lineout
+Team 2 pitcher (Quintavius Lewis): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Matt Thompson: rng1 = 21 + 14 - 9 + 1 = 27
+Strikeout
+Team 1 pitcher (Randy Barrett): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Larry Goodwin: rng1 = 44 + 7 - 9 + 1 = 43
+rng2 = 53 + 10 - 12 + 1 = 52
+Lineout
+Team 1 pitcher (Randy Barrett): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Tyrone Johnson: rng1 = 63 + 7 - 9 + 1 = 62
+rng2 = 6 + 6 - 12 + 1 = 1
+Groundout
+Team 1 pitcher (Randy Barrett): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Billy Burt: rng1 = 20 + 5 - 6 - 1 = 18
+Strikeout
+Team 2 pitcher (Quintavius Lewis): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Argenis Cedeno: rng1 = 16 + 5 - 6 - 1 = 14
+rng2 = 63 + 10 - 7 - 1 = 65
+Flyout
+Team 2 pitcher (Quintavius Lewis): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Sam Snyder: rng1 = 56 + 9 - 6 - 1 = 58
+rng2 = 58 + 12 - 7 - 1 = 62
+Flyout
+Team 2 pitcher (Quintavius Lewis): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Chris Ruiz: rng1 = 21 + 8 - 9 + 1 = 21
+Strikeout
+Team 1 pitcher (Randy Barrett): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Romain Bates: rng1 = 33 + 7 - 9 + 1 = 32
+rng2 = 35 + 7 - 12 + 1 = 31
+Groundout
+Team 1 pitcher (Randy Barrett): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Marques Taylor: rng1 = 92 + 10 - 9 + 1 = 94
+rng2 = 88 + 11 - 12 + 1 = 88
+Double
+Team 1 pitcher (Randy Barrett): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Valentino Vasquez: rng1 = 100 + 7 - 9 + 1 = 99
+rng2 = 23 + 6 - 12 + 1 = 18
+Single
+Team 1 pitcher (Randy Barrett): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Jesus Flores: rng1 = 100 + 8 - 9 + 1 = 100
+rng2 = 67 + 9 - 12 + 1 = 65
+Double
+Team 1 pitcher (Randy Barrett): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-2
+
+Pablo Hernandez: rng1 = 41 + 8 - 9 + 1 = 41
+rng2 = 29 + 8 - 12 + 1 = 26
+Groundout
+Team 1 pitcher (Randy Barrett): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 3
+
+Abraham Noboa: rng1 = 50 + 5 - 6 - 1 = 48
+rng2 = 58 + 9 - 7 - 1 = 59
+Flyout
+Team 2 pitcher (Quintavius Lewis): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Jeon Jong-Ho: rng1 = 53 + 8 - 6 - 1 = 54
+rng2 = 5 + 10 - 7 - 1 = 7
+Groundout
+Team 2 pitcher (Quintavius Lewis): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Antonio Santiago: rng1 = 72 + 12 - 6 - 1 = 77
+rng2 = 64 + 6 - 7 - 1 = 62
+Single
+Team 2 pitcher (Quintavius Lewis): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Tomas Padilla: rng1 = 56 + 5 - 6 - 1 = 54
+rng2 = 26 + 7 - 7 - 1 = 25
+Groundout
+Team 2 pitcher (Quintavius Lewis): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+BOTTOM INNING 3
+
+Matt Thompson: rng1 = 39 + 14 - 9 + 1 = 45
+rng2 = 46 + 10 - 12 + 1 = 45
+Groundout
+Team 1 pitcher (Randy Barrett): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Larry Goodwin: rng1 = 83 + 7 - 9 + 1 = 82
+rng2 = 46 + 10 - 12 + 1 = 45
+Single
+Team 1 pitcher (Randy Barrett): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Tyrone Johnson: rng1 = 62 + 7 - 9 + 1 = 61
+rng2 = 3 + 6 - 12 + 1 = -2
+Groundout
+Team 1 pitcher (Randy Barrett): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-2
+
+Chris Ruiz: rng1 = 35 + 8 - 9 + 1 = 35
+rng2 = 71 + 10 - 12 + 1 = 70
+Flyout
+Team 1 pitcher (Randy Barrett): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 4
+
+Russell Glover: rng1 = 30 + 13 - 6 - 1 = 36
+rng2 = 81 + 8 - 7 - 1 = 81
+Flyout
+Team 2 pitcher (Quintavius Lewis): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Adam Rogers: rng1 = 50 + 5 - 6 - 1 = 48
+rng2 = 99 + 6 - 7 - 1 = 97
+Flyout
+Team 2 pitcher (Quintavius Lewis): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Billy Burt: rng1 = 27 + 5 - 6 - 1 = 25
+Strikeout
+Team 2 pitcher (Quintavius Lewis): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+BOTTOM INNING 4
+
+Romain Bates: rng1 = 46 + 7 - 9 + 1 = 45
+rng2 = 40 + 7 - 12 + 1 = 36
+Groundout
+Team 1 pitcher (Randy Barrett): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Marques Taylor: rng1 = 17 + 10 - 9 + 1 = 19
+Strikeout
+Team 1 pitcher (Randy Barrett): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Valentino Vasquez: rng1 = 96 + 7 - 9 + 1 = 95
+rng2 = 33 + 6 - 12 + 1 = 28
+Single
+Team 1 pitcher (Randy Barrett): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Jesus Flores: rng1 = 1 + 8 - 9 + 1 = 1
+Strikeout
+Team 1 pitcher (Randy Barrett): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 5
+
+Argenis Cedeno: rng1 = 38 + 5 - 6 - 1 = 36
+rng2 = 89 + 10 - 7 - 1 = 91
+Flyout
+Team 2 pitcher (Quintavius Lewis): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Sam Snyder: rng1 = 48 + 9 - 6 - 1 = 50
+rng2 = 72 + 12 - 7 - 1 = 76
+Flyout
+Team 2 pitcher (Quintavius Lewis): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Abraham Noboa: rng1 = 7 + 5 - 6 - 1 = 5
+Strikeout
+Team 2 pitcher (Quintavius Lewis): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+BOTTOM INNING 5
+
+Pablo Hernandez: rng1 = 90 + 8 - 9 + 1 = 90
+Walk
+Team 1 pitcher (Randy Barrett): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Matt Thompson: rng1 = 20 + 14 - 9 + 1 = 26
+Strikeout
+Team 1 pitcher (Randy Barrett): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Larry Goodwin: rng1 = 71 + 7 - 9 + 1 = 70
+Walk
+Team 1 pitcher (Randy Barrett): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 1
+
+base1: [1,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-2
+
+Tyrone Johnson: rng1 = 48 + 7 - 9 + 1 = 47
+rng2 = 9 + 6 - 12 + 1 = 4
+Groundout
+Team 1 pitcher (Randy Barrett): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 2
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-2
+
+Chris Ruiz: rng1 = 44 + 8 - 9 + 1 = 44
+rng2 = 34 + 10 - 12 + 1 = 33
+Groundout
+Team 1 pitcher (Randy Barrett): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 6
+
+Jeon Jong-Ho: rng1 = 35 + 8 - 6 - 1 = 36
+rng2 = 83 + 10 - 7 - 1 = 85
+Flyout
+Team 2 pitcher (Quintavius Lewis): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Antonio Santiago: rng1 = 16 + 12 - 6 - 1 = 21
+Strikeout
+Team 2 pitcher (Quintavius Lewis): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Tomas Padilla: rng1 = 18 + 5 - 6 - 1 = 16
+Strikeout
+Team 2 pitcher (Quintavius Lewis): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+BOTTOM INNING 6
+
+Romain Bates: rng1 = 44 + 7 - 9 + 1 = 43
+rng2 = 17 + 7 - 12 + 1 = 13
+Groundout
+Team 1 pitcher (Randy Barrett): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Marques Taylor: rng1 = 13 + 10 - 9 + 1 = 15
+rng2 = 58 + 11 - 12 + 1 = 58
+Lineout
+Team 1 pitcher (Randy Barrett): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Valentino Vasquez: rng1 = 78 + 7 - 9 + 1 = 77
+rng2 = 100 + 6 - 12 + 1 = 95
+Home run
+Team 1 pitcher (Randy Barrett): 25 batters faced, 3 runs allowed = 25 + 7.5 = 32.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Jesus Flores: rng1 = 55 + 8 - 9 + 1 = 55
+rng2 = 50 + 9 - 12 + 1 = 48
+Lineout
+Team 1 pitcher (Randy Barrett): 26 batters faced, 3 runs allowed = 26 + 7.5 = 33.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+TOP INNING 7
+
+Russell Glover: rng1 = 33 + 13 - 6 - 1 = 39
+rng2 = 93 + 8 - 7 - 1 = 93
+Flyout
+Team 2 pitcher (Quintavius Lewis): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Adam Rogers: rng1 = 83 + 5 - 6 - 1 = 81
+rng2 = 67 + 6 - 7 - 1 = 65
+Double
+Team 2 pitcher (Quintavius Lewis): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-3
+
+Billy Burt: rng1 = 52 + 5 - 6 - 1 = 50
+rng2 = 28 + 7 - 7 - 1 = 27
+Groundout
+Team 2 pitcher (Quintavius Lewis): 22 batters faced, 0 runs allowed = 22 + 0.0 = 22.0, outs: 2
+
+base1: false, base2: false, base3: [2,0]
+base1: false, base2: false, base3: true
+Score: 0-3
+
+Argenis Cedeno: rng1 = 23 + 5 - 6 - 1 = 21
+Strikeout
+Team 2 pitcher (Quintavius Lewis): 23 batters faced, 0 runs allowed = 23 + 0.0 = 23.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Legend Brooks
+
+Pablo Hernandez: rng1 = 6 + 8 - 9 + 1 = 6
+Strikeout
+Team 1 pitcher (Legend Brooks): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Matt Thompson: rng1 = 21 + 14 - 9 + 1 = 27
+Strikeout
+Team 1 pitcher (Legend Brooks): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Larry Goodwin: rng1 = 99 + 7 - 9 + 1 = 98
+rng2 = 46 + 10 - 8 + 1 = 49
+Single
+Team 1 pitcher (Legend Brooks): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Tyrone Johnson: rng1 = 62 + 7 - 9 + 1 = 61
+rng2 = 60 + 6 - 8 + 1 = 59
+Flyout
+Team 1 pitcher (Legend Brooks): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+TOP INNING 8
+
+Sam Snyder: rng1 = 23 + 9 - 6 - 1 = 25
+Strikeout
+Team 2 pitcher (Quintavius Lewis): 24 batters faced, 0 runs allowed = 24 + 0.0 = 24.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Abraham Noboa: rng1 = 70 + 5 - 6 - 1 = 68
+rng2 = 75 + 9 - 7 - 1 = 76
+Flyout
+Team 2 pitcher (Quintavius Lewis): 25 batters faced, 0 runs allowed = 25 + 0.0 = 25.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Jeon Jong-Ho: rng1 = 7 + 8 - 6 - 1 = 8
+Strikeout
+Team 2 pitcher (Quintavius Lewis): 26 batters faced, 0 runs allowed = 26 + 0.0 = 26.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+BOTTOM INNING 8
+
+Chris Ruiz: rng1 = 6 + 8 - 9 + 1 = 6
+Strikeout
+Team 1 pitcher (Legend Brooks): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Romain Bates: rng1 = 49 + 7 - 9 + 1 = 48
+rng2 = 15 + 7 - 8 + 1 = 15
+Groundout
+Team 1 pitcher (Legend Brooks): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Marques Taylor: rng1 = 14 + 10 - 9 + 1 = 16
+Strikeout
+Team 1 pitcher (Legend Brooks): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Julio Ramirez
+
+Antonio Santiago: rng1 = 79 + 12 - 10 - 1 = 80
+rng2 = 97 + 6 - 7 - 1 = 95
+Home run
+Team 2 pitcher (Julio Ramirez): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Tomas Padilla: rng1 = 40 + 5 - 10 - 1 = 34
+rng2 = 33 + 7 - 7 - 1 = 32
+Groundout
+Team 2 pitcher (Julio Ramirez): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Russell Glover: rng1 = 65 + 13 - 10 - 1 = 67
+rng2 = 87 + 8 - 7 - 1 = 87
+Flyout
+Team 2 pitcher (Julio Ramirez): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Adam Rogers: rng1 = 48 + 5 - 10 - 1 = 42
+rng2 = 50 + 6 - 7 - 1 = 48
+Lineout
+Team 2 pitcher (Julio Ramirez): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 3
+Team 2 hits: 7
+Team 1 runs: 1
+Team 2 runs: 3
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-05-07
+Tomas Padilla	4	0	0	0	0	0	0	0	1					Salem
+Russell Glover	4	0	0	0	0	0	0	0	0	
+Adam Rogers	4	0	1	1	0	0	0	0	0	
+Billy Burt	3	0	0	0	0	0	0	0	2	
+Argenis Cedeno	3	0	0	0	0	0	0	0	1	
+Sam Snyder	3	0	0	0	0	0	0	0	1	
+Abraham Noboa	3	0	0	0	0	0	0	0	1	
+Jeon Jong-Ho	3	0	0	0	0	0	0	0	1	
+Antonio Santiago	3	1	2	0	0	1	1	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Randy Barrett	0	1	1	1	0	0	18	6	3	1	2	5	26	
+Legend Brooks	0	0	1	0	0	0	6	1	0	0	0	4	7	
+Ezequiel Abrogado	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Bryan Harris	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Luis Rodriguez	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-05-07
+Matt Thompson	4	0	0	0	0	0	0	0	3					Victoria
+Larry Goodwin	3	0	2	0	0	0	0	1	0	
+Tyrone Johnson	4	0	0	0	0	0	0	0	0	
+Chris Ruiz	4	0	0	0	0	0	0	0	2	
+Romain Bates	4	0	0	0	0	0	0	0	0	
+Marques Taylor	4	1	1	1	0	0	0	0	2	
+Valentino Vasquez	3	2	3	0	0	1	1	0	0	
+Jesus Flores	3	0	1	1	0	0	2	0	1	
+Pablo Hernandez	2	0	0	0	0	0	0	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Quintavius Lewis	1	0	1	1	0	0	24	2	0	0	0	8	26	
+Aoyama Kyoji	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Zachary Lowe	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Emiliano Navarro	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Julio Ramirez	0	0	1	0	1	1	3	1	1	1	0	0	4	

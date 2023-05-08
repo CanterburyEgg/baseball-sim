@@ -1,0 +1,752 @@
+TOP INNING 1
+
+Tomas Padilla: rng1 = 1 + 5 - 7 - 1 = -2
+Strikeout
+Team 2 pitcher (Demetrius Middleton): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Russell Glover: rng1 = 77 + 13 - 7 - 1 = 82
+rng2 = 15 + 8 - 6 - 1 = 16
+Single
+Team 2 pitcher (Demetrius Middleton): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Adam Rogers: rng1 = 83 + 5 - 7 - 1 = 80
+rng2 = 44 + 6 - 6 - 1 = 43
+Single
+Team 2 pitcher (Demetrius Middleton): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Billy Burt: rng1 = 72 + 5 - 7 - 1 = 69
+Walk
+Team 2 pitcher (Demetrius Middleton): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [3,0], base2: [2,0], base3: [1,0]
+base1: true, base2: true, base3: true
+Score: 0-0
+
+Argenis Cedeno: rng1 = 36 + 5 - 7 - 1 = 33
+rng2 = 77 + 10 - 6 - 1 = 80
+Flyout
+Team 2 pitcher (Demetrius Middleton): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Sam Snyder: rng1 = 16 + 9 - 7 - 1 = 17
+Strikeout
+Team 2 pitcher (Demetrius Middleton): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Matt Thompson: rng1 = 11 + 14 - 14 + 1 = 12
+rng2 = 34 + 10 - 13 + 1 = 32
+Groundout
+Team 1 pitcher (Lamonte Jackson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Larry Goodwin: rng1 = 58 + 7 - 14 + 1 = 52
+rng2 = 41 + 10 - 13 + 1 = 39
+Groundout
+Team 1 pitcher (Lamonte Jackson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Tyrone Johnson: rng1 = 48 + 7 - 14 + 1 = 42
+rng2 = 2 + 6 - 13 + 1 = -4
+Groundout
+Team 1 pitcher (Lamonte Jackson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 2
+
+Abraham Noboa: rng1 = 88 + 5 - 7 - 1 = 85
+rng2 = 30 + 9 - 6 - 1 = 32
+Single
+Team 2 pitcher (Demetrius Middleton): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Jeon Jong-Ho: rng1 = 17 + 8 - 7 - 1 = 17
+Strikeout
+Team 2 pitcher (Demetrius Middleton): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Antonio Santiago: rng1 = 64 + 12 - 7 - 1 = 68
+rng2 = 78 + 6 - 6 - 1 = 77
+Flyout
+Team 2 pitcher (Demetrius Middleton): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Tomas Padilla: rng1 = 20 + 5 - 7 - 1 = 17
+Strikeout
+Team 2 pitcher (Demetrius Middleton): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Chris Ruiz: rng1 = 42 + 8 - 14 + 1 = 37
+rng2 = 46 + 10 - 13 + 1 = 44
+Groundout
+Team 1 pitcher (Lamonte Jackson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Romain Bates: rng1 = 50 + 7 - 14 + 1 = 44
+rng2 = 86 + 7 - 13 + 1 = 81
+Flyout
+Team 1 pitcher (Lamonte Jackson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Marques Taylor: rng1 = 31 + 10 - 14 + 1 = 28
+rng2 = 79 + 11 - 13 + 1 = 78
+Flyout
+Team 1 pitcher (Lamonte Jackson): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 3
+
+Russell Glover: rng1 = 43 + 13 - 7 - 1 = 48
+rng2 = 72 + 8 - 6 - 1 = 73
+Flyout
+Team 2 pitcher (Demetrius Middleton): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Adam Rogers: rng1 = 46 + 5 - 7 - 1 = 43
+rng2 = 15 + 6 - 6 - 1 = 14
+Groundout
+Team 2 pitcher (Demetrius Middleton): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Billy Burt: rng1 = 44 + 5 - 7 - 1 = 41
+rng2 = 97 + 7 - 6 - 1 = 97
+Flyout
+Team 2 pitcher (Demetrius Middleton): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Valentino Vasquez: rng1 = 16 + 7 - 14 + 1 = 10
+Strikeout
+Team 1 pitcher (Lamonte Jackson): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Jesus Flores: rng1 = 93 + 8 - 14 + 1 = 88
+Walk
+Team 1 pitcher (Lamonte Jackson): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Pablo Hernandez: rng1 = 16 + 8 - 14 + 1 = 11
+rng2 = 88 + 8 - 13 + 1 = 84
+Flyout
+Team 1 pitcher (Lamonte Jackson): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Matt Thompson: rng1 = 98 + 14 - 14 + 1 = 99
+rng2 = 94 + 10 - 13 + 1 = 92
+Double
+Team 1 pitcher (Lamonte Jackson): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Larry Goodwin: rng1 = 27 + 7 - 14 + 1 = 21
+Strikeout
+Team 1 pitcher (Lamonte Jackson): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 4
+
+Argenis Cedeno: rng1 = 42 + 5 - 7 - 1 = 39
+rng2 = 64 + 10 - 6 - 1 = 67
+Flyout
+Team 2 pitcher (Demetrius Middleton): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Sam Snyder: rng1 = 20 + 9 - 7 - 1 = 21
+Strikeout
+Team 2 pitcher (Demetrius Middleton): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Abraham Noboa: rng1 = 12 + 5 - 7 - 1 = 9
+Strikeout
+Team 2 pitcher (Demetrius Middleton): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Tyrone Johnson: rng1 = 58 + 7 - 14 + 1 = 52
+rng2 = 75 + 6 - 13 + 1 = 69
+Flyout
+Team 1 pitcher (Lamonte Jackson): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Chris Ruiz: rng1 = 26 + 8 - 14 + 1 = 21
+Strikeout
+Team 1 pitcher (Lamonte Jackson): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Romain Bates: rng1 = 89 + 7 - 14 + 1 = 83
+rng2 = 5 + 7 - 13 + 1 = 0
+Single
+Team 1 pitcher (Lamonte Jackson): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Marques Taylor: rng1 = 87 + 10 - 14 + 1 = 84
+rng2 = 60 + 11 - 13 + 1 = 59
+Single
+Team 1 pitcher (Lamonte Jackson): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 2
+
+base1: [5,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 1-1
+
+Valentino Vasquez: rng1 = 82 + 7 - 14 + 1 = 76
+rng2 = 36 + 6 - 13 + 1 = 30
+Single
+Team 1 pitcher (Lamonte Jackson): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 2
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-2
+
+Jesus Flores: rng1 = 49 + 8 - 14 + 1 = 44
+rng2 = 63 + 9 - 13 + 1 = 60
+Flyout
+Team 1 pitcher (Lamonte Jackson): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 5
+
+Jeon Jong-Ho: rng1 = 98 + 8 - 7 - 1 = 98
+rng2 = 76 + 10 - 6 - 1 = 79
+Home run
+Team 2 pitcher (Demetrius Middleton): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Antonio Santiago: rng1 = 79 + 12 - 7 - 1 = 83
+rng2 = 16 + 6 - 6 - 1 = 15
+Single
+Team 2 pitcher (Demetrius Middleton): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Tomas Padilla: rng1 = 12 + 5 - 7 - 1 = 9
+Strikeout
+Team 2 pitcher (Demetrius Middleton): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Russell Glover: rng1 = 34 + 13 - 7 - 1 = 39
+rng2 = 78 + 8 - 6 - 1 = 79
+Flyout
+Team 2 pitcher (Demetrius Middleton): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Adam Rogers: rng1 = 76 + 5 - 7 - 1 = 73
+rng2 = 37 + 6 - 6 - 1 = 36
+Single
+Team 2 pitcher (Demetrius Middleton): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 2
+
+base1: [2,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-2
+
+Billy Burt: rng1 = 29 + 5 - 7 - 1 = 26
+Strikeout
+Team 2 pitcher (Demetrius Middleton): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+BOTTOM INNING 5
+
+Pablo Hernandez: rng1 = 24 + 8 - 14 + 1 = 19
+Strikeout
+Team 1 pitcher (Lamonte Jackson): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Matt Thompson: rng1 = 79 + 14 - 14 + 1 = 80
+rng2 = 38 + 10 - 13 + 1 = 36
+Single
+Team 1 pitcher (Lamonte Jackson): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Larry Goodwin: rng1 = 78 + 7 - 14 + 1 = 72
+rng2 = 48 + 10 - 13 + 1 = 46
+Single
+Team 1 pitcher (Lamonte Jackson): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 1
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-2
+
+Tyrone Johnson: rng1 = 53 + 7 - 14 + 1 = 47
+rng2 = 27 + 6 - 13 + 1 = 21
+Groundout
+Team 1 pitcher (Lamonte Jackson): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 2
+
+base1: [2,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 2-2
+
+Chris Ruiz: rng1 = 28 + 8 - 14 + 1 = 23
+Strikeout
+Team 1 pitcher (Lamonte Jackson): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+TOP INNING 6
+
+Argenis Cedeno: rng1 = 22 + 5 - 7 - 1 = 19
+Strikeout
+Team 2 pitcher (Demetrius Middleton): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Sam Snyder: rng1 = 79 + 9 - 7 - 1 = 80
+rng2 = 36 + 12 - 6 - 1 = 41
+Single
+Team 2 pitcher (Demetrius Middleton): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Abraham Noboa: rng1 = 89 + 5 - 7 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Demetrius Middleton): 25 batters faced, 2 runs allowed = 25 + 5.0 = 30.0, outs: 1
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-2
+
+Jeon Jong-Ho: rng1 = 61 + 8 - 7 - 1 = 61
+rng2 = 40 + 10 - 6 - 1 = 43
+Groundout
+Team 2 pitcher (Demetrius Middleton): 26 batters faced, 2 runs allowed = 26 + 5.0 = 31.0, outs: 2
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-2
+
+Antonio Santiago: rng1 = 21 + 12 - 7 - 1 = 25
+Strikeout
+Team 2 pitcher (Demetrius Middleton): 27 batters faced, 2 runs allowed = 27 + 5.0 = 32.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+BOTTOM INNING 6
+
+Romain Bates: rng1 = 63 + 7 - 14 + 1 = 57
+rng2 = 75 + 7 - 13 + 1 = 70
+Flyout
+Team 1 pitcher (Lamonte Jackson): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Marques Taylor: rng1 = 54 + 10 - 14 + 1 = 51
+rng2 = 15 + 11 - 13 + 1 = 14
+Groundout
+Team 1 pitcher (Lamonte Jackson): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Valentino Vasquez: rng1 = 86 + 7 - 14 + 1 = 80
+rng2 = 29 + 6 - 13 + 1 = 23
+Single
+Team 1 pitcher (Lamonte Jackson): 25 batters faced, 2 runs allowed = 25 + 5.0 = 30.0, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Jesus Flores: rng1 = 21 + 8 - 14 + 1 = 16
+Strikeout
+Team 1 pitcher (Lamonte Jackson): 26 batters faced, 2 runs allowed = 26 + 5.0 = 31.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Aoyama Kyoji
+
+Tomas Padilla: rng1 = 35 + 5 - 7 - 1 = 32
+rng2 = 50 + 7 - 8 - 1 = 48
+Lineout
+Team 2 pitcher (Aoyama Kyoji): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Russell Glover: rng1 = 58 + 13 - 7 - 1 = 63
+rng2 = 2 + 8 - 8 - 1 = 1
+Groundout
+Team 2 pitcher (Aoyama Kyoji): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Adam Rogers: rng1 = 50 + 5 - 7 - 1 = 47
+rng2 = 26 + 6 - 8 - 1 = 23
+Groundout
+Team 2 pitcher (Aoyama Kyoji): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Ezequiel Abrogado
+
+Pablo Hernandez: rng1 = 8 + 8 - 8 + 1 = 9
+Strikeout
+Team 1 pitcher (Ezequiel Abrogado): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Matt Thompson: rng1 = 23 + 14 - 8 + 1 = 30
+rng2 = 45 + 10 - 8 + 1 = 48
+Lineout
+Team 1 pitcher (Ezequiel Abrogado): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Larry Goodwin: rng1 = 41 + 7 - 8 + 1 = 41
+rng2 = 52 + 10 - 8 + 1 = 55
+Lineout
+Team 1 pitcher (Ezequiel Abrogado): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+TOP INNING 8
+
+Billy Burt: rng1 = 89 + 5 - 7 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Aoyama Kyoji): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Argenis Cedeno: rng1 = 11 + 5 - 7 - 1 = 8
+Strikeout
+Team 2 pitcher (Aoyama Kyoji): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Sam Snyder: rng1 = 94 + 9 - 7 - 1 = 95
+rng2 = 56 + 12 - 8 - 1 = 59
+Single
+Team 2 pitcher (Aoyama Kyoji): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,1], base2: false, base3: [3,1]
+base1: true, base2: false, base3: true
+Score: 2-2
+
+Abraham Noboa: rng1 = 10 + 5 - 7 - 1 = 7
+Strikeout
+Team 2 pitcher (Aoyama Kyoji): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [5,1], base2: false, base3: [3,1]
+base1: true, base2: false, base3: true
+Score: 2-2
+
+Jeon Jong-Ho: rng1 = 86 + 8 - 7 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Aoyama Kyoji): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [7,1], base2: [5,1], base3: [3,1]
+base1: true, base2: true, base3: true
+Score: 2-2
+
+Antonio Santiago: rng1 = 66 + 12 - 7 - 1 = 70
+Walk
+Team 2 pitcher (Aoyama Kyoji): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [8,1], base2: [7,1], base3: [5,1]
+base1: true, base2: true, base3: true
+Score: 3-2
+
+Tomas Padilla: rng1 = 19 + 5 - 7 - 1 = 16
+Strikeout
+Team 2 pitcher (Aoyama Kyoji): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+BOTTOM INNING 8
+
+Tyrone Johnson: rng1 = 12 + 7 - 8 + 1 = 12
+rng2 = 88 + 6 - 8 + 1 = 87
+Flyout
+Team 1 pitcher (Ezequiel Abrogado): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Chris Ruiz: rng1 = 28 + 8 - 8 + 1 = 29
+rng2 = 10 + 10 - 8 + 1 = 13
+Groundout
+Team 1 pitcher (Ezequiel Abrogado): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Romain Bates: rng1 = 46 + 7 - 8 + 1 = 46
+rng2 = 60 + 7 - 8 + 1 = 60
+Flyout
+Team 1 pitcher (Ezequiel Abrogado): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Zachary Lowe
+
+Russell Glover: rng1 = 26 + 13 - 8 - 1 = 30
+rng2 = 94 + 8 - 5 - 1 = 96
+Flyout
+Team 2 pitcher (Zachary Lowe): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Adam Rogers: rng1 = 47 + 5 - 8 - 1 = 43
+rng2 = 44 + 6 - 5 - 1 = 44
+Groundout
+Team 2 pitcher (Zachary Lowe): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Billy Burt: rng1 = 15 + 5 - 8 - 1 = 11
+rng2 = 97 + 7 - 5 - 1 = 98
+Flyout
+Team 2 pitcher (Zachary Lowe): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Luis Rodriguez
+
+Marques Taylor: rng1 = 11 + 10 - 10 + 1 = 12
+rng2 = 4 + 11 - 10 + 1 = 6
+Groundout
+Team 1 pitcher (Luis Rodriguez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Valentino Vasquez: rng1 = 34 + 7 - 10 + 1 = 32
+rng2 = 20 + 6 - 10 + 1 = 17
+Groundout
+Team 1 pitcher (Luis Rodriguez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Jesus Flores: rng1 = 56 + 8 - 10 + 1 = 55
+rng2 = 51 + 9 - 10 + 1 = 51
+Lineout
+Team 1 pitcher (Luis Rodriguez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 8
+Team 2 hits: 7
+Team 1 runs: 3
+Team 2 runs: 2
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-05-08
+Tomas Padilla	5	0	0	0	0	0	0	0	4					Salem
+Russell Glover	5	1	1	0	0	0	0	0	0	
+Adam Rogers	5	0	2	0	0	0	0	0	0	
+Billy Burt	3	1	0	0	0	0	0	1	1	
+Argenis Cedeno	4	0	0	0	0	0	1	0	2	
+Sam Snyder	4	0	2	0	0	0	0	0	2	
+Abraham Noboa	3	0	1	0	0	0	0	0	2	
+Jeon Jong-Ho	3	1	1	0	0	1	1	0	1	
+Antonio Santiago	3	0	1	0	0	0	1	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Lamonte Jackson	0	0	1	1	0	0	18	7	2	0	1	6	26	
+Ezequiel Abrogado	1	0	1	0	0	0	6	0	0	0	0	1	6	
+Legend Brooks	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Bryan Harris	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Luis Rodriguez	0	0	1	0	1	1	3	0	0	0	0	0	3	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-05-08
+Matt Thompson	4	0	2	1	0	0	1	0	0					Victoria
+Larry Goodwin	4	0	1	0	0	0	0	0	1	
+Tyrone Johnson	4	0	0	0	0	0	0	0	0	
+Chris Ruiz	4	0	0	0	0	0	0	0	2	
+Romain Bates	4	1	1	0	0	0	0	0	0	
+Marques Taylor	4	0	1	0	0	0	0	0	0	
+Valentino Vasquez	4	0	2	0	0	0	1	0	1	
+Jesus Flores	3	1	0	0	0	0	0	1	1	
+Pablo Hernandez	3	0	0	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Demetrius Middleton	0	0	1	1	0	0	18	7	2	1	1	10	27	
+Aoyama Kyoji	0	1	1	0	0	0	6	1	1	0	1	3	10	
+Zachary Lowe	0	0	1	0	0	0	3	0	0	0	0	0	3	
+Emiliano Navarro	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Julio Ramirez	0	0	0	0	0	0	0	0	0	0	0	0	0	

@@ -1,0 +1,867 @@
+TOP INNING 1
+
+Jack Hayes: rng1 = 33 + 13 - 6 - 1 = 39
+rng2 = 57 + 12 - 7 - 1 = 61
+Flyout
+Team 2 pitcher (Kody Blake): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Christian Mendez: rng1 = 98 + 13 - 6 - 1 = 104
+rng2 = 23 + 13 - 7 - 1 = 28
+Single
+Team 2 pitcher (Kody Blake): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Clinton Meyers: rng1 = 36 + 6 - 6 - 1 = 35
+rng2 = 74 + 6 - 7 - 1 = 72
+Flyout
+Team 2 pitcher (Kody Blake): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Kyle McDaniel: rng1 = 32 + 9 - 6 - 1 = 34
+rng2 = 38 + 11 - 7 - 1 = 41
+Groundout
+Team 2 pitcher (Kody Blake): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Ramon Cabrera: rng1 = 35 + 12 - 8 + 1 = 40
+rng2 = 76 + 12 - 12 + 1 = 77
+Flyout
+Team 1 pitcher (Jessie Cochran): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Esteban Mendoza: rng1 = 30 + 11 - 8 + 1 = 34
+rng2 = 46 + 9 - 12 + 1 = 44
+Groundout
+Team 1 pitcher (Jessie Cochran): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Billy Campbell: rng1 = 90 + 10 - 8 + 1 = 93
+rng2 = 59 + 10 - 12 + 1 = 58
+Single
+Team 1 pitcher (Jessie Cochran): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Kyrie Anderson: rng1 = 52 + 9 - 8 + 1 = 54
+rng2 = 30 + 13 - 12 + 1 = 32
+Groundout
+Team 1 pitcher (Jessie Cochran): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Mark White: rng1 = 3 + 13 - 6 - 1 = 9
+Strikeout
+Team 2 pitcher (Kody Blake): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Victor Harris: rng1 = 90 + 15 - 6 - 1 = 98
+rng2 = 5 + 14 - 7 - 1 = 11
+Single
+Team 2 pitcher (Kody Blake): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Joel Lamb: rng1 = 71 + 7 - 6 - 1 = 71
+Walk
+Team 2 pitcher (Kody Blake): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Brian Woods: rng1 = 49 + 7 - 6 - 1 = 49
+rng2 = 96 + 10 - 7 - 1 = 98
+Flyout
+Team 2 pitcher (Kody Blake): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Tyler Johnston: rng1 = 81 + 7 - 6 - 1 = 81
+rng2 = 60 + 8 - 7 - 1 = 60
+Single
+Team 2 pitcher (Kody Blake): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [8,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Jack Hayes: rng1 = 79 + 13 - 6 - 1 = 85
+rng2 = 43 + 12 - 7 - 1 = 47
+Single
+Team 2 pitcher (Kody Blake): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 2
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-0
+
+Christian Mendez: rng1 = 77 + 13 - 6 - 1 = 83
+rng2 = 65 + 13 - 7 - 1 = 70
+Double
+Team 2 pitcher (Kody Blake): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 2
+
+base1: false, base2: [1,0], base3: [0,0]
+base1: false, base2: true, base3: true
+Score: 3-0
+
+Clinton Meyers: rng1 = 94 + 6 - 6 - 1 = 93
+rng2 = 20 + 6 - 7 - 1 = 18
+Single
+Team 2 pitcher (Kody Blake): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 2
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 4-0
+
+Kyle McDaniel: rng1 = 3 + 9 - 6 - 1 = 5
+Strikeout
+Team 2 pitcher (Kody Blake): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Pedro Martinez: rng1 = 43 + 10 - 8 + 1 = 46
+rng2 = 43 + 9 - 12 + 1 = 41
+Groundout
+Team 1 pitcher (Jessie Cochran): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Leonardo Nunez: rng1 = 48 + 9 - 8 + 1 = 50
+rng2 = 100 + 9 - 12 + 1 = 98
+Flyout
+Team 1 pitcher (Jessie Cochran): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Bryson Mckinney: rng1 = 28 + 6 - 8 + 1 = 27
+Strikeout
+Team 1 pitcher (Jessie Cochran): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+TOP INNING 3
+
+Mark White: rng1 = 82 + 13 - 6 - 1 = 88
+Walk
+Team 2 pitcher (Kody Blake): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Victor Harris: rng1 = 91 + 15 - 6 - 1 = 99
+rng2 = 83 + 14 - 7 - 1 = 89
+Double
+Team 2 pitcher (Kody Blake): 15 batters faced, 5 runs allowed = 15 + 12.5 = 27.5, outs: 0
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 5-0
+
+Joel Lamb: rng1 = 83 + 7 - 6 - 1 = 83
+rng2 = 57 + 8 - 7 - 1 = 57
+Single
+Team 2 pitcher (Kody Blake): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 0
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 5-0
+
+Brian Woods: rng1 = 73 + 7 - 6 - 1 = 73
+rng2 = 21 + 10 - 7 - 1 = 23
+Single
+Team 2 pitcher (Kody Blake): 17 batters faced, 6 runs allowed = 17 + 15.0 = 32.0, outs: 0
+
+base1: [7,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 6-0
+
+Tyler Johnston: rng1 = 24 + 7 - 6 - 1 = 24
+Strikeout
+Team 2 pitcher (Kody Blake): 18 batters faced, 6 runs allowed = 18 + 15.0 = 33.0, outs: 1
+
+base1: [7,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 6-0
+
+Jack Hayes: rng1 = 47 + 13 - 6 - 1 = 53
+rng2 = 30 + 12 - 7 - 1 = 34
+Groundout
+Team 2 pitcher (Kody Blake): 19 batters faced, 6 runs allowed = 19 + 15.0 = 34.0, outs: 2
+
+base1: false, base2: [7,0], base3: [6,0]
+base1: false, base2: true, base3: true
+Score: 6-0
+
+Christian Mendez: rng1 = 35 + 13 - 6 - 1 = 41
+rng2 = 26 + 13 - 7 - 1 = 31
+Groundout
+Team 2 pitcher (Kody Blake): 20 batters faced, 6 runs allowed = 20 + 15.0 = 35.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Curtis McCormick: rng1 = 74 + 5 - 8 + 1 = 72
+rng2 = 11 + 7 - 12 + 1 = 7
+Single
+Team 1 pitcher (Jessie Cochran): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-0
+
+Daniel Ward: rng1 = 14 + 3 - 8 + 1 = 10
+Strikeout
+Team 1 pitcher (Jessie Cochran): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-0
+
+Ramon Cabrera: rng1 = 28 + 12 - 8 + 1 = 33
+rng2 = 65 + 12 - 12 + 1 = 66
+Flyout
+Team 1 pitcher (Jessie Cochran): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-0
+
+Esteban Mendoza: rng1 = 40 + 11 - 8 + 1 = 44
+rng2 = 36 + 9 - 12 + 1 = 34
+Groundout
+Team 1 pitcher (Jessie Cochran): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-0
+
+-----------------------
+
+TOP INNING 4
+
+Team 2 pitcher change to Tim Brooks
+
+Clinton Meyers: rng1 = 18 + 6 - 11 - 1 = 12
+rng2 = 4 + 6 - 13 - 1 = -4
+Groundout
+Team 2 pitcher (Tim Brooks): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-0
+
+Kyle McDaniel: rng1 = 86 + 9 - 11 - 1 = 83
+rng2 = 68 + 11 - 13 - 1 = 65
+Double
+Team 2 pitcher (Tim Brooks): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [3,1], base3: false
+base1: false, base2: true, base3: false
+Score: 6-0
+
+Mark White: rng1 = 74 + 13 - 11 - 1 = 75
+rng2 = 46 + 11 - 13 - 1 = 43
+Single
+Team 2 pitcher (Tim Brooks): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-0
+
+Victor Harris: rng1 = 91 + 15 - 11 - 1 = 94
+rng2 = 25 + 14 - 13 - 1 = 25
+Single
+Team 2 pitcher (Tim Brooks): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [5,1], base2: [4,1], base3: false
+base1: true, base2: true, base3: false
+Score: 7-0
+
+Joel Lamb: rng1 = 26 + 7 - 11 - 1 = 21
+Strikeout
+Team 2 pitcher (Tim Brooks): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [5,1], base2: [4,1], base3: false
+base1: true, base2: true, base3: false
+Score: 7-0
+
+Brian Woods: rng1 = 78 + 7 - 11 - 1 = 73
+rng2 = 3 + 10 - 13 - 1 = -1
+Single
+Team 2 pitcher (Tim Brooks): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: [7,1], base2: [5,1], base3: [4,1]
+base1: true, base2: true, base3: true
+Score: 7-0
+
+Tyler Johnston: rng1 = 42 + 7 - 11 - 1 = 37
+rng2 = 89 + 8 - 13 - 1 = 83
+Flyout
+Team 2 pitcher (Tim Brooks): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-0
+
+-----------------------
+
+BOTTOM INNING 4
+
+Billy Campbell: rng1 = 7 + 10 - 8 + 1 = 10
+Strikeout
+Team 1 pitcher (Jessie Cochran): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-0
+
+Kyrie Anderson: rng1 = 72 + 9 - 8 + 1 = 74
+rng2 = 37 + 13 - 12 + 1 = 39
+Single
+Team 1 pitcher (Jessie Cochran): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-0
+
+Pedro Martinez: rng1 = 27 + 10 - 8 + 1 = 30
+rng2 = 52 + 9 - 12 + 1 = 50
+Lineout
+Team 1 pitcher (Jessie Cochran): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-0
+
+Leonardo Nunez: rng1 = 57 + 9 - 8 + 1 = 59
+rng2 = 69 + 9 - 12 + 1 = 67
+Flyout
+Team 1 pitcher (Jessie Cochran): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-0
+
+-----------------------
+
+TOP INNING 5
+
+Team 2 pitcher change to Matias Rivera
+
+Jack Hayes: rng1 = 41 + 13 - 13 - 1 = 40
+rng2 = 17 + 12 - 11 - 1 = 17
+Groundout
+Team 2 pitcher (Matias Rivera): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-0
+
+Christian Mendez: rng1 = 56 + 13 - 13 - 1 = 55
+rng2 = 76 + 13 - 11 - 1 = 77
+Flyout
+Team 2 pitcher (Matias Rivera): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-0
+
+Clinton Meyers: rng1 = 42 + 6 - 13 - 1 = 34
+rng2 = 28 + 6 - 11 - 1 = 22
+Groundout
+Team 2 pitcher (Matias Rivera): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-0
+
+-----------------------
+
+BOTTOM INNING 5
+
+Bryson Mckinney: rng1 = 19 + 6 - 8 + 1 = 18
+Strikeout
+Team 1 pitcher (Jessie Cochran): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-0
+
+Curtis McCormick: rng1 = 83 + 5 - 8 + 1 = 81
+rng2 = 68 + 7 - 12 + 1 = 64
+Single
+Team 1 pitcher (Jessie Cochran): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-0
+
+Daniel Ward: rng1 = 13 + 3 - 8 + 1 = 9
+Strikeout
+Team 1 pitcher (Jessie Cochran): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-0
+
+Ramon Cabrera: rng1 = 66 + 12 - 8 + 1 = 71
+Walk
+Team 1 pitcher (Jessie Cochran): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 2
+
+base1: [0,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 7-0
+
+Esteban Mendoza: rng1 = 45 + 11 - 8 + 1 = 49
+rng2 = 10 + 9 - 12 + 1 = 8
+Groundout
+Team 1 pitcher (Jessie Cochran): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-0
+
+-----------------------
+
+TOP INNING 6
+
+Kyle McDaniel: rng1 = 50 + 9 - 13 - 1 = 45
+rng2 = 99 + 11 - 11 - 1 = 98
+Flyout
+Team 2 pitcher (Matias Rivera): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-0
+
+Mark White: rng1 = 8 + 13 - 13 - 1 = 7
+Strikeout
+Team 2 pitcher (Matias Rivera): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-0
+
+Victor Harris: rng1 = 84 + 15 - 13 - 1 = 85
+rng2 = 68 + 14 - 11 - 1 = 70
+Double
+Team 2 pitcher (Matias Rivera): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: [5,2], base3: false
+base1: false, base2: true, base3: false
+Score: 7-0
+
+Joel Lamb: rng1 = 18 + 7 - 13 - 1 = 11
+rng2 = 96 + 8 - 11 - 1 = 92
+Flyout
+Team 2 pitcher (Matias Rivera): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-0
+
+-----------------------
+
+BOTTOM INNING 6
+
+Billy Campbell: rng1 = 7 + 10 - 8 + 1 = 10
+Strikeout
+Team 1 pitcher (Jessie Cochran): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-0
+
+Kyrie Anderson: rng1 = 19 + 9 - 8 + 1 = 21
+Strikeout
+Team 1 pitcher (Jessie Cochran): 22 batters faced, 0 runs allowed = 22 + 0.0 = 22.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-0
+
+Pedro Martinez: rng1 = 75 + 10 - 8 + 1 = 78
+rng2 = 85 + 9 - 12 + 1 = 83
+Home run
+Team 1 pitcher (Jessie Cochran): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-1
+
+Leonardo Nunez: rng1 = 55 + 9 - 8 + 1 = 57
+rng2 = 34 + 9 - 12 + 1 = 32
+Groundout
+Team 1 pitcher (Jessie Cochran): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-1
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Bradley Weaver
+
+Brian Woods: rng1 = 37 + 7 - 11 - 1 = 32
+rng2 = 47 + 10 - 11 - 1 = 45
+Groundout
+Team 2 pitcher (Bradley Weaver): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-1
+
+Tyler Johnston: rng1 = 100 + 7 - 11 - 1 = 95
+rng2 = 73 + 8 - 11 - 1 = 69
+Double
+Team 2 pitcher (Bradley Weaver): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [8,3], base3: false
+base1: false, base2: true, base3: false
+Score: 7-1
+
+Jack Hayes: rng1 = 26 + 13 - 11 - 1 = 27
+Strikeout
+Team 2 pitcher (Bradley Weaver): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [8,3], base3: false
+base1: false, base2: true, base3: false
+Score: 7-1
+
+Christian Mendez: rng1 = 16 + 13 - 11 - 1 = 17
+Strikeout
+Team 2 pitcher (Bradley Weaver): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-1
+
+-----------------------
+
+BOTTOM INNING 7
+
+Bryson Mckinney: rng1 = 100 + 6 - 8 + 1 = 99
+rng2 = 43 + 8 - 12 + 1 = 40
+Single
+Team 1 pitcher (Jessie Cochran): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-1
+
+Curtis McCormick: rng1 = 50 + 5 - 8 + 1 = 48
+rng2 = 25 + 7 - 12 + 1 = 21
+Groundout
+Team 1 pitcher (Jessie Cochran): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-1
+
+Daniel Ward: rng1 = 21 + 3 - 8 + 1 = 17
+Strikeout
+Team 1 pitcher (Jessie Cochran): 27 batters faced, 1 runs allowed = 27 + 2.5 = 29.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-1
+
+-----------------------
+
+TOP INNING 8
+
+Clinton Meyers: rng1 = 76 + 6 - 11 - 1 = 70
+Walk
+Team 2 pitcher (Bradley Weaver): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [2,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-1
+
+Kyle McDaniel: rng1 = 82 + 9 - 11 - 1 = 79
+rng2 = 47 + 11 - 11 - 1 = 46
+Single
+Team 2 pitcher (Bradley Weaver): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 0
+
+base1: [3,3], base2: [2,3], base3: false
+base1: true, base2: true, base3: false
+Score: 7-1
+
+Mark White: rng1 = 15 + 13 - 11 - 1 = 16
+Strikeout
+Team 2 pitcher (Bradley Weaver): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [3,3], base2: [2,3], base3: false
+base1: true, base2: true, base3: false
+Score: 7-1
+
+Victor Harris: rng1 = 12 + 15 - 11 - 1 = 15
+rng2 = 44 + 14 - 11 - 1 = 46
+Groundout
+Team 2 pitcher (Bradley Weaver): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [5,3], base2: false, base3: [2,3]
+base1: true, base2: false, base3: true
+Score: 7-1
+
+Joel Lamb: rng1 = 48 + 7 - 11 - 1 = 43
+rng2 = 74 + 8 - 11 - 1 = 70
+Flyout
+Team 2 pitcher (Bradley Weaver): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-1
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Grant Colmeyer
+
+Ramon Cabrera: rng1 = 69 + 12 - 7 + 1 = 75
+rng2 = 47 + 12 - 6 + 1 = 54
+Single
+Team 1 pitcher (Grant Colmeyer): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-1
+
+Esteban Mendoza: rng1 = 33 + 11 - 7 + 1 = 38
+rng2 = 48 + 9 - 6 + 1 = 52
+Lineout
+Team 1 pitcher (Grant Colmeyer): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-1
+
+Billy Campbell: rng1 = 70 + 10 - 7 + 1 = 74
+rng2 = 71 + 10 - 6 + 1 = 76
+Double
+Team 1 pitcher (Grant Colmeyer): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: [2,1], base3: [0,1]
+base1: false, base2: true, base3: true
+Score: 7-1
+
+Kyrie Anderson: rng1 = 54 + 9 - 7 + 1 = 57
+rng2 = 70 + 13 - 6 + 1 = 78
+Flyout
+Team 1 pitcher (Grant Colmeyer): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [2,1], base3: false
+base1: false, base2: true, base3: false
+Score: 7-2
+
+Pedro Martinez: rng1 = 100 + 10 - 7 + 1 = 104
+rng2 = 13 + 9 - 6 + 1 = 17
+Single
+Team 1 pitcher (Grant Colmeyer): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-3
+
+Leonardo Nunez: rng1 = 1 + 9 - 7 + 1 = 4
+Strikeout
+Team 1 pitcher (Grant Colmeyer): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-3
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Terry Adams
+
+Brian Woods: rng1 = 20 + 7 - 14 - 1 = 12
+rng2 = 39 + 10 - 15 - 1 = 33
+Groundout
+Team 2 pitcher (Terry Adams): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-3
+
+Tyler Johnston: rng1 = 84 + 7 - 14 - 1 = 76
+rng2 = 37 + 8 - 15 - 1 = 29
+Single
+Team 2 pitcher (Terry Adams): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [8,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-3
+
+Jack Hayes: rng1 = 84 + 13 - 14 - 1 = 82
+rng2 = 9 + 12 - 15 - 1 = 5
+Single
+Team 2 pitcher (Terry Adams): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [0,4], base2: false, base3: [8,4]
+base1: true, base2: false, base3: true
+Score: 7-3
+
+Christian Mendez: rng1 = 53 + 13 - 14 - 1 = 51
+rng2 = 91 + 13 - 15 - 1 = 88
+Flyout
+Team 2 pitcher (Terry Adams): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [0,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-3
+
+Clinton Meyers: rng1 = 13 + 6 - 14 - 1 = 4
+Strikeout
+Team 2 pitcher (Terry Adams): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-3
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Louis Evans
+
+Bryson Mckinney: rng1 = 43 + 6 - 9 + 1 = 41
+rng2 = 48 + 8 - 7 + 1 = 50
+Lineout
+Team 1 pitcher (Louis Evans): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-3
+
+Curtis McCormick: rng1 = 93 + 5 - 9 + 1 = 90
+Walk
+Team 1 pitcher (Louis Evans): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [7,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-3
+
+Daniel Ward: rng1 = 89 + 3 - 9 + 1 = 84
+rng2 = 70 + 3 - 7 + 1 = 67
+Double
+Team 1 pitcher (Louis Evans): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: [8,4], base3: [7,4]
+base1: false, base2: true, base3: true
+Score: 8-3
+
+Ramon Cabrera: rng1 = 81 + 12 - 9 + 1 = 85
+rng2 = 22 + 12 - 7 + 1 = 28
+Single
+Team 1 pitcher (Louis Evans): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: [0,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-5
+
+Esteban Mendoza: rng1 = 50 + 11 - 9 + 1 = 53
+rng2 = 51 + 9 - 7 + 1 = 54
+Lineout
+Team 1 pitcher (Louis Evans): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: [0,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-5
+
+Billy Campbell: rng1 = 27 + 10 - 9 + 1 = 29
+rng2 = 71 + 10 - 7 + 1 = 75
+Flyout
+Team 1 pitcher (Louis Evans): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-5
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 18
+Team 2 hits: 11
+Team 1 runs: 8
+Team 2 runs: 5
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-05-10
+Jack Hayes	6	1	2	0	0	0	1	0	1					Reno
+Christian Mendez	6	0	2	1	0	0	2	0	1	
+Clinton Meyers	5	0	1	0	0	0	1	1	1	
+Kyle McDaniel	5	1	2	1	0	0	0	0	1	
+Mark White	4	1	1	0	0	0	1	1	3	
+Victor Harris	5	2	4	2	0	0	1	0	0	
+Joel Lamb	4	1	1	0	0	0	0	1	1	
+Brian Woods	5	0	2	0	0	0	1	0	0	
+Tyler Johnston	5	2	3	1	0	0	1	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Jessie Cochran	1	0	1	1	0	0	21	6	1	1	1	8	27	
+Grant Colmeyer	0	0	1	0	0	0	3	3	2	0	0	1	6	
+Alexander Richards	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Jake Booth	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Louis Evans	0	0	1	0	0	0	3	2	2	0	1	0	6	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-05-10
+Ramon Cabrera	4	1	2	0	0	0	2	1	0					Anaheim
+Esteban Mendoza	5	0	0	0	0	0	0	0	0	
+Billy Campbell	5	1	2	1	0	0	0	0	2	
+Kyrie Anderson	4	0	1	0	0	0	1	0	1	
+Pedro Martinez	4	1	2	0	0	1	2	0	0	
+Leonardo Nunez	4	0	0	0	0	0	0	0	1	
+Bryson Mckinney	4	0	1	0	0	0	0	0	2	
+Curtis McCormick	3	1	2	0	0	0	0	1	0	
+Daniel Ward	4	1	1	1	0	0	0	0	3	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Kody Blake	0	1	1	1	0	0	9	9	6	0	2	3	20	
+Tim Brooks	0	0	1	0	0	0	3	4	1	0	0	1	7	
+Matias Rivera	0	0	1	0	0	0	6	1	0	0	0	1	7	
+Bradley Weaver	0	0	1	0	0	0	6	2	0	0	1	3	9	
+Terry Adams	0	0	1	0	0	0	3	2	1	0	0	1	5	

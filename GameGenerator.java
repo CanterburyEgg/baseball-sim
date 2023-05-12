@@ -2985,21 +2985,79 @@ public class GameGenerator
 		}
 		try {
 			PrintWriter writer = new PrintWriter(t1);
-			for (int i = 0; i < array1.size()-1; i++)
+			for (int i = 0; i < 13; i++)
 			{
-				if (i == 13 && (pitchers1[1][2] == 1 || t1controlranks[2]+t1stuffranks[2] > t1controlranks[1]+t1stuffranks[1]))
+				writer.println(array1.get(i));					
+			}
+
+			int r1stats = t1controlranks[1] + t1stuffranks[1];
+			int r2stats = t1controlranks[2] + t1stuffranks[2];
+			int r3stats = t1controlranks[3] + t1stuffranks[3];
+			int[] rsorted = new int[3];
+
+			if (r3stats > r2stats)
+			{
+				if (r1stats > r3stats)
 				{
-					writer.println(array1.get(i+1));
+					rsorted[0] = 1;
+					rsorted[1] = 3;
+					rsorted[2] = 2;
 				}
-				else if (i == 14 && (pitchers1[1][2] == 1 || t1controlranks[2]+t1stuffranks[2] > t1controlranks[1]+t1stuffranks[1]))
+				else if (r2stats > r1stats)
 				{
-					writer.println(array1.get(i-1));
+					rsorted[0] = 3;
+					rsorted[1] = 2;
+					rsorted[2] = 1;
 				}
 				else
 				{
-					writer.println(array1.get(i));					
+					rsorted[0] = 3;
+					rsorted[1] = 1;
+					rsorted[2] = 2;
 				}
 			}
+			else
+			{
+				if (r1stats > r2stats)
+				{
+					rsorted[0] = 1;
+					rsorted[1] = 2;
+					rsorted[2] = 3;
+				}
+				else if (r1stats > r3stats)
+				{
+					rsorted[0] = 2;
+					rsorted[1] = 1;
+					rsorted[2] = 3;
+				}
+				else
+				{
+					rsorted[0] = 2;
+					rsorted[1] = 3;
+					rsorted[2] = 1;				
+				}
+			}
+
+			ArrayList<String> pitched = new ArrayList<String>();
+			ArrayList<String> didntPitch = new ArrayList<String>();
+
+			for (int i = 0; i < 3; i++)
+			{
+				if (pitchers1[rsorted[i]][2] == 1)
+				{
+					pitched.add(array1.get(rsorted[i]+12));
+				}
+				else
+				{
+					didntPitch.add(array1.get(rsorted[i]+12));
+				}
+			}
+
+			didntPitch.forEach((n) -> writer.println(n));
+			pitched.forEach((n) -> writer.println(n));
+
+			writer.println(array1.get(16));
+
 			if (p1 == 3)
 			{
 				writer.print("0");
@@ -3023,21 +3081,79 @@ public class GameGenerator
 		}
 		try {
 			PrintWriter writer = new PrintWriter(t2);
-			for (int i = 0; i < array2.size()-1; i++)
+			for (int i = 0; i < 13; i++)
 			{
-				if (i == 13 && (pitchers2[1][2] == 1 || t2controlranks[2]+t2stuffranks[2] > t2controlranks[1]+t2stuffranks[1]))
+				writer.println(array2.get(i));					
+			}
+
+			int r1stats = t2controlranks[1] + t2stuffranks[1];
+			int r2stats = t2controlranks[2] + t2stuffranks[2];
+			int r3stats = t2controlranks[3] + t2stuffranks[3];
+			int[] rsorted = new int[3];
+
+			if (r3stats > r2stats)
+			{
+				if (r1stats > r3stats)
 				{
-					writer.println(array2.get(i+1));
+					rsorted[0] = 1;
+					rsorted[1] = 3;
+					rsorted[2] = 2;
 				}
-				else if (i == 14 && (pitchers2[1][2] == 1 || t2controlranks[2]+t2stuffranks[2] > t2controlranks[1]+t2stuffranks[1]))
+				else if (r2stats > r1stats)
 				{
-					writer.println(array2.get(i-1));
+					rsorted[0] = 3;
+					rsorted[1] = 2;
+					rsorted[2] = 1;
 				}
 				else
 				{
-					writer.println(array2.get(i));					
+					rsorted[0] = 3;
+					rsorted[1] = 1;
+					rsorted[2] = 2;
 				}
 			}
+			else
+			{
+				if (r1stats > r2stats)
+				{
+					rsorted[0] = 1;
+					rsorted[1] = 2;
+					rsorted[2] = 3;
+				}
+				else if (r1stats > r3stats)
+				{
+					rsorted[0] = 2;
+					rsorted[1] = 1;
+					rsorted[2] = 3;
+				}
+				else
+				{
+					rsorted[0] = 2;
+					rsorted[1] = 3;
+					rsorted[2] = 1;				
+				}
+			}
+
+			ArrayList<String> pitched = new ArrayList<String>();
+			ArrayList<String> didntPitch = new ArrayList<String>();
+
+			for (int i = 0; i < 3; i++)
+			{
+				if (pitchers2[rsorted[i]][2] == 1)
+				{
+					pitched.add(array2.get(rsorted[i]+12));
+				}
+				else
+				{
+					didntPitch.add(array2.get(rsorted[i]+12));
+				}
+			}
+
+			didntPitch.forEach((n) -> writer.println(n));
+			pitched.forEach((n) -> writer.println(n));
+
+			writer.println(array2.get(16));
+
 			if (p2 == 3)
 			{
 				writer.print("0");
@@ -3046,6 +3162,7 @@ public class GameGenerator
 			{
 				writer.print(p2+1);
 			}
+
 			writer.close();
 		}
 		catch (IOException e)

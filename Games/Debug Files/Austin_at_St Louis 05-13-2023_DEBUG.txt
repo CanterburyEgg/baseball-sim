@@ -1,0 +1,751 @@
+TOP INNING 1
+
+Cannon Terry: rng1 = 7 + 6 - 11 - 1 = 1
+Strikeout
+Team 2 pitcher (Max Wolfe): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Alex Murphy: rng1 = 100 + 8 - 11 - 1 = 96
+rng2 = 97 + 10 - 9 - 1 = 97
+Home run
+Team 2 pitcher (Max Wolfe): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Leon Watts: rng1 = 1 + 9 - 11 - 1 = -2
+Strikeout
+Team 2 pitcher (Max Wolfe): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Jaiden Fortner: rng1 = 3 + 7 - 11 - 1 = -2
+Strikeout
+Team 2 pitcher (Max Wolfe): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Eric Parker: rng1 = 54 + 17 - 10 + 1 = 62
+rng2 = 21 + 15 - 11 + 1 = 26
+Groundout
+Team 1 pitcher (John Long): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Mateo Estrada: rng1 = 37 + 15 - 10 + 1 = 43
+rng2 = 75 + 14 - 11 + 1 = 79
+Flyout
+Team 1 pitcher (John Long): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Jonathan Turner: rng1 = 39 + 9 - 10 + 1 = 39
+rng2 = 29 + 6 - 11 + 1 = 25
+Groundout
+Team 1 pitcher (John Long): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 2
+
+Alejandro Munoz: rng1 = 98 + 10 - 11 - 1 = 96
+rng2 = 66 + 8 - 9 - 1 = 64
+Single
+Team 2 pitcher (Max Wolfe): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Jacobi Davis: rng1 = 46 + 14 - 11 - 1 = 48
+rng2 = 15 + 11 - 9 - 1 = 16
+Groundout
+Team 2 pitcher (Max Wolfe): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Dominic Gardner: rng1 = 82 + 6 - 11 - 1 = 76
+rng2 = 85 + 7 - 9 - 1 = 82
+Home run
+Team 2 pitcher (Max Wolfe): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Jamar Brown: rng1 = 45 + 8 - 11 - 1 = 41
+rng2 = 22 + 9 - 9 - 1 = 21
+Groundout
+Team 2 pitcher (Max Wolfe): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Martin Avila: rng1 = 16 + 7 - 11 - 1 = 11
+rng2 = 64 + 6 - 9 - 1 = 60
+Flyout
+Team 2 pitcher (Max Wolfe): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Umberto Tasis: rng1 = 51 + 10 - 10 + 1 = 52
+rng2 = 91 + 6 - 11 + 1 = 87
+Flyout
+Team 1 pitcher (John Long): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Jose Walker: rng1 = 46 + 14 - 10 + 1 = 51
+rng2 = 20 + 13 - 11 + 1 = 23
+Groundout
+Team 1 pitcher (John Long): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Lawrence Webb: rng1 = 22 + 14 - 10 + 1 = 27
+Strikeout
+Team 1 pitcher (John Long): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+TOP INNING 3
+
+Cannon Terry: rng1 = 97 + 6 - 11 - 1 = 91
+rng2 = 48 + 9 - 9 - 1 = 47
+Single
+Team 2 pitcher (Max Wolfe): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Alex Murphy: rng1 = 67 + 8 - 11 - 1 = 63
+rng2 = 83 + 10 - 9 - 1 = 83
+Flyout
+Team 2 pitcher (Max Wolfe): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Leon Watts: rng1 = 49 + 9 - 11 - 1 = 46
+rng2 = 76 + 5 - 9 - 1 = 71
+Flyout
+Team 2 pitcher (Max Wolfe): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Jaiden Fortner: rng1 = 62 + 7 - 11 - 1 = 57
+rng2 = 59 + 8 - 9 - 1 = 57
+Lineout
+Team 2 pitcher (Max Wolfe): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Miguel Castillo: rng1 = 20 + 10 - 10 + 1 = 21
+Strikeout
+Team 1 pitcher (John Long): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Juan Reyes: rng1 = 55 + 10 - 10 + 1 = 56
+rng2 = 68 + 11 - 11 + 1 = 69
+Flyout
+Team 1 pitcher (John Long): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Jorge Perez: rng1 = 84 + 10 - 10 + 1 = 85
+rng2 = 14 + 5 - 11 + 1 = 9
+Single
+Team 1 pitcher (John Long): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Eric Parker: rng1 = 15 + 17 - 10 + 1 = 23
+Strikeout
+Team 1 pitcher (John Long): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+TOP INNING 4
+
+Alejandro Munoz: rng1 = 4 + 10 - 11 - 1 = 2
+Strikeout
+Team 2 pitcher (Max Wolfe): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Jacobi Davis: rng1 = 72 + 14 - 11 - 1 = 74
+rng2 = 81 + 11 - 9 - 1 = 82
+Home run
+Team 2 pitcher (Max Wolfe): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Dominic Gardner: rng1 = 46 + 6 - 11 - 1 = 40
+rng2 = 41 + 7 - 9 - 1 = 38
+Groundout
+Team 2 pitcher (Max Wolfe): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Jamar Brown: rng1 = 9 + 8 - 11 - 1 = 5
+Strikeout
+Team 2 pitcher (Max Wolfe): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+BOTTOM INNING 4
+
+Mateo Estrada: rng1 = 10 + 15 - 10 + 1 = 16
+Strikeout
+Team 1 pitcher (John Long): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Jonathan Turner: rng1 = 89 + 9 - 10 + 1 = 89
+Walk
+Team 1 pitcher (John Long): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Umberto Tasis: rng1 = 79 + 10 - 10 + 1 = 80
+rng2 = 24 + 6 - 11 + 1 = 20
+Single
+Team 1 pitcher (John Long): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 1
+
+base1: [3,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 4-0
+
+Jose Walker: rng1 = 96 + 14 - 10 + 1 = 101
+rng2 = 46 + 13 - 11 + 1 = 49
+Single
+Team 1 pitcher (John Long): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 1
+
+base1: [4,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 4-1
+
+Lawrence Webb: rng1 = 25 + 14 - 10 + 1 = 30
+rng2 = 52 + 14 - 11 + 1 = 56
+Lineout
+Team 1 pitcher (John Long): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 2
+
+base1: [4,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 4-1
+
+Miguel Castillo: rng1 = 96 + 10 - 10 + 1 = 97
+rng2 = 77 + 15 - 11 + 1 = 82
+Home run
+Team 1 pitcher (John Long): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Juan Reyes: rng1 = 13 + 10 - 10 + 1 = 14
+rng2 = 73 + 11 - 11 + 1 = 74
+Flyout
+Team 1 pitcher (John Long): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+TOP INNING 5
+
+Martin Avila: rng1 = 63 + 7 - 11 - 1 = 58
+rng2 = 36 + 6 - 9 - 1 = 32
+Groundout
+Team 2 pitcher (Max Wolfe): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Cannon Terry: rng1 = 49 + 6 - 11 - 1 = 43
+rng2 = 70 + 9 - 9 - 1 = 69
+Flyout
+Team 2 pitcher (Max Wolfe): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Alex Murphy: rng1 = 72 + 8 - 11 - 1 = 68
+rng2 = 31 + 10 - 9 - 1 = 31
+Groundout
+Team 2 pitcher (Max Wolfe): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+BOTTOM INNING 5
+
+Jorge Perez: rng1 = 3 + 10 - 10 + 1 = 4
+Strikeout
+Team 1 pitcher (John Long): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Eric Parker: rng1 = 64 + 17 - 10 + 1 = 72
+rng2 = 36 + 15 - 11 + 1 = 41
+Single
+Team 1 pitcher (John Long): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Mateo Estrada: rng1 = 73 + 15 - 10 + 1 = 79
+rng2 = 39 + 14 - 11 + 1 = 43
+Single
+Team 1 pitcher (John Long): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 1
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 4-4
+
+Jonathan Turner: rng1 = 46 + 9 - 10 + 1 = 46
+rng2 = 62 + 6 - 11 + 1 = 58
+Lineout
+Team 1 pitcher (John Long): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 2
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 4-4
+
+Umberto Tasis: rng1 = 55 + 10 - 10 + 1 = 56
+rng2 = 76 + 6 - 11 + 1 = 72
+Flyout
+Team 1 pitcher (John Long): 22 batters faced, 4 runs allowed = 22 + 10.0 = 32.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Julio Carrera
+
+Leon Watts: rng1 = 60 + 9 - 8 - 1 = 60
+rng2 = 71 + 5 - 7 - 1 = 68
+Flyout
+Team 2 pitcher (Julio Carrera): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Jaiden Fortner: rng1 = 42 + 7 - 8 - 1 = 40
+rng2 = 43 + 8 - 7 - 1 = 43
+Groundout
+Team 2 pitcher (Julio Carrera): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Alejandro Munoz: rng1 = 49 + 10 - 8 - 1 = 50
+rng2 = 4 + 8 - 7 - 1 = 4
+Groundout
+Team 2 pitcher (Julio Carrera): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Hattori Kenji
+
+Jose Walker: rng1 = 35 + 14 - 5 + 1 = 45
+rng2 = 96 + 13 - 4 + 1 = 106
+Flyout
+Team 1 pitcher (Hattori Kenji): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Lawrence Webb: rng1 = 67 + 14 - 5 + 1 = 77
+rng2 = 84 + 14 - 4 + 1 = 95
+Home run
+Team 1 pitcher (Hattori Kenji): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-5
+
+Miguel Castillo: rng1 = 45 + 10 - 5 + 1 = 51
+rng2 = 2 + 15 - 4 + 1 = 14
+Groundout
+Team 1 pitcher (Hattori Kenji): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-5
+
+Juan Reyes: rng1 = 79 + 10 - 5 + 1 = 85
+rng2 = 28 + 11 - 4 + 1 = 36
+Single
+Team 1 pitcher (Hattori Kenji): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-5
+
+Jorge Perez: rng1 = 66 + 10 - 5 + 1 = 72
+rng2 = 32 + 5 - 4 + 1 = 34
+Single
+Team 1 pitcher (Hattori Kenji): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [8,1], base2: false, base3: [7,1]
+base1: true, base2: false, base3: true
+Score: 4-5
+
+Eric Parker: rng1 = 27 + 17 - 5 + 1 = 40
+rng2 = 32 + 15 - 4 + 1 = 44
+Groundout
+Team 1 pitcher (Hattori Kenji): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-5
+
+-----------------------
+
+TOP INNING 7
+
+Jacobi Davis: rng1 = 17 + 14 - 8 - 1 = 22
+Strikeout
+Team 2 pitcher (Julio Carrera): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-5
+
+Dominic Gardner: rng1 = 84 + 6 - 8 - 1 = 81
+rng2 = 98 + 7 - 7 - 1 = 97
+Home run
+Team 2 pitcher (Julio Carrera): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-5
+
+Jamar Brown: rng1 = 50 + 8 - 8 - 1 = 49
+rng2 = 77 + 9 - 7 - 1 = 78
+Flyout
+Team 2 pitcher (Julio Carrera): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-5
+
+Martin Avila: rng1 = 18 + 7 - 8 - 1 = 16
+Strikeout
+Team 2 pitcher (Julio Carrera): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-5
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Eddie Lochland
+
+Mateo Estrada: rng1 = 2 + 15 - 8 + 1 = 10
+Strikeout
+Team 1 pitcher (Eddie Lochland): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-5
+
+Jonathan Turner: rng1 = 71 + 9 - 8 + 1 = 73
+rng2 = 84 + 6 - 7 + 1 = 84
+Home run
+Team 1 pitcher (Eddie Lochland): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-6
+
+Umberto Tasis: rng1 = 70 + 10 - 8 + 1 = 73
+rng2 = 24 + 6 - 7 + 1 = 24
+Single
+Team 1 pitcher (Eddie Lochland): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [3,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-6
+
+Jose Walker: rng1 = 98 + 14 - 8 + 1 = 105
+rng2 = 52 + 13 - 7 + 1 = 59
+Single
+Team 1 pitcher (Eddie Lochland): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [4,2], base2: false, base3: [3,2]
+base1: true, base2: false, base3: true
+Score: 5-6
+
+Lawrence Webb: rng1 = 84 + 14 - 8 + 1 = 91
+rng2 = 58 + 14 - 7 + 1 = 66
+Double
+Team 1 pitcher (Eddie Lochland): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 1
+
+base1: false, base2: [5,2], base3: [4,2]
+base1: false, base2: true, base3: true
+Score: 5-7
+
+Miguel Castillo: rng1 = 81 + 10 - 8 + 1 = 84
+rng2 = 37 + 15 - 7 + 1 = 46
+Single
+Team 1 pitcher (Eddie Lochland): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 1
+
+base1: [6,2], base2: false, base3: [5,2]
+base1: true, base2: false, base3: true
+Score: 5-8
+
+Team 1 pitcher change to Ryan Johnson
+
+Juan Reyes: rng1 = 31 + 10 - 5 + 1 = 37
+rng2 = 59 + 11 - 5 + 1 = 66
+Flyout
+Team 1 pitcher (Ryan Johnson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [6,2], base2: false, base3: [5,2]
+base1: true, base2: false, base3: true
+Score: 5-8
+
+Jorge Perez: rng1 = 89 + 10 - 5 + 1 = 95
+rng2 = 46 + 5 - 5 + 1 = 47
+Single
+Team 1 pitcher (Ryan Johnson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: [8,3], base2: [6,2], base3: false
+base1: true, base2: true, base3: false
+Score: 5-9
+
+Eric Parker: rng1 = 57 + 17 - 5 + 1 = 70
+Walk
+Team 1 pitcher (Ryan Johnson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,3], base2: [8,3], base3: [6,2]
+base1: true, base2: true, base3: true
+Score: 5-9
+
+Mateo Estrada: rng1 = 38 + 15 - 5 + 1 = 49
+rng2 = 55 + 14 - 5 + 1 = 65
+Flyout
+Team 1 pitcher (Ryan Johnson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-9
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Mori Yoshikazu
+
+Cannon Terry: rng1 = 58 + 6 - 7 - 1 = 56
+rng2 = 15 + 9 - 7 - 1 = 16
+Groundout
+Team 2 pitcher (Mori Yoshikazu): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-9
+
+Alex Murphy: rng1 = 46 + 8 - 7 - 1 = 46
+rng2 = 86 + 10 - 7 - 1 = 88
+Flyout
+Team 2 pitcher (Mori Yoshikazu): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-9
+
+Leon Watts: rng1 = 60 + 9 - 7 - 1 = 61
+rng2 = 26 + 5 - 7 - 1 = 23
+Groundout
+Team 2 pitcher (Mori Yoshikazu): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-9
+
+-----------------------
+
+BOTTOM INNING 8
+
+Jonathan Turner: rng1 = 13 + 9 - 5 + 1 = 18
+Strikeout
+Team 1 pitcher (Ryan Johnson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-9
+
+Umberto Tasis: rng1 = 86 + 10 - 5 + 1 = 92
+rng2 = 15 + 6 - 5 + 1 = 17
+Single
+Team 1 pitcher (Ryan Johnson): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [3,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-9
+
+Jose Walker: rng1 = 27 + 14 - 5 + 1 = 37
+rng2 = 3 + 13 - 5 + 1 = 12
+Groundout
+Team 1 pitcher (Ryan Johnson): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-9
+
+-----------------------
+
+TOP INNING 9
+
+Jaiden Fortner: rng1 = 23 + 7 - 7 - 1 = 22
+Strikeout
+Team 2 pitcher (Mori Yoshikazu): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-9
+
+Alejandro Munoz: rng1 = 26 + 10 - 7 - 1 = 28
+rng2 = 50 + 8 - 7 - 1 = 50
+Lineout
+Team 2 pitcher (Mori Yoshikazu): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-9
+
+Jacobi Davis: rng1 = 50 + 14 - 7 - 1 = 56
+rng2 = 96 + 11 - 7 - 1 = 99
+Flyout
+Team 2 pitcher (Mori Yoshikazu): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-9
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 6
+Team 2 hits: 16
+Team 1 runs: 5
+Team 2 runs: 9
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-05-13
+Cannon Terry	4	0	1	0	0	0	0	0	1					Austin
+Alex Murphy	4	1	1	0	0	1	1	0	0	
+Leon Watts	4	0	0	0	0	0	0	0	1	
+Jaiden Fortner	4	0	0	0	0	0	0	0	2	
+Alejandro Munoz	4	1	1	0	0	0	0	0	1	
+Jacobi Davis	4	1	1	0	0	1	1	0	1	
+Dominic Gardner	3	2	2	0	0	2	3	0	0	
+Jamar Brown	3	0	0	0	0	0	0	0	1	
+Martin Avila	3	0	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+John Long	0	0	1	1	0	0	15	6	4	1	1	5	22	
+Hattori Kenji	0	0	1	0	0	0	3	3	1	1	0	0	6	
+Eddie Lochland	0	1	1	0	0	0	1	5	4	1	0	1	6	
+Ryan Johnson	0	0	1	0	0	0	5	2	0	0	1	1	7	
+Ron Moore	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-05-13
+Eric Parker	4	0	1	0	0	0	0	1	1					St Louis
+Mateo Estrada	5	0	1	0	0	0	0	0	2	
+Jonathan Turner	4	2	1	0	0	1	1	1	1	
+Umberto Tasis	5	2	3	0	0	0	0	0	0	
+Jose Walker	5	2	2	0	0	0	1	0	0	
+Lawrence Webb	4	2	2	1	0	1	2	0	1	
+Miguel Castillo	4	1	2	0	0	1	4	0	1	
+Juan Reyes	4	0	1	0	0	0	0	0	0	
+Jorge Perez	4	0	3	0	0	0	1	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Max Wolfe	0	0	1	1	0	0	15	5	4	3	0	5	20	
+Julio Carrera	1	0	1	0	0	0	6	1	1	1	0	2	7	
+Mori Yoshikazu	0	0	1	0	0	0	6	0	0	0	0	1	6	
+Henry Wright	0	0	0	0	0	0	0	0	0	0	0	0	0	
+David Juarez	0	0	0	0	0	0	0	0	0	0	0	0	0	

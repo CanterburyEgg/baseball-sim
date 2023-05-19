@@ -1,0 +1,686 @@
+TOP INNING 1
+
+Dylan Marsh: rng1 = 5 + 15 - 9 - 1 = 10
+Strikeout
+Team 2 pitcher (Dylan Werth): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Rodolfo Mullen: rng1 = 12 + 14 - 9 - 1 = 16
+Strikeout
+Team 2 pitcher (Dylan Werth): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Rubén Indiano: rng1 = 82 + 14 - 9 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Dylan Werth): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Frankie Bell: rng1 = 10 + 8 - 9 - 1 = 8
+Strikeout
+Team 2 pitcher (Dylan Werth): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Finnegan Maxwell: rng1 = 59 + 15 - 10 + 1 = 65
+rng2 = 6 + 15 - 9 + 1 = 13
+Groundout
+Team 1 pitcher (Maverick McKay): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Angel Gutiérrez: rng1 = 55 + 15 - 10 + 1 = 61
+rng2 = 71 + 12 - 9 + 1 = 75
+Flyout
+Team 1 pitcher (Maverick McKay): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Randy Carson: rng1 = 80 + 12 - 10 + 1 = 83
+rng2 = 87 + 11 - 9 + 1 = 90
+Double
+Team 1 pitcher (Maverick McKay): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Nick Hamburger: rng1 = 8 + 12 - 10 + 1 = 11
+rng2 = 77 + 14 - 9 + 1 = 83
+Flyout
+Team 1 pitcher (Maverick McKay): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Marcelo Francis: rng1 = 6 + 12 - 9 - 1 = 8
+Strikeout
+Team 2 pitcher (Dylan Werth): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Braylon Summers: rng1 = 12 + 7 - 9 - 1 = 9
+Strikeout
+Team 2 pitcher (Dylan Werth): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Enrique Holmes: rng1 = 29 + 5 - 9 - 1 = 24
+Strikeout
+Team 2 pitcher (Dylan Werth): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Casey Myers-Morgan: rng1 = 15 + 10 - 10 + 1 = 16
+Strikeout
+Team 1 pitcher (Maverick McKay): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Bailey Myers-Morgan: rng1 = 55 + 8 - 10 + 1 = 54
+rng2 = 21 + 11 - 9 + 1 = 24
+Groundout
+Team 1 pitcher (Maverick McKay): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Emiliano Costa: rng1 = 89 + 8 - 10 + 1 = 88
+Walk
+Team 1 pitcher (Maverick McKay): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Nakazawa Shinji: rng1 = 87 + 3 - 10 + 1 = 81
+rng2 = 68 + 7 - 9 + 1 = 67
+Double
+Team 1 pitcher (Maverick McKay): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+David Freixa: rng1 = 23 + 5 - 10 + 1 = 19
+Strikeout
+Team 1 pitcher (Maverick McKay): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 3
+
+Trent Cline: rng1 = 85 + 5 - 9 - 1 = 80
+rng2 = 44 + 6 - 8 - 1 = 41
+Single
+Team 2 pitcher (Dylan Werth): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Juan Bolton: rng1 = 22 + 3 - 9 - 1 = 15
+rng2 = 81 + 7 - 8 - 1 = 79
+Flyout
+Team 2 pitcher (Dylan Werth): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Dylan Marsh: rng1 = 34 + 15 - 9 - 1 = 39
+rng2 = 19 + 15 - 8 - 1 = 25
+Groundout
+Team 2 pitcher (Dylan Werth): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Finnegan Maxwell: rng1 = 71 + 15 - 10 + 1 = 77
+rng2 = 63 + 15 - 9 + 1 = 70
+Double
+Team 1 pitcher (Maverick McKay): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 0
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Angel Gutiérrez: rng1 = 4 + 15 - 10 + 1 = 10
+Strikeout
+Team 1 pitcher (Maverick McKay): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Randy Carson: rng1 = 42 + 12 - 10 + 1 = 45
+rng2 = 71 + 11 - 9 + 1 = 74
+Flyout
+Team 1 pitcher (Maverick McKay): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Nick Hamburger: rng1 = 96 + 12 - 10 + 1 = 99
+rng2 = 46 + 14 - 9 + 1 = 52
+Single
+Team 1 pitcher (Maverick McKay): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Casey Myers-Morgan: rng1 = 35 + 10 - 10 + 1 = 36
+rng2 = 50 + 10 - 9 + 1 = 52
+Lineout
+Team 1 pitcher (Maverick McKay): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 4
+
+Rodolfo Mullen: rng1 = 91 + 14 - 9 - 1 = 95
+rng2 = 4 + 14 - 8 - 1 = 9
+Single
+Team 2 pitcher (Dylan Werth): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Rubén Indiano: rng1 = 8 + 14 - 9 - 1 = 12
+rng2 = 1 + 13 - 8 - 1 = 5
+Groundout
+Team 2 pitcher (Dylan Werth): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Frankie Bell: rng1 = 29 + 8 - 9 - 1 = 27
+Strikeout
+Team 2 pitcher (Dylan Werth): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Marcelo Francis: rng1 = 24 + 12 - 9 - 1 = 26
+Strikeout
+Team 2 pitcher (Dylan Werth): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+BOTTOM INNING 4
+
+Bailey Myers-Morgan: rng1 = 19 + 8 - 10 + 1 = 18
+Strikeout
+Team 1 pitcher (Maverick McKay): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Emiliano Costa: rng1 = 53 + 8 - 10 + 1 = 52
+rng2 = 2 + 10 - 9 + 1 = 4
+Groundout
+Team 1 pitcher (Maverick McKay): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Nakazawa Shinji: rng1 = 14 + 3 - 10 + 1 = 8
+Strikeout
+Team 1 pitcher (Maverick McKay): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 5
+
+Braylon Summers: rng1 = 55 + 7 - 9 - 1 = 52
+rng2 = 92 + 6 - 8 - 1 = 89
+Flyout
+Team 2 pitcher (Dylan Werth): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Enrique Holmes: rng1 = 77 + 5 - 9 - 1 = 72
+rng2 = 31 + 7 - 8 - 1 = 29
+Single
+Team 2 pitcher (Dylan Werth): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Trent Cline: rng1 = 89 + 5 - 9 - 1 = 84
+rng2 = 49 + 6 - 8 - 1 = 46
+Single
+Team 2 pitcher (Dylan Werth): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 1
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-2
+
+Juan Bolton: rng1 = 61 + 3 - 9 - 1 = 54
+rng2 = 9 + 7 - 8 - 1 = 7
+Groundout
+Team 2 pitcher (Dylan Werth): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+BOTTOM INNING 5
+
+David Freixa: rng1 = 70 + 5 - 10 + 1 = 66
+rng2 = 30 + 4 - 9 + 1 = 26
+Groundout
+Team 1 pitcher (Maverick McKay): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Finnegan Maxwell: rng1 = 70 + 15 - 10 + 1 = 76
+rng2 = 50 + 15 - 9 + 1 = 57
+Single
+Team 1 pitcher (Maverick McKay): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Angel Gutiérrez: rng1 = 60 + 15 - 10 + 1 = 66
+rng2 = 39 + 12 - 9 + 1 = 43
+Groundout
+Team 1 pitcher (Maverick McKay): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-2
+
+Randy Carson: rng1 = 12 + 12 - 10 + 1 = 15
+rng2 = 15 + 11 - 9 + 1 = 18
+Groundout
+Team 1 pitcher (Maverick McKay): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 6
+
+Dylan Marsh: rng1 = 67 + 15 - 9 - 1 = 72
+rng2 = 16 + 15 - 8 - 1 = 22
+Single
+Team 2 pitcher (Dylan Werth): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Rodolfo Mullen: rng1 = 34 + 14 - 9 - 1 = 38
+rng2 = 1 + 14 - 8 - 1 = 6
+Groundout
+Team 2 pitcher (Dylan Werth): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-2
+
+Rubén Indiano: rng1 = 71 + 14 - 9 - 1 = 75
+rng2 = 55 + 13 - 8 - 1 = 59
+Single
+Team 2 pitcher (Dylan Werth): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 1
+
+base1: [2,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 0-2
+
+Frankie Bell: rng1 = 43 + 8 - 9 - 1 = 41
+rng2 = 28 + 11 - 8 - 1 = 30
+Groundout
+Team 2 pitcher (Dylan Werth): 22 batters faced, 0 runs allowed = 22 + 0.0 = 22.0, outs: 2
+
+base1: false, base2: [2,0], base3: [0,0]
+base1: false, base2: true, base3: true
+Score: 0-2
+
+Marcelo Francis: rng1 = 33 + 12 - 9 - 1 = 35
+rng2 = 78 + 7 - 8 - 1 = 76
+Flyout
+Team 2 pitcher (Dylan Werth): 23 batters faced, 0 runs allowed = 23 + 0.0 = 23.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+BOTTOM INNING 6
+
+Nick Hamburger: rng1 = 48 + 12 - 10 + 1 = 51
+rng2 = 23 + 14 - 9 + 1 = 29
+Groundout
+Team 1 pitcher (Maverick McKay): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Casey Myers-Morgan: rng1 = 30 + 10 - 10 + 1 = 31
+rng2 = 100 + 10 - 9 + 1 = 102
+Flyout
+Team 1 pitcher (Maverick McKay): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Bailey Myers-Morgan: rng1 = 50 + 8 - 10 + 1 = 49
+rng2 = 11 + 11 - 9 + 1 = 14
+Groundout
+Team 1 pitcher (Maverick McKay): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 7
+
+Braylon Summers: rng1 = 79 + 7 - 9 - 1 = 76
+rng2 = 97 + 6 - 8 - 1 = 94
+Home run
+Team 2 pitcher (Dylan Werth): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Enrique Holmes: rng1 = 6 + 5 - 9 - 1 = 1
+Strikeout
+Team 2 pitcher (Dylan Werth): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Trent Cline: rng1 = 91 + 5 - 9 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Dylan Werth): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Juan Bolton: rng1 = 2 + 3 - 9 - 1 = -5
+Strikeout
+Team 2 pitcher (Dylan Werth): 27 batters faced, 1 runs allowed = 27 + 2.5 = 29.5, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Dylan Marsh: rng1 = 23 + 15 - 9 - 1 = 28
+rng2 = 75 + 15 - 8 - 1 = 81
+Flyout
+Team 2 pitcher (Dylan Werth): 28 batters faced, 1 runs allowed = 28 + 2.5 = 30.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Ian Berg
+
+Emiliano Costa: rng1 = 82 + 8 - 10 + 1 = 81
+rng2 = 55 + 10 - 9 + 1 = 57
+Single
+Team 1 pitcher (Ian Berg): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Nakazawa Shinji: rng1 = 12 + 3 - 10 + 1 = 6
+Strikeout
+Team 1 pitcher (Ian Berg): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+David Freixa: rng1 = 41 + 5 - 10 + 1 = 37
+rng2 = 69 + 4 - 9 + 1 = 65
+Flyout
+Team 1 pitcher (Ian Berg): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Finnegan Maxwell: rng1 = 54 + 15 - 10 + 1 = 60
+rng2 = 27 + 15 - 9 + 1 = 34
+Groundout
+Team 1 pitcher (Ian Berg): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Sergio Narvaez
+
+Rodolfo Mullen: rng1 = 12 + 14 - 11 - 1 = 14
+rng2 = 55 + 14 - 12 - 1 = 56
+Lineout
+Team 2 pitcher (Sergio Narvaez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Rubén Indiano: rng1 = 96 + 14 - 11 - 1 = 98
+rng2 = 54 + 13 - 12 - 1 = 54
+Single
+Team 2 pitcher (Sergio Narvaez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Frankie Bell: rng1 = 92 + 8 - 11 - 1 = 88
+Walk
+Team 2 pitcher (Sergio Narvaez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [3,1], base2: [2,1], base3: false
+base1: true, base2: true, base3: false
+Score: 1-2
+
+Marcelo Francis: rng1 = 20 + 12 - 11 - 1 = 20
+Strikeout
+Team 2 pitcher (Sergio Narvaez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [3,1], base2: [2,1], base3: false
+base1: true, base2: true, base3: false
+Score: 1-2
+
+Braylon Summers: rng1 = 49 + 7 - 11 - 1 = 44
+rng2 = 9 + 6 - 12 - 1 = 2
+Groundout
+Team 2 pitcher (Sergio Narvaez): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 8
+
+Angel Gutiérrez: rng1 = 87 + 15 - 10 + 1 = 93
+rng2 = 79 + 12 - 9 + 1 = 83
+Home run
+Team 1 pitcher (Ian Berg): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Randy Carson: rng1 = 16 + 12 - 10 + 1 = 19
+Strikeout
+Team 1 pitcher (Ian Berg): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Nick Hamburger: rng1 = 87 + 12 - 10 + 1 = 90
+Walk
+Team 1 pitcher (Ian Berg): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Casey Myers-Morgan: rng1 = 40 + 10 - 10 + 1 = 41
+rng2 = 30 + 10 - 9 + 1 = 32
+Groundout
+Team 1 pitcher (Ian Berg): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Seno Mashiro
+
+Enrique Holmes: rng1 = 71 + 5 - 13 - 1 = 62
+rng2 = 64 + 7 - 14 - 1 = 56
+Lineout
+Team 2 pitcher (Seno Mashiro): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Trent Cline: rng1 = 9 + 5 - 13 - 1 = 0
+Strikeout
+Team 2 pitcher (Seno Mashiro): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Juan Bolton: rng1 = 24 + 3 - 13 - 1 = 13
+rng2 = 66 + 7 - 14 - 1 = 58
+Lineout
+Team 2 pitcher (Seno Mashiro): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 8
+Team 2 hits: 7
+Team 1 runs: 1
+Team 2 runs: 3
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-05-18
+Dylan Marsh	4	0	1	0	0	0	0	0	1					San Antonio
+Rodolfo Mullen	4	0	1	0	0	0	0	0	1	
+Rubén Indiano	3	0	2	0	0	0	0	0	0	
+Frankie Bell	3	0	0	0	0	0	0	1	2	
+Marcelo Francis	4	0	0	0	0	0	0	0	3	
+Braylon Summers	4	1	1	0	0	1	1	0	1	
+Enrique Holmes	4	0	1	0	0	0	0	0	2	
+Trent Cline	3	0	2	0	0	0	0	0	1	
+Juan Bolton	4	0	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Maverick McKay	0	1	1	1	0	0	18	5	2	0	1	5	24	
+Ian Berg	0	0	1	0	0	0	6	2	1	1	1	2	8	
+Jackson Peck	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Cullen McClain	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Sakai Tsuneo	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-05-18
+Finnegan Maxwell	4	1	2	1	0	0	0	0	0					Dallas
+Angel Gutiérrez	4	1	1	0	0	1	1	0	1	
+Randy Carson	4	0	1	1	0	0	0	0	1	
+Nick Hamburger	3	0	1	0	0	0	1	1	0	
+Casey Myers-Morgan	4	0	0	0	0	0	0	0	1	
+Bailey Myers-Morgan	3	0	0	0	0	0	0	0	1	
+Emiliano Costa	2	1	1	0	0	0	0	1	0	
+Nakazawa Shinji	3	0	1	1	0	0	1	0	2	
+David Freixa	3	0	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Dylan Werth	1	0	1	1	0	0	21	7	1	1	0	10	28	
+Sergio Narvaez	0	0	1	0	0	0	3	1	0	0	1	1	5	
+Douglas Bosak	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Armando Negron	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Seno Mashiro	0	0	1	0	1	1	3	0	0	0	0	1	3	

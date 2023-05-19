@@ -1,0 +1,773 @@
+TOP INNING 1
+
+Hiro Hakayawa: rng1 = 90 + 13 - 6 - 1 = 96
+rng2 = 1 + 11 - 3 - 1 = 8
+Single
+Team 2 pitcher (Yajeel Hinton): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Zachary Hughes: rng1 = 55 + 12 - 6 - 1 = 60
+rng2 = 96 + 15 - 3 - 1 = 107
+Flyout
+Team 2 pitcher (Yajeel Hinton): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Guillermo Tamayo: rng1 = 45 + 12 - 6 - 1 = 50
+rng2 = 48 + 8 - 3 - 1 = 52
+Lineout
+Team 2 pitcher (Yajeel Hinton): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Alfredo Encarnacion: rng1 = 22 + 10 - 6 - 1 = 25
+Strikeout
+Team 2 pitcher (Yajeel Hinton): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Cody McCarthy: rng1 = 3 + 14 - 11 + 1 = 7
+Strikeout
+Team 1 pitcher (Danny Perry): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Randall Hodge: rng1 = 26 + 13 - 11 + 1 = 29
+rng2 = 69 + 9 - 10 + 1 = 69
+Flyout
+Team 1 pitcher (Danny Perry): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Joseph Thayer: rng1 = 42 + 13 - 11 + 1 = 45
+rng2 = 27 + 8 - 10 + 1 = 26
+Groundout
+Team 1 pitcher (Danny Perry): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Micah Zamora: rng1 = 32 + 8 - 6 - 1 = 33
+rng2 = 9 + 11 - 3 - 1 = 16
+Groundout
+Team 2 pitcher (Yajeel Hinton): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Sean Stevens: rng1 = 74 + 7 - 6 - 1 = 74
+rng2 = 14 + 8 - 3 - 1 = 18
+Single
+Team 2 pitcher (Yajeel Hinton): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Zyrell Ford: rng1 = 50 + 8 - 6 - 1 = 51
+rng2 = 2 + 4 - 3 - 1 = 2
+Groundout
+Team 2 pitcher (Yajeel Hinton): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Felix Alarcón: rng1 = 24 + 5 - 6 - 1 = 22
+Strikeout
+Team 2 pitcher (Yajeel Hinton): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Reuben Sutton: rng1 = 53 + 12 - 11 + 1 = 55
+rng2 = 16 + 14 - 10 + 1 = 21
+Groundout
+Team 1 pitcher (Danny Perry): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Dante Leoz: rng1 = 86 + 12 - 11 + 1 = 88
+Walk
+Team 1 pitcher (Danny Perry): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Caden Bryan: rng1 = 82 + 8 - 11 + 1 = 80
+rng2 = 54 + 13 - 10 + 1 = 58
+Single
+Team 1 pitcher (Danny Perry): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Ethan Murphy: rng1 = 64 + 6 - 11 + 1 = 60
+rng2 = 11 + 6 - 10 + 1 = 8
+Groundout
+Team 1 pitcher (Danny Perry): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: [5,0], base3: [4,0]
+base1: false, base2: true, base3: true
+Score: 0-0
+
+Trent Page: rng1 = 28 + 6 - 11 + 1 = 24
+Strikeout
+Team 1 pitcher (Danny Perry): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 3
+
+Andy Kelley: rng1 = 95 + 4 - 6 - 1 = 92
+rng2 = 20 + 5 - 3 - 1 = 21
+Single
+Team 2 pitcher (Yajeel Hinton): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Hiro Hakayawa: rng1 = 54 + 13 - 6 - 1 = 60
+rng2 = 20 + 11 - 3 - 1 = 27
+Groundout
+Team 2 pitcher (Yajeel Hinton): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Zachary Hughes: rng1 = 37 + 12 - 6 - 1 = 42
+rng2 = 34 + 15 - 3 - 1 = 45
+Groundout
+Team 2 pitcher (Yajeel Hinton): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Alonso Welch: rng1 = 33 + 7 - 11 + 1 = 30
+rng2 = 24 + 4 - 10 + 1 = 19
+Groundout
+Team 1 pitcher (Danny Perry): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Cody McCarthy: rng1 = 52 + 14 - 11 + 1 = 56
+rng2 = 46 + 12 - 10 + 1 = 49
+Lineout
+Team 1 pitcher (Danny Perry): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Randall Hodge: rng1 = 57 + 13 - 11 + 1 = 60
+rng2 = 71 + 9 - 10 + 1 = 71
+Flyout
+Team 1 pitcher (Danny Perry): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 4
+
+Guillermo Tamayo: rng1 = 100 + 12 - 6 - 1 = 105
+rng2 = 42 + 8 - 3 - 1 = 46
+Single
+Team 2 pitcher (Yajeel Hinton): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 0
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Alfredo Encarnacion: rng1 = 20 + 10 - 6 - 1 = 23
+Strikeout
+Team 2 pitcher (Yajeel Hinton): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Micah Zamora: rng1 = 44 + 8 - 6 - 1 = 45
+rng2 = 72 + 11 - 3 - 1 = 79
+Flyout
+Team 2 pitcher (Yajeel Hinton): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Sean Stevens: rng1 = 40 + 7 - 6 - 1 = 40
+rng2 = 84 + 8 - 3 - 1 = 88
+Flyout
+Team 2 pitcher (Yajeel Hinton): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 4
+
+Joseph Thayer: rng1 = 81 + 13 - 11 + 1 = 84
+rng2 = 3 + 8 - 10 + 1 = 2
+Single
+Team 1 pitcher (Danny Perry): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 0
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Reuben Sutton: rng1 = 18 + 12 - 11 + 1 = 20
+Strikeout
+Team 1 pitcher (Danny Perry): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Dante Leoz: rng1 = 95 + 12 - 11 + 1 = 97
+rng2 = 65 + 13 - 10 + 1 = 69
+Double
+Team 1 pitcher (Danny Perry): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 1
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Caden Bryan: rng1 = 64 + 8 - 11 + 1 = 62
+rng2 = 62 + 13 - 10 + 1 = 66
+Flyout
+Team 1 pitcher (Danny Perry): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 2
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Ethan Murphy: rng1 = 62 + 6 - 11 + 1 = 58
+rng2 = 88 + 6 - 10 + 1 = 85
+Flyout
+Team 1 pitcher (Danny Perry): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 5
+
+Zyrell Ford: rng1 = 64 + 8 - 6 - 1 = 65
+rng2 = 35 + 4 - 3 - 1 = 35
+Groundout
+Team 2 pitcher (Yajeel Hinton): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Felix Alarcón: rng1 = 100 + 5 - 6 - 1 = 98
+rng2 = 67 + 6 - 3 - 1 = 69
+Double
+Team 2 pitcher (Yajeel Hinton): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 1
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Andy Kelley: rng1 = 88 + 4 - 6 - 1 = 85
+rng2 = 25 + 5 - 3 - 1 = 26
+Single
+Team 2 pitcher (Yajeel Hinton): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 1
+
+base1: [8,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 0-1
+
+Hiro Hakayawa: rng1 = 6 + 13 - 6 - 1 = 12
+rng2 = 26 + 11 - 3 - 1 = 33
+Groundout
+Team 2 pitcher (Yajeel Hinton): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 2
+
+base1: [0,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 0-1
+
+Zachary Hughes: rng1 = 60 + 12 - 6 - 1 = 65
+rng2 = 60 + 15 - 3 - 1 = 71
+Flyout
+Team 2 pitcher (Yajeel Hinton): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 5
+
+Trent Page: rng1 = 84 + 6 - 11 + 1 = 80
+rng2 = 12 + 5 - 10 + 1 = 8
+Single
+Team 1 pitcher (Danny Perry): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Alonso Welch: rng1 = 71 + 7 - 11 + 1 = 68
+rng2 = 77 + 4 - 10 + 1 = 72
+Flyout
+Team 1 pitcher (Danny Perry): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Cody McCarthy: rng1 = 72 + 14 - 11 + 1 = 76
+rng2 = 10 + 12 - 10 + 1 = 13
+Single
+Team 1 pitcher (Danny Perry): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 1
+
+base1: [0,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-1
+
+Randall Hodge: rng1 = 78 + 13 - 11 + 1 = 81
+rng2 = 94 + 9 - 10 + 1 = 94
+Home run
+Team 1 pitcher (Danny Perry): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Joseph Thayer: rng1 = 93 + 13 - 11 + 1 = 96
+rng2 = 81 + 8 - 10 + 1 = 80
+Home run
+Team 1 pitcher (Danny Perry): 21 batters faced, 5 runs allowed = 21 + 12.5 = 33.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Reuben Sutton: rng1 = 51 + 12 - 11 + 1 = 53
+rng2 = 60 + 14 - 10 + 1 = 65
+Flyout
+Team 1 pitcher (Danny Perry): 22 batters faced, 5 runs allowed = 22 + 12.5 = 34.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Dante Leoz: rng1 = 38 + 12 - 11 + 1 = 40
+rng2 = 34 + 13 - 10 + 1 = 38
+Groundout
+Team 1 pitcher (Danny Perry): 23 batters faced, 5 runs allowed = 23 + 12.5 = 35.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+TOP INNING 6
+
+Guillermo Tamayo: rng1 = 47 + 12 - 6 - 1 = 52
+rng2 = 7 + 8 - 3 - 1 = 11
+Groundout
+Team 2 pitcher (Yajeel Hinton): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Alfredo Encarnacion: rng1 = 24 + 10 - 6 - 1 = 27
+Strikeout
+Team 2 pitcher (Yajeel Hinton): 22 batters faced, 0 runs allowed = 22 + 0.0 = 22.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Micah Zamora: rng1 = 99 + 8 - 6 - 1 = 100
+rng2 = 77 + 11 - 3 - 1 = 84
+Home run
+Team 2 pitcher (Yajeel Hinton): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Sean Stevens: rng1 = 25 + 7 - 6 - 1 = 25
+Strikeout
+Team 2 pitcher (Yajeel Hinton): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Amante Harvey
+
+Caden Bryan: rng1 = 54 + 8 - 12 + 1 = 51
+rng2 = 51 + 13 - 10 + 1 = 55
+Lineout
+Team 1 pitcher (Amante Harvey): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Ethan Murphy: rng1 = 90 + 6 - 12 + 1 = 85
+rng2 = 53 + 6 - 10 + 1 = 50
+Single
+Team 1 pitcher (Amante Harvey): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Trent Page: rng1 = 44 + 6 - 12 + 1 = 39
+rng2 = 41 + 5 - 10 + 1 = 37
+Groundout
+Team 1 pitcher (Amante Harvey): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Alonso Welch: rng1 = 42 + 7 - 12 + 1 = 38
+rng2 = 75 + 4 - 10 + 1 = 70
+Flyout
+Team 1 pitcher (Amante Harvey): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Hanley Harper
+
+Zyrell Ford: rng1 = 94 + 8 - 7 - 1 = 94
+rng2 = 13 + 4 - 5 - 1 = 11
+Single
+Team 2 pitcher (Hanley Harper): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Felix Alarcón: rng1 = 17 + 5 - 7 - 1 = 14
+rng2 = 57 + 6 - 5 - 1 = 57
+Lineout
+Team 2 pitcher (Hanley Harper): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Andy Kelley: rng1 = 94 + 4 - 7 - 1 = 90
+Walk
+Team 2 pitcher (Hanley Harper): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [8,1], base2: [6,1], base3: false
+base1: true, base2: true, base3: false
+Score: 1-5
+
+Hiro Hakayawa: rng1 = 27 + 13 - 7 - 1 = 32
+rng2 = 50 + 11 - 5 - 1 = 55
+Lineout
+Team 2 pitcher (Hanley Harper): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [8,1], base2: [6,1], base3: false
+base1: true, base2: true, base3: false
+Score: 1-5
+
+Zachary Hughes: rng1 = 66 + 12 - 7 - 1 = 70
+Walk
+Team 2 pitcher (Hanley Harper): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: [1,1], base2: [8,1], base3: [6,1]
+base1: true, base2: true, base3: true
+Score: 1-5
+
+Guillermo Tamayo: rng1 = 7 + 12 - 7 - 1 = 11
+rng2 = 47 + 8 - 5 - 1 = 49
+Lineout
+Team 2 pitcher (Hanley Harper): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+BOTTOM INNING 7
+
+Cody McCarthy: rng1 = 80 + 14 - 12 + 1 = 83
+rng2 = 97 + 12 - 10 + 1 = 100
+Home run
+Team 1 pitcher (Amante Harvey): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Randall Hodge: rng1 = 26 + 13 - 12 + 1 = 28
+rng2 = 26 + 9 - 10 + 1 = 26
+Groundout
+Team 1 pitcher (Amante Harvey): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Joseph Thayer: rng1 = 2 + 13 - 12 + 1 = 4
+Strikeout
+Team 1 pitcher (Amante Harvey): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Reuben Sutton: rng1 = 82 + 12 - 12 + 1 = 83
+rng2 = 19 + 14 - 10 + 1 = 24
+Single
+Team 1 pitcher (Amante Harvey): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Dante Leoz: rng1 = 34 + 12 - 12 + 1 = 35
+rng2 = 78 + 13 - 10 + 1 = 82
+Flyout
+Team 1 pitcher (Amante Harvey): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Keegan Schiel
+
+Alfredo Encarnacion: rng1 = 35 + 10 - 5 - 1 = 39
+rng2 = 100 + 12 - 8 - 1 = 103
+Flyout
+Team 2 pitcher (Keegan Schiel): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Micah Zamora: rng1 = 40 + 8 - 5 - 1 = 42
+rng2 = 4 + 11 - 8 - 1 = 6
+Groundout
+Team 2 pitcher (Keegan Schiel): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Sean Stevens: rng1 = 41 + 7 - 5 - 1 = 42
+rng2 = 76 + 8 - 8 - 1 = 75
+Flyout
+Team 2 pitcher (Keegan Schiel): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Lautaro Lain
+
+Caden Bryan: rng1 = 96 + 8 - 7 + 1 = 98
+rng2 = 39 + 13 - 7 + 1 = 46
+Single
+Team 1 pitcher (Lautaro Lain): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Ethan Murphy: rng1 = 12 + 6 - 7 + 1 = 12
+rng2 = 32 + 6 - 7 + 1 = 32
+Groundout
+Team 1 pitcher (Lautaro Lain): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Trent Page: rng1 = 55 + 6 - 7 + 1 = 55
+rng2 = 7 + 5 - 7 + 1 = 6
+Groundout
+Team 1 pitcher (Lautaro Lain): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Alonso Welch: rng1 = 19 + 7 - 7 + 1 = 20
+Strikeout
+Team 1 pitcher (Lautaro Lain): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 9
+
+Zyrell Ford: rng1 = 42 + 8 - 5 - 1 = 44
+rng2 = 89 + 4 - 8 - 1 = 84
+Flyout
+Team 2 pitcher (Keegan Schiel): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Felix Alarcón: rng1 = 73 + 5 - 5 - 1 = 72
+rng2 = 59 + 6 - 8 - 1 = 56
+Single
+Team 2 pitcher (Keegan Schiel): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Andy Kelley: rng1 = 100 + 4 - 5 - 1 = 98
+rng2 = 21 + 5 - 8 - 1 = 17
+Single
+Team 2 pitcher (Keegan Schiel): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [8,2], base2: false, base3: [7,2]
+base1: true, base2: false, base3: true
+Score: 1-6
+
+Hiro Hakayawa: rng1 = 30 + 13 - 5 - 1 = 37
+rng2 = 95 + 11 - 8 - 1 = 97
+Flyout
+Team 2 pitcher (Keegan Schiel): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-6
+
+Zachary Hughes: rng1 = 97 + 12 - 5 - 1 = 103
+rng2 = 52 + 15 - 8 - 1 = 58
+Single
+Team 2 pitcher (Keegan Schiel): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [1,2], base2: false, base3: [8,2]
+base1: true, base2: false, base3: true
+Score: 2-6
+
+Guillermo Tamayo: rng1 = 95 + 12 - 5 - 1 = 101
+rng2 = 61 + 8 - 8 - 1 = 60
+Single
+Team 2 pitcher (Keegan Schiel): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 2
+
+base1: [2,2], base2: false, base3: [1,2]
+base1: true, base2: false, base3: true
+Score: 3-6
+
+Team 2 pitcher change to Jacob Wallace
+
+Alfredo Encarnacion: rng1 = 46 + 10 - 7 - 1 = 48
+rng2 = 26 + 12 - 6 - 1 = 31
+Groundout
+Team 2 pitcher (Jacob Wallace): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-6
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 12
+Team 2 hits: 11
+Team 1 runs: 3
+Team 2 runs: 6
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-05-18
+Hiro Hakayawa	5	0	1	0	0	0	1	0	0					Colorado
+Zachary Hughes	4	0	1	0	0	0	0	1	0	
+Guillermo Tamayo	5	0	2	0	0	0	1	0	0	
+Alfredo Encarnacion	5	0	0	0	0	0	0	0	3	
+Micah Zamora	4	1	1	0	0	1	1	0	0	
+Sean Stevens	4	0	1	0	0	0	0	0	1	
+Zyrell Ford	4	0	1	0	0	0	0	0	0	
+Felix Alarcón	4	1	2	1	0	0	0	0	1	
+Andy Kelley	3	1	3	0	0	0	0	1	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Danny Perry	0	1	1	1	0	0	15	7	5	2	1	3	23	
+Amante Harvey	0	0	1	0	0	0	6	3	1	1	0	1	9	
+Lautaro Lain	0	0	1	0	0	0	3	1	0	0	0	1	4	
+Jayden Cooper	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Marquis Haynes	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-05-18
+Cody McCarthy	4	2	2	0	0	1	1	0	1					Detroit
+Randall Hodge	4	1	1	0	0	1	3	0	0	
+Joseph Thayer	4	2	2	0	0	1	1	0	1	
+Reuben Sutton	4	0	1	0	0	0	0	0	1	
+Dante Leoz	3	0	1	1	0	0	1	1	0	
+Caden Bryan	4	0	2	0	0	0	0	0	0	
+Ethan Murphy	4	0	1	0	0	0	0	0	0	
+Trent Page	4	1	1	0	0	0	0	0	1	
+Alonso Welch	4	0	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Yajeel Hinton	1	0	1	1	0	0	18	7	1	1	0	5	24	
+Hanley Harper	0	0	1	0	0	0	3	1	0	0	2	0	6	
+Keegan Schiel	0	0	1	0	0	0	5	4	2	0	0	0	9	
+Jacob Wallace	0	0	1	0	0	0	1	0	0	0	0	0	1	
+Isaac Wilson	0	0	0	0	0	0	0	0	0	0	0	0	0	

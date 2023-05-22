@@ -1,0 +1,735 @@
+TOP INNING 1
+
+Aaron Garcia: rng1 = 12 + 14 - 12 - 1 = 13
+rng2 = 35 + 11 - 12 - 1 = 33
+Groundout
+Team 2 pitcher (Gabriel Soto): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Tyler Sanders: rng1 = 73 + 14 - 12 - 1 = 74
+rng2 = 22 + 10 - 12 - 1 = 19
+Single
+Team 2 pitcher (Gabriel Soto): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Mark Mullins: rng1 = 98 + 7 - 12 - 1 = 92
+rng2 = 67 + 8 - 12 - 1 = 62
+Single
+Team 2 pitcher (Gabriel Soto): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Anthony Bennett: rng1 = 3 + 14 - 12 - 1 = 4
+Strikeout
+Team 2 pitcher (Gabriel Soto): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Eugene Bryant: rng1 = 98 + 7 - 12 - 1 = 92
+rng2 = 23 + 10 - 12 - 1 = 20
+Single
+Team 2 pitcher (Gabriel Soto): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [4,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Kugo Tadayuki: rng1 = 64 + 9 - 12 - 1 = 60
+rng2 = 8 + 6 - 12 - 1 = 1
+Groundout
+Team 2 pitcher (Gabriel Soto): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Gabe Roberts: rng1 = 44 + 15 - 11 + 1 = 49
+rng2 = 68 + 15 - 9 + 1 = 75
+Flyout
+Team 1 pitcher (Zach Jackson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Darrell Williams: rng1 = 20 + 9 - 11 + 1 = 19
+Strikeout
+Team 1 pitcher (Zach Jackson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Alexi Blair: rng1 = 22 + 8 - 11 + 1 = 20
+Strikeout
+Team 1 pitcher (Zach Jackson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 2
+
+Joshua Marsh: rng1 = 59 + 5 - 12 - 1 = 51
+rng2 = 58 + 9 - 12 - 1 = 54
+Lineout
+Team 2 pitcher (Gabriel Soto): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Stephen Gray: rng1 = 42 + 4 - 12 - 1 = 33
+rng2 = 51 + 7 - 12 - 1 = 45
+Groundout
+Team 2 pitcher (Gabriel Soto): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Oscar Hernandez: rng1 = 85 + 3 - 12 - 1 = 75
+rng2 = 89 + 7 - 12 - 1 = 83
+Home run
+Team 2 pitcher (Gabriel Soto): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Aaron Garcia: rng1 = 57 + 14 - 12 - 1 = 58
+rng2 = 20 + 11 - 12 - 1 = 18
+Groundout
+Team 2 pitcher (Gabriel Soto): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Adam Marshall: rng1 = 79 + 6 - 11 + 1 = 75
+rng2 = 70 + 10 - 9 + 1 = 72
+Double
+Team 1 pitcher (Zach Jackson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-0
+
+Chris Lane: rng1 = 47 + 11 - 11 + 1 = 48
+rng2 = 34 + 10 - 9 + 1 = 36
+Groundout
+Team 1 pitcher (Zach Jackson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: [3,0]
+base1: false, base2: false, base3: true
+Score: 2-0
+
+Mahadi Khan: rng1 = 85 + 12 - 11 + 1 = 87
+Walk
+Team 1 pitcher (Zach Jackson): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 2-0
+
+Jeremy Webster: rng1 = 75 + 8 - 11 + 1 = 73
+rng2 = 53 + 11 - 9 + 1 = 56
+Single
+Team 1 pitcher (Zach Jackson): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-1
+
+Alexis Rojas: rng1 = 32 + 9 - 11 + 1 = 31
+rng2 = 47 + 14 - 9 + 1 = 53
+Lineout
+Team 1 pitcher (Zach Jackson): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-1
+
+Ken McKinney: rng1 = 26 + 13 - 11 + 1 = 29
+rng2 = 42 + 9 - 9 + 1 = 43
+Groundout
+Team 1 pitcher (Zach Jackson): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+TOP INNING 3
+
+Tyler Sanders: rng1 = 81 + 14 - 12 - 1 = 82
+rng2 = 30 + 10 - 12 - 1 = 27
+Single
+Team 2 pitcher (Gabriel Soto): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Mark Mullins: rng1 = 91 + 7 - 12 - 1 = 85
+rng2 = 53 + 8 - 12 - 1 = 48
+Single
+Team 2 pitcher (Gabriel Soto): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 0
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-1
+
+Anthony Bennett: rng1 = 41 + 14 - 12 - 1 = 42
+rng2 = 31 + 9 - 12 - 1 = 27
+Groundout
+Team 2 pitcher (Gabriel Soto): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 1
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-1
+
+Eugene Bryant: rng1 = 45 + 7 - 12 - 1 = 39
+rng2 = 46 + 10 - 12 - 1 = 43
+Groundout
+Team 2 pitcher (Gabriel Soto): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Gabe Roberts: rng1 = 91 + 15 - 11 + 1 = 96
+rng2 = 74 + 15 - 9 + 1 = 81
+Home run
+Team 1 pitcher (Zach Jackson): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Darrell Williams: rng1 = 23 + 9 - 11 + 1 = 22
+Strikeout
+Team 1 pitcher (Zach Jackson): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Alexi Blair: rng1 = 36 + 8 - 11 + 1 = 34
+rng2 = 15 + 6 - 9 + 1 = 13
+Groundout
+Team 1 pitcher (Zach Jackson): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Adam Marshall: rng1 = 100 + 6 - 11 + 1 = 96
+rng2 = 12 + 10 - 9 + 1 = 14
+Single
+Team 1 pitcher (Zach Jackson): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Chris Lane: rng1 = 60 + 11 - 11 + 1 = 61
+rng2 = 38 + 10 - 9 + 1 = 40
+Groundout
+Team 1 pitcher (Zach Jackson): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+TOP INNING 4
+
+Kugo Tadayuki: rng1 = 5 + 9 - 12 - 1 = 1
+Strikeout
+Team 2 pitcher (Gabriel Soto): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Joshua Marsh: rng1 = 80 + 5 - 12 - 1 = 72
+rng2 = 25 + 9 - 12 - 1 = 21
+Single
+Team 2 pitcher (Gabriel Soto): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Stephen Gray: rng1 = 74 + 4 - 12 - 1 = 65
+rng2 = 81 + 7 - 12 - 1 = 75
+Flyout
+Team 2 pitcher (Gabriel Soto): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Oscar Hernandez: rng1 = 44 + 3 - 12 - 1 = 34
+rng2 = 10 + 7 - 12 - 1 = 4
+Groundout
+Team 2 pitcher (Gabriel Soto): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+BOTTOM INNING 4
+
+Mahadi Khan: rng1 = 29 + 12 - 11 + 1 = 31
+rng2 = 15 + 11 - 9 + 1 = 18
+Groundout
+Team 1 pitcher (Zach Jackson): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Jeremy Webster: rng1 = 23 + 8 - 11 + 1 = 21
+Strikeout
+Team 1 pitcher (Zach Jackson): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Alexis Rojas: rng1 = 49 + 9 - 11 + 1 = 48
+rng2 = 48 + 14 - 9 + 1 = 54
+Lineout
+Team 1 pitcher (Zach Jackson): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+TOP INNING 5
+
+Aaron Garcia: rng1 = 55 + 14 - 12 - 1 = 56
+rng2 = 27 + 11 - 12 - 1 = 25
+Groundout
+Team 2 pitcher (Gabriel Soto): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Tyler Sanders: rng1 = 95 + 14 - 12 - 1 = 96
+rng2 = 43 + 10 - 12 - 1 = 40
+Single
+Team 2 pitcher (Gabriel Soto): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Mark Mullins: rng1 = 18 + 7 - 12 - 1 = 12
+rng2 = 100 + 8 - 12 - 1 = 95
+Flyout
+Team 2 pitcher (Gabriel Soto): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Anthony Bennett: rng1 = 13 + 14 - 12 - 1 = 14
+rng2 = 65 + 9 - 12 - 1 = 61
+Flyout
+Team 2 pitcher (Gabriel Soto): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+BOTTOM INNING 5
+
+Ken McKinney: rng1 = 43 + 13 - 11 + 1 = 46
+rng2 = 95 + 9 - 9 + 1 = 96
+Flyout
+Team 1 pitcher (Zach Jackson): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Gabe Roberts: rng1 = 97 + 15 - 11 + 1 = 102
+rng2 = 17 + 15 - 9 + 1 = 24
+Single
+Team 1 pitcher (Zach Jackson): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Darrell Williams: rng1 = 93 + 9 - 11 + 1 = 92
+rng2 = 65 + 13 - 9 + 1 = 70
+Double
+Team 1 pitcher (Zach Jackson): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 1
+
+base1: false, base2: [1,0], base3: [0,0]
+base1: false, base2: true, base3: true
+Score: 2-2
+
+Alexi Blair: rng1 = 31 + 8 - 11 + 1 = 29
+rng2 = 15 + 6 - 9 + 1 = 13
+Groundout
+Team 1 pitcher (Zach Jackson): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 2
+
+base1: false, base2: [1,0], base3: [0,0]
+base1: false, base2: true, base3: true
+Score: 2-2
+
+Adam Marshall: rng1 = 52 + 6 - 11 + 1 = 48
+rng2 = 53 + 10 - 9 + 1 = 55
+Lineout
+Team 1 pitcher (Zach Jackson): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Ezequiel Santangelo
+
+Eugene Bryant: rng1 = 24 + 7 - 8 - 1 = 22
+Strikeout
+Team 2 pitcher (Ezequiel Santangelo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Kugo Tadayuki: rng1 = 92 + 9 - 8 - 1 = 92
+rng2 = 41 + 6 - 6 - 1 = 40
+Single
+Team 2 pitcher (Ezequiel Santangelo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Joshua Marsh: rng1 = 21 + 5 - 8 - 1 = 17
+Strikeout
+Team 2 pitcher (Ezequiel Santangelo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Stephen Gray: rng1 = 37 + 4 - 8 - 1 = 32
+rng2 = 9 + 7 - 6 - 1 = 9
+Groundout
+Team 2 pitcher (Ezequiel Santangelo): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+BOTTOM INNING 6
+
+Chris Lane: rng1 = 63 + 11 - 11 + 1 = 64
+rng2 = 50 + 10 - 9 + 1 = 52
+Lineout
+Team 1 pitcher (Zach Jackson): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Mahadi Khan: rng1 = 9 + 12 - 11 + 1 = 11
+rng2 = 57 + 11 - 9 + 1 = 60
+Flyout
+Team 1 pitcher (Zach Jackson): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Jeremy Webster: rng1 = 5 + 8 - 11 + 1 = 3
+Strikeout
+Team 1 pitcher (Zach Jackson): 25 batters faced, 2 runs allowed = 25 + 5.0 = 30.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+TOP INNING 7
+
+Oscar Hernandez: rng1 = 79 + 3 - 8 - 1 = 73
+rng2 = 11 + 7 - 6 - 1 = 11
+Single
+Team 2 pitcher (Ezequiel Santangelo): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Aaron Garcia: rng1 = 67 + 14 - 8 - 1 = 72
+rng2 = 44 + 11 - 6 - 1 = 48
+Single
+Team 2 pitcher (Ezequiel Santangelo): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 0
+
+base1: [0,1], base2: false, base3: [8,1]
+base1: true, base2: false, base3: true
+Score: 2-2
+
+Tyler Sanders: rng1 = 8 + 14 - 8 - 1 = 13
+rng2 = 27 + 10 - 6 - 1 = 30
+Groundout
+Team 2 pitcher (Ezequiel Santangelo): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [1,1], base2: false, base3: [8,1]
+base1: true, base2: false, base3: true
+Score: 2-2
+
+Mark Mullins: rng1 = 69 + 7 - 8 - 1 = 67
+rng2 = 7 + 8 - 6 - 1 = 8
+Groundout
+Team 2 pitcher (Ezequiel Santangelo): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: false, base2: [1,1], base3: [8,1]
+base1: false, base2: true, base3: true
+Score: 2-2
+
+Anthony Bennett: rng1 = 24 + 14 - 8 - 1 = 29
+rng2 = 91 + 9 - 6 - 1 = 93
+Flyout
+Team 2 pitcher (Ezequiel Santangelo): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Chester Fields
+
+Alexis Rojas: rng1 = 39 + 9 - 5 + 1 = 44
+rng2 = 27 + 14 - 5 + 1 = 37
+Groundout
+Team 1 pitcher (Chester Fields): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Ken McKinney: rng1 = 90 + 13 - 5 + 1 = 99
+rng2 = 60 + 9 - 5 + 1 = 65
+Double
+Team 1 pitcher (Chester Fields): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [8,1], base3: false
+base1: false, base2: true, base3: false
+Score: 2-2
+
+Gabe Roberts: rng1 = 6 + 15 - 5 + 1 = 17
+Strikeout
+Team 1 pitcher (Chester Fields): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [8,1], base3: false
+base1: false, base2: true, base3: false
+Score: 2-2
+
+Darrell Williams: rng1 = 7 + 9 - 5 + 1 = 12
+rng2 = 99 + 13 - 5 + 1 = 108
+Flyout
+Team 1 pitcher (Chester Fields): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Kylen Potter
+
+Eugene Bryant: rng1 = 94 + 7 - 8 - 1 = 92
+rng2 = 55 + 10 - 6 - 1 = 58
+Single
+Team 2 pitcher (Kylen Potter): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Kugo Tadayuki: rng1 = 89 + 9 - 8 - 1 = 89
+Walk
+Team 2 pitcher (Kylen Potter): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [5,2], base2: [4,2], base3: false
+base1: true, base2: true, base3: false
+Score: 2-2
+
+Joshua Marsh: rng1 = 28 + 5 - 8 - 1 = 24
+Strikeout
+Team 2 pitcher (Kylen Potter): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [5,2], base2: [4,2], base3: false
+base1: true, base2: true, base3: false
+Score: 2-2
+
+Stephen Gray: rng1 = 45 + 4 - 8 - 1 = 40
+rng2 = 94 + 7 - 6 - 1 = 94
+Flyout
+Team 2 pitcher (Kylen Potter): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [5,2], base2: false, base3: [4,2]
+base1: true, base2: false, base3: true
+Score: 2-2
+
+Oscar Hernandez: rng1 = 17 + 3 - 8 - 1 = 11
+rng2 = 92 + 7 - 6 - 1 = 92
+Flyout
+Team 2 pitcher (Kylen Potter): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+BOTTOM INNING 8
+
+Alexi Blair: rng1 = 40 + 8 - 5 + 1 = 44
+rng2 = 83 + 6 - 5 + 1 = 85
+Flyout
+Team 1 pitcher (Chester Fields): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Adam Marshall: rng1 = 47 + 6 - 5 + 1 = 49
+rng2 = 14 + 10 - 5 + 1 = 20
+Groundout
+Team 1 pitcher (Chester Fields): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Chris Lane: rng1 = 68 + 11 - 5 + 1 = 75
+rng2 = 73 + 10 - 5 + 1 = 79
+Home run
+Team 1 pitcher (Chester Fields): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Mahadi Khan: rng1 = 26 + 12 - 5 + 1 = 34
+rng2 = 42 + 11 - 5 + 1 = 49
+Lineout
+Team 1 pitcher (Chester Fields): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Vicente Castillo
+
+Aaron Garcia: rng1 = 25 + 14 - 8 - 1 = 30
+rng2 = 87 + 11 - 9 - 1 = 88
+Flyout
+Team 2 pitcher (Vicente Castillo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Tyler Sanders: rng1 = 9 + 14 - 8 - 1 = 14
+rng2 = 37 + 10 - 9 - 1 = 37
+Groundout
+Team 2 pitcher (Vicente Castillo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Mark Mullins: rng1 = 49 + 7 - 8 - 1 = 47
+rng2 = 42 + 8 - 9 - 1 = 40
+Groundout
+Team 2 pitcher (Vicente Castillo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 12
+Team 2 hits: 8
+Team 1 runs: 2
+Team 2 runs: 3
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-05-22
+Aaron Garcia	5	0	1	0	0	0	0	0	0					Nashville
+Tyler Sanders	5	1	3	0	0	0	0	0	0	
+Mark Mullins	5	0	2	0	0	0	0	0	0	
+Anthony Bennett	4	0	0	0	0	0	0	0	1	
+Eugene Bryant	4	0	2	0	0	0	1	0	1	
+Kugo Tadayuki	3	0	1	0	0	0	0	1	1	
+Joshua Marsh	4	0	1	0	0	0	0	0	2	
+Stephen Gray	4	0	0	0	0	0	0	0	0	
+Oscar Hernandez	4	1	2	0	0	1	1	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Zach Jackson	0	0	1	1	0	0	18	6	2	1	1	5	25	
+Chester Fields	0	1	1	0	0	0	6	2	1	1	0	1	8	
+Dennis Lee	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Finn Sachse	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Josh Harris	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-05-22
+Gabe Roberts	4	1	2	0	0	1	1	0	1					Orlando
+Darrell Williams	4	0	1	1	0	0	0	0	2	
+Alexi Blair	4	0	0	0	0	0	0	0	1	
+Adam Marshall	4	1	2	1	0	0	0	0	0	
+Chris Lane	4	1	1	0	0	1	1	0	0	
+Mahadi Khan	3	0	0	0	0	0	0	1	0	
+Jeremy Webster	3	0	1	0	0	0	1	0	2	
+Alexis Rojas	3	0	0	0	0	0	0	0	0	
+Ken McKinney	3	0	1	1	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Gabriel Soto	0	0	1	1	0	0	15	8	2	1	0	2	22	
+Ezequiel Santangelo	0	0	1	0	0	0	6	3	0	0	0	2	9	
+Kylen Potter	1	0	1	0	0	0	3	1	0	0	1	1	5	
+Curtis Robinson	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Vicente Castillo	0	0	1	0	1	1	3	0	0	0	0	0	3	

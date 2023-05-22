@@ -1,0 +1,754 @@
+TOP INNING 1
+
+Konner Knight: rng1 = 6 + 13 - 5 - 1 = 13
+rng2 = 67 + 4 - 5 - 1 = 65
+Flyout
+Team 2 pitcher (Joniel Serrano): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Keli Alohilani: rng1 = 92 + 13 - 5 - 1 = 99
+rng2 = 59 + 8 - 5 - 1 = 61
+Single
+Team 2 pitcher (Joniel Serrano): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Tomas Canto: rng1 = 19 + 12 - 5 - 1 = 25
+Strikeout
+Team 2 pitcher (Joniel Serrano): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Jong Jung-Hwa: rng1 = 3 + 11 - 5 - 1 = 8
+Strikeout
+Team 2 pitcher (Joniel Serrano): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Juan Manzanares: rng1 = 88 + 15 - 6 + 1 = 98
+rng2 = 60 + 13 - 7 + 1 = 67
+Double
+Team 1 pitcher (Jessie Alston): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Aiden Hayes: rng1 = 52 + 13 - 6 + 1 = 60
+rng2 = 88 + 9 - 7 + 1 = 91
+Flyout
+Team 1 pitcher (Jessie Alston): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: [0,0]
+base1: false, base2: false, base3: true
+Score: 0-0
+
+Seamus Tanner: rng1 = 52 + 8 - 6 + 1 = 55
+rng2 = 21 + 6 - 7 + 1 = 21
+Groundout
+Team 1 pitcher (Jessie Alston): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Emanuel Gutiérrez: rng1 = 37 + 4 - 6 + 1 = 36
+rng2 = 46 + 11 - 7 + 1 = 51
+Lineout
+Team 1 pitcher (Jessie Alston): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 2
+
+Jerome Goodwin: rng1 = 100 + 11 - 5 - 1 = 105
+rng2 = 2 + 9 - 5 - 1 = 5
+Single
+Team 2 pitcher (Joniel Serrano): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Hano Hiroki: rng1 = 89 + 8 - 5 - 1 = 91
+rng2 = 12 + 8 - 5 - 1 = 14
+Single
+Team 2 pitcher (Joniel Serrano): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 0
+
+base1: [5,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 0-1
+
+Nehemiah Clark: rng1 = 83 + 2 - 5 - 1 = 79
+rng2 = 13 + 10 - 5 - 1 = 17
+Single
+Team 2 pitcher (Joniel Serrano): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 0
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Emmanuel Ramirez: rng1 = 84 + 7 - 5 - 1 = 85
+rng2 = 15 + 5 - 5 - 1 = 14
+Single
+Team 2 pitcher (Joniel Serrano): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 0
+
+base1: [7,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 2-1
+
+Chwa Jung-Su: rng1 = 79 + 7 - 5 - 1 = 80
+rng2 = 74 + 5 - 5 - 1 = 73
+Double
+Team 2 pitcher (Joniel Serrano): 9 batters faced, 4 runs allowed = 9 + 10.0 = 19.0, outs: 0
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-1
+
+Konner Knight: rng1 = 93 + 13 - 5 - 1 = 100
+rng2 = 35 + 4 - 5 - 1 = 33
+Single
+Team 2 pitcher (Joniel Serrano): 10 batters faced, 5 runs allowed = 10 + 12.5 = 22.5, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-1
+
+Keli Alohilani: rng1 = 51 + 13 - 5 - 1 = 58
+rng2 = 5 + 8 - 5 - 1 = 7
+Groundout
+Team 2 pitcher (Joniel Serrano): 11 batters faced, 5 runs allowed = 11 + 12.5 = 23.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Tomas Canto: rng1 = 76 + 12 - 5 - 1 = 82
+rng2 = 25 + 14 - 5 - 1 = 33
+Single
+Team 2 pitcher (Joniel Serrano): 12 batters faced, 5 runs allowed = 12 + 12.5 = 24.5, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-1
+
+Jong Jung-Hwa: rng1 = 87 + 11 - 5 - 1 = 92
+rng2 = 61 + 13 - 5 - 1 = 68
+Double
+Team 2 pitcher (Joniel Serrano): 13 batters faced, 6 runs allowed = 13 + 15.0 = 28.0, outs: 2
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 6-1
+
+Jerome Goodwin: rng1 = 15 + 11 - 5 - 1 = 20
+Strikeout
+Team 2 pitcher (Joniel Serrano): 14 batters faced, 6 runs allowed = 14 + 15.0 = 29.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Quillin Grant: rng1 = 14 + 8 - 6 + 1 = 17
+Strikeout
+Team 1 pitcher (Jessie Alston): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Noah Davidson: rng1 = 59 + 8 - 6 + 1 = 62
+rng2 = 93 + 9 - 7 + 1 = 96
+Flyout
+Team 1 pitcher (Jessie Alston): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Juan Pearson: rng1 = 97 + 8 - 6 + 1 = 100
+rng2 = 29 + 9 - 7 + 1 = 32
+Single
+Team 1 pitcher (Jessie Alston): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-1
+
+Dexter Stevens: rng1 = 18 + 3 - 6 + 1 = 16
+Strikeout
+Team 1 pitcher (Jessie Alston): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+TOP INNING 3
+
+Team 2 pitcher change to Orlando Otero
+
+Hano Hiroki: rng1 = 67 + 8 - 9 - 1 = 65
+rng2 = 72 + 8 - 7 - 1 = 72
+Flyout
+Team 2 pitcher (Orlando Otero): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Nehemiah Clark: rng1 = 35 + 2 - 9 - 1 = 27
+Strikeout
+Team 2 pitcher (Orlando Otero): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Emmanuel Ramirez: rng1 = 43 + 7 - 9 - 1 = 40
+rng2 = 4 + 5 - 7 - 1 = 1
+Groundout
+Team 2 pitcher (Orlando Otero): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Kyle Murphy: rng1 = 24 + 4 - 6 + 1 = 23
+Strikeout
+Team 1 pitcher (Jessie Alston): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Juan Manzanares: rng1 = 21 + 15 - 6 + 1 = 31
+rng2 = 96 + 13 - 7 + 1 = 103
+Flyout
+Team 1 pitcher (Jessie Alston): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Aiden Hayes: rng1 = 29 + 13 - 6 + 1 = 37
+rng2 = 97 + 9 - 7 + 1 = 100
+Flyout
+Team 1 pitcher (Jessie Alston): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+TOP INNING 4
+
+Chwa Jung-Su: rng1 = 15 + 7 - 9 - 1 = 12
+rng2 = 100 + 5 - 7 - 1 = 97
+Flyout
+Team 2 pitcher (Orlando Otero): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Konner Knight: rng1 = 64 + 13 - 9 - 1 = 67
+rng2 = 88 + 4 - 7 - 1 = 84
+Flyout
+Team 2 pitcher (Orlando Otero): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Keli Alohilani: rng1 = 79 + 13 - 9 - 1 = 82
+rng2 = 48 + 8 - 7 - 1 = 48
+Single
+Team 2 pitcher (Orlando Otero): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-1
+
+Tomas Canto: rng1 = 91 + 12 - 9 - 1 = 93
+rng2 = 65 + 14 - 7 - 1 = 71
+Double
+Team 2 pitcher (Orlando Otero): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: [2,1], base3: false
+base1: false, base2: true, base3: false
+Score: 7-1
+
+Jong Jung-Hwa: rng1 = 78 + 11 - 9 - 1 = 79
+rng2 = 11 + 13 - 7 - 1 = 16
+Single
+Team 2 pitcher (Orlando Otero): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-1
+
+Team 2 pitcher change to Pablo Quintana
+
+Jerome Goodwin: rng1 = 62 + 11 - 8 - 1 = 64
+rng2 = 76 + 9 - 6 - 1 = 78
+Flyout
+Team 2 pitcher (Pablo Quintana): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Seamus Tanner: rng1 = 20 + 8 - 6 + 1 = 23
+Strikeout
+Team 1 pitcher (Jessie Alston): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-1
+
+Emanuel Gutiérrez: rng1 = 74 + 4 - 6 + 1 = 73
+rng2 = 42 + 11 - 7 + 1 = 47
+Single
+Team 1 pitcher (Jessie Alston): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-1
+
+Quillin Grant: rng1 = 77 + 8 - 6 + 1 = 80
+rng2 = 1 + 10 - 7 + 1 = 5
+Single
+Team 1 pitcher (Jessie Alston): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 1
+
+base1: [4,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 8-1
+
+Noah Davidson: rng1 = 60 + 8 - 6 + 1 = 63
+rng2 = 35 + 9 - 7 + 1 = 38
+Groundout
+Team 1 pitcher (Jessie Alston): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-1
+
+-----------------------
+
+TOP INNING 5
+
+Hano Hiroki: rng1 = 21 + 8 - 8 - 1 = 20
+Strikeout
+Team 2 pitcher (Pablo Quintana): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-1
+
+Nehemiah Clark: rng1 = 91 + 2 - 8 - 1 = 84
+rng2 = 57 + 10 - 6 - 1 = 60
+Single
+Team 2 pitcher (Pablo Quintana): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-1
+
+Emmanuel Ramirez: rng1 = 39 + 7 - 8 - 1 = 37
+rng2 = 43 + 5 - 6 - 1 = 41
+Groundout
+Team 2 pitcher (Pablo Quintana): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-1
+
+Chwa Jung-Su: rng1 = 12 + 7 - 8 - 1 = 10
+Strikeout
+Team 2 pitcher (Pablo Quintana): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-1
+
+-----------------------
+
+BOTTOM INNING 5
+
+Juan Pearson: rng1 = 21 + 8 - 6 + 1 = 24
+Strikeout
+Team 1 pitcher (Jessie Alston): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-1
+
+Dexter Stevens: rng1 = 67 + 3 - 6 + 1 = 65
+rng2 = 79 + 8 - 7 + 1 = 81
+Flyout
+Team 1 pitcher (Jessie Alston): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-1
+
+Kyle Murphy: rng1 = 41 + 4 - 6 + 1 = 40
+rng2 = 10 + 6 - 7 + 1 = 10
+Groundout
+Team 1 pitcher (Jessie Alston): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-1
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Kadrick Reeves
+
+Konner Knight: rng1 = 51 + 13 - 6 - 1 = 57
+rng2 = 45 + 4 - 6 - 1 = 42
+Groundout
+Team 2 pitcher (Kadrick Reeves): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-1
+
+Keli Alohilani: rng1 = 18 + 13 - 6 - 1 = 24
+Strikeout
+Team 2 pitcher (Kadrick Reeves): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-1
+
+Tomas Canto: rng1 = 13 + 12 - 6 - 1 = 18
+Strikeout
+Team 2 pitcher (Kadrick Reeves): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-1
+
+-----------------------
+
+BOTTOM INNING 6
+
+Juan Manzanares: rng1 = 77 + 15 - 6 + 1 = 87
+Walk
+Team 1 pitcher (Jessie Alston): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-1
+
+Aiden Hayes: rng1 = 63 + 13 - 6 + 1 = 71
+Walk
+Team 1 pitcher (Jessie Alston): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 0
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 8-1
+
+Seamus Tanner: rng1 = 31 + 8 - 6 + 1 = 34
+rng2 = 11 + 6 - 7 + 1 = 11
+Groundout
+Team 1 pitcher (Jessie Alston): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 2
+
+base1: false, base2: false, base3: [0,0]
+base1: false, base2: false, base3: true
+Score: 8-1
+
+Emanuel Gutiérrez: rng1 = 4 + 4 - 6 + 1 = 3
+Strikeout
+Team 1 pitcher (Jessie Alston): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-1
+
+-----------------------
+
+TOP INNING 7
+
+Jong Jung-Hwa: rng1 = 8 + 11 - 6 - 1 = 12
+rng2 = 38 + 13 - 6 - 1 = 44
+Groundout
+Team 2 pitcher (Kadrick Reeves): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-1
+
+Jerome Goodwin: rng1 = 13 + 11 - 6 - 1 = 17
+Strikeout
+Team 2 pitcher (Kadrick Reeves): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-1
+
+Hano Hiroki: rng1 = 4 + 8 - 6 - 1 = 5
+Strikeout
+Team 2 pitcher (Kadrick Reeves): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-1
+
+-----------------------
+
+BOTTOM INNING 7
+
+Quillin Grant: rng1 = 1 + 8 - 6 + 1 = 4
+Strikeout
+Team 1 pitcher (Jessie Alston): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-1
+
+Noah Davidson: rng1 = 31 + 8 - 6 + 1 = 34
+rng2 = 30 + 9 - 7 + 1 = 33
+Groundout
+Team 1 pitcher (Jessie Alston): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-1
+
+Juan Pearson: rng1 = 35 + 8 - 6 + 1 = 38
+rng2 = 19 + 9 - 7 + 1 = 22
+Groundout
+Team 1 pitcher (Jessie Alston): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-1
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Thomas Barnes
+
+Nehemiah Clark: rng1 = 12 + 2 - 12 - 1 = 1
+Strikeout
+Team 2 pitcher (Thomas Barnes): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-1
+
+Emmanuel Ramirez: rng1 = 2 + 7 - 12 - 1 = -4
+Strikeout
+Team 2 pitcher (Thomas Barnes): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-1
+
+Chwa Jung-Su: rng1 = 11 + 7 - 12 - 1 = 5
+Strikeout
+Team 2 pitcher (Thomas Barnes): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-1
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Rolando Maroto
+
+Dexter Stevens: rng1 = 16 + 3 - 10 + 1 = 10
+Strikeout
+Team 1 pitcher (Rolando Maroto): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-1
+
+Kyle Murphy: rng1 = 48 + 4 - 10 + 1 = 43
+rng2 = 60 + 6 - 8 + 1 = 59
+Flyout
+Team 1 pitcher (Rolando Maroto): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-1
+
+Juan Manzanares: rng1 = 68 + 15 - 10 + 1 = 74
+rng2 = 79 + 13 - 8 + 1 = 85
+Home run
+Team 1 pitcher (Rolando Maroto): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-2
+
+Aiden Hayes: rng1 = 57 + 13 - 10 + 1 = 61
+rng2 = 41 + 9 - 8 + 1 = 43
+Groundout
+Team 1 pitcher (Rolando Maroto): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-2
+
+-----------------------
+
+TOP INNING 9
+
+Konner Knight: rng1 = 97 + 13 - 12 - 1 = 97
+rng2 = 23 + 4 - 9 - 1 = 17
+Single
+Team 2 pitcher (Thomas Barnes): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [0,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-2
+
+Keli Alohilani: rng1 = 26 + 13 - 12 - 1 = 26
+Strikeout
+Team 2 pitcher (Thomas Barnes): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [0,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-2
+
+Tomas Canto: rng1 = 80 + 12 - 12 - 1 = 79
+rng2 = 75 + 14 - 9 - 1 = 79
+Home run
+Team 2 pitcher (Thomas Barnes): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-2
+
+Jong Jung-Hwa: rng1 = 38 + 11 - 12 - 1 = 36
+rng2 = 25 + 13 - 9 - 1 = 28
+Groundout
+Team 2 pitcher (Thomas Barnes): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-2
+
+Jerome Goodwin: rng1 = 75 + 11 - 12 - 1 = 73
+rng2 = 98 + 9 - 9 - 1 = 97
+Home run
+Team 2 pitcher (Thomas Barnes): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 11-2
+
+Hano Hiroki: rng1 = 75 + 8 - 12 - 1 = 70
+Walk
+Team 2 pitcher (Thomas Barnes): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 2
+
+base1: [5,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 11-2
+
+Nehemiah Clark: rng1 = 39 + 2 - 12 - 1 = 28
+rng2 = 93 + 10 - 9 - 1 = 93
+Flyout
+Team 2 pitcher (Thomas Barnes): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 11-2
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Agustin Acosta
+
+Seamus Tanner: rng1 = 4 + 8 - 8 + 1 = 5
+Strikeout
+Team 1 pitcher (Agustin Acosta): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 11-2
+
+Emanuel Gutiérrez: rng1 = 26 + 4 - 8 + 1 = 23
+Strikeout
+Team 1 pitcher (Agustin Acosta): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 11-2
+
+Quillin Grant: rng1 = 2 + 8 - 8 + 1 = 3
+Strikeout
+Team 1 pitcher (Agustin Acosta): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 11-2
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 16
+Team 2 hits: 5
+Team 1 runs: 11
+Team 2 runs: 2
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-05-21
+Konner Knight	5	1	2	0	0	0	1	0	0					Philadelphia
+Keli Alohilani	5	1	2	0	0	0	0	0	2	
+Tomas Canto	5	3	3	1	0	1	3	0	2	
+Jong Jung-Hwa	5	0	2	1	0	0	2	0	1	
+Jerome Goodwin	5	2	2	0	0	1	1	0	2	
+Hano Hiroki	4	1	1	0	0	0	0	1	2	
+Nehemiah Clark	5	1	2	0	0	0	1	0	2	
+Emmanuel Ramirez	4	1	1	0	0	0	1	0	1	
+Chwa Jung-Su	4	1	1	1	0	0	2	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Jessie Alston	1	0	1	1	0	0	21	4	1	0	2	7	25	
+Rolando Maroto	0	0	1	0	0	0	3	1	1	1	0	1	4	
+Agustin Acosta	0	0	1	0	0	0	3	0	0	0	0	3	3	
+Steve Randles	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Eduardo Elvira	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-05-21
+Juan Manzanares	3	2	2	1	0	1	1	1	0					Boston
+Aiden Hayes	3	0	0	0	0	0	0	1	0	
+Seamus Tanner	4	0	0	0	0	0	1	0	2	
+Emanuel Gutiérrez	4	0	1	0	0	0	0	0	2	
+Quillin Grant	4	0	1	0	0	0	0	0	3	
+Noah Davidson	3	0	0	0	0	0	0	0	0	
+Juan Pearson	3	0	1	0	0	0	0	0	1	
+Dexter Stevens	3	0	0	0	0	0	0	0	2	
+Kyle Murphy	3	0	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Joniel Serrano	0	1	1	1	0	0	6	9	6	0	0	3	14	
+Orlando Otero	0	0	1	0	0	0	5	3	2	0	0	1	8	
+Pablo Quintana	0	0	1	0	0	0	4	1	0	0	0	2	5	
+Kadrick Reeves	0	0	1	0	0	0	6	0	0	0	0	4	6	
+Thomas Barnes	0	0	1	0	0	0	6	3	3	2	1	4	10	

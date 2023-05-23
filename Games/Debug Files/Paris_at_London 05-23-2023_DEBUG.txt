@@ -1,0 +1,844 @@
+TOP INNING 1
+
+Manuel Valdez: rng1 = 56 + 6 - 5 - 1 = 56
+rng2 = 1 + 8 - 10 - 1 = -2
+Groundout
+Team 2 pitcher (Nick Briggs): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Bobby King: rng1 = 89 + 7 - 5 - 1 = 90
+Walk
+Team 2 pitcher (Nick Briggs): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Joey Greer: rng1 = 84 + 5 - 5 - 1 = 83
+rng2 = 77 + 6 - 10 - 1 = 72
+Double
+Team 2 pitcher (Nick Briggs): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Jalen Walker: rng1 = 82 + 6 - 5 - 1 = 82
+rng2 = 94 + 6 - 10 - 1 = 89
+Double
+Team 2 pitcher (Nick Briggs): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-0
+
+Efrain Salas: rng1 = 23 + 5 - 5 - 1 = 22
+Strikeout
+Team 2 pitcher (Nick Briggs): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-0
+
+Jay Fleming: rng1 = 21 + 7 - 5 - 1 = 22
+Strikeout
+Team 2 pitcher (Nick Briggs): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Guillermo Gonzalez: rng1 = 93 + 8 - 6 + 1 = 96
+rng2 = 81 + 6 - 8 + 1 = 80
+Home run
+Team 1 pitcher (Patrick Sharp): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Seta Senzo: rng1 = 48 + 7 - 6 + 1 = 50
+rng2 = 7 + 9 - 8 + 1 = 9
+Groundout
+Team 1 pitcher (Patrick Sharp): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Roger Wilson: rng1 = 4 + 5 - 6 + 1 = 4
+Strikeout
+Team 1 pitcher (Patrick Sharp): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Juanpablo Gomez: rng1 = 65 + 6 - 6 + 1 = 66
+rng2 = 81 + 6 - 8 + 1 = 80
+Flyout
+Team 1 pitcher (Patrick Sharp): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+TOP INNING 2
+
+Mike Rowe: rng1 = 74 + 7 - 5 - 1 = 75
+rng2 = 79 + 4 - 10 - 1 = 72
+Double
+Team 2 pitcher (Nick Briggs): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 0
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-1
+
+Antonio Alvarez: rng1 = 46 + 7 - 5 - 1 = 47
+rng2 = 12 + 5 - 10 - 1 = 6
+Groundout
+Team 2 pitcher (Nick Briggs): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 1
+
+base1: false, base2: false, base3: [6,0]
+base1: false, base2: false, base3: true
+Score: 2-1
+
+Randy Phillips: rng1 = 100 + 4 - 5 - 1 = 98
+rng2 = 12 + 7 - 10 - 1 = 8
+Single
+Team 2 pitcher (Nick Briggs): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Manuel Valdez: rng1 = 100 + 6 - 5 - 1 = 100
+rng2 = 89 + 8 - 10 - 1 = 86
+Double
+Team 2 pitcher (Nick Briggs): 10 batters faced, 4 runs allowed = 10 + 10.0 = 20.0, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-1
+
+Bobby King: rng1 = 22 + 7 - 5 - 1 = 23
+Strikeout
+Team 2 pitcher (Nick Briggs): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-1
+
+Joey Greer: rng1 = 18 + 5 - 5 - 1 = 17
+Strikeout
+Team 2 pitcher (Nick Briggs): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Declan Elliott: rng1 = 33 + 6 - 6 + 1 = 34
+rng2 = 52 + 6 - 8 + 1 = 51
+Lineout
+Team 1 pitcher (Patrick Sharp): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Chaquille Barnett: rng1 = 81 + 8 - 6 + 1 = 84
+rng2 = 9 + 6 - 8 + 1 = 8
+Single
+Team 1 pitcher (Patrick Sharp): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-1
+
+Leonel Mathis: rng1 = 32 + 4 - 6 + 1 = 31
+rng2 = 33 + 5 - 8 + 1 = 31
+Groundout
+Team 1 pitcher (Patrick Sharp): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+TOP INNING 3
+
+Jalen Walker: rng1 = 27 + 6 - 5 - 1 = 27
+Strikeout
+Team 2 pitcher (Nick Briggs): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Efrain Salas: rng1 = 5 + 5 - 5 - 1 = 4
+Strikeout
+Team 2 pitcher (Nick Briggs): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Jay Fleming: rng1 = 77 + 7 - 5 - 1 = 78
+rng2 = 58 + 9 - 10 - 1 = 56
+Single
+Team 2 pitcher (Nick Briggs): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-1
+
+Mike Rowe: rng1 = 5 + 7 - 5 - 1 = 6
+Strikeout
+Team 2 pitcher (Nick Briggs): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Aaron Pearce: rng1 = 26 + 5 - 6 + 1 = 26
+Strikeout
+Team 1 pitcher (Patrick Sharp): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Yu Minjun: rng1 = 84 + 3 - 6 + 1 = 82
+rng2 = 29 + 4 - 8 + 1 = 26
+Single
+Team 1 pitcher (Patrick Sharp): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-1
+
+Guillermo Gonzalez: rng1 = 18 + 8 - 6 + 1 = 21
+Strikeout
+Team 1 pitcher (Patrick Sharp): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-1
+
+Seta Senzo: rng1 = 9 + 7 - 6 + 1 = 11
+rng2 = 90 + 9 - 8 + 1 = 92
+Flyout
+Team 1 pitcher (Patrick Sharp): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+TOP INNING 4
+
+Antonio Alvarez: rng1 = 31 + 7 - 5 - 1 = 32
+rng2 = 33 + 5 - 10 - 1 = 27
+Groundout
+Team 2 pitcher (Nick Briggs): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Randy Phillips: rng1 = 43 + 4 - 5 - 1 = 41
+rng2 = 86 + 7 - 10 - 1 = 82
+Flyout
+Team 2 pitcher (Nick Briggs): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Manuel Valdez: rng1 = 61 + 6 - 5 - 1 = 61
+rng2 = 38 + 8 - 10 - 1 = 35
+Groundout
+Team 2 pitcher (Nick Briggs): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Roger Wilson: rng1 = 27 + 5 - 6 + 1 = 27
+Strikeout
+Team 1 pitcher (Patrick Sharp): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Juanpablo Gomez: rng1 = 83 + 6 - 6 + 1 = 84
+rng2 = 43 + 6 - 8 + 1 = 42
+Single
+Team 1 pitcher (Patrick Sharp): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-1
+
+Declan Elliott: rng1 = 95 + 6 - 6 + 1 = 96
+rng2 = 83 + 6 - 8 + 1 = 82
+Home run
+Team 1 pitcher (Patrick Sharp): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Chaquille Barnett: rng1 = 4 + 8 - 6 + 1 = 7
+Strikeout
+Team 1 pitcher (Patrick Sharp): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Leonel Mathis: rng1 = 12 + 4 - 6 + 1 = 11
+rng2 = 56 + 5 - 8 + 1 = 54
+Lineout
+Team 1 pitcher (Patrick Sharp): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+TOP INNING 5
+
+Team 2 pitcher change to Camryn Wagner
+
+Bobby King: rng1 = 44 + 7 - 6 - 1 = 44
+rng2 = 26 + 10 - 6 - 1 = 29
+Groundout
+Team 2 pitcher (Camryn Wagner): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Joey Greer: rng1 = 92 + 5 - 6 - 1 = 90
+Walk
+Team 2 pitcher (Camryn Wagner): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Jalen Walker: rng1 = 47 + 6 - 6 - 1 = 46
+rng2 = 52 + 6 - 6 - 1 = 51
+Lineout
+Team 2 pitcher (Camryn Wagner): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Efrain Salas: rng1 = 97 + 5 - 6 - 1 = 95
+rng2 = 8 + 7 - 6 - 1 = 8
+Single
+Team 2 pitcher (Camryn Wagner): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [4,1], base2: [2,1], base3: false
+base1: true, base2: true, base3: false
+Score: 4-3
+
+Jay Fleming: rng1 = 96 + 7 - 6 - 1 = 96
+rng2 = 21 + 9 - 6 - 1 = 23
+Single
+Team 2 pitcher (Camryn Wagner): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: [5,1], base2: [4,1], base3: [2,1]
+base1: true, base2: true, base3: true
+Score: 4-3
+
+Mike Rowe: rng1 = 86 + 7 - 6 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Camryn Wagner): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: [6,1], base2: [5,1], base3: [4,1]
+base1: true, base2: true, base3: true
+Score: 5-3
+
+Antonio Alvarez: rng1 = 22 + 7 - 6 - 1 = 22
+Strikeout
+Team 2 pitcher (Camryn Wagner): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+BOTTOM INNING 5
+
+Aaron Pearce: rng1 = 10 + 5 - 6 + 1 = 10
+Strikeout
+Team 1 pitcher (Patrick Sharp): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Yu Minjun: rng1 = 19 + 3 - 6 + 1 = 17
+Strikeout
+Team 1 pitcher (Patrick Sharp): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Guillermo Gonzalez: rng1 = 19 + 8 - 6 + 1 = 22
+Strikeout
+Team 1 pitcher (Patrick Sharp): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Jose Santana
+
+Randy Phillips: rng1 = 96 + 4 - 3 - 1 = 96
+rng2 = 74 + 7 - 8 - 1 = 72
+Double
+Team 2 pitcher (Jose Santana): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [8,2], base3: false
+base1: false, base2: true, base3: false
+Score: 5-3
+
+Manuel Valdez: rng1 = 90 + 6 - 3 - 1 = 92
+rng2 = 19 + 8 - 8 - 1 = 18
+Single
+Team 2 pitcher (Jose Santana): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [0,2], base2: false, base3: [8,2]
+base1: true, base2: false, base3: true
+Score: 5-3
+
+Bobby King: rng1 = 23 + 7 - 3 - 1 = 26
+Strikeout
+Team 2 pitcher (Jose Santana): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [0,2], base2: false, base3: [8,2]
+base1: true, base2: false, base3: true
+Score: 5-3
+
+Joey Greer: rng1 = 66 + 5 - 3 - 1 = 67
+rng2 = 43 + 6 - 8 - 1 = 40
+Groundout
+Team 2 pitcher (Jose Santana): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: [0,2], base3: [8,2]
+base1: false, base2: true, base3: true
+Score: 5-3
+
+Jalen Walker: rng1 = 66 + 6 - 3 - 1 = 68
+rng2 = 90 + 6 - 8 - 1 = 87
+Flyout
+Team 2 pitcher (Jose Santana): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+BOTTOM INNING 6
+
+Seta Senzo: rng1 = 88 + 7 - 6 + 1 = 90
+Walk
+Team 1 pitcher (Patrick Sharp): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-3
+
+Roger Wilson: rng1 = 35 + 5 - 6 + 1 = 35
+rng2 = 49 + 6 - 8 + 1 = 48
+Lineout
+Team 1 pitcher (Patrick Sharp): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-3
+
+Juanpablo Gomez: rng1 = 8 + 6 - 6 + 1 = 9
+Strikeout
+Team 1 pitcher (Patrick Sharp): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-3
+
+Declan Elliott: rng1 = 74 + 6 - 6 + 1 = 75
+rng2 = 2 + 6 - 8 + 1 = 1
+Single
+Team 1 pitcher (Patrick Sharp): 23 batters faced, 3 runs allowed = 23 + 7.5 = 30.5, outs: 2
+
+base1: [4,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 5-3
+
+Chaquille Barnett: rng1 = 2 + 8 - 6 + 1 = 5
+Strikeout
+Team 1 pitcher (Patrick Sharp): 24 batters faced, 3 runs allowed = 24 + 7.5 = 31.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Max Castillo
+
+Efrain Salas: rng1 = 85 + 5 - 4 - 1 = 85
+rng2 = 73 + 7 - 3 - 1 = 76
+Double
+Team 2 pitcher (Max Castillo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [4,3], base3: false
+base1: false, base2: true, base3: false
+Score: 5-3
+
+Jay Fleming: rng1 = 13 + 7 - 4 - 1 = 15
+rng2 = 70 + 9 - 3 - 1 = 75
+Flyout
+Team 2 pitcher (Max Castillo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: [4,3]
+base1: false, base2: false, base3: true
+Score: 5-3
+
+Mike Rowe: rng1 = 74 + 7 - 4 - 1 = 76
+rng2 = 34 + 4 - 3 - 1 = 34
+Single
+Team 2 pitcher (Max Castillo): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [6,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-3
+
+Antonio Alvarez: rng1 = 71 + 7 - 4 - 1 = 73
+rng2 = 71 + 5 - 3 - 1 = 72
+Double
+Team 2 pitcher (Max Castillo): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: false, base2: [7,3], base3: false
+base1: false, base2: true, base3: false
+Score: 7-3
+
+Randy Phillips: rng1 = 45 + 4 - 4 - 1 = 44
+rng2 = 60 + 7 - 3 - 1 = 63
+Flyout
+Team 2 pitcher (Max Castillo): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: false, base2: false, base3: [7,3]
+base1: false, base2: false, base3: true
+Score: 7-3
+
+Manuel Valdez: rng1 = 7 + 6 - 4 - 1 = 8
+Strikeout
+Team 2 pitcher (Max Castillo): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-3
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Robb Tremblay
+
+Leonel Mathis: rng1 = 96 + 4 - 7 + 1 = 94
+rng2 = 12 + 5 - 4 + 1 = 14
+Single
+Team 1 pitcher (Robb Tremblay): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-3
+
+Aaron Pearce: rng1 = 5 + 5 - 7 + 1 = 4
+Strikeout
+Team 1 pitcher (Robb Tremblay): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-3
+
+Yu Minjun: rng1 = 16 + 3 - 7 + 1 = 13
+rng2 = 74 + 4 - 4 + 1 = 75
+Flyout
+Team 1 pitcher (Robb Tremblay): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-3
+
+Guillermo Gonzalez: rng1 = 72 + 8 - 7 + 1 = 74
+rng2 = 93 + 6 - 4 + 1 = 96
+Home run
+Team 1 pitcher (Robb Tremblay): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-5
+
+Seta Senzo: rng1 = 53 + 7 - 7 + 1 = 54
+rng2 = 30 + 9 - 4 + 1 = 36
+Groundout
+Team 1 pitcher (Robb Tremblay): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-5
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Larry Gibson
+
+Bobby King: rng1 = 45 + 7 - 10 - 1 = 41
+rng2 = 20 + 10 - 11 - 1 = 18
+Groundout
+Team 2 pitcher (Larry Gibson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-5
+
+Joey Greer: rng1 = 10 + 5 - 10 - 1 = 4
+Strikeout
+Team 2 pitcher (Larry Gibson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-5
+
+Jalen Walker: rng1 = 13 + 6 - 10 - 1 = 8
+Strikeout
+Team 2 pitcher (Larry Gibson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-5
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Miguel Vega
+
+Roger Wilson: rng1 = 76 + 5 - 4 + 1 = 78
+rng2 = 12 + 6 - 2 + 1 = 17
+Single
+Team 1 pitcher (Miguel Vega): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-5
+
+Juanpablo Gomez: rng1 = 33 + 6 - 4 + 1 = 36
+rng2 = 10 + 6 - 2 + 1 = 15
+Groundout
+Team 1 pitcher (Miguel Vega): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [2,2], base3: false
+base1: false, base2: true, base3: false
+Score: 7-5
+
+Declan Elliott: rng1 = 29 + 6 - 4 + 1 = 32
+rng2 = 83 + 6 - 2 + 1 = 88
+Flyout
+Team 1 pitcher (Miguel Vega): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [2,2], base3: false
+base1: false, base2: true, base3: false
+Score: 7-5
+
+Chaquille Barnett: rng1 = 52 + 8 - 4 + 1 = 57
+rng2 = 84 + 6 - 2 + 1 = 89
+Flyout
+Team 1 pitcher (Miguel Vega): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-5
+
+-----------------------
+
+TOP INNING 9
+
+Efrain Salas: rng1 = 64 + 5 - 10 - 1 = 58
+rng2 = 36 + 7 - 11 - 1 = 31
+Groundout
+Team 2 pitcher (Larry Gibson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-5
+
+Jay Fleming: rng1 = 73 + 7 - 10 - 1 = 69
+Walk
+Team 2 pitcher (Larry Gibson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [5,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-5
+
+Mike Rowe: rng1 = 27 + 7 - 10 - 1 = 23
+Strikeout
+Team 2 pitcher (Larry Gibson): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [5,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-5
+
+Antonio Alvarez: rng1 = 76 + 7 - 10 - 1 = 72
+rng2 = 18 + 5 - 11 - 1 = 11
+Single
+Team 2 pitcher (Larry Gibson): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [7,4], base2: [5,4], base3: false
+base1: true, base2: true, base3: false
+Score: 7-5
+
+Randy Phillips: rng1 = 96 + 4 - 10 - 1 = 89
+Walk
+Team 2 pitcher (Larry Gibson): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [8,4], base2: [7,4], base3: [5,4]
+base1: true, base2: true, base3: true
+Score: 7-5
+
+Manuel Valdez: rng1 = 27 + 6 - 10 - 1 = 22
+Strikeout
+Team 2 pitcher (Larry Gibson): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-5
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Nestor Cordero
+
+Leonel Mathis: rng1 = 92 + 4 - 6 + 1 = 91
+rng2 = 38 + 5 - 10 + 1 = 34
+Single
+Team 1 pitcher (Nestor Cordero): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [6,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-5
+
+Aaron Pearce: rng1 = 30 + 5 - 6 + 1 = 30
+rng2 = 55 + 8 - 10 + 1 = 54
+Lineout
+Team 1 pitcher (Nestor Cordero): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [6,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-5
+
+Yu Minjun: rng1 = 76 + 3 - 6 + 1 = 74
+rng2 = 84 + 4 - 10 + 1 = 79
+Home run
+Team 1 pitcher (Nestor Cordero): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-7
+
+Guillermo Gonzalez: rng1 = 97 + 8 - 6 + 1 = 100
+rng2 = 54 + 6 - 10 + 1 = 51
+Single
+Team 1 pitcher (Nestor Cordero): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: [0,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-7
+
+Seta Senzo: rng1 = 71 + 7 - 6 + 1 = 73
+rng2 = 26 + 9 - 10 + 1 = 26
+Single
+Team 1 pitcher (Nestor Cordero): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 1
+
+base1: [1,4], base2: false, base3: [0,4]
+base1: true, base2: false, base3: true
+Score: 7-7
+
+Roger Wilson: rng1 = 58 + 5 - 6 + 1 = 58
+rng2 = 36 + 6 - 10 + 1 = 33
+Groundout
+Team 1 pitcher (Nestor Cordero): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: false, base2: [1,4], base3: false
+base1: false, base2: true, base3: false
+Score: 7-8
+
+Team 1 pitcher change to Kangjon Kwang-Hyun
+
+Innings: 9
+Team 1 hits: 14
+Team 2 hits: 13
+Team 1 runs: 7
+Team 2 runs: 8
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-05-23
+Manuel Valdez	6	0	2	1	0	0	1	0	2					Paris
+Bobby King	4	1	0	0	0	0	0	1	2	
+Joey Greer	4	2	1	1	0	0	1	1	2	
+Jalen Walker	5	0	1	1	0	0	1	0	2	
+Efrain Salas	5	1	2	1	0	0	0	0	2	
+Jay Fleming	4	0	2	0	0	0	0	1	1	
+Mike Rowe	4	2	2	1	0	0	2	0	2	
+Antonio Alvarez	5	0	2	1	0	0	1	0	1	
+Randy Phillips	4	1	2	1	0	0	1	1	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Patrick Sharp	0	0	1	1	0	0	18	6	3	2	1	10	24	
+Robb Tremblay	0	0	1	0	0	0	3	2	2	1	0	1	5	
+Miguel Vega	0	0	1	0	0	0	3	1	0	0	0	0	4	
+Kangjon Kwang-Hyun	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Nestor Cordero	0	1	1	0	0	1	2	4	3	1	0	0	6	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-05-23
+Guillermo Gonzalez	5	3	3	0	0	2	3	0	2					London
+Seta Senzo	4	0	1	0	0	0	0	1	0	
+Roger Wilson	5	0	1	0	0	0	1	0	2	
+Juanpablo Gomez	4	1	1	0	0	0	0	0	1	
+Declan Elliott	4	1	2	0	0	1	2	0	0	
+Chaquille Barnett	4	0	1	0	0	0	0	0	2	
+Leonel Mathis	4	2	2	0	0	0	0	0	0	
+Aaron Pearce	4	0	0	0	0	0	0	0	3	
+Yu Minjun	4	1	2	0	0	1	2	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Nick Briggs	0	0	1	1	0	0	12	6	4	0	1	7	19	
+Camryn Wagner	0	0	1	0	0	0	3	2	1	0	1	1	7	
+Jose Santana	0	0	1	0	0	0	3	2	0	0	0	1	5	
+Max Castillo	0	0	1	0	0	0	3	3	2	0	0	1	6	
+Larry Gibson	1	0	1	0	0	0	6	1	0	0	2	4	9	

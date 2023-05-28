@@ -1,0 +1,724 @@
+TOP INNING 1
+
+Byron Bartlett: rng1 = 43 + 15 - 9 - 1 = 48
+rng2 = 44 + 11 - 8 - 1 = 46
+Groundout
+Team 2 pitcher (Daigo Yoshimochi): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Arturo Bellamy: rng1 = 88 + 13 - 9 - 1 = 91
+rng2 = 26 + 10 - 8 - 1 = 27
+Single
+Team 2 pitcher (Daigo Yoshimochi): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Edmundo Pousa: rng1 = 61 + 13 - 9 - 1 = 64
+rng2 = 24 + 9 - 8 - 1 = 24
+Groundout
+Team 2 pitcher (Daigo Yoshimochi): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Owen Williamson: rng1 = 14 + 6 - 9 - 1 = 10
+Strikeout
+Team 2 pitcher (Daigo Yoshimochi): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Serafín Sancho: rng1 = 89 + 14 - 10 + 1 = 94
+rng2 = 93 + 9 - 10 + 1 = 93
+Triple
+Team 1 pitcher (Lennon Mooney): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: false, base3: [0,0]
+base1: false, base2: false, base3: true
+Score: 0-0
+
+Desharious Roberson: rng1 = 91 + 12 - 10 + 1 = 94
+rng2 = 55 + 8 - 10 + 1 = 54
+Single
+Team 1 pitcher (Lennon Mooney): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Stanley Soto: rng1 = 41 + 9 - 10 + 1 = 41
+rng2 = 18 + 5 - 10 + 1 = 14
+Groundout
+Team 1 pitcher (Lennon Mooney): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Terryl Maxwell: rng1 = 27 + 6 - 10 + 1 = 24
+Strikeout
+Team 1 pitcher (Lennon Mooney): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Josh Poole: rng1 = 94 + 8 - 10 + 1 = 93
+rng2 = 49 + 9 - 10 + 1 = 49
+Single
+Team 1 pitcher (Lennon Mooney): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Reese Ross: rng1 = 1 + 6 - 10 + 1 = -2
+Strikeout
+Team 1 pitcher (Lennon Mooney): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 2
+
+Devoreaux Waters: rng1 = 58 + 8 - 9 - 1 = 56
+rng2 = 100 + 5 - 8 - 1 = 96
+Flyout
+Team 2 pitcher (Daigo Yoshimochi): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Oscar Pierce: rng1 = 49 + 6 - 9 - 1 = 45
+rng2 = 14 + 6 - 8 - 1 = 11
+Groundout
+Team 2 pitcher (Daigo Yoshimochi): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Fabián Sánchez: rng1 = 25 + 3 - 9 - 1 = 18
+Strikeout
+Team 2 pitcher (Daigo Yoshimochi): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+BOTTOM INNING 2
+
+Ethan Hayes: rng1 = 69 + 6 - 10 + 1 = 66
+rng2 = 53 + 6 - 10 + 1 = 50
+Lineout
+Team 1 pitcher (Lennon Mooney): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Bruno Rios: rng1 = 73 + 6 - 10 + 1 = 70
+Walk
+Team 1 pitcher (Lennon Mooney): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Pedro Acosta: rng1 = 6 + 3 - 10 + 1 = 0
+Strikeout
+Team 1 pitcher (Lennon Mooney): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Serafín Sancho: rng1 = 64 + 14 - 10 + 1 = 69
+Walk
+Team 1 pitcher (Lennon Mooney): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 2
+
+base1: [0,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-2
+
+Desharious Roberson: rng1 = 45 + 12 - 10 + 1 = 48
+rng2 = 23 + 8 - 10 + 1 = 22
+Groundout
+Team 1 pitcher (Lennon Mooney): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 3
+
+Chon Il-Seong: rng1 = 48 + 6 - 9 - 1 = 44
+rng2 = 92 + 3 - 8 - 1 = 86
+Flyout
+Team 2 pitcher (Daigo Yoshimochi): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Rakkan Gaines: rng1 = 48 + 3 - 9 - 1 = 41
+rng2 = 48 + 5 - 8 - 1 = 44
+Groundout
+Team 2 pitcher (Daigo Yoshimochi): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Byron Bartlett: rng1 = 9 + 15 - 9 - 1 = 14
+rng2 = 42 + 11 - 8 - 1 = 44
+Groundout
+Team 2 pitcher (Daigo Yoshimochi): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+BOTTOM INNING 3
+
+Stanley Soto: rng1 = 15 + 9 - 10 + 1 = 15
+rng2 = 47 + 5 - 10 + 1 = 43
+Groundout
+Team 1 pitcher (Lennon Mooney): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Terryl Maxwell: rng1 = 35 + 6 - 10 + 1 = 32
+rng2 = 99 + 11 - 10 + 1 = 101
+Flyout
+Team 1 pitcher (Lennon Mooney): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Josh Poole: rng1 = 16 + 8 - 10 + 1 = 15
+rng2 = 64 + 9 - 10 + 1 = 64
+Flyout
+Team 1 pitcher (Lennon Mooney): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 4
+
+Arturo Bellamy: rng1 = 14 + 13 - 9 - 1 = 17
+Strikeout
+Team 2 pitcher (Daigo Yoshimochi): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Edmundo Pousa: rng1 = 40 + 13 - 9 - 1 = 43
+rng2 = 85 + 9 - 8 - 1 = 85
+Flyout
+Team 2 pitcher (Daigo Yoshimochi): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Owen Williamson: rng1 = 37 + 6 - 9 - 1 = 33
+rng2 = 2 + 8 - 8 - 1 = 1
+Groundout
+Team 2 pitcher (Daigo Yoshimochi): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+BOTTOM INNING 4
+
+Reese Ross: rng1 = 14 + 6 - 10 + 1 = 11
+rng2 = 41 + 9 - 10 + 1 = 41
+Groundout
+Team 1 pitcher (Lennon Mooney): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Ethan Hayes: rng1 = 77 + 6 - 10 + 1 = 74
+rng2 = 5 + 6 - 10 + 1 = 2
+Single
+Team 1 pitcher (Lennon Mooney): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Bruno Rios: rng1 = 87 + 6 - 10 + 1 = 84
+rng2 = 41 + 6 - 10 + 1 = 38
+Single
+Team 1 pitcher (Lennon Mooney): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 1
+
+base1: [7,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 0-2
+
+Pedro Acosta: rng1 = 80 + 3 - 10 + 1 = 74
+rng2 = 56 + 8 - 10 + 1 = 55
+Single
+Team 1 pitcher (Lennon Mooney): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 1
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-3
+
+Serafín Sancho: rng1 = 95 + 14 - 10 + 1 = 100
+rng2 = 55 + 9 - 10 + 1 = 55
+Single
+Team 1 pitcher (Lennon Mooney): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 1
+
+base1: [0,0], base2: [8,0], base3: [7,0]
+base1: true, base2: true, base3: true
+Score: 0-3
+
+Desharious Roberson: rng1 = 91 + 12 - 10 + 1 = 94
+rng2 = 5 + 8 - 10 + 1 = 4
+Single
+Team 1 pitcher (Lennon Mooney): 20 batters faced, 5 runs allowed = 20 + 12.5 = 32.5, outs: 1
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-5
+
+Stanley Soto: rng1 = 63 + 9 - 10 + 1 = 63
+rng2 = 78 + 5 - 10 + 1 = 74
+Flyout
+Team 1 pitcher (Lennon Mooney): 21 batters faced, 5 runs allowed = 21 + 12.5 = 33.5, outs: 2
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 0-5
+
+Terryl Maxwell: rng1 = 22 + 6 - 10 + 1 = 19
+Strikeout
+Team 1 pitcher (Lennon Mooney): 22 batters faced, 5 runs allowed = 22 + 12.5 = 34.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+TOP INNING 5
+
+Devoreaux Waters: rng1 = 34 + 8 - 9 - 1 = 32
+rng2 = 86 + 5 - 8 - 1 = 82
+Flyout
+Team 2 pitcher (Daigo Yoshimochi): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Oscar Pierce: rng1 = 10 + 6 - 9 - 1 = 6
+Strikeout
+Team 2 pitcher (Daigo Yoshimochi): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Fabián Sánchez: rng1 = 81 + 3 - 9 - 1 = 74
+rng2 = 40 + 8 - 8 - 1 = 39
+Single
+Team 2 pitcher (Daigo Yoshimochi): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Chon Il-Seong: rng1 = 91 + 6 - 9 - 1 = 87
+Walk
+Team 2 pitcher (Daigo Yoshimochi): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 2
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-5
+
+Rakkan Gaines: rng1 = 76 + 3 - 9 - 1 = 69
+Walk
+Team 2 pitcher (Daigo Yoshimochi): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 2
+
+base1: [8,0], base2: [7,0], base3: [6,0]
+base1: true, base2: true, base3: true
+Score: 0-5
+
+Byron Bartlett: rng1 = 51 + 15 - 9 - 1 = 56
+rng2 = 70 + 11 - 8 - 1 = 72
+Flyout
+Team 2 pitcher (Daigo Yoshimochi): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Brady Goodman
+
+Josh Poole: rng1 = 81 + 8 - 14 + 1 = 76
+rng2 = 33 + 9 - 14 + 1 = 29
+Single
+Team 1 pitcher (Brady Goodman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Reese Ross: rng1 = 24 + 6 - 14 + 1 = 17
+Strikeout
+Team 1 pitcher (Brady Goodman): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Ethan Hayes: rng1 = 8 + 6 - 14 + 1 = 1
+Strikeout
+Team 1 pitcher (Brady Goodman): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Bruno Rios: rng1 = 52 + 6 - 14 + 1 = 45
+rng2 = 62 + 6 - 14 + 1 = 55
+Lineout
+Team 1 pitcher (Brady Goodman): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+TOP INNING 6
+
+Arturo Bellamy: rng1 = 40 + 13 - 9 - 1 = 43
+rng2 = 22 + 10 - 8 - 1 = 23
+Groundout
+Team 2 pitcher (Daigo Yoshimochi): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Edmundo Pousa: rng1 = 84 + 13 - 9 - 1 = 87
+Walk
+Team 2 pitcher (Daigo Yoshimochi): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Owen Williamson: rng1 = 15 + 6 - 9 - 1 = 11
+rng2 = 55 + 8 - 8 - 1 = 54
+Lineout
+Team 2 pitcher (Daigo Yoshimochi): 22 batters faced, 0 runs allowed = 22 + 0.0 = 22.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Devoreaux Waters: rng1 = 43 + 8 - 9 - 1 = 41
+rng2 = 8 + 5 - 8 - 1 = 4
+Groundout
+Team 2 pitcher (Daigo Yoshimochi): 23 batters faced, 0 runs allowed = 23 + 0.0 = 23.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+BOTTOM INNING 6
+
+Pedro Acosta: rng1 = 7 + 3 - 14 + 1 = -3
+Strikeout
+Team 1 pitcher (Brady Goodman): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Serafín Sancho: rng1 = 80 + 14 - 14 + 1 = 81
+rng2 = 77 + 9 - 14 + 1 = 73
+Double
+Team 1 pitcher (Brady Goodman): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: [0,1], base3: false
+base1: false, base2: true, base3: false
+Score: 0-5
+
+Desharious Roberson: rng1 = 40 + 12 - 14 + 1 = 39
+rng2 = 8 + 8 - 14 + 1 = 3
+Groundout
+Team 1 pitcher (Brady Goodman): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: false, base3: [0,1]
+base1: false, base2: false, base3: true
+Score: 0-5
+
+Stanley Soto: rng1 = 53 + 9 - 14 + 1 = 49
+rng2 = 39 + 5 - 14 + 1 = 31
+Groundout
+Team 1 pitcher (Brady Goodman): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+TOP INNING 7
+
+Oscar Pierce: rng1 = 88 + 6 - 9 - 1 = 84
+rng2 = 83 + 6 - 8 - 1 = 80
+Home run
+Team 2 pitcher (Daigo Yoshimochi): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Fabián Sánchez: rng1 = 27 + 3 - 9 - 1 = 20
+Strikeout
+Team 2 pitcher (Daigo Yoshimochi): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Chon Il-Seong: rng1 = 23 + 6 - 9 - 1 = 19
+Strikeout
+Team 2 pitcher (Daigo Yoshimochi): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Rakkan Gaines: rng1 = 47 + 3 - 9 - 1 = 40
+rng2 = 79 + 5 - 8 - 1 = 75
+Flyout
+Team 2 pitcher (Daigo Yoshimochi): 27 batters faced, 1 runs allowed = 27 + 2.5 = 29.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Tamashiro Genjo
+
+Terryl Maxwell: rng1 = 21 + 6 - 5 + 1 = 23
+Strikeout
+Team 1 pitcher (Tamashiro Genjo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Josh Poole: rng1 = 73 + 8 - 5 + 1 = 77
+rng2 = 8 + 9 - 9 + 1 = 9
+Single
+Team 1 pitcher (Tamashiro Genjo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Reese Ross: rng1 = 44 + 6 - 5 + 1 = 46
+rng2 = 20 + 9 - 9 + 1 = 21
+Groundout
+Team 1 pitcher (Tamashiro Genjo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [4,2], base3: false
+base1: false, base2: true, base3: false
+Score: 1-5
+
+Ethan Hayes: rng1 = 9 + 6 - 5 + 1 = 11
+rng2 = 23 + 6 - 9 + 1 = 21
+Groundout
+Team 1 pitcher (Tamashiro Genjo): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Lyndon Perell
+
+Byron Bartlett: rng1 = 100 + 15 - 11 - 1 = 103
+rng2 = 73 + 11 - 11 - 1 = 72
+Double
+Team 2 pitcher (Lyndon Perell): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [0,1], base3: false
+base1: false, base2: true, base3: false
+Score: 1-5
+
+Arturo Bellamy: rng1 = 6 + 13 - 11 - 1 = 7
+Strikeout
+Team 2 pitcher (Lyndon Perell): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [0,1], base3: false
+base1: false, base2: true, base3: false
+Score: 1-5
+
+Edmundo Pousa: rng1 = 26 + 13 - 11 - 1 = 27
+Strikeout
+Team 2 pitcher (Lyndon Perell): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [0,1], base3: false
+base1: false, base2: true, base3: false
+Score: 1-5
+
+Owen Williamson: rng1 = 21 + 6 - 11 - 1 = 15
+rng2 = 11 + 8 - 11 - 1 = 7
+Groundout
+Team 2 pitcher (Lyndon Perell): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+BOTTOM INNING 8
+
+Bruno Rios: rng1 = 66 + 6 - 5 + 1 = 68
+rng2 = 34 + 6 - 9 + 1 = 32
+Groundout
+Team 1 pitcher (Tamashiro Genjo): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Pedro Acosta: rng1 = 57 + 3 - 5 + 1 = 56
+rng2 = 47 + 8 - 9 + 1 = 47
+Groundout
+Team 1 pitcher (Tamashiro Genjo): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Serafín Sancho: rng1 = 83 + 14 - 5 + 1 = 93
+rng2 = 31 + 9 - 9 + 1 = 32
+Single
+Team 1 pitcher (Tamashiro Genjo): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [0,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Desharious Roberson: rng1 = 25 + 12 - 5 + 1 = 33
+rng2 = 74 + 8 - 9 + 1 = 74
+Flyout
+Team 1 pitcher (Tamashiro Genjo): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+TOP INNING 9
+
+Devoreaux Waters: rng1 = 55 + 8 - 11 - 1 = 51
+rng2 = 82 + 5 - 11 - 1 = 75
+Flyout
+Team 2 pitcher (Lyndon Perell): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Oscar Pierce: rng1 = 2 + 6 - 11 - 1 = -4
+Strikeout
+Team 2 pitcher (Lyndon Perell): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Fabián Sánchez: rng1 = 37 + 3 - 11 - 1 = 28
+rng2 = 97 + 8 - 11 - 1 = 93
+Flyout
+Team 2 pitcher (Lyndon Perell): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 4
+Team 2 hits: 12
+Team 1 runs: 1
+Team 2 runs: 5
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-05-27
+Byron Bartlett	4	0	1	1	0	0	0	0	0					New Orleans
+Arturo Bellamy	4	0	1	0	0	0	0	0	2	
+Edmundo Pousa	3	0	0	0	0	0	0	1	1	
+Owen Williamson	4	0	0	0	0	0	0	0	1	
+Devoreaux Waters	4	0	0	0	0	0	0	0	0	
+Oscar Pierce	4	1	1	0	0	1	1	0	2	
+Fabián Sánchez	4	0	1	0	0	0	0	0	2	
+Chon Il-Seong	2	0	0	0	0	0	0	1	1	
+Rakkan Gaines	2	0	0	0	0	0	0	1	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Lennon Mooney	0	1	1	1	0	0	12	8	5	0	2	4	22	
+Brady Goodman	0	0	1	0	0	0	6	2	0	0	0	3	8	
+Tamashiro Genjo	0	0	1	0	0	0	6	2	0	0	0	1	8	
+Kione Andrews	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Antonio McMillan	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-05-27
+Serafín Sancho	4	1	4	1	1	0	0	1	0					Phoenix
+Desharious Roberson	5	1	2	0	0	0	3	0	0	
+Stanley Soto	4	0	0	0	0	0	0	0	0	
+Terryl Maxwell	4	0	0	0	0	0	0	0	3	
+Josh Poole	4	0	3	0	0	0	1	0	0	
+Reese Ross	4	0	0	0	0	0	0	0	2	
+Ethan Hayes	4	1	1	0	0	0	0	0	1	
+Bruno Rios	3	1	1	0	0	0	0	1	0	
+Pedro Acosta	4	1	1	0	0	0	1	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Daigo Yoshimochi	1	0	1	1	0	0	21	3	1	1	3	6	27	
+Lyndon Perell	0	0	1	0	0	0	6	1	0	0	0	3	7	
+Colton Hendrix	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Raymond Day	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rakeem Bradley	0	0	0	0	0	0	0	0	0	0	0	0	0	

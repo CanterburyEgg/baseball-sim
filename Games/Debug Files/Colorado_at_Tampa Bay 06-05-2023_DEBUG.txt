@@ -1,0 +1,832 @@
+TOP INNING 1
+
+Hiro Hakayawa: rng1 = 46 + 13 - 8 - 1 = 50
+rng2 = 18 + 11 - 7 - 1 = 21
+Groundout
+Team 2 pitcher (Ryan Swanson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Guillermo Tamayo: rng1 = 11 + 13 - 8 - 1 = 15
+rng2 = 93 + 6 - 7 - 1 = 91
+Flyout
+Team 2 pitcher (Ryan Swanson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Zachary Hughes: rng1 = 69 + 11 - 8 - 1 = 71
+Walk
+Team 2 pitcher (Ryan Swanson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Micah Zamora: rng1 = 42 + 9 - 8 - 1 = 42
+rng2 = 83 + 12 - 7 - 1 = 87
+Flyout
+Team 2 pitcher (Ryan Swanson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Koyama Tsuneo: rng1 = 88 + 14 - 7 + 1 = 96
+rng2 = 56 + 12 - 5 + 1 = 64
+Single
+Team 1 pitcher (Valentín Sánchez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Kim Tae-Woo: rng1 = 84 + 13 - 7 + 1 = 91
+rng2 = 9 + 13 - 5 + 1 = 18
+Single
+Team 1 pitcher (Valentín Sánchez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Justus Pate: rng1 = 58 + 12 - 7 + 1 = 64
+rng2 = 67 + 12 - 5 + 1 = 75
+Flyout
+Team 1 pitcher (Valentín Sánchez): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Jeronimo Maldonado: rng1 = 98 + 8 - 7 + 1 = 100
+rng2 = 35 + 12 - 5 + 1 = 43
+Single
+Team 1 pitcher (Valentín Sánchez): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [3,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-1
+
+Charles Harris: rng1 = 100 + 8 - 7 + 1 = 102
+rng2 = 65 + 11 - 5 + 1 = 72
+Double
+Team 1 pitcher (Valentín Sánchez): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 1
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-3
+
+Leonardo Nunez: rng1 = 12 + 11 - 7 + 1 = 17
+Strikeout
+Team 1 pitcher (Valentín Sánchez): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-3
+
+Jesús Alarcón: rng1 = 41 + 6 - 7 + 1 = 41
+rng2 = 64 + 10 - 5 + 1 = 70
+Flyout
+Team 1 pitcher (Valentín Sánchez): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+TOP INNING 2
+
+Alfredo Encarnacion: rng1 = 77 + 10 - 8 - 1 = 78
+rng2 = 86 + 11 - 7 - 1 = 89
+Double
+Team 2 pitcher (Ryan Swanson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-3
+
+Sean Stevens: rng1 = 45 + 5 - 8 - 1 = 41
+rng2 = 47 + 7 - 7 - 1 = 46
+Groundout
+Team 2 pitcher (Ryan Swanson): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: false, base3: [4,0]
+base1: false, base2: false, base3: true
+Score: 0-3
+
+Felix Alarcón: rng1 = 82 + 6 - 8 - 1 = 79
+rng2 = 18 + 6 - 7 - 1 = 16
+Single
+Team 2 pitcher (Ryan Swanson): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Cristian Squires: rng1 = 79 + 4 - 8 - 1 = 74
+rng2 = 84 + 6 - 7 - 1 = 82
+Home run
+Team 2 pitcher (Ryan Swanson): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Agustín Molina: rng1 = 73 + 4 - 8 - 1 = 68
+rng2 = 52 + 6 - 7 - 1 = 50
+Lineout
+Team 2 pitcher (Ryan Swanson): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Hiro Hakayawa: rng1 = 63 + 13 - 8 - 1 = 67
+rng2 = 68 + 11 - 7 - 1 = 71
+Flyout
+Team 2 pitcher (Ryan Swanson): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+BOTTOM INNING 2
+
+Adam Marshall: rng1 = 64 + 4 - 7 + 1 = 62
+rng2 = 19 + 9 - 5 + 1 = 24
+Groundout
+Team 1 pitcher (Valentín Sánchez): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Kojima Kunio: rng1 = 25 + 4 - 7 + 1 = 23
+Strikeout
+Team 1 pitcher (Valentín Sánchez): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Koyama Tsuneo: rng1 = 68 + 14 - 7 + 1 = 76
+rng2 = 75 + 12 - 5 + 1 = 83
+Home run
+Team 1 pitcher (Valentín Sánchez): 10 batters faced, 4 runs allowed = 10 + 10.0 = 20.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Kim Tae-Woo: rng1 = 57 + 13 - 7 + 1 = 64
+rng2 = 49 + 13 - 5 + 1 = 58
+Lineout
+Team 1 pitcher (Valentín Sánchez): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+TOP INNING 3
+
+Guillermo Tamayo: rng1 = 98 + 13 - 8 - 1 = 102
+rng2 = 63 + 6 - 7 - 1 = 61
+Single
+Team 2 pitcher (Ryan Swanson): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-4
+
+Zachary Hughes: rng1 = 56 + 11 - 8 - 1 = 58
+rng2 = 11 + 14 - 7 - 1 = 17
+Groundout
+Team 2 pitcher (Ryan Swanson): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-4
+
+Micah Zamora: rng1 = 89 + 9 - 8 - 1 = 89
+Walk
+Team 2 pitcher (Ryan Swanson): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 1
+
+base1: [3,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-4
+
+Alfredo Encarnacion: rng1 = 97 + 10 - 8 - 1 = 98
+rng2 = 89 + 11 - 7 - 1 = 92
+Double
+Team 2 pitcher (Ryan Swanson): 14 batters faced, 5 runs allowed = 14 + 12.5 = 26.5, outs: 1
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 5-4
+
+Sean Stevens: rng1 = 81 + 5 - 8 - 1 = 77
+rng2 = 49 + 7 - 7 - 1 = 48
+Single
+Team 2 pitcher (Ryan Swanson): 15 batters faced, 6 runs allowed = 15 + 15.0 = 30.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-4
+
+Felix Alarcón: rng1 = 39 + 6 - 8 - 1 = 36
+rng2 = 6 + 6 - 7 - 1 = 4
+Groundout
+Team 2 pitcher (Ryan Swanson): 16 batters faced, 6 runs allowed = 16 + 15.0 = 31.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-4
+
+-----------------------
+
+BOTTOM INNING 3
+
+Justus Pate: rng1 = 24 + 12 - 7 + 1 = 30
+rng2 = 5 + 12 - 5 + 1 = 13
+Groundout
+Team 1 pitcher (Valentín Sánchez): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Jeronimo Maldonado: rng1 = 12 + 8 - 7 + 1 = 14
+rng2 = 80 + 12 - 5 + 1 = 88
+Flyout
+Team 1 pitcher (Valentín Sánchez): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Charles Harris: rng1 = 74 + 8 - 7 + 1 = 76
+rng2 = 57 + 11 - 5 + 1 = 64
+Single
+Team 1 pitcher (Valentín Sánchez): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-4
+
+Leonardo Nunez: rng1 = 72 + 11 - 7 + 1 = 77
+rng2 = 24 + 7 - 5 + 1 = 27
+Single
+Team 1 pitcher (Valentín Sánchez): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 2
+
+base1: [5,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 6-4
+
+Jesús Alarcón: rng1 = 85 + 6 - 7 + 1 = 85
+rng2 = 30 + 10 - 5 + 1 = 36
+Single
+Team 1 pitcher (Valentín Sánchez): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 2
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 6-5
+
+Adam Marshall: rng1 = 86 + 4 - 7 + 1 = 84
+rng2 = 19 + 9 - 5 + 1 = 24
+Single
+Team 1 pitcher (Valentín Sánchez): 17 batters faced, 5 runs allowed = 17 + 12.5 = 29.5, outs: 2
+
+base1: [7,0], base2: [6,0], base3: [5,0]
+base1: true, base2: true, base3: true
+Score: 6-5
+
+Kojima Kunio: rng1 = 94 + 4 - 7 + 1 = 92
+rng2 = 17 + 7 - 5 + 1 = 20
+Single
+Team 1 pitcher (Valentín Sánchez): 18 batters faced, 7 runs allowed = 18 + 17.5 = 35.5, outs: 2
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 6-7
+
+Team 1 pitcher change to Amante Harvey
+
+Koyama Tsuneo: rng1 = 69 + 14 - 12 + 1 = 72
+rng2 = 7 + 12 - 10 + 1 = 10
+Single
+Team 1 pitcher (Amante Harvey): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [0,1], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 6-8
+
+Kim Tae-Woo: rng1 = 28 + 13 - 12 + 1 = 30
+rng2 = 84 + 13 - 10 + 1 = 88
+Flyout
+Team 1 pitcher (Amante Harvey): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-8
+
+-----------------------
+
+TOP INNING 4
+
+Team 2 pitcher change to Ignacio Morales
+
+Cristian Squires: rng1 = 32 + 4 - 8 - 1 = 27
+Strikeout
+Team 2 pitcher (Ignacio Morales): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-8
+
+Agustín Molina: rng1 = 50 + 4 - 8 - 1 = 45
+rng2 = 37 + 6 - 8 - 1 = 34
+Groundout
+Team 2 pitcher (Ignacio Morales): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-8
+
+Hiro Hakayawa: rng1 = 41 + 13 - 8 - 1 = 45
+rng2 = 53 + 11 - 8 - 1 = 55
+Lineout
+Team 2 pitcher (Ignacio Morales): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-8
+
+-----------------------
+
+BOTTOM INNING 4
+
+Justus Pate: rng1 = 65 + 12 - 12 + 1 = 66
+rng2 = 33 + 12 - 10 + 1 = 36
+Groundout
+Team 1 pitcher (Amante Harvey): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-8
+
+Jeronimo Maldonado: rng1 = 25 + 8 - 12 + 1 = 22
+Strikeout
+Team 1 pitcher (Amante Harvey): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-8
+
+Charles Harris: rng1 = 44 + 8 - 12 + 1 = 41
+rng2 = 41 + 11 - 10 + 1 = 43
+Groundout
+Team 1 pitcher (Amante Harvey): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-8
+
+-----------------------
+
+TOP INNING 5
+
+Guillermo Tamayo: rng1 = 59 + 13 - 8 - 1 = 63
+rng2 = 37 + 6 - 8 - 1 = 34
+Groundout
+Team 2 pitcher (Ignacio Morales): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-8
+
+Zachary Hughes: rng1 = 42 + 11 - 8 - 1 = 44
+rng2 = 43 + 14 - 8 - 1 = 48
+Lineout
+Team 2 pitcher (Ignacio Morales): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-8
+
+Micah Zamora: rng1 = 11 + 9 - 8 - 1 = 11
+rng2 = 80 + 12 - 8 - 1 = 83
+Flyout
+Team 2 pitcher (Ignacio Morales): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-8
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Julio Carrera
+
+Leonardo Nunez: rng1 = 27 + 11 - 10 + 1 = 29
+rng2 = 95 + 7 - 8 + 1 = 95
+Flyout
+Team 1 pitcher (Julio Carrera): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-8
+
+Jesús Alarcón: rng1 = 2 + 6 - 10 + 1 = -1
+Strikeout
+Team 1 pitcher (Julio Carrera): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-8
+
+Adam Marshall: rng1 = 93 + 4 - 10 + 1 = 88
+Walk
+Team 1 pitcher (Julio Carrera): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-8
+
+Kojima Kunio: rng1 = 66 + 4 - 10 + 1 = 61
+rng2 = 54 + 7 - 8 + 1 = 54
+Lineout
+Team 1 pitcher (Julio Carrera): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-8
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Boone Almas
+
+Alfredo Encarnacion: rng1 = 49 + 10 - 7 - 1 = 51
+rng2 = 81 + 11 - 11 - 1 = 80
+Flyout
+Team 2 pitcher (Boone Almas): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-8
+
+Sean Stevens: rng1 = 36 + 5 - 7 - 1 = 33
+rng2 = 14 + 7 - 11 - 1 = 9
+Groundout
+Team 2 pitcher (Boone Almas): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-8
+
+Felix Alarcón: rng1 = 75 + 6 - 7 - 1 = 73
+rng2 = 38 + 6 - 11 - 1 = 32
+Single
+Team 2 pitcher (Boone Almas): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-8
+
+Cristian Squires: rng1 = 66 + 4 - 7 - 1 = 62
+rng2 = 55 + 6 - 11 - 1 = 49
+Lineout
+Team 2 pitcher (Boone Almas): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-8
+
+-----------------------
+
+BOTTOM INNING 6
+
+Koyama Tsuneo: rng1 = 49 + 14 - 10 + 1 = 54
+rng2 = 85 + 12 - 8 + 1 = 90
+Flyout
+Team 1 pitcher (Julio Carrera): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-8
+
+Kim Tae-Woo: rng1 = 24 + 13 - 10 + 1 = 28
+rng2 = 69 + 13 - 8 + 1 = 75
+Flyout
+Team 1 pitcher (Julio Carrera): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-8
+
+Justus Pate: rng1 = 93 + 12 - 10 + 1 = 96
+rng2 = 44 + 12 - 8 + 1 = 49
+Single
+Team 1 pitcher (Julio Carrera): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-8
+
+Jeronimo Maldonado: rng1 = 93 + 8 - 10 + 1 = 92
+rng2 = 58 + 12 - 8 + 1 = 63
+Single
+Team 1 pitcher (Julio Carrera): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [3,2], base2: false, base3: [2,2]
+base1: true, base2: false, base3: true
+Score: 6-8
+
+Charles Harris: rng1 = 66 + 8 - 10 + 1 = 65
+rng2 = 91 + 11 - 8 + 1 = 95
+Flyout
+Team 1 pitcher (Julio Carrera): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-8
+
+-----------------------
+
+TOP INNING 7
+
+Agustín Molina: rng1 = 13 + 4 - 7 - 1 = 9
+Strikeout
+Team 2 pitcher (Boone Almas): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-8
+
+Hiro Hakayawa: rng1 = 48 + 13 - 7 - 1 = 53
+rng2 = 42 + 11 - 11 - 1 = 41
+Groundout
+Team 2 pitcher (Boone Almas): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-8
+
+Guillermo Tamayo: rng1 = 68 + 13 - 7 - 1 = 73
+rng2 = 66 + 6 - 11 - 1 = 60
+Single
+Team 2 pitcher (Boone Almas): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-8
+
+Zachary Hughes: rng1 = 6 + 11 - 7 - 1 = 9
+Strikeout
+Team 2 pitcher (Boone Almas): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-8
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Jayden Cooper
+
+Leonardo Nunez: rng1 = 48 + 11 - 5 + 1 = 55
+rng2 = 16 + 7 - 6 + 1 = 18
+Groundout
+Team 1 pitcher (Jayden Cooper): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-8
+
+Jesús Alarcón: rng1 = 28 + 6 - 5 + 1 = 30
+rng2 = 65 + 10 - 6 + 1 = 70
+Flyout
+Team 1 pitcher (Jayden Cooper): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-8
+
+Adam Marshall: rng1 = 79 + 4 - 5 + 1 = 79
+rng2 = 2 + 9 - 6 + 1 = 6
+Single
+Team 1 pitcher (Jayden Cooper): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [7,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-8
+
+Kojima Kunio: rng1 = 4 + 4 - 5 + 1 = 4
+Strikeout
+Team 1 pitcher (Jayden Cooper): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-8
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Logan Rogers
+
+Micah Zamora: rng1 = 14 + 9 - 9 - 1 = 13
+rng2 = 44 + 12 - 6 - 1 = 49
+Lineout
+Team 2 pitcher (Logan Rogers): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-8
+
+Alfredo Encarnacion: rng1 = 45 + 10 - 9 - 1 = 45
+rng2 = 4 + 11 - 6 - 1 = 8
+Groundout
+Team 2 pitcher (Logan Rogers): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-8
+
+Sean Stevens: rng1 = 67 + 5 - 9 - 1 = 62
+rng2 = 30 + 7 - 6 - 1 = 30
+Groundout
+Team 2 pitcher (Logan Rogers): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-8
+
+-----------------------
+
+BOTTOM INNING 8
+
+Koyama Tsuneo: rng1 = 74 + 14 - 5 + 1 = 84
+rng2 = 72 + 12 - 6 + 1 = 79
+Home run
+Team 1 pitcher (Jayden Cooper): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-9
+
+Kim Tae-Woo: rng1 = 71 + 13 - 5 + 1 = 80
+rng2 = 45 + 13 - 6 + 1 = 53
+Single
+Team 1 pitcher (Jayden Cooper): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 0
+
+base1: [1,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-9
+
+Justus Pate: rng1 = 42 + 12 - 5 + 1 = 50
+rng2 = 63 + 12 - 6 + 1 = 70
+Flyout
+Team 1 pitcher (Jayden Cooper): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: [1,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-9
+
+Jeronimo Maldonado: rng1 = 45 + 8 - 5 + 1 = 49
+rng2 = 96 + 12 - 6 + 1 = 103
+Flyout
+Team 1 pitcher (Jayden Cooper): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [1,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-9
+
+Charles Harris: rng1 = 96 + 8 - 5 + 1 = 100
+rng2 = 35 + 11 - 6 + 1 = 41
+Single
+Team 1 pitcher (Jayden Cooper): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [4,3], base2: [1,3], base3: false
+base1: true, base2: true, base3: false
+Score: 6-9
+
+Team 1 pitcher change to Marquis Haynes
+
+Leonardo Nunez: rng1 = 87 + 11 - 14 + 1 = 85
+rng2 = 50 + 7 - 15 + 1 = 43
+Single
+Team 1 pitcher (Marquis Haynes): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [5,4], base2: false, base3: [4,3]
+base1: true, base2: false, base3: true
+Score: 6-10
+
+Jesús Alarcón: rng1 = 88 + 6 - 14 + 1 = 81
+rng2 = 33 + 10 - 15 + 1 = 29
+Single
+Team 1 pitcher (Marquis Haynes): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: [6,4], base2: [5,4], base3: false
+base1: true, base2: true, base3: false
+Score: 6-11
+
+Adam Marshall: rng1 = 47 + 4 - 14 + 1 = 38
+rng2 = 17 + 9 - 15 + 1 = 12
+Groundout
+Team 1 pitcher (Marquis Haynes): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-11
+
+-----------------------
+
+TOP INNING 9
+
+Felix Alarcón: rng1 = 70 + 6 - 9 - 1 = 66
+rng2 = 11 + 6 - 6 - 1 = 10
+Groundout
+Team 2 pitcher (Logan Rogers): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-11
+
+Cristian Squires: rng1 = 81 + 4 - 9 - 1 = 75
+rng2 = 22 + 6 - 6 - 1 = 21
+Single
+Team 2 pitcher (Logan Rogers): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [7,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-11
+
+Agustín Molina: rng1 = 11 + 4 - 9 - 1 = 5
+Strikeout
+Team 2 pitcher (Logan Rogers): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [7,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-11
+
+Hiro Hakayawa: rng1 = 73 + 13 - 9 - 1 = 76
+rng2 = 57 + 11 - 6 - 1 = 61
+Single
+Team 2 pitcher (Logan Rogers): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [0,3], base2: false, base3: [7,3]
+base1: true, base2: false, base3: true
+Score: 6-11
+
+Guillermo Tamayo: rng1 = 29 + 13 - 9 - 1 = 32
+rng2 = 37 + 6 - 6 - 1 = 36
+Groundout
+Team 2 pitcher (Logan Rogers): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-11
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 10
+Team 2 hits: 19
+Team 1 runs: 6
+Team 2 runs: 11
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-06-05
+Hiro Hakayawa	5	0	1	0	0	0	0	0	0					Colorado
+Guillermo Tamayo	5	1	2	0	0	0	0	0	0	
+Zachary Hughes	3	0	0	0	0	0	0	1	1	
+Micah Zamora	3	1	0	0	0	0	0	1	0	
+Alfredo Encarnacion	4	2	2	2	0	0	2	0	0	
+Sean Stevens	4	0	1	0	0	0	1	0	0	
+Felix Alarcón	4	1	2	0	0	0	1	0	0	
+Cristian Squires	4	1	2	0	0	1	2	0	1	
+Agustín Molina	4	0	0	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Valentín Sánchez	0	1	1	1	0	0	8	10	8	1	0	2	18	
+Amante Harvey	0	0	1	0	0	0	4	1	0	0	0	1	5	
+Julio Carrera	0	0	1	0	0	0	6	2	0	0	1	1	9	
+Jayden Cooper	0	0	1	0	0	0	5	4	3	1	0	1	9	
+Marquis Haynes	0	0	1	0	0	0	1	2	0	0	0	0	3	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-06-05
+Koyama Tsuneo	5	3	4	0	0	2	3	0	0					Tampa Bay
+Kim Tae-Woo	5	2	2	0	0	0	0	0	0	
+Justus Pate	5	0	1	0	0	0	1	0	0	
+Jeronimo Maldonado	5	1	2	0	0	0	0	0	1	
+Charles Harris	5	2	3	1	0	0	2	0	0	
+Leonardo Nunez	5	1	2	0	0	0	1	0	1	
+Jesús Alarcón	5	1	2	0	0	0	2	0	1	
+Adam Marshall	4	1	2	0	0	0	0	1	0	
+Kojima Kunio	4	0	1	0	0	0	2	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Ryan Swanson	1	0	1	1	0	0	9	6	6	1	2	0	16	
+Ignacio Morales	0	0	1	0	0	0	6	0	0	0	0	1	6	
+Boone Almas	0	0	1	0	0	0	6	2	0	0	0	2	8	
+Logan Rogers	0	0	1	0	0	0	6	2	0	0	0	1	8	
+William Sheppard	0	0	0	0	0	0	0	0	0	0	0	0	0	

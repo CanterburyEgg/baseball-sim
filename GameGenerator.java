@@ -223,7 +223,7 @@ public class GameGenerator
 				outs++;	
 			}
 
-			else if ((rng >= 69 && rng <= 71) || (rng >= 87 && rng <= 90))
+			else if ((rng >= 70 && rng <= 72) || (rng >= 87 && rng <= 90))
 			{
 				FullPrintLine("Walk");
 				
@@ -540,7 +540,7 @@ public class GameGenerator
 					}
 				}
 			}
-			else if ((rng >= 11 && rng <= 15) || (rng >= 28 && rng <= 68))
+			else if ((rng >= 11 && rng <= 15) || (rng >= 28 && rng <= 69))
 			{
 				//contact (out)
 				rng = (int)(Math.random()*100)+1;
@@ -1141,7 +1141,7 @@ public class GameGenerator
 					System.exit(0);
 				}
 			}
-			else if ((rng >= 72 && rng <= 85) || (rng >= 91))
+			else if ((rng >= 73 && rng <= 85) || (rng >= 91))
 			{
 				//contact (hit)
 				rng = (int)(Math.random()*100)+1;

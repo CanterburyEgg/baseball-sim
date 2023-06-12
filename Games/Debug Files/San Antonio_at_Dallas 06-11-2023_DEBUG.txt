@@ -1,0 +1,789 @@
+TOP INNING 1
+
+Dylan Marsh: rng1 = 17 + 15 - 9 - 1 = 22
+Strikeout
+Team 2 pitcher (Dylan Werth): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Rubén Indiano: rng1 = 92 + 14 - 9 - 1 = 96
+rng2 = 86 + 14 - 8 - 1 = 91
+Double
+Team 2 pitcher (Dylan Werth): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Rodolfo Mullen: rng1 = 37 + 14 - 9 - 1 = 41
+rng2 = 76 + 14 - 8 - 1 = 81
+Flyout
+Team 2 pitcher (Dylan Werth): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Frankie Bell: rng1 = 35 + 8 - 9 - 1 = 33
+rng2 = 44 + 10 - 8 - 1 = 45
+Groundout
+Team 2 pitcher (Dylan Werth): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Angel Gutiérrez: rng1 = 6 + 15 - 10 + 1 = 12
+rng2 = 29 + 13 - 11 + 1 = 32
+Groundout
+Team 1 pitcher (Evan Wilson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Nick Hamburger: rng1 = 50 + 13 - 10 + 1 = 54
+rng2 = 74 + 14 - 11 + 1 = 78
+Flyout
+Team 1 pitcher (Evan Wilson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Randy Carson: rng1 = 11 + 12 - 10 + 1 = 14
+rng2 = 19 + 11 - 11 + 1 = 20
+Groundout
+Team 1 pitcher (Evan Wilson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Marcelo Francis: rng1 = 7 + 13 - 9 - 1 = 10
+Strikeout
+Team 2 pitcher (Dylan Werth): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jaiden Fortner: rng1 = 92 + 10 - 9 - 1 = 92
+rng2 = 11 + 8 - 8 - 1 = 10
+Single
+Team 2 pitcher (Dylan Werth): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Dominic Gardner: rng1 = 18 + 6 - 9 - 1 = 14
+rng2 = 76 + 5 - 8 - 1 = 72
+Flyout
+Team 2 pitcher (Dylan Werth): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Braylon Summers: rng1 = 35 + 6 - 9 - 1 = 31
+rng2 = 80 + 5 - 8 - 1 = 76
+Flyout
+Team 2 pitcher (Dylan Werth): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Finnegan Maxwell: rng1 = 89 + 15 - 10 + 1 = 95
+rng2 = 61 + 15 - 11 + 1 = 66
+Double
+Team 1 pitcher (Evan Wilson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Bailey Myers-Morgan: rng1 = 15 + 10 - 10 + 1 = 16
+Strikeout
+Team 1 pitcher (Evan Wilson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Casey Myers-Morgan: rng1 = 50 + 9 - 10 + 1 = 50
+rng2 = 62 + 8 - 11 + 1 = 60
+Flyout
+Team 1 pitcher (Evan Wilson): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Emiliano Costa: rng1 = 3 + 7 - 10 + 1 = 1
+Strikeout
+Team 1 pitcher (Evan Wilson): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 3
+
+Juan Bolton: rng1 = 54 + 2 - 9 - 1 = 46
+rng2 = 69 + 7 - 8 - 1 = 67
+Flyout
+Team 2 pitcher (Dylan Werth): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Dylan Marsh: rng1 = 76 + 15 - 9 - 1 = 81
+rng2 = 66 + 15 - 8 - 1 = 72
+Double
+Team 2 pitcher (Dylan Werth): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Rubén Indiano: rng1 = 87 + 14 - 9 - 1 = 91
+rng2 = 18 + 14 - 8 - 1 = 23
+Single
+Team 2 pitcher (Dylan Werth): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Rodolfo Mullen: rng1 = 23 + 14 - 9 - 1 = 27
+Strikeout
+Team 2 pitcher (Dylan Werth): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Frankie Bell: rng1 = 84 + 8 - 9 - 1 = 82
+rng2 = 81 + 10 - 8 - 1 = 82
+Home run
+Team 2 pitcher (Dylan Werth): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Marcelo Francis: rng1 = 82 + 13 - 9 - 1 = 85
+rng2 = 61 + 9 - 8 - 1 = 61
+Single
+Team 2 pitcher (Dylan Werth): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Jaiden Fortner: rng1 = 38 + 10 - 9 - 1 = 38
+rng2 = 54 + 8 - 8 - 1 = 53
+Lineout
+Team 2 pitcher (Dylan Werth): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Alejandro Munoz: rng1 = 54 + 6 - 10 + 1 = 51
+rng2 = 45 + 7 - 11 + 1 = 42
+Groundout
+Team 1 pitcher (Evan Wilson): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Nakazawa Shinji: rng1 = 69 + 2 - 10 + 1 = 62
+rng2 = 27 + 5 - 11 + 1 = 22
+Groundout
+Team 1 pitcher (Evan Wilson): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Angel Gutiérrez: rng1 = 39 + 15 - 10 + 1 = 45
+rng2 = 78 + 13 - 11 + 1 = 81
+Flyout
+Team 1 pitcher (Evan Wilson): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+TOP INNING 4
+
+Dominic Gardner: rng1 = 51 + 6 - 9 - 1 = 47
+rng2 = 81 + 5 - 8 - 1 = 77
+Flyout
+Team 2 pitcher (Dylan Werth): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Braylon Summers: rng1 = 63 + 6 - 9 - 1 = 59
+rng2 = 11 + 5 - 8 - 1 = 7
+Groundout
+Team 2 pitcher (Dylan Werth): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Juan Bolton: rng1 = 37 + 2 - 9 - 1 = 29
+rng2 = 31 + 7 - 8 - 1 = 29
+Groundout
+Team 2 pitcher (Dylan Werth): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 4
+
+Nick Hamburger: rng1 = 81 + 13 - 10 + 1 = 85
+rng2 = 83 + 14 - 11 + 1 = 87
+Double
+Team 1 pitcher (Evan Wilson): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 0
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-0
+
+Randy Carson: rng1 = 59 + 12 - 10 + 1 = 62
+rng2 = 10 + 11 - 11 + 1 = 11
+Groundout
+Team 1 pitcher (Evan Wilson): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-0
+
+Finnegan Maxwell: rng1 = 100 + 15 - 10 + 1 = 106
+rng2 = 95 + 15 - 11 + 1 = 100
+Home run
+Team 1 pitcher (Evan Wilson): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Bailey Myers-Morgan: rng1 = 96 + 10 - 10 + 1 = 97
+rng2 = 19 + 11 - 11 + 1 = 20
+Single
+Team 1 pitcher (Evan Wilson): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Casey Myers-Morgan: rng1 = 25 + 9 - 10 + 1 = 25
+Strikeout
+Team 1 pitcher (Evan Wilson): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Emiliano Costa: rng1 = 76 + 7 - 10 + 1 = 74
+rng2 = 77 + 10 - 11 + 1 = 77
+Double
+Team 1 pitcher (Evan Wilson): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 2
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-3
+
+Alejandro Munoz: rng1 = 29 + 6 - 10 + 1 = 26
+Strikeout
+Team 1 pitcher (Evan Wilson): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+TOP INNING 5
+
+Dylan Marsh: rng1 = 79 + 15 - 9 - 1 = 84
+rng2 = 50 + 15 - 8 - 1 = 56
+Single
+Team 2 pitcher (Dylan Werth): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Rubén Indiano: rng1 = 15 + 14 - 9 - 1 = 19
+Strikeout
+Team 2 pitcher (Dylan Werth): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Rodolfo Mullen: rng1 = 100 + 14 - 9 - 1 = 104
+rng2 = 85 + 14 - 8 - 1 = 90
+Double
+Team 2 pitcher (Dylan Werth): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-3
+
+Frankie Bell: rng1 = 100 + 8 - 9 - 1 = 98
+rng2 = 80 + 10 - 8 - 1 = 81
+Home run
+Team 2 pitcher (Dylan Werth): 22 batters faced, 6 runs allowed = 22 + 15.0 = 37.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Team 2 pitcher change to Sergio Narvaez
+
+Marcelo Francis: rng1 = 13 + 13 - 12 - 1 = 13
+rng2 = 94 + 9 - 11 - 1 = 91
+Flyout
+Team 2 pitcher (Sergio Narvaez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Jaiden Fortner: rng1 = 58 + 10 - 12 - 1 = 55
+rng2 = 79 + 8 - 11 - 1 = 75
+Flyout
+Team 2 pitcher (Sergio Narvaez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-3
+
+-----------------------
+
+BOTTOM INNING 5
+
+Nakazawa Shinji: rng1 = 38 + 2 - 10 + 1 = 31
+rng2 = 65 + 5 - 11 + 1 = 60
+Flyout
+Team 1 pitcher (Evan Wilson): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Angel Gutiérrez: rng1 = 82 + 15 - 10 + 1 = 88
+Walk
+Team 1 pitcher (Evan Wilson): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-3
+
+Nick Hamburger: rng1 = 82 + 13 - 10 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Evan Wilson): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 1
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 6-3
+
+Randy Carson: rng1 = 74 + 12 - 10 + 1 = 77
+rng2 = 65 + 11 - 11 + 1 = 66
+Double
+Team 1 pitcher (Evan Wilson): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 1
+
+base1: false, base2: [2,0], base3: [1,0]
+base1: false, base2: true, base3: true
+Score: 6-4
+
+Finnegan Maxwell: rng1 = 35 + 15 - 10 + 1 = 41
+rng2 = 72 + 15 - 11 + 1 = 77
+Flyout
+Team 1 pitcher (Evan Wilson): 22 batters faced, 4 runs allowed = 22 + 10.0 = 32.0, outs: 2
+
+base1: false, base2: [2,0], base3: [1,0]
+base1: false, base2: true, base3: true
+Score: 6-4
+
+Bailey Myers-Morgan: rng1 = 51 + 10 - 10 + 1 = 52
+rng2 = 99 + 11 - 11 + 1 = 100
+Flyout
+Team 1 pitcher (Evan Wilson): 23 batters faced, 4 runs allowed = 23 + 10.0 = 33.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-4
+
+-----------------------
+
+TOP INNING 6
+
+Dominic Gardner: rng1 = 98 + 6 - 12 - 1 = 91
+rng2 = 71 + 5 - 11 - 1 = 64
+Single
+Team 2 pitcher (Sergio Narvaez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 0
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-4
+
+Braylon Summers: rng1 = 45 + 6 - 12 - 1 = 38
+rng2 = 23 + 5 - 11 - 1 = 16
+Groundout
+Team 2 pitcher (Sergio Narvaez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-4
+
+Juan Bolton: rng1 = 21 + 2 - 12 - 1 = 10
+Strikeout
+Team 2 pitcher (Sergio Narvaez): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-4
+
+Dylan Marsh: rng1 = 26 + 15 - 12 - 1 = 28
+rng2 = 79 + 15 - 11 - 1 = 82
+Flyout
+Team 2 pitcher (Sergio Narvaez): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-4
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Ian Berg
+
+Casey Myers-Morgan: rng1 = 94 + 9 - 11 + 1 = 93
+rng2 = 72 + 8 - 10 + 1 = 71
+Double
+Team 1 pitcher (Ian Berg): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [5,1], base3: false
+base1: false, base2: true, base3: false
+Score: 6-4
+
+Emiliano Costa: rng1 = 41 + 7 - 11 + 1 = 38
+rng2 = 5 + 10 - 10 + 1 = 6
+Groundout
+Team 1 pitcher (Ian Berg): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [5,1], base3: false
+base1: false, base2: true, base3: false
+Score: 6-4
+
+Alejandro Munoz: rng1 = 71 + 6 - 11 + 1 = 67
+rng2 = 58 + 7 - 10 + 1 = 56
+Lineout
+Team 1 pitcher (Ian Berg): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [5,1], base3: false
+base1: false, base2: true, base3: false
+Score: 6-4
+
+Nakazawa Shinji: rng1 = 70 + 2 - 11 + 1 = 62
+rng2 = 45 + 5 - 10 + 1 = 41
+Groundout
+Team 1 pitcher (Ian Berg): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-4
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Douglas Bosak
+
+Rubén Indiano: rng1 = 6 + 14 - 7 - 1 = 12
+rng2 = 46 + 14 - 8 - 1 = 51
+Lineout
+Team 2 pitcher (Douglas Bosak): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Rodolfo Mullen: rng1 = 8 + 14 - 7 - 1 = 14
+rng2 = 58 + 14 - 8 - 1 = 63
+Flyout
+Team 2 pitcher (Douglas Bosak): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Frankie Bell: rng1 = 65 + 8 - 7 - 1 = 65
+rng2 = 5 + 10 - 8 - 1 = 6
+Groundout
+Team 2 pitcher (Douglas Bosak): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-4
+
+-----------------------
+
+BOTTOM INNING 7
+
+Angel Gutiérrez: rng1 = 16 + 15 - 11 + 1 = 21
+Strikeout
+Team 1 pitcher (Ian Berg): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Nick Hamburger: rng1 = 6 + 13 - 11 + 1 = 9
+Strikeout
+Team 1 pitcher (Ian Berg): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Randy Carson: rng1 = 87 + 12 - 11 + 1 = 89
+Walk
+Team 1 pitcher (Ian Berg): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-4
+
+Finnegan Maxwell: rng1 = 98 + 15 - 11 + 1 = 103
+rng2 = 69 + 15 - 10 + 1 = 75
+Double
+Team 1 pitcher (Ian Berg): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: [3,1], base3: false
+base1: false, base2: true, base3: false
+Score: 6-5
+
+Bailey Myers-Morgan: rng1 = 90 + 10 - 11 + 1 = 90
+Walk
+Team 1 pitcher (Ian Berg): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [4,1], base2: [3,1], base3: false
+base1: true, base2: true, base3: false
+Score: 6-5
+
+Team 1 pitcher change to Jackson Peck
+
+Casey Myers-Morgan: rng1 = 44 + 9 - 9 + 1 = 45
+rng2 = 75 + 8 - 7 + 1 = 77
+Flyout
+Team 1 pitcher (Jackson Peck): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-5
+
+-----------------------
+
+TOP INNING 8
+
+Marcelo Francis: rng1 = 35 + 13 - 7 - 1 = 40
+rng2 = 23 + 9 - 8 - 1 = 23
+Groundout
+Team 2 pitcher (Douglas Bosak): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-5
+
+Jaiden Fortner: rng1 = 62 + 10 - 7 - 1 = 64
+rng2 = 100 + 8 - 8 - 1 = 99
+Flyout
+Team 2 pitcher (Douglas Bosak): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-5
+
+Dominic Gardner: rng1 = 1 + 6 - 7 - 1 = -1
+Strikeout
+Team 2 pitcher (Douglas Bosak): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-5
+
+-----------------------
+
+BOTTOM INNING 8
+
+Emiliano Costa: rng1 = 11 + 7 - 9 + 1 = 10
+Strikeout
+Team 1 pitcher (Jackson Peck): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-5
+
+Alejandro Munoz: rng1 = 22 + 6 - 9 + 1 = 20
+Strikeout
+Team 1 pitcher (Jackson Peck): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-5
+
+Nakazawa Shinji: rng1 = 40 + 2 - 9 + 1 = 34
+rng2 = 21 + 5 - 7 + 1 = 20
+Groundout
+Team 1 pitcher (Jackson Peck): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-5
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Armando Negron
+
+Braylon Summers: rng1 = 38 + 6 - 8 - 1 = 35
+rng2 = 52 + 5 - 5 - 1 = 51
+Lineout
+Team 2 pitcher (Armando Negron): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-5
+
+Juan Bolton: rng1 = 79 + 2 - 8 - 1 = 72
+Walk
+Team 2 pitcher (Armando Negron): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [8,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-5
+
+Dylan Marsh: rng1 = 19 + 15 - 8 - 1 = 25
+Strikeout
+Team 2 pitcher (Armando Negron): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [8,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-5
+
+Rubén Indiano: rng1 = 59 + 14 - 8 - 1 = 64
+rng2 = 72 + 14 - 5 - 1 = 80
+Flyout
+Team 2 pitcher (Armando Negron): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-5
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Sakai Tsuneo
+
+Angel Gutiérrez: rng1 = 43 + 15 - 13 + 1 = 46
+rng2 = 80 + 13 - 14 + 1 = 80
+Flyout
+Team 1 pitcher (Sakai Tsuneo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-5
+
+Nick Hamburger: rng1 = 80 + 13 - 13 + 1 = 81
+rng2 = 77 + 14 - 14 + 1 = 78
+Triple
+Team 1 pitcher (Sakai Tsuneo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: [1,4]
+base1: false, base2: false, base3: true
+Score: 6-5
+
+Randy Carson: rng1 = 48 + 12 - 13 + 1 = 48
+rng2 = 81 + 11 - 14 + 1 = 79
+Flyout
+Team 1 pitcher (Sakai Tsuneo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: [1,4]
+base1: false, base2: false, base3: true
+Score: 6-5
+
+Finnegan Maxwell: rng1 = 48 + 15 - 13 + 1 = 51
+rng2 = 66 + 15 - 14 + 1 = 68
+Flyout
+Team 1 pitcher (Sakai Tsuneo): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-5
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 10
+Team 2 hits: 9
+Team 1 runs: 6
+Team 2 runs: 5
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-06-11
+Dylan Marsh	5	2	2	1	0	0	0	0	2					San Antonio
+Rubén Indiano	5	1	2	1	0	0	1	0	1	
+Rodolfo Mullen	4	1	1	1	0	0	1	0	1	
+Frankie Bell	4	2	2	0	0	2	4	0	0	
+Marcelo Francis	4	0	1	0	0	0	0	0	1	
+Jaiden Fortner	4	0	1	0	0	0	0	0	0	
+Dominic Gardner	4	0	1	0	0	0	0	0	1	
+Braylon Summers	4	0	0	0	0	0	0	0	0	
+Juan Bolton	3	0	0	0	0	0	0	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Evan Wilson	1	0	1	1	0	0	15	6	4	1	1	4	23	
+Ian Berg	0	0	1	0	0	0	5	2	1	0	2	2	9	
+Jackson Peck	0	0	1	0	0	0	4	0	0	0	0	2	4	
+Carmelo Dávalos	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Sakai Tsuneo	0	0	1	0	1	1	3	1	0	0	0	0	4	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-06-11
+Angel Gutiérrez	4	1	0	0	0	0	0	1	1					Dallas
+Nick Hamburger	4	1	2	1	1	0	0	0	1	
+Randy Carson	4	1	1	1	0	0	1	1	0	
+Finnegan Maxwell	5	1	3	2	0	1	3	0	0	
+Bailey Myers-Morgan	3	1	1	0	0	0	0	1	1	
+Casey Myers-Morgan	4	0	1	1	0	0	0	0	1	
+Emiliano Costa	4	0	1	1	0	0	1	0	2	
+Alejandro Munoz	4	0	0	0	0	0	0	0	2	
+Nakazawa Shinji	4	0	0	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Dylan Werth	0	1	1	1	0	0	13	9	6	2	0	4	22	
+Sergio Narvaez	0	0	1	0	0	0	5	1	0	0	0	1	6	
+Douglas Bosak	0	0	1	0	0	0	6	0	0	0	0	1	6	
+Armando Negron	0	0	1	0	0	0	3	0	0	0	1	1	4	
+Seno Mashiro	0	0	0	0	0	0	0	0	0	0	0	0	0	

@@ -201,7 +201,7 @@ public class GameGenerator
 			System.out.println(" = " + rng);
 			gameDebug.println(" = " + rng);
 			
-			if (rng <= 10 || (rng >= 16 && rng <= 27))
+			if (rng <= 10 || (rng >= 16 && rng <= 28))
 			{
 				FullPrintLine("Strikeout");
 				
@@ -223,7 +223,7 @@ public class GameGenerator
 				outs++;	
 			}
 
-			else if ((rng >= 70 && rng <= 72) || (rng >= 87 && rng <= 90))
+			else if ((rng >= 71 && rng <= 73) || (rng >= 87 && rng <= 90))
 			{
 				FullPrintLine("Walk");
 				
@@ -540,7 +540,7 @@ public class GameGenerator
 					}
 				}
 			}
-			else if ((rng >= 11 && rng <= 15) || (rng >= 28 && rng <= 69))
+			else if ((rng >= 11 && rng <= 15) || (rng >= 29 && rng <= 70))
 			{
 				//contact (out)
 				rng = (int)(Math.random()*100)+1;
@@ -1141,7 +1141,7 @@ public class GameGenerator
 					System.exit(0);
 				}
 			}
-			else if ((rng >= 73 && rng <= 85) || (rng >= 91))
+			else if ((rng >= 74 && rng <= 85) || (rng >= 91))
 			{
 				//contact (hit)
 				rng = (int)(Math.random()*100)+1;
@@ -1165,7 +1165,7 @@ public class GameGenerator
 				System.out.println(" = " + rng);
 				gameDebug.println(" = " + rng);	
 				
-				if (rng <= 64)
+				if (rng <= 66)
 				{
 					FullPrintLine("Single");
 					
@@ -1618,7 +1618,7 @@ public class GameGenerator
 					}
 				}
 				
-				else if ((rng >= 65 && rng <= 77) || (rng >= 86 && rng <= 92))
+				else if ((rng >= 67 && rng <= 78) || (rng >= 86 && rng <= 92))
 				{
 					FullPrintLine("Double");
 					
@@ -1990,7 +1990,7 @@ public class GameGenerator
 						}
 					}
 				}
-				else if ((rng >= 79 && rng <= 85) || rng >= 94)
+				else if ((rng >= 80 && rng <= 85) || rng >= 94)
 				{
 					FullPrintLine("Home run");
 					
@@ -2264,7 +2264,7 @@ public class GameGenerator
 						}	
 					}
 				}
-				else if (rng == 78 || rng == 93)
+				else if (rng == 79 || rng == 93)
 				{
 					FullPrintLine("Triple");
 					

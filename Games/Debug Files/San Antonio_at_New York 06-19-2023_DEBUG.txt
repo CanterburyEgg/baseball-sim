@@ -1,0 +1,860 @@
+TOP INNING 1
+
+Dylan Marsh: rng1 = 88 + 15 - 9 - 1 = 93
+rng2 = 25 + 15 - 6 - 1 = 33
+Single
+Team 2 pitcher (Sean Wilson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Rubén Indiano: rng1 = 87 + 14 - 9 - 1 = 91
+rng2 = 1 + 14 - 6 - 1 = 8
+Single
+Team 2 pitcher (Sean Wilson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Rodolfo Mullen: rng1 = 50 + 14 - 9 - 1 = 54
+rng2 = 43 + 14 - 6 - 1 = 50
+Lineout
+Team 2 pitcher (Sean Wilson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Frankie Bell: rng1 = 42 + 8 - 9 - 1 = 40
+rng2 = 87 + 10 - 6 - 1 = 90
+Flyout
+Team 2 pitcher (Sean Wilson): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Marcelo Francis: rng1 = 30 + 13 - 9 - 1 = 33
+rng2 = 57 + 9 - 6 - 1 = 59
+Flyout
+Team 2 pitcher (Sean Wilson): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Edward Cox: rng1 = 22 + 13 - 11 + 1 = 25
+Strikeout
+Team 1 pitcher (Maverick McKay): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Nicolás Moruga: rng1 = 69 + 13 - 11 + 1 = 72
+Walk
+Team 1 pitcher (Maverick McKay): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Tristian Love: rng1 = 60 + 13 - 11 + 1 = 63
+rng2 = 35 + 11 - 11 + 1 = 36
+Groundout
+Team 1 pitcher (Maverick McKay): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Aldo Gilmore: rng1 = 18 + 11 - 11 + 1 = 19
+Strikeout
+Team 1 pitcher (Maverick McKay): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 2
+
+Jaiden Fortner: rng1 = 73 + 10 - 9 - 1 = 73
+Walk
+Team 2 pitcher (Sean Wilson): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Dominic Gardner: rng1 = 36 + 6 - 9 - 1 = 32
+rng2 = 65 + 5 - 6 - 1 = 63
+Flyout
+Team 2 pitcher (Sean Wilson): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Braylon Summers: rng1 = 88 + 6 - 9 - 1 = 84
+rng2 = 39 + 5 - 6 - 1 = 37
+Single
+Team 2 pitcher (Sean Wilson): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: [7,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Juan Bolton: rng1 = 65 + 2 - 9 - 1 = 57
+rng2 = 82 + 7 - 6 - 1 = 82
+Flyout
+Team 2 pitcher (Sean Wilson): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [7,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Dylan Marsh: rng1 = 66 + 15 - 9 - 1 = 71
+Walk
+Team 2 pitcher (Sean Wilson): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: [0,0], base2: [7,0], base3: [5,0]
+base1: true, base2: true, base3: true
+Score: 1-0
+
+Rubén Indiano: rng1 = 18 + 14 - 9 - 1 = 22
+Strikeout
+Team 2 pitcher (Sean Wilson): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Javier Guillén: rng1 = 74 + 8 - 11 + 1 = 72
+Walk
+Team 1 pitcher (Maverick McKay): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Lucián Chicote: rng1 = 78 + 10 - 11 + 1 = 78
+rng2 = 95 + 10 - 11 + 1 = 95
+Home run
+Team 1 pitcher (Maverick McKay): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Alexis Shultz: rng1 = 39 + 10 - 11 + 1 = 39
+rng2 = 9 + 9 - 11 + 1 = 8
+Groundout
+Team 1 pitcher (Maverick McKay): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Joaquín Laguna: rng1 = 58 + 6 - 11 + 1 = 54
+rng2 = 67 + 9 - 11 + 1 = 66
+Flyout
+Team 1 pitcher (Maverick McKay): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Francis Alford: rng1 = 98 + 5 - 11 + 1 = 93
+rng2 = 9 + 7 - 11 + 1 = 6
+Single
+Team 1 pitcher (Maverick McKay): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Edward Cox: rng1 = 99 + 13 - 11 + 1 = 102
+rng2 = 97 + 6 - 11 + 1 = 93
+Triple
+Team 1 pitcher (Maverick McKay): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 2
+
+base1: false, base2: false, base3: [0,0]
+base1: false, base2: false, base3: true
+Score: 1-3
+
+Nicolás Moruga: rng1 = 5 + 13 - 11 + 1 = 8
+Strikeout
+Team 1 pitcher (Maverick McKay): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 3
+
+Rodolfo Mullen: rng1 = 78 + 14 - 9 - 1 = 82
+rng2 = 70 + 14 - 6 - 1 = 77
+Double
+Team 2 pitcher (Sean Wilson): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 0
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-3
+
+Frankie Bell: rng1 = 10 + 8 - 9 - 1 = 8
+Strikeout
+Team 2 pitcher (Sean Wilson): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-3
+
+Marcelo Francis: rng1 = 11 + 13 - 9 - 1 = 14
+rng2 = 55 + 9 - 6 - 1 = 57
+Lineout
+Team 2 pitcher (Sean Wilson): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-3
+
+Jaiden Fortner: rng1 = 45 + 10 - 9 - 1 = 45
+rng2 = 37 + 8 - 6 - 1 = 38
+Groundout
+Team 2 pitcher (Sean Wilson): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+BOTTOM INNING 3
+
+Tristian Love: rng1 = 79 + 13 - 11 + 1 = 82
+rng2 = 96 + 11 - 11 + 1 = 97
+Home run
+Team 1 pitcher (Maverick McKay): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Aldo Gilmore: rng1 = 76 + 11 - 11 + 1 = 77
+rng2 = 81 + 12 - 11 + 1 = 83
+Home run
+Team 1 pitcher (Maverick McKay): 13 batters faced, 5 runs allowed = 13 + 12.5 = 25.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Javier Guillén: rng1 = 35 + 8 - 11 + 1 = 33
+rng2 = 19 + 12 - 11 + 1 = 21
+Groundout
+Team 1 pitcher (Maverick McKay): 14 batters faced, 5 runs allowed = 14 + 12.5 = 26.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Lucián Chicote: rng1 = 89 + 10 - 11 + 1 = 89
+Walk
+Team 1 pitcher (Maverick McKay): 15 batters faced, 5 runs allowed = 15 + 12.5 = 27.5, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Alexis Shultz: rng1 = 66 + 10 - 11 + 1 = 66
+rng2 = 45 + 9 - 11 + 1 = 44
+Groundout
+Team 1 pitcher (Maverick McKay): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Joaquín Laguna: rng1 = 18 + 6 - 11 + 1 = 14
+rng2 = 79 + 9 - 11 + 1 = 78
+Flyout
+Team 1 pitcher (Maverick McKay): 17 batters faced, 5 runs allowed = 17 + 12.5 = 29.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+TOP INNING 4
+
+Dominic Gardner: rng1 = 52 + 6 - 9 - 1 = 48
+rng2 = 59 + 5 - 6 - 1 = 57
+Lineout
+Team 2 pitcher (Sean Wilson): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Braylon Summers: rng1 = 54 + 6 - 9 - 1 = 50
+rng2 = 96 + 5 - 6 - 1 = 94
+Flyout
+Team 2 pitcher (Sean Wilson): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Juan Bolton: rng1 = 1 + 2 - 9 - 1 = -7
+Strikeout
+Team 2 pitcher (Sean Wilson): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+BOTTOM INNING 4
+
+Francis Alford: rng1 = 40 + 5 - 11 + 1 = 35
+rng2 = 57 + 7 - 11 + 1 = 54
+Lineout
+Team 1 pitcher (Maverick McKay): 18 batters faced, 5 runs allowed = 18 + 12.5 = 30.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Edward Cox: rng1 = 100 + 13 - 11 + 1 = 103
+rng2 = 36 + 6 - 11 + 1 = 32
+Single
+Team 1 pitcher (Maverick McKay): 19 batters faced, 5 runs allowed = 19 + 12.5 = 31.5, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Nicolás Moruga: rng1 = 86 + 13 - 11 + 1 = 89
+Walk
+Team 1 pitcher (Maverick McKay): 20 batters faced, 5 runs allowed = 20 + 12.5 = 32.5, outs: 1
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-5
+
+Tristian Love: rng1 = 20 + 13 - 11 + 1 = 23
+Strikeout
+Team 1 pitcher (Maverick McKay): 21 batters faced, 5 runs allowed = 21 + 12.5 = 33.5, outs: 2
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-5
+
+Aldo Gilmore: rng1 = 60 + 11 - 11 + 1 = 61
+rng2 = 3 + 12 - 11 + 1 = 5
+Groundout
+Team 1 pitcher (Maverick McKay): 22 batters faced, 5 runs allowed = 22 + 12.5 = 34.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+TOP INNING 5
+
+Dylan Marsh: rng1 = 72 + 15 - 9 - 1 = 77
+rng2 = 80 + 15 - 6 - 1 = 88
+Double
+Team 2 pitcher (Sean Wilson): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 0
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-5
+
+Rubén Indiano: rng1 = 80 + 14 - 9 - 1 = 84
+rng2 = 88 + 14 - 6 - 1 = 95
+Home run
+Team 2 pitcher (Sean Wilson): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Rodolfo Mullen: rng1 = 39 + 14 - 9 - 1 = 43
+rng2 = 63 + 14 - 6 - 1 = 70
+Flyout
+Team 2 pitcher (Sean Wilson): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Frankie Bell: rng1 = 9 + 8 - 9 - 1 = 7
+Strikeout
+Team 2 pitcher (Sean Wilson): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Marcelo Francis: rng1 = 41 + 13 - 9 - 1 = 44
+rng2 = 73 + 9 - 6 - 1 = 75
+Flyout
+Team 2 pitcher (Sean Wilson): 23 batters faced, 3 runs allowed = 23 + 7.5 = 30.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Ian Berg
+
+Javier Guillén: rng1 = 50 + 8 - 11 + 1 = 48
+rng2 = 99 + 12 - 10 + 1 = 102
+Flyout
+Team 1 pitcher (Ian Berg): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Lucián Chicote: rng1 = 89 + 10 - 11 + 1 = 89
+Walk
+Team 1 pitcher (Ian Berg): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-5
+
+Alexis Shultz: rng1 = 43 + 10 - 11 + 1 = 43
+rng2 = 43 + 9 - 10 + 1 = 43
+Groundout
+Team 1 pitcher (Ian Berg): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [5,1], base3: false
+base1: false, base2: true, base3: false
+Score: 3-5
+
+Joaquín Laguna: rng1 = 99 + 6 - 11 + 1 = 95
+rng2 = 67 + 9 - 10 + 1 = 67
+Double
+Team 1 pitcher (Ian Berg): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [7,1], base3: false
+base1: false, base2: true, base3: false
+Score: 3-6
+
+Francis Alford: rng1 = 13 + 5 - 11 + 1 = 8
+Strikeout
+Team 1 pitcher (Ian Berg): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-6
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Trey Hendrickson
+
+Jaiden Fortner: rng1 = 66 + 10 - 14 - 1 = 61
+rng2 = 6 + 8 - 13 - 1 = 0
+Groundout
+Team 2 pitcher (Trey Hendrickson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-6
+
+Dominic Gardner: rng1 = 86 + 6 - 14 - 1 = 77
+rng2 = 52 + 5 - 13 - 1 = 43
+Single
+Team 2 pitcher (Trey Hendrickson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-6
+
+Braylon Summers: rng1 = 94 + 6 - 14 - 1 = 85
+rng2 = 68 + 5 - 13 - 1 = 59
+Single
+Team 2 pitcher (Trey Hendrickson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [7,1], base2: false, base3: [6,1]
+base1: true, base2: false, base3: true
+Score: 3-6
+
+Juan Bolton: rng1 = 78 + 2 - 14 - 1 = 65
+rng2 = 49 + 7 - 13 - 1 = 42
+Groundout
+Team 2 pitcher (Trey Hendrickson): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [7,1], base3: false
+base1: false, base2: true, base3: false
+Score: 4-6
+
+Dylan Marsh: rng1 = 64 + 15 - 14 - 1 = 64
+rng2 = 79 + 15 - 13 - 1 = 80
+Flyout
+Team 2 pitcher (Trey Hendrickson): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-6
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Jackson Peck
+
+Edward Cox: rng1 = 73 + 13 - 9 + 1 = 78
+rng2 = 32 + 6 - 7 + 1 = 32
+Single
+Team 1 pitcher (Jackson Peck): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-6
+
+Nicolás Moruga: rng1 = 77 + 13 - 9 + 1 = 82
+rng2 = 48 + 15 - 7 + 1 = 57
+Single
+Team 1 pitcher (Jackson Peck): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,2], base2: [0,2], base3: false
+base1: true, base2: true, base3: false
+Score: 4-6
+
+Tristian Love: rng1 = 39 + 13 - 9 + 1 = 44
+rng2 = 73 + 11 - 7 + 1 = 78
+Flyout
+Team 1 pitcher (Jackson Peck): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [1,2], base2: [0,2], base3: false
+base1: true, base2: true, base3: false
+Score: 4-6
+
+Aldo Gilmore: rng1 = 96 + 11 - 9 + 1 = 99
+rng2 = 45 + 12 - 7 + 1 = 51
+Single
+Team 1 pitcher (Jackson Peck): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [3,2], base2: false, base3: [1,2]
+base1: true, base2: false, base3: true
+Score: 4-7
+
+Javier Guillén: rng1 = 79 + 8 - 9 + 1 = 79
+rng2 = 32 + 12 - 7 + 1 = 38
+Single
+Team 1 pitcher (Jackson Peck): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 1
+
+base1: [4,2], base2: [3,2], base3: false
+base1: true, base2: true, base3: false
+Score: 4-8
+
+Lucián Chicote: rng1 = 75 + 10 - 9 + 1 = 77
+rng2 = 52 + 10 - 7 + 1 = 56
+Single
+Team 1 pitcher (Jackson Peck): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 1
+
+base1: [5,2], base2: false, base3: [4,2]
+base1: true, base2: false, base3: true
+Score: 4-9
+
+Team 1 pitcher change to Carmelo Dávalos
+
+Alexis Shultz: rng1 = 48 + 10 - 10 + 1 = 49
+rng2 = 69 + 9 - 1 + 1 = 78
+Flyout
+Team 1 pitcher (Carmelo Dávalos): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-10
+
+Joaquín Laguna: rng1 = 49 + 6 - 10 + 1 = 46
+rng2 = 84 + 9 - 1 + 1 = 93
+Flyout
+Team 1 pitcher (Carmelo Dávalos): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-10
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Shane Moran
+
+Rubén Indiano: rng1 = 39 + 14 - 9 - 1 = 43
+rng2 = 73 + 14 - 10 - 1 = 76
+Flyout
+Team 2 pitcher (Shane Moran): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-10
+
+Rodolfo Mullen: rng1 = 38 + 14 - 9 - 1 = 42
+rng2 = 24 + 14 - 10 - 1 = 27
+Groundout
+Team 2 pitcher (Shane Moran): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-10
+
+Frankie Bell: rng1 = 76 + 8 - 9 - 1 = 74
+rng2 = 79 + 10 - 10 - 1 = 78
+Double
+Team 2 pitcher (Shane Moran): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [3,2], base3: false
+base1: false, base2: true, base3: false
+Score: 4-10
+
+Marcelo Francis: rng1 = 75 + 13 - 9 - 1 = 78
+rng2 = 16 + 9 - 10 - 1 = 14
+Single
+Team 2 pitcher (Shane Moran): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-10
+
+Jaiden Fortner: rng1 = 65 + 10 - 9 - 1 = 65
+rng2 = 61 + 8 - 10 - 1 = 58
+Lineout
+Team 2 pitcher (Shane Moran): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-10
+
+-----------------------
+
+BOTTOM INNING 7
+
+Francis Alford: rng1 = 67 + 5 - 10 + 1 = 63
+rng2 = 31 + 7 - 1 + 1 = 38
+Groundout
+Team 1 pitcher (Carmelo Dávalos): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-10
+
+Edward Cox: rng1 = 30 + 13 - 10 + 1 = 34
+rng2 = 54 + 6 - 1 + 1 = 60
+Flyout
+Team 1 pitcher (Carmelo Dávalos): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-10
+
+Nicolás Moruga: rng1 = 83 + 13 - 10 + 1 = 87
+Walk
+Team 1 pitcher (Carmelo Dávalos): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: [1,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-10
+
+Tristian Love: rng1 = 90 + 13 - 10 + 1 = 94
+rng2 = 55 + 11 - 1 + 1 = 66
+Single
+Team 1 pitcher (Carmelo Dávalos): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [2,3], base2: [1,3], base3: false
+base1: true, base2: true, base3: false
+Score: 5-10
+
+Aldo Gilmore: rng1 = 17 + 11 - 10 + 1 = 19
+Strikeout
+Team 1 pitcher (Carmelo Dávalos): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-10
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Johan Cortez
+
+Dominic Gardner: rng1 = 55 + 6 - 8 - 1 = 52
+rng2 = 38 + 5 - 8 - 1 = 34
+Groundout
+Team 2 pitcher (Johan Cortez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-10
+
+Braylon Summers: rng1 = 63 + 6 - 8 - 1 = 60
+rng2 = 49 + 5 - 8 - 1 = 45
+Groundout
+Team 2 pitcher (Johan Cortez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-10
+
+Juan Bolton: rng1 = 83 + 2 - 8 - 1 = 76
+rng2 = 62 + 7 - 8 - 1 = 60
+Single
+Team 2 pitcher (Johan Cortez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [8,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-10
+
+Dylan Marsh: rng1 = 30 + 15 - 8 - 1 = 36
+rng2 = 4 + 15 - 8 - 1 = 10
+Groundout
+Team 2 pitcher (Johan Cortez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-10
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Sakai Tsuneo
+
+Javier Guillén: rng1 = 78 + 8 - 13 + 1 = 74
+rng2 = 4 + 12 - 14 + 1 = 3
+Single
+Team 1 pitcher (Sakai Tsuneo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [4,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-10
+
+Lucián Chicote: rng1 = 91 + 10 - 13 + 1 = 89
+Walk
+Team 1 pitcher (Sakai Tsuneo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [5,4], base2: [4,4], base3: false
+base1: true, base2: true, base3: false
+Score: 5-10
+
+Alexis Shultz: rng1 = 18 + 10 - 13 + 1 = 16
+Strikeout
+Team 1 pitcher (Sakai Tsuneo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [5,4], base2: [4,4], base3: false
+base1: true, base2: true, base3: false
+Score: 5-10
+
+Joaquín Laguna: rng1 = 43 + 6 - 13 + 1 = 37
+rng2 = 64 + 9 - 14 + 1 = 60
+Flyout
+Team 1 pitcher (Sakai Tsuneo): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [5,4], base2: [4,4], base3: false
+base1: true, base2: true, base3: false
+Score: 5-10
+
+Francis Alford: rng1 = 81 + 5 - 13 + 1 = 74
+rng2 = 11 + 7 - 14 + 1 = 5
+Single
+Team 1 pitcher (Sakai Tsuneo): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [8,4], base2: [5,4], base3: false
+base1: true, base2: true, base3: false
+Score: 5-11
+
+Edward Cox: rng1 = 68 + 13 - 13 + 1 = 69
+rng2 = 68 + 6 - 14 + 1 = 61
+Flyout
+Team 1 pitcher (Sakai Tsuneo): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-11
+
+-----------------------
+
+TOP INNING 9
+
+Rubén Indiano: rng1 = 65 + 14 - 8 - 1 = 70
+rng2 = 47 + 14 - 8 - 1 = 52
+Lineout
+Team 2 pitcher (Johan Cortez): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-11
+
+Rodolfo Mullen: rng1 = 75 + 14 - 8 - 1 = 80
+rng2 = 47 + 14 - 8 - 1 = 52
+Single
+Team 2 pitcher (Johan Cortez): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [2,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-11
+
+Frankie Bell: rng1 = 50 + 8 - 8 - 1 = 49
+rng2 = 9 + 10 - 8 - 1 = 10
+Groundout
+Team 2 pitcher (Johan Cortez): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-11
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 12
+Team 2 hits: 15
+Team 1 runs: 5
+Team 2 runs: 11
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-06-19
+Dylan Marsh	4	2	2	1	0	0	0	1	0					San Antonio
+Rubén Indiano	5	1	2	0	0	1	2	0	1	
+Rodolfo Mullen	5	0	2	1	0	0	0	0	0	
+Frankie Bell	5	1	1	1	0	0	1	0	2	
+Marcelo Francis	4	0	1	0	0	0	1	0	0	
+Jaiden Fortner	3	0	0	0	0	0	0	1	0	
+Dominic Gardner	4	1	1	0	0	0	0	0	0	
+Braylon Summers	4	0	2	0	0	0	0	0	0	
+Juan Bolton	4	0	1	0	0	0	1	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Maverick McKay	0	1	1	1	0	0	12	6	5	3	4	4	22	
+Ian Berg	0	0	1	0	0	0	3	1	1	0	1	1	5	
+Jackson Peck	0	0	1	0	0	0	1	5	4	0	0	0	6	
+Carmelo Dávalos	0	0	1	0	0	0	5	1	0	0	1	1	7	
+Sakai Tsuneo	0	0	1	0	0	0	3	2	1	0	1	1	6	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-06-19
+Edward Cox	6	1	3	0	1	0	1	0	1					New York
+Nicolás Moruga	2	1	1	0	0	0	0	3	1	
+Tristian Love	5	1	2	0	0	1	1	0	1	
+Aldo Gilmore	5	2	2	0	0	1	2	0	2	
+Javier Guillén	4	3	2	0	0	0	1	1	0	
+Lucián Chicote	2	2	2	0	0	1	3	3	0	
+Alexis Shultz	5	0	0	0	0	0	1	0	1	
+Joaquín Laguna	5	0	1	1	0	0	1	0	0	
+Francis Alford	5	1	2	0	0	0	1	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Sean Wilson	1	0	1	1	0	0	15	6	3	1	2	4	23	
+Trey Hendrickson	0	0	1	0	0	0	3	2	1	0	0	0	5	
+Shane Moran	0	0	1	0	0	0	3	2	1	0	0	0	5	
+Johan Cortez	0	0	1	0	0	0	6	2	0	0	0	0	7	
+Christopher Jones	0	0	0	0	0	0	0	0	0	0	0	0	0	

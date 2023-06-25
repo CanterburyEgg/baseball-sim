@@ -1,0 +1,824 @@
+TOP INNING 1
+
+Keli Alohilani: rng1 = 97 + 14 - 6 - 1 = 104
+rng2 = 90 + 10 - 5 - 1 = 94
+Home run
+Team 2 pitcher (Hagiwara Taji): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Tomas Canto: rng1 = 68 + 13 - 6 - 1 = 74
+rng2 = 13 + 14 - 5 - 1 = 21
+Single
+Team 2 pitcher (Hagiwara Taji): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Konner Knight: rng1 = 74 + 12 - 6 - 1 = 79
+rng2 = 15 + 5 - 5 - 1 = 14
+Single
+Team 2 pitcher (Hagiwara Taji): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 0
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Jong Jung-Hwa: rng1 = 65 + 11 - 6 - 1 = 69
+rng2 = 5 + 13 - 5 - 1 = 12
+Groundout
+Team 2 pitcher (Hagiwara Taji): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: false, base2: [2,0], base3: [1,0]
+base1: false, base2: true, base3: true
+Score: 1-0
+
+Alonso Medina: rng1 = 55 + 11 - 6 - 1 = 59
+rng2 = 78 + 8 - 5 - 1 = 80
+Flyout
+Team 2 pitcher (Hagiwara Taji): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: false, base2: [2,0], base3: [1,0]
+base1: false, base2: true, base3: true
+Score: 1-0
+
+Jerome Goodwin: rng1 = 23 + 10 - 6 - 1 = 26
+Strikeout
+Team 2 pitcher (Hagiwara Taji): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Hiro Hakayawa: rng1 = 64 + 13 - 5 + 1 = 73
+Walk
+Team 1 pitcher (Jessie Alston): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Guillermo Tamayo: rng1 = 43 + 13 - 5 + 1 = 52
+rng2 = 1 + 6 - 7 + 1 = 1
+Groundout
+Team 1 pitcher (Jessie Alston): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Zachary Hughes: rng1 = 9 + 11 - 5 + 1 = 16
+Strikeout
+Team 1 pitcher (Jessie Alston): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 2
+
+Emmanuel Ramirez: rng1 = 49 + 5 - 6 - 1 = 47
+rng2 = 13 + 6 - 5 - 1 = 13
+Groundout
+Team 2 pitcher (Hagiwara Taji): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Keylon Wilkins: rng1 = 82 + 4 - 6 - 1 = 79
+rng2 = 25 + 6 - 5 - 1 = 25
+Single
+Team 2 pitcher (Hagiwara Taji): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Chwa Jung-Su: rng1 = 85 + 6 - 6 - 1 = 84
+rng2 = 89 + 4 - 5 - 1 = 87
+Double
+Team 2 pitcher (Hagiwara Taji): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 1
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-0
+
+Keli Alohilani: rng1 = 39 + 14 - 6 - 1 = 46
+rng2 = 88 + 10 - 5 - 1 = 92
+Flyout
+Team 2 pitcher (Hagiwara Taji): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 2
+
+base1: false, base2: false, base3: [8,0]
+base1: false, base2: false, base3: true
+Score: 2-0
+
+Tomas Canto: rng1 = 74 + 13 - 6 - 1 = 80
+rng2 = 51 + 14 - 5 - 1 = 59
+Single
+Team 2 pitcher (Hagiwara Taji): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Konner Knight: rng1 = 62 + 12 - 6 - 1 = 67
+rng2 = 45 + 5 - 5 - 1 = 44
+Groundout
+Team 2 pitcher (Hagiwara Taji): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Micah Zamora: rng1 = 16 + 9 - 5 + 1 = 21
+Strikeout
+Team 1 pitcher (Jessie Alston): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Alfredo Encarnacion: rng1 = 91 + 10 - 5 + 1 = 97
+rng2 = 17 + 11 - 7 + 1 = 22
+Single
+Team 1 pitcher (Jessie Alston): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Sean Stevens: rng1 = 40 + 5 - 5 + 1 = 41
+rng2 = 2 + 7 - 7 + 1 = 3
+Groundout
+Team 1 pitcher (Jessie Alston): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-0
+
+Felix Alarcón: rng1 = 13 + 6 - 5 + 1 = 15
+rng2 = 20 + 6 - 7 + 1 = 20
+Groundout
+Team 1 pitcher (Jessie Alston): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+TOP INNING 3
+
+Jong Jung-Hwa: rng1 = 45 + 11 - 6 - 1 = 49
+rng2 = 6 + 13 - 5 - 1 = 13
+Groundout
+Team 2 pitcher (Hagiwara Taji): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Alonso Medina: rng1 = 94 + 11 - 6 - 1 = 98
+rng2 = 48 + 8 - 5 - 1 = 50
+Single
+Team 2 pitcher (Hagiwara Taji): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Jerome Goodwin: rng1 = 24 + 10 - 6 - 1 = 27
+Strikeout
+Team 2 pitcher (Hagiwara Taji): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Emmanuel Ramirez: rng1 = 23 + 5 - 6 - 1 = 21
+Strikeout
+Team 2 pitcher (Hagiwara Taji): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Cristian Squires: rng1 = 84 + 4 - 5 + 1 = 84
+rng2 = 26 + 6 - 7 + 1 = 26
+Single
+Team 1 pitcher (Jessie Alston): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Agustín Molina: rng1 = 53 + 4 - 5 + 1 = 53
+rng2 = 69 + 6 - 7 + 1 = 69
+Flyout
+Team 1 pitcher (Jessie Alston): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Hiro Hakayawa: rng1 = 80 + 13 - 5 + 1 = 89
+Walk
+Team 1 pitcher (Jessie Alston): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: [0,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-0
+
+Guillermo Tamayo: rng1 = 83 + 13 - 5 + 1 = 92
+rng2 = 48 + 6 - 7 + 1 = 48
+Single
+Team 1 pitcher (Jessie Alston): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-1
+
+Zachary Hughes: rng1 = 11 + 11 - 5 + 1 = 18
+Strikeout
+Team 1 pitcher (Jessie Alston): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 2
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-1
+
+Micah Zamora: rng1 = 79 + 9 - 5 + 1 = 84
+rng2 = 2 + 12 - 7 + 1 = 8
+Single
+Team 1 pitcher (Jessie Alston): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 2
+
+base1: [3,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 3-2
+
+Alfredo Encarnacion: rng1 = 70 + 10 - 5 + 1 = 76
+rng2 = 68 + 11 - 7 + 1 = 73
+Double
+Team 1 pitcher (Jessie Alston): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 2
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-4
+
+Sean Stevens: rng1 = 25 + 5 - 5 + 1 = 26
+Strikeout
+Team 1 pitcher (Jessie Alston): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+TOP INNING 4
+
+Keylon Wilkins: rng1 = 65 + 4 - 6 - 1 = 62
+rng2 = 99 + 6 - 5 - 1 = 99
+Flyout
+Team 2 pitcher (Hagiwara Taji): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Chwa Jung-Su: rng1 = 51 + 6 - 6 - 1 = 50
+rng2 = 14 + 4 - 5 - 1 = 12
+Groundout
+Team 2 pitcher (Hagiwara Taji): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Keli Alohilani: rng1 = 25 + 14 - 6 - 1 = 32
+rng2 = 38 + 10 - 5 - 1 = 42
+Groundout
+Team 2 pitcher (Hagiwara Taji): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+BOTTOM INNING 4
+
+Felix Alarcón: rng1 = 71 + 6 - 5 + 1 = 73
+Walk
+Team 1 pitcher (Jessie Alston): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-4
+
+Cristian Squires: rng1 = 48 + 4 - 5 + 1 = 48
+rng2 = 77 + 6 - 7 + 1 = 77
+Flyout
+Team 1 pitcher (Jessie Alston): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-4
+
+Agustín Molina: rng1 = 73 + 4 - 5 + 1 = 73
+Walk
+Team 1 pitcher (Jessie Alston): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 1
+
+base1: [8,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-4
+
+Hiro Hakayawa: rng1 = 91 + 13 - 5 + 1 = 100
+rng2 = 43 + 11 - 7 + 1 = 48
+Single
+Team 1 pitcher (Jessie Alston): 19 batters faced, 5 runs allowed = 19 + 12.5 = 31.5, outs: 1
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-5
+
+Guillermo Tamayo: rng1 = 13 + 13 - 5 + 1 = 22
+Strikeout
+Team 1 pitcher (Jessie Alston): 20 batters faced, 5 runs allowed = 20 + 12.5 = 32.5, outs: 2
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-5
+
+Zachary Hughes: rng1 = 64 + 11 - 5 + 1 = 71
+Walk
+Team 1 pitcher (Jessie Alston): 21 batters faced, 5 runs allowed = 21 + 12.5 = 33.5, outs: 2
+
+base1: [2,0], base2: [0,0], base3: [8,0]
+base1: true, base2: true, base3: true
+Score: 3-5
+
+Micah Zamora: rng1 = 88 + 9 - 5 + 1 = 93
+rng2 = 19 + 12 - 7 + 1 = 25
+Single
+Team 1 pitcher (Jessie Alston): 22 batters faced, 7 runs allowed = 22 + 17.5 = 39.5, outs: 2
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-7
+
+Team 1 pitcher change to Agustin Acosta
+
+Alfredo Encarnacion: rng1 = 68 + 10 - 8 + 1 = 71
+Walk
+Team 1 pitcher (Agustin Acosta): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [4,1], base2: [3,0], base3: [2,0]
+base1: true, base2: true, base3: true
+Score: 3-7
+
+Sean Stevens: rng1 = 15 + 5 - 8 + 1 = 13
+rng2 = 40 + 7 - 12 + 1 = 36
+Groundout
+Team 1 pitcher (Agustin Acosta): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+TOP INNING 5
+
+Tomas Canto: rng1 = 78 + 13 - 6 - 1 = 84
+rng2 = 98 + 14 - 5 - 1 = 106
+Home run
+Team 2 pitcher (Hagiwara Taji): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-7
+
+Konner Knight: rng1 = 91 + 12 - 6 - 1 = 96
+rng2 = 97 + 5 - 5 - 1 = 96
+Home run
+Team 2 pitcher (Hagiwara Taji): 21 batters faced, 5 runs allowed = 21 + 12.5 = 33.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-7
+
+Jong Jung-Hwa: rng1 = 47 + 11 - 6 - 1 = 51
+rng2 = 94 + 13 - 5 - 1 = 101
+Flyout
+Team 2 pitcher (Hagiwara Taji): 22 batters faced, 5 runs allowed = 22 + 12.5 = 34.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-7
+
+Team 2 pitcher change to Julio Carrera
+
+Alonso Medina: rng1 = 31 + 11 - 10 - 1 = 31
+rng2 = 5 + 8 - 8 - 1 = 4
+Groundout
+Team 2 pitcher (Julio Carrera): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-7
+
+Jerome Goodwin: rng1 = 51 + 10 - 10 - 1 = 50
+rng2 = 86 + 8 - 8 - 1 = 85
+Flyout
+Team 2 pitcher (Julio Carrera): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-7
+
+-----------------------
+
+BOTTOM INNING 5
+
+Felix Alarcón: rng1 = 34 + 6 - 8 + 1 = 33
+rng2 = 92 + 6 - 12 + 1 = 87
+Flyout
+Team 1 pitcher (Agustin Acosta): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-7
+
+Cristian Squires: rng1 = 82 + 4 - 8 + 1 = 79
+rng2 = 45 + 6 - 12 + 1 = 40
+Single
+Team 1 pitcher (Agustin Acosta): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-7
+
+Agustín Molina: rng1 = 71 + 4 - 8 + 1 = 68
+rng2 = 26 + 6 - 12 + 1 = 21
+Groundout
+Team 1 pitcher (Agustin Acosta): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: [7,1], base3: false
+base1: false, base2: true, base3: false
+Score: 5-7
+
+Hiro Hakayawa: rng1 = 39 + 13 - 8 + 1 = 45
+rng2 = 94 + 11 - 12 + 1 = 94
+Flyout
+Team 1 pitcher (Agustin Acosta): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-7
+
+-----------------------
+
+TOP INNING 6
+
+Emmanuel Ramirez: rng1 = 53 + 5 - 10 - 1 = 47
+rng2 = 16 + 6 - 8 - 1 = 13
+Groundout
+Team 2 pitcher (Julio Carrera): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-7
+
+Keylon Wilkins: rng1 = 4 + 4 - 10 - 1 = -3
+Strikeout
+Team 2 pitcher (Julio Carrera): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-7
+
+Chwa Jung-Su: rng1 = 44 + 6 - 10 - 1 = 39
+rng2 = 35 + 4 - 8 - 1 = 30
+Groundout
+Team 2 pitcher (Julio Carrera): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-7
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Steve Randles
+
+Guillermo Tamayo: rng1 = 20 + 13 - 12 + 1 = 22
+Strikeout
+Team 1 pitcher (Steve Randles): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-7
+
+Zachary Hughes: rng1 = 84 + 11 - 12 + 1 = 84
+rng2 = 22 + 14 - 9 + 1 = 28
+Single
+Team 1 pitcher (Steve Randles): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-7
+
+Micah Zamora: rng1 = 20 + 9 - 12 + 1 = 18
+Strikeout
+Team 1 pitcher (Steve Randles): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-7
+
+Alfredo Encarnacion: rng1 = 81 + 10 - 12 + 1 = 80
+rng2 = 84 + 11 - 9 + 1 = 87
+Double
+Team 1 pitcher (Steve Randles): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [4,2], base3: false
+base1: false, base2: true, base3: false
+Score: 5-8
+
+Sean Stevens: rng1 = 11 + 5 - 12 + 1 = 5
+Strikeout
+Team 1 pitcher (Steve Randles): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-8
+
+-----------------------
+
+TOP INNING 7
+
+Keli Alohilani: rng1 = 78 + 14 - 10 - 1 = 81
+rng2 = 29 + 10 - 8 - 1 = 30
+Single
+Team 2 pitcher (Julio Carrera): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 0
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-8
+
+Tomas Canto: rng1 = 53 + 13 - 10 - 1 = 55
+rng2 = 41 + 14 - 8 - 1 = 46
+Groundout
+Team 2 pitcher (Julio Carrera): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-8
+
+Konner Knight: rng1 = 46 + 12 - 10 - 1 = 47
+rng2 = 67 + 5 - 8 - 1 = 63
+Flyout
+Team 2 pitcher (Julio Carrera): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-8
+
+Jong Jung-Hwa: rng1 = 100 + 11 - 10 - 1 = 100
+rng2 = 42 + 13 - 8 - 1 = 46
+Single
+Team 2 pitcher (Julio Carrera): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: [3,1], base2: [1,1], base3: false
+base1: true, base2: true, base3: false
+Score: 5-8
+
+Alonso Medina: rng1 = 73 + 11 - 10 - 1 = 73
+Walk
+Team 2 pitcher (Julio Carrera): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: [4,1], base2: [3,1], base3: [1,1]
+base1: true, base2: true, base3: true
+Score: 5-8
+
+Jerome Goodwin: rng1 = 9 + 10 - 10 - 1 = 8
+Strikeout
+Team 2 pitcher (Julio Carrera): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-8
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Rolando Maroto
+
+Felix Alarcón: rng1 = 65 + 6 - 12 + 1 = 60
+rng2 = 11 + 6 - 9 + 1 = 9
+Groundout
+Team 1 pitcher (Rolando Maroto): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-8
+
+Cristian Squires: rng1 = 3 + 4 - 12 + 1 = -4
+Strikeout
+Team 1 pitcher (Rolando Maroto): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-8
+
+Agustín Molina: rng1 = 92 + 4 - 12 + 1 = 85
+rng2 = 73 + 6 - 9 + 1 = 71
+Double
+Team 1 pitcher (Rolando Maroto): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [8,3], base3: false
+base1: false, base2: true, base3: false
+Score: 5-8
+
+Hiro Hakayawa: rng1 = 75 + 13 - 12 + 1 = 77
+rng2 = 28 + 11 - 9 + 1 = 31
+Single
+Team 1 pitcher (Rolando Maroto): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [0,3], base2: false, base3: [8,3]
+base1: true, base2: false, base3: true
+Score: 5-8
+
+Guillermo Tamayo: rng1 = 94 + 13 - 12 + 1 = 96
+rng2 = 100 + 6 - 9 + 1 = 98
+Home run
+Team 1 pitcher (Rolando Maroto): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-11
+
+Zachary Hughes: rng1 = 21 + 11 - 12 + 1 = 21
+Strikeout
+Team 1 pitcher (Rolando Maroto): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-11
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Amante Harvey
+
+Emmanuel Ramirez: rng1 = 78 + 5 - 12 - 1 = 70
+rng2 = 66 + 6 - 10 - 1 = 61
+Flyout
+Team 2 pitcher (Amante Harvey): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-11
+
+Keylon Wilkins: rng1 = 10 + 4 - 12 - 1 = 1
+Strikeout
+Team 2 pitcher (Amante Harvey): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-11
+
+Chwa Jung-Su: rng1 = 45 + 6 - 12 - 1 = 38
+rng2 = 100 + 4 - 10 - 1 = 93
+Flyout
+Team 2 pitcher (Amante Harvey): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-11
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Eduardo Elvira
+
+Micah Zamora: rng1 = 13 + 9 - 14 + 1 = 9
+Strikeout
+Team 1 pitcher (Eduardo Elvira): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-11
+
+Alfredo Encarnacion: rng1 = 79 + 10 - 14 + 1 = 76
+rng2 = 23 + 11 - 12 + 1 = 23
+Single
+Team 1 pitcher (Eduardo Elvira): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [4,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-11
+
+Sean Stevens: rng1 = 77 + 5 - 14 + 1 = 69
+rng2 = 25 + 7 - 12 + 1 = 21
+Groundout
+Team 1 pitcher (Eduardo Elvira): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [4,4], base3: false
+base1: false, base2: true, base3: false
+Score: 5-11
+
+Felix Alarcón: rng1 = 5 + 6 - 14 + 1 = -2
+Strikeout
+Team 1 pitcher (Eduardo Elvira): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-11
+
+-----------------------
+
+TOP INNING 9
+
+Keli Alohilani: rng1 = 43 + 14 - 12 - 1 = 44
+rng2 = 49 + 10 - 10 - 1 = 48
+Lineout
+Team 2 pitcher (Amante Harvey): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-11
+
+Tomas Canto: rng1 = 87 + 13 - 12 - 1 = 87
+Walk
+Team 2 pitcher (Amante Harvey): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-11
+
+Konner Knight: rng1 = 5 + 12 - 12 - 1 = 4
+Strikeout
+Team 2 pitcher (Amante Harvey): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-11
+
+Jong Jung-Hwa: rng1 = 14 + 11 - 12 - 1 = 12
+rng2 = 100 + 13 - 10 - 1 = 102
+Flyout
+Team 2 pitcher (Amante Harvey): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-11
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 11
+Team 2 hits: 14
+Team 1 runs: 5
+Team 2 runs: 11
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-06-24
+Keli Alohilani	5	1	2	0	0	1	1	0	0					Philadelphia
+Tomas Canto	4	1	3	0	0	1	2	1	0	
+Konner Knight	5	1	2	0	0	1	1	0	1	
+Jong Jung-Hwa	5	0	1	0	0	0	0	0	0	
+Alonso Medina	3	0	1	0	0	0	0	1	0	
+Jerome Goodwin	4	0	0	0	0	0	0	0	3	
+Emmanuel Ramirez	4	0	0	0	0	0	0	0	1	
+Keylon Wilkins	4	1	1	0	0	0	0	0	2	
+Chwa Jung-Su	4	1	1	1	0	0	1	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Jessie Alston	0	1	1	1	0	0	11	7	7	0	5	5	22	
+Agustin Acosta	0	0	1	0	0	0	4	1	0	0	1	0	6	
+Steve Randles	0	0	1	0	0	0	3	2	1	0	0	3	5	
+Rolando Maroto	0	0	1	0	0	0	3	3	3	1	0	2	6	
+Eduardo Elvira	0	0	1	0	0	0	3	1	0	0	0	2	4	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-06-24
+Hiro Hakayawa	3	3	2	0	0	0	1	2	0					Colorado
+Guillermo Tamayo	5	2	2	0	0	1	4	0	2	
+Zachary Hughes	4	1	1	0	0	0	0	1	3	
+Micah Zamora	5	1	2	0	0	0	3	0	3	
+Alfredo Encarnacion	4	0	4	2	0	0	3	1	0	
+Sean Stevens	5	0	0	0	0	0	0	0	2	
+Felix Alarcón	4	1	0	0	0	0	0	1	1	
+Cristian Squires	4	1	2	0	0	0	0	0	1	
+Agustín Molina	3	2	1	1	0	0	0	1	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Hagiwara Taji	1	0	1	1	0	0	13	9	5	3	0	3	22	
+Julio Carrera	0	0	1	0	0	0	8	2	0	0	1	2	11	
+Amante Harvey	0	0	1	0	0	0	6	0	0	0	1	2	7	
+Jayden Cooper	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Marquis Haynes	0	0	0	0	0	0	0	0	0	0	0	0	0	

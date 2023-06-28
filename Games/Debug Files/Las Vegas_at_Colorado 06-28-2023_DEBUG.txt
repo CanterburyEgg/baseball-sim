@@ -1,0 +1,752 @@
+TOP INNING 1
+
+George Nagle: rng1 = 49 + 15 - 6 - 1 = 57
+rng2 = 91 + 15 - 5 - 1 = 100
+Flyout
+Team 2 pitcher (Hagiwara Taji): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Antonio Carrera: rng1 = 57 + 13 - 6 - 1 = 63
+rng2 = 76 + 11 - 5 - 1 = 81
+Flyout
+Team 2 pitcher (Hagiwara Taji): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Noah Fontenot: rng1 = 61 + 12 - 6 - 1 = 66
+rng2 = 26 + 7 - 5 - 1 = 27
+Groundout
+Team 2 pitcher (Hagiwara Taji): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Hiro Hakayawa: rng1 = 17 + 13 - 7 + 1 = 24
+Strikeout
+Team 1 pitcher (Kyo Hyun-Woo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Guillermo Tamayo: rng1 = 100 + 13 - 7 + 1 = 107
+rng2 = 17 + 6 - 7 + 1 = 17
+Single
+Team 1 pitcher (Kyo Hyun-Woo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Zachary Hughes: rng1 = 74 + 11 - 7 + 1 = 79
+rng2 = 49 + 14 - 7 + 1 = 57
+Single
+Team 1 pitcher (Kyo Hyun-Woo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Micah Zamora: rng1 = 80 + 9 - 7 + 1 = 83
+rng2 = 2 + 12 - 7 + 1 = 8
+Single
+Team 1 pitcher (Kyo Hyun-Woo): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-1
+
+Alfredo Encarnacion: rng1 = 4 + 10 - 7 + 1 = 8
+Strikeout
+Team 1 pitcher (Kyo Hyun-Woo): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-1
+
+Sean Stevens: rng1 = 58 + 5 - 7 + 1 = 57
+rng2 = 21 + 7 - 7 + 1 = 22
+Groundout
+Team 1 pitcher (Kyo Hyun-Woo): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 2
+
+Jason Burress: rng1 = 45 + 11 - 6 - 1 = 49
+rng2 = 6 + 9 - 5 - 1 = 9
+Groundout
+Team 2 pitcher (Hagiwara Taji): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Bautista Saelices: rng1 = 10 + 9 - 6 - 1 = 12
+rng2 = 17 + 8 - 5 - 1 = 19
+Groundout
+Team 2 pitcher (Hagiwara Taji): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Dante Arias: rng1 = 76 + 10 - 6 - 1 = 79
+rng2 = 99 + 6 - 5 - 1 = 99
+Home run
+Team 2 pitcher (Hagiwara Taji): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Terry Schroeder: rng1 = 16 + 7 - 6 - 1 = 16
+Strikeout
+Team 2 pitcher (Hagiwara Taji): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Felix Alarcón: rng1 = 17 + 6 - 7 + 1 = 17
+Strikeout
+Team 1 pitcher (Kyo Hyun-Woo): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Cristian Squires: rng1 = 57 + 4 - 7 + 1 = 55
+rng2 = 40 + 6 - 7 + 1 = 40
+Groundout
+Team 1 pitcher (Kyo Hyun-Woo): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Agustín Molina: rng1 = 42 + 4 - 7 + 1 = 40
+rng2 = 36 + 6 - 7 + 1 = 36
+Groundout
+Team 1 pitcher (Kyo Hyun-Woo): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 3
+
+Edwin Garcia: rng1 = 35 + 4 - 6 - 1 = 32
+rng2 = 18 + 6 - 5 - 1 = 18
+Groundout
+Team 2 pitcher (Hagiwara Taji): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Efrain Salas: rng1 = 65 + 4 - 6 - 1 = 62
+rng2 = 66 + 5 - 5 - 1 = 65
+Flyout
+Team 2 pitcher (Hagiwara Taji): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+George Nagle: rng1 = 52 + 15 - 6 - 1 = 60
+rng2 = 71 + 15 - 5 - 1 = 80
+Flyout
+Team 2 pitcher (Hagiwara Taji): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Hiro Hakayawa: rng1 = 36 + 13 - 7 + 1 = 43
+rng2 = 72 + 11 - 7 + 1 = 77
+Flyout
+Team 1 pitcher (Kyo Hyun-Woo): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Guillermo Tamayo: rng1 = 13 + 13 - 7 + 1 = 20
+Strikeout
+Team 1 pitcher (Kyo Hyun-Woo): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Zachary Hughes: rng1 = 97 + 11 - 7 + 1 = 102
+rng2 = 5 + 14 - 7 + 1 = 13
+Single
+Team 1 pitcher (Kyo Hyun-Woo): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Micah Zamora: rng1 = 16 + 9 - 7 + 1 = 19
+Strikeout
+Team 1 pitcher (Kyo Hyun-Woo): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 4
+
+Antonio Carrera: rng1 = 30 + 13 - 6 - 1 = 36
+rng2 = 23 + 11 - 5 - 1 = 28
+Groundout
+Team 2 pitcher (Hagiwara Taji): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Noah Fontenot: rng1 = 88 + 12 - 6 - 1 = 93
+rng2 = 63 + 7 - 5 - 1 = 64
+Single
+Team 2 pitcher (Hagiwara Taji): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Jason Burress: rng1 = 23 + 11 - 6 - 1 = 27
+Strikeout
+Team 2 pitcher (Hagiwara Taji): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Bautista Saelices: rng1 = 24 + 9 - 6 - 1 = 26
+Strikeout
+Team 2 pitcher (Hagiwara Taji): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Alfredo Encarnacion: rng1 = 51 + 10 - 7 + 1 = 55
+rng2 = 31 + 11 - 7 + 1 = 36
+Groundout
+Team 1 pitcher (Kyo Hyun-Woo): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Sean Stevens: rng1 = 14 + 5 - 7 + 1 = 13
+rng2 = 5 + 7 - 7 + 1 = 6
+Groundout
+Team 1 pitcher (Kyo Hyun-Woo): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Felix Alarcón: rng1 = 40 + 6 - 7 + 1 = 40
+rng2 = 63 + 6 - 7 + 1 = 63
+Flyout
+Team 1 pitcher (Kyo Hyun-Woo): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 5
+
+Dante Arias: rng1 = 43 + 10 - 6 - 1 = 46
+rng2 = 72 + 6 - 5 - 1 = 72
+Flyout
+Team 2 pitcher (Hagiwara Taji): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Terry Schroeder: rng1 = 29 + 7 - 6 - 1 = 29
+rng2 = 1 + 6 - 5 - 1 = 1
+Groundout
+Team 2 pitcher (Hagiwara Taji): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Edwin Garcia: rng1 = 19 + 4 - 6 - 1 = 16
+Strikeout
+Team 2 pitcher (Hagiwara Taji): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 5
+
+Cristian Squires: rng1 = 64 + 4 - 7 + 1 = 62
+rng2 = 55 + 6 - 7 + 1 = 55
+Lineout
+Team 1 pitcher (Kyo Hyun-Woo): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Agustín Molina: rng1 = 23 + 4 - 7 + 1 = 21
+Strikeout
+Team 1 pitcher (Kyo Hyun-Woo): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Hiro Hakayawa: rng1 = 76 + 13 - 7 + 1 = 83
+rng2 = 44 + 11 - 7 + 1 = 49
+Single
+Team 1 pitcher (Kyo Hyun-Woo): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Guillermo Tamayo: rng1 = 56 + 13 - 7 + 1 = 63
+rng2 = 3 + 6 - 7 + 1 = 3
+Groundout
+Team 1 pitcher (Kyo Hyun-Woo): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 6
+
+Efrain Salas: rng1 = 80 + 4 - 6 - 1 = 77
+rng2 = 28 + 5 - 5 - 1 = 27
+Single
+Team 2 pitcher (Hagiwara Taji): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+George Nagle: rng1 = 74 + 15 - 6 - 1 = 82
+rng2 = 12 + 15 - 5 - 1 = 21
+Single
+Team 2 pitcher (Hagiwara Taji): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 0
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Antonio Carrera: rng1 = 13 + 13 - 6 - 1 = 19
+Strikeout
+Team 2 pitcher (Hagiwara Taji): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 1
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Noah Fontenot: rng1 = 74 + 12 - 6 - 1 = 79
+rng2 = 41 + 7 - 5 - 1 = 42
+Single
+Team 2 pitcher (Hagiwara Taji): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 1
+
+base1: [2,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 2-1
+
+Jason Burress: rng1 = 43 + 11 - 6 - 1 = 47
+rng2 = 79 + 9 - 5 - 1 = 82
+Flyout
+Team 2 pitcher (Hagiwara Taji): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Bautista Saelices: rng1 = 52 + 9 - 6 - 1 = 54
+rng2 = 99 + 8 - 5 - 1 = 101
+Flyout
+Team 2 pitcher (Hagiwara Taji): 23 batters faced, 3 runs allowed = 23 + 7.5 = 30.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+BOTTOM INNING 6
+
+Zachary Hughes: rng1 = 54 + 11 - 7 + 1 = 59
+rng2 = 38 + 14 - 7 + 1 = 46
+Groundout
+Team 1 pitcher (Kyo Hyun-Woo): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Micah Zamora: rng1 = 32 + 9 - 7 + 1 = 35
+rng2 = 57 + 12 - 7 + 1 = 63
+Flyout
+Team 1 pitcher (Kyo Hyun-Woo): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Alfredo Encarnacion: rng1 = 67 + 10 - 7 + 1 = 71
+Walk
+Team 1 pitcher (Kyo Hyun-Woo): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Sean Stevens: rng1 = 87 + 5 - 7 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Kyo Hyun-Woo): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 2
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-1
+
+Felix Alarcón: rng1 = 63 + 6 - 7 + 1 = 63
+rng2 = 20 + 6 - 7 + 1 = 20
+Groundout
+Team 1 pitcher (Kyo Hyun-Woo): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Jayden Cooper
+
+Dante Arias: rng1 = 98 + 10 - 5 - 1 = 102
+rng2 = 51 + 6 - 6 - 1 = 50
+Single
+Team 2 pitcher (Jayden Cooper): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Terry Schroeder: rng1 = 92 + 7 - 5 - 1 = 93
+rng2 = 14 + 6 - 6 - 1 = 13
+Single
+Team 2 pitcher (Jayden Cooper): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [6,1], base2: [5,1], base3: false
+base1: true, base2: true, base3: false
+Score: 3-1
+
+Edwin Garcia: rng1 = 7 + 4 - 5 - 1 = 5
+Strikeout
+Team 2 pitcher (Jayden Cooper): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [6,1], base2: [5,1], base3: false
+base1: true, base2: true, base3: false
+Score: 3-1
+
+Efrain Salas: rng1 = 83 + 4 - 5 - 1 = 81
+rng2 = 30 + 5 - 6 - 1 = 28
+Single
+Team 2 pitcher (Jayden Cooper): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [8,1], base2: [6,1], base3: [5,1]
+base1: true, base2: true, base3: true
+Score: 3-1
+
+George Nagle: rng1 = 39 + 15 - 5 - 1 = 48
+rng2 = 57 + 15 - 6 - 1 = 65
+Flyout
+Team 2 pitcher (Jayden Cooper): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [8,1], base2: [6,1], base3: false
+base1: true, base2: true, base3: false
+Score: 4-1
+
+Antonio Carrera: rng1 = 75 + 13 - 5 - 1 = 82
+rng2 = 61 + 11 - 6 - 1 = 65
+Single
+Team 2 pitcher (Jayden Cooper): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: [1,1], base2: [8,1], base3: false
+base1: true, base2: true, base3: false
+Score: 5-1
+
+Noah Fontenot: rng1 = 1 + 12 - 5 - 1 = 7
+Strikeout
+Team 2 pitcher (Jayden Cooper): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-1
+
+-----------------------
+
+BOTTOM INNING 7
+
+Cristian Squires: rng1 = 56 + 4 - 7 + 1 = 54
+rng2 = 6 + 6 - 7 + 1 = 6
+Groundout
+Team 1 pitcher (Kyo Hyun-Woo): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Agustín Molina: rng1 = 90 + 4 - 7 + 1 = 88
+Walk
+Team 1 pitcher (Kyo Hyun-Woo): 27 batters faced, 1 runs allowed = 27 + 2.5 = 29.5, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-1
+
+Hiro Hakayawa: rng1 = 94 + 13 - 7 + 1 = 101
+rng2 = 32 + 11 - 7 + 1 = 37
+Single
+Team 1 pitcher (Kyo Hyun-Woo): 28 batters faced, 1 runs allowed = 28 + 2.5 = 30.5, outs: 1
+
+base1: [0,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 5-1
+
+Guillermo Tamayo: rng1 = 26 + 13 - 7 + 1 = 33
+rng2 = 36 + 6 - 7 + 1 = 36
+Groundout
+Team 1 pitcher (Kyo Hyun-Woo): 29 batters faced, 1 runs allowed = 29 + 2.5 = 31.5, outs: 2
+
+base1: [1,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 5-1
+
+Zachary Hughes: rng1 = 82 + 11 - 7 + 1 = 87
+Walk
+Team 1 pitcher (Kyo Hyun-Woo): 30 batters faced, 1 runs allowed = 30 + 2.5 = 32.5, outs: 2
+
+base1: [2,0], base2: [1,0], base3: [8,0]
+base1: true, base2: true, base3: true
+Score: 5-1
+
+Micah Zamora: rng1 = 19 + 9 - 7 + 1 = 22
+Strikeout
+Team 1 pitcher (Kyo Hyun-Woo): 31 batters faced, 1 runs allowed = 31 + 2.5 = 33.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-1
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Amante Harvey
+
+Jason Burress: rng1 = 91 + 11 - 12 - 1 = 89
+Walk
+Team 2 pitcher (Amante Harvey): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [3,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-1
+
+Bautista Saelices: rng1 = 10 + 9 - 12 - 1 = 6
+Strikeout
+Team 2 pitcher (Amante Harvey): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [3,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-1
+
+Dante Arias: rng1 = 69 + 10 - 12 - 1 = 66
+rng2 = 91 + 6 - 10 - 1 = 86
+Flyout
+Team 2 pitcher (Amante Harvey): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [3,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-1
+
+Terry Schroeder: rng1 = 7 + 7 - 12 - 1 = 1
+Strikeout
+Team 2 pitcher (Amante Harvey): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-1
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Taylor Murphy
+
+Alfredo Encarnacion: rng1 = 61 + 10 - 15 + 1 = 57
+rng2 = 39 + 11 - 14 + 1 = 37
+Groundout
+Team 1 pitcher (Taylor Murphy): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Sean Stevens: rng1 = 36 + 5 - 15 + 1 = 27
+Strikeout
+Team 1 pitcher (Taylor Murphy): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Felix Alarcón: rng1 = 65 + 6 - 15 + 1 = 57
+rng2 = 11 + 6 - 14 + 1 = 4
+Groundout
+Team 1 pitcher (Taylor Murphy): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-1
+
+-----------------------
+
+TOP INNING 9
+
+Edwin Garcia: rng1 = 21 + 4 - 12 - 1 = 12
+rng2 = 94 + 6 - 10 - 1 = 89
+Flyout
+Team 2 pitcher (Amante Harvey): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Efrain Salas: rng1 = 65 + 4 - 12 - 1 = 56
+rng2 = 26 + 5 - 10 - 1 = 20
+Groundout
+Team 2 pitcher (Amante Harvey): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-1
+
+George Nagle: rng1 = 36 + 15 - 12 - 1 = 38
+rng2 = 78 + 15 - 10 - 1 = 82
+Flyout
+Team 2 pitcher (Amante Harvey): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-1
+
+-----------------------
+
+BOTTOM INNING 9
+
+Cristian Squires: rng1 = 81 + 4 - 15 + 1 = 71
+Walk
+Team 1 pitcher (Taylor Murphy): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-1
+
+Agustín Molina: rng1 = 6 + 4 - 15 + 1 = -4
+Strikeout
+Team 1 pitcher (Taylor Murphy): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-1
+
+Hiro Hakayawa: rng1 = 35 + 13 - 15 + 1 = 34
+rng2 = 82 + 11 - 14 + 1 = 80
+Flyout
+Team 1 pitcher (Taylor Murphy): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-1
+
+Guillermo Tamayo: rng1 = 54 + 13 - 15 + 1 = 53
+rng2 = 48 + 6 - 14 + 1 = 41
+Groundout
+Team 1 pitcher (Taylor Murphy): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-1
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 9
+Team 2 hits: 6
+Team 1 runs: 5
+Team 2 runs: 1
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-06-28
+George Nagle	5	1	1	0	0	0	1	0	0					Las Vegas
+Antonio Carrera	4	0	1	0	0	0	1	0	1	
+Noah Fontenot	4	0	2	0	0	0	1	0	1	
+Jason Burress	3	0	0	0	0	0	1	1	1	
+Bautista Saelices	4	0	0	0	0	0	0	0	2	
+Dante Arias	4	2	2	0	0	1	1	0	0	
+Terry Schroeder	4	1	1	0	0	0	0	0	2	
+Edwin Garcia	4	0	0	0	0	0	0	0	2	
+Efrain Salas	4	1	2	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Kyo Hyun-Woo	1	0	1	1	0	0	21	6	1	0	3	7	31	
+Taylor Murphy	0	0	1	0	0	0	6	0	0	0	1	2	7	
+Rodrigo Valerio	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Phil Segee	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Macos Alguacil	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-06-28
+Hiro Hakayawa	5	0	2	0	0	0	0	0	1					Colorado
+Guillermo Tamayo	5	1	1	0	0	0	0	0	1	
+Zachary Hughes	3	0	2	0	0	0	0	1	0	
+Micah Zamora	4	0	1	0	0	0	1	0	2	
+Alfredo Encarnacion	3	0	0	0	0	0	0	1	1	
+Sean Stevens	3	0	0	0	0	0	0	0	1	
+Felix Alarcón	4	0	0	0	0	0	0	0	1	
+Cristian Squires	3	0	0	0	0	0	0	1	0	
+Agustín Molina	3	0	0	0	0	0	0	1	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Hagiwara Taji	0	1	1	1	0	0	18	5	3	1	0	5	23	
+Jayden Cooper	0	0	1	0	0	0	3	4	2	0	0	2	7	
+Amante Harvey	0	0	1	0	0	0	6	0	0	0	1	2	7	
+Julio Carrera	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Marquis Haynes	0	0	0	0	0	0	0	0	0	0	0	0	0	

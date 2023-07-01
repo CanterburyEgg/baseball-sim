@@ -1,0 +1,740 @@
+TOP INNING 1
+
+George Nagle: rng1 = 54 + 15 - 11 - 1 = 57
+rng2 = 27 + 15 - 10 - 1 = 31
+Groundout
+Team 2 pitcher (Danny Perry): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Antonio Carrera: rng1 = 33 + 13 - 11 - 1 = 34
+rng2 = 91 + 11 - 10 - 1 = 91
+Flyout
+Team 2 pitcher (Danny Perry): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Noah Fontenot: rng1 = 1 + 12 - 11 - 1 = 1
+Strikeout
+Team 2 pitcher (Danny Perry): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Hiro Hakayawa: rng1 = 27 + 13 - 13 + 1 = 28
+Strikeout
+Team 1 pitcher (Jordan Burns): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Guillermo Tamayo: rng1 = 76 + 13 - 13 + 1 = 77
+rng2 = 18 + 6 - 12 + 1 = 13
+Single
+Team 1 pitcher (Jordan Burns): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Zachary Hughes: rng1 = 5 + 11 - 13 + 1 = 4
+Strikeout
+Team 1 pitcher (Jordan Burns): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Micah Zamora: rng1 = 74 + 9 - 13 + 1 = 71
+Walk
+Team 1 pitcher (Jordan Burns): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [3,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Alfredo Encarnacion: rng1 = 29 + 10 - 13 + 1 = 27
+Strikeout
+Team 1 pitcher (Jordan Burns): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Jason Burress: rng1 = 39 + 11 - 11 - 1 = 38
+rng2 = 67 + 9 - 10 - 1 = 65
+Flyout
+Team 2 pitcher (Danny Perry): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Bautista Saelices: rng1 = 83 + 9 - 11 - 1 = 80
+rng2 = 3 + 8 - 10 - 1 = 0
+Single
+Team 2 pitcher (Danny Perry): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Dante Arias: rng1 = 50 + 10 - 11 - 1 = 48
+rng2 = 38 + 6 - 10 - 1 = 33
+Groundout
+Team 2 pitcher (Danny Perry): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Terry Schroeder: rng1 = 80 + 7 - 11 - 1 = 75
+rng2 = 98 + 6 - 10 - 1 = 93
+Triple
+Team 2 pitcher (Danny Perry): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: false, base3: [6,0]
+base1: false, base2: false, base3: true
+Score: 1-0
+
+Edwin Garcia: rng1 = 39 + 4 - 11 - 1 = 31
+rng2 = 70 + 6 - 10 - 1 = 65
+Flyout
+Team 2 pitcher (Danny Perry): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Sean Stevens: rng1 = 58 + 5 - 13 + 1 = 51
+rng2 = 13 + 7 - 12 + 1 = 9
+Groundout
+Team 1 pitcher (Jordan Burns): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Felix Alarcón: rng1 = 14 + 6 - 13 + 1 = 8
+Strikeout
+Team 1 pitcher (Jordan Burns): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Cristian Squires: rng1 = 2 + 4 - 13 + 1 = -6
+Strikeout
+Team 1 pitcher (Jordan Burns): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 3
+
+Efrain Salas: rng1 = 29 + 4 - 11 - 1 = 21
+Strikeout
+Team 2 pitcher (Danny Perry): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+George Nagle: rng1 = 86 + 15 - 11 - 1 = 89
+Walk
+Team 2 pitcher (Danny Perry): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Antonio Carrera: rng1 = 58 + 13 - 11 - 1 = 59
+rng2 = 73 + 11 - 10 - 1 = 73
+Flyout
+Team 2 pitcher (Danny Perry): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Noah Fontenot: rng1 = 96 + 12 - 11 - 1 = 96
+rng2 = 35 + 7 - 10 - 1 = 31
+Single
+Team 2 pitcher (Danny Perry): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 2
+
+base1: [2,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Jason Burress: rng1 = 23 + 11 - 11 - 1 = 22
+Strikeout
+Team 2 pitcher (Danny Perry): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Agustín Molina: rng1 = 96 + 4 - 13 + 1 = 88
+Walk
+Team 1 pitcher (Jordan Burns): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Hiro Hakayawa: rng1 = 23 + 13 - 13 + 1 = 24
+Strikeout
+Team 1 pitcher (Jordan Burns): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Guillermo Tamayo: rng1 = 43 + 13 - 13 + 1 = 44
+rng2 = 37 + 6 - 12 + 1 = 32
+Groundout
+Team 1 pitcher (Jordan Burns): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Zachary Hughes: rng1 = 96 + 11 - 13 + 1 = 95
+rng2 = 80 + 14 - 12 + 1 = 83
+Home run
+Team 1 pitcher (Jordan Burns): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Micah Zamora: rng1 = 63 + 9 - 13 + 1 = 60
+rng2 = 9 + 12 - 12 + 1 = 10
+Groundout
+Team 1 pitcher (Jordan Burns): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 4
+
+Bautista Saelices: rng1 = 51 + 9 - 11 - 1 = 48
+rng2 = 1 + 8 - 10 - 1 = -2
+Groundout
+Team 2 pitcher (Danny Perry): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Dante Arias: rng1 = 6 + 10 - 11 - 1 = 4
+Strikeout
+Team 2 pitcher (Danny Perry): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Terry Schroeder: rng1 = 13 + 7 - 11 - 1 = 8
+Strikeout
+Team 2 pitcher (Danny Perry): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 4
+
+Alfredo Encarnacion: rng1 = 66 + 10 - 13 + 1 = 64
+rng2 = 79 + 11 - 12 + 1 = 79
+Flyout
+Team 1 pitcher (Jordan Burns): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Sean Stevens: rng1 = 44 + 5 - 13 + 1 = 37
+rng2 = 42 + 7 - 12 + 1 = 38
+Groundout
+Team 1 pitcher (Jordan Burns): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Felix Alarcón: rng1 = 57 + 6 - 13 + 1 = 51
+rng2 = 48 + 6 - 12 + 1 = 43
+Groundout
+Team 1 pitcher (Jordan Burns): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 5
+
+Edwin Garcia: rng1 = 95 + 4 - 11 - 1 = 87
+Walk
+Team 2 pitcher (Danny Perry): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Efrain Salas: rng1 = 49 + 4 - 11 - 1 = 41
+rng2 = 66 + 5 - 10 - 1 = 60
+Flyout
+Team 2 pitcher (Danny Perry): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+George Nagle: rng1 = 48 + 15 - 11 - 1 = 51
+rng2 = 87 + 15 - 10 - 1 = 91
+Flyout
+Team 2 pitcher (Danny Perry): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Antonio Carrera: rng1 = 83 + 13 - 11 - 1 = 84
+rng2 = 17 + 11 - 10 - 1 = 17
+Single
+Team 2 pitcher (Danny Perry): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 2
+
+base1: [1,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 1-2
+
+Noah Fontenot: rng1 = 54 + 12 - 11 - 1 = 54
+rng2 = 74 + 7 - 10 - 1 = 70
+Flyout
+Team 2 pitcher (Danny Perry): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 5
+
+Cristian Squires: rng1 = 15 + 4 - 13 + 1 = 7
+Strikeout
+Team 1 pitcher (Jordan Burns): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Agustín Molina: rng1 = 86 + 4 - 13 + 1 = 78
+rng2 = 28 + 6 - 12 + 1 = 23
+Single
+Team 1 pitcher (Jordan Burns): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Hiro Hakayawa: rng1 = 64 + 13 - 13 + 1 = 65
+rng2 = 24 + 11 - 12 + 1 = 24
+Groundout
+Team 1 pitcher (Jordan Burns): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 6
+
+Jason Burress: rng1 = 56 + 11 - 11 - 1 = 55
+rng2 = 43 + 9 - 10 - 1 = 41
+Groundout
+Team 2 pitcher (Danny Perry): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Bautista Saelices: rng1 = 93 + 9 - 11 - 1 = 90
+Walk
+Team 2 pitcher (Danny Perry): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Dante Arias: rng1 = 95 + 10 - 11 - 1 = 93
+rng2 = 32 + 6 - 10 - 1 = 27
+Single
+Team 2 pitcher (Danny Perry): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 1
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-2
+
+Terry Schroeder: rng1 = 52 + 7 - 11 - 1 = 47
+rng2 = 70 + 6 - 10 - 1 = 65
+Flyout
+Team 2 pitcher (Danny Perry): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 2
+
+base1: [5,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 1-2
+
+Edwin Garcia: rng1 = 16 + 4 - 11 - 1 = 8
+Strikeout
+Team 2 pitcher (Danny Perry): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 6
+
+Guillermo Tamayo: rng1 = 49 + 13 - 13 + 1 = 50
+rng2 = 22 + 6 - 12 + 1 = 17
+Groundout
+Team 1 pitcher (Jordan Burns): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Zachary Hughes: rng1 = 98 + 11 - 13 + 1 = 97
+rng2 = 90 + 14 - 12 + 1 = 93
+Triple
+Team 1 pitcher (Jordan Burns): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 1
+
+base1: false, base2: false, base3: [2,0]
+base1: false, base2: false, base3: true
+Score: 1-2
+
+Micah Zamora: rng1 = 86 + 9 - 13 + 1 = 83
+rng2 = 14 + 12 - 12 + 1 = 15
+Single
+Team 1 pitcher (Jordan Burns): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Alfredo Encarnacion: rng1 = 84 + 10 - 13 + 1 = 82
+rng2 = 9 + 11 - 12 + 1 = 9
+Single
+Team 1 pitcher (Jordan Burns): 23 batters faced, 3 runs allowed = 23 + 7.5 = 30.5, outs: 1
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-3
+
+Sean Stevens: rng1 = 99 + 5 - 13 + 1 = 92
+rng2 = 80 + 7 - 12 + 1 = 76
+Double
+Team 1 pitcher (Jordan Burns): 24 batters faced, 5 runs allowed = 24 + 12.5 = 36.5, outs: 1
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-5
+
+Team 1 pitcher change to Taylor Murphy
+
+Felix Alarcón: rng1 = 17 + 6 - 15 + 1 = 9
+Strikeout
+Team 1 pitcher (Taylor Murphy): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-5
+
+Cristian Squires: rng1 = 87 + 4 - 15 + 1 = 77
+rng2 = 15 + 6 - 14 + 1 = 8
+Single
+Team 1 pitcher (Taylor Murphy): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Agustín Molina: rng1 = 48 + 4 - 15 + 1 = 38
+rng2 = 62 + 6 - 14 + 1 = 55
+Lineout
+Team 1 pitcher (Taylor Murphy): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Amante Harvey
+
+Efrain Salas: rng1 = 56 + 4 - 12 - 1 = 47
+rng2 = 55 + 5 - 10 - 1 = 49
+Lineout
+Team 2 pitcher (Amante Harvey): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+George Nagle: rng1 = 68 + 15 - 12 - 1 = 70
+rng2 = 88 + 15 - 10 - 1 = 92
+Flyout
+Team 2 pitcher (Amante Harvey): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Antonio Carrera: rng1 = 85 + 13 - 12 - 1 = 85
+rng2 = 21 + 11 - 10 - 1 = 21
+Single
+Team 2 pitcher (Amante Harvey): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Noah Fontenot: rng1 = 6 + 12 - 12 - 1 = 5
+Strikeout
+Team 2 pitcher (Amante Harvey): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+BOTTOM INNING 7
+
+Hiro Hakayawa: rng1 = 52 + 13 - 15 + 1 = 51
+rng2 = 29 + 11 - 14 + 1 = 27
+Groundout
+Team 1 pitcher (Taylor Murphy): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Guillermo Tamayo: rng1 = 64 + 13 - 15 + 1 = 63
+rng2 = 24 + 6 - 14 + 1 = 17
+Groundout
+Team 1 pitcher (Taylor Murphy): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Zachary Hughes: rng1 = 76 + 11 - 15 + 1 = 73
+Walk
+Team 1 pitcher (Taylor Murphy): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Micah Zamora: rng1 = 29 + 9 - 15 + 1 = 24
+Strikeout
+Team 1 pitcher (Taylor Murphy): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 8
+
+Jason Burress: rng1 = 93 + 11 - 12 - 1 = 91
+rng2 = 76 + 9 - 10 - 1 = 74
+Double
+Team 2 pitcher (Amante Harvey): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: false, base2: [3,1], base3: false
+base1: false, base2: true, base3: false
+Score: 1-6
+
+Bautista Saelices: rng1 = 17 + 9 - 12 - 1 = 13
+rng2 = 40 + 8 - 10 - 1 = 37
+Groundout
+Team 2 pitcher (Amante Harvey): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: [3,1], base3: false
+base1: false, base2: true, base3: false
+Score: 1-6
+
+Dante Arias: rng1 = 57 + 10 - 12 - 1 = 54
+rng2 = 1 + 6 - 10 - 1 = -4
+Groundout
+Team 2 pitcher (Amante Harvey): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: [3,1], base3: false
+base1: false, base2: true, base3: false
+Score: 1-6
+
+Terry Schroeder: rng1 = 37 + 7 - 12 - 1 = 31
+rng2 = 41 + 6 - 10 - 1 = 36
+Groundout
+Team 2 pitcher (Amante Harvey): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Rodrigo Valerio
+
+Alfredo Encarnacion: rng1 = 85 + 10 - 10 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Rodrigo Valerio): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Sean Stevens: rng1 = 23 + 5 - 10 + 1 = 19
+Strikeout
+Team 1 pitcher (Rodrigo Valerio): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Felix Alarcón: rng1 = 15 + 6 - 10 + 1 = 12
+rng2 = 86 + 6 - 9 + 1 = 84
+Flyout
+Team 1 pitcher (Rodrigo Valerio): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Cristian Squires: rng1 = 33 + 4 - 10 + 1 = 28
+Strikeout
+Team 1 pitcher (Rodrigo Valerio): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Jayden Cooper
+
+Edwin Garcia: rng1 = 8 + 4 - 5 - 1 = 6
+Strikeout
+Team 2 pitcher (Jayden Cooper): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Efrain Salas: rng1 = 68 + 4 - 5 - 1 = 66
+rng2 = 67 + 5 - 6 - 1 = 65
+Flyout
+Team 2 pitcher (Jayden Cooper): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+George Nagle: rng1 = 72 + 15 - 5 - 1 = 81
+rng2 = 42 + 15 - 6 - 1 = 50
+Single
+Team 2 pitcher (Jayden Cooper): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Antonio Carrera: rng1 = 75 + 13 - 5 - 1 = 82
+rng2 = 15 + 11 - 6 - 1 = 19
+Single
+Team 2 pitcher (Jayden Cooper): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [1,2], base2: false, base3: [0,2]
+base1: true, base2: false, base3: true
+Score: 1-6
+
+Noah Fontenot: rng1 = 9 + 12 - 5 - 1 = 15
+rng2 = 85 + 7 - 6 - 1 = 85
+Flyout
+Team 2 pitcher (Jayden Cooper): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 9
+Team 2 hits: 8
+Team 1 runs: 1
+Team 2 runs: 6
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-06-30
+George Nagle	4	0	1	0	0	0	0	1	0					Las Vegas
+Antonio Carrera	5	0	3	0	0	0	0	0	0	
+Noah Fontenot	5	0	1	0	0	0	0	0	2	
+Jason Burress	4	0	1	1	0	0	0	0	1	
+Bautista Saelices	3	0	1	0	0	0	0	1	0	
+Dante Arias	4	1	1	0	0	0	0	0	1	
+Terry Schroeder	4	0	1	0	1	0	1	0	1	
+Edwin Garcia	3	0	0	0	0	0	0	1	2	
+Efrain Salas	4	0	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Jordan Burns	0	1	1	1	0	0	16	7	6	1	2	7	24	
+Taylor Murphy	0	0	1	0	0	0	5	1	0	0	1	2	7	
+Rodrigo Valerio	0	0	1	0	0	0	3	0	0	0	0	2	4	
+Phil Segee	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Macos Alguacil	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-06-30
+Hiro Hakayawa	4	0	0	0	0	0	0	0	2					Colorado
+Guillermo Tamayo	4	1	1	0	0	0	0	0	0	
+Zachary Hughes	3	2	2	0	1	1	2	1	1	
+Micah Zamora	3	1	1	0	0	0	1	1	1	
+Alfredo Encarnacion	3	1	1	0	0	0	0	0	1	
+Sean Stevens	4	1	1	1	0	0	2	0	1	
+Felix Alarcón	4	0	0	0	0	0	0	0	2	
+Cristian Squires	4	0	1	0	0	0	1	0	3	
+Agustín Molina	2	0	1	0	0	0	0	1	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Danny Perry	1	0	1	1	0	0	18	5	1	0	3	6	26	
+Amante Harvey	0	0	1	0	0	0	6	2	0	0	0	1	8	
+Jayden Cooper	0	0	1	0	0	0	3	2	0	0	0	1	5	
+Julio Carrera	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Marquis Haynes	0	0	0	0	0	0	0	0	0	0	0	0	0	

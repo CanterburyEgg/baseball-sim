@@ -1,0 +1,780 @@
+TOP INNING 1
+
+Stanley Jackson: rng1 = 39 + 12 - 7 - 1 = 43
+rng2 = 85 + 11 - 5 - 1 = 90
+Flyout
+Team 2 pitcher (Corey Durham): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Andres Fortune: rng1 = 33 + 11 - 7 - 1 = 36
+rng2 = 91 + 12 - 5 - 1 = 97
+Flyout
+Team 2 pitcher (Corey Durham): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Wil Raymond: rng1 = 89 + 11 - 7 - 1 = 92
+rng2 = 86 + 8 - 5 - 1 = 88
+Double
+Team 2 pitcher (Corey Durham): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Alvaro Tavarez: rng1 = 79 + 10 - 7 - 1 = 81
+rng2 = 58 + 11 - 5 - 1 = 63
+Single
+Team 2 pitcher (Corey Durham): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Yoshida Kei: rng1 = 91 + 9 - 7 - 1 = 92
+rng2 = 15 + 8 - 5 - 1 = 17
+Single
+Team 2 pitcher (Corey Durham): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Noah Key: rng1 = 74 + 7 - 7 - 1 = 73
+Walk
+Team 2 pitcher (Corey Durham): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: [5,0], base2: [4,0], base3: [3,0]
+base1: true, base2: true, base3: true
+Score: 1-0
+
+Aaron Pearce: rng1 = 61 + 4 - 7 - 1 = 57
+rng2 = 26 + 8 - 5 - 1 = 28
+Groundout
+Team 2 pitcher (Corey Durham): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Cody McCarthy: rng1 = 2 + 14 - 6 + 1 = 11
+rng2 = 73 + 13 - 5 + 1 = 82
+Flyout
+Team 1 pitcher (Rishard Gibson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Dante Leoz: rng1 = 26 + 13 - 6 + 1 = 34
+rng2 = 82 + 12 - 5 + 1 = 90
+Flyout
+Team 1 pitcher (Rishard Gibson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Randall Hodge: rng1 = 98 + 13 - 6 + 1 = 106
+rng2 = 94 + 9 - 5 + 1 = 99
+Home run
+Team 1 pitcher (Rishard Gibson): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Reuben Sutton: rng1 = 58 + 11 - 6 + 1 = 64
+rng2 = 45 + 12 - 5 + 1 = 53
+Lineout
+Team 1 pitcher (Rishard Gibson): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 2
+
+Santino Reyes: rng1 = 21 + 5 - 7 - 1 = 18
+Strikeout
+Team 2 pitcher (Corey Durham): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Ernesto Gaos: rng1 = 86 + 6 - 7 - 1 = 84
+rng2 = 88 + 4 - 5 - 1 = 86
+Double
+Team 2 pitcher (Corey Durham): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Stanley Jackson: rng1 = 77 + 12 - 7 - 1 = 81
+rng2 = 72 + 11 - 5 - 1 = 77
+Double
+Team 2 pitcher (Corey Durham): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-1
+
+Andres Fortune: rng1 = 24 + 11 - 7 - 1 = 27
+Strikeout
+Team 2 pitcher (Corey Durham): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-1
+
+Wil Raymond: rng1 = 20 + 11 - 7 - 1 = 23
+Strikeout
+Team 2 pitcher (Corey Durham): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Joseph Thayer: rng1 = 44 + 11 - 6 + 1 = 50
+rng2 = 50 + 9 - 5 + 1 = 55
+Lineout
+Team 1 pitcher (Rishard Gibson): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Caden Bryan: rng1 = 14 + 7 - 6 + 1 = 16
+Strikeout
+Team 1 pitcher (Rishard Gibson): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Leon Fraser: rng1 = 92 + 7 - 6 + 1 = 94
+rng2 = 50 + 7 - 5 + 1 = 53
+Single
+Team 1 pitcher (Rishard Gibson): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Marvin Calvert: rng1 = 21 + 4 - 6 + 1 = 20
+Strikeout
+Team 1 pitcher (Rishard Gibson): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+TOP INNING 3
+
+Alvaro Tavarez: rng1 = 11 + 10 - 7 - 1 = 13
+rng2 = 16 + 11 - 5 - 1 = 21
+Groundout
+Team 2 pitcher (Corey Durham): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Yoshida Kei: rng1 = 26 + 9 - 7 - 1 = 27
+Strikeout
+Team 2 pitcher (Corey Durham): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Noah Key: rng1 = 11 + 7 - 7 - 1 = 10
+Strikeout
+Team 2 pitcher (Corey Durham): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Josué Sarmiento: rng1 = 51 + 5 - 6 + 1 = 51
+rng2 = 16 + 5 - 5 + 1 = 17
+Groundout
+Team 1 pitcher (Rishard Gibson): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Cody McCarthy: rng1 = 93 + 14 - 6 + 1 = 102
+rng2 = 79 + 13 - 5 + 1 = 88
+Double
+Team 1 pitcher (Rishard Gibson): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-1
+
+Dante Leoz: rng1 = 63 + 13 - 6 + 1 = 71
+Walk
+Team 1 pitcher (Rishard Gibson): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-1
+
+Randall Hodge: rng1 = 89 + 13 - 6 + 1 = 97
+rng2 = 66 + 9 - 5 + 1 = 71
+Double
+Team 1 pitcher (Rishard Gibson): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-3
+
+Reuben Sutton: rng1 = 37 + 11 - 6 + 1 = 43
+rng2 = 11 + 12 - 5 + 1 = 19
+Groundout
+Team 1 pitcher (Rishard Gibson): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-3
+
+Joseph Thayer: rng1 = 9 + 11 - 6 + 1 = 15
+rng2 = 100 + 9 - 5 + 1 = 105
+Flyout
+Team 1 pitcher (Rishard Gibson): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+TOP INNING 4
+
+Aaron Pearce: rng1 = 87 + 4 - 7 - 1 = 83
+rng2 = 98 + 8 - 5 - 1 = 100
+Home run
+Team 2 pitcher (Corey Durham): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Santino Reyes: rng1 = 74 + 5 - 7 - 1 = 71
+Walk
+Team 2 pitcher (Corey Durham): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Ernesto Gaos: rng1 = 61 + 6 - 7 - 1 = 59
+rng2 = 88 + 4 - 5 - 1 = 86
+Flyout
+Team 2 pitcher (Corey Durham): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Stanley Jackson: rng1 = 94 + 12 - 7 - 1 = 98
+rng2 = 25 + 11 - 5 - 1 = 30
+Single
+Team 2 pitcher (Corey Durham): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 1
+
+base1: [0,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-3
+
+Andres Fortune: rng1 = 87 + 11 - 7 - 1 = 90
+Walk
+Team 2 pitcher (Corey Durham): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 1
+
+base1: [1,0], base2: [0,0], base3: [7,0]
+base1: true, base2: true, base3: true
+Score: 3-3
+
+Wil Raymond: rng1 = 59 + 11 - 7 - 1 = 62
+rng2 = 65 + 8 - 5 - 1 = 67
+Flyout
+Team 2 pitcher (Corey Durham): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 2
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 4-3
+
+Alvaro Tavarez: rng1 = 54 + 10 - 7 - 1 = 56
+rng2 = 27 + 11 - 5 - 1 = 32
+Groundout
+Team 2 pitcher (Corey Durham): 22 batters faced, 4 runs allowed = 22 + 10.0 = 32.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+BOTTOM INNING 4
+
+Caden Bryan: rng1 = 67 + 7 - 6 + 1 = 69
+rng2 = 86 + 11 - 5 + 1 = 93
+Flyout
+Team 1 pitcher (Rishard Gibson): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Leon Fraser: rng1 = 29 + 7 - 6 + 1 = 31
+rng2 = 55 + 7 - 5 + 1 = 58
+Lineout
+Team 1 pitcher (Rishard Gibson): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Marvin Calvert: rng1 = 89 + 4 - 6 + 1 = 88
+Walk
+Team 1 pitcher (Rishard Gibson): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Josué Sarmiento: rng1 = 57 + 5 - 6 + 1 = 57
+rng2 = 83 + 5 - 5 + 1 = 84
+Flyout
+Team 1 pitcher (Rishard Gibson): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+TOP INNING 5
+
+Team 2 pitcher change to Jacob Wallace
+
+Yoshida Kei: rng1 = 6 + 9 - 7 - 1 = 7
+Strikeout
+Team 2 pitcher (Jacob Wallace): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Noah Key: rng1 = 55 + 7 - 7 - 1 = 54
+rng2 = 76 + 7 - 5 - 1 = 77
+Flyout
+Team 2 pitcher (Jacob Wallace): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Aaron Pearce: rng1 = 16 + 4 - 7 - 1 = 12
+rng2 = 41 + 8 - 5 - 1 = 43
+Groundout
+Team 2 pitcher (Jacob Wallace): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+BOTTOM INNING 5
+
+Cody McCarthy: rng1 = 81 + 14 - 6 + 1 = 90
+Walk
+Team 1 pitcher (Rishard Gibson): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Dante Leoz: rng1 = 50 + 13 - 6 + 1 = 58
+rng2 = 41 + 12 - 5 + 1 = 49
+Lineout
+Team 1 pitcher (Rishard Gibson): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Randall Hodge: rng1 = 85 + 13 - 6 + 1 = 93
+rng2 = 21 + 9 - 5 + 1 = 26
+Single
+Team 1 pitcher (Rishard Gibson): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 1
+
+base1: [2,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 4-3
+
+Reuben Sutton: rng1 = 53 + 11 - 6 + 1 = 59
+rng2 = 27 + 12 - 5 + 1 = 35
+Groundout
+Team 1 pitcher (Rishard Gibson): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+TOP INNING 6
+
+Santino Reyes: rng1 = 86 + 5 - 7 - 1 = 83
+rng2 = 86 + 6 - 5 - 1 = 86
+Double
+Team 2 pitcher (Jacob Wallace): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: false, base2: [7,1], base3: false
+base1: false, base2: true, base3: false
+Score: 4-3
+
+Ernesto Gaos: rng1 = 76 + 6 - 7 - 1 = 74
+rng2 = 85 + 4 - 5 - 1 = 83
+Home run
+Team 2 pitcher (Jacob Wallace): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Stanley Jackson: rng1 = 6 + 12 - 7 - 1 = 10
+Strikeout
+Team 2 pitcher (Jacob Wallace): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Andres Fortune: rng1 = 26 + 11 - 7 - 1 = 29
+rng2 = 56 + 12 - 5 - 1 = 62
+Flyout
+Team 2 pitcher (Jacob Wallace): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Wil Raymond: rng1 = 39 + 11 - 7 - 1 = 42
+rng2 = 37 + 8 - 5 - 1 = 39
+Groundout
+Team 2 pitcher (Jacob Wallace): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-3
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Cohen Roman
+
+Joseph Thayer: rng1 = 35 + 11 - 14 + 1 = 33
+rng2 = 37 + 9 - 14 + 1 = 33
+Groundout
+Team 1 pitcher (Cohen Roman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Caden Bryan: rng1 = 14 + 7 - 14 + 1 = 8
+Strikeout
+Team 1 pitcher (Cohen Roman): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Leon Fraser: rng1 = 94 + 7 - 14 + 1 = 88
+Walk
+Team 1 pitcher (Cohen Roman): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-3
+
+Marvin Calvert: rng1 = 46 + 4 - 14 + 1 = 37
+rng2 = 16 + 6 - 14 + 1 = 9
+Groundout
+Team 1 pitcher (Cohen Roman): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-3
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Jorge Pozo
+
+Alvaro Tavarez: rng1 = 11 + 10 - 6 - 1 = 14
+rng2 = 85 + 11 - 5 - 1 = 90
+Flyout
+Team 2 pitcher (Jorge Pozo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Yoshida Kei: rng1 = 45 + 9 - 6 - 1 = 47
+rng2 = 33 + 8 - 5 - 1 = 35
+Groundout
+Team 2 pitcher (Jorge Pozo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Noah Key: rng1 = 93 + 7 - 6 - 1 = 93
+rng2 = 18 + 7 - 5 - 1 = 19
+Single
+Team 2 pitcher (Jorge Pozo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-3
+
+Aaron Pearce: rng1 = 6 + 4 - 6 - 1 = 3
+Strikeout
+Team 2 pitcher (Jorge Pozo): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-3
+
+-----------------------
+
+BOTTOM INNING 7
+
+Josué Sarmiento: rng1 = 79 + 5 - 14 + 1 = 71
+Walk
+Team 1 pitcher (Cohen Roman): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-3
+
+Cody McCarthy: rng1 = 77 + 14 - 14 + 1 = 78
+rng2 = 79 + 13 - 14 + 1 = 79
+Triple
+Team 1 pitcher (Cohen Roman): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 0
+
+base1: false, base2: false, base3: [0,1]
+base1: false, base2: false, base3: true
+Score: 6-4
+
+Dante Leoz: rng1 = 70 + 13 - 14 + 1 = 70
+rng2 = 83 + 12 - 14 + 1 = 82
+Flyout
+Team 1 pitcher (Cohen Roman): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-5
+
+Randall Hodge: rng1 = 18 + 13 - 14 + 1 = 18
+Strikeout
+Team 1 pitcher (Cohen Roman): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-5
+
+Team 1 pitcher change to Reuben Watson
+
+Reuben Sutton: rng1 = 37 + 11 - 10 + 1 = 39
+rng2 = 87 + 12 - 10 + 1 = 90
+Flyout
+Team 1 pitcher (Reuben Watson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-5
+
+-----------------------
+
+TOP INNING 8
+
+Santino Reyes: rng1 = 99 + 5 - 6 - 1 = 97
+rng2 = 35 + 6 - 5 - 1 = 35
+Single
+Team 2 pitcher (Jorge Pozo): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-5
+
+Ernesto Gaos: rng1 = 80 + 6 - 6 - 1 = 79
+rng2 = 15 + 4 - 5 - 1 = 13
+Single
+Team 2 pitcher (Jorge Pozo): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 0
+
+base1: [8,2], base2: [7,2], base3: false
+base1: true, base2: true, base3: false
+Score: 6-5
+
+Stanley Jackson: rng1 = 59 + 12 - 6 - 1 = 64
+rng2 = 43 + 11 - 5 - 1 = 48
+Lineout
+Team 2 pitcher (Jorge Pozo): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [8,2], base2: [7,2], base3: false
+base1: true, base2: true, base3: false
+Score: 6-5
+
+Andres Fortune: rng1 = 13 + 11 - 6 - 1 = 17
+Strikeout
+Team 2 pitcher (Jorge Pozo): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [8,2], base2: [7,2], base3: false
+base1: true, base2: true, base3: false
+Score: 6-5
+
+Wil Raymond: rng1 = 20 + 11 - 6 - 1 = 24
+Strikeout
+Team 2 pitcher (Jorge Pozo): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-5
+
+-----------------------
+
+BOTTOM INNING 8
+
+Joseph Thayer: rng1 = 44 + 11 - 10 + 1 = 46
+rng2 = 58 + 9 - 10 + 1 = 58
+Lineout
+Team 1 pitcher (Reuben Watson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-5
+
+Caden Bryan: rng1 = 83 + 7 - 10 + 1 = 81
+rng2 = 56 + 11 - 10 + 1 = 58
+Single
+Team 1 pitcher (Reuben Watson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-5
+
+Leon Fraser: rng1 = 46 + 7 - 10 + 1 = 44
+rng2 = 65 + 7 - 10 + 1 = 63
+Flyout
+Team 1 pitcher (Reuben Watson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-5
+
+Marvin Calvert: rng1 = 81 + 4 - 10 + 1 = 76
+rng2 = 99 + 6 - 10 + 1 = 96
+Home run
+Team 1 pitcher (Reuben Watson): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-7
+
+Josué Sarmiento: rng1 = 35 + 5 - 10 + 1 = 31
+rng2 = 7 + 5 - 10 + 1 = 3
+Groundout
+Team 1 pitcher (Reuben Watson): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-7
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Isaac Wilson
+
+Alvaro Tavarez: rng1 = 30 + 10 - 14 - 1 = 25
+Strikeout
+Team 2 pitcher (Isaac Wilson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-7
+
+Yoshida Kei: rng1 = 53 + 9 - 14 - 1 = 47
+rng2 = 13 + 8 - 15 - 1 = 5
+Groundout
+Team 2 pitcher (Isaac Wilson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-7
+
+Noah Key: rng1 = 5 + 7 - 14 - 1 = -3
+Strikeout
+Team 2 pitcher (Isaac Wilson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-7
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 12
+Team 2 hits: 8
+Team 1 runs: 6
+Team 2 runs: 7
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-07-02
+Stanley Jackson	5	0	2	1	0	0	1	0	1					Kansas City
+Andres Fortune	4	0	0	0	0	0	0	1	2	
+Wil Raymond	5	1	1	1	0	0	1	0	2	
+Alvaro Tavarez	5	0	1	0	0	0	1	0	1	
+Yoshida Kei	5	0	1	0	0	0	0	0	2	
+Noah Key	4	0	1	0	0	0	0	1	2	
+Aaron Pearce	4	1	1	0	0	1	1	0	1	
+Santino Reyes	3	2	2	1	0	0	0	1	1	
+Ernesto Gaos	4	2	3	1	0	1	2	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Rishard Gibson	0	0	1	1	0	0	15	5	3	1	3	2	22	
+Cohen Roman	0	0	1	0	0	0	5	1	2	0	2	2	8	
+Reuben Watson	0	1	1	0	0	0	4	2	2	1	0	0	6	
+Aden Lowery	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Phoenix Deleon	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-07-02
+Cody McCarthy	3	2	2	1	1	0	1	1	0					Detroit
+Dante Leoz	3	1	0	0	0	0	1	1	0	
+Randall Hodge	4	1	3	1	0	1	3	0	1	
+Reuben Sutton	4	0	0	0	0	0	0	0	0	
+Joseph Thayer	4	0	0	0	0	0	0	0	0	
+Caden Bryan	4	1	1	0	0	0	0	0	2	
+Leon Fraser	3	0	1	0	0	0	0	1	0	
+Marvin Calvert	3	1	1	0	0	1	2	1	1	
+Josué Sarmiento	3	1	0	0	0	0	0	1	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Corey Durham	0	0	1	1	0	0	12	7	4	1	3	5	22	
+Jacob Wallace	0	0	1	0	0	0	6	2	2	1	0	2	8	
+Jorge Pozo	1	0	1	0	0	0	6	3	0	0	0	3	9	
+Hanley Harper	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Isaac Wilson	0	0	1	0	1	1	3	0	0	0	0	2	3	

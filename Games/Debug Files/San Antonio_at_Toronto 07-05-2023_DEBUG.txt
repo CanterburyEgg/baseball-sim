@@ -1,0 +1,860 @@
+TOP INNING 1
+
+Dylan Marsh: rng1 = 93 + 15 - 9 - 1 = 98
+rng2 = 77 + 15 - 10 - 1 = 81
+Home run
+Team 2 pitcher (Theo Thomson): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Rubén Indiano: rng1 = 13 + 14 - 9 - 1 = 17
+Strikeout
+Team 2 pitcher (Theo Thomson): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Rodolfo Mullen: rng1 = 60 + 14 - 9 - 1 = 64
+rng2 = 87 + 14 - 10 - 1 = 90
+Flyout
+Team 2 pitcher (Theo Thomson): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Frankie Bell: rng1 = 91 + 8 - 9 - 1 = 89
+Walk
+Team 2 pitcher (Theo Thomson): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Marcelo Francis: rng1 = 19 + 13 - 9 - 1 = 22
+Strikeout
+Team 2 pitcher (Theo Thomson): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Isaac Morris: rng1 = 67 + 15 - 11 + 1 = 72
+Walk
+Team 1 pitcher (Maverick McKay): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Yorell Harmon: rng1 = 38 + 14 - 11 + 1 = 42
+rng2 = 24 + 15 - 11 + 1 = 29
+Groundout
+Team 1 pitcher (Maverick McKay): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Angel Semprún: rng1 = 53 + 12 - 11 + 1 = 55
+rng2 = 65 + 9 - 11 + 1 = 64
+Flyout
+Team 1 pitcher (Maverick McKay): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Trey Walter: rng1 = 24 + 11 - 11 + 1 = 25
+Strikeout
+Team 1 pitcher (Maverick McKay): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 2
+
+Jaiden Fortner: rng1 = 47 + 10 - 9 - 1 = 47
+rng2 = 34 + 8 - 10 - 1 = 31
+Groundout
+Team 2 pitcher (Theo Thomson): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Dominic Gardner: rng1 = 2 + 6 - 9 - 1 = -2
+Strikeout
+Team 2 pitcher (Theo Thomson): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Braylon Summers: rng1 = 59 + 6 - 9 - 1 = 55
+rng2 = 49 + 5 - 10 - 1 = 43
+Groundout
+Team 2 pitcher (Theo Thomson): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Gary Miller: rng1 = 51 + 7 - 11 + 1 = 48
+rng2 = 55 + 9 - 11 + 1 = 54
+Lineout
+Team 1 pitcher (Maverick McKay): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Francisco Illescas: rng1 = 85 + 6 - 11 + 1 = 81
+rng2 = 78 + 5 - 11 + 1 = 73
+Double
+Team 1 pitcher (Maverick McKay): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Ivan Cruz: rng1 = 80 + 3 - 11 + 1 = 73
+Walk
+Team 1 pitcher (Maverick McKay): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Drew Nelson: rng1 = 33 + 6 - 11 + 1 = 29
+rng2 = 82 + 4 - 11 + 1 = 76
+Flyout
+Team 1 pitcher (Maverick McKay): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Kugo Ryutaro: rng1 = 88 + 6 - 11 + 1 = 84
+rng2 = 11 + 3 - 11 + 1 = 4
+Single
+Team 1 pitcher (Maverick McKay): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [8,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 1-1
+
+Isaac Morris: rng1 = 96 + 15 - 11 + 1 = 101
+rng2 = 93 + 15 - 11 + 1 = 98
+Home run
+Team 1 pitcher (Maverick McKay): 10 batters faced, 4 runs allowed = 10 + 10.0 = 20.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Yorell Harmon: rng1 = 23 + 14 - 11 + 1 = 27
+Strikeout
+Team 1 pitcher (Maverick McKay): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+TOP INNING 3
+
+Juan Bolton: rng1 = 13 + 2 - 9 - 1 = 5
+Strikeout
+Team 2 pitcher (Theo Thomson): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Dylan Marsh: rng1 = 43 + 15 - 9 - 1 = 48
+rng2 = 63 + 15 - 10 - 1 = 67
+Flyout
+Team 2 pitcher (Theo Thomson): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Rubén Indiano: rng1 = 76 + 14 - 9 - 1 = 80
+rng2 = 94 + 14 - 10 - 1 = 97
+Home run
+Team 2 pitcher (Theo Thomson): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Rodolfo Mullen: rng1 = 23 + 14 - 9 - 1 = 27
+Strikeout
+Team 2 pitcher (Theo Thomson): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-4
+
+-----------------------
+
+BOTTOM INNING 3
+
+Angel Semprún: rng1 = 33 + 12 - 11 + 1 = 35
+rng2 = 93 + 9 - 11 + 1 = 92
+Flyout
+Team 1 pitcher (Maverick McKay): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Trey Walter: rng1 = 17 + 11 - 11 + 1 = 18
+Strikeout
+Team 1 pitcher (Maverick McKay): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Gary Miller: rng1 = 58 + 7 - 11 + 1 = 55
+rng2 = 4 + 9 - 11 + 1 = 3
+Groundout
+Team 1 pitcher (Maverick McKay): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-4
+
+-----------------------
+
+TOP INNING 4
+
+Frankie Bell: rng1 = 50 + 8 - 9 - 1 = 48
+rng2 = 31 + 10 - 10 - 1 = 30
+Groundout
+Team 2 pitcher (Theo Thomson): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Marcelo Francis: rng1 = 77 + 13 - 9 - 1 = 80
+rng2 = 49 + 9 - 10 - 1 = 47
+Single
+Team 2 pitcher (Theo Thomson): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-4
+
+Jaiden Fortner: rng1 = 67 + 10 - 9 - 1 = 67
+rng2 = 17 + 8 - 10 - 1 = 14
+Groundout
+Team 2 pitcher (Theo Thomson): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-4
+
+-----------------------
+
+BOTTOM INNING 4
+
+Francisco Illescas: rng1 = 59 + 6 - 11 + 1 = 55
+rng2 = 13 + 5 - 11 + 1 = 8
+Groundout
+Team 1 pitcher (Maverick McKay): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Ivan Cruz: rng1 = 76 + 3 - 11 + 1 = 69
+rng2 = 29 + 7 - 11 + 1 = 26
+Groundout
+Team 1 pitcher (Maverick McKay): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Drew Nelson: rng1 = 73 + 6 - 11 + 1 = 69
+rng2 = 12 + 4 - 11 + 1 = 6
+Groundout
+Team 1 pitcher (Maverick McKay): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-4
+
+-----------------------
+
+TOP INNING 5
+
+Dominic Gardner: rng1 = 58 + 6 - 9 - 1 = 54
+rng2 = 84 + 5 - 10 - 1 = 78
+Flyout
+Team 2 pitcher (Theo Thomson): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Braylon Summers: rng1 = 61 + 6 - 9 - 1 = 57
+rng2 = 49 + 5 - 10 - 1 = 43
+Groundout
+Team 2 pitcher (Theo Thomson): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Juan Bolton: rng1 = 20 + 2 - 9 - 1 = 12
+rng2 = 69 + 7 - 10 - 1 = 65
+Flyout
+Team 2 pitcher (Theo Thomson): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-4
+
+-----------------------
+
+BOTTOM INNING 5
+
+Kugo Ryutaro: rng1 = 93 + 6 - 11 + 1 = 89
+Walk
+Team 1 pitcher (Maverick McKay): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-4
+
+Isaac Morris: rng1 = 91 + 15 - 11 + 1 = 96
+rng2 = 38 + 15 - 11 + 1 = 43
+Single
+Team 1 pitcher (Maverick McKay): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 0
+
+base1: [0,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 2-4
+
+Yorell Harmon: rng1 = 55 + 14 - 11 + 1 = 59
+rng2 = 91 + 15 - 11 + 1 = 96
+Flyout
+Team 1 pitcher (Maverick McKay): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 1
+
+base1: [0,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 2-4
+
+Angel Semprún: rng1 = 70 + 12 - 11 + 1 = 72
+Walk
+Team 1 pitcher (Maverick McKay): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 1
+
+base1: [2,0], base2: [0,0], base3: [8,0]
+base1: true, base2: true, base3: true
+Score: 2-4
+
+Trey Walter: rng1 = 79 + 11 - 11 + 1 = 80
+rng2 = 88 + 10 - 11 + 1 = 88
+Double
+Team 1 pitcher (Maverick McKay): 22 batters faced, 7 runs allowed = 22 + 17.5 = 39.5, outs: 1
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-7
+
+Team 1 pitcher change to Ian Berg
+
+Gary Miller: rng1 = 7 + 7 - 11 + 1 = 4
+Strikeout
+Team 1 pitcher (Ian Berg): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-7
+
+Francisco Illescas: rng1 = 35 + 6 - 11 + 1 = 31
+rng2 = 19 + 5 - 10 + 1 = 15
+Groundout
+Team 1 pitcher (Ian Berg): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-7
+
+-----------------------
+
+TOP INNING 6
+
+Dylan Marsh: rng1 = 18 + 15 - 9 - 1 = 23
+Strikeout
+Team 2 pitcher (Theo Thomson): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Rubén Indiano: rng1 = 46 + 14 - 9 - 1 = 50
+rng2 = 33 + 14 - 10 - 1 = 36
+Groundout
+Team 2 pitcher (Theo Thomson): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Rodolfo Mullen: rng1 = 95 + 14 - 9 - 1 = 99
+rng2 = 50 + 14 - 10 - 1 = 53
+Single
+Team 2 pitcher (Theo Thomson): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-7
+
+Frankie Bell: rng1 = 86 + 8 - 9 - 1 = 84
+rng2 = 25 + 10 - 10 - 1 = 24
+Single
+Team 2 pitcher (Theo Thomson): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 2
+
+base1: [3,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 2-7
+
+Marcelo Francis: rng1 = 95 + 13 - 9 - 1 = 98
+rng2 = 69 + 9 - 10 - 1 = 67
+Double
+Team 2 pitcher (Theo Thomson): 23 batters faced, 3 runs allowed = 23 + 7.5 = 30.5, outs: 2
+
+base1: false, base2: [4,0], base3: [3,0]
+base1: false, base2: true, base3: true
+Score: 3-7
+
+Jaiden Fortner: rng1 = 87 + 10 - 9 - 1 = 87
+Walk
+Team 2 pitcher (Theo Thomson): 24 batters faced, 3 runs allowed = 24 + 7.5 = 31.5, outs: 2
+
+base1: [5,0], base2: [4,0], base3: [3,0]
+base1: true, base2: true, base3: true
+Score: 3-7
+
+Dominic Gardner: rng1 = 91 + 6 - 9 - 1 = 87
+Walk
+Team 2 pitcher (Theo Thomson): 25 batters faced, 4 runs allowed = 25 + 10.0 = 35.0, outs: 2
+
+base1: [6,0], base2: [5,0], base3: [4,0]
+base1: true, base2: true, base3: true
+Score: 4-7
+
+Team 2 pitcher change to Sammie Starr
+
+Braylon Summers: rng1 = 74 + 6 - 10 - 1 = 69
+rng2 = 3 + 5 - 10 - 1 = -3
+Groundout
+Team 2 pitcher (Sammie Starr): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-7
+
+-----------------------
+
+BOTTOM INNING 6
+
+Ivan Cruz: rng1 = 47 + 3 - 11 + 1 = 40
+rng2 = 60 + 7 - 10 + 1 = 58
+Lineout
+Team 1 pitcher (Ian Berg): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-7
+
+Drew Nelson: rng1 = 77 + 6 - 11 + 1 = 73
+Walk
+Team 1 pitcher (Ian Berg): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-7
+
+Kugo Ryutaro: rng1 = 89 + 6 - 11 + 1 = 85
+rng2 = 20 + 3 - 10 + 1 = 14
+Single
+Team 1 pitcher (Ian Berg): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [8,1], base2: false, base3: [7,1]
+base1: true, base2: false, base3: true
+Score: 4-7
+
+Isaac Morris: rng1 = 21 + 15 - 11 + 1 = 26
+Strikeout
+Team 1 pitcher (Ian Berg): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [8,1], base2: false, base3: [7,1]
+base1: true, base2: false, base3: true
+Score: 4-7
+
+Yorell Harmon: rng1 = 40 + 14 - 11 + 1 = 44
+rng2 = 80 + 15 - 10 + 1 = 86
+Flyout
+Team 1 pitcher (Ian Berg): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-7
+
+-----------------------
+
+TOP INNING 7
+
+Juan Bolton: rng1 = 23 + 2 - 10 - 1 = 14
+rng2 = 74 + 7 - 10 - 1 = 70
+Flyout
+Team 2 pitcher (Sammie Starr): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-7
+
+Dylan Marsh: rng1 = 74 + 15 - 10 - 1 = 78
+rng2 = 23 + 15 - 10 - 1 = 27
+Single
+Team 2 pitcher (Sammie Starr): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-7
+
+Rubén Indiano: rng1 = 4 + 14 - 10 - 1 = 7
+Strikeout
+Team 2 pitcher (Sammie Starr): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-7
+
+Rodolfo Mullen: rng1 = 19 + 14 - 10 - 1 = 22
+Strikeout
+Team 2 pitcher (Sammie Starr): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-7
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Jackson Peck
+
+Angel Semprún: rng1 = 15 + 12 - 9 + 1 = 19
+Strikeout
+Team 1 pitcher (Jackson Peck): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-7
+
+Trey Walter: rng1 = 75 + 11 - 9 + 1 = 78
+rng2 = 13 + 10 - 7 + 1 = 17
+Single
+Team 1 pitcher (Jackson Peck): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [3,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-7
+
+Gary Miller: rng1 = 36 + 7 - 9 + 1 = 35
+rng2 = 48 + 9 - 7 + 1 = 51
+Lineout
+Team 1 pitcher (Jackson Peck): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [3,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-7
+
+Francisco Illescas: rng1 = 73 + 6 - 9 + 1 = 71
+Walk
+Team 1 pitcher (Jackson Peck): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [5,2], base2: [3,2], base3: false
+base1: true, base2: true, base3: false
+Score: 4-7
+
+Ivan Cruz: rng1 = 95 + 3 - 9 + 1 = 90
+Walk
+Team 1 pitcher (Jackson Peck): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: [6,2], base2: [5,2], base3: [3,2]
+base1: true, base2: true, base3: true
+Score: 4-7
+
+Drew Nelson: rng1 = 65 + 6 - 9 + 1 = 63
+rng2 = 23 + 4 - 7 + 1 = 21
+Groundout
+Team 1 pitcher (Jackson Peck): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-7
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Liam Newman
+
+Frankie Bell: rng1 = 91 + 8 - 10 - 1 = 88
+Walk
+Team 2 pitcher (Liam Newman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [3,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-7
+
+Marcelo Francis: rng1 = 91 + 13 - 10 - 1 = 93
+rng2 = 47 + 9 - 8 - 1 = 47
+Single
+Team 2 pitcher (Liam Newman): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [4,2], base2: [3,2], base3: false
+base1: true, base2: true, base3: false
+Score: 4-7
+
+Jaiden Fortner: rng1 = 81 + 10 - 10 - 1 = 80
+rng2 = 16 + 8 - 8 - 1 = 15
+Single
+Team 2 pitcher (Liam Newman): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 0
+
+base1: [5,2], base2: [4,2], base3: false
+base1: true, base2: true, base3: false
+Score: 5-7
+
+Dominic Gardner: rng1 = 91 + 6 - 10 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Liam Newman): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 0
+
+base1: [6,2], base2: [5,2], base3: [4,2]
+base1: true, base2: true, base3: true
+Score: 5-7
+
+Braylon Summers: rng1 = 99 + 6 - 10 - 1 = 94
+rng2 = 63 + 5 - 8 - 1 = 59
+Single
+Team 2 pitcher (Liam Newman): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 0
+
+base1: [7,2], base2: [6,2], base3: false
+base1: true, base2: true, base3: false
+Score: 7-7
+
+Juan Bolton: rng1 = 16 + 2 - 10 - 1 = 7
+Strikeout
+Team 2 pitcher (Liam Newman): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 1
+
+base1: [7,2], base2: [6,2], base3: false
+base1: true, base2: true, base3: false
+Score: 7-7
+
+Dylan Marsh: rng1 = 18 + 15 - 10 - 1 = 22
+Strikeout
+Team 2 pitcher (Liam Newman): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 2
+
+base1: [7,2], base2: [6,2], base3: false
+base1: true, base2: true, base3: false
+Score: 7-7
+
+Team 2 pitcher change to Julian Carney
+
+Rubén Indiano: rng1 = 80 + 14 - 10 - 1 = 83
+rng2 = 20 + 14 - 9 - 1 = 24
+Single
+Team 2 pitcher (Julian Carney): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [1,3], base2: [7,2], base3: false
+base1: true, base2: true, base3: false
+Score: 8-7
+
+Rodolfo Mullen: rng1 = 95 + 14 - 10 - 1 = 98
+rng2 = 20 + 14 - 9 - 1 = 24
+Single
+Team 2 pitcher (Julian Carney): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: [2,3], base2: [1,3], base3: false
+base1: true, base2: true, base3: false
+Score: 9-7
+
+Frankie Bell: rng1 = 18 + 8 - 10 - 1 = 15
+rng2 = 54 + 10 - 9 - 1 = 54
+Lineout
+Team 2 pitcher (Julian Carney): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-7
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Carmelo Dávalos
+
+Kugo Ryutaro: rng1 = 96 + 6 - 10 + 1 = 93
+rng2 = 23 + 3 - 1 + 1 = 26
+Single
+Team 1 pitcher (Carmelo Dávalos): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [8,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-7
+
+Isaac Morris: rng1 = 9 + 15 - 10 + 1 = 15
+rng2 = 21 + 15 - 1 + 1 = 36
+Groundout
+Team 1 pitcher (Carmelo Dávalos): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [8,3], base3: false
+base1: false, base2: true, base3: false
+Score: 9-7
+
+Yorell Harmon: rng1 = 10 + 14 - 10 + 1 = 15
+rng2 = 9 + 15 - 1 + 1 = 24
+Groundout
+Team 1 pitcher (Carmelo Dávalos): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [8,3], base3: false
+base1: false, base2: true, base3: false
+Score: 9-7
+
+Angel Semprún: rng1 = 40 + 12 - 10 + 1 = 43
+rng2 = 60 + 9 - 1 + 1 = 69
+Flyout
+Team 1 pitcher (Carmelo Dávalos): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-7
+
+-----------------------
+
+TOP INNING 9
+
+Marcelo Francis: rng1 = 25 + 13 - 10 - 1 = 27
+Strikeout
+Team 2 pitcher (Julian Carney): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-7
+
+Jaiden Fortner: rng1 = 19 + 10 - 10 - 1 = 18
+Strikeout
+Team 2 pitcher (Julian Carney): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-7
+
+Dominic Gardner: rng1 = 83 + 6 - 10 - 1 = 78
+rng2 = 30 + 5 - 9 - 1 = 25
+Single
+Team 2 pitcher (Julian Carney): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [6,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-7
+
+Braylon Summers: rng1 = 72 + 6 - 10 - 1 = 67
+rng2 = 25 + 5 - 9 - 1 = 20
+Groundout
+Team 2 pitcher (Julian Carney): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-7
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Sakai Tsuneo
+
+Trey Walter: rng1 = 98 + 11 - 13 + 1 = 97
+rng2 = 99 + 10 - 14 + 1 = 96
+Home run
+Team 1 pitcher (Sakai Tsuneo): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-8
+
+Gary Miller: rng1 = 32 + 7 - 13 + 1 = 27
+Strikeout
+Team 1 pitcher (Sakai Tsuneo): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-8
+
+Francisco Illescas: rng1 = 28 + 6 - 13 + 1 = 22
+Strikeout
+Team 1 pitcher (Sakai Tsuneo): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-8
+
+Ivan Cruz: rng1 = 75 + 3 - 13 + 1 = 66
+rng2 = 32 + 7 - 14 + 1 = 26
+Groundout
+Team 1 pitcher (Sakai Tsuneo): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-8
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 13
+Team 2 hits: 9
+Team 1 runs: 9
+Team 2 runs: 8
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-07-05
+Dylan Marsh	5	1	2	0	0	1	1	0	2					San Antonio
+Rubén Indiano	5	1	2	0	0	1	2	0	2	
+Rodolfo Mullen	5	1	2	0	0	0	1	0	2	
+Frankie Bell	3	2	1	0	0	0	0	2	0	
+Marcelo Francis	5	1	3	1	0	0	1	0	2	
+Jaiden Fortner	4	1	1	0	0	0	1	1	1	
+Dominic Gardner	3	1	1	0	0	0	1	1	1	
+Braylon Summers	5	1	1	0	0	0	2	0	0	
+Juan Bolton	4	0	0	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Maverick McKay	0	0	1	1	0	0	13	5	7	1	4	3	22	
+Ian Berg	0	0	1	0	0	0	5	1	0	0	1	2	7	
+Jackson Peck	1	0	1	0	0	0	3	1	0	0	2	1	6	
+Carmelo Dávalos	0	0	1	0	0	0	3	1	0	0	0	0	4	
+Sakai Tsuneo	0	0	1	0	1	1	3	1	1	1	0	2	4	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-07-05
+Isaac Morris	4	2	2	0	0	1	3	1	1					Toronto
+Yorell Harmon	5	0	0	0	0	0	0	0	1	
+Angel Semprún	4	1	0	0	0	0	0	1	1	
+Trey Walter	5	1	3	1	0	1	4	0	2	
+Gary Miller	5	0	0	0	0	0	0	0	2	
+Francisco Illescas	4	1	1	1	0	0	0	1	1	
+Ivan Cruz	3	1	0	0	0	0	0	2	0	
+Drew Nelson	3	0	0	0	0	0	0	1	0	
+Kugo Ryutaro	3	2	3	0	0	0	1	1	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Theo Thomson	0	0	1	1	0	0	17	6	4	2	3	6	25	
+Sammie Starr	0	0	1	0	0	0	4	1	0	0	0	2	5	
+Liam Newman	0	0	1	0	0	0	2	3	5	0	1	2	7	
+Julian Carney	0	1	1	0	0	0	4	3	0	0	0	2	7	
+Otis Michael	0	0	0	0	0	0	0	0	0	0	0	0	0	

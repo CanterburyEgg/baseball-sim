@@ -1,0 +1,770 @@
+TOP INNING 1
+
+Robert Bailey: rng1 = 42 + 10 - 6 - 1 = 45
+rng2 = 6 + 13 - 4 - 1 = 14
+Groundout
+Team 2 pitcher (Keenan Elliott): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Leonardo Pinto: rng1 = 53 + 9 - 6 - 1 = 55
+rng2 = 76 + 5 - 4 - 1 = 76
+Flyout
+Team 2 pitcher (Keenan Elliott): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Quentin Farmer: rng1 = 76 + 8 - 6 - 1 = 77
+rng2 = 91 + 2 - 4 - 1 = 88
+Double
+Team 2 pitcher (Keenan Elliott): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Edward Lowe: rng1 = 21 + 6 - 6 - 1 = 20
+Strikeout
+Team 2 pitcher (Keenan Elliott): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Edward Cox: rng1 = 89 + 13 - 8 + 1 = 95
+rng2 = 77 + 6 - 7 + 1 = 77
+Double
+Team 1 pitcher (Wyatt Heller): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Nicolás Moruga: rng1 = 75 + 13 - 8 + 1 = 81
+rng2 = 39 + 15 - 7 + 1 = 48
+Single
+Team 1 pitcher (Wyatt Heller): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Tristian Love: rng1 = 41 + 13 - 8 + 1 = 47
+rng2 = 91 + 11 - 7 + 1 = 96
+Flyout
+Team 1 pitcher (Wyatt Heller): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Aldo Gilmore: rng1 = 52 + 11 - 8 + 1 = 56
+rng2 = 52 + 12 - 7 + 1 = 58
+Lineout
+Team 1 pitcher (Wyatt Heller): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Javier Guillén: rng1 = 33 + 8 - 8 + 1 = 34
+rng2 = 97 + 12 - 7 + 1 = 103
+Flyout
+Team 1 pitcher (Wyatt Heller): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 2
+
+Leroy Powell: rng1 = 31 + 5 - 6 - 1 = 29
+rng2 = 4 + 9 - 4 - 1 = 8
+Groundout
+Team 2 pitcher (Keenan Elliott): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Estefania Espina: rng1 = 53 + 6 - 6 - 1 = 52
+rng2 = 43 + 7 - 4 - 1 = 45
+Groundout
+Team 2 pitcher (Keenan Elliott): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Alejandro López: rng1 = 27 + 5 - 6 - 1 = 25
+Strikeout
+Team 2 pitcher (Keenan Elliott): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Lucián Chicote: rng1 = 25 + 10 - 8 + 1 = 28
+Strikeout
+Team 1 pitcher (Wyatt Heller): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Alexis Shultz: rng1 = 43 + 10 - 8 + 1 = 46
+rng2 = 89 + 9 - 7 + 1 = 92
+Flyout
+Team 1 pitcher (Wyatt Heller): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Joaquín Laguna: rng1 = 80 + 6 - 8 + 1 = 79
+rng2 = 14 + 9 - 7 + 1 = 17
+Single
+Team 1 pitcher (Wyatt Heller): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Francis Alford: rng1 = 54 + 5 - 8 + 1 = 52
+rng2 = 44 + 7 - 7 + 1 = 45
+Groundout
+Team 1 pitcher (Wyatt Heller): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 3
+
+Albert Lang: rng1 = 66 + 4 - 6 - 1 = 63
+rng2 = 57 + 6 - 4 - 1 = 58
+Lineout
+Team 2 pitcher (Keenan Elliott): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Alfonso Manzanedo: rng1 = 16 + 4 - 6 - 1 = 13
+rng2 = 65 + 6 - 4 - 1 = 66
+Flyout
+Team 2 pitcher (Keenan Elliott): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Robert Bailey: rng1 = 16 + 10 - 6 - 1 = 19
+Strikeout
+Team 2 pitcher (Keenan Elliott): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Edward Cox: rng1 = 2 + 13 - 8 + 1 = 8
+Strikeout
+Team 1 pitcher (Wyatt Heller): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Nicolás Moruga: rng1 = 64 + 13 - 8 + 1 = 70
+rng2 = 17 + 15 - 7 + 1 = 26
+Groundout
+Team 1 pitcher (Wyatt Heller): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Tristian Love: rng1 = 38 + 13 - 8 + 1 = 44
+rng2 = 96 + 11 - 7 + 1 = 101
+Flyout
+Team 1 pitcher (Wyatt Heller): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 4
+
+Leonardo Pinto: rng1 = 97 + 9 - 6 - 1 = 99
+rng2 = 2 + 5 - 4 - 1 = 2
+Single
+Team 2 pitcher (Keenan Elliott): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Quentin Farmer: rng1 = 79 + 8 - 6 - 1 = 80
+rng2 = 81 + 2 - 4 - 1 = 78
+Double
+Team 2 pitcher (Keenan Elliott): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 0
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Edward Lowe: rng1 = 1 + 6 - 6 - 1 = 0
+Strikeout
+Team 2 pitcher (Keenan Elliott): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Leroy Powell: rng1 = 35 + 5 - 6 - 1 = 33
+rng2 = 3 + 9 - 4 - 1 = 7
+Groundout
+Team 2 pitcher (Keenan Elliott): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Estefania Espina: rng1 = 89 + 6 - 6 - 1 = 88
+Walk
+Team 2 pitcher (Keenan Elliott): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 2
+
+base1: [5,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Alejandro López: rng1 = 53 + 5 - 6 - 1 = 51
+rng2 = 44 + 7 - 4 - 1 = 46
+Groundout
+Team 2 pitcher (Keenan Elliott): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Aldo Gilmore: rng1 = 52 + 11 - 8 + 1 = 56
+rng2 = 63 + 12 - 7 + 1 = 69
+Flyout
+Team 1 pitcher (Wyatt Heller): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Javier Guillén: rng1 = 100 + 8 - 8 + 1 = 101
+rng2 = 90 + 12 - 7 + 1 = 96
+Home run
+Team 1 pitcher (Wyatt Heller): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Lucián Chicote: rng1 = 76 + 10 - 8 + 1 = 79
+rng2 = 86 + 10 - 7 + 1 = 90
+Double
+Team 1 pitcher (Wyatt Heller): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 1
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-2
+
+Alexis Shultz: rng1 = 98 + 10 - 8 + 1 = 101
+rng2 = 78 + 9 - 7 + 1 = 81
+Home run
+Team 1 pitcher (Wyatt Heller): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Joaquín Laguna: rng1 = 15 + 6 - 8 + 1 = 14
+rng2 = 80 + 9 - 7 + 1 = 83
+Flyout
+Team 1 pitcher (Wyatt Heller): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Francis Alford: rng1 = 73 + 5 - 8 + 1 = 71
+Walk
+Team 1 pitcher (Wyatt Heller): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Edward Cox: rng1 = 31 + 13 - 8 + 1 = 37
+rng2 = 100 + 6 - 7 + 1 = 100
+Flyout
+Team 1 pitcher (Wyatt Heller): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+TOP INNING 5
+
+Albert Lang: rng1 = 63 + 4 - 6 - 1 = 60
+rng2 = 54 + 6 - 4 - 1 = 55
+Lineout
+Team 2 pitcher (Keenan Elliott): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Alfonso Manzanedo: rng1 = 36 + 4 - 6 - 1 = 33
+rng2 = 93 + 6 - 4 - 1 = 94
+Flyout
+Team 2 pitcher (Keenan Elliott): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Robert Bailey: rng1 = 41 + 10 - 6 - 1 = 44
+rng2 = 85 + 13 - 4 - 1 = 93
+Flyout
+Team 2 pitcher (Keenan Elliott): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Bravon McDaniel
+
+Nicolás Moruga: rng1 = 6 + 13 - 10 + 1 = 10
+Strikeout
+Team 1 pitcher (Bravon McDaniel): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Tristian Love: rng1 = 88 + 13 - 10 + 1 = 92
+rng2 = 65 + 11 - 9 + 1 = 68
+Double
+Team 1 pitcher (Bravon McDaniel): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [2,1], base3: false
+base1: false, base2: true, base3: false
+Score: 1-4
+
+Aldo Gilmore: rng1 = 38 + 11 - 10 + 1 = 40
+rng2 = 83 + 12 - 9 + 1 = 87
+Flyout
+Team 1 pitcher (Bravon McDaniel): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [2,1], base3: false
+base1: false, base2: true, base3: false
+Score: 1-4
+
+Javier Guillén: rng1 = 58 + 8 - 10 + 1 = 57
+rng2 = 96 + 12 - 9 + 1 = 100
+Flyout
+Team 1 pitcher (Bravon McDaniel): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+TOP INNING 6
+
+Leonardo Pinto: rng1 = 86 + 9 - 6 - 1 = 88
+Walk
+Team 2 pitcher (Keenan Elliott): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Quentin Farmer: rng1 = 79 + 8 - 6 - 1 = 80
+rng2 = 30 + 2 - 4 - 1 = 27
+Single
+Team 2 pitcher (Keenan Elliott): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 0
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 1-4
+
+Edward Lowe: rng1 = 88 + 6 - 6 - 1 = 87
+Walk
+Team 2 pitcher (Keenan Elliott): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 0
+
+base1: [3,0], base2: [2,0], base3: [1,0]
+base1: true, base2: true, base3: true
+Score: 1-4
+
+Leroy Powell: rng1 = 88 + 5 - 6 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Keenan Elliott): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 0
+
+base1: [4,0], base2: [3,0], base3: [2,0]
+base1: true, base2: true, base3: true
+Score: 2-4
+
+Estefania Espina: rng1 = 14 + 6 - 6 - 1 = 13
+rng2 = 57 + 7 - 4 - 1 = 59
+Flyout
+Team 2 pitcher (Keenan Elliott): 24 batters faced, 3 runs allowed = 24 + 7.5 = 31.5, outs: 1
+
+base1: [4,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 3-4
+
+Alejandro López: rng1 = 37 + 5 - 6 - 1 = 35
+rng2 = 63 + 7 - 4 - 1 = 65
+Flyout
+Team 2 pitcher (Keenan Elliott): 25 batters faced, 3 runs allowed = 25 + 7.5 = 32.5, outs: 2
+
+base1: [4,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 3-4
+
+Albert Lang: rng1 = 33 + 4 - 6 - 1 = 30
+rng2 = 50 + 6 - 4 - 1 = 51
+Lineout
+Team 2 pitcher (Keenan Elliott): 26 batters faced, 3 runs allowed = 26 + 7.5 = 33.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+BOTTOM INNING 6
+
+Lucián Chicote: rng1 = 62 + 10 - 10 + 1 = 63
+rng2 = 57 + 10 - 9 + 1 = 59
+Flyout
+Team 1 pitcher (Bravon McDaniel): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Alexis Shultz: rng1 = 69 + 10 - 10 + 1 = 70
+rng2 = 67 + 9 - 9 + 1 = 68
+Flyout
+Team 1 pitcher (Bravon McDaniel): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Joaquín Laguna: rng1 = 39 + 6 - 10 + 1 = 36
+rng2 = 9 + 9 - 9 + 1 = 10
+Groundout
+Team 1 pitcher (Bravon McDaniel): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Trey Hendrickson
+
+Alfonso Manzanedo: rng1 = 55 + 4 - 14 - 1 = 44
+rng2 = 82 + 6 - 13 - 1 = 74
+Flyout
+Team 2 pitcher (Trey Hendrickson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Robert Bailey: rng1 = 64 + 10 - 14 - 1 = 59
+rng2 = 76 + 13 - 13 - 1 = 75
+Flyout
+Team 2 pitcher (Trey Hendrickson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Leonardo Pinto: rng1 = 89 + 9 - 14 - 1 = 83
+rng2 = 4 + 5 - 13 - 1 = -5
+Single
+Team 2 pitcher (Trey Hendrickson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-4
+
+Quentin Farmer: rng1 = 87 + 8 - 14 - 1 = 80
+rng2 = 45 + 2 - 13 - 1 = 33
+Single
+Team 2 pitcher (Trey Hendrickson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [2,1], base2: [1,1], base3: false
+base1: true, base2: true, base3: false
+Score: 3-4
+
+Edward Lowe: rng1 = 100 + 6 - 14 - 1 = 91
+rng2 = 32 + 9 - 13 - 1 = 27
+Single
+Team 2 pitcher (Trey Hendrickson): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [3,1], base2: [2,1], base3: false
+base1: true, base2: true, base3: false
+Score: 4-4
+
+Leroy Powell: rng1 = 95 + 5 - 14 - 1 = 85
+rng2 = 59 + 9 - 13 - 1 = 54
+Single
+Team 2 pitcher (Trey Hendrickson): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: [4,1], base2: false, base3: [3,1]
+base1: true, base2: false, base3: true
+Score: 5-4
+
+Estefania Espina: rng1 = 6 + 6 - 14 - 1 = -3
+Strikeout
+Team 2 pitcher (Trey Hendrickson): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-4
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Okihana Min-Ki
+
+Francis Alford: rng1 = 13 + 5 - 8 + 1 = 11
+rng2 = 90 + 7 - 5 + 1 = 93
+Flyout
+Team 1 pitcher (Okihana Min-Ki): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Edward Cox: rng1 = 3 + 13 - 8 + 1 = 9
+Strikeout
+Team 1 pitcher (Okihana Min-Ki): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Nicolás Moruga: rng1 = 23 + 13 - 8 + 1 = 29
+rng2 = 82 + 15 - 5 + 1 = 93
+Flyout
+Team 1 pitcher (Okihana Min-Ki): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-4
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Shane Moran
+
+Alejandro López: rng1 = 40 + 5 - 9 - 1 = 35
+rng2 = 14 + 7 - 10 - 1 = 10
+Groundout
+Team 2 pitcher (Shane Moran): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Albert Lang: rng1 = 25 + 4 - 9 - 1 = 19
+Strikeout
+Team 2 pitcher (Shane Moran): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Alfonso Manzanedo: rng1 = 6 + 4 - 9 - 1 = 0
+Strikeout
+Team 2 pitcher (Shane Moran): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-4
+
+-----------------------
+
+BOTTOM INNING 8
+
+Tristian Love: rng1 = 23 + 13 - 8 + 1 = 29
+rng2 = 82 + 11 - 5 + 1 = 89
+Flyout
+Team 1 pitcher (Okihana Min-Ki): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Aldo Gilmore: rng1 = 48 + 11 - 8 + 1 = 52
+rng2 = 24 + 12 - 5 + 1 = 32
+Groundout
+Team 1 pitcher (Okihana Min-Ki): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Javier Guillén: rng1 = 77 + 8 - 8 + 1 = 78
+rng2 = 16 + 12 - 5 + 1 = 24
+Single
+Team 1 pitcher (Okihana Min-Ki): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-4
+
+Lucián Chicote: rng1 = 84 + 10 - 8 + 1 = 87
+Walk
+Team 1 pitcher (Okihana Min-Ki): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [5,2], base2: [4,2], base3: false
+base1: true, base2: true, base3: false
+Score: 5-4
+
+Alexis Shultz: rng1 = 11 + 10 - 8 + 1 = 14
+rng2 = 55 + 9 - 5 + 1 = 60
+Flyout
+Team 1 pitcher (Okihana Min-Ki): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-4
+
+-----------------------
+
+TOP INNING 9
+
+Robert Bailey: rng1 = 7 + 10 - 9 - 1 = 7
+Strikeout
+Team 2 pitcher (Shane Moran): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Leonardo Pinto: rng1 = 56 + 9 - 9 - 1 = 55
+rng2 = 15 + 5 - 10 - 1 = 9
+Groundout
+Team 2 pitcher (Shane Moran): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Quentin Farmer: rng1 = 8 + 8 - 9 - 1 = 6
+Strikeout
+Team 2 pitcher (Shane Moran): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-4
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Charlie Jordan
+
+Joaquín Laguna: rng1 = 22 + 6 - 15 + 1 = 14
+rng2 = 34 + 9 - 15 + 1 = 29
+Groundout
+Team 1 pitcher (Charlie Jordan): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Francis Alford: rng1 = 57 + 5 - 15 + 1 = 48
+rng2 = 77 + 7 - 15 + 1 = 70
+Flyout
+Team 1 pitcher (Charlie Jordan): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Edward Cox: rng1 = 34 + 13 - 15 + 1 = 33
+rng2 = 6 + 6 - 15 + 1 = -2
+Groundout
+Team 1 pitcher (Charlie Jordan): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-4
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 8
+Team 2 hits: 8
+Team 1 runs: 5
+Team 2 runs: 4
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-07-07
+Robert Bailey	5	0	0	0	0	0	0	0	2					Chicago
+Leonardo Pinto	4	3	2	0	0	0	0	1	0	
+Quentin Farmer	5	2	4	2	0	0	1	0	1	
+Edward Lowe	3	0	1	0	0	0	1	1	2	
+Leroy Powell	3	0	1	0	0	0	2	0	0	
+Estefania Espina	3	0	0	0	0	0	1	1	1	
+Alejandro López	4	0	0	0	0	0	0	0	1	
+Albert Lang	4	0	0	0	0	0	0	0	1	
+Alfonso Manzanedo	4	0	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Wyatt Heller	0	0	1	1	0	0	12	6	4	2	1	2	19	
+Bravon McDaniel	1	0	1	0	0	0	6	1	0	0	0	1	7	
+Okihana Min-Ki	0	0	1	0	0	0	6	1	0	0	1	1	8	
+Reuben Simmons	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Charlie Jordan	0	0	1	0	1	1	3	0	0	0	0	0	3	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-07-07
+Edward Cox	5	1	1	1	0	0	0	0	2					New York
+Nicolás Moruga	4	0	1	0	0	0	1	0	1	
+Tristian Love	4	0	1	1	0	0	0	0	0	
+Aldo Gilmore	4	0	0	0	0	0	0	0	0	
+Javier Guillén	4	1	2	0	0	1	1	0	0	
+Lucián Chicote	3	1	1	1	0	0	0	1	1	
+Alexis Shultz	4	1	1	0	0	1	2	0	0	
+Joaquín Laguna	4	0	1	0	0	0	0	0	0	
+Francis Alford	3	0	0	0	0	0	0	1	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Keenan Elliott	0	0	1	1	0	0	18	4	3	0	3	4	26	
+Trey Hendrickson	0	1	1	0	0	0	3	4	2	0	0	1	7	
+Shane Moran	0	0	1	0	0	0	6	0	0	0	0	4	6	
+Johan Cortez	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Christopher Jones	0	0	0	0	0	0	0	0	0	0	0	0	0	

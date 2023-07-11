@@ -2654,7 +2654,7 @@ public class GameGenerator
 				pitchers2[4][4] = 0;
 			}
 			
-			if (inning >= 19 || (inning == 18 && runs2 > runs1))
+			if (inning == 19)
 			{
 				if (!extras && runs1 != runs2 || (runs2 > runs1 && inning%2 == 0))
 				{

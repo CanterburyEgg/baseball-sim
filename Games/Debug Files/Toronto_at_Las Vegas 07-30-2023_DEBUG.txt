@@ -1,0 +1,725 @@
+TOP INNING 1
+
+Isaac Morris: rng1 = 99 + 15 - 8 - 1 = 105
+rng2 = 46 + 15 - 6 - 1 = 54
+Single
+Team 2 pitcher (Emanuel Muñoz): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Yorell Harmon: rng1 = 60 + 14 - 8 - 1 = 65
+rng2 = 1 + 15 - 6 - 1 = 9
+Groundout
+Team 2 pitcher (Emanuel Muñoz): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Angel Semprún: rng1 = 86 + 12 - 8 - 1 = 89
+Walk
+Team 2 pitcher (Emanuel Muñoz): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Trey Walter: rng1 = 3 + 11 - 8 - 1 = 5
+Strikeout
+Team 2 pitcher (Emanuel Muñoz): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Gary Miller: rng1 = 39 + 7 - 8 - 1 = 37
+rng2 = 99 + 9 - 6 - 1 = 101
+Flyout
+Team 2 pitcher (Emanuel Muñoz): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+George Nagle: rng1 = 24 + 15 - 9 + 1 = 31
+rng2 = 3 + 15 - 1 + 1 = 18
+Groundout
+Team 1 pitcher (Mason Lane): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Antonio Carrera: rng1 = 81 + 13 - 9 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Mason Lane): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Noah Fontenot: rng1 = 97 + 12 - 9 + 1 = 101
+rng2 = 83 + 7 - 1 + 1 = 90
+Double
+Team 1 pitcher (Mason Lane): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: [2,0], base3: [1,0]
+base1: false, base2: true, base3: true
+Score: 0-0
+
+Jason Burress: rng1 = 5 + 11 - 9 + 1 = 8
+Strikeout
+Team 1 pitcher (Mason Lane): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: [2,0], base3: [1,0]
+base1: false, base2: true, base3: true
+Score: 0-0
+
+Bautista Saelices: rng1 = 62 + 9 - 9 + 1 = 63
+rng2 = 35 + 8 - 1 + 1 = 43
+Groundout
+Team 1 pitcher (Mason Lane): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Francisco Illescas: rng1 = 50 + 6 - 8 - 1 = 47
+rng2 = 9 + 5 - 6 - 1 = 7
+Groundout
+Team 2 pitcher (Emanuel Muñoz): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Ivan Cruz: rng1 = 86 + 3 - 8 - 1 = 80
+rng2 = 21 + 7 - 6 - 1 = 21
+Single
+Team 2 pitcher (Emanuel Muñoz): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Drew Nelson: rng1 = 19 + 6 - 8 - 1 = 16
+Strikeout
+Team 2 pitcher (Emanuel Muñoz): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Kugo Ryutaro: rng1 = 79 + 6 - 8 - 1 = 76
+rng2 = 81 + 3 - 6 - 1 = 77
+Double
+Team 2 pitcher (Emanuel Muñoz): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Isaac Morris: rng1 = 90 + 15 - 8 - 1 = 96
+rng2 = 40 + 15 - 6 - 1 = 48
+Single
+Team 2 pitcher (Emanuel Muñoz): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: [0,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Yorell Harmon: rng1 = 85 + 14 - 8 - 1 = 90
+Walk
+Team 2 pitcher (Emanuel Muñoz): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: [1,0], base2: [0,0], base3: [8,0]
+base1: true, base2: true, base3: true
+Score: 1-0
+
+Angel Semprún: rng1 = 70 + 12 - 8 - 1 = 73
+rng2 = 38 + 9 - 6 - 1 = 40
+Single
+Team 2 pitcher (Emanuel Muñoz): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 2
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 3-0
+
+Trey Walter: rng1 = 17 + 11 - 8 - 1 = 19
+Strikeout
+Team 2 pitcher (Emanuel Muñoz): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Dante Arias: rng1 = 8 + 10 - 9 + 1 = 10
+Strikeout
+Team 1 pitcher (Mason Lane): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Terry Schroeder: rng1 = 72 + 7 - 9 + 1 = 71
+Walk
+Team 1 pitcher (Mason Lane): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Edwin Garcia: rng1 = 60 + 4 - 9 + 1 = 56
+rng2 = 28 + 6 - 1 + 1 = 34
+Groundout
+Team 1 pitcher (Mason Lane): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+TOP INNING 3
+
+Gary Miller: rng1 = 37 + 7 - 8 - 1 = 35
+rng2 = 34 + 9 - 6 - 1 = 36
+Groundout
+Team 2 pitcher (Emanuel Muñoz): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Francisco Illescas: rng1 = 53 + 6 - 8 - 1 = 50
+rng2 = 90 + 5 - 6 - 1 = 88
+Flyout
+Team 2 pitcher (Emanuel Muñoz): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Ivan Cruz: rng1 = 12 + 3 - 8 - 1 = 6
+Strikeout
+Team 2 pitcher (Emanuel Muñoz): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Efrain Salas: rng1 = 94 + 4 - 9 + 1 = 90
+Walk
+Team 1 pitcher (Mason Lane): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+George Nagle: rng1 = 15 + 15 - 9 + 1 = 22
+Strikeout
+Team 1 pitcher (Mason Lane): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Antonio Carrera: rng1 = 94 + 13 - 9 + 1 = 99
+rng2 = 46 + 11 - 1 + 1 = 57
+Single
+Team 1 pitcher (Mason Lane): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 1
+
+base1: [1,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-0
+
+Noah Fontenot: rng1 = 75 + 12 - 9 + 1 = 79
+rng2 = 11 + 7 - 1 + 1 = 18
+Single
+Team 1 pitcher (Mason Lane): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-1
+
+Jason Burress: rng1 = 69 + 11 - 9 + 1 = 72
+Walk
+Team 1 pitcher (Mason Lane): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: [3,0], base2: [2,0], base3: [1,0]
+base1: true, base2: true, base3: true
+Score: 3-1
+
+Bautista Saelices: rng1 = 31 + 9 - 9 + 1 = 32
+rng2 = 4 + 8 - 1 + 1 = 12
+Groundout
+Team 1 pitcher (Mason Lane): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: [4,0], base2: [3,0], base3: [2,0]
+base1: true, base2: true, base3: true
+Score: 3-1
+
+Dante Arias: rng1 = 94 + 10 - 9 + 1 = 96
+rng2 = 33 + 6 - 1 + 1 = 39
+Single
+Team 1 pitcher (Mason Lane): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 2
+
+base1: [5,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 3-3
+
+Terry Schroeder: rng1 = 78 + 7 - 9 + 1 = 77
+rng2 = 63 + 6 - 1 + 1 = 69
+Double
+Team 1 pitcher (Mason Lane): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 2
+
+base1: false, base2: [6,0], base3: [5,0]
+base1: false, base2: true, base3: true
+Score: 3-4
+
+Edwin Garcia: rng1 = 72 + 4 - 9 + 1 = 68
+rng2 = 77 + 6 - 1 + 1 = 83
+Flyout
+Team 1 pitcher (Mason Lane): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+TOP INNING 4
+
+Drew Nelson: rng1 = 38 + 6 - 8 - 1 = 35
+rng2 = 12 + 4 - 6 - 1 = 9
+Groundout
+Team 2 pitcher (Emanuel Muñoz): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Kugo Ryutaro: rng1 = 67 + 6 - 8 - 1 = 64
+rng2 = 41 + 3 - 6 - 1 = 37
+Groundout
+Team 2 pitcher (Emanuel Muñoz): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Isaac Morris: rng1 = 41 + 15 - 8 - 1 = 47
+rng2 = 86 + 15 - 6 - 1 = 94
+Flyout
+Team 2 pitcher (Emanuel Muñoz): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+BOTTOM INNING 4
+
+Efrain Salas: rng1 = 14 + 4 - 9 + 1 = 10
+Strikeout
+Team 1 pitcher (Mason Lane): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+George Nagle: rng1 = 34 + 15 - 9 + 1 = 41
+rng2 = 42 + 15 - 1 + 1 = 57
+Lineout
+Team 1 pitcher (Mason Lane): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Antonio Carrera: rng1 = 14 + 13 - 9 + 1 = 19
+Strikeout
+Team 1 pitcher (Mason Lane): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+TOP INNING 5
+
+Yorell Harmon: rng1 = 47 + 14 - 8 - 1 = 52
+rng2 = 20 + 15 - 6 - 1 = 28
+Groundout
+Team 2 pitcher (Emanuel Muñoz): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Angel Semprún: rng1 = 79 + 12 - 8 - 1 = 82
+rng2 = 81 + 9 - 6 - 1 = 83
+Home run
+Team 2 pitcher (Emanuel Muñoz): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Trey Walter: rng1 = 11 + 11 - 8 - 1 = 13
+rng2 = 2 + 10 - 6 - 1 = 5
+Groundout
+Team 2 pitcher (Emanuel Muñoz): 22 batters faced, 4 runs allowed = 22 + 10.0 = 32.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Gary Miller: rng1 = 18 + 7 - 8 - 1 = 16
+Strikeout
+Team 2 pitcher (Emanuel Muñoz): 23 batters faced, 4 runs allowed = 23 + 10.0 = 33.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Julian Carney
+
+Noah Fontenot: rng1 = 6 + 12 - 10 + 1 = 9
+Strikeout
+Team 1 pitcher (Julian Carney): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Jason Burress: rng1 = 63 + 11 - 10 + 1 = 65
+rng2 = 49 + 9 - 9 + 1 = 50
+Lineout
+Team 1 pitcher (Julian Carney): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Bautista Saelices: rng1 = 48 + 9 - 10 + 1 = 48
+rng2 = 57 + 8 - 9 + 1 = 57
+Lineout
+Team 1 pitcher (Julian Carney): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Taylor Murphy
+
+Francisco Illescas: rng1 = 35 + 6 - 15 - 1 = 25
+Strikeout
+Team 2 pitcher (Taylor Murphy): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Ivan Cruz: rng1 = 43 + 3 - 15 - 1 = 30
+rng2 = 88 + 7 - 14 - 1 = 80
+Flyout
+Team 2 pitcher (Taylor Murphy): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Drew Nelson: rng1 = 59 + 6 - 15 - 1 = 49
+rng2 = 45 + 4 - 14 - 1 = 34
+Groundout
+Team 2 pitcher (Taylor Murphy): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+BOTTOM INNING 6
+
+Dante Arias: rng1 = 28 + 10 - 10 + 1 = 29
+rng2 = 48 + 6 - 9 + 1 = 46
+Groundout
+Team 1 pitcher (Julian Carney): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Terry Schroeder: rng1 = 87 + 7 - 10 + 1 = 85
+rng2 = 62 + 6 - 9 + 1 = 60
+Single
+Team 1 pitcher (Julian Carney): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Edwin Garcia: rng1 = 63 + 4 - 10 + 1 = 58
+rng2 = 94 + 6 - 9 + 1 = 92
+Flyout
+Team 1 pitcher (Julian Carney): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Efrain Salas: rng1 = 81 + 4 - 10 + 1 = 76
+rng2 = 59 + 5 - 9 + 1 = 56
+Single
+Team 1 pitcher (Julian Carney): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [8,1], base2: [6,1], base3: false
+base1: true, base2: true, base3: false
+Score: 4-4
+
+George Nagle: rng1 = 40 + 15 - 10 + 1 = 46
+rng2 = 65 + 15 - 9 + 1 = 72
+Flyout
+Team 1 pitcher (Julian Carney): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+TOP INNING 7
+
+Kugo Ryutaro: rng1 = 39 + 6 - 15 - 1 = 29
+rng2 = 62 + 3 - 14 - 1 = 50
+Lineout
+Team 2 pitcher (Taylor Murphy): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Isaac Morris: rng1 = 47 + 15 - 15 - 1 = 46
+rng2 = 12 + 15 - 14 - 1 = 12
+Groundout
+Team 2 pitcher (Taylor Murphy): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Yorell Harmon: rng1 = 4 + 14 - 15 - 1 = 2
+Strikeout
+Team 2 pitcher (Taylor Murphy): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Liam Newman
+
+Antonio Carrera: rng1 = 86 + 13 - 10 + 1 = 90
+Walk
+Team 1 pitcher (Liam Newman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Noah Fontenot: rng1 = 27 + 12 - 10 + 1 = 30
+rng2 = 13 + 7 - 8 + 1 = 13
+Groundout
+Team 1 pitcher (Liam Newman): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Jason Burress: rng1 = 42 + 11 - 10 + 1 = 44
+rng2 = 7 + 9 - 8 + 1 = 9
+Groundout
+Team 1 pitcher (Liam Newman): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Rodrigo Valerio
+
+Angel Semprún: rng1 = 5 + 12 - 10 - 1 = 6
+Strikeout
+Team 2 pitcher (Rodrigo Valerio): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Trey Walter: rng1 = 29 + 11 - 10 - 1 = 29
+rng2 = 68 + 10 - 9 - 1 = 68
+Flyout
+Team 2 pitcher (Rodrigo Valerio): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Gary Miller: rng1 = 51 + 7 - 10 - 1 = 47
+rng2 = 62 + 9 - 9 - 1 = 61
+Flyout
+Team 2 pitcher (Rodrigo Valerio): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+BOTTOM INNING 8
+
+Bautista Saelices: rng1 = 96 + 9 - 10 + 1 = 96
+rng2 = 84 + 8 - 8 + 1 = 85
+Home run
+Team 1 pitcher (Liam Newman): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-5
+
+Dante Arias: rng1 = 3 + 10 - 10 + 1 = 4
+Strikeout
+Team 1 pitcher (Liam Newman): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-5
+
+Terry Schroeder: rng1 = 1 + 7 - 10 + 1 = -1
+Strikeout
+Team 1 pitcher (Liam Newman): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-5
+
+Edwin Garcia: rng1 = 57 + 4 - 10 + 1 = 52
+rng2 = 39 + 6 - 8 + 1 = 38
+Groundout
+Team 1 pitcher (Liam Newman): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-5
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Macos Alguacil
+
+Francisco Illescas: rng1 = 88 + 6 - 15 - 1 = 78
+rng2 = 14 + 5 - 14 - 1 = 4
+Single
+Team 2 pitcher (Macos Alguacil): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [5,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-5
+
+Ivan Cruz: rng1 = 6 + 3 - 15 - 1 = -7
+Strikeout
+Team 2 pitcher (Macos Alguacil): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [5,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-5
+
+Drew Nelson: rng1 = 87 + 6 - 15 - 1 = 77
+rng2 = 57 + 4 - 14 - 1 = 46
+Single
+Team 2 pitcher (Macos Alguacil): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [7,4], base2: [5,4], base3: false
+base1: true, base2: true, base3: false
+Score: 4-5
+
+Kugo Ryutaro: rng1 = 34 + 6 - 15 - 1 = 24
+Strikeout
+Team 2 pitcher (Macos Alguacil): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [7,4], base2: [5,4], base3: false
+base1: true, base2: true, base3: false
+Score: 4-5
+
+Isaac Morris: rng1 = 58 + 15 - 15 - 1 = 57
+rng2 = 16 + 15 - 14 - 1 = 16
+Groundout
+Team 2 pitcher (Macos Alguacil): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-5
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 8
+Team 2 hits: 8
+Team 1 runs: 4
+Team 2 runs: 5
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-07-30
+Isaac Morris	5	1	2	0	0	0	0	0	0					Toronto
+Yorell Harmon	3	0	0	0	0	0	0	1	1	
+Angel Semprún	3	1	2	0	0	1	3	1	1	
+Trey Walter	4	0	0	0	0	0	0	0	2	
+Gary Miller	4	0	0	0	0	0	0	0	1	
+Francisco Illescas	4	0	1	0	0	0	0	0	1	
+Ivan Cruz	4	1	1	0	0	0	0	0	2	
+Drew Nelson	4	0	1	0	0	0	0	0	1	
+Kugo Ryutaro	4	1	1	1	0	0	1	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Mason Lane	0	0	1	1	0	0	12	5	4	0	3	5	20	
+Julian Carney	0	0	1	0	0	0	6	2	0	0	0	1	8	
+Liam Newman	0	1	1	0	0	0	6	1	1	1	1	2	7	
+Sammie Starr	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Otis Michael	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-07-30
+George Nagle	4	0	0	0	0	0	0	0	1					Las Vegas
+Antonio Carrera	2	0	1	0	0	0	0	1	1	
+Noah Fontenot	4	1	2	1	0	0	1	0	1	
+Jason Burress	3	1	0	0	0	0	0	1	1	
+Bautista Saelices	4	2	1	0	0	1	1	0	0	
+Dante Arias	4	0	1	0	0	0	2	0	2	
+Terry Schroeder	3	0	2	1	0	0	1	1	1	
+Edwin Garcia	4	0	0	0	0	0	0	0	0	
+Efrain Salas	2	1	1	0	0	0	0	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Emanuel Muñoz	0	0	1	1	0	0	15	6	4	1	2	5	23	
+Taylor Murphy	0	0	1	0	0	0	6	0	0	0	0	2	6	
+Rodrigo Valerio	1	0	1	0	0	0	3	0	0	0	0	1	3	
+Phil Segee	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Macos Alguacil	0	0	1	0	1	1	3	2	0	0	0	2	5	

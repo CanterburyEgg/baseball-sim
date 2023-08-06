@@ -1,0 +1,666 @@
+TOP INNING 1
+
+Hiro Hakayawa: rng1 = 1 + 13 - 8 - 1 = 5
+Strikeout
+Team 2 pitcher (Aaron Parry): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Guillermo Tamayo: rng1 = 31 + 12 - 8 - 1 = 34
+rng2 = 28 + 6 - 6 - 1 = 27
+Groundout
+Team 2 pitcher (Aaron Parry): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Zachary Hughes: rng1 = 34 + 10 - 8 - 1 = 35
+rng2 = 25 + 13 - 6 - 1 = 31
+Groundout
+Team 2 pitcher (Aaron Parry): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Keli Alohilani: rng1 = 19 + 14 - 15 + 1 = 19
+Strikeout
+Team 1 pitcher (Angel Chavez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Tomas Canto: rng1 = 65 + 14 - 15 + 1 = 65
+rng2 = 56 + 14 - 15 + 1 = 56
+Lineout
+Team 1 pitcher (Angel Chavez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Konner Knight: rng1 = 15 + 11 - 15 + 1 = 12
+rng2 = 81 + 6 - 15 + 1 = 73
+Flyout
+Team 1 pitcher (Angel Chavez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Micah Zamora: rng1 = 91 + 9 - 8 - 1 = 91
+rng2 = 54 + 13 - 6 - 1 = 60
+Single
+Team 2 pitcher (Aaron Parry): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Alfredo Encarnacion: rng1 = 48 + 9 - 8 - 1 = 48
+rng2 = 18 + 10 - 6 - 1 = 21
+Groundout
+Team 2 pitcher (Aaron Parry): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Felix Alarcón: rng1 = 8 + 5 - 8 - 1 = 4
+Strikeout
+Team 2 pitcher (Aaron Parry): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Sean Stevens: rng1 = 56 + 4 - 8 - 1 = 51
+rng2 = 11 + 6 - 6 - 1 = 10
+Groundout
+Team 2 pitcher (Aaron Parry): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Jong Jung-Hwa: rng1 = 39 + 10 - 15 + 1 = 35
+rng2 = 63 + 13 - 15 + 1 = 62
+Flyout
+Team 1 pitcher (Angel Chavez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Alonso Medina: rng1 = 26 + 10 - 15 + 1 = 22
+Strikeout
+Team 1 pitcher (Angel Chavez): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jerome Goodwin: rng1 = 96 + 8 - 15 + 1 = 90
+Walk
+Team 1 pitcher (Angel Chavez): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Henry Porter: rng1 = 88 + 1 - 15 + 1 = 75
+rng2 = 16 + 9 - 15 + 1 = 11
+Single
+Team 1 pitcher (Angel Chavez): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Cayson Guerrero: rng1 = 24 + 3 - 15 + 1 = 13
+rng2 = 89 + 7 - 15 + 1 = 82
+Flyout
+Team 1 pitcher (Angel Chavez): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 3
+
+Agustín Molina: rng1 = 27 + 4 - 8 - 1 = 22
+Strikeout
+Team 2 pitcher (Aaron Parry): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Dídac Laguna: rng1 = 2 + 6 - 8 - 1 = -1
+Strikeout
+Team 2 pitcher (Aaron Parry): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Hiro Hakayawa: rng1 = 27 + 13 - 8 - 1 = 31
+rng2 = 19 + 12 - 6 - 1 = 24
+Groundout
+Team 2 pitcher (Aaron Parry): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Chwa Jung-Su: rng1 = 75 + 5 - 15 + 1 = 66
+rng2 = 62 + 5 - 15 + 1 = 53
+Lineout
+Team 1 pitcher (Angel Chavez): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Keli Alohilani: rng1 = 42 + 14 - 15 + 1 = 42
+rng2 = 30 + 11 - 15 + 1 = 27
+Groundout
+Team 1 pitcher (Angel Chavez): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Tomas Canto: rng1 = 7 + 14 - 15 + 1 = 7
+Strikeout
+Team 1 pitcher (Angel Chavez): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 4
+
+Guillermo Tamayo: rng1 = 37 + 12 - 8 - 1 = 40
+rng2 = 91 + 6 - 6 - 1 = 90
+Flyout
+Team 2 pitcher (Aaron Parry): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Zachary Hughes: rng1 = 47 + 10 - 8 - 1 = 48
+rng2 = 15 + 13 - 6 - 1 = 21
+Groundout
+Team 2 pitcher (Aaron Parry): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Micah Zamora: rng1 = 69 + 9 - 8 - 1 = 69
+rng2 = 87 + 13 - 6 - 1 = 93
+Flyout
+Team 2 pitcher (Aaron Parry): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 4
+
+Konner Knight: rng1 = 4 + 11 - 15 + 1 = 1
+Strikeout
+Team 1 pitcher (Angel Chavez): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jong Jung-Hwa: rng1 = 28 + 10 - 15 + 1 = 24
+Strikeout
+Team 1 pitcher (Angel Chavez): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Alonso Medina: rng1 = 96 + 10 - 15 + 1 = 92
+rng2 = 60 + 8 - 15 + 1 = 54
+Single
+Team 1 pitcher (Angel Chavez): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Jerome Goodwin: rng1 = 22 + 8 - 15 + 1 = 16
+Strikeout
+Team 1 pitcher (Angel Chavez): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 5
+
+Alfredo Encarnacion: rng1 = 59 + 9 - 8 - 1 = 59
+rng2 = 93 + 10 - 6 - 1 = 96
+Flyout
+Team 2 pitcher (Aaron Parry): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Felix Alarcón: rng1 = 76 + 5 - 8 - 1 = 72
+Walk
+Team 2 pitcher (Aaron Parry): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Sean Stevens: rng1 = 77 + 4 - 8 - 1 = 72
+Walk
+Team 2 pitcher (Aaron Parry): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 1
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Agustín Molina: rng1 = 58 + 4 - 8 - 1 = 53
+rng2 = 13 + 6 - 6 - 1 = 12
+Groundout
+Team 2 pitcher (Aaron Parry): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 5
+
+Henry Porter: rng1 = 88 + 1 - 15 + 1 = 75
+rng2 = 56 + 9 - 15 + 1 = 51
+Single
+Team 1 pitcher (Angel Chavez): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Cayson Guerrero: rng1 = 65 + 3 - 15 + 1 = 54
+rng2 = 48 + 7 - 15 + 1 = 41
+Groundout
+Team 1 pitcher (Angel Chavez): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 1
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Chwa Jung-Su: rng1 = 87 + 5 - 15 + 1 = 78
+rng2 = 37 + 5 - 15 + 1 = 28
+Single
+Team 1 pitcher (Angel Chavez): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Keli Alohilani: rng1 = 12 + 14 - 15 + 1 = 12
+rng2 = 39 + 11 - 15 + 1 = 36
+Groundout
+Team 1 pitcher (Angel Chavez): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Tomas Canto: rng1 = 88 + 14 - 15 + 1 = 88
+Walk
+Team 1 pitcher (Angel Chavez): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 2
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-1
+
+Konner Knight: rng1 = 30 + 11 - 15 + 1 = 27
+Strikeout
+Team 1 pitcher (Angel Chavez): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 6
+
+Dídac Laguna: rng1 = 92 + 6 - 8 - 1 = 89
+Walk
+Team 2 pitcher (Aaron Parry): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Hiro Hakayawa: rng1 = 27 + 13 - 8 - 1 = 31
+rng2 = 49 + 12 - 6 - 1 = 54
+Lineout
+Team 2 pitcher (Aaron Parry): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Guillermo Tamayo: rng1 = 63 + 12 - 8 - 1 = 66
+rng2 = 58 + 6 - 6 - 1 = 57
+Lineout
+Team 2 pitcher (Aaron Parry): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Zachary Hughes: rng1 = 96 + 10 - 8 - 1 = 97
+rng2 = 10 + 13 - 6 - 1 = 16
+Single
+Team 2 pitcher (Aaron Parry): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 2
+
+base1: [2,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 0-1
+
+Micah Zamora: rng1 = 51 + 9 - 8 - 1 = 51
+rng2 = 49 + 13 - 6 - 1 = 55
+Lineout
+Team 2 pitcher (Aaron Parry): 22 batters faced, 0 runs allowed = 22 + 0.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 6
+
+Jong Jung-Hwa: rng1 = 5 + 10 - 15 + 1 = 1
+Strikeout
+Team 1 pitcher (Angel Chavez): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Alonso Medina: rng1 = 58 + 10 - 15 + 1 = 54
+rng2 = 1 + 8 - 15 + 1 = -5
+Groundout
+Team 1 pitcher (Angel Chavez): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Jerome Goodwin: rng1 = 92 + 8 - 15 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Angel Chavez): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Henry Porter: rng1 = 5 + 1 - 15 + 1 = -8
+Strikeout
+Team 1 pitcher (Angel Chavez): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 7
+
+Alfredo Encarnacion: rng1 = 45 + 9 - 8 - 1 = 45
+rng2 = 20 + 10 - 6 - 1 = 23
+Groundout
+Team 2 pitcher (Aaron Parry): 23 batters faced, 0 runs allowed = 23 + 0.0 = 23.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Felix Alarcón: rng1 = 95 + 5 - 8 - 1 = 91
+rng2 = 36 + 6 - 6 - 1 = 35
+Single
+Team 2 pitcher (Aaron Parry): 24 batters faced, 0 runs allowed = 24 + 0.0 = 24.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Sean Stevens: rng1 = 32 + 4 - 8 - 1 = 27
+Strikeout
+Team 2 pitcher (Aaron Parry): 25 batters faced, 0 runs allowed = 25 + 0.0 = 25.0, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Agustín Molina: rng1 = 19 + 4 - 8 - 1 = 14
+rng2 = 89 + 6 - 6 - 1 = 88
+Flyout
+Team 2 pitcher (Aaron Parry): 26 batters faced, 0 runs allowed = 26 + 0.0 = 26.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 7
+
+Cayson Guerrero: rng1 = 83 + 3 - 15 + 1 = 72
+Walk
+Team 1 pitcher (Angel Chavez): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Chwa Jung-Su: rng1 = 25 + 5 - 15 + 1 = 16
+Strikeout
+Team 1 pitcher (Angel Chavez): 27 batters faced, 1 runs allowed = 27 + 2.5 = 29.5, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Keli Alohilani: rng1 = 10 + 14 - 15 + 1 = 10
+Strikeout
+Team 1 pitcher (Angel Chavez): 28 batters faced, 1 runs allowed = 28 + 2.5 = 30.5, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Tomas Canto: rng1 = 18 + 14 - 15 + 1 = 18
+Strikeout
+Team 1 pitcher (Angel Chavez): 29 batters faced, 1 runs allowed = 29 + 2.5 = 31.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Rolando Maroto
+
+Dídac Laguna: rng1 = 72 + 6 - 13 - 1 = 64
+rng2 = 16 + 4 - 9 - 1 = 10
+Groundout
+Team 2 pitcher (Rolando Maroto): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Hiro Hakayawa: rng1 = 84 + 13 - 13 - 1 = 83
+rng2 = 71 + 12 - 9 - 1 = 73
+Double
+Team 2 pitcher (Rolando Maroto): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [0,1], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Guillermo Tamayo: rng1 = 52 + 12 - 13 - 1 = 50
+rng2 = 59 + 6 - 9 - 1 = 55
+Lineout
+Team 2 pitcher (Rolando Maroto): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [0,1], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Zachary Hughes: rng1 = 8 + 10 - 13 - 1 = 4
+Strikeout
+Team 2 pitcher (Rolando Maroto): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Amante Harvey
+
+Konner Knight: rng1 = 57 + 11 - 12 + 1 = 57
+rng2 = 34 + 6 - 11 + 1 = 30
+Groundout
+Team 1 pitcher (Amante Harvey): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Jong Jung-Hwa: rng1 = 13 + 10 - 12 + 1 = 12
+rng2 = 72 + 13 - 11 + 1 = 75
+Flyout
+Team 1 pitcher (Amante Harvey): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Alonso Medina: rng1 = 97 + 10 - 12 + 1 = 96
+rng2 = 15 + 8 - 11 + 1 = 13
+Single
+Team 1 pitcher (Amante Harvey): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Jerome Goodwin: rng1 = 24 + 8 - 12 + 1 = 21
+Strikeout
+Team 1 pitcher (Amante Harvey): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Eduardo Elvira
+
+Micah Zamora: rng1 = 35 + 9 - 14 - 1 = 29
+rng2 = 8 + 13 - 11 - 1 = 9
+Groundout
+Team 2 pitcher (Eduardo Elvira): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Alfredo Encarnacion: rng1 = 64 + 9 - 14 - 1 = 58
+rng2 = 19 + 10 - 11 - 1 = 17
+Groundout
+Team 2 pitcher (Eduardo Elvira): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Felix Alarcón: rng1 = 48 + 5 - 14 - 1 = 38
+rng2 = 26 + 6 - 11 - 1 = 20
+Groundout
+Team 2 pitcher (Eduardo Elvira): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 4
+Team 2 hits: 5
+Team 1 runs: 0
+Team 2 runs: 1
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-08-05
+Hiro Hakayawa	4	0	1	1	0	0	0	0	1					Colorado
+Guillermo Tamayo	4	0	0	0	0	0	0	0	0	
+Zachary Hughes	4	0	1	0	0	0	0	0	1	
+Micah Zamora	4	0	1	0	0	0	0	0	0	
+Alfredo Encarnacion	4	0	0	0	0	0	0	0	0	
+Felix Alarcón	3	0	1	0	0	0	0	1	1	
+Sean Stevens	2	0	0	0	0	0	0	1	1	
+Agustín Molina	3	0	0	0	0	0	0	0	1	
+Dídac Laguna	2	0	0	0	0	0	0	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Angel Chavez	0	1	1	1	0	0	21	4	1	0	3	12	29	
+Amante Harvey	0	0	1	0	0	0	3	1	0	0	0	1	4	
+Lyndon Perell	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Julio Carrera	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Marquis Haynes	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-08-05
+Keli Alohilani	4	0	0	0	0	0	0	0	2					Philadelphia
+Tomas Canto	3	0	0	0	0	0	0	1	2	
+Konner Knight	4	0	0	0	0	0	0	0	2	
+Jong Jung-Hwa	4	0	0	0	0	0	0	0	2	
+Alonso Medina	4	0	2	0	0	0	0	0	1	
+Jerome Goodwin	2	0	0	0	0	0	0	1	2	
+Henry Porter	3	1	2	0	0	0	0	0	1	
+Cayson Guerrero	2	0	0	0	0	0	0	1	0	
+Chwa Jung-Su	3	0	1	0	0	0	1	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Aaron Parry	1	0	1	1	0	0	21	3	0	0	3	5	26	
+Rolando Maroto	0	0	1	0	0	0	3	1	0	0	0	1	4	
+Steve Randles	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Agustin Acosta	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Eduardo Elvira	0	0	1	0	1	1	3	0	0	0	0	0	3	

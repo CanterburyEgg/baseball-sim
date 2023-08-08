@@ -1,0 +1,712 @@
+TOP INNING 1
+
+Trace Spears: rng1 = 1 + 7 - 6 - 1 = 1
+Strikeout
+Team 2 pitcher (Callum Rees): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Joel Arboleda: rng1 = 65 + 6 - 6 - 1 = 64
+rng2 = 12 + 6 - 5 - 1 = 12
+Groundout
+Team 2 pitcher (Callum Rees): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Parker Dillard: rng1 = 77 + 6 - 6 - 1 = 76
+rng2 = 76 + 7 - 5 - 1 = 77
+Double
+Team 2 pitcher (Callum Rees): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Patrick Marshall: rng1 = 55 + 5 - 6 - 1 = 53
+rng2 = 53 + 7 - 5 - 1 = 54
+Lineout
+Team 2 pitcher (Callum Rees): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Gabe Roberts: rng1 = 45 + 13 - 5 + 1 = 54
+rng2 = 67 + 14 - 5 + 1 = 77
+Flyout
+Team 1 pitcher (Endo Shinzo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Blake Welsh: rng1 = 4 + 13 - 5 + 1 = 13
+rng2 = 24 + 8 - 5 + 1 = 28
+Groundout
+Team 1 pitcher (Endo Shinzo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Caleb Harrington: rng1 = 29 + 12 - 5 + 1 = 37
+rng2 = 44 + 10 - 5 + 1 = 50
+Lineout
+Team 1 pitcher (Endo Shinzo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Hector Obregón: rng1 = 49 + 3 - 6 - 1 = 45
+rng2 = 75 + 7 - 5 - 1 = 76
+Flyout
+Team 2 pitcher (Callum Rees): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Readale Roberson: rng1 = 46 + 4 - 6 - 1 = 43
+rng2 = 39 + 6 - 5 - 1 = 39
+Groundout
+Team 2 pitcher (Callum Rees): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Guillermo Richard: rng1 = 3 + 5 - 6 - 1 = 1
+Strikeout
+Team 2 pitcher (Callum Rees): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Tommy Baxter: rng1 = 74 + 8 - 5 + 1 = 78
+rng2 = 75 + 12 - 5 + 1 = 83
+Home run
+Team 1 pitcher (Endo Shinzo): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Emiel Ware: rng1 = 79 + 9 - 5 + 1 = 84
+rng2 = 42 + 10 - 5 + 1 = 48
+Single
+Team 1 pitcher (Endo Shinzo): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Jaquon Lyons: rng1 = 6 + 10 - 5 + 1 = 12
+rng2 = 6 + 9 - 5 + 1 = 11
+Groundout
+Team 1 pitcher (Endo Shinzo): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Timothy Bentley: rng1 = 48 + 6 - 5 + 1 = 50
+rng2 = 89 + 10 - 5 + 1 = 95
+Flyout
+Team 1 pitcher (Endo Shinzo): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 3
+
+Facundo Laguna: rng1 = 34 + 5 - 6 - 1 = 32
+rng2 = 33 + 5 - 5 - 1 = 32
+Groundout
+Team 2 pitcher (Callum Rees): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Marcos Gilabert: rng1 = 60 + 5 - 6 - 1 = 58
+rng2 = 33 + 5 - 5 - 1 = 32
+Groundout
+Team 2 pitcher (Callum Rees): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Trace Spears: rng1 = 72 + 7 - 6 - 1 = 72
+Walk
+Team 2 pitcher (Callum Rees): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Joel Arboleda: rng1 = 55 + 6 - 6 - 1 = 54
+rng2 = 24 + 6 - 5 - 1 = 24
+Groundout
+Team 2 pitcher (Callum Rees): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Isaac Secada: rng1 = 60 + 8 - 5 + 1 = 64
+rng2 = 84 + 8 - 5 + 1 = 88
+Flyout
+Team 1 pitcher (Endo Shinzo): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Darren Chang: rng1 = 9 + 5 - 5 + 1 = 10
+Strikeout
+Team 1 pitcher (Endo Shinzo): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Gabe Roberts: rng1 = 10 + 13 - 5 + 1 = 19
+Strikeout
+Team 1 pitcher (Endo Shinzo): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 4
+
+Parker Dillard: rng1 = 87 + 6 - 6 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Callum Rees): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 0
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Patrick Marshall: rng1 = 41 + 5 - 6 - 1 = 39
+rng2 = 65 + 7 - 5 - 1 = 66
+Flyout
+Team 2 pitcher (Callum Rees): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Hector Obregón: rng1 = 54 + 3 - 6 - 1 = 50
+rng2 = 69 + 7 - 5 - 1 = 70
+Flyout
+Team 2 pitcher (Callum Rees): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Readale Roberson: rng1 = 46 + 4 - 6 - 1 = 43
+rng2 = 54 + 6 - 5 - 1 = 54
+Lineout
+Team 2 pitcher (Callum Rees): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Blake Welsh: rng1 = 81 + 13 - 5 + 1 = 90
+Walk
+Team 1 pitcher (Endo Shinzo): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Caleb Harrington: rng1 = 58 + 12 - 5 + 1 = 66
+rng2 = 25 + 10 - 5 + 1 = 31
+Groundout
+Team 1 pitcher (Endo Shinzo): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Tommy Baxter: rng1 = 80 + 8 - 5 + 1 = 84
+rng2 = 21 + 12 - 5 + 1 = 29
+Single
+Team 1 pitcher (Endo Shinzo): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Emiel Ware: rng1 = 19 + 9 - 5 + 1 = 24
+Strikeout
+Team 1 pitcher (Endo Shinzo): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 5
+
+Guillermo Richard: rng1 = 93 + 5 - 6 - 1 = 91
+rng2 = 54 + 5 - 5 - 1 = 53
+Single
+Team 2 pitcher (Callum Rees): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Facundo Laguna: rng1 = 72 + 5 - 6 - 1 = 70
+Walk
+Team 2 pitcher (Callum Rees): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 0
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-1
+
+Marcos Gilabert: rng1 = 26 + 5 - 6 - 1 = 24
+Strikeout
+Team 2 pitcher (Callum Rees): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 1
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-1
+
+Trace Spears: rng1 = 98 + 7 - 6 - 1 = 98
+rng2 = 88 + 10 - 5 - 1 = 92
+Double
+Team 2 pitcher (Callum Rees): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-1
+
+Joel Arboleda: rng1 = 23 + 6 - 6 - 1 = 22
+Strikeout
+Team 2 pitcher (Callum Rees): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-1
+
+Parker Dillard: rng1 = 30 + 6 - 6 - 1 = 29
+rng2 = 81 + 7 - 5 - 1 = 82
+Flyout
+Team 2 pitcher (Callum Rees): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+BOTTOM INNING 5
+
+Jaquon Lyons: rng1 = 87 + 10 - 5 + 1 = 93
+rng2 = 88 + 9 - 5 + 1 = 93
+Triple
+Team 1 pitcher (Endo Shinzo): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 0
+
+base1: false, base2: false, base3: [5,0]
+base1: false, base2: false, base3: true
+Score: 2-1
+
+Timothy Bentley: rng1 = 82 + 6 - 5 + 1 = 84
+rng2 = 22 + 10 - 5 + 1 = 28
+Single
+Team 1 pitcher (Endo Shinzo): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Isaac Secada: rng1 = 63 + 8 - 5 + 1 = 67
+rng2 = 8 + 8 - 5 + 1 = 12
+Groundout
+Team 1 pitcher (Endo Shinzo): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Darren Chang: rng1 = 41 + 5 - 5 + 1 = 42
+rng2 = 34 + 7 - 5 + 1 = 37
+Groundout
+Team 1 pitcher (Endo Shinzo): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Gabe Roberts: rng1 = 63 + 13 - 5 + 1 = 72
+Walk
+Team 1 pitcher (Endo Shinzo): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 2
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-2
+
+Blake Welsh: rng1 = 29 + 13 - 5 + 1 = 38
+rng2 = 54 + 8 - 5 + 1 = 58
+Lineout
+Team 1 pitcher (Endo Shinzo): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+TOP INNING 6
+
+Patrick Marshall: rng1 = 15 + 5 - 6 - 1 = 13
+rng2 = 35 + 7 - 5 - 1 = 36
+Groundout
+Team 2 pitcher (Callum Rees): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Hector Obregón: rng1 = 80 + 3 - 6 - 1 = 76
+rng2 = 88 + 7 - 5 - 1 = 89
+Double
+Team 2 pitcher (Callum Rees): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 1
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-2
+
+Readale Roberson: rng1 = 25 + 4 - 6 - 1 = 22
+Strikeout
+Team 2 pitcher (Callum Rees): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 2
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-2
+
+Guillermo Richard: rng1 = 4 + 5 - 6 - 1 = 2
+Strikeout
+Team 2 pitcher (Callum Rees): 25 batters faced, 2 runs allowed = 25 + 5.0 = 30.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+BOTTOM INNING 6
+
+Caleb Harrington: rng1 = 37 + 12 - 5 + 1 = 45
+rng2 = 8 + 10 - 5 + 1 = 14
+Groundout
+Team 1 pitcher (Endo Shinzo): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Tommy Baxter: rng1 = 5 + 8 - 5 + 1 = 9
+Strikeout
+Team 1 pitcher (Endo Shinzo): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Emiel Ware: rng1 = 18 + 9 - 5 + 1 = 23
+Strikeout
+Team 1 pitcher (Endo Shinzo): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Kwok Kwang-Seok
+
+Facundo Laguna: rng1 = 91 + 5 - 11 - 1 = 84
+rng2 = 65 + 5 - 13 - 1 = 56
+Single
+Team 2 pitcher (Kwok Kwang-Seok): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Marcos Gilabert: rng1 = 46 + 5 - 11 - 1 = 39
+rng2 = 19 + 5 - 13 - 1 = 10
+Groundout
+Team 2 pitcher (Kwok Kwang-Seok): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [7,1], base3: false
+base1: false, base2: true, base3: false
+Score: 2-2
+
+Trace Spears: rng1 = 65 + 7 - 11 - 1 = 60
+rng2 = 4 + 10 - 13 - 1 = 0
+Groundout
+Team 2 pitcher (Kwok Kwang-Seok): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: [7,1]
+base1: false, base2: false, base3: true
+Score: 2-2
+
+Joel Arboleda: rng1 = 98 + 6 - 11 - 1 = 92
+rng2 = 66 + 6 - 13 - 1 = 58
+Single
+Team 2 pitcher (Kwok Kwang-Seok): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Parker Dillard: rng1 = 63 + 6 - 11 - 1 = 57
+rng2 = 36 + 7 - 13 - 1 = 29
+Groundout
+Team 2 pitcher (Kwok Kwang-Seok): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Jorge Pozo
+
+Jaquon Lyons: rng1 = 30 + 10 - 6 + 1 = 35
+rng2 = 27 + 9 - 4 + 1 = 33
+Groundout
+Team 1 pitcher (Jorge Pozo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Timothy Bentley: rng1 = 13 + 6 - 6 + 1 = 14
+rng2 = 60 + 10 - 4 + 1 = 67
+Flyout
+Team 1 pitcher (Jorge Pozo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Isaac Secada: rng1 = 50 + 8 - 6 + 1 = 53
+rng2 = 24 + 8 - 4 + 1 = 29
+Groundout
+Team 1 pitcher (Jorge Pozo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Abraham Pace
+
+Patrick Marshall: rng1 = 48 + 5 - 10 - 1 = 42
+rng2 = 38 + 7 - 10 - 1 = 34
+Groundout
+Team 2 pitcher (Abraham Pace): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Hector Obregón: rng1 = 67 + 3 - 10 - 1 = 59
+rng2 = 27 + 7 - 10 - 1 = 23
+Groundout
+Team 2 pitcher (Abraham Pace): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Readale Roberson: rng1 = 86 + 4 - 10 - 1 = 79
+rng2 = 17 + 6 - 10 - 1 = 12
+Single
+Team 2 pitcher (Abraham Pace): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Guillermo Richard: rng1 = 29 + 5 - 10 - 1 = 23
+Strikeout
+Team 2 pitcher (Abraham Pace): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+BOTTOM INNING 8
+
+Darren Chang: rng1 = 20 + 5 - 6 + 1 = 20
+Strikeout
+Team 1 pitcher (Jorge Pozo): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Gabe Roberts: rng1 = 73 + 13 - 6 + 1 = 81
+rng2 = 58 + 14 - 4 + 1 = 69
+Double
+Team 1 pitcher (Jorge Pozo): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: [0,1], base3: false
+base1: false, base2: true, base3: false
+Score: 3-2
+
+Blake Welsh: rng1 = 97 + 13 - 6 + 1 = 105
+rng2 = 91 + 8 - 4 + 1 = 96
+Home run
+Team 1 pitcher (Jorge Pozo): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Caleb Harrington: rng1 = 87 + 12 - 6 + 1 = 94
+rng2 = 80 + 10 - 4 + 1 = 87
+Double
+Team 1 pitcher (Jorge Pozo): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 1
+
+base1: false, base2: [2,1], base3: false
+base1: false, base2: true, base3: false
+Score: 3-4
+
+Tommy Baxter: rng1 = 34 + 8 - 6 + 1 = 37
+rng2 = 73 + 12 - 4 + 1 = 82
+Flyout
+Team 1 pitcher (Jorge Pozo): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: false, base2: [2,1], base3: false
+base1: false, base2: true, base3: false
+Score: 3-4
+
+Team 1 pitcher change to Major Ortiz
+
+Emiel Ware: rng1 = 8 + 9 - 7 + 1 = 11
+rng2 = 95 + 10 - 6 + 1 = 100
+Flyout
+Team 1 pitcher (Major Ortiz): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Iván Curbelo
+
+Facundo Laguna: rng1 = 85 + 5 - 14 - 1 = 75
+rng2 = 57 + 5 - 14 - 1 = 47
+Single
+Team 2 pitcher (Iván Curbelo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [7,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-4
+
+Marcos Gilabert: rng1 = 10 + 5 - 14 - 1 = 0
+Strikeout
+Team 2 pitcher (Iván Curbelo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [7,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-4
+
+Trace Spears: rng1 = 2 + 7 - 14 - 1 = -6
+Strikeout
+Team 2 pitcher (Iván Curbelo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [7,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-4
+
+Joel Arboleda: rng1 = 20 + 6 - 14 - 1 = 11
+rng2 = 17 + 6 - 14 - 1 = 8
+Groundout
+Team 2 pitcher (Iván Curbelo): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 8
+Team 2 hits: 8
+Team 1 runs: 3
+Team 2 runs: 4
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-08-08
+Trace Spears	4	0	1	1	0	0	2	1	2					Tennessee
+Joel Arboleda	5	0	1	0	0	0	1	0	1	
+Parker Dillard	3	0	1	1	0	0	0	0	0	
+Patrick Marshall	4	0	0	0	0	0	0	0	0	
+Hector Obregón	4	0	1	1	0	0	0	0	0	
+Readale Roberson	4	0	1	0	0	0	0	0	1	
+Guillermo Richard	4	1	1	0	0	0	0	0	3	
+Facundo Laguna	3	2	2	0	0	0	0	1	0	
+Marcos Gilabert	4	0	0	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Endo Shinzo	0	0	1	1	0	0	18	5	2	1	2	5	23	
+Jorge Pozo	0	1	1	0	0	0	5	3	2	1	0	1	8	
+Major Ortiz	0	0	1	0	0	0	1	0	0	0	0	0	1	
+Finn Sachse	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Luciano Garrido	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-08-08
+Gabe Roberts	3	1	1	1	0	0	0	1	1					Miami
+Blake Welsh	3	1	1	0	0	1	2	1	0	
+Caleb Harrington	4	0	1	1	0	0	0	0	0	
+Tommy Baxter	4	1	2	0	0	1	1	0	1	
+Emiel Ware	4	0	1	0	0	0	0	0	2	
+Jaquon Lyons	3	1	1	0	1	0	0	0	0	
+Timothy Bentley	3	0	1	0	0	0	1	0	0	
+Isaac Secada	3	0	0	0	0	0	0	0	0	
+Darren Chang	3	0	0	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Callum Rees	0	0	1	1	0	0	18	4	2	0	2	6	25	
+Kwok Kwang-Seok	0	0	1	0	0	0	3	2	1	0	0	0	5	
+Abraham Pace	1	0	1	0	0	0	3	1	0	0	0	1	4	
+Isaac Hartman	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Iván Curbelo	0	0	1	0	1	1	3	1	0	0	0	2	4	

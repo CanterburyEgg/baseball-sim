@@ -1,0 +1,702 @@
+TOP INNING 1
+
+Cody Henderson: rng1 = 42 + 15 - 11 - 1 = 45
+rng2 = 79 + 14 - 10 - 1 = 82
+Flyout
+Team 2 pitcher (Leo Brantley): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Kieran Byrne: rng1 = 6 + 13 - 11 - 1 = 7
+Strikeout
+Team 2 pitcher (Leo Brantley): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Xavier Washington: rng1 = 20 + 13 - 11 - 1 = 21
+Strikeout
+Team 2 pitcher (Leo Brantley): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Isaías Juderías: rng1 = 58 + 13 - 9 + 1 = 63
+rng2 = 91 + 10 - 7 + 1 = 95
+Flyout
+Team 1 pitcher (Francisco Garcia): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jaz Eaton: rng1 = 87 + 12 - 9 + 1 = 91
+rng2 = 32 + 12 - 7 + 1 = 38
+Single
+Team 1 pitcher (Francisco Garcia): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Efraim Agramonte: rng1 = 84 + 12 - 9 + 1 = 88
+Walk
+Team 1 pitcher (Francisco Garcia): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Anthony Davila: rng1 = 79 + 11 - 9 + 1 = 82
+rng2 = 62 + 12 - 7 + 1 = 68
+Double
+Team 1 pitcher (Francisco Garcia): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-2
+
+Sean Lee: rng1 = 27 + 11 - 9 + 1 = 30
+rng2 = 33 + 10 - 7 + 1 = 37
+Groundout
+Team 1 pitcher (Francisco Garcia): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: false, base2: false, base3: [3,0]
+base1: false, base2: false, base3: true
+Score: 0-2
+
+John Gibson: rng1 = 91 + 9 - 9 + 1 = 92
+rng2 = 19 + 9 - 7 + 1 = 22
+Single
+Team 1 pitcher (Francisco Garcia): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Adrián Noboa: rng1 = 6 + 8 - 9 + 1 = 6
+Strikeout
+Team 1 pitcher (Francisco Garcia): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+TOP INNING 2
+
+Anthony Bennett: rng1 = 52 + 12 - 11 - 1 = 52
+rng2 = 18 + 13 - 10 - 1 = 20
+Groundout
+Team 2 pitcher (Leo Brantley): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Jadon Mitchell: rng1 = 93 + 12 - 11 - 1 = 93
+rng2 = 12 + 12 - 10 - 1 = 13
+Single
+Team 2 pitcher (Leo Brantley): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Elliot Hudson: rng1 = 31 + 9 - 11 - 1 = 28
+Strikeout
+Team 2 pitcher (Leo Brantley): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Aaron Vera: rng1 = 95 + 9 - 11 - 1 = 92
+rng2 = 79 + 8 - 10 - 1 = 76
+Double
+Team 2 pitcher (Leo Brantley): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: [6,0], base3: [4,0]
+base1: false, base2: true, base3: true
+Score: 0-3
+
+César Botín: rng1 = 30 + 8 - 11 - 1 = 26
+Strikeout
+Team 2 pitcher (Leo Brantley): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+BOTTOM INNING 2
+
+Gregory Cooper: rng1 = 79 + 4 - 9 + 1 = 75
+rng2 = 62 + 7 - 7 + 1 = 63
+Single
+Team 1 pitcher (Francisco Garcia): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Adalberto Smith: rng1 = 16 + 3 - 9 + 1 = 11
+rng2 = 39 + 7 - 7 + 1 = 40
+Groundout
+Team 1 pitcher (Francisco Garcia): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Isaías Juderías: rng1 = 67 + 13 - 9 + 1 = 72
+Walk
+Team 1 pitcher (Francisco Garcia): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 1
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-3
+
+Jaz Eaton: rng1 = 53 + 12 - 9 + 1 = 57
+rng2 = 14 + 12 - 7 + 1 = 20
+Groundout
+Team 1 pitcher (Francisco Garcia): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+TOP INNING 3
+
+Joshua Fontina: rng1 = 87 + 4 - 11 - 1 = 79
+rng2 = 47 + 7 - 10 - 1 = 43
+Single
+Team 2 pitcher (Leo Brantley): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Cody Henderson: rng1 = 51 + 15 - 11 - 1 = 54
+rng2 = 45 + 14 - 10 - 1 = 48
+Lineout
+Team 2 pitcher (Leo Brantley): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Kieran Byrne: rng1 = 86 + 13 - 11 - 1 = 87
+Walk
+Team 2 pitcher (Leo Brantley): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 1
+
+base1: [1,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-3
+
+Xavier Washington: rng1 = 87 + 13 - 11 - 1 = 88
+Walk
+Team 2 pitcher (Leo Brantley): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 1
+
+base1: [2,0], base2: [1,0], base3: [8,0]
+base1: true, base2: true, base3: true
+Score: 0-3
+
+Anthony Bennett: rng1 = 12 + 12 - 11 - 1 = 12
+rng2 = 61 + 13 - 10 - 1 = 63
+Flyout
+Team 2 pitcher (Leo Brantley): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 2
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 1-3
+
+Jadon Mitchell: rng1 = 52 + 12 - 11 - 1 = 52
+rng2 = 67 + 12 - 10 - 1 = 68
+Flyout
+Team 2 pitcher (Leo Brantley): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+BOTTOM INNING 3
+
+Efraim Agramonte: rng1 = 31 + 12 - 9 + 1 = 35
+rng2 = 94 + 8 - 7 + 1 = 96
+Flyout
+Team 1 pitcher (Francisco Garcia): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Anthony Davila: rng1 = 16 + 11 - 9 + 1 = 19
+Strikeout
+Team 1 pitcher (Francisco Garcia): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Sean Lee: rng1 = 5 + 11 - 9 + 1 = 8
+Strikeout
+Team 1 pitcher (Francisco Garcia): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 4
+
+Elliot Hudson: rng1 = 9 + 9 - 11 - 1 = 6
+Strikeout
+Team 2 pitcher (Leo Brantley): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Aaron Vera: rng1 = 92 + 9 - 11 - 1 = 89
+Walk
+Team 2 pitcher (Leo Brantley): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+César Botín: rng1 = 44 + 8 - 11 - 1 = 40
+rng2 = 38 + 6 - 10 - 1 = 33
+Groundout
+Team 2 pitcher (Leo Brantley): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Joshua Fontina: rng1 = 7 + 4 - 11 - 1 = -1
+Strikeout
+Team 2 pitcher (Leo Brantley): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+BOTTOM INNING 4
+
+John Gibson: rng1 = 96 + 9 - 9 + 1 = 97
+rng2 = 72 + 9 - 7 + 1 = 75
+Double
+Team 1 pitcher (Francisco Garcia): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 0
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-3
+
+Adrián Noboa: rng1 = 6 + 8 - 9 + 1 = 6
+Strikeout
+Team 1 pitcher (Francisco Garcia): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 1
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-3
+
+Gregory Cooper: rng1 = 8 + 4 - 9 + 1 = 4
+Strikeout
+Team 1 pitcher (Francisco Garcia): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 2
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-3
+
+Adalberto Smith: rng1 = 24 + 3 - 9 + 1 = 19
+Strikeout
+Team 1 pitcher (Francisco Garcia): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 5
+
+Cody Henderson: rng1 = 34 + 15 - 11 - 1 = 37
+rng2 = 18 + 14 - 10 - 1 = 21
+Groundout
+Team 2 pitcher (Leo Brantley): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Kieran Byrne: rng1 = 11 + 13 - 11 - 1 = 12
+rng2 = 79 + 12 - 10 - 1 = 80
+Flyout
+Team 2 pitcher (Leo Brantley): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Xavier Washington: rng1 = 59 + 13 - 11 - 1 = 60
+rng2 = 45 + 14 - 10 - 1 = 48
+Lineout
+Team 2 pitcher (Leo Brantley): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+BOTTOM INNING 5
+
+Isaías Juderías: rng1 = 91 + 13 - 9 + 1 = 96
+rng2 = 14 + 10 - 7 + 1 = 18
+Single
+Team 1 pitcher (Francisco Garcia): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Jaz Eaton: rng1 = 19 + 12 - 9 + 1 = 23
+Strikeout
+Team 1 pitcher (Francisco Garcia): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Efraim Agramonte: rng1 = 91 + 12 - 9 + 1 = 95
+rng2 = 57 + 8 - 7 + 1 = 59
+Single
+Team 1 pitcher (Francisco Garcia): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 1
+
+base1: [2,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-3
+
+Anthony Davila: rng1 = 28 + 11 - 9 + 1 = 31
+rng2 = 68 + 12 - 7 + 1 = 74
+Flyout
+Team 1 pitcher (Francisco Garcia): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 2
+
+base1: [2,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 1-3
+
+Sean Lee: rng1 = 88 + 11 - 9 + 1 = 91
+rng2 = 98 + 10 - 7 + 1 = 102
+Home run
+Team 1 pitcher (Francisco Garcia): 23 batters faced, 6 runs allowed = 23 + 15.0 = 38.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Team 1 pitcher change to Ryu Shi-Woo
+
+John Gibson: rng1 = 4 + 9 - 7 + 1 = 7
+Strikeout
+Team 1 pitcher (Ryu Shi-Woo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 6
+
+Anthony Bennett: rng1 = 44 + 12 - 11 - 1 = 44
+rng2 = 56 + 13 - 10 - 1 = 58
+Lineout
+Team 2 pitcher (Leo Brantley): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Jadon Mitchell: rng1 = 56 + 12 - 11 - 1 = 56
+rng2 = 51 + 12 - 10 - 1 = 52
+Lineout
+Team 2 pitcher (Leo Brantley): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Elliot Hudson: rng1 = 20 + 9 - 11 - 1 = 17
+Strikeout
+Team 2 pitcher (Leo Brantley): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+BOTTOM INNING 6
+
+Adrián Noboa: rng1 = 54 + 8 - 7 + 1 = 56
+rng2 = 84 + 8 - 6 + 1 = 87
+Flyout
+Team 1 pitcher (Ryu Shi-Woo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Gregory Cooper: rng1 = 40 + 4 - 7 + 1 = 38
+rng2 = 19 + 7 - 6 + 1 = 21
+Groundout
+Team 1 pitcher (Ryu Shi-Woo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Adalberto Smith: rng1 = 29 + 3 - 7 + 1 = 26
+Strikeout
+Team 1 pitcher (Ryu Shi-Woo): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 7
+
+Aaron Vera: rng1 = 59 + 9 - 11 - 1 = 56
+rng2 = 34 + 8 - 10 - 1 = 31
+Groundout
+Team 2 pitcher (Leo Brantley): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+César Botín: rng1 = 2 + 8 - 11 - 1 = -2
+Strikeout
+Team 2 pitcher (Leo Brantley): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Joshua Fontina: rng1 = 15 + 4 - 11 - 1 = 7
+Strikeout
+Team 2 pitcher (Leo Brantley): 27 batters faced, 1 runs allowed = 27 + 2.5 = 29.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+BOTTOM INNING 7
+
+Isaías Juderías: rng1 = 1 + 13 - 7 + 1 = 8
+Strikeout
+Team 1 pitcher (Ryu Shi-Woo): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Jaz Eaton: rng1 = 18 + 12 - 7 + 1 = 24
+Strikeout
+Team 1 pitcher (Ryu Shi-Woo): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Efraim Agramonte: rng1 = 49 + 12 - 7 + 1 = 55
+rng2 = 80 + 8 - 6 + 1 = 83
+Flyout
+Team 1 pitcher (Ryu Shi-Woo): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Harris Derickson
+
+Cody Henderson: rng1 = 50 + 15 - 6 - 1 = 58
+rng2 = 21 + 14 - 5 - 1 = 29
+Groundout
+Team 2 pitcher (Harris Derickson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Kieran Byrne: rng1 = 9 + 13 - 6 - 1 = 15
+rng2 = 27 + 12 - 5 - 1 = 33
+Groundout
+Team 2 pitcher (Harris Derickson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Xavier Washington: rng1 = 39 + 13 - 6 - 1 = 45
+rng2 = 28 + 14 - 5 - 1 = 36
+Groundout
+Team 2 pitcher (Harris Derickson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Foster Roebuck
+
+Anthony Davila: rng1 = 35 + 11 - 9 + 1 = 38
+rng2 = 69 + 12 - 9 + 1 = 73
+Flyout
+Team 1 pitcher (Foster Roebuck): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Sean Lee: rng1 = 70 + 11 - 9 + 1 = 73
+rng2 = 9 + 10 - 9 + 1 = 11
+Single
+Team 1 pitcher (Foster Roebuck): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+John Gibson: rng1 = 92 + 9 - 9 + 1 = 93
+rng2 = 18 + 9 - 9 + 1 = 19
+Single
+Team 1 pitcher (Foster Roebuck): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [5,2], base2: false, base3: [4,2]
+base1: true, base2: false, base3: true
+Score: 1-6
+
+Adrián Noboa: rng1 = 91 + 8 - 9 + 1 = 91
+rng2 = 84 + 8 - 9 + 1 = 84
+Home run
+Team 1 pitcher (Foster Roebuck): 4 batters faced, 3 runs allowed = 4 + 7.5 = 11.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-9
+
+Gregory Cooper: rng1 = 72 + 4 - 9 + 1 = 68
+rng2 = 55 + 7 - 9 + 1 = 54
+Lineout
+Team 1 pitcher (Foster Roebuck): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-9
+
+Adalberto Smith: rng1 = 11 + 3 - 9 + 1 = 6
+Strikeout
+Team 1 pitcher (Foster Roebuck): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-9
+
+-----------------------
+
+TOP INNING 9
+
+Anthony Bennett: rng1 = 80 + 12 - 6 - 1 = 85
+rng2 = 44 + 13 - 5 - 1 = 51
+Single
+Team 2 pitcher (Harris Derickson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-9
+
+Jadon Mitchell: rng1 = 28 + 12 - 6 - 1 = 33
+rng2 = 52 + 12 - 5 - 1 = 58
+Lineout
+Team 2 pitcher (Harris Derickson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-9
+
+Elliot Hudson: rng1 = 59 + 9 - 6 - 1 = 61
+rng2 = 60 + 10 - 5 - 1 = 64
+Flyout
+Team 2 pitcher (Harris Derickson): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-9
+
+Aaron Vera: rng1 = 13 + 9 - 6 - 1 = 15
+rng2 = 77 + 8 - 5 - 1 = 79
+Flyout
+Team 2 pitcher (Harris Derickson): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-9
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 4
+Team 2 hits: 11
+Team 1 runs: 1
+Team 2 runs: 9
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-08-11
+Cody Henderson	4	0	0	0	0	0	0	0	0					Houston
+Kieran Byrne	3	0	0	0	0	0	0	1	1	
+Xavier Washington	3	0	0	0	0	0	0	1	1	
+Anthony Bennett	4	0	1	0	0	0	1	0	0	
+Jadon Mitchell	4	0	1	0	0	0	0	0	0	
+Elliot Hudson	4	0	0	0	0	0	0	0	3	
+Aaron Vera	3	0	1	1	0	0	0	1	0	
+César Botín	3	0	0	0	0	0	0	0	2	
+Joshua Fontina	3	1	1	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Francisco Garcia	0	1	1	1	0	0	14	8	6	1	2	7	23	
+Ryu Shi-Woo	0	0	1	0	0	0	7	0	0	0	0	4	7	
+Foster Roebuck	0	0	1	0	0	0	3	3	3	1	0	1	6	
+Craig Valencis	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Gideon Giles	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-08-11
+Isaías Juderías	3	1	1	0	0	0	0	1	1					San Francisco
+Jaz Eaton	4	1	1	0	0	0	0	0	2	
+Efraim Agramonte	3	2	1	0	0	0	0	1	0	
+Anthony Davila	4	1	1	1	0	0	2	0	1	
+Sean Lee	4	2	2	0	0	1	3	0	1	
+John Gibson	4	1	3	1	0	0	1	0	1	
+Adrián Noboa	4	1	1	0	0	1	3	0	2	
+Gregory Cooper	4	0	1	0	0	0	0	0	1	
+Adalberto Smith	4	0	0	0	0	0	0	0	3	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Leo Brantley	1	0	1	1	0	0	21	3	1	0	3	9	27	
+Harris Derickson	0	0	1	0	0	0	6	1	0	0	0	0	7	
+Edmundo Martínez	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Fernando Rosario	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Kirk Johns	0	0	0	0	0	0	0	0	0	0	0	0	0	

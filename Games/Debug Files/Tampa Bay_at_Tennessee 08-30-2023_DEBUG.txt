@@ -1,0 +1,779 @@
+TOP INNING 1
+
+Kim Tae-Woo: rng1 = 12 + 14 - 5 - 1 = 20
+Strikeout
+Team 2 pitcher (Endo Shinzo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Justus Pate: rng1 = 91 + 12 - 5 - 1 = 97
+rng2 = 81 + 13 - 5 - 1 = 88
+Double
+Team 2 pitcher (Endo Shinzo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Leonardo Nunez: rng1 = 86 + 11 - 5 - 1 = 91
+rng2 = 44 + 7 - 5 - 1 = 45
+Single
+Team 2 pitcher (Endo Shinzo): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Koyama Tsuneo: rng1 = 36 + 15 - 5 - 1 = 45
+rng2 = 25 + 13 - 5 - 1 = 32
+Groundout
+Team 2 pitcher (Endo Shinzo): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Charles Harris: rng1 = 47 + 7 - 5 - 1 = 48
+rng2 = 57 + 10 - 5 - 1 = 61
+Flyout
+Team 2 pitcher (Endo Shinzo): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Trace Spears: rng1 = 30 + 7 - 8 + 1 = 30
+rng2 = 81 + 10 - 7 + 1 = 85
+Flyout
+Team 1 pitcher (Jonathan Correa): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Joel Arboleda: rng1 = 57 + 6 - 8 + 1 = 56
+rng2 = 42 + 6 - 7 + 1 = 42
+Groundout
+Team 1 pitcher (Jonathan Correa): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Parker Dillard: rng1 = 1 + 6 - 8 + 1 = 0
+Strikeout
+Team 1 pitcher (Jonathan Correa): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 2
+
+Jeronimo Maldonado: rng1 = 50 + 7 - 5 - 1 = 51
+rng2 = 40 + 10 - 5 - 1 = 44
+Groundout
+Team 2 pitcher (Endo Shinzo): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Jesús Alarcón: rng1 = 87 + 5 - 5 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Endo Shinzo): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Adam Marshall: rng1 = 46 + 4 - 5 - 1 = 44
+rng2 = 50 + 9 - 5 - 1 = 53
+Lineout
+Team 2 pitcher (Endo Shinzo): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Kojima Kunio: rng1 = 68 + 3 - 5 - 1 = 65
+rng2 = 24 + 7 - 5 - 1 = 25
+Groundout
+Team 2 pitcher (Endo Shinzo): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Patrick Marshall: rng1 = 25 + 5 - 8 + 1 = 23
+Strikeout
+Team 1 pitcher (Jonathan Correa): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Hector Obregón: rng1 = 40 + 3 - 8 + 1 = 36
+rng2 = 51 + 7 - 7 + 1 = 52
+Lineout
+Team 1 pitcher (Jonathan Correa): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Readale Roberson: rng1 = 66 + 4 - 8 + 1 = 63
+rng2 = 59 + 6 - 7 + 1 = 59
+Flyout
+Team 1 pitcher (Jonathan Correa): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 3
+
+Kim Tae-Woo: rng1 = 88 + 14 - 5 - 1 = 96
+rng2 = 52 + 14 - 5 - 1 = 60
+Single
+Team 2 pitcher (Endo Shinzo): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Justus Pate: rng1 = 66 + 12 - 5 - 1 = 72
+Walk
+Team 2 pitcher (Endo Shinzo): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 0
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Leonardo Nunez: rng1 = 24 + 11 - 5 - 1 = 29
+rng2 = 94 + 7 - 5 - 1 = 95
+Flyout
+Team 2 pitcher (Endo Shinzo): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Koyama Tsuneo: rng1 = 32 + 15 - 5 - 1 = 41
+rng2 = 13 + 13 - 5 - 1 = 20
+Groundout
+Team 2 pitcher (Endo Shinzo): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 2
+
+base1: false, base2: [1,0], base3: [0,0]
+base1: false, base2: true, base3: true
+Score: 1-0
+
+Charles Harris: rng1 = 95 + 7 - 5 - 1 = 96
+rng2 = 30 + 10 - 5 - 1 = 34
+Single
+Team 2 pitcher (Endo Shinzo): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Jeronimo Maldonado: rng1 = 25 + 7 - 5 - 1 = 26
+Strikeout
+Team 2 pitcher (Endo Shinzo): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Guillermo Richard: rng1 = 26 + 5 - 8 + 1 = 24
+Strikeout
+Team 1 pitcher (Jonathan Correa): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Facundo Laguna: rng1 = 85 + 5 - 8 + 1 = 83
+rng2 = 18 + 5 - 7 + 1 = 17
+Single
+Team 1 pitcher (Jonathan Correa): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Marcos Gilabert: rng1 = 72 + 5 - 8 + 1 = 70
+Walk
+Team 1 pitcher (Jonathan Correa): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-0
+
+Trace Spears: rng1 = 75 + 7 - 8 + 1 = 75
+rng2 = 50 + 10 - 7 + 1 = 54
+Single
+Team 1 pitcher (Jonathan Correa): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: [0,0], base2: [8,0], base3: [7,0]
+base1: true, base2: true, base3: true
+Score: 3-0
+
+Joel Arboleda: rng1 = 81 + 6 - 8 + 1 = 80
+rng2 = 69 + 6 - 7 + 1 = 69
+Double
+Team 1 pitcher (Jonathan Correa): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 1
+
+base1: false, base2: [1,0], base3: [0,0]
+base1: false, base2: true, base3: true
+Score: 3-2
+
+Parker Dillard: rng1 = 79 + 6 - 8 + 1 = 78
+rng2 = 23 + 7 - 7 + 1 = 24
+Single
+Team 1 pitcher (Jonathan Correa): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-4
+
+Patrick Marshall: rng1 = 100 + 5 - 8 + 1 = 98
+rng2 = 62 + 7 - 7 + 1 = 63
+Single
+Team 1 pitcher (Jonathan Correa): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 1
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-4
+
+Hector Obregón: rng1 = 82 + 3 - 8 + 1 = 78
+rng2 = 53 + 7 - 7 + 1 = 54
+Single
+Team 1 pitcher (Jonathan Correa): 14 batters faced, 5 runs allowed = 14 + 12.5 = 26.5, outs: 1
+
+base1: [4,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 3-5
+
+Readale Roberson: rng1 = 76 + 4 - 8 + 1 = 73
+rng2 = 82 + 6 - 7 + 1 = 82
+Home run
+Team 1 pitcher (Jonathan Correa): 15 batters faced, 8 runs allowed = 15 + 20.0 = 35.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Guillermo Richard: rng1 = 37 + 5 - 8 + 1 = 35
+rng2 = 70 + 5 - 7 + 1 = 69
+Flyout
+Team 1 pitcher (Jonathan Correa): 16 batters faced, 8 runs allowed = 16 + 20.0 = 36.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Facundo Laguna: rng1 = 77 + 5 - 8 + 1 = 75
+rng2 = 85 + 5 - 7 + 1 = 84
+Home run
+Team 1 pitcher (Jonathan Correa): 17 batters faced, 9 runs allowed = 17 + 22.5 = 39.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-9
+
+Team 1 pitcher change to Ignacio Morales
+
+Marcos Gilabert: rng1 = 7 + 5 - 8 + 1 = 5
+Strikeout
+Team 1 pitcher (Ignacio Morales): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-9
+
+-----------------------
+
+TOP INNING 4
+
+Jesús Alarcón: rng1 = 1 + 5 - 5 - 1 = 0
+Strikeout
+Team 2 pitcher (Endo Shinzo): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-9
+
+Adam Marshall: rng1 = 34 + 4 - 5 - 1 = 32
+rng2 = 46 + 9 - 5 - 1 = 49
+Lineout
+Team 2 pitcher (Endo Shinzo): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-9
+
+Kojima Kunio: rng1 = 71 + 3 - 5 - 1 = 68
+rng2 = 82 + 7 - 5 - 1 = 83
+Flyout
+Team 2 pitcher (Endo Shinzo): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-9
+
+-----------------------
+
+BOTTOM INNING 4
+
+Trace Spears: rng1 = 20 + 7 - 8 + 1 = 20
+Strikeout
+Team 1 pitcher (Ignacio Morales): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-9
+
+Joel Arboleda: rng1 = 14 + 6 - 8 + 1 = 13
+rng2 = 61 + 6 - 7 + 1 = 61
+Flyout
+Team 1 pitcher (Ignacio Morales): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-9
+
+Parker Dillard: rng1 = 49 + 6 - 8 + 1 = 48
+rng2 = 68 + 7 - 7 + 1 = 69
+Flyout
+Team 1 pitcher (Ignacio Morales): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-9
+
+-----------------------
+
+TOP INNING 5
+
+Kim Tae-Woo: rng1 = 6 + 14 - 5 - 1 = 14
+rng2 = 32 + 14 - 5 - 1 = 40
+Groundout
+Team 2 pitcher (Endo Shinzo): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-9
+
+Justus Pate: rng1 = 95 + 12 - 5 - 1 = 101
+rng2 = 94 + 13 - 5 - 1 = 101
+Home run
+Team 2 pitcher (Endo Shinzo): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-9
+
+Leonardo Nunez: rng1 = 9 + 11 - 5 - 1 = 14
+rng2 = 86 + 7 - 5 - 1 = 87
+Flyout
+Team 2 pitcher (Endo Shinzo): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-9
+
+Koyama Tsuneo: rng1 = 35 + 15 - 5 - 1 = 44
+rng2 = 39 + 13 - 5 - 1 = 46
+Groundout
+Team 2 pitcher (Endo Shinzo): 22 batters faced, 4 runs allowed = 22 + 10.0 = 32.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-9
+
+-----------------------
+
+BOTTOM INNING 5
+
+Patrick Marshall: rng1 = 40 + 5 - 8 + 1 = 38
+rng2 = 7 + 7 - 7 + 1 = 8
+Groundout
+Team 1 pitcher (Ignacio Morales): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-9
+
+Hector Obregón: rng1 = 68 + 3 - 8 + 1 = 64
+rng2 = 45 + 7 - 7 + 1 = 46
+Groundout
+Team 1 pitcher (Ignacio Morales): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-9
+
+Readale Roberson: rng1 = 95 + 4 - 8 + 1 = 92
+rng2 = 48 + 6 - 7 + 1 = 48
+Single
+Team 1 pitcher (Ignacio Morales): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-9
+
+Guillermo Richard: rng1 = 85 + 5 - 8 + 1 = 83
+rng2 = 33 + 5 - 7 + 1 = 32
+Single
+Team 1 pitcher (Ignacio Morales): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [6,1], base2: false, base3: [5,1]
+base1: true, base2: false, base3: true
+Score: 4-9
+
+Facundo Laguna: rng1 = 83 + 5 - 8 + 1 = 81
+rng2 = 86 + 5 - 7 + 1 = 85
+Home run
+Team 1 pitcher (Ignacio Morales): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-12
+
+Team 1 pitcher change to Logan Rogers
+
+Marcos Gilabert: rng1 = 52 + 5 - 9 + 1 = 49
+rng2 = 47 + 5 - 6 + 1 = 47
+Groundout
+Team 1 pitcher (Logan Rogers): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-12
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Jorge Pozo
+
+Charles Harris: rng1 = 8 + 7 - 6 - 1 = 8
+Strikeout
+Team 2 pitcher (Jorge Pozo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-12
+
+Jeronimo Maldonado: rng1 = 99 + 7 - 6 - 1 = 99
+rng2 = 93 + 10 - 4 - 1 = 98
+Home run
+Team 2 pitcher (Jorge Pozo): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-12
+
+Jesús Alarcón: rng1 = 2 + 5 - 6 - 1 = 0
+Strikeout
+Team 2 pitcher (Jorge Pozo): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-12
+
+Adam Marshall: rng1 = 28 + 4 - 6 - 1 = 25
+Strikeout
+Team 2 pitcher (Jorge Pozo): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-12
+
+-----------------------
+
+BOTTOM INNING 6
+
+Trace Spears: rng1 = 86 + 7 - 9 + 1 = 85
+rng2 = 94 + 10 - 6 + 1 = 99
+Home run
+Team 1 pitcher (Logan Rogers): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-13
+
+Joel Arboleda: rng1 = 48 + 6 - 9 + 1 = 46
+rng2 = 97 + 6 - 6 + 1 = 98
+Flyout
+Team 1 pitcher (Logan Rogers): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-13
+
+Parker Dillard: rng1 = 12 + 6 - 9 + 1 = 10
+Strikeout
+Team 1 pitcher (Logan Rogers): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-13
+
+Patrick Marshall: rng1 = 71 + 5 - 9 + 1 = 68
+rng2 = 88 + 7 - 6 + 1 = 90
+Flyout
+Team 1 pitcher (Logan Rogers): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-13
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Major Ortiz
+
+Kojima Kunio: rng1 = 72 + 3 - 7 - 1 = 67
+rng2 = 62 + 7 - 6 - 1 = 62
+Flyout
+Team 2 pitcher (Major Ortiz): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-13
+
+Kim Tae-Woo: rng1 = 84 + 14 - 7 - 1 = 90
+Walk
+Team 2 pitcher (Major Ortiz): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-13
+
+Justus Pate: rng1 = 70 + 12 - 7 - 1 = 74
+rng2 = 32 + 13 - 6 - 1 = 38
+Single
+Team 2 pitcher (Major Ortiz): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [1,2], base2: false, base3: [0,2]
+base1: true, base2: false, base3: true
+Score: 5-13
+
+Leonardo Nunez: rng1 = 11 + 11 - 7 - 1 = 14
+rng2 = 79 + 7 - 6 - 1 = 79
+Flyout
+Team 2 pitcher (Major Ortiz): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-13
+
+Koyama Tsuneo: rng1 = 23 + 15 - 7 - 1 = 30
+rng2 = 30 + 13 - 6 - 1 = 36
+Groundout
+Team 2 pitcher (Major Ortiz): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-13
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Boone Almas
+
+Hector Obregón: rng1 = 62 + 3 - 6 + 1 = 60
+rng2 = 84 + 7 - 9 + 1 = 83
+Flyout
+Team 1 pitcher (Boone Almas): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-13
+
+Readale Roberson: rng1 = 53 + 4 - 6 + 1 = 52
+rng2 = 51 + 6 - 9 + 1 = 49
+Lineout
+Team 1 pitcher (Boone Almas): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-13
+
+Guillermo Richard: rng1 = 25 + 5 - 6 + 1 = 25
+Strikeout
+Team 1 pitcher (Boone Almas): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-13
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Finn Sachse
+
+Charles Harris: rng1 = 68 + 7 - 6 - 1 = 68
+rng2 = 68 + 10 - 5 - 1 = 72
+Flyout
+Team 2 pitcher (Finn Sachse): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-13
+
+Jeronimo Maldonado: rng1 = 92 + 7 - 6 - 1 = 92
+rng2 = 7 + 10 - 5 - 1 = 11
+Single
+Team 2 pitcher (Finn Sachse): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [5,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-13
+
+Jesús Alarcón: rng1 = 29 + 5 - 6 - 1 = 27
+Strikeout
+Team 2 pitcher (Finn Sachse): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [5,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-13
+
+Adam Marshall: rng1 = 43 + 4 - 6 - 1 = 40
+rng2 = 11 + 9 - 5 - 1 = 14
+Groundout
+Team 2 pitcher (Finn Sachse): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-13
+
+-----------------------
+
+BOTTOM INNING 8
+
+Facundo Laguna: rng1 = 62 + 5 - 6 + 1 = 62
+rng2 = 1 + 5 - 9 + 1 = -2
+Groundout
+Team 1 pitcher (Boone Almas): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-13
+
+Marcos Gilabert: rng1 = 7 + 5 - 6 + 1 = 7
+Strikeout
+Team 1 pitcher (Boone Almas): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-13
+
+Trace Spears: rng1 = 23 + 7 - 6 + 1 = 25
+Strikeout
+Team 1 pitcher (Boone Almas): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-13
+
+-----------------------
+
+TOP INNING 9
+
+Kojima Kunio: rng1 = 85 + 3 - 6 - 1 = 81
+rng2 = 22 + 7 - 5 - 1 = 23
+Single
+Team 2 pitcher (Finn Sachse): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [8,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-13
+
+Kim Tae-Woo: rng1 = 93 + 14 - 6 - 1 = 100
+rng2 = 72 + 14 - 5 - 1 = 80
+Home run
+Team 2 pitcher (Finn Sachse): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-13
+
+Justus Pate: rng1 = 41 + 12 - 6 - 1 = 46
+rng2 = 98 + 13 - 5 - 1 = 105
+Flyout
+Team 2 pitcher (Finn Sachse): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-13
+
+Leonardo Nunez: rng1 = 32 + 11 - 6 - 1 = 36
+rng2 = 33 + 7 - 5 - 1 = 34
+Groundout
+Team 2 pitcher (Finn Sachse): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-13
+
+Team 2 pitcher change to Luciano Garrido
+
+Koyama Tsuneo: rng1 = 56 + 15 - 8 - 1 = 62
+rng2 = 97 + 13 - 7 - 1 = 102
+Flyout
+Team 2 pitcher (Luciano Garrido): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-13
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 10
+Team 2 hits: 12
+Team 1 runs: 8
+Team 2 runs: 13
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-08-30
+Kim Tae-Woo	4	3	2	0	0	1	2	1	1					Tampa Bay
+Justus Pate	4	3	3	1	0	1	1	1	0	
+Leonardo Nunez	5	0	1	0	0	0	2	0	0	
+Koyama Tsuneo	5	0	0	0	0	0	0	0	0	
+Charles Harris	4	0	1	0	0	0	2	0	1	
+Jeronimo Maldonado	4	1	2	0	0	1	1	0	1	
+Jesús Alarcón	3	0	0	0	0	0	0	0	3	
+Adam Marshall	4	0	0	0	0	0	0	0	1	
+Kojima Kunio	4	1	1	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Jonathan Correa	0	1	1	1	0	0	8	8	9	2	1	3	17	
+Ignacio Morales	0	0	1	0	0	0	6	3	3	1	0	2	9	
+Logan Rogers	0	0	1	0	0	0	4	1	1	1	0	1	5	
+Boone Almas	0	0	1	0	0	0	6	0	0	0	0	3	6	
+William Sheppard	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-08-30
+Trace Spears	5	2	2	0	0	1	1	0	2					Tennessee
+Joel Arboleda	4	1	1	1	0	0	2	0	0	
+Parker Dillard	4	1	1	0	0	0	2	0	2	
+Patrick Marshall	4	1	1	0	0	0	0	0	1	
+Hector Obregón	4	1	1	0	0	0	1	0	0	
+Readale Roberson	4	2	2	0	0	1	3	0	0	
+Guillermo Richard	4	1	1	0	0	0	0	0	2	
+Facundo Laguna	4	3	3	0	0	2	4	0	0	
+Marcos Gilabert	3	1	0	0	0	0	0	1	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Endo Shinzo	1	0	1	1	0	0	15	5	4	1	1	3	22	
+Jorge Pozo	0	0	1	0	0	0	3	1	1	1	0	3	4	
+Major Ortiz	0	0	1	0	0	0	3	1	1	0	1	0	5	
+Finn Sachse	0	0	1	0	0	0	5	3	2	1	0	1	8	
+Luciano Garrido	0	0	1	0	0	0	1	0	0	0	0	0	1	

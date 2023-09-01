@@ -1,0 +1,777 @@
+TOP INNING 1
+
+Quentin Farmer: rng1 = 70 + 9 - 12 - 1 = 66
+rng2 = 99 + 2 - 13 - 1 = 87
+Flyout
+Team 2 pitcher (A'lamar Rogers): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Robert Bailey: rng1 = 86 + 9 - 12 - 1 = 82
+rng2 = 34 + 12 - 13 - 1 = 32
+Single
+Team 2 pitcher (A'lamar Rogers): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Leonardo Pinto: rng1 = 89 + 9 - 12 - 1 = 85
+rng2 = 99 + 5 - 13 - 1 = 90
+Double
+Team 2 pitcher (A'lamar Rogers): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Edward Lowe: rng1 = 63 + 6 - 12 - 1 = 56
+rng2 = 61 + 7 - 13 - 1 = 54
+Lineout
+Team 2 pitcher (A'lamar Rogers): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Leroy Powell: rng1 = 72 + 5 - 12 - 1 = 64
+rng2 = 14 + 7 - 13 - 1 = 7
+Groundout
+Team 2 pitcher (A'lamar Rogers): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Isaías Juderías: rng1 = 77 + 13 - 14 + 1 = 77
+rng2 = 31 + 10 - 14 + 1 = 28
+Single
+Team 1 pitcher (Reece Dixon): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Jaz Eaton: rng1 = 26 + 12 - 14 + 1 = 25
+Strikeout
+Team 1 pitcher (Reece Dixon): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Efraim Agramonte: rng1 = 43 + 12 - 14 + 1 = 42
+rng2 = 81 + 8 - 14 + 1 = 76
+Flyout
+Team 1 pitcher (Reece Dixon): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Anthony Davila: rng1 = 21 + 11 - 14 + 1 = 19
+Strikeout
+Team 1 pitcher (Reece Dixon): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 2
+
+Alejandro López: rng1 = 94 + 4 - 12 - 1 = 85
+rng2 = 8 + 7 - 13 - 1 = 1
+Single
+Team 2 pitcher (A'lamar Rogers): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Estefania Espina: rng1 = 45 + 5 - 12 - 1 = 37
+rng2 = 5 + 6 - 13 - 1 = -3
+Groundout
+Team 2 pitcher (A'lamar Rogers): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Orlando Mendejo: rng1 = 94 + 3 - 12 - 1 = 84
+rng2 = 56 + 7 - 13 - 1 = 49
+Single
+Team 2 pitcher (A'lamar Rogers): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: [7,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Ronan Abbott: rng1 = 9 + 5 - 12 - 1 = 1
+Strikeout
+Team 2 pitcher (A'lamar Rogers): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [7,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Quentin Farmer: rng1 = 91 + 9 - 12 - 1 = 87
+Walk
+Team 2 pitcher (A'lamar Rogers): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: [0,0], base2: [7,0], base3: [5,0]
+base1: true, base2: true, base3: true
+Score: 1-0
+
+Robert Bailey: rng1 = 19 + 9 - 12 - 1 = 15
+rng2 = 25 + 12 - 13 - 1 = 23
+Groundout
+Team 2 pitcher (A'lamar Rogers): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Sean Lee: rng1 = 49 + 11 - 14 + 1 = 47
+rng2 = 21 + 10 - 14 + 1 = 18
+Groundout
+Team 1 pitcher (Reece Dixon): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+John Gibson: rng1 = 65 + 9 - 14 + 1 = 61
+rng2 = 24 + 9 - 14 + 1 = 20
+Groundout
+Team 1 pitcher (Reece Dixon): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Adrián Noboa: rng1 = 19 + 8 - 14 + 1 = 14
+rng2 = 53 + 8 - 14 + 1 = 48
+Lineout
+Team 1 pitcher (Reece Dixon): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 3
+
+Leonardo Pinto: rng1 = 54 + 9 - 12 - 1 = 50
+rng2 = 65 + 5 - 13 - 1 = 56
+Lineout
+Team 2 pitcher (A'lamar Rogers): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Edward Lowe: rng1 = 30 + 6 - 12 - 1 = 23
+Strikeout
+Team 2 pitcher (A'lamar Rogers): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Leroy Powell: rng1 = 82 + 5 - 12 - 1 = 74
+rng2 = 68 + 7 - 13 - 1 = 61
+Single
+Team 2 pitcher (A'lamar Rogers): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Alejandro López: rng1 = 4 + 4 - 12 - 1 = -5
+Strikeout
+Team 2 pitcher (A'lamar Rogers): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Gregory Cooper: rng1 = 77 + 4 - 14 + 1 = 68
+rng2 = 2 + 7 - 14 + 1 = -4
+Groundout
+Team 1 pitcher (Reece Dixon): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Adalberto Smith: rng1 = 15 + 3 - 14 + 1 = 5
+Strikeout
+Team 1 pitcher (Reece Dixon): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Isaías Juderías: rng1 = 100 + 13 - 14 + 1 = 100
+rng2 = 6 + 10 - 14 + 1 = 3
+Single
+Team 1 pitcher (Reece Dixon): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Jaz Eaton: rng1 = 81 + 12 - 14 + 1 = 80
+rng2 = 88 + 12 - 14 + 1 = 87
+Double
+Team 1 pitcher (Reece Dixon): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Efraim Agramonte: rng1 = 84 + 12 - 14 + 1 = 83
+rng2 = 75 + 8 - 14 + 1 = 70
+Double
+Team 1 pitcher (Reece Dixon): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-2
+
+Anthony Davila: rng1 = 36 + 11 - 14 + 1 = 34
+rng2 = 38 + 12 - 14 + 1 = 37
+Groundout
+Team 1 pitcher (Reece Dixon): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 4
+
+Estefania Espina: rng1 = 49 + 5 - 12 - 1 = 41
+rng2 = 52 + 6 - 13 - 1 = 44
+Groundout
+Team 2 pitcher (A'lamar Rogers): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Orlando Mendejo: rng1 = 51 + 3 - 12 - 1 = 41
+rng2 = 65 + 7 - 13 - 1 = 58
+Lineout
+Team 2 pitcher (A'lamar Rogers): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Ronan Abbott: rng1 = 71 + 5 - 12 - 1 = 63
+rng2 = 83 + 5 - 13 - 1 = 74
+Flyout
+Team 2 pitcher (A'lamar Rogers): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 4
+
+Sean Lee: rng1 = 2 + 11 - 14 + 1 = 0
+Strikeout
+Team 1 pitcher (Reece Dixon): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+John Gibson: rng1 = 81 + 9 - 14 + 1 = 77
+rng2 = 10 + 9 - 14 + 1 = 6
+Single
+Team 1 pitcher (Reece Dixon): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Adrián Noboa: rng1 = 28 + 8 - 14 + 1 = 23
+Strikeout
+Team 1 pitcher (Reece Dixon): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Gregory Cooper: rng1 = 70 + 4 - 14 + 1 = 61
+rng2 = 32 + 7 - 14 + 1 = 26
+Groundout
+Team 1 pitcher (Reece Dixon): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 5
+
+Quentin Farmer: rng1 = 87 + 9 - 12 - 1 = 83
+rng2 = 15 + 2 - 13 - 1 = 3
+Single
+Team 2 pitcher (A'lamar Rogers): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Robert Bailey: rng1 = 87 + 9 - 12 - 1 = 83
+rng2 = 76 + 12 - 13 - 1 = 74
+Double
+Team 2 pitcher (A'lamar Rogers): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 0
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-2
+
+Leonardo Pinto: rng1 = 29 + 9 - 12 - 1 = 25
+Strikeout
+Team 2 pitcher (A'lamar Rogers): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-2
+
+Edward Lowe: rng1 = 37 + 6 - 12 - 1 = 30
+rng2 = 13 + 7 - 13 - 1 = 6
+Groundout
+Team 2 pitcher (A'lamar Rogers): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 2
+
+base1: false, base2: false, base3: [1,0]
+base1: false, base2: false, base3: true
+Score: 2-2
+
+Leroy Powell: rng1 = 26 + 5 - 12 - 1 = 18
+Strikeout
+Team 2 pitcher (A'lamar Rogers): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+BOTTOM INNING 5
+
+Adalberto Smith: rng1 = 83 + 3 - 14 + 1 = 73
+rng2 = 57 + 7 - 14 + 1 = 51
+Single
+Team 1 pitcher (Reece Dixon): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Isaías Juderías: rng1 = 6 + 13 - 14 + 1 = 6
+Strikeout
+Team 1 pitcher (Reece Dixon): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Jaz Eaton: rng1 = 16 + 12 - 14 + 1 = 15
+rng2 = 72 + 12 - 14 + 1 = 71
+Flyout
+Team 1 pitcher (Reece Dixon): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Efraim Agramonte: rng1 = 6 + 12 - 14 + 1 = 5
+Strikeout
+Team 1 pitcher (Reece Dixon): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Edmundo Martínez
+
+Alejandro López: rng1 = 28 + 4 - 6 - 1 = 25
+Strikeout
+Team 2 pitcher (Edmundo Martínez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Estefania Espina: rng1 = 65 + 5 - 6 - 1 = 63
+rng2 = 6 + 6 - 7 - 1 = 4
+Groundout
+Team 2 pitcher (Edmundo Martínez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Orlando Mendejo: rng1 = 92 + 3 - 6 - 1 = 88
+Walk
+Team 2 pitcher (Edmundo Martínez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Ronan Abbott: rng1 = 53 + 5 - 6 - 1 = 51
+rng2 = 72 + 5 - 7 - 1 = 69
+Flyout
+Team 2 pitcher (Edmundo Martínez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+BOTTOM INNING 6
+
+Anthony Davila: rng1 = 9 + 11 - 14 + 1 = 7
+Strikeout
+Team 1 pitcher (Reece Dixon): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Sean Lee: rng1 = 81 + 11 - 14 + 1 = 79
+rng2 = 92 + 10 - 14 + 1 = 89
+Double
+Team 1 pitcher (Reece Dixon): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 1
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-2
+
+John Gibson: rng1 = 43 + 9 - 14 + 1 = 39
+rng2 = 89 + 9 - 14 + 1 = 85
+Flyout
+Team 1 pitcher (Reece Dixon): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 2
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-2
+
+Adrián Noboa: rng1 = 43 + 8 - 14 + 1 = 38
+rng2 = 26 + 8 - 14 + 1 = 21
+Groundout
+Team 1 pitcher (Reece Dixon): 25 batters faced, 2 runs allowed = 25 + 5.0 = 30.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+TOP INNING 7
+
+Quentin Farmer: rng1 = 63 + 9 - 6 - 1 = 65
+rng2 = 29 + 2 - 7 - 1 = 23
+Groundout
+Team 2 pitcher (Edmundo Martínez): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Robert Bailey: rng1 = 74 + 9 - 6 - 1 = 76
+rng2 = 32 + 12 - 7 - 1 = 36
+Single
+Team 2 pitcher (Edmundo Martínez): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Leonardo Pinto: rng1 = 58 + 9 - 6 - 1 = 60
+rng2 = 67 + 5 - 7 - 1 = 64
+Flyout
+Team 2 pitcher (Edmundo Martínez): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Edward Lowe: rng1 = 85 + 6 - 6 - 1 = 84
+rng2 = 18 + 7 - 7 - 1 = 17
+Single
+Team 2 pitcher (Edmundo Martínez): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [3,1], base2: false, base3: [1,1]
+base1: true, base2: false, base3: true
+Score: 2-2
+
+Leroy Powell: rng1 = 3 + 5 - 6 - 1 = 1
+Strikeout
+Team 2 pitcher (Edmundo Martínez): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Reuben Simmons
+
+Gregory Cooper: rng1 = 54 + 4 - 10 + 1 = 49
+rng2 = 49 + 7 - 11 + 1 = 46
+Groundout
+Team 1 pitcher (Reuben Simmons): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Adalberto Smith: rng1 = 73 + 3 - 10 + 1 = 67
+rng2 = 9 + 7 - 11 + 1 = 6
+Groundout
+Team 1 pitcher (Reuben Simmons): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Isaías Juderías: rng1 = 24 + 13 - 10 + 1 = 28
+Strikeout
+Team 1 pitcher (Reuben Simmons): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Fernando Rosario
+
+Alejandro López: rng1 = 80 + 4 - 6 - 1 = 77
+rng2 = 23 + 7 - 5 - 1 = 24
+Single
+Team 2 pitcher (Fernando Rosario): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Estefania Espina: rng1 = 68 + 5 - 6 - 1 = 66
+rng2 = 12 + 6 - 5 - 1 = 12
+Groundout
+Team 2 pitcher (Fernando Rosario): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [5,2], base3: false
+base1: false, base2: true, base3: false
+Score: 2-2
+
+Orlando Mendejo: rng1 = 92 + 3 - 6 - 1 = 88
+Walk
+Team 2 pitcher (Fernando Rosario): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [7,2], base2: [5,2], base3: false
+base1: true, base2: true, base3: false
+Score: 2-2
+
+Ronan Abbott: rng1 = 13 + 5 - 6 - 1 = 11
+rng2 = 62 + 5 - 5 - 1 = 61
+Flyout
+Team 2 pitcher (Fernando Rosario): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [7,2], base2: [5,2], base3: false
+base1: true, base2: true, base3: false
+Score: 2-2
+
+Quentin Farmer: rng1 = 99 + 9 - 6 - 1 = 101
+rng2 = 89 + 2 - 5 - 1 = 85
+Home run
+Team 2 pitcher (Fernando Rosario): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-2
+
+Robert Bailey: rng1 = 28 + 9 - 6 - 1 = 30
+rng2 = 39 + 12 - 5 - 1 = 45
+Groundout
+Team 2 pitcher (Fernando Rosario): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-2
+
+-----------------------
+
+BOTTOM INNING 8
+
+Jaz Eaton: rng1 = 62 + 12 - 10 + 1 = 65
+rng2 = 93 + 12 - 11 + 1 = 95
+Flyout
+Team 1 pitcher (Reuben Simmons): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-2
+
+Efraim Agramonte: rng1 = 85 + 12 - 10 + 1 = 88
+Walk
+Team 1 pitcher (Reuben Simmons): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-2
+
+Anthony Davila: rng1 = 58 + 11 - 10 + 1 = 60
+rng2 = 22 + 12 - 11 + 1 = 24
+Groundout
+Team 1 pitcher (Reuben Simmons): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-2
+
+Sean Lee: rng1 = 39 + 11 - 10 + 1 = 41
+rng2 = 85 + 10 - 11 + 1 = 85
+Flyout
+Team 1 pitcher (Reuben Simmons): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-2
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Harris Derickson
+
+Leonardo Pinto: rng1 = 61 + 9 - 6 - 1 = 63
+rng2 = 44 + 5 - 5 - 1 = 43
+Groundout
+Team 2 pitcher (Harris Derickson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-2
+
+Edward Lowe: rng1 = 62 + 6 - 6 - 1 = 61
+rng2 = 4 + 7 - 5 - 1 = 5
+Groundout
+Team 2 pitcher (Harris Derickson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-2
+
+Leroy Powell: rng1 = 65 + 5 - 6 - 1 = 63
+rng2 = 27 + 7 - 5 - 1 = 28
+Groundout
+Team 2 pitcher (Harris Derickson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-2
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Charlie Jordan
+
+John Gibson: rng1 = 5 + 9 - 15 + 1 = 0
+Strikeout
+Team 1 pitcher (Charlie Jordan): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-2
+
+Adrián Noboa: rng1 = 91 + 8 - 15 + 1 = 85
+rng2 = 45 + 8 - 15 + 1 = 39
+Single
+Team 1 pitcher (Charlie Jordan): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [6,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-2
+
+Gregory Cooper: rng1 = 51 + 4 - 15 + 1 = 41
+rng2 = 48 + 7 - 15 + 1 = 41
+Groundout
+Team 1 pitcher (Charlie Jordan): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [6,4], base3: false
+base1: false, base2: true, base3: false
+Score: 5-2
+
+Adalberto Smith: rng1 = 47 + 3 - 15 + 1 = 36
+rng2 = 26 + 7 - 15 + 1 = 19
+Groundout
+Team 1 pitcher (Charlie Jordan): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-2
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 11
+Team 2 hits: 8
+Team 1 runs: 5
+Team 2 runs: 2
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-09-01
+Quentin Farmer	4	2	2	0	0	1	3	1	0					Chicago
+Robert Bailey	5	1	3	1	0	0	1	0	0	
+Leonardo Pinto	5	0	1	1	0	0	1	0	1	
+Edward Lowe	5	0	1	0	0	0	0	0	1	
+Leroy Powell	5	0	1	0	0	0	0	0	2	
+Alejandro López	4	1	2	0	0	0	0	0	2	
+Estefania Espina	4	0	0	0	0	0	0	0	0	
+Orlando Mendejo	2	1	1	0	0	0	0	2	0	
+Ronan Abbott	4	0	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Reece Dixon	0	0	1	1	0	0	18	7	2	0	0	8	25	
+Reuben Simmons	1	0	1	0	0	0	6	0	0	0	1	1	7	
+Bravon McDaniel	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Okihana Min-Ki	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Charlie Jordan	0	0	1	0	1	1	3	1	0	0	0	1	4	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-09-01
+Isaías Juderías	4	1	2	0	0	0	0	0	2					San Francisco
+Jaz Eaton	4	1	1	1	0	0	1	0	1	
+Efraim Agramonte	3	0	1	1	0	0	1	1	1	
+Anthony Davila	4	0	0	0	0	0	0	0	2	
+Sean Lee	4	0	1	1	0	0	0	0	1	
+John Gibson	4	0	1	0	0	0	0	0	1	
+Adrián Noboa	4	0	1	0	0	0	0	0	1	
+Gregory Cooper	4	0	0	0	0	0	0	0	0	
+Adalberto Smith	4	0	1	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+A'lamar Rogers	0	0	1	1	0	0	15	7	2	0	1	5	23	
+Edmundo Martínez	0	0	1	0	0	0	6	2	0	0	1	2	9	
+Fernando Rosario	0	1	1	0	0	0	3	2	3	1	1	0	6	
+Harris Derickson	0	0	1	0	0	0	3	0	0	0	0	0	3	
+Kirk Johns	0	0	0	0	0	0	0	0	0	0	0	0	0	

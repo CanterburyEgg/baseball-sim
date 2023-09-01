@@ -1,0 +1,767 @@
+TOP INNING 1
+
+Byron Bartlett: rng1 = 56 + 15 - 12 - 1 = 58
+rng2 = 19 + 13 - 12 - 1 = 19
+Groundout
+Team 2 pitcher (Jordan Burns): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Arturo Bellamy: rng1 = 38 + 14 - 12 - 1 = 39
+rng2 = 75 + 13 - 12 - 1 = 75
+Flyout
+Team 2 pitcher (Jordan Burns): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Edmundo Pousa: rng1 = 99 + 14 - 12 - 1 = 100
+rng2 = 85 + 12 - 12 - 1 = 84
+Home run
+Team 2 pitcher (Jordan Burns): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Owen Williamson: rng1 = 47 + 5 - 12 - 1 = 39
+rng2 = 76 + 9 - 12 - 1 = 72
+Flyout
+Team 2 pitcher (Jordan Burns): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+George Nagle: rng1 = 39 + 15 - 7 + 1 = 48
+rng2 = 28 + 15 - 8 + 1 = 36
+Groundout
+Team 1 pitcher (Lennon Mooney): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Lawrence Randolph: rng1 = 8 + 15 - 7 + 1 = 17
+Strikeout
+Team 1 pitcher (Lennon Mooney): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Antonio Carrera: rng1 = 81 + 12 - 7 + 1 = 87
+Walk
+Team 1 pitcher (Lennon Mooney): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Jason Burress: rng1 = 1 + 10 - 7 + 1 = 5
+Strikeout
+Team 1 pitcher (Lennon Mooney): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 2
+
+Oscar Pierce: rng1 = 19 + 10 - 12 - 1 = 16
+Strikeout
+Team 2 pitcher (Jordan Burns): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Finlay Webb: rng1 = 80 + 8 - 12 - 1 = 75
+rng2 = 8 + 6 - 12 - 1 = 1
+Single
+Team 2 pitcher (Jordan Burns): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Devoreaux Waters: rng1 = 30 + 8 - 12 - 1 = 25
+Strikeout
+Team 2 pitcher (Jordan Burns): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Chon Il-Seong: rng1 = 92 + 7 - 12 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Jordan Burns): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [7,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Yu Minjun: rng1 = 100 + 5 - 12 - 1 = 92
+rng2 = 3 + 5 - 12 - 1 = -5
+Single
+Team 2 pitcher (Jordan Burns): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 2
+
+base1: [8,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 2-0
+
+Byron Bartlett: rng1 = 94 + 15 - 12 - 1 = 96
+rng2 = 8 + 13 - 12 - 1 = 8
+Single
+Team 2 pitcher (Jordan Burns): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 2
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-0
+
+Arturo Bellamy: rng1 = 49 + 14 - 12 - 1 = 50
+rng2 = 35 + 13 - 12 - 1 = 35
+Groundout
+Team 2 pitcher (Jordan Burns): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Noah Fontenot: rng1 = 18 + 12 - 7 + 1 = 24
+Strikeout
+Team 1 pitcher (Lennon Mooney): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Dante Arias: rng1 = 48 + 11 - 7 + 1 = 53
+rng2 = 82 + 7 - 8 + 1 = 82
+Flyout
+Team 1 pitcher (Lennon Mooney): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Bautista Saelices: rng1 = 30 + 9 - 7 + 1 = 33
+rng2 = 80 + 8 - 8 + 1 = 81
+Flyout
+Team 1 pitcher (Lennon Mooney): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+TOP INNING 3
+
+Edmundo Pousa: rng1 = 22 + 14 - 12 - 1 = 23
+Strikeout
+Team 2 pitcher (Jordan Burns): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Owen Williamson: rng1 = 60 + 5 - 12 - 1 = 52
+rng2 = 89 + 9 - 12 - 1 = 85
+Flyout
+Team 2 pitcher (Jordan Burns): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Oscar Pierce: rng1 = 79 + 10 - 12 - 1 = 76
+rng2 = 89 + 6 - 12 - 1 = 82
+Home run
+Team 2 pitcher (Jordan Burns): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Finlay Webb: rng1 = 84 + 8 - 12 - 1 = 79
+rng2 = 76 + 6 - 12 - 1 = 69
+Double
+Team 2 pitcher (Jordan Burns): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 2
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-0
+
+Devoreaux Waters: rng1 = 14 + 8 - 12 - 1 = 9
+Strikeout
+Team 2 pitcher (Jordan Burns): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Terry Schroeder: rng1 = 43 + 8 - 7 + 1 = 45
+rng2 = 48 + 5 - 8 + 1 = 46
+Groundout
+Team 1 pitcher (Lennon Mooney): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Xavier Sanford: rng1 = 46 + 6 - 7 + 1 = 46
+rng2 = 68 + 4 - 8 + 1 = 65
+Flyout
+Team 1 pitcher (Lennon Mooney): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+George Nagle: rng1 = 40 + 15 - 7 + 1 = 49
+rng2 = 82 + 15 - 8 + 1 = 90
+Flyout
+Team 1 pitcher (Lennon Mooney): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+TOP INNING 4
+
+Chon Il-Seong: rng1 = 25 + 7 - 12 - 1 = 19
+Strikeout
+Team 2 pitcher (Jordan Burns): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Yu Minjun: rng1 = 86 + 5 - 12 - 1 = 78
+rng2 = 94 + 5 - 12 - 1 = 86
+Double
+Team 2 pitcher (Jordan Burns): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 1
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-0
+
+Byron Bartlett: rng1 = 2 + 15 - 12 - 1 = 4
+Strikeout
+Team 2 pitcher (Jordan Burns): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 2
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-0
+
+Arturo Bellamy: rng1 = 91 + 14 - 12 - 1 = 92
+rng2 = 70 + 13 - 12 - 1 = 70
+Double
+Team 2 pitcher (Jordan Burns): 20 batters faced, 5 runs allowed = 20 + 12.5 = 32.5, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 5-0
+
+Edmundo Pousa: rng1 = 7 + 14 - 12 - 1 = 8
+Strikeout
+Team 2 pitcher (Jordan Burns): 21 batters faced, 5 runs allowed = 21 + 12.5 = 33.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-0
+
+-----------------------
+
+BOTTOM INNING 4
+
+Lawrence Randolph: rng1 = 23 + 15 - 7 + 1 = 32
+rng2 = 95 + 13 - 8 + 1 = 101
+Flyout
+Team 1 pitcher (Lennon Mooney): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Antonio Carrera: rng1 = 9 + 12 - 7 + 1 = 15
+rng2 = 23 + 11 - 8 + 1 = 27
+Groundout
+Team 1 pitcher (Lennon Mooney): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Jason Burress: rng1 = 5 + 10 - 7 + 1 = 9
+Strikeout
+Team 1 pitcher (Lennon Mooney): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-0
+
+-----------------------
+
+TOP INNING 5
+
+Team 2 pitcher change to Phil Segee
+
+Owen Williamson: rng1 = 34 + 5 - 9 - 1 = 29
+rng2 = 21 + 9 - 9 - 1 = 20
+Groundout
+Team 2 pitcher (Phil Segee): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Oscar Pierce: rng1 = 35 + 10 - 9 - 1 = 35
+rng2 = 31 + 6 - 9 - 1 = 27
+Groundout
+Team 2 pitcher (Phil Segee): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Finlay Webb: rng1 = 100 + 8 - 9 - 1 = 98
+rng2 = 78 + 6 - 9 - 1 = 74
+Double
+Team 2 pitcher (Phil Segee): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [5,1], base3: false
+base1: false, base2: true, base3: false
+Score: 5-0
+
+Devoreaux Waters: rng1 = 28 + 8 - 9 - 1 = 26
+Strikeout
+Team 2 pitcher (Phil Segee): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-0
+
+-----------------------
+
+BOTTOM INNING 5
+
+Noah Fontenot: rng1 = 60 + 12 - 7 + 1 = 66
+rng2 = 85 + 7 - 8 + 1 = 85
+Flyout
+Team 1 pitcher (Lennon Mooney): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Dante Arias: rng1 = 63 + 11 - 7 + 1 = 68
+rng2 = 8 + 7 - 8 + 1 = 8
+Groundout
+Team 1 pitcher (Lennon Mooney): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Bautista Saelices: rng1 = 9 + 9 - 7 + 1 = 12
+rng2 = 62 + 8 - 8 + 1 = 63
+Flyout
+Team 1 pitcher (Lennon Mooney): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-0
+
+-----------------------
+
+TOP INNING 6
+
+Chon Il-Seong: rng1 = 68 + 7 - 9 - 1 = 65
+rng2 = 13 + 4 - 9 - 1 = 7
+Groundout
+Team 2 pitcher (Phil Segee): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Yu Minjun: rng1 = 91 + 5 - 9 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Phil Segee): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-0
+
+Byron Bartlett: rng1 = 18 + 15 - 9 - 1 = 23
+Strikeout
+Team 2 pitcher (Phil Segee): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-0
+
+Arturo Bellamy: rng1 = 7 + 14 - 9 - 1 = 11
+rng2 = 60 + 13 - 9 - 1 = 63
+Flyout
+Team 2 pitcher (Phil Segee): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-0
+
+-----------------------
+
+BOTTOM INNING 6
+
+Terry Schroeder: rng1 = 13 + 8 - 7 + 1 = 15
+rng2 = 37 + 5 - 8 + 1 = 35
+Groundout
+Team 1 pitcher (Lennon Mooney): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Xavier Sanford: rng1 = 89 + 6 - 7 + 1 = 89
+Walk
+Team 1 pitcher (Lennon Mooney): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-0
+
+George Nagle: rng1 = 76 + 15 - 7 + 1 = 85
+rng2 = 97 + 15 - 8 + 1 = 105
+Home run
+Team 1 pitcher (Lennon Mooney): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-2
+
+Lawrence Randolph: rng1 = 37 + 15 - 7 + 1 = 46
+rng2 = 33 + 13 - 8 + 1 = 39
+Groundout
+Team 1 pitcher (Lennon Mooney): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-2
+
+Antonio Carrera: rng1 = 86 + 12 - 7 + 1 = 92
+rng2 = 58 + 11 - 8 + 1 = 62
+Single
+Team 1 pitcher (Lennon Mooney): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-2
+
+Jason Burress: rng1 = 60 + 10 - 7 + 1 = 64
+rng2 = 63 + 8 - 8 + 1 = 64
+Flyout
+Team 1 pitcher (Lennon Mooney): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-2
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Taylor Murphy
+
+Edmundo Pousa: rng1 = 36 + 14 - 15 - 1 = 34
+rng2 = 50 + 12 - 14 - 1 = 47
+Groundout
+Team 2 pitcher (Taylor Murphy): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-2
+
+Owen Williamson: rng1 = 32 + 5 - 15 - 1 = 21
+Strikeout
+Team 2 pitcher (Taylor Murphy): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-2
+
+Oscar Pierce: rng1 = 72 + 10 - 15 - 1 = 66
+rng2 = 92 + 6 - 14 - 1 = 83
+Flyout
+Team 2 pitcher (Taylor Murphy): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-2
+
+-----------------------
+
+BOTTOM INNING 7
+
+Noah Fontenot: rng1 = 88 + 12 - 7 + 1 = 94
+rng2 = 28 + 7 - 8 + 1 = 28
+Single
+Team 1 pitcher (Lennon Mooney): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-2
+
+Dante Arias: rng1 = 70 + 11 - 7 + 1 = 75
+rng2 = 29 + 7 - 8 + 1 = 29
+Single
+Team 1 pitcher (Lennon Mooney): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 0
+
+base1: [5,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 5-2
+
+Bautista Saelices: rng1 = 78 + 9 - 7 + 1 = 81
+rng2 = 63 + 8 - 8 + 1 = 64
+Single
+Team 1 pitcher (Lennon Mooney): 25 batters faced, 3 runs allowed = 25 + 7.5 = 32.5, outs: 0
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 5-3
+
+Terry Schroeder: rng1 = 41 + 8 - 7 + 1 = 43
+rng2 = 84 + 5 - 8 + 1 = 82
+Flyout
+Team 1 pitcher (Lennon Mooney): 26 batters faced, 3 runs allowed = 26 + 7.5 = 33.5, outs: 1
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 5-3
+
+Xavier Sanford: rng1 = 33 + 6 - 7 + 1 = 33
+rng2 = 16 + 4 - 8 + 1 = 13
+Groundout
+Team 1 pitcher (Lennon Mooney): 27 batters faced, 3 runs allowed = 27 + 7.5 = 34.5, outs: 2
+
+base1: false, base2: [6,0], base3: [5,0]
+base1: false, base2: true, base3: true
+Score: 5-3
+
+Team 1 pitcher change to Tamashiro Genjo
+
+George Nagle: rng1 = 75 + 15 - 4 + 1 = 87
+Walk
+Team 1 pitcher (Tamashiro Genjo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [0,1], base2: [6,0], base3: [5,0]
+base1: true, base2: true, base3: true
+Score: 5-3
+
+Lawrence Randolph: rng1 = 42 + 15 - 4 + 1 = 54
+rng2 = 54 + 13 - 7 + 1 = 61
+Flyout
+Team 1 pitcher (Tamashiro Genjo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+TOP INNING 8
+
+Finlay Webb: rng1 = 53 + 8 - 15 - 1 = 45
+rng2 = 29 + 6 - 14 - 1 = 20
+Groundout
+Team 2 pitcher (Taylor Murphy): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Devoreaux Waters: rng1 = 4 + 8 - 15 - 1 = -4
+Strikeout
+Team 2 pitcher (Taylor Murphy): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Chon Il-Seong: rng1 = 49 + 7 - 15 - 1 = 40
+rng2 = 48 + 4 - 14 - 1 = 37
+Groundout
+Team 2 pitcher (Taylor Murphy): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+BOTTOM INNING 8
+
+Antonio Carrera: rng1 = 35 + 12 - 4 + 1 = 44
+rng2 = 70 + 11 - 7 + 1 = 75
+Flyout
+Team 1 pitcher (Tamashiro Genjo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Jason Burress: rng1 = 9 + 10 - 4 + 1 = 16
+Strikeout
+Team 1 pitcher (Tamashiro Genjo): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Noah Fontenot: rng1 = 64 + 12 - 4 + 1 = 73
+rng2 = 78 + 7 - 7 + 1 = 79
+Triple
+Team 1 pitcher (Tamashiro Genjo): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: [4,1]
+base1: false, base2: false, base3: true
+Score: 5-3
+
+Dante Arias: rng1 = 23 + 11 - 4 + 1 = 31
+rng2 = 15 + 7 - 7 + 1 = 16
+Groundout
+Team 1 pitcher (Tamashiro Genjo): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Rodrigo Valerio
+
+Yu Minjun: rng1 = 17 + 5 - 10 - 1 = 11
+rng2 = 96 + 5 - 9 - 1 = 91
+Flyout
+Team 2 pitcher (Rodrigo Valerio): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Byron Bartlett: rng1 = 79 + 15 - 10 - 1 = 83
+rng2 = 26 + 13 - 9 - 1 = 29
+Single
+Team 2 pitcher (Rodrigo Valerio): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-3
+
+Arturo Bellamy: rng1 = 49 + 14 - 10 - 1 = 52
+rng2 = 75 + 13 - 9 - 1 = 78
+Flyout
+Team 2 pitcher (Rodrigo Valerio): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-3
+
+Edmundo Pousa: rng1 = 92 + 14 - 10 - 1 = 95
+rng2 = 13 + 12 - 9 - 1 = 15
+Single
+Team 2 pitcher (Rodrigo Valerio): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [2,3], base2: false, base3: [0,3]
+base1: true, base2: false, base3: true
+Score: 5-3
+
+Owen Williamson: rng1 = 53 + 5 - 10 - 1 = 47
+rng2 = 7 + 9 - 9 - 1 = 6
+Groundout
+Team 2 pitcher (Rodrigo Valerio): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Brady Goodman
+
+Bautista Saelices: rng1 = 33 + 9 - 14 + 1 = 29
+rng2 = 1 + 8 - 15 + 1 = -5
+Groundout
+Team 1 pitcher (Brady Goodman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Terry Schroeder: rng1 = 61 + 8 - 14 + 1 = 56
+rng2 = 40 + 5 - 15 + 1 = 31
+Groundout
+Team 1 pitcher (Brady Goodman): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Xavier Sanford: rng1 = 24 + 6 - 14 + 1 = 17
+Strikeout
+Team 1 pitcher (Brady Goodman): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 11
+Team 2 hits: 6
+Team 1 runs: 5
+Team 2 runs: 3
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-09-01
+Byron Bartlett	5	0	2	0	0	0	1	0	2					New Orleans
+Arturo Bellamy	5	0	1	1	0	0	1	0	0	
+Edmundo Pousa	5	1	2	0	0	1	1	0	2	
+Owen Williamson	5	0	0	0	0	0	0	0	1	
+Oscar Pierce	4	1	1	0	0	1	1	0	1	
+Finlay Webb	4	1	3	2	0	0	0	0	0	
+Devoreaux Waters	4	0	0	0	0	0	0	0	4	
+Chon Il-Seong	3	1	0	0	0	0	0	0	1	
+Yu Minjun	3	1	2	1	0	0	1	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Lennon Mooney	1	0	1	1	0	0	20	5	3	1	2	4	27	
+Tamashiro Genjo	0	0	1	0	0	0	4	1	0	0	1	1	6	
+Antonio McMillan	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Kione Andrews	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Brady Goodman	0	0	1	0	1	1	3	0	0	0	0	1	3	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-09-01
+George Nagle	3	1	1	0	0	1	2	1	0					Las Vegas
+Lawrence Randolph	4	0	0	0	0	0	0	0	1	
+Antonio Carrera	3	0	1	0	0	0	0	1	0	
+Jason Burress	4	0	0	0	0	0	0	0	3	
+Noah Fontenot	4	1	2	0	1	0	0	0	1	
+Dante Arias	4	0	1	0	0	0	0	0	0	
+Bautista Saelices	4	0	1	0	0	0	1	0	0	
+Terry Schroeder	4	0	0	0	0	0	0	0	0	
+Xavier Sanford	3	1	0	0	0	0	0	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Jordan Burns	0	1	1	1	0	0	12	8	5	2	0	7	21	
+Phil Segee	0	0	1	0	0	0	6	1	0	0	0	2	8	
+Taylor Murphy	0	0	1	0	0	0	6	0	0	0	0	2	6	
+Rodrigo Valerio	0	0	1	0	0	0	3	2	0	0	0	0	5	
+Macos Alguacil	0	0	0	0	0	0	0	0	0	0	0	0	0	

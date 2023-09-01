@@ -1,0 +1,734 @@
+TOP INNING 1
+
+Byron Bartlett: rng1 = 5 + 15 - 7 - 1 = 12
+rng2 = 88 + 13 - 6 - 1 = 94
+Flyout
+Team 2 pitcher (Emanuel Muñoz): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Arturo Bellamy: rng1 = 81 + 14 - 7 - 1 = 87
+Walk
+Team 2 pitcher (Emanuel Muñoz): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Edmundo Pousa: rng1 = 7 + 14 - 7 - 1 = 13
+rng2 = 39 + 12 - 6 - 1 = 44
+Groundout
+Team 2 pitcher (Emanuel Muñoz): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Owen Williamson: rng1 = 53 + 5 - 7 - 1 = 50
+rng2 = 52 + 9 - 6 - 1 = 54
+Lineout
+Team 2 pitcher (Emanuel Muñoz): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+George Nagle: rng1 = 69 + 15 - 14 + 1 = 71
+Walk
+Team 1 pitcher (Ahmad Key): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Lawrence Randolph: rng1 = 51 + 15 - 14 + 1 = 53
+rng2 = 76 + 13 - 12 + 1 = 78
+Flyout
+Team 1 pitcher (Ahmad Key): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Antonio Carrera: rng1 = 50 + 12 - 14 + 1 = 49
+rng2 = 74 + 11 - 12 + 1 = 74
+Flyout
+Team 1 pitcher (Ahmad Key): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Jason Burress: rng1 = 84 + 10 - 14 + 1 = 81
+rng2 = 96 + 8 - 12 + 1 = 93
+Triple
+Team 1 pitcher (Ahmad Key): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: false, base3: [3,0]
+base1: false, base2: false, base3: true
+Score: 0-1
+
+Noah Fontenot: rng1 = 43 + 12 - 14 + 1 = 42
+rng2 = 91 + 7 - 12 + 1 = 87
+Flyout
+Team 1 pitcher (Ahmad Key): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 2
+
+Oscar Pierce: rng1 = 6 + 10 - 7 - 1 = 8
+Strikeout
+Team 2 pitcher (Emanuel Muñoz): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Finlay Webb: rng1 = 38 + 8 - 7 - 1 = 38
+rng2 = 90 + 6 - 6 - 1 = 89
+Flyout
+Team 2 pitcher (Emanuel Muñoz): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Devoreaux Waters: rng1 = 61 + 8 - 7 - 1 = 61
+rng2 = 31 + 4 - 6 - 1 = 28
+Groundout
+Team 2 pitcher (Emanuel Muñoz): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Dante Arias: rng1 = 68 + 11 - 14 + 1 = 66
+rng2 = 83 + 7 - 12 + 1 = 79
+Flyout
+Team 1 pitcher (Ahmad Key): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Bautista Saelices: rng1 = 93 + 9 - 14 + 1 = 89
+Walk
+Team 1 pitcher (Ahmad Key): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Terry Schroeder: rng1 = 31 + 8 - 14 + 1 = 26
+Strikeout
+Team 1 pitcher (Ahmad Key): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Xavier Sanford: rng1 = 51 + 6 - 14 + 1 = 44
+rng2 = 99 + 4 - 12 + 1 = 92
+Flyout
+Team 1 pitcher (Ahmad Key): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 3
+
+Chon Il-Seong: rng1 = 97 + 7 - 7 - 1 = 96
+rng2 = 28 + 4 - 6 - 1 = 25
+Single
+Team 2 pitcher (Emanuel Muñoz): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Yu Minjun: rng1 = 9 + 5 - 7 - 1 = 6
+Strikeout
+Team 2 pitcher (Emanuel Muñoz): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Byron Bartlett: rng1 = 95 + 15 - 7 - 1 = 102
+rng2 = 43 + 13 - 6 - 1 = 49
+Single
+Team 2 pitcher (Emanuel Muñoz): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: [0,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-1
+
+Arturo Bellamy: rng1 = 3 + 14 - 7 - 1 = 9
+Strikeout
+Team 2 pitcher (Emanuel Muñoz): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 2
+
+base1: [0,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-1
+
+Edmundo Pousa: rng1 = 44 + 14 - 7 - 1 = 50
+rng2 = 95 + 12 - 6 - 1 = 100
+Flyout
+Team 2 pitcher (Emanuel Muñoz): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+George Nagle: rng1 = 11 + 15 - 14 + 1 = 13
+rng2 = 36 + 15 - 12 + 1 = 40
+Groundout
+Team 1 pitcher (Ahmad Key): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Lawrence Randolph: rng1 = 22 + 15 - 14 + 1 = 24
+Strikeout
+Team 1 pitcher (Ahmad Key): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Antonio Carrera: rng1 = 94 + 12 - 14 + 1 = 93
+rng2 = 2 + 11 - 12 + 1 = 2
+Single
+Team 1 pitcher (Ahmad Key): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Jason Burress: rng1 = 28 + 10 - 14 + 1 = 25
+Strikeout
+Team 1 pitcher (Ahmad Key): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 4
+
+Owen Williamson: rng1 = 32 + 5 - 7 - 1 = 29
+rng2 = 12 + 9 - 6 - 1 = 14
+Groundout
+Team 2 pitcher (Emanuel Muñoz): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Oscar Pierce: rng1 = 85 + 10 - 7 - 1 = 87
+Walk
+Team 2 pitcher (Emanuel Muñoz): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Finlay Webb: rng1 = 39 + 8 - 7 - 1 = 39
+rng2 = 94 + 6 - 6 - 1 = 93
+Flyout
+Team 2 pitcher (Emanuel Muñoz): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Devoreaux Waters: rng1 = 14 + 8 - 7 - 1 = 14
+rng2 = 8 + 4 - 6 - 1 = 5
+Groundout
+Team 2 pitcher (Emanuel Muñoz): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Noah Fontenot: rng1 = 41 + 12 - 14 + 1 = 40
+rng2 = 6 + 7 - 12 + 1 = 2
+Groundout
+Team 1 pitcher (Ahmad Key): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Dante Arias: rng1 = 36 + 11 - 14 + 1 = 34
+rng2 = 41 + 7 - 12 + 1 = 37
+Groundout
+Team 1 pitcher (Ahmad Key): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Bautista Saelices: rng1 = 22 + 9 - 14 + 1 = 18
+Strikeout
+Team 1 pitcher (Ahmad Key): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 5
+
+Chon Il-Seong: rng1 = 8 + 7 - 7 - 1 = 7
+Strikeout
+Team 2 pitcher (Emanuel Muñoz): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Yu Minjun: rng1 = 60 + 5 - 7 - 1 = 57
+rng2 = 73 + 5 - 6 - 1 = 71
+Flyout
+Team 2 pitcher (Emanuel Muñoz): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Byron Bartlett: rng1 = 69 + 15 - 7 - 1 = 76
+rng2 = 92 + 13 - 6 - 1 = 98
+Home run
+Team 2 pitcher (Emanuel Muñoz): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Arturo Bellamy: rng1 = 20 + 14 - 7 - 1 = 26
+Strikeout
+Team 2 pitcher (Emanuel Muñoz): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 5
+
+Terry Schroeder: rng1 = 13 + 8 - 14 + 1 = 8
+Strikeout
+Team 1 pitcher (Ahmad Key): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Xavier Sanford: rng1 = 21 + 6 - 14 + 1 = 14
+rng2 = 32 + 4 - 12 + 1 = 25
+Groundout
+Team 1 pitcher (Ahmad Key): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+George Nagle: rng1 = 79 + 15 - 14 + 1 = 81
+rng2 = 72 + 15 - 12 + 1 = 76
+Double
+Team 1 pitcher (Ahmad Key): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Lawrence Randolph: rng1 = 30 + 15 - 14 + 1 = 32
+rng2 = 89 + 13 - 12 + 1 = 91
+Flyout
+Team 1 pitcher (Ahmad Key): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 6
+
+Edmundo Pousa: rng1 = 33 + 14 - 7 - 1 = 39
+rng2 = 99 + 12 - 6 - 1 = 104
+Flyout
+Team 2 pitcher (Emanuel Muñoz): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Owen Williamson: rng1 = 28 + 5 - 7 - 1 = 25
+Strikeout
+Team 2 pitcher (Emanuel Muñoz): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Oscar Pierce: rng1 = 43 + 10 - 7 - 1 = 45
+rng2 = 54 + 6 - 6 - 1 = 53
+Lineout
+Team 2 pitcher (Emanuel Muñoz): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 6
+
+Antonio Carrera: rng1 = 77 + 12 - 14 + 1 = 76
+rng2 = 18 + 11 - 12 + 1 = 18
+Single
+Team 1 pitcher (Ahmad Key): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 0
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Jason Burress: rng1 = 38 + 10 - 14 + 1 = 35
+rng2 = 77 + 8 - 12 + 1 = 74
+Flyout
+Team 1 pitcher (Ahmad Key): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Noah Fontenot: rng1 = 82 + 12 - 14 + 1 = 81
+rng2 = 36 + 7 - 12 + 1 = 32
+Single
+Team 1 pitcher (Ahmad Key): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 1
+
+base1: [4,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Dante Arias: rng1 = 23 + 11 - 14 + 1 = 21
+Strikeout
+Team 1 pitcher (Ahmad Key): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 2
+
+base1: [4,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Bautista Saelices: rng1 = 54 + 9 - 14 + 1 = 50
+rng2 = 90 + 8 - 12 + 1 = 87
+Flyout
+Team 1 pitcher (Ahmad Key): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 7
+
+Finlay Webb: rng1 = 32 + 8 - 7 - 1 = 32
+rng2 = 4 + 6 - 6 - 1 = 3
+Groundout
+Team 2 pitcher (Emanuel Muñoz): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Devoreaux Waters: rng1 = 8 + 8 - 7 - 1 = 8
+Strikeout
+Team 2 pitcher (Emanuel Muñoz): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Chon Il-Seong: rng1 = 74 + 7 - 7 - 1 = 73
+rng2 = 47 + 4 - 6 - 1 = 44
+Single
+Team 2 pitcher (Emanuel Muñoz): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Yu Minjun: rng1 = 32 + 5 - 7 - 1 = 29
+rng2 = 97 + 5 - 6 - 1 = 95
+Flyout
+Team 2 pitcher (Emanuel Muñoz): 27 batters faced, 1 runs allowed = 27 + 2.5 = 29.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Antonio McMillan
+
+Terry Schroeder: rng1 = 67 + 8 - 12 + 1 = 64
+rng2 = 46 + 5 - 13 + 1 = 39
+Groundout
+Team 1 pitcher (Antonio McMillan): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Xavier Sanford: rng1 = 2 + 6 - 12 + 1 = -3
+Strikeout
+Team 1 pitcher (Antonio McMillan): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+George Nagle: rng1 = 12 + 15 - 12 + 1 = 16
+Strikeout
+Team 1 pitcher (Antonio McMillan): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Taylor Murphy
+
+Byron Bartlett: rng1 = 83 + 15 - 15 - 1 = 82
+rng2 = 50 + 13 - 14 - 1 = 48
+Single
+Team 2 pitcher (Taylor Murphy): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Arturo Bellamy: rng1 = 11 + 14 - 15 - 1 = 9
+Strikeout
+Team 2 pitcher (Taylor Murphy): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Edmundo Pousa: rng1 = 81 + 14 - 15 - 1 = 79
+rng2 = 95 + 12 - 14 - 1 = 92
+Double
+Team 2 pitcher (Taylor Murphy): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [2,1], base3: false
+base1: false, base2: true, base3: false
+Score: 2-1
+
+Owen Williamson: rng1 = 55 + 5 - 15 - 1 = 44
+rng2 = 17 + 9 - 14 - 1 = 11
+Groundout
+Team 2 pitcher (Taylor Murphy): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: false, base3: [2,1]
+base1: false, base2: false, base3: true
+Score: 2-1
+
+Oscar Pierce: rng1 = 48 + 10 - 15 - 1 = 42
+rng2 = 76 + 6 - 14 - 1 = 67
+Flyout
+Team 2 pitcher (Taylor Murphy): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+BOTTOM INNING 8
+
+Lawrence Randolph: rng1 = 73 + 15 - 12 + 1 = 77
+rng2 = 29 + 13 - 13 + 1 = 30
+Single
+Team 1 pitcher (Antonio McMillan): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Antonio Carrera: rng1 = 80 + 12 - 12 + 1 = 81
+rng2 = 3 + 11 - 13 + 1 = 2
+Single
+Team 1 pitcher (Antonio McMillan): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [2,1], base2: [1,1], base3: false
+base1: true, base2: true, base3: false
+Score: 2-1
+
+Jason Burress: rng1 = 78 + 10 - 12 + 1 = 77
+rng2 = 96 + 8 - 13 + 1 = 92
+Double
+Team 1 pitcher (Antonio McMillan): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 0
+
+base1: false, base2: [3,1], base3: false
+base1: false, base2: true, base3: false
+Score: 2-3
+
+Noah Fontenot: rng1 = 48 + 12 - 12 + 1 = 49
+rng2 = 26 + 7 - 13 + 1 = 21
+Groundout
+Team 1 pitcher (Antonio McMillan): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 1
+
+base1: false, base2: [3,1], base3: false
+base1: false, base2: true, base3: false
+Score: 2-3
+
+Dante Arias: rng1 = 31 + 11 - 12 + 1 = 31
+rng2 = 28 + 7 - 13 + 1 = 23
+Groundout
+Team 1 pitcher (Antonio McMillan): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: false, base2: false, base3: [3,1]
+base1: false, base2: false, base3: true
+Score: 2-3
+
+Team 1 pitcher change to Kione Andrews
+
+Bautista Saelices: rng1 = 71 + 9 - 6 + 1 = 75
+rng2 = 85 + 8 - 3 + 1 = 91
+Double
+Team 1 pitcher (Kione Andrews): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: false, base2: [6,2], base3: false
+base1: false, base2: true, base3: false
+Score: 2-4
+
+Terry Schroeder: rng1 = 71 + 8 - 6 + 1 = 74
+rng2 = 78 + 5 - 3 + 1 = 81
+Home run
+Team 1 pitcher (Kione Andrews): 2 batters faced, 2 runs allowed = 2 + 5.0 = 7.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-6
+
+Xavier Sanford: rng1 = 49 + 6 - 6 + 1 = 50
+rng2 = 81 + 4 - 3 + 1 = 83
+Flyout
+Team 1 pitcher (Kione Andrews): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-6
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Rodrigo Valerio
+
+Finlay Webb: rng1 = 5 + 8 - 10 - 1 = 2
+Strikeout
+Team 2 pitcher (Rodrigo Valerio): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-6
+
+Devoreaux Waters: rng1 = 31 + 8 - 10 - 1 = 28
+Strikeout
+Team 2 pitcher (Rodrigo Valerio): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-6
+
+Chon Il-Seong: rng1 = 96 + 7 - 10 - 1 = 92
+rng2 = 2 + 4 - 9 - 1 = -4
+Single
+Team 2 pitcher (Rodrigo Valerio): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-6
+
+Yu Minjun: rng1 = 77 + 5 - 10 - 1 = 71
+Walk
+Team 2 pitcher (Rodrigo Valerio): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [8,2], base2: [7,2], base3: false
+base1: true, base2: true, base3: false
+Score: 2-6
+
+Byron Bartlett: rng1 = 7 + 15 - 10 - 1 = 11
+rng2 = 71 + 13 - 9 - 1 = 74
+Flyout
+Team 2 pitcher (Rodrigo Valerio): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-6
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 7
+Team 2 hits: 10
+Team 1 runs: 2
+Team 2 runs: 6
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-08-31
+Byron Bartlett	5	2	3	0	0	1	1	0	0					new Orleans
+Arturo Bellamy	3	0	0	0	0	0	0	1	3	
+Edmundo Pousa	4	0	1	1	0	0	1	0	0	
+Owen Williamson	4	0	0	0	0	0	0	0	1	
+Oscar Pierce	3	0	0	0	0	0	0	1	1	
+Finlay Webb	4	0	0	0	0	0	0	0	1	
+Devoreaux Waters	4	0	0	0	0	0	0	0	2	
+Chon Il-Seong	4	0	3	0	0	0	0	0	1	
+Yu Minjun	3	0	0	0	0	0	0	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Ahmad Key	0	0	1	1	0	0	18	5	1	0	2	6	25	
+Antonio McMillan	0	1	1	0	0	0	5	3	3	0	0	2	8	
+Kione Andrews	0	0	1	0	0	0	1	2	2	1	0	0	3	
+Tamashiro Genjo	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Brady Goodman	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-08-31
+George Nagle	3	1	1	1	0	0	0	1	1					Las Vegas
+Lawrence Randolph	4	1	1	0	0	0	0	0	1	
+Antonio Carrera	4	1	3	0	0	0	0	0	0	
+Jason Burress	4	1	2	1	1	0	3	0	1	
+Noah Fontenot	4	0	1	0	0	0	0	0	0	
+Dante Arias	4	0	0	0	0	0	0	0	1	
+Bautista Saelices	3	1	1	1	0	0	1	1	1	
+Terry Schroeder	4	1	1	0	0	1	2	0	2	
+Xavier Sanford	4	0	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Emanuel Muñoz	0	0	1	1	0	0	21	4	1	1	2	7	27	
+Taylor Murphy	1	0	1	0	0	0	3	2	1	0	0	1	5	
+Rodrigo Valerio	0	0	1	0	0	0	3	1	0	0	1	2	5	
+Phil Segee	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Macos Alguacil	0	0	0	0	0	0	0	0	0	0	0	0	0	

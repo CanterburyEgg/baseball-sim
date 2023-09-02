@@ -1,0 +1,837 @@
+TOP INNING 1
+
+Gabe Roberts: rng1 = 15 + 13 - 5 - 1 = 22
+Strikeout
+Team 2 pitcher (Javari Howard): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Blake Welsh: rng1 = 47 + 13 - 5 - 1 = 54
+rng2 = 74 + 8 - 5 - 1 = 76
+Flyout
+Team 2 pitcher (Javari Howard): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Caleb Harrington: rng1 = 89 + 12 - 5 - 1 = 95
+rng2 = 4 + 10 - 5 - 1 = 8
+Single
+Team 2 pitcher (Javari Howard): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Tommy Baxter: rng1 = 69 + 8 - 5 - 1 = 71
+Walk
+Team 2 pitcher (Javari Howard): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Emiel Ware: rng1 = 11 + 9 - 5 - 1 = 14
+rng2 = 22 + 10 - 5 - 1 = 26
+Groundout
+Team 2 pitcher (Javari Howard): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Drake LaStelle: rng1 = 98 + 15 - 11 + 1 = 103
+rng2 = 99 + 12 - 11 + 1 = 101
+Home run
+Team 1 pitcher (Stanley Collins): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Leonardo Vera: rng1 = 3 + 14 - 11 + 1 = 7
+Strikeout
+Team 1 pitcher (Stanley Collins): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Alfie Young: rng1 = 29 + 13 - 11 + 1 = 32
+rng2 = 77 + 8 - 11 + 1 = 75
+Flyout
+Team 1 pitcher (Stanley Collins): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Charlie May: rng1 = 35 + 11 - 11 + 1 = 36
+rng2 = 3 + 11 - 11 + 1 = 4
+Groundout
+Team 1 pitcher (Stanley Collins): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 2
+
+Jaquon Lyons: rng1 = 74 + 10 - 5 - 1 = 78
+rng2 = 91 + 9 - 5 - 1 = 94
+Home run
+Team 2 pitcher (Javari Howard): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Timothy Bentley: rng1 = 83 + 6 - 5 - 1 = 83
+rng2 = 46 + 10 - 5 - 1 = 50
+Single
+Team 2 pitcher (Javari Howard): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Isaac Secada: rng1 = 76 + 8 - 5 - 1 = 78
+rng2 = 68 + 8 - 5 - 1 = 70
+Double
+Team 2 pitcher (Javari Howard): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 0
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-1
+
+Darren Chang: rng1 = 17 + 5 - 5 - 1 = 16
+Strikeout
+Team 2 pitcher (Javari Howard): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 1
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-1
+
+Gabe Roberts: rng1 = 69 + 13 - 5 - 1 = 76
+rng2 = 35 + 14 - 5 - 1 = 43
+Single
+Team 2 pitcher (Javari Howard): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Blake Welsh: rng1 = 50 + 13 - 5 - 1 = 57
+rng2 = 66 + 8 - 5 - 1 = 68
+Flyout
+Team 2 pitcher (Javari Howard): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Caleb Harrington: rng1 = 64 + 12 - 5 - 1 = 70
+Walk
+Team 2 pitcher (Javari Howard): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 2
+
+base1: [2,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-1
+
+Tommy Baxter: rng1 = 19 + 8 - 5 - 1 = 21
+Strikeout
+Team 2 pitcher (Javari Howard): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Jamie Reid: rng1 = 12 + 9 - 11 + 1 = 11
+rng2 = 19 + 11 - 11 + 1 = 20
+Groundout
+Team 1 pitcher (Stanley Collins): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Matías Martinez: rng1 = 2 + 10 - 11 + 1 = 2
+Strikeout
+Team 1 pitcher (Stanley Collins): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Benito Maroto: rng1 = 94 + 6 - 11 + 1 = 90
+Walk
+Team 1 pitcher (Stanley Collins): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Pascual Gilbert: rng1 = 37 + 9 - 11 + 1 = 36
+rng2 = 57 + 5 - 11 + 1 = 52
+Lineout
+Team 1 pitcher (Stanley Collins): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+TOP INNING 3
+
+Emiel Ware: rng1 = 75 + 9 - 5 - 1 = 78
+rng2 = 93 + 10 - 5 - 1 = 97
+Home run
+Team 2 pitcher (Javari Howard): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Jaquon Lyons: rng1 = 25 + 10 - 5 - 1 = 29
+rng2 = 1 + 9 - 5 - 1 = 4
+Groundout
+Team 2 pitcher (Javari Howard): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Timothy Bentley: rng1 = 26 + 6 - 5 - 1 = 26
+Strikeout
+Team 2 pitcher (Javari Howard): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Isaac Secada: rng1 = 93 + 8 - 5 - 1 = 95
+rng2 = 75 + 8 - 5 - 1 = 77
+Double
+Team 2 pitcher (Javari Howard): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 2
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-1
+
+Darren Chang: rng1 = 11 + 5 - 5 - 1 = 10
+Strikeout
+Team 2 pitcher (Javari Howard): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Darren Adams: rng1 = 12 + 6 - 11 + 1 = 8
+Strikeout
+Team 1 pitcher (Stanley Collins): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Drake LaStelle: rng1 = 61 + 15 - 11 + 1 = 66
+rng2 = 70 + 12 - 11 + 1 = 72
+Flyout
+Team 1 pitcher (Stanley Collins): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Leonardo Vera: rng1 = 33 + 14 - 11 + 1 = 37
+rng2 = 92 + 13 - 11 + 1 = 95
+Flyout
+Team 1 pitcher (Stanley Collins): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+TOP INNING 4
+
+Gabe Roberts: rng1 = 78 + 13 - 5 - 1 = 85
+rng2 = 67 + 14 - 5 - 1 = 75
+Double
+Team 2 pitcher (Javari Howard): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 0
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-1
+
+Blake Welsh: rng1 = 54 + 13 - 5 - 1 = 61
+rng2 = 4 + 8 - 5 - 1 = 6
+Groundout
+Team 2 pitcher (Javari Howard): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-1
+
+Caleb Harrington: rng1 = 75 + 12 - 5 - 1 = 81
+rng2 = 34 + 10 - 5 - 1 = 38
+Single
+Team 2 pitcher (Javari Howard): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 1
+
+base1: [2,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 4-1
+
+Tommy Baxter: rng1 = 80 + 8 - 5 - 1 = 82
+rng2 = 94 + 12 - 5 - 1 = 100
+Home run
+Team 2 pitcher (Javari Howard): 22 batters faced, 7 runs allowed = 22 + 17.5 = 39.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-1
+
+Team 2 pitcher change to Colton Hendrix
+
+Emiel Ware: rng1 = 59 + 9 - 9 - 1 = 58
+rng2 = 3 + 10 - 9 - 1 = 3
+Groundout
+Team 2 pitcher (Colton Hendrix): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-1
+
+Jaquon Lyons: rng1 = 13 + 10 - 9 - 1 = 13
+rng2 = 62 + 9 - 9 - 1 = 61
+Flyout
+Team 2 pitcher (Colton Hendrix): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Alfie Young: rng1 = 56 + 13 - 11 + 1 = 59
+rng2 = 3 + 8 - 11 + 1 = 1
+Groundout
+Team 1 pitcher (Stanley Collins): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-1
+
+Charlie May: rng1 = 92 + 11 - 11 + 1 = 93
+rng2 = 48 + 11 - 11 + 1 = 49
+Single
+Team 1 pitcher (Stanley Collins): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-1
+
+Jamie Reid: rng1 = 86 + 9 - 11 + 1 = 85
+rng2 = 64 + 11 - 11 + 1 = 65
+Single
+Team 1 pitcher (Stanley Collins): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 1
+
+base1: [4,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 7-1
+
+Matías Martinez: rng1 = 58 + 10 - 11 + 1 = 58
+rng2 = 9 + 10 - 11 + 1 = 9
+Groundout
+Team 1 pitcher (Stanley Collins): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 2
+
+base1: false, base2: [4,0], base3: [3,0]
+base1: false, base2: true, base3: true
+Score: 7-1
+
+Benito Maroto: rng1 = 13 + 6 - 11 + 1 = 9
+Strikeout
+Team 1 pitcher (Stanley Collins): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-1
+
+-----------------------
+
+TOP INNING 5
+
+Timothy Bentley: rng1 = 39 + 6 - 9 - 1 = 35
+rng2 = 70 + 10 - 9 - 1 = 70
+Flyout
+Team 2 pitcher (Colton Hendrix): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-1
+
+Isaac Secada: rng1 = 12 + 8 - 9 - 1 = 10
+Strikeout
+Team 2 pitcher (Colton Hendrix): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-1
+
+Darren Chang: rng1 = 1 + 5 - 9 - 1 = -4
+Strikeout
+Team 2 pitcher (Colton Hendrix): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-1
+
+-----------------------
+
+BOTTOM INNING 5
+
+Pascual Gilbert: rng1 = 5 + 9 - 11 + 1 = 4
+Strikeout
+Team 1 pitcher (Stanley Collins): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-1
+
+Darren Adams: rng1 = 14 + 6 - 11 + 1 = 10
+Strikeout
+Team 1 pitcher (Stanley Collins): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-1
+
+Drake LaStelle: rng1 = 46 + 15 - 11 + 1 = 51
+rng2 = 99 + 12 - 11 + 1 = 101
+Flyout
+Team 1 pitcher (Stanley Collins): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-1
+
+-----------------------
+
+TOP INNING 6
+
+Gabe Roberts: rng1 = 92 + 13 - 9 - 1 = 95
+rng2 = 66 + 14 - 9 - 1 = 70
+Double
+Team 2 pitcher (Colton Hendrix): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 0
+
+base1: false, base2: [0,1], base3: false
+base1: false, base2: true, base3: false
+Score: 7-1
+
+Blake Welsh: rng1 = 19 + 13 - 9 - 1 = 22
+Strikeout
+Team 2 pitcher (Colton Hendrix): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: false, base2: [0,1], base3: false
+base1: false, base2: true, base3: false
+Score: 7-1
+
+Caleb Harrington: rng1 = 2 + 12 - 9 - 1 = 4
+Strikeout
+Team 2 pitcher (Colton Hendrix): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: false, base2: [0,1], base3: false
+base1: false, base2: true, base3: false
+Score: 7-1
+
+Tommy Baxter: rng1 = 8 + 8 - 9 - 1 = 6
+Strikeout
+Team 2 pitcher (Colton Hendrix): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-1
+
+-----------------------
+
+BOTTOM INNING 6
+
+Leonardo Vera: rng1 = 68 + 14 - 11 + 1 = 72
+Walk
+Team 1 pitcher (Stanley Collins): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-1
+
+Alfie Young: rng1 = 8 + 13 - 11 + 1 = 11
+rng2 = 75 + 8 - 11 + 1 = 73
+Flyout
+Team 1 pitcher (Stanley Collins): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-1
+
+Charlie May: rng1 = 31 + 11 - 11 + 1 = 32
+rng2 = 69 + 11 - 11 + 1 = 70
+Flyout
+Team 1 pitcher (Stanley Collins): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-1
+
+Jamie Reid: rng1 = 57 + 9 - 11 + 1 = 56
+rng2 = 13 + 11 - 11 + 1 = 14
+Groundout
+Team 1 pitcher (Stanley Collins): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-1
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Julian Underwood
+
+Emiel Ware: rng1 = 35 + 9 - 9 - 1 = 34
+rng2 = 88 + 10 - 6 - 1 = 91
+Flyout
+Team 2 pitcher (Julian Underwood): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-1
+
+Jaquon Lyons: rng1 = 96 + 10 - 9 - 1 = 96
+rng2 = 88 + 9 - 6 - 1 = 90
+Double
+Team 2 pitcher (Julian Underwood): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [5,2], base3: false
+base1: false, base2: true, base3: false
+Score: 7-1
+
+Timothy Bentley: rng1 = 31 + 6 - 9 - 1 = 27
+Strikeout
+Team 2 pitcher (Julian Underwood): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [5,2], base3: false
+base1: false, base2: true, base3: false
+Score: 7-1
+
+Isaac Secada: rng1 = 75 + 8 - 9 - 1 = 73
+rng2 = 12 + 8 - 6 - 1 = 13
+Single
+Team 2 pitcher (Julian Underwood): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-1
+
+Darren Chang: rng1 = 58 + 5 - 9 - 1 = 53
+rng2 = 82 + 7 - 6 - 1 = 82
+Flyout
+Team 2 pitcher (Julian Underwood): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-1
+
+-----------------------
+
+BOTTOM INNING 7
+
+Matías Martinez: rng1 = 35 + 10 - 11 + 1 = 35
+rng2 = 92 + 10 - 11 + 1 = 92
+Flyout
+Team 1 pitcher (Stanley Collins): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-1
+
+Benito Maroto: rng1 = 100 + 6 - 11 + 1 = 96
+rng2 = 60 + 9 - 11 + 1 = 59
+Single
+Team 1 pitcher (Stanley Collins): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-1
+
+Pascual Gilbert: rng1 = 54 + 9 - 11 + 1 = 53
+rng2 = 27 + 5 - 11 + 1 = 22
+Groundout
+Team 1 pitcher (Stanley Collins): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-1
+
+Darren Adams: rng1 = 60 + 6 - 11 + 1 = 56
+rng2 = 67 + 6 - 11 + 1 = 63
+Flyout
+Team 1 pitcher (Stanley Collins): 27 batters faced, 1 runs allowed = 27 + 2.5 = 29.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-1
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Matthew Dorman
+
+Gabe Roberts: rng1 = 92 + 13 - 6 - 1 = 98
+rng2 = 93 + 14 - 7 - 1 = 99
+Home run
+Team 2 pitcher (Matthew Dorman): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-1
+
+Blake Welsh: rng1 = 78 + 13 - 6 - 1 = 84
+rng2 = 19 + 8 - 7 - 1 = 19
+Single
+Team 2 pitcher (Matthew Dorman): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: [1,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-1
+
+Caleb Harrington: rng1 = 98 + 12 - 6 - 1 = 103
+rng2 = 25 + 10 - 7 - 1 = 27
+Single
+Team 2 pitcher (Matthew Dorman): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 0
+
+base1: [2,3], base2: false, base3: [1,3]
+base1: true, base2: false, base3: true
+Score: 9-1
+
+Tommy Baxter: rng1 = 33 + 8 - 6 - 1 = 34
+rng2 = 98 + 12 - 7 - 1 = 102
+Flyout
+Team 2 pitcher (Matthew Dorman): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: [2,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 10-1
+
+Emiel Ware: rng1 = 13 + 9 - 6 - 1 = 15
+rng2 = 39 + 10 - 7 - 1 = 41
+Groundout
+Team 2 pitcher (Matthew Dorman): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: false, base2: [2,3], base3: false
+base1: false, base2: true, base3: false
+Score: 10-1
+
+Jaquon Lyons: rng1 = 96 + 10 - 6 - 1 = 99
+rng2 = 86 + 9 - 7 - 1 = 87
+Double
+Team 2 pitcher (Matthew Dorman): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: false, base2: [5,3], base3: false
+base1: false, base2: true, base3: false
+Score: 11-1
+
+Team 2 pitcher change to Jordan Knight
+
+Timothy Bentley: rng1 = 24 + 6 - 11 - 1 = 18
+Strikeout
+Team 2 pitcher (Jordan Knight): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 11-1
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Isaac Hartman
+
+Drake LaStelle: rng1 = 63 + 15 - 8 + 1 = 71
+Walk
+Team 1 pitcher (Isaac Hartman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 11-1
+
+Leonardo Vera: rng1 = 93 + 14 - 8 + 1 = 100
+rng2 = 35 + 13 - 9 + 1 = 40
+Single
+Team 1 pitcher (Isaac Hartman): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,1], base2: [0,1], base3: false
+base1: true, base2: true, base3: false
+Score: 11-1
+
+Alfie Young: rng1 = 89 + 13 - 8 + 1 = 95
+rng2 = 70 + 8 - 9 + 1 = 70
+Double
+Team 1 pitcher (Isaac Hartman): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 0
+
+base1: false, base2: [2,1], base3: [1,1]
+base1: false, base2: true, base3: true
+Score: 11-2
+
+Charlie May: rng1 = 31 + 11 - 8 + 1 = 35
+rng2 = 92 + 11 - 9 + 1 = 95
+Flyout
+Team 1 pitcher (Isaac Hartman): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: false, base2: [2,1], base3: [1,1]
+base1: false, base2: true, base3: true
+Score: 11-2
+
+Jamie Reid: rng1 = 52 + 9 - 8 + 1 = 54
+rng2 = 18 + 11 - 9 + 1 = 21
+Groundout
+Team 1 pitcher (Isaac Hartman): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: false, base2: [2,1], base3: false
+base1: false, base2: true, base3: false
+Score: 11-3
+
+Matías Martinez: rng1 = 14 + 10 - 8 + 1 = 17
+Strikeout
+Team 1 pitcher (Isaac Hartman): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 11-3
+
+-----------------------
+
+TOP INNING 9
+
+Isaac Secada: rng1 = 51 + 8 - 11 - 1 = 47
+rng2 = 66 + 8 - 10 - 1 = 63
+Flyout
+Team 2 pitcher (Jordan Knight): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 11-3
+
+Darren Chang: rng1 = 66 + 5 - 11 - 1 = 59
+rng2 = 89 + 7 - 10 - 1 = 85
+Flyout
+Team 2 pitcher (Jordan Knight): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 11-3
+
+Gabe Roberts: rng1 = 44 + 13 - 11 - 1 = 45
+rng2 = 37 + 14 - 10 - 1 = 40
+Groundout
+Team 2 pitcher (Jordan Knight): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 11-3
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Kwok Kwang-Seok
+
+Benito Maroto: rng1 = 88 + 6 - 11 + 1 = 84
+rng2 = 76 + 9 - 13 + 1 = 73
+Double
+Team 1 pitcher (Kwok Kwang-Seok): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [6,2], base3: false
+base1: false, base2: true, base3: false
+Score: 11-3
+
+Pascual Gilbert: rng1 = 94 + 9 - 11 + 1 = 93
+rng2 = 59 + 5 - 13 + 1 = 52
+Single
+Team 1 pitcher (Kwok Kwang-Seok): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [7,2], base2: false, base3: [6,2]
+base1: true, base2: false, base3: true
+Score: 11-3
+
+Darren Adams: rng1 = 7 + 6 - 11 + 1 = 3
+Strikeout
+Team 1 pitcher (Kwok Kwang-Seok): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [7,2], base2: false, base3: [6,2]
+base1: true, base2: false, base3: true
+Score: 11-3
+
+Drake LaStelle: rng1 = 24 + 15 - 11 + 1 = 29
+rng2 = 75 + 12 - 13 + 1 = 75
+Flyout
+Team 1 pitcher (Kwok Kwang-Seok): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [7,2], base2: false, base3: [6,2]
+base1: true, base2: false, base3: true
+Score: 11-3
+
+Leonardo Vera: rng1 = 16 + 14 - 11 + 1 = 20
+Strikeout
+Team 1 pitcher (Kwok Kwang-Seok): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 11-3
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 17
+Team 2 hits: 8
+Team 1 runs: 11
+Team 2 runs: 3
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-09-02
+Gabe Roberts	6	2	4	2	0	1	2	0	1					Miami
+Blake Welsh	5	1	1	0	0	0	0	0	1	
+Caleb Harrington	4	2	3	0	0	0	0	1	1	
+Tommy Baxter	4	1	1	0	0	1	4	1	2	
+Emiel Ware	5	1	1	0	0	1	1	0	0	
+Jaquon Lyons	5	2	3	2	0	1	2	0	0	
+Timothy Bentley	5	1	1	0	0	0	0	0	3	
+Isaac Secada	5	1	3	2	0	0	2	0	1	
+Darren Chang	5	0	0	0	0	0	0	0	3	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Stanley Collins	1	0	1	1	0	0	21	4	1	1	2	6	27	
+Isaac Hartman	0	0	1	0	0	0	3	2	2	0	1	1	6	
+Kwok Kwang-Seok	0	0	1	0	0	0	3	2	0	0	0	2	5	
+Abraham Pace	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Iván Curbelo	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-09-02
+Drake LaStelle	4	2	1	0	0	1	1	1	0					San Diego
+Leonardo Vera	4	1	1	0	0	0	0	1	2	
+Alfie Young	4	0	1	1	0	0	1	0	0	
+Charlie May	4	0	1	0	0	0	0	0	0	
+Jamie Reid	4	0	1	0	0	0	1	0	0	
+Matías Martinez	4	0	0	0	0	0	0	0	2	
+Benito Maroto	3	0	2	1	0	0	0	1	1	
+Pascual Gilbert	4	0	1	0	0	0	0	0	1	
+Darren Adams	4	0	0	0	0	0	0	0	3	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Javari Howard	0	1	1	1	0	0	10	10	7	3	2	5	22	
+Colton Hendrix	0	0	1	0	0	0	8	1	0	0	0	5	9	
+Julian Underwood	0	0	1	0	0	0	3	2	1	0	0	1	5	
+Matthew Dorman	0	0	1	0	0	0	2	4	3	1	0	0	6	
+Jordan Knight	0	0	1	0	0	0	4	0	0	0	0	1	4	

@@ -1,0 +1,746 @@
+TOP INNING 1
+
+Wakasugi Norogumi: rng1 = 62 + 15 - 7 - 1 = 69
+rng2 = 53 + 15 - 6 - 1 = 61
+Flyout
+Team 2 pitcher (Emanuel Muñoz): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Xavier Cabrera: rng1 = 67 + 13 - 7 - 1 = 72
+Walk
+Team 2 pitcher (Emanuel Muñoz): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Alfonso Stafford: rng1 = 79 + 13 - 7 - 1 = 84
+rng2 = 20 + 9 - 6 - 1 = 22
+Single
+Team 2 pitcher (Emanuel Muñoz): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Ethan Spencer: rng1 = 72 + 11 - 7 - 1 = 75
+rng2 = 2 + 14 - 6 - 1 = 9
+Single
+Team 2 pitcher (Emanuel Muñoz): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [3,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Lawson Haney: rng1 = 49 + 14 - 7 - 1 = 55
+rng2 = 81 + 13 - 6 - 1 = 87
+Flyout
+Team 2 pitcher (Emanuel Muñoz): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [3,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Desharious Roberson: rng1 = 19 + 13 - 7 - 1 = 24
+Strikeout
+Team 2 pitcher (Emanuel Muñoz): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+George Nagle: rng1 = 41 + 15 - 5 + 1 = 52
+rng2 = 70 + 15 - 5 + 1 = 81
+Flyout
+Team 1 pitcher (Jordyn Kennedy): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Lawrence Randolph: rng1 = 89 + 15 - 5 + 1 = 100
+rng2 = 98 + 13 - 5 + 1 = 107
+Home run
+Team 1 pitcher (Jordyn Kennedy): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Antonio Carrera: rng1 = 52 + 12 - 5 + 1 = 60
+rng2 = 72 + 11 - 5 + 1 = 79
+Flyout
+Team 1 pitcher (Jordyn Kennedy): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Jason Burress: rng1 = 39 + 10 - 5 + 1 = 45
+rng2 = 29 + 8 - 5 + 1 = 33
+Groundout
+Team 1 pitcher (Jordyn Kennedy): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 2
+
+Ike Nicholson: rng1 = 25 + 6 - 7 - 1 = 23
+Strikeout
+Team 2 pitcher (Emanuel Muñoz): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Hayden Wright: rng1 = 7 + 7 - 7 - 1 = 6
+Strikeout
+Team 2 pitcher (Emanuel Muñoz): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Karsen Welch: rng1 = 47 + 9 - 7 - 1 = 48
+rng2 = 54 + 6 - 6 - 1 = 53
+Lineout
+Team 2 pitcher (Emanuel Muñoz): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Noah Fontenot: rng1 = 79 + 12 - 5 + 1 = 87
+Walk
+Team 1 pitcher (Jordyn Kennedy): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Dante Arias: rng1 = 67 + 11 - 5 + 1 = 74
+rng2 = 2 + 7 - 5 + 1 = 5
+Single
+Team 1 pitcher (Jordyn Kennedy): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 0
+
+base1: [5,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 1-1
+
+Bautista Saelices: rng1 = 95 + 9 - 5 + 1 = 100
+rng2 = 19 + 8 - 5 + 1 = 23
+Single
+Team 1 pitcher (Jordyn Kennedy): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 0
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 1-2
+
+Terry Schroeder: rng1 = 61 + 8 - 5 + 1 = 65
+rng2 = 42 + 5 - 5 + 1 = 43
+Groundout
+Team 1 pitcher (Jordyn Kennedy): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 1
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-3
+
+Xavier Sanford: rng1 = 92 + 6 - 5 + 1 = 94
+rng2 = 49 + 4 - 5 + 1 = 49
+Single
+Team 1 pitcher (Jordyn Kennedy): 9 batters faced, 4 runs allowed = 9 + 10.0 = 19.0, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+George Nagle: rng1 = 74 + 15 - 5 + 1 = 85
+rng2 = 16 + 15 - 5 + 1 = 27
+Single
+Team 1 pitcher (Jordyn Kennedy): 10 batters faced, 4 runs allowed = 10 + 10.0 = 20.0, outs: 1
+
+base1: [0,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 1-4
+
+Lawrence Randolph: rng1 = 93 + 15 - 5 + 1 = 104
+rng2 = 100 + 13 - 5 + 1 = 109
+Home run
+Team 1 pitcher (Jordyn Kennedy): 11 batters faced, 7 runs allowed = 11 + 17.5 = 28.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-7
+
+Antonio Carrera: rng1 = 15 + 12 - 5 + 1 = 23
+Strikeout
+Team 1 pitcher (Jordyn Kennedy): 12 batters faced, 7 runs allowed = 12 + 17.5 = 29.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-7
+
+Jason Burress: rng1 = 95 + 10 - 5 + 1 = 101
+rng2 = 52 + 8 - 5 + 1 = 56
+Single
+Team 1 pitcher (Jordyn Kennedy): 13 batters faced, 7 runs allowed = 13 + 17.5 = 30.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-7
+
+Noah Fontenot: rng1 = 18 + 12 - 5 + 1 = 26
+Strikeout
+Team 1 pitcher (Jordyn Kennedy): 14 batters faced, 7 runs allowed = 14 + 17.5 = 31.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-7
+
+-----------------------
+
+TOP INNING 3
+
+Wakasugi Norogumi: rng1 = 33 + 15 - 7 - 1 = 40
+rng2 = 99 + 15 - 6 - 1 = 107
+Flyout
+Team 2 pitcher (Emanuel Muñoz): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-7
+
+Xavier Cabrera: rng1 = 20 + 13 - 7 - 1 = 25
+Strikeout
+Team 2 pitcher (Emanuel Muñoz): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-7
+
+Alfonso Stafford: rng1 = 18 + 13 - 7 - 1 = 23
+Strikeout
+Team 2 pitcher (Emanuel Muñoz): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-7
+
+-----------------------
+
+BOTTOM INNING 3
+
+Team 1 pitcher change to Saiki Iwane
+
+Dante Arias: rng1 = 65 + 11 - 11 + 1 = 66
+rng2 = 55 + 7 - 9 + 1 = 54
+Lineout
+Team 1 pitcher (Saiki Iwane): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-7
+
+Bautista Saelices: rng1 = 73 + 9 - 11 + 1 = 72
+Walk
+Team 1 pitcher (Saiki Iwane): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-7
+
+Terry Schroeder: rng1 = 60 + 8 - 11 + 1 = 58
+rng2 = 25 + 5 - 9 + 1 = 22
+Groundout
+Team 1 pitcher (Saiki Iwane): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-7
+
+Xavier Sanford: rng1 = 10 + 6 - 11 + 1 = 6
+Strikeout
+Team 1 pitcher (Saiki Iwane): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-7
+
+-----------------------
+
+TOP INNING 4
+
+Ethan Spencer: rng1 = 22 + 11 - 7 - 1 = 25
+Strikeout
+Team 2 pitcher (Emanuel Muñoz): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-7
+
+Lawson Haney: rng1 = 82 + 14 - 7 - 1 = 88
+Walk
+Team 2 pitcher (Emanuel Muñoz): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-7
+
+Desharious Roberson: rng1 = 85 + 13 - 7 - 1 = 90
+Walk
+Team 2 pitcher (Emanuel Muñoz): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 1
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-7
+
+Ike Nicholson: rng1 = 81 + 6 - 7 - 1 = 79
+rng2 = 11 + 12 - 6 - 1 = 16
+Single
+Team 2 pitcher (Emanuel Muñoz): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 1
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 2-7
+
+Hayden Wright: rng1 = 6 + 7 - 7 - 1 = 5
+Strikeout
+Team 2 pitcher (Emanuel Muñoz): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 2
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 2-7
+
+Karsen Welch: rng1 = 58 + 9 - 7 - 1 = 59
+rng2 = 92 + 6 - 6 - 1 = 91
+Flyout
+Team 2 pitcher (Emanuel Muñoz): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-7
+
+-----------------------
+
+BOTTOM INNING 4
+
+George Nagle: rng1 = 30 + 15 - 11 + 1 = 35
+rng2 = 59 + 15 - 9 + 1 = 66
+Flyout
+Team 1 pitcher (Saiki Iwane): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Lawrence Randolph: rng1 = 31 + 15 - 11 + 1 = 36
+rng2 = 48 + 13 - 9 + 1 = 53
+Lineout
+Team 1 pitcher (Saiki Iwane): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Antonio Carrera: rng1 = 50 + 12 - 11 + 1 = 52
+rng2 = 81 + 11 - 9 + 1 = 84
+Flyout
+Team 1 pitcher (Saiki Iwane): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-7
+
+-----------------------
+
+TOP INNING 5
+
+Wakasugi Norogumi: rng1 = 90 + 15 - 7 - 1 = 97
+rng2 = 45 + 15 - 6 - 1 = 53
+Single
+Team 2 pitcher (Emanuel Muñoz): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-7
+
+Xavier Cabrera: rng1 = 13 + 13 - 7 - 1 = 18
+Strikeout
+Team 2 pitcher (Emanuel Muñoz): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-7
+
+Alfonso Stafford: rng1 = 28 + 13 - 7 - 1 = 33
+rng2 = 21 + 9 - 6 - 1 = 23
+Groundout
+Team 2 pitcher (Emanuel Muñoz): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-7
+
+Ethan Spencer: rng1 = 60 + 11 - 7 - 1 = 63
+rng2 = 48 + 14 - 6 - 1 = 55
+Lineout
+Team 2 pitcher (Emanuel Muñoz): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-7
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Thomas Dillard
+
+Jason Burress: rng1 = 8 + 10 - 10 + 1 = 9
+Strikeout
+Team 1 pitcher (Thomas Dillard): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Noah Fontenot: rng1 = 90 + 12 - 10 + 1 = 93
+rng2 = 13 + 7 - 7 + 1 = 14
+Single
+Team 1 pitcher (Thomas Dillard): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-7
+
+Dante Arias: rng1 = 74 + 11 - 10 + 1 = 76
+rng2 = 13 + 7 - 7 + 1 = 14
+Single
+Team 1 pitcher (Thomas Dillard): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [5,2], base2: [4,2], base3: false
+base1: true, base2: true, base3: false
+Score: 2-7
+
+Bautista Saelices: rng1 = 43 + 9 - 10 + 1 = 43
+rng2 = 4 + 8 - 7 + 1 = 6
+Groundout
+Team 1 pitcher (Thomas Dillard): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-7
+
+-----------------------
+
+TOP INNING 6
+
+Lawson Haney: rng1 = 25 + 14 - 7 - 1 = 31
+rng2 = 9 + 13 - 6 - 1 = 15
+Groundout
+Team 2 pitcher (Emanuel Muñoz): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Desharious Roberson: rng1 = 38 + 13 - 7 - 1 = 43
+rng2 = 23 + 8 - 6 - 1 = 24
+Groundout
+Team 2 pitcher (Emanuel Muñoz): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Ike Nicholson: rng1 = 58 + 6 - 7 - 1 = 56
+rng2 = 69 + 12 - 6 - 1 = 74
+Flyout
+Team 2 pitcher (Emanuel Muñoz): 25 batters faced, 2 runs allowed = 25 + 5.0 = 30.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-7
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Moises Alvarado
+
+Terry Schroeder: rng1 = 22 + 8 - 7 + 1 = 24
+Strikeout
+Team 1 pitcher (Moises Alvarado): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Xavier Sanford: rng1 = 91 + 6 - 7 + 1 = 91
+rng2 = 96 + 4 - 7 + 1 = 94
+Home run
+Team 1 pitcher (Moises Alvarado): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-8
+
+George Nagle: rng1 = 31 + 15 - 7 + 1 = 40
+rng2 = 35 + 15 - 7 + 1 = 44
+Groundout
+Team 1 pitcher (Moises Alvarado): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-8
+
+Lawrence Randolph: rng1 = 27 + 15 - 7 + 1 = 36
+rng2 = 42 + 13 - 7 + 1 = 49
+Lineout
+Team 1 pitcher (Moises Alvarado): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-8
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Taylor Murphy
+
+Hayden Wright: rng1 = 83 + 7 - 15 - 1 = 74
+rng2 = 63 + 10 - 14 - 1 = 58
+Single
+Team 2 pitcher (Taylor Murphy): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-8
+
+Karsen Welch: rng1 = 80 + 9 - 15 - 1 = 73
+rng2 = 14 + 6 - 14 - 1 = 5
+Single
+Team 2 pitcher (Taylor Murphy): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [8,1], base2: [7,1], base3: false
+base1: true, base2: true, base3: false
+Score: 2-8
+
+Wakasugi Norogumi: rng1 = 68 + 15 - 15 - 1 = 67
+rng2 = 96 + 15 - 14 - 1 = 96
+Flyout
+Team 2 pitcher (Taylor Murphy): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [8,1], base2: [7,1], base3: false
+base1: true, base2: true, base3: false
+Score: 2-8
+
+Xavier Cabrera: rng1 = 51 + 13 - 15 - 1 = 48
+rng2 = 14 + 10 - 14 - 1 = 9
+Groundout
+Team 2 pitcher (Taylor Murphy): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [1,1], base2: [8,1], base3: false
+base1: true, base2: true, base3: false
+Score: 2-8
+
+Alfonso Stafford: rng1 = 22 + 13 - 15 - 1 = 19
+Strikeout
+Team 2 pitcher (Taylor Murphy): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-8
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Juancarlo Pinto
+
+Antonio Carrera: rng1 = 13 + 12 - 13 + 1 = 13
+rng2 = 16 + 11 - 13 + 1 = 15
+Groundout
+Team 1 pitcher (Juancarlo Pinto): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-8
+
+Jason Burress: rng1 = 56 + 10 - 13 + 1 = 54
+rng2 = 86 + 8 - 13 + 1 = 82
+Flyout
+Team 1 pitcher (Juancarlo Pinto): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-8
+
+Noah Fontenot: rng1 = 27 + 12 - 13 + 1 = 27
+Strikeout
+Team 1 pitcher (Juancarlo Pinto): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-8
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Rodrigo Valerio
+
+Ethan Spencer: rng1 = 34 + 11 - 10 - 1 = 34
+rng2 = 87 + 14 - 9 - 1 = 91
+Flyout
+Team 2 pitcher (Rodrigo Valerio): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-8
+
+Lawson Haney: rng1 = 19 + 14 - 10 - 1 = 22
+Strikeout
+Team 2 pitcher (Rodrigo Valerio): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-8
+
+Desharious Roberson: rng1 = 96 + 13 - 10 - 1 = 98
+rng2 = 49 + 8 - 9 - 1 = 47
+Single
+Team 2 pitcher (Rodrigo Valerio): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-8
+
+Ike Nicholson: rng1 = 37 + 6 - 10 - 1 = 32
+rng2 = 18 + 12 - 9 - 1 = 20
+Groundout
+Team 2 pitcher (Rodrigo Valerio): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-8
+
+-----------------------
+
+BOTTOM INNING 8
+
+Dante Arias: rng1 = 3 + 11 - 13 + 1 = 2
+Strikeout
+Team 1 pitcher (Juancarlo Pinto): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-8
+
+Bautista Saelices: rng1 = 81 + 9 - 13 + 1 = 78
+rng2 = 62 + 8 - 13 + 1 = 58
+Single
+Team 1 pitcher (Juancarlo Pinto): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [6,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-8
+
+Terry Schroeder: rng1 = 10 + 8 - 13 + 1 = 6
+Strikeout
+Team 1 pitcher (Juancarlo Pinto): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [6,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-8
+
+Xavier Sanford: rng1 = 63 + 6 - 13 + 1 = 57
+rng2 = 100 + 4 - 13 + 1 = 92
+Flyout
+Team 1 pitcher (Juancarlo Pinto): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-8
+
+-----------------------
+
+TOP INNING 9
+
+Hayden Wright: rng1 = 77 + 7 - 10 - 1 = 73
+rng2 = 2 + 10 - 9 - 1 = 2
+Single
+Team 2 pitcher (Rodrigo Valerio): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-8
+
+Karsen Welch: rng1 = 12 + 9 - 10 - 1 = 10
+Strikeout
+Team 2 pitcher (Rodrigo Valerio): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-8
+
+Wakasugi Norogumi: rng1 = 44 + 15 - 10 - 1 = 48
+rng2 = 57 + 15 - 9 - 1 = 62
+Flyout
+Team 2 pitcher (Rodrigo Valerio): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-8
+
+Xavier Cabrera: rng1 = 41 + 13 - 10 - 1 = 43
+rng2 = 2 + 10 - 9 - 1 = 2
+Groundout
+Team 2 pitcher (Rodrigo Valerio): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-8
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 8
+Team 2 hits: 11
+Team 1 runs: 2
+Team 2 runs: 8
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-09-04
+Wakasugi Norogumi	5	0	1	0	0	0	0	0	0					Atlanta
+Xavier Cabrera	4	1	0	0	0	0	0	1	2	
+Alfonso Stafford	4	0	1	0	0	0	0	0	2	
+Ethan Spencer	4	0	1	0	0	0	1	0	1	
+Lawson Haney	3	1	0	0	0	0	0	1	1	
+Desharious Roberson	3	0	1	0	0	0	0	1	1	
+Ike Nicholson	4	0	1	0	0	0	1	0	1	
+Hayden Wright	4	0	2	0	0	0	0	0	2	
+Karsen Welch	4	0	1	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Jordyn Kennedy	0	1	1	1	0	0	6	7	7	2	1	2	14	
+Saiki Iwane	0	0	1	0	0	0	6	0	0	0	1	1	7	
+Thomas Dillard	0	0	1	0	0	0	3	2	0	0	0	1	4	
+Moises Alvarado	0	0	1	0	0	0	3	1	1	1	0	1	4	
+Juancarlo Pinto	0	0	1	0	0	0	6	1	0	0	0	3	7	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-09-04
+George Nagle	4	1	1	0	0	0	0	0	0					Las Vegas
+Lawrence Randolph	4	2	2	0	0	2	4	0	0	
+Antonio Carrera	4	0	0	0	0	0	0	0	1	
+Jason Burress	4	0	1	0	0	0	0	0	1	
+Noah Fontenot	3	1	1	0	0	0	0	1	2	
+Dante Arias	4	1	2	0	0	0	0	0	1	
+Bautista Saelices	3	1	2	0	0	0	1	1	0	
+Terry Schroeder	4	0	0	0	0	0	1	0	2	
+Xavier Sanford	4	2	2	0	0	1	2	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Emanuel Muñoz	1	0	1	1	0	0	18	4	2	0	3	8	25	
+Taylor Murphy	0	0	1	0	0	0	3	2	0	0	0	1	5	
+Rodrigo Valerio	0	0	1	0	0	0	6	2	0	0	0	2	8	
+Phil Segee	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Macos Alguacil	0	0	0	0	0	0	0	0	0	0	0	0	0	

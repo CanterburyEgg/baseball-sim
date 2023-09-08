@@ -1,0 +1,675 @@
+TOP INNING 1
+
+Stanley Soto: rng1 = 14 + 8 - 13 - 1 = 8
+Strikeout
+Team 2 pitcher (Demarcus Jackson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Josh Poole: rng1 = 50 + 7 - 13 - 1 = 43
+rng2 = 80 + 5 - 12 - 1 = 72
+Flyout
+Team 2 pitcher (Demarcus Jackson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Tom Lawson: rng1 = 89 + 6 - 13 - 1 = 81
+rng2 = 18 + 4 - 12 - 1 = 9
+Single
+Team 2 pitcher (Demarcus Jackson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Reese Ross: rng1 = 27 + 3 - 13 - 1 = 16
+Strikeout
+Team 2 pitcher (Demarcus Jackson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Kim Bon-Shim: rng1 = 37 + 13 - 8 + 1 = 43
+rng2 = 38 + 15 - 2 + 1 = 52
+Lineout
+Team 1 pitcher (Alberto Berganza): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jack Hayes: rng1 = 79 + 9 - 8 + 1 = 81
+rng2 = 75 + 9 - 2 + 1 = 83
+Home run
+Team 1 pitcher (Alberto Berganza): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Antonio Santiago: rng1 = 95 + 9 - 8 + 1 = 97
+rng2 = 3 + 4 - 2 + 1 = 6
+Single
+Team 1 pitcher (Alberto Berganza): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Chae Yongsun: rng1 = 91 + 7 - 8 + 1 = 91
+rng2 = 10 + 13 - 2 + 1 = 22
+Single
+Team 1 pitcher (Alberto Berganza): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-1
+
+Katagiri Seibei: rng1 = 98 + 7 - 8 + 1 = 98
+rng2 = 49 + 8 - 2 + 1 = 56
+Single
+Team 1 pitcher (Alberto Berganza): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: [4,0], base2: [3,0], base3: [2,0]
+base1: true, base2: true, base3: true
+Score: 0-1
+
+Chris Lay: rng1 = 80 + 2 - 8 + 1 = 75
+rng2 = 91 + 8 - 2 + 1 = 98
+Home run
+Team 1 pitcher (Alberto Berganza): 6 batters faced, 5 runs allowed = 6 + 12.5 = 18.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Demarcus Warner: rng1 = 90 + 3 - 8 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Alberto Berganza): 7 batters faced, 5 runs allowed = 7 + 12.5 = 19.5, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Yon Shin-Young: rng1 = 72 + 4 - 8 + 1 = 69
+rng2 = 62 + 6 - 2 + 1 = 67
+Flyout
+Team 1 pitcher (Alberto Berganza): 8 batters faced, 5 runs allowed = 8 + 12.5 = 20.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Carson Redd: rng1 = 6 + 4 - 8 + 1 = 3
+Strikeout
+Team 1 pitcher (Alberto Berganza): 9 batters faced, 5 runs allowed = 9 + 12.5 = 21.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+TOP INNING 2
+
+Ignacio Delacruz: rng1 = 99 + 5 - 13 - 1 = 90
+Walk
+Team 2 pitcher (Demarcus Jackson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Bradley Simon: rng1 = 4 + 6 - 13 - 1 = -4
+Strikeout
+Team 2 pitcher (Demarcus Jackson): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Joshua Marsh: rng1 = 50 + 3 - 13 - 1 = 39
+rng2 = 31 + 6 - 12 - 1 = 24
+Groundout
+Team 2 pitcher (Demarcus Jackson): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Ivan Cruz: rng1 = 45 + 3 - 13 - 1 = 34
+rng2 = 27 + 6 - 12 - 1 = 20
+Groundout
+Team 2 pitcher (Demarcus Jackson): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+BOTTOM INNING 2
+
+Kim Bon-Shim: rng1 = 27 + 13 - 8 + 1 = 33
+rng2 = 38 + 15 - 2 + 1 = 52
+Lineout
+Team 1 pitcher (Alberto Berganza): 10 batters faced, 5 runs allowed = 10 + 12.5 = 22.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Jack Hayes: rng1 = 20 + 9 - 8 + 1 = 22
+Strikeout
+Team 1 pitcher (Alberto Berganza): 11 batters faced, 5 runs allowed = 11 + 12.5 = 23.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Antonio Santiago: rng1 = 46 + 9 - 8 + 1 = 48
+rng2 = 23 + 4 - 2 + 1 = 26
+Groundout
+Team 1 pitcher (Alberto Berganza): 12 batters faced, 5 runs allowed = 12 + 12.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+TOP INNING 3
+
+Bruno Rios: rng1 = 97 + 4 - 13 - 1 = 87
+Walk
+Team 2 pitcher (Demarcus Jackson): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Stanley Soto: rng1 = 18 + 8 - 13 - 1 = 12
+rng2 = 64 + 4 - 12 - 1 = 55
+Lineout
+Team 2 pitcher (Demarcus Jackson): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Josh Poole: rng1 = 50 + 7 - 13 - 1 = 43
+rng2 = 16 + 5 - 12 - 1 = 8
+Groundout
+Team 2 pitcher (Demarcus Jackson): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 2
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-5
+
+Tom Lawson: rng1 = 72 + 6 - 13 - 1 = 64
+rng2 = 73 + 4 - 12 - 1 = 64
+Flyout
+Team 2 pitcher (Demarcus Jackson): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+BOTTOM INNING 3
+
+Chae Yongsun: rng1 = 9 + 7 - 8 + 1 = 9
+Strikeout
+Team 1 pitcher (Alberto Berganza): 13 batters faced, 5 runs allowed = 13 + 12.5 = 25.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Katagiri Seibei: rng1 = 62 + 7 - 8 + 1 = 62
+rng2 = 25 + 8 - 2 + 1 = 32
+Groundout
+Team 1 pitcher (Alberto Berganza): 14 batters faced, 5 runs allowed = 14 + 12.5 = 26.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Chris Lay: rng1 = 91 + 2 - 8 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Alberto Berganza): 15 batters faced, 5 runs allowed = 15 + 12.5 = 27.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Demarcus Warner: rng1 = 44 + 3 - 8 + 1 = 40
+rng2 = 72 + 7 - 2 + 1 = 78
+Flyout
+Team 1 pitcher (Alberto Berganza): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+TOP INNING 4
+
+Reese Ross: rng1 = 67 + 3 - 13 - 1 = 56
+rng2 = 64 + 7 - 12 - 1 = 58
+Lineout
+Team 2 pitcher (Demarcus Jackson): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Ignacio Delacruz: rng1 = 1 + 5 - 13 - 1 = -8
+Strikeout
+Team 2 pitcher (Demarcus Jackson): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Bradley Simon: rng1 = 53 + 6 - 13 - 1 = 45
+rng2 = 7 + 4 - 12 - 1 = -2
+Groundout
+Team 2 pitcher (Demarcus Jackson): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+BOTTOM INNING 4
+
+Yon Shin-Young: rng1 = 97 + 4 - 8 + 1 = 94
+rng2 = 5 + 6 - 2 + 1 = 10
+Single
+Team 1 pitcher (Alberto Berganza): 17 batters faced, 5 runs allowed = 17 + 12.5 = 29.5, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Carson Redd: rng1 = 8 + 4 - 8 + 1 = 5
+Strikeout
+Team 1 pitcher (Alberto Berganza): 18 batters faced, 5 runs allowed = 18 + 12.5 = 30.5, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Kim Bon-Shim: rng1 = 56 + 13 - 8 + 1 = 62
+rng2 = 96 + 15 - 2 + 1 = 110
+Flyout
+Team 1 pitcher (Alberto Berganza): 19 batters faced, 5 runs allowed = 19 + 12.5 = 31.5, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Jack Hayes: rng1 = 94 + 9 - 8 + 1 = 96
+rng2 = 5 + 9 - 2 + 1 = 13
+Single
+Team 1 pitcher (Alberto Berganza): 20 batters faced, 5 runs allowed = 20 + 12.5 = 32.5, outs: 2
+
+base1: [1,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-5
+
+Antonio Santiago: rng1 = 47 + 9 - 8 + 1 = 49
+rng2 = 32 + 4 - 2 + 1 = 35
+Groundout
+Team 1 pitcher (Alberto Berganza): 21 batters faced, 5 runs allowed = 21 + 12.5 = 33.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+TOP INNING 5
+
+Joshua Marsh: rng1 = 42 + 3 - 13 - 1 = 31
+rng2 = 100 + 6 - 12 - 1 = 93
+Flyout
+Team 2 pitcher (Demarcus Jackson): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Ivan Cruz: rng1 = 94 + 3 - 13 - 1 = 83
+rng2 = 10 + 6 - 12 - 1 = 3
+Single
+Team 2 pitcher (Demarcus Jackson): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Bruno Rios: rng1 = 7 + 4 - 13 - 1 = -3
+Strikeout
+Team 2 pitcher (Demarcus Jackson): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Stanley Soto: rng1 = 12 + 8 - 13 - 1 = 6
+Strikeout
+Team 2 pitcher (Demarcus Jackson): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Hershel Easom
+
+Chae Yongsun: rng1 = 63 + 7 - 4 + 1 = 67
+rng2 = 68 + 13 - 5 + 1 = 77
+Flyout
+Team 1 pitcher (Hershel Easom): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Katagiri Seibei: rng1 = 10 + 7 - 4 + 1 = 14
+rng2 = 21 + 8 - 5 + 1 = 25
+Groundout
+Team 1 pitcher (Hershel Easom): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Chris Lay: rng1 = 33 + 2 - 4 + 1 = 32
+rng2 = 59 + 8 - 5 + 1 = 63
+Flyout
+Team 1 pitcher (Hershel Easom): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+TOP INNING 6
+
+Josh Poole: rng1 = 15 + 7 - 13 - 1 = 8
+Strikeout
+Team 2 pitcher (Demarcus Jackson): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Tom Lawson: rng1 = 28 + 6 - 13 - 1 = 20
+Strikeout
+Team 2 pitcher (Demarcus Jackson): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Reese Ross: rng1 = 77 + 3 - 13 - 1 = 66
+rng2 = 40 + 7 - 12 - 1 = 34
+Groundout
+Team 2 pitcher (Demarcus Jackson): 22 batters faced, 0 runs allowed = 22 + 0.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+BOTTOM INNING 6
+
+Demarcus Warner: rng1 = 75 + 3 - 4 + 1 = 75
+rng2 = 94 + 7 - 5 + 1 = 97
+Home run
+Team 1 pitcher (Hershel Easom): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Yon Shin-Young: rng1 = 18 + 4 - 4 + 1 = 19
+Strikeout
+Team 1 pitcher (Hershel Easom): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Carson Redd: rng1 = 8 + 4 - 4 + 1 = 9
+Strikeout
+Team 1 pitcher (Hershel Easom): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Kim Bon-Shim: rng1 = 52 + 13 - 4 + 1 = 62
+rng2 = 60 + 15 - 5 + 1 = 71
+Flyout
+Team 1 pitcher (Hershel Easom): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+TOP INNING 7
+
+Ignacio Delacruz: rng1 = 25 + 5 - 13 - 1 = 16
+Strikeout
+Team 2 pitcher (Demarcus Jackson): 23 batters faced, 0 runs allowed = 23 + 0.0 = 23.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Bradley Simon: rng1 = 3 + 6 - 13 - 1 = -5
+Strikeout
+Team 2 pitcher (Demarcus Jackson): 24 batters faced, 0 runs allowed = 24 + 0.0 = 24.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Joshua Marsh: rng1 = 45 + 3 - 13 - 1 = 34
+rng2 = 19 + 6 - 12 - 1 = 12
+Groundout
+Team 2 pitcher (Demarcus Jackson): 25 batters faced, 0 runs allowed = 25 + 0.0 = 25.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Jake Booth
+
+Jack Hayes: rng1 = 17 + 9 - 7 + 1 = 20
+Strikeout
+Team 1 pitcher (Jake Booth): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Antonio Santiago: rng1 = 24 + 9 - 7 + 1 = 27
+Strikeout
+Team 1 pitcher (Jake Booth): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Chae Yongsun: rng1 = 12 + 7 - 7 + 1 = 13
+rng2 = 66 + 13 - 6 + 1 = 74
+Flyout
+Team 1 pitcher (Jake Booth): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+TOP INNING 8
+
+Ivan Cruz: rng1 = 61 + 3 - 13 - 1 = 50
+rng2 = 45 + 6 - 12 - 1 = 38
+Groundout
+Team 2 pitcher (Demarcus Jackson): 26 batters faced, 0 runs allowed = 26 + 0.0 = 26.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Bruno Rios: rng1 = 13 + 4 - 13 - 1 = 3
+Strikeout
+Team 2 pitcher (Demarcus Jackson): 27 batters faced, 0 runs allowed = 27 + 0.0 = 27.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Stanley Soto: rng1 = 9 + 8 - 13 - 1 = 3
+Strikeout
+Team 2 pitcher (Demarcus Jackson): 28 batters faced, 0 runs allowed = 28 + 0.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+BOTTOM INNING 8
+
+Katagiri Seibei: rng1 = 36 + 7 - 7 + 1 = 37
+rng2 = 76 + 8 - 6 + 1 = 79
+Flyout
+Team 1 pitcher (Jake Booth): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Chris Lay: rng1 = 77 + 2 - 7 + 1 = 73
+rng2 = 1 + 8 - 6 + 1 = 4
+Single
+Team 1 pitcher (Jake Booth): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-6
+
+Demarcus Warner: rng1 = 13 + 3 - 7 + 1 = 10
+Strikeout
+Team 1 pitcher (Jake Booth): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-6
+
+Yon Shin-Young: rng1 = 66 + 4 - 7 + 1 = 64
+rng2 = 56 + 6 - 6 + 1 = 57
+Lineout
+Team 1 pitcher (Jake Booth): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Noah Rosario
+
+Josh Poole: rng1 = 69 + 7 - 9 - 1 = 66
+rng2 = 82 + 5 - 6 - 1 = 80
+Flyout
+Team 2 pitcher (Noah Rosario): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Tom Lawson: rng1 = 11 + 6 - 9 - 1 = 7
+Strikeout
+Team 2 pitcher (Noah Rosario): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Reese Ross: rng1 = 83 + 3 - 9 - 1 = 76
+rng2 = 12 + 7 - 6 - 1 = 12
+Single
+Team 2 pitcher (Noah Rosario): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-6
+
+Ignacio Delacruz: rng1 = 16 + 5 - 9 - 1 = 11
+rng2 = 50 + 5 - 6 - 1 = 48
+Lineout
+Team 2 pitcher (Noah Rosario): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 3
+Team 2 hits: 9
+Team 1 runs: 0
+Team 2 runs: 6
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-09-07
+Stanley Soto	4	0	0	0	0	0	0	0	3					Phoenix
+Josh Poole	4	0	0	0	0	0	0	0	1	
+Tom Lawson	4	0	1	0	0	0	0	0	2	
+Reese Ross	4	0	1	0	0	0	0	0	1	
+Ignacio Delacruz	3	0	0	0	0	0	0	1	2	
+Bradley Simon	3	0	0	0	0	0	0	0	2	
+Joshua Marsh	3	0	0	0	0	0	0	0	0	
+Ivan Cruz	3	0	1	0	0	0	0	0	0	
+Bruno Rios	2	0	0	0	0	0	0	1	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Alberto Berganza	0	1	1	1	0	0	12	7	5	2	0	4	21	
+Hershel Easom	0	0	1	0	0	0	6	1	1	1	0	2	7	
+Jake Booth	0	0	1	0	0	0	6	1	0	0	0	3	7	
+Jayden Cooper	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rakeem Bradley	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-09-07
+Kim Bon-Shim	4	0	0	0	0	0	0	0	0					Portland
+Jack Hayes	4	1	2	0	0	1	1	0	2	
+Antonio Santiago	4	1	1	0	0	0	0	0	1	
+Chae Yongsun	4	1	1	0	0	0	0	0	1	
+Katagiri Seibei	4	1	1	0	0	0	0	0	0	
+Chris Lay	3	1	2	0	0	1	4	0	0	
+Demarcus Warner	3	1	1	0	0	1	1	0	1	
+Yon Shin-Young	4	0	1	0	0	0	0	0	1	
+Carson Redd	3	0	0	0	0	0	0	0	3	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Demarcus Jackson	1	0	1	1	0	0	24	2	0	0	2	12	28	
+Noah Rosario	0	0	1	0	0	0	3	1	0	0	0	1	4	
+Teagan Molina	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Wayne Kelly	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Ripley Sjostrand	0	0	0	0	0	0	0	0	0	0	0	0	0	

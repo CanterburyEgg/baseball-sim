@@ -1,0 +1,786 @@
+TOP INNING 1
+
+Isaac Morris: rng1 = 44 + 15 - 9 - 1 = 49
+rng2 = 84 + 15 - 8 - 1 = 90
+Flyout
+Team 2 pitcher (Javier Manzanares): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Yorell Harmon: rng1 = 79 + 13 - 9 - 1 = 82
+rng2 = 55 + 15 - 8 - 1 = 61
+Single
+Team 2 pitcher (Javier Manzanares): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Angel Semprún: rng1 = 79 + 12 - 9 - 1 = 81
+rng2 = 28 + 10 - 8 - 1 = 29
+Single
+Team 2 pitcher (Javier Manzanares): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Mark White: rng1 = 79 + 9 - 9 - 1 = 78
+rng2 = 42 + 11 - 8 - 1 = 44
+Single
+Team 2 pitcher (Javier Manzanares): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Trey Walter: rng1 = 11 + 11 - 9 - 1 = 12
+rng2 = 78 + 10 - 8 - 1 = 79
+Flyout
+Team 2 pitcher (Javier Manzanares): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [3,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Gary Miller: rng1 = 8 + 7 - 9 - 1 = 5
+Strikeout
+Team 2 pitcher (Javier Manzanares): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Keli Alohilani: rng1 = 93 + 14 - 9 + 1 = 99
+rng2 = 36 + 11 - 7 + 1 = 41
+Single
+Team 1 pitcher (Daigo Yoshimochi): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Tomas Canto: rng1 = 41 + 14 - 9 + 1 = 47
+rng2 = 53 + 14 - 7 + 1 = 61
+Flyout
+Team 1 pitcher (Daigo Yoshimochi): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Konner Knight: rng1 = 70 + 11 - 9 + 1 = 73
+rng2 = 100 + 6 - 7 + 1 = 100
+Home run
+Team 1 pitcher (Daigo Yoshimochi): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Jong Jung-Hwa: rng1 = 32 + 10 - 9 + 1 = 34
+rng2 = 27 + 13 - 7 + 1 = 34
+Groundout
+Team 1 pitcher (Daigo Yoshimochi): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Alonso Medina: rng1 = 50 + 10 - 9 + 1 = 52
+rng2 = 47 + 8 - 7 + 1 = 49
+Lineout
+Team 1 pitcher (Daigo Yoshimochi): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 2
+
+Drew Nelson: rng1 = 29 + 7 - 9 - 1 = 26
+Strikeout
+Team 2 pitcher (Javier Manzanares): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Francisco Illescas: rng1 = 1 + 5 - 9 - 1 = -4
+Strikeout
+Team 2 pitcher (Javier Manzanares): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Kugo Ryutaro: rng1 = 67 + 6 - 9 - 1 = 63
+rng2 = 94 + 4 - 8 - 1 = 89
+Flyout
+Team 2 pitcher (Javier Manzanares): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 2
+
+Jerome Goodwin: rng1 = 63 + 8 - 9 + 1 = 63
+rng2 = 7 + 7 - 7 + 1 = 8
+Groundout
+Team 1 pitcher (Daigo Yoshimochi): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Henry Porter: rng1 = 58 + 1 - 9 + 1 = 51
+rng2 = 78 + 9 - 7 + 1 = 81
+Flyout
+Team 1 pitcher (Daigo Yoshimochi): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Cayson Guerrero: rng1 = 9 + 3 - 9 + 1 = 4
+Strikeout
+Team 1 pitcher (Daigo Yoshimochi): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 3
+
+Isaac Morris: rng1 = 40 + 15 - 9 - 1 = 45
+rng2 = 24 + 15 - 8 - 1 = 30
+Groundout
+Team 2 pitcher (Javier Manzanares): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Yorell Harmon: rng1 = 30 + 13 - 9 - 1 = 33
+rng2 = 96 + 15 - 8 - 1 = 102
+Flyout
+Team 2 pitcher (Javier Manzanares): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Angel Semprún: rng1 = 76 + 12 - 9 - 1 = 78
+rng2 = 88 + 10 - 8 - 1 = 89
+Double
+Team 2 pitcher (Javier Manzanares): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-2
+
+Mark White: rng1 = 47 + 9 - 9 - 1 = 46
+rng2 = 73 + 11 - 8 - 1 = 75
+Flyout
+Team 2 pitcher (Javier Manzanares): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 3
+
+Chwa Jung-Su: rng1 = 44 + 5 - 9 + 1 = 41
+rng2 = 100 + 5 - 7 + 1 = 99
+Flyout
+Team 1 pitcher (Daigo Yoshimochi): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Keli Alohilani: rng1 = 26 + 14 - 9 + 1 = 32
+rng2 = 85 + 11 - 7 + 1 = 90
+Flyout
+Team 1 pitcher (Daigo Yoshimochi): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Tomas Canto: rng1 = 82 + 14 - 9 + 1 = 88
+Walk
+Team 1 pitcher (Daigo Yoshimochi): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Konner Knight: rng1 = 55 + 11 - 9 + 1 = 58
+rng2 = 43 + 6 - 7 + 1 = 43
+Groundout
+Team 1 pitcher (Daigo Yoshimochi): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 4
+
+Trey Walter: rng1 = 53 + 11 - 9 - 1 = 54
+rng2 = 63 + 10 - 8 - 1 = 64
+Flyout
+Team 2 pitcher (Javier Manzanares): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Gary Miller: rng1 = 94 + 7 - 9 - 1 = 91
+rng2 = 79 + 10 - 8 - 1 = 80
+Home run
+Team 2 pitcher (Javier Manzanares): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Drew Nelson: rng1 = 42 + 7 - 9 - 1 = 39
+rng2 = 13 + 4 - 8 - 1 = 8
+Groundout
+Team 2 pitcher (Javier Manzanares): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Francisco Illescas: rng1 = 31 + 5 - 9 - 1 = 26
+Strikeout
+Team 2 pitcher (Javier Manzanares): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+BOTTOM INNING 4
+
+Jong Jung-Hwa: rng1 = 95 + 10 - 9 + 1 = 97
+rng2 = 9 + 13 - 7 + 1 = 16
+Single
+Team 1 pitcher (Daigo Yoshimochi): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Alonso Medina: rng1 = 68 + 10 - 9 + 1 = 70
+Walk
+Team 1 pitcher (Daigo Yoshimochi): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 0
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-2
+
+Jerome Goodwin: rng1 = 72 + 8 - 9 + 1 = 72
+Walk
+Team 1 pitcher (Daigo Yoshimochi): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 0
+
+base1: [5,0], base2: [4,0], base3: [3,0]
+base1: true, base2: true, base3: true
+Score: 2-2
+
+Henry Porter: rng1 = 92 + 1 - 9 + 1 = 85
+rng2 = 61 + 9 - 7 + 1 = 64
+Single
+Team 1 pitcher (Daigo Yoshimochi): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 0
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 2-4
+
+Cayson Guerrero: rng1 = 77 + 3 - 9 + 1 = 72
+Walk
+Team 1 pitcher (Daigo Yoshimochi): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 0
+
+base1: [7,0], base2: [6,0], base3: [5,0]
+base1: true, base2: true, base3: true
+Score: 2-4
+
+Chwa Jung-Su: rng1 = 90 + 5 - 9 + 1 = 87
+Walk
+Team 1 pitcher (Daigo Yoshimochi): 18 batters faced, 5 runs allowed = 18 + 12.5 = 30.5, outs: 0
+
+base1: [8,0], base2: [7,0], base3: [6,0]
+base1: true, base2: true, base3: true
+Score: 2-5
+
+Keli Alohilani: rng1 = 43 + 14 - 9 + 1 = 49
+rng2 = 75 + 11 - 7 + 1 = 80
+Flyout
+Team 1 pitcher (Daigo Yoshimochi): 19 batters faced, 6 runs allowed = 19 + 15.0 = 34.0, outs: 1
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-6
+
+Tomas Canto: rng1 = 25 + 14 - 9 + 1 = 31
+rng2 = 10 + 14 - 7 + 1 = 18
+Groundout
+Team 1 pitcher (Daigo Yoshimochi): 20 batters faced, 6 runs allowed = 20 + 15.0 = 35.0, outs: 2
+
+base1: [1,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 2-6
+
+Konner Knight: rng1 = 100 + 11 - 9 + 1 = 103
+rng2 = 10 + 6 - 7 + 1 = 10
+Single
+Team 1 pitcher (Daigo Yoshimochi): 21 batters faced, 7 runs allowed = 21 + 17.5 = 38.5, outs: 2
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 2-7
+
+Team 1 pitcher change to Sammie Starr
+
+Jong Jung-Hwa: rng1 = 40 + 10 - 10 + 1 = 41
+rng2 = 28 + 13 - 11 + 1 = 31
+Groundout
+Team 1 pitcher (Sammie Starr): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-7
+
+-----------------------
+
+TOP INNING 5
+
+Kugo Ryutaro: rng1 = 60 + 6 - 9 - 1 = 56
+rng2 = 17 + 4 - 8 - 1 = 12
+Groundout
+Team 2 pitcher (Javier Manzanares): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Isaac Morris: rng1 = 84 + 15 - 9 - 1 = 89
+Walk
+Team 2 pitcher (Javier Manzanares): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-7
+
+Yorell Harmon: rng1 = 68 + 13 - 9 - 1 = 71
+Walk
+Team 2 pitcher (Javier Manzanares): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 1
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-7
+
+Angel Semprún: rng1 = 57 + 12 - 9 - 1 = 59
+rng2 = 7 + 10 - 8 - 1 = 8
+Groundout
+Team 2 pitcher (Javier Manzanares): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 2
+
+base1: [2,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 2-7
+
+Mark White: rng1 = 71 + 9 - 9 - 1 = 70
+Walk
+Team 2 pitcher (Javier Manzanares): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 2
+
+base1: [3,0], base2: [2,0], base3: [0,0]
+base1: true, base2: true, base3: true
+Score: 2-7
+
+Trey Walter: rng1 = 44 + 11 - 9 - 1 = 45
+rng2 = 8 + 10 - 8 - 1 = 9
+Groundout
+Team 2 pitcher (Javier Manzanares): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-7
+
+-----------------------
+
+BOTTOM INNING 5
+
+Alonso Medina: rng1 = 63 + 10 - 10 + 1 = 64
+rng2 = 62 + 8 - 11 + 1 = 60
+Flyout
+Team 1 pitcher (Sammie Starr): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Jerome Goodwin: rng1 = 79 + 8 - 10 + 1 = 78
+rng2 = 57 + 7 - 11 + 1 = 54
+Single
+Team 1 pitcher (Sammie Starr): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-7
+
+Henry Porter: rng1 = 27 + 1 - 10 + 1 = 19
+Strikeout
+Team 1 pitcher (Sammie Starr): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-7
+
+Cayson Guerrero: rng1 = 39 + 3 - 10 + 1 = 33
+rng2 = 47 + 7 - 11 + 1 = 44
+Groundout
+Team 1 pitcher (Sammie Starr): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-7
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Steve Randles
+
+Gary Miller: rng1 = 84 + 7 - 12 - 1 = 78
+rng2 = 53 + 10 - 10 - 1 = 52
+Single
+Team 2 pitcher (Steve Randles): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-7
+
+Drew Nelson: rng1 = 32 + 7 - 12 - 1 = 26
+Strikeout
+Team 2 pitcher (Steve Randles): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-7
+
+Francisco Illescas: rng1 = 15 + 5 - 12 - 1 = 7
+Strikeout
+Team 2 pitcher (Steve Randles): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-7
+
+Kugo Ryutaro: rng1 = 47 + 6 - 12 - 1 = 40
+rng2 = 59 + 4 - 10 - 1 = 52
+Lineout
+Team 2 pitcher (Steve Randles): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-7
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Julian Carney
+
+Chwa Jung-Su: rng1 = 48 + 5 - 10 + 1 = 44
+rng2 = 62 + 5 - 8 + 1 = 60
+Flyout
+Team 1 pitcher (Julian Carney): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Keli Alohilani: rng1 = 31 + 14 - 10 + 1 = 36
+rng2 = 48 + 11 - 8 + 1 = 52
+Lineout
+Team 1 pitcher (Julian Carney): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Tomas Canto: rng1 = 88 + 14 - 10 + 1 = 93
+rng2 = 22 + 14 - 8 + 1 = 29
+Single
+Team 1 pitcher (Julian Carney): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-7
+
+Konner Knight: rng1 = 78 + 11 - 10 + 1 = 80
+rng2 = 39 + 6 - 8 + 1 = 38
+Single
+Team 1 pitcher (Julian Carney): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [2,2], base2: [1,2], base3: false
+base1: true, base2: true, base3: false
+Score: 2-7
+
+Jong Jung-Hwa: rng1 = 25 + 10 - 10 + 1 = 26
+Strikeout
+Team 1 pitcher (Julian Carney): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-7
+
+-----------------------
+
+TOP INNING 7
+
+Isaac Morris: rng1 = 9 + 15 - 12 - 1 = 11
+rng2 = 35 + 15 - 10 - 1 = 39
+Groundout
+Team 2 pitcher (Steve Randles): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Yorell Harmon: rng1 = 52 + 13 - 12 - 1 = 52
+rng2 = 54 + 15 - 10 - 1 = 58
+Lineout
+Team 2 pitcher (Steve Randles): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Angel Semprún: rng1 = 15 + 12 - 12 - 1 = 14
+rng2 = 77 + 10 - 10 - 1 = 76
+Flyout
+Team 2 pitcher (Steve Randles): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-7
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Liam Newman
+
+Alonso Medina: rng1 = 67 + 10 - 10 + 1 = 68
+rng2 = 35 + 8 - 8 + 1 = 36
+Groundout
+Team 1 pitcher (Liam Newman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Jerome Goodwin: rng1 = 67 + 8 - 10 + 1 = 66
+rng2 = 45 + 7 - 8 + 1 = 45
+Groundout
+Team 1 pitcher (Liam Newman): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Henry Porter: rng1 = 42 + 1 - 10 + 1 = 34
+rng2 = 4 + 9 - 8 + 1 = 6
+Groundout
+Team 1 pitcher (Liam Newman): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-7
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Agustin Acosta
+
+Mark White: rng1 = 77 + 9 - 8 - 1 = 77
+rng2 = 19 + 11 - 10 - 1 = 19
+Single
+Team 2 pitcher (Agustin Acosta): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [3,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-7
+
+Trey Walter: rng1 = 69 + 11 - 8 - 1 = 71
+Walk
+Team 2 pitcher (Agustin Acosta): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [4,2], base2: [3,2], base3: false
+base1: true, base2: true, base3: false
+Score: 2-7
+
+Gary Miller: rng1 = 97 + 7 - 8 - 1 = 95
+rng2 = 66 + 10 - 10 - 1 = 65
+Single
+Team 2 pitcher (Agustin Acosta): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 0
+
+base1: [5,2], base2: [4,2], base3: false
+base1: true, base2: true, base3: false
+Score: 3-7
+
+Drew Nelson: rng1 = 66 + 7 - 8 - 1 = 64
+rng2 = 36 + 4 - 10 - 1 = 29
+Groundout
+Team 2 pitcher (Agustin Acosta): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [6,2], base2: [5,2], base3: false
+base1: true, base2: true, base3: false
+Score: 3-7
+
+Francisco Illescas: rng1 = 81 + 5 - 8 - 1 = 77
+rng2 = 93 + 5 - 10 - 1 = 87
+Double
+Team 2 pitcher (Agustin Acosta): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 1
+
+base1: false, base2: [7,2], base3: [6,2]
+base1: false, base2: true, base3: true
+Score: 4-7
+
+Kugo Ryutaro: rng1 = 28 + 6 - 8 - 1 = 25
+Strikeout
+Team 2 pitcher (Agustin Acosta): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: false, base2: [7,2], base3: [6,2]
+base1: false, base2: true, base3: true
+Score: 4-7
+
+Isaac Morris: rng1 = 46 + 15 - 8 - 1 = 52
+rng2 = 56 + 15 - 10 - 1 = 60
+Flyout
+Team 2 pitcher (Agustin Acosta): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-7
+
+-----------------------
+
+BOTTOM INNING 8
+
+Cayson Guerrero: rng1 = 51 + 3 - 10 + 1 = 45
+rng2 = 34 + 7 - 8 + 1 = 34
+Groundout
+Team 1 pitcher (Liam Newman): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-7
+
+Chwa Jung-Su: rng1 = 50 + 5 - 10 + 1 = 46
+rng2 = 40 + 5 - 8 + 1 = 38
+Groundout
+Team 1 pitcher (Liam Newman): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-7
+
+Keli Alohilani: rng1 = 78 + 14 - 10 + 1 = 83
+rng2 = 20 + 11 - 8 + 1 = 24
+Single
+Team 1 pitcher (Liam Newman): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [0,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-7
+
+Tomas Canto: rng1 = 16 + 14 - 10 + 1 = 21
+Strikeout
+Team 1 pitcher (Liam Newman): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-7
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Eduardo Elvira
+
+Yorell Harmon: rng1 = 54 + 13 - 14 - 1 = 52
+rng2 = 83 + 15 - 11 - 1 = 86
+Flyout
+Team 2 pitcher (Eduardo Elvira): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-7
+
+Angel Semprún: rng1 = 18 + 12 - 14 - 1 = 15
+rng2 = 75 + 10 - 11 - 1 = 73
+Flyout
+Team 2 pitcher (Eduardo Elvira): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-7
+
+Mark White: rng1 = 63 + 9 - 14 - 1 = 57
+rng2 = 7 + 11 - 11 - 1 = 6
+Groundout
+Team 2 pitcher (Eduardo Elvira): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-7
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 9
+Team 2 hits: 9
+Team 1 runs: 4
+Team 2 runs: 7
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-09-10
+Isaac Morris	4	0	0	0	0	0	0	1	0					Toronto
+Yorell Harmon	4	1	1	0	0	0	0	1	0	
+Angel Semprún	5	0	2	1	0	0	0	0	0	
+Mark White	4	1	2	0	0	0	1	1	0	
+Trey Walter	3	0	0	0	0	0	0	1	0	
+Gary Miller	4	2	3	0	0	1	2	0	1	
+Drew Nelson	4	0	0	0	0	0	0	0	2	
+Francisco Illescas	4	0	1	1	0	0	1	0	3	
+Kugo Ryutaro	4	0	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Daigo Yoshimochi	0	1	1	1	0	0	11	5	7	1	5	1	21	
+Sammie Starr	0	0	1	0	0	0	4	1	0	0	0	1	5	
+Julian Carney	0	0	1	0	0	0	3	2	0	0	0	1	5	
+Liam Newman	0	0	1	0	0	0	6	1	0	0	0	1	7	
+Otis Michael	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-09-10
+Keli Alohilani	5	1	2	0	0	0	1	0	0					Philadelphia
+Tomas Canto	4	0	1	0	0	0	0	1	1	
+Konner Knight	4	1	3	0	0	1	3	0	0	
+Jong Jung-Hwa	4	1	1	0	0	0	0	0	1	
+Alonso Medina	3	1	0	0	0	0	0	1	0	
+Jerome Goodwin	3	1	1	0	0	0	0	1	0	
+Henry Porter	4	1	1	0	0	0	2	0	1	
+Cayson Guerrero	3	1	0	0	0	0	0	1	1	
+Chwa Jung-Su	3	0	0	0	0	0	1	1	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Javier Manzanares	1	0	1	1	0	0	15	5	2	1	3	4	23	
+Steve Randles	0	0	1	0	0	0	6	1	0	0	0	2	7	
+Agustin Acosta	0	0	1	0	0	0	3	3	2	0	1	1	7	
+Rolando Maroto	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Eduardo Elvira	0	0	1	0	1	1	3	0	0	0	0	0	3	

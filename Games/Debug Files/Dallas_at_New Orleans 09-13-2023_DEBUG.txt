@@ -1,0 +1,742 @@
+TOP INNING 1
+
+Angel Gutiérrez: rng1 = 33 + 15 - 14 - 1 = 33
+rng2 = 44 + 14 - 12 - 1 = 45
+Groundout
+Team 2 pitcher (Ahmad Key): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Finnegan Maxwell: rng1 = 99 + 15 - 14 - 1 = 99
+rng2 = 87 + 15 - 12 - 1 = 89
+Double
+Team 2 pitcher (Ahmad Key): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Dante Leoz: rng1 = 53 + 13 - 14 - 1 = 51
+rng2 = 84 + 12 - 12 - 1 = 83
+Flyout
+Team 2 pitcher (Ahmad Key): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: [1,0]
+base1: false, base2: false, base3: true
+Score: 0-0
+
+Nick Hamburger: rng1 = 63 + 13 - 14 - 1 = 61
+rng2 = 17 + 14 - 12 - 1 = 18
+Groundout
+Team 2 pitcher (Ahmad Key): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Byron Bartlett: rng1 = 97 + 15 - 10 + 1 = 103
+rng2 = 80 + 13 - 7 + 1 = 87
+Double
+Team 1 pitcher (Bailey M-M): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Arturo Bellamy: rng1 = 13 + 14 - 10 + 1 = 18
+Strikeout
+Team 1 pitcher (Bailey M-M): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Edmundo Pousa: rng1 = 11 + 14 - 10 + 1 = 16
+Strikeout
+Team 1 pitcher (Bailey M-M): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Owen Williamson: rng1 = 63 + 5 - 10 + 1 = 59
+rng2 = 61 + 9 - 7 + 1 = 64
+Flyout
+Team 1 pitcher (Bailey M-M): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Bailey Myers-Morgan: rng1 = 88 + 10 - 14 - 1 = 83
+rng2 = 94 + 10 - 12 - 1 = 91
+Double
+Team 2 pitcher (Ahmad Key): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Emiliano Costa: rng1 = 93 + 7 - 14 - 1 = 85
+rng2 = 37 + 9 - 12 - 1 = 33
+Single
+Team 2 pitcher (Ahmad Key): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Casey Myers-Morgan: rng1 = 73 + 8 - 14 - 1 = 66
+rng2 = 6 + 7 - 12 - 1 = 0
+Groundout
+Team 2 pitcher (Ahmad Key): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Alejandro Munoz: rng1 = 50 + 6 - 14 - 1 = 41
+rng2 = 93 + 8 - 12 - 1 = 88
+Flyout
+Team 2 pitcher (Ahmad Key): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Oscar Lawson: rng1 = 35 + 4 - 14 - 1 = 24
+Strikeout
+Team 2 pitcher (Ahmad Key): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Oscar Pierce: rng1 = 61 + 10 - 10 + 1 = 62
+rng2 = 3 + 6 - 7 + 1 = 3
+Groundout
+Team 1 pitcher (Bailey M-M): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Finlay Webb: rng1 = 89 + 8 - 10 + 1 = 88
+Walk
+Team 1 pitcher (Bailey M-M): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Devoreaux Waters: rng1 = 100 + 8 - 10 + 1 = 99
+rng2 = 59 + 4 - 7 + 1 = 57
+Single
+Team 1 pitcher (Bailey M-M): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Chon Il-Seong: rng1 = 86 + 7 - 10 + 1 = 84
+rng2 = 89 + 4 - 7 + 1 = 87
+Double
+Team 1 pitcher (Bailey M-M): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: false, base2: [7,0], base3: [6,0]
+base1: false, base2: true, base3: true
+Score: 1-1
+
+Yu Minjun: rng1 = 79 + 5 - 10 + 1 = 75
+rng2 = 38 + 5 - 7 + 1 = 37
+Single
+Team 1 pitcher (Bailey M-M): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Byron Bartlett: rng1 = 99 + 15 - 10 + 1 = 105
+rng2 = 28 + 13 - 7 + 1 = 35
+Single
+Team 1 pitcher (Bailey M-M): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 1
+
+base1: [0,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 1-3
+
+Arturo Bellamy: rng1 = 16 + 14 - 10 + 1 = 21
+Strikeout
+Team 1 pitcher (Bailey M-M): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 2
+
+base1: [0,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 1-3
+
+Edmundo Pousa: rng1 = 69 + 14 - 10 + 1 = 74
+rng2 = 39 + 12 - 7 + 1 = 45
+Single
+Team 1 pitcher (Bailey M-M): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 2
+
+base1: [2,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-4
+
+Owen Williamson: rng1 = 56 + 5 - 10 + 1 = 52
+rng2 = 90 + 9 - 7 + 1 = 93
+Flyout
+Team 1 pitcher (Bailey M-M): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+TOP INNING 3
+
+Angel Gutiérrez: rng1 = 7 + 15 - 14 - 1 = 7
+Strikeout
+Team 2 pitcher (Ahmad Key): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Finnegan Maxwell: rng1 = 1 + 15 - 14 - 1 = 1
+Strikeout
+Team 2 pitcher (Ahmad Key): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Dante Leoz: rng1 = 16 + 13 - 14 - 1 = 14
+rng2 = 2 + 12 - 12 - 1 = 1
+Groundout
+Team 2 pitcher (Ahmad Key): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+BOTTOM INNING 3
+
+Oscar Pierce: rng1 = 45 + 10 - 10 + 1 = 46
+rng2 = 74 + 6 - 7 + 1 = 74
+Flyout
+Team 1 pitcher (Bailey M-M): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Finlay Webb: rng1 = 10 + 8 - 10 + 1 = 9
+Strikeout
+Team 1 pitcher (Bailey M-M): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Devoreaux Waters: rng1 = 22 + 8 - 10 + 1 = 21
+Strikeout
+Team 1 pitcher (Bailey M-M): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+TOP INNING 4
+
+Nick Hamburger: rng1 = 20 + 13 - 14 - 1 = 18
+Strikeout
+Team 2 pitcher (Ahmad Key): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Bailey Myers-Morgan: rng1 = 29 + 10 - 14 - 1 = 24
+Strikeout
+Team 2 pitcher (Ahmad Key): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Emiliano Costa: rng1 = 51 + 7 - 14 - 1 = 43
+rng2 = 55 + 9 - 12 - 1 = 51
+Lineout
+Team 2 pitcher (Ahmad Key): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+BOTTOM INNING 4
+
+Chon Il-Seong: rng1 = 39 + 7 - 10 + 1 = 37
+rng2 = 58 + 4 - 7 + 1 = 56
+Lineout
+Team 1 pitcher (Bailey M-M): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Yu Minjun: rng1 = 30 + 5 - 10 + 1 = 26
+Strikeout
+Team 1 pitcher (Bailey M-M): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Byron Bartlett: rng1 = 12 + 15 - 10 + 1 = 18
+Strikeout
+Team 1 pitcher (Bailey M-M): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+TOP INNING 5
+
+Casey Myers-Morgan: rng1 = 80 + 8 - 14 - 1 = 73
+rng2 = 3 + 7 - 12 - 1 = -3
+Single
+Team 2 pitcher (Ahmad Key): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Alejandro Munoz: rng1 = 91 + 6 - 14 - 1 = 82
+rng2 = 75 + 8 - 12 - 1 = 70
+Double
+Team 2 pitcher (Ahmad Key): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 0
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-4
+
+Oscar Lawson: rng1 = 89 + 4 - 14 - 1 = 78
+rng2 = 2 + 6 - 12 - 1 = -5
+Single
+Team 2 pitcher (Ahmad Key): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-4
+
+Angel Gutiérrez: rng1 = 9 + 15 - 14 - 1 = 9
+Strikeout
+Team 2 pitcher (Ahmad Key): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-4
+
+Finnegan Maxwell: rng1 = 46 + 15 - 14 - 1 = 46
+rng2 = 43 + 15 - 12 - 1 = 45
+Groundout
+Team 2 pitcher (Ahmad Key): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Armando Negron
+
+Arturo Bellamy: rng1 = 87 + 14 - 8 + 1 = 94
+rng2 = 84 + 13 - 6 + 1 = 92
+Double
+Team 1 pitcher (Armando Negron): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [1,1], base3: false
+base1: false, base2: true, base3: false
+Score: 3-4
+
+Edmundo Pousa: rng1 = 66 + 14 - 8 + 1 = 73
+rng2 = 7 + 12 - 6 + 1 = 14
+Single
+Team 1 pitcher (Armando Negron): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [2,1], base2: false, base3: [1,1]
+base1: true, base2: false, base3: true
+Score: 3-4
+
+Owen Williamson: rng1 = 14 + 5 - 8 + 1 = 12
+rng2 = 93 + 9 - 6 + 1 = 97
+Flyout
+Team 1 pitcher (Armando Negron): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-5
+
+Oscar Pierce: rng1 = 63 + 10 - 8 + 1 = 66
+rng2 = 2 + 6 - 6 + 1 = 3
+Groundout
+Team 1 pitcher (Armando Negron): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-5
+
+Finlay Webb: rng1 = 53 + 8 - 8 + 1 = 54
+rng2 = 4 + 6 - 6 + 1 = 5
+Groundout
+Team 1 pitcher (Armando Negron): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Antonio McMillan
+
+Dante Leoz: rng1 = 54 + 13 - 12 - 1 = 54
+rng2 = 10 + 12 - 13 - 1 = 8
+Groundout
+Team 2 pitcher (Antonio McMillan): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Nick Hamburger: rng1 = 12 + 13 - 12 - 1 = 12
+rng2 = 78 + 14 - 13 - 1 = 78
+Flyout
+Team 2 pitcher (Antonio McMillan): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Bailey Myers-Morgan: rng1 = 83 + 10 - 12 - 1 = 80
+rng2 = 2 + 10 - 13 - 1 = -2
+Single
+Team 2 pitcher (Antonio McMillan): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-5
+
+Emiliano Costa: rng1 = 49 + 7 - 12 - 1 = 43
+rng2 = 94 + 9 - 13 - 1 = 89
+Flyout
+Team 2 pitcher (Antonio McMillan): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Sergio Narvaez
+
+Devoreaux Waters: rng1 = 38 + 8 - 12 + 1 = 35
+rng2 = 7 + 4 - 12 + 1 = 0
+Groundout
+Team 1 pitcher (Sergio Narvaez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Chon Il-Seong: rng1 = 89 + 7 - 12 + 1 = 85
+rng2 = 84 + 4 - 12 + 1 = 77
+Double
+Team 1 pitcher (Sergio Narvaez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [7,2], base3: false
+base1: false, base2: true, base3: false
+Score: 3-5
+
+Yu Minjun: rng1 = 15 + 5 - 12 + 1 = 9
+Strikeout
+Team 1 pitcher (Sergio Narvaez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [7,2], base3: false
+base1: false, base2: true, base3: false
+Score: 3-5
+
+Byron Bartlett: rng1 = 98 + 15 - 12 + 1 = 102
+rng2 = 99 + 13 - 12 + 1 = 101
+Home run
+Team 1 pitcher (Sergio Narvaez): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Arturo Bellamy: rng1 = 87 + 14 - 12 + 1 = 90
+Walk
+Team 1 pitcher (Sergio Narvaez): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-7
+
+Edmundo Pousa: rng1 = 59 + 14 - 12 + 1 = 62
+rng2 = 52 + 12 - 12 + 1 = 53
+Lineout
+Team 1 pitcher (Sergio Narvaez): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+TOP INNING 7
+
+Casey Myers-Morgan: rng1 = 4 + 8 - 12 - 1 = -1
+Strikeout
+Team 2 pitcher (Antonio McMillan): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Alejandro Munoz: rng1 = 41 + 6 - 12 - 1 = 34
+rng2 = 50 + 8 - 13 - 1 = 44
+Groundout
+Team 2 pitcher (Antonio McMillan): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Oscar Lawson: rng1 = 47 + 4 - 12 - 1 = 38
+rng2 = 48 + 6 - 13 - 1 = 40
+Groundout
+Team 2 pitcher (Antonio McMillan): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Douglas Bosak
+
+Owen Williamson: rng1 = 77 + 5 - 7 + 1 = 76
+rng2 = 6 + 9 - 7 + 1 = 9
+Single
+Team 1 pitcher (Douglas Bosak): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [3,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-7
+
+Oscar Pierce: rng1 = 74 + 10 - 7 + 1 = 78
+rng2 = 52 + 6 - 7 + 1 = 52
+Single
+Team 1 pitcher (Douglas Bosak): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [4,3], base2: false, base3: [3,3]
+base1: true, base2: false, base3: true
+Score: 3-7
+
+Finlay Webb: rng1 = 84 + 8 - 7 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Douglas Bosak): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 0
+
+base1: [5,3], base2: [4,3], base3: [3,3]
+base1: true, base2: true, base3: true
+Score: 3-7
+
+Devoreaux Waters: rng1 = 28 + 8 - 7 + 1 = 30
+rng2 = 2 + 4 - 7 + 1 = 0
+Groundout
+Team 1 pitcher (Douglas Bosak): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [6,3], base2: [5,3], base3: [4,3]
+base1: true, base2: true, base3: true
+Score: 3-7
+
+Chon Il-Seong: rng1 = 59 + 7 - 7 + 1 = 60
+rng2 = 2 + 4 - 7 + 1 = 0
+Groundout
+Team 1 pitcher (Douglas Bosak): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: [7,3], base2: [6,3], base3: [5,3]
+base1: true, base2: true, base3: true
+Score: 3-7
+
+Yu Minjun: rng1 = 1 + 5 - 7 + 1 = 0
+Strikeout
+Team 1 pitcher (Douglas Bosak): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Tamashiro Genjo
+
+Angel Gutiérrez: rng1 = 75 + 15 - 4 - 1 = 85
+rng2 = 60 + 14 - 7 - 1 = 66
+Double
+Team 2 pitcher (Tamashiro Genjo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [0,2], base3: false
+base1: false, base2: true, base3: false
+Score: 3-7
+
+Finnegan Maxwell: rng1 = 57 + 15 - 4 - 1 = 67
+rng2 = 96 + 15 - 7 - 1 = 103
+Flyout
+Team 2 pitcher (Tamashiro Genjo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [0,2], base3: false
+base1: false, base2: true, base3: false
+Score: 3-7
+
+Dante Leoz: rng1 = 47 + 13 - 4 - 1 = 55
+rng2 = 96 + 12 - 7 - 1 = 100
+Flyout
+Team 2 pitcher (Tamashiro Genjo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: [0,2]
+base1: false, base2: false, base3: true
+Score: 3-7
+
+Nick Hamburger: rng1 = 52 + 13 - 4 - 1 = 60
+rng2 = 51 + 14 - 7 - 1 = 57
+Lineout
+Team 2 pitcher (Tamashiro Genjo): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Seno Mashiro
+
+Byron Bartlett: rng1 = 9 + 15 - 14 + 1 = 11
+rng2 = 2 + 13 - 14 + 1 = 2
+Groundout
+Team 1 pitcher (Seno Mashiro): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Arturo Bellamy: rng1 = 51 + 14 - 14 + 1 = 52
+rng2 = 100 + 13 - 14 + 1 = 100
+Flyout
+Team 1 pitcher (Seno Mashiro): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Edmundo Pousa: rng1 = 49 + 14 - 14 + 1 = 50
+rng2 = 26 + 12 - 14 + 1 = 25
+Groundout
+Team 1 pitcher (Seno Mashiro): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+TOP INNING 9
+
+Bailey Myers-Morgan: rng1 = 43 + 10 - 4 - 1 = 48
+rng2 = 66 + 10 - 7 - 1 = 68
+Flyout
+Team 2 pitcher (Tamashiro Genjo): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Emiliano Costa: rng1 = 79 + 7 - 4 - 1 = 81
+rng2 = 14 + 9 - 7 - 1 = 15
+Single
+Team 2 pitcher (Tamashiro Genjo): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-7
+
+Casey Myers-Morgan: rng1 = 63 + 8 - 4 - 1 = 66
+rng2 = 5 + 7 - 7 - 1 = 4
+Groundout
+Team 2 pitcher (Tamashiro Genjo): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 9
+Team 2 hits: 12
+Team 1 runs: 3
+Team 2 runs: 7
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-09-13
+Angel Gutiérrez	4	0	1	1	0	0	0	0	2					Dallas
+Finnegan Maxwell	4	0	1	1	0	0	0	0	1	
+Dante Leoz	4	0	0	0	0	0	0	0	0	
+Nick Hamburger	4	0	0	0	0	0	0	0	1	
+Bailey Myers-Morgan	4	1	2	1	0	0	0	0	1	
+Emiliano Costa	4	0	2	0	0	0	1	0	0	
+Casey Myers-Morgan	4	1	1	0	0	0	0	0	1	
+Alejandro Munoz	3	1	1	1	0	0	1	0	0	
+Oscar Lawson	3	0	1	0	0	0	1	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Bailey M-M	0	1	1	1	0	0	12	6	4	0	1	7	19	
+Armando Negron	0	0	1	0	0	0	3	2	1	0	0	0	5	
+Sergio Narvaez	0	0	1	0	0	0	3	2	2	1	1	1	6	
+Douglas Bosak	0	0	1	0	0	0	3	2	0	0	0	1	6	
+Seno Mashiro	0	0	1	0	0	0	3	0	0	0	0	0	3	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-09-13
+Byron Bartlett	5	1	3	1	0	1	2	0	1					New Orleans
+Arturo Bellamy	4	1	1	1	0	0	0	1	2	
+Edmundo Pousa	5	0	2	0	0	0	1	0	1	
+Owen Williamson	4	0	1	0	0	0	1	0	0	
+Oscar Pierce	4	0	1	0	0	0	0	0	0	
+Finlay Webb	2	1	0	0	0	0	0	1	1	
+Devoreaux Waters	4	1	1	0	0	0	0	0	1	
+Chon Il-Seong	4	2	2	2	0	0	1	0	0	
+Yu Minjun	4	1	1	0	0	0	2	0	3	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Ahmad Key	1	0	1	1	0	0	15	6	3	0	0	6	20	
+Antonio McMillan	0	0	1	0	0	0	6	1	0	0	0	1	7	
+Tamashiro Genjo	0	0	1	0	0	0	6	2	0	0	0	0	7	
+Kione Andrews	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Brady Goodman	0	0	0	0	0	0	0	0	0	0	0	0	0	

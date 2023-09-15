@@ -1,0 +1,680 @@
+TOP INNING 1
+
+Isaac Morris: rng1 = 49 + 15 - 4 - 1 = 59
+rng2 = 37 + 15 - 6 - 1 = 45
+Groundout
+Team 2 pitcher (Tobías Céspedes): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Yorell Harmon: rng1 = 36 + 13 - 4 - 1 = 44
+rng2 = 62 + 15 - 6 - 1 = 70
+Flyout
+Team 2 pitcher (Tobías Céspedes): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Angel Semprún: rng1 = 23 + 12 - 4 - 1 = 30
+rng2 = 45 + 10 - 6 - 1 = 48
+Lineout
+Team 2 pitcher (Tobías Céspedes): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Juan Manzanares: rng1 = 49 + 15 - 9 + 1 = 56
+rng2 = 18 + 14 - 7 + 1 = 26
+Groundout
+Team 1 pitcher (Daigo Yoshimochi): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Quillin Grant: rng1 = 43 + 11 - 9 + 1 = 46
+rng2 = 24 + 12 - 7 + 1 = 30
+Groundout
+Team 1 pitcher (Daigo Yoshimochi): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Aiden Hayes: rng1 = 13 + 11 - 9 + 1 = 16
+Strikeout
+Team 1 pitcher (Daigo Yoshimochi): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Mark White: rng1 = 66 + 9 - 4 - 1 = 70
+Walk
+Team 2 pitcher (Tobías Céspedes): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Trey Walter: rng1 = 41 + 11 - 4 - 1 = 47
+rng2 = 67 + 10 - 6 - 1 = 70
+Flyout
+Team 2 pitcher (Tobías Céspedes): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Gary Miller: rng1 = 35 + 7 - 4 - 1 = 37
+rng2 = 85 + 10 - 6 - 1 = 88
+Flyout
+Team 2 pitcher (Tobías Céspedes): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Drew Nelson: rng1 = 54 + 7 - 4 - 1 = 56
+rng2 = 1 + 4 - 6 - 1 = -2
+Groundout
+Team 2 pitcher (Tobías Céspedes): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Emanuel Gutiérrez: rng1 = 46 + 4 - 9 + 1 = 42
+rng2 = 48 + 9 - 7 + 1 = 51
+Lineout
+Team 1 pitcher (Daigo Yoshimochi): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Juan Pearson: rng1 = 87 + 7 - 9 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Daigo Yoshimochi): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Noah Davidson: rng1 = 26 + 7 - 9 + 1 = 25
+Strikeout
+Team 1 pitcher (Daigo Yoshimochi): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Seamus Tanner: rng1 = 83 + 7 - 9 + 1 = 82
+rng2 = 87 + 5 - 7 + 1 = 86
+Double
+Team 1 pitcher (Daigo Yoshimochi): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Evan Hudson: rng1 = 90 + 5 - 9 + 1 = 87
+Walk
+Team 1 pitcher (Daigo Yoshimochi): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-1
+
+Joseph Porter: rng1 = 44 + 5 - 9 + 1 = 41
+rng2 = 90 + 5 - 7 + 1 = 89
+Flyout
+Team 1 pitcher (Daigo Yoshimochi): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 3
+
+Francisco Illescas: rng1 = 39 + 5 - 4 - 1 = 39
+rng2 = 78 + 5 - 6 - 1 = 76
+Flyout
+Team 2 pitcher (Tobías Céspedes): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Kugo Ryutaro: rng1 = 32 + 6 - 4 - 1 = 33
+rng2 = 83 + 4 - 6 - 1 = 80
+Flyout
+Team 2 pitcher (Tobías Céspedes): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Isaac Morris: rng1 = 8 + 15 - 4 - 1 = 18
+Strikeout
+Team 2 pitcher (Tobías Céspedes): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Juan Manzanares: rng1 = 52 + 15 - 9 + 1 = 59
+rng2 = 49 + 14 - 7 + 1 = 57
+Lineout
+Team 1 pitcher (Daigo Yoshimochi): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Quillin Grant: rng1 = 19 + 11 - 9 + 1 = 22
+Strikeout
+Team 1 pitcher (Daigo Yoshimochi): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Aiden Hayes: rng1 = 26 + 11 - 9 + 1 = 29
+rng2 = 64 + 11 - 7 + 1 = 69
+Flyout
+Team 1 pitcher (Daigo Yoshimochi): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 4
+
+Yorell Harmon: rng1 = 88 + 13 - 4 - 1 = 96
+rng2 = 90 + 15 - 6 - 1 = 98
+Home run
+Team 2 pitcher (Tobías Céspedes): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Angel Semprún: rng1 = 10 + 12 - 4 - 1 = 17
+Strikeout
+Team 2 pitcher (Tobías Céspedes): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Mark White: rng1 = 47 + 9 - 4 - 1 = 51
+rng2 = 11 + 11 - 6 - 1 = 15
+Groundout
+Team 2 pitcher (Tobías Céspedes): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Trey Walter: rng1 = 76 + 11 - 4 - 1 = 82
+rng2 = 48 + 10 - 6 - 1 = 51
+Single
+Team 2 pitcher (Tobías Céspedes): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Gary Miller: rng1 = 73 + 7 - 4 - 1 = 75
+rng2 = 4 + 10 - 6 - 1 = 7
+Single
+Team 2 pitcher (Tobías Céspedes): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 2
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Drew Nelson: rng1 = 84 + 7 - 4 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Tobías Céspedes): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 2
+
+base1: [6,0], base2: [5,0], base3: [4,0]
+base1: true, base2: true, base3: true
+Score: 1-1
+
+Francisco Illescas: rng1 = 22 + 5 - 4 - 1 = 22
+Strikeout
+Team 2 pitcher (Tobías Céspedes): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Emanuel Gutiérrez: rng1 = 75 + 4 - 9 + 1 = 71
+Walk
+Team 1 pitcher (Daigo Yoshimochi): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Juan Pearson: rng1 = 23 + 7 - 9 + 1 = 22
+Strikeout
+Team 1 pitcher (Daigo Yoshimochi): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Noah Davidson: rng1 = 50 + 7 - 9 + 1 = 49
+rng2 = 51 + 6 - 7 + 1 = 51
+Lineout
+Team 1 pitcher (Daigo Yoshimochi): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Seamus Tanner: rng1 = 98 + 7 - 9 + 1 = 97
+rng2 = 20 + 5 - 7 + 1 = 19
+Single
+Team 1 pitcher (Daigo Yoshimochi): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 2
+
+base1: [6,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 1-1
+
+Evan Hudson: rng1 = 87 + 5 - 9 + 1 = 84
+rng2 = 72 + 5 - 7 + 1 = 71
+Double
+Team 1 pitcher (Daigo Yoshimochi): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 2
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-3
+
+Joseph Porter: rng1 = 99 + 5 - 9 + 1 = 96
+rng2 = 90 + 5 - 7 + 1 = 89
+Double
+Team 1 pitcher (Daigo Yoshimochi): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 2
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-4
+
+Juan Manzanares: rng1 = 36 + 15 - 9 + 1 = 43
+rng2 = 43 + 14 - 7 + 1 = 51
+Lineout
+Team 1 pitcher (Daigo Yoshimochi): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+TOP INNING 5
+
+Kugo Ryutaro: rng1 = 60 + 6 - 4 - 1 = 61
+rng2 = 39 + 4 - 6 - 1 = 36
+Groundout
+Team 2 pitcher (Tobías Céspedes): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Isaac Morris: rng1 = 8 + 15 - 4 - 1 = 18
+Strikeout
+Team 2 pitcher (Tobías Céspedes): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Yorell Harmon: rng1 = 18 + 13 - 4 - 1 = 26
+Strikeout
+Team 2 pitcher (Tobías Céspedes): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+BOTTOM INNING 5
+
+Quillin Grant: rng1 = 7 + 11 - 9 + 1 = 10
+Strikeout
+Team 1 pitcher (Daigo Yoshimochi): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Aiden Hayes: rng1 = 68 + 11 - 9 + 1 = 71
+Walk
+Team 1 pitcher (Daigo Yoshimochi): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Emanuel Gutiérrez: rng1 = 58 + 4 - 9 + 1 = 54
+rng2 = 13 + 9 - 7 + 1 = 16
+Groundout
+Team 1 pitcher (Daigo Yoshimochi): 22 batters faced, 4 runs allowed = 22 + 10.0 = 32.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Juan Pearson: rng1 = 6 + 7 - 9 + 1 = 5
+Strikeout
+Team 1 pitcher (Daigo Yoshimochi): 23 batters faced, 4 runs allowed = 23 + 10.0 = 33.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+TOP INNING 6
+
+Angel Semprún: rng1 = 77 + 12 - 4 - 1 = 84
+rng2 = 83 + 10 - 6 - 1 = 86
+Double
+Team 2 pitcher (Tobías Céspedes): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 0
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-4
+
+Mark White: rng1 = 8 + 9 - 4 - 1 = 12
+rng2 = 65 + 11 - 6 - 1 = 69
+Flyout
+Team 2 pitcher (Tobías Céspedes): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 1
+
+base1: false, base2: false, base3: [2,0]
+base1: false, base2: false, base3: true
+Score: 1-4
+
+Trey Walter: rng1 = 9 + 11 - 4 - 1 = 15
+rng2 = 57 + 10 - 6 - 1 = 60
+Flyout
+Team 2 pitcher (Tobías Céspedes): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Gary Miller: rng1 = 63 + 7 - 4 - 1 = 65
+rng2 = 61 + 10 - 6 - 1 = 64
+Flyout
+Team 2 pitcher (Tobías Céspedes): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-4
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Sammie Starr
+
+Noah Davidson: rng1 = 67 + 7 - 10 + 1 = 65
+rng2 = 52 + 6 - 11 + 1 = 48
+Lineout
+Team 1 pitcher (Sammie Starr): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Seamus Tanner: rng1 = 16 + 7 - 10 + 1 = 14
+rng2 = 30 + 5 - 11 + 1 = 25
+Groundout
+Team 1 pitcher (Sammie Starr): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Evan Hudson: rng1 = 10 + 5 - 10 + 1 = 6
+Strikeout
+Team 1 pitcher (Sammie Starr): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-4
+
+-----------------------
+
+TOP INNING 7
+
+Drew Nelson: rng1 = 39 + 7 - 4 - 1 = 41
+rng2 = 4 + 4 - 6 - 1 = 1
+Groundout
+Team 2 pitcher (Tobías Céspedes): 25 batters faced, 2 runs allowed = 25 + 5.0 = 30.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Francisco Illescas: rng1 = 27 + 5 - 4 - 1 = 27
+Strikeout
+Team 2 pitcher (Tobías Céspedes): 26 batters faced, 2 runs allowed = 26 + 5.0 = 31.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Kugo Ryutaro: rng1 = 89 + 6 - 4 - 1 = 90
+Walk
+Team 2 pitcher (Tobías Céspedes): 27 batters faced, 2 runs allowed = 27 + 5.0 = 32.0, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-4
+
+Isaac Morris: rng1 = 22 + 15 - 4 - 1 = 32
+rng2 = 2 + 15 - 6 - 1 = 10
+Groundout
+Team 2 pitcher (Tobías Céspedes): 28 batters faced, 2 runs allowed = 28 + 5.0 = 33.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-4
+
+-----------------------
+
+BOTTOM INNING 7
+
+Joseph Porter: rng1 = 21 + 5 - 10 + 1 = 17
+Strikeout
+Team 1 pitcher (Sammie Starr): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Juan Manzanares: rng1 = 29 + 15 - 10 + 1 = 35
+rng2 = 74 + 14 - 11 + 1 = 78
+Flyout
+Team 1 pitcher (Sammie Starr): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Quillin Grant: rng1 = 9 + 11 - 10 + 1 = 11
+rng2 = 91 + 12 - 11 + 1 = 93
+Flyout
+Team 1 pitcher (Sammie Starr): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-4
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Pablo Quintana
+
+Yorell Harmon: rng1 = 63 + 13 - 6 - 1 = 69
+rng2 = 27 + 15 - 5 - 1 = 36
+Groundout
+Team 2 pitcher (Pablo Quintana): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Angel Semprún: rng1 = 80 + 12 - 6 - 1 = 85
+rng2 = 47 + 10 - 5 - 1 = 51
+Single
+Team 2 pitcher (Pablo Quintana): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-4
+
+Mark White: rng1 = 8 + 9 - 6 - 1 = 10
+Strikeout
+Team 2 pitcher (Pablo Quintana): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-4
+
+Trey Walter: rng1 = 49 + 11 - 6 - 1 = 53
+rng2 = 82 + 10 - 5 - 1 = 86
+Flyout
+Team 2 pitcher (Pablo Quintana): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-4
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Julian Carney
+
+Aiden Hayes: rng1 = 54 + 11 - 10 + 1 = 56
+rng2 = 39 + 11 - 8 + 1 = 43
+Groundout
+Team 1 pitcher (Julian Carney): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Emanuel Gutiérrez: rng1 = 34 + 4 - 10 + 1 = 29
+rng2 = 37 + 9 - 8 + 1 = 39
+Groundout
+Team 1 pitcher (Julian Carney): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Juan Pearson: rng1 = 34 + 7 - 10 + 1 = 32
+rng2 = 37 + 8 - 8 + 1 = 38
+Groundout
+Team 1 pitcher (Julian Carney): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-4
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Thomas Barnes
+
+Gary Miller: rng1 = 46 + 7 - 9 - 1 = 43
+rng2 = 87 + 10 - 8 - 1 = 88
+Flyout
+Team 2 pitcher (Thomas Barnes): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Drew Nelson: rng1 = 56 + 7 - 9 - 1 = 53
+rng2 = 43 + 4 - 8 - 1 = 38
+Groundout
+Team 2 pitcher (Thomas Barnes): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Francisco Illescas: rng1 = 15 + 5 - 9 - 1 = 10
+Strikeout
+Team 2 pitcher (Thomas Barnes): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-4
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 5
+Team 2 hits: 4
+Team 1 runs: 2
+Team 2 runs: 4
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-09-15
+Isaac Morris	4	0	0	0	0	0	0	0	2					Toronto
+Yorell Harmon	4	1	1	0	0	1	1	0	1	
+Angel Semprún	4	1	2	1	0	0	0	0	1	
+Mark White	3	0	0	0	0	0	0	1	1	
+Trey Walter	4	0	1	0	0	0	1	0	0	
+Gary Miller	4	0	1	0	0	0	0	0	0	
+Drew Nelson	3	0	0	0	0	0	0	0	0	
+Francisco Illescas	4	0	0	0	0	0	0	0	3	
+Kugo Ryutaro	2	0	0	0	0	0	0	1	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Daigo Yoshimochi	0	1	1	1	0	0	15	4	4	0	3	6	23	
+Sammie Starr	0	0	1	0	0	0	6	0	0	0	0	2	6	
+Julian Carney	0	0	1	0	0	0	3	0	0	0	0	0	3	
+Liam Newman	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Otis Michael	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-09-15
+Juan Manzanares	4	0	0	0	0	0	0	0	0					Boston
+Quillin Grant	4	0	0	0	0	0	0	0	2	
+Aiden Hayes	3	0	0	0	0	0	0	1	1	
+Emanuel Gutiérrez	3	1	0	0	0	0	0	1	0	
+Juan Pearson	3	1	0	0	0	0	0	0	2	
+Noah Davidson	3	0	0	0	0	0	0	0	1	
+Seamus Tanner	3	1	2	1	0	0	1	0	0	
+Evan Hudson	2	1	1	1	0	0	2	1	1	
+Joseph Porter	3	0	1	1	0	0	1	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Tobías Céspedes	1	0	1	1	0	0	21	4	2	1	2	6	28	
+Pablo Quintana	0	0	1	0	0	0	3	1	0	0	0	1	4	
+Orlando Otero	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Kadrick Reeves	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Thomas Barnes	0	0	1	0	1	1	3	0	0	0	0	1	3	

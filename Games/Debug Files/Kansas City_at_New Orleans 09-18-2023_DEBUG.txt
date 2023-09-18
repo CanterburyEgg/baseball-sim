@@ -1,0 +1,735 @@
+TOP INNING 1
+
+Andres Fortune: rng1 = 32 + 10 - 14 - 1 = 27
+Strikeout
+Team 2 pitcher (Ahmad Key): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Wil Raymond: rng1 = 7 + 10 - 14 - 1 = 2
+Strikeout
+Team 2 pitcher (Ahmad Key): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Alvaro Tavarez: rng1 = 13 + 9 - 14 - 1 = 7
+Strikeout
+Team 2 pitcher (Ahmad Key): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Byron Bartlett: rng1 = 13 + 15 - 7 + 1 = 22
+Strikeout
+Team 1 pitcher (Wade Reyes): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Arturo Bellamy: rng1 = 74 + 14 - 7 + 1 = 82
+rng2 = 46 + 13 - 5 + 1 = 55
+Single
+Team 1 pitcher (Wade Reyes): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Edmundo Pousa: rng1 = 41 + 14 - 7 + 1 = 49
+rng2 = 92 + 12 - 5 + 1 = 100
+Flyout
+Team 1 pitcher (Wade Reyes): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Owen Williamson: rng1 = 3 + 5 - 7 + 1 = 2
+Strikeout
+Team 1 pitcher (Wade Reyes): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Stanley Jackson: rng1 = 25 + 11 - 14 - 1 = 21
+Strikeout
+Team 2 pitcher (Ahmad Key): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Yoshida Kei: rng1 = 58 + 8 - 14 - 1 = 51
+rng2 = 18 + 7 - 12 - 1 = 12
+Groundout
+Team 2 pitcher (Ahmad Key): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Aaron Pearce: rng1 = 57 + 5 - 14 - 1 = 47
+rng2 = 14 + 8 - 12 - 1 = 9
+Groundout
+Team 2 pitcher (Ahmad Key): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Oscar Pierce: rng1 = 60 + 10 - 7 + 1 = 64
+rng2 = 6 + 6 - 5 + 1 = 8
+Groundout
+Team 1 pitcher (Wade Reyes): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Finlay Webb: rng1 = 21 + 8 - 7 + 1 = 23
+Strikeout
+Team 1 pitcher (Wade Reyes): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Devoreaux Waters: rng1 = 71 + 8 - 7 + 1 = 73
+rng2 = 86 + 4 - 5 + 1 = 86
+Double
+Team 1 pitcher (Wade Reyes): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Chon Il-Seong: rng1 = 92 + 7 - 7 + 1 = 93
+rng2 = 85 + 4 - 5 + 1 = 85
+Home run
+Team 1 pitcher (Wade Reyes): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Yu Minjun: rng1 = 96 + 5 - 7 + 1 = 95
+rng2 = 79 + 5 - 5 + 1 = 80
+Home run
+Team 1 pitcher (Wade Reyes): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Byron Bartlett: rng1 = 47 + 15 - 7 + 1 = 56
+rng2 = 98 + 13 - 5 + 1 = 107
+Flyout
+Team 1 pitcher (Wade Reyes): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+TOP INNING 3
+
+Noah Key: rng1 = 97 + 6 - 14 - 1 = 88
+Walk
+Team 2 pitcher (Ahmad Key): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Max Lawrence: rng1 = 95 + 3 - 14 - 1 = 83
+rng2 = 52 + 7 - 12 - 1 = 46
+Single
+Team 2 pitcher (Ahmad Key): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 0
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-3
+
+Jerónimo Palomar: rng1 = 1 + 5 - 14 - 1 = -9
+Strikeout
+Team 2 pitcher (Ahmad Key): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-3
+
+Andres Fortune: rng1 = 79 + 10 - 14 - 1 = 74
+rng2 = 33 + 12 - 12 - 1 = 32
+Single
+Team 2 pitcher (Ahmad Key): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: [0,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-3
+
+Wil Raymond: rng1 = 43 + 10 - 14 - 1 = 38
+rng2 = 57 + 9 - 12 - 1 = 53
+Lineout
+Team 2 pitcher (Ahmad Key): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: [0,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-3
+
+Alvaro Tavarez: rng1 = 99 + 9 - 14 - 1 = 93
+rng2 = 6 + 10 - 12 - 1 = 3
+Single
+Team 2 pitcher (Ahmad Key): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 2
+
+base1: [2,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 2-3
+
+Stanley Jackson: rng1 = 51 + 11 - 14 - 1 = 47
+rng2 = 43 + 12 - 12 - 1 = 42
+Groundout
+Team 2 pitcher (Ahmad Key): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+BOTTOM INNING 3
+
+Arturo Bellamy: rng1 = 83 + 14 - 7 + 1 = 91
+rng2 = 60 + 13 - 5 + 1 = 69
+Double
+Team 1 pitcher (Wade Reyes): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 0
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-3
+
+Edmundo Pousa: rng1 = 96 + 14 - 7 + 1 = 104
+rng2 = 2 + 12 - 5 + 1 = 10
+Single
+Team 1 pitcher (Wade Reyes): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 0
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-4
+
+Owen Williamson: rng1 = 58 + 5 - 7 + 1 = 57
+rng2 = 57 + 9 - 5 + 1 = 62
+Flyout
+Team 1 pitcher (Wade Reyes): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-4
+
+Oscar Pierce: rng1 = 88 + 10 - 7 + 1 = 92
+rng2 = 28 + 6 - 5 + 1 = 30
+Single
+Team 1 pitcher (Wade Reyes): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 1
+
+base1: [4,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 2-4
+
+Finlay Webb: rng1 = 85 + 8 - 7 + 1 = 87
+Walk
+Team 1 pitcher (Wade Reyes): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 1
+
+base1: [5,0], base2: [4,0], base3: [2,0]
+base1: true, base2: true, base3: true
+Score: 2-4
+
+Devoreaux Waters: rng1 = 77 + 8 - 7 + 1 = 79
+rng2 = 60 + 4 - 5 + 1 = 60
+Single
+Team 1 pitcher (Wade Reyes): 16 batters faced, 6 runs allowed = 16 + 15.0 = 31.0, outs: 1
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 2-6
+
+Chon Il-Seong: rng1 = 10 + 7 - 7 + 1 = 11
+rng2 = 31 + 4 - 5 + 1 = 31
+Groundout
+Team 1 pitcher (Wade Reyes): 17 batters faced, 6 runs allowed = 17 + 15.0 = 32.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-6
+
+-----------------------
+
+TOP INNING 4
+
+Yoshida Kei: rng1 = 17 + 8 - 14 - 1 = 10
+Strikeout
+Team 2 pitcher (Ahmad Key): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-6
+
+Aaron Pearce: rng1 = 72 + 5 - 14 - 1 = 62
+rng2 = 26 + 8 - 12 - 1 = 21
+Groundout
+Team 2 pitcher (Ahmad Key): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-6
+
+Noah Key: rng1 = 9 + 6 - 14 - 1 = 0
+Strikeout
+Team 2 pitcher (Ahmad Key): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-6
+
+-----------------------
+
+BOTTOM INNING 4
+
+Team 1 pitcher change to Cohen Roman
+
+Yu Minjun: rng1 = 76 + 5 - 14 + 1 = 68
+rng2 = 12 + 5 - 14 + 1 = 4
+Groundout
+Team 1 pitcher (Cohen Roman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-6
+
+Byron Bartlett: rng1 = 56 + 15 - 14 + 1 = 58
+rng2 = 39 + 13 - 14 + 1 = 39
+Groundout
+Team 1 pitcher (Cohen Roman): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-6
+
+Arturo Bellamy: rng1 = 63 + 14 - 14 + 1 = 64
+rng2 = 98 + 13 - 14 + 1 = 98
+Flyout
+Team 1 pitcher (Cohen Roman): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-6
+
+-----------------------
+
+TOP INNING 5
+
+Max Lawrence: rng1 = 70 + 3 - 14 - 1 = 58
+rng2 = 100 + 7 - 12 - 1 = 94
+Flyout
+Team 2 pitcher (Ahmad Key): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-6
+
+Jerónimo Palomar: rng1 = 92 + 5 - 14 - 1 = 82
+rng2 = 27 + 5 - 12 - 1 = 19
+Single
+Team 2 pitcher (Ahmad Key): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-6
+
+Andres Fortune: rng1 = 27 + 10 - 14 - 1 = 22
+Strikeout
+Team 2 pitcher (Ahmad Key): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-6
+
+Wil Raymond: rng1 = 83 + 10 - 14 - 1 = 78
+rng2 = 16 + 9 - 12 - 1 = 12
+Single
+Team 2 pitcher (Ahmad Key): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 2
+
+base1: [1,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 2-6
+
+Alvaro Tavarez: rng1 = 22 + 9 - 14 - 1 = 16
+Strikeout
+Team 2 pitcher (Ahmad Key): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-6
+
+-----------------------
+
+BOTTOM INNING 5
+
+Edmundo Pousa: rng1 = 37 + 14 - 14 + 1 = 38
+rng2 = 79 + 12 - 14 + 1 = 78
+Flyout
+Team 1 pitcher (Cohen Roman): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-6
+
+Owen Williamson: rng1 = 58 + 5 - 14 + 1 = 50
+rng2 = 88 + 9 - 14 + 1 = 84
+Flyout
+Team 1 pitcher (Cohen Roman): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-6
+
+Oscar Pierce: rng1 = 2 + 10 - 14 + 1 = -1
+Strikeout
+Team 1 pitcher (Cohen Roman): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-6
+
+-----------------------
+
+TOP INNING 6
+
+Stanley Jackson: rng1 = 11 + 11 - 14 - 1 = 7
+Strikeout
+Team 2 pitcher (Ahmad Key): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-6
+
+Yoshida Kei: rng1 = 9 + 8 - 14 - 1 = 2
+Strikeout
+Team 2 pitcher (Ahmad Key): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-6
+
+Aaron Pearce: rng1 = 55 + 5 - 14 - 1 = 45
+rng2 = 16 + 8 - 12 - 1 = 11
+Groundout
+Team 2 pitcher (Ahmad Key): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-6
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Aden Lowery
+
+Finlay Webb: rng1 = 86 + 8 - 11 + 1 = 84
+rng2 = 72 + 6 - 12 + 1 = 67
+Double
+Team 1 pitcher (Aden Lowery): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [5,2], base3: false
+base1: false, base2: true, base3: false
+Score: 2-6
+
+Devoreaux Waters: rng1 = 81 + 8 - 11 + 1 = 79
+rng2 = 46 + 4 - 12 + 1 = 39
+Single
+Team 1 pitcher (Aden Lowery): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-7
+
+Chon Il-Seong: rng1 = 32 + 7 - 11 + 1 = 29
+rng2 = 79 + 4 - 12 + 1 = 72
+Flyout
+Team 1 pitcher (Aden Lowery): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-7
+
+Yu Minjun: rng1 = 45 + 5 - 11 + 1 = 40
+rng2 = 50 + 5 - 12 + 1 = 44
+Groundout
+Team 1 pitcher (Aden Lowery): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-7
+
+Byron Bartlett: rng1 = 99 + 15 - 11 + 1 = 104
+rng2 = 14 + 13 - 12 + 1 = 16
+Single
+Team 1 pitcher (Aden Lowery): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [0,2], base2: [8,2], base3: false
+base1: true, base2: true, base3: false
+Score: 2-7
+
+Arturo Bellamy: rng1 = 43 + 14 - 11 + 1 = 47
+rng2 = 25 + 13 - 12 + 1 = 27
+Groundout
+Team 1 pitcher (Aden Lowery): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-7
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Antonio McMillan
+
+Noah Key: rng1 = 41 + 6 - 12 - 1 = 34
+rng2 = 84 + 6 - 13 - 1 = 76
+Flyout
+Team 2 pitcher (Antonio McMillan): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Max Lawrence: rng1 = 1 + 3 - 12 - 1 = -9
+Strikeout
+Team 2 pitcher (Antonio McMillan): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Jerónimo Palomar: rng1 = 98 + 5 - 12 - 1 = 90
+Walk
+Team 2 pitcher (Antonio McMillan): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-7
+
+Andres Fortune: rng1 = 37 + 10 - 12 - 1 = 34
+rng2 = 40 + 12 - 13 - 1 = 38
+Groundout
+Team 2 pitcher (Antonio McMillan): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-7
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Reuben Watson
+
+Edmundo Pousa: rng1 = 98 + 14 - 10 + 1 = 103
+rng2 = 96 + 12 - 9 + 1 = 100
+Home run
+Team 1 pitcher (Reuben Watson): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-8
+
+Owen Williamson: rng1 = 30 + 5 - 10 + 1 = 26
+Strikeout
+Team 1 pitcher (Reuben Watson): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-8
+
+Oscar Pierce: rng1 = 89 + 10 - 10 + 1 = 90
+Walk
+Team 1 pitcher (Reuben Watson): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [4,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-8
+
+Finlay Webb: rng1 = 74 + 8 - 10 + 1 = 73
+rng2 = 27 + 6 - 9 + 1 = 25
+Single
+Team 1 pitcher (Reuben Watson): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [5,3], base2: false, base3: [4,3]
+base1: true, base2: false, base3: true
+Score: 2-8
+
+Devoreaux Waters: rng1 = 29 + 8 - 10 + 1 = 28
+Strikeout
+Team 1 pitcher (Reuben Watson): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [5,3], base2: false, base3: [4,3]
+base1: true, base2: false, base3: true
+Score: 2-8
+
+Chon Il-Seong: rng1 = 2 + 7 - 10 + 1 = 0
+Strikeout
+Team 1 pitcher (Reuben Watson): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-8
+
+-----------------------
+
+TOP INNING 8
+
+Wil Raymond: rng1 = 51 + 10 - 12 - 1 = 48
+rng2 = 16 + 9 - 13 - 1 = 11
+Groundout
+Team 2 pitcher (Antonio McMillan): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-8
+
+Alvaro Tavarez: rng1 = 84 + 9 - 12 - 1 = 80
+rng2 = 16 + 10 - 13 - 1 = 12
+Single
+Team 2 pitcher (Antonio McMillan): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-8
+
+Stanley Jackson: rng1 = 60 + 11 - 12 - 1 = 58
+rng2 = 99 + 12 - 13 - 1 = 97
+Flyout
+Team 2 pitcher (Antonio McMillan): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-8
+
+Yoshida Kei: rng1 = 69 + 8 - 12 - 1 = 64
+rng2 = 59 + 7 - 13 - 1 = 52
+Lineout
+Team 2 pitcher (Antonio McMillan): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-8
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Phoenix Deleon
+
+Yu Minjun: rng1 = 9 + 5 - 15 + 1 = 0
+Strikeout
+Team 1 pitcher (Phoenix Deleon): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-8
+
+Byron Bartlett: rng1 = 2 + 15 - 15 + 1 = 3
+Strikeout
+Team 1 pitcher (Phoenix Deleon): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-8
+
+Arturo Bellamy: rng1 = 36 + 14 - 15 + 1 = 36
+rng2 = 2 + 13 - 15 + 1 = 1
+Groundout
+Team 1 pitcher (Phoenix Deleon): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-8
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Tamashiro Genjo
+
+Aaron Pearce: rng1 = 29 + 5 - 4 - 1 = 29
+rng2 = 94 + 8 - 7 - 1 = 94
+Flyout
+Team 2 pitcher (Tamashiro Genjo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-8
+
+Noah Key: rng1 = 26 + 6 - 4 - 1 = 27
+Strikeout
+Team 2 pitcher (Tamashiro Genjo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-8
+
+Max Lawrence: rng1 = 40 + 3 - 4 - 1 = 38
+rng2 = 98 + 7 - 7 - 1 = 97
+Flyout
+Team 2 pitcher (Tamashiro Genjo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-8
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 6
+Team 2 hits: 13
+Team 1 runs: 2
+Team 2 runs: 8
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-09-18
+Andres Fortune	4	0	1	0	0	0	1	0	2					Kansas City
+Wil Raymond	4	0	1	0	0	0	0	0	1	
+Alvaro Tavarez	4	0	2	0	0	0	1	0	2	
+Stanley Jackson	4	0	0	0	0	0	0	0	2	
+Yoshida Kei	4	0	0	0	0	0	0	0	2	
+Aaron Pearce	4	0	0	0	0	0	0	0	0	
+Noah Key	3	1	0	0	0	0	0	1	2	
+Max Lawrence	4	1	1	0	0	0	0	0	1	
+Jerónimo Palomar	2	0	1	0	0	0	0	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Wade Reyes	0	1	1	1	0	0	9	8	6	2	1	3	17	
+Cohen Roman	0	0	1	0	0	0	6	0	0	0	0	1	6	
+Aden Lowery	0	0	1	0	0	0	3	3	1	0	0	0	6	
+Reuben Watson	0	0	1	0	0	0	3	2	1	1	1	3	6	
+Phoenix Deleon	0	0	1	0	0	0	3	0	0	0	0	2	3	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-09-18
+Byron Bartlett	5	0	1	0	0	0	0	0	2					New Orleans
+Arturo Bellamy	5	1	2	1	0	0	0	0	0	
+Edmundo Pousa	4	2	2	0	0	1	2	0	0	
+Owen Williamson	4	0	0	0	0	0	0	0	2	
+Oscar Pierce	3	1	1	0	0	0	0	1	1	
+Finlay Webb	3	1	2	1	0	0	0	1	1	
+Devoreaux Waters	4	1	3	1	0	0	3	0	1	
+Chon Il-Seong	4	1	1	0	0	1	2	0	1	
+Yu Minjun	4	1	1	0	0	1	1	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Ahmad Key	1	0	1	1	0	0	18	5	2	0	1	11	24	
+Antonio McMillan	0	0	1	0	0	0	6	1	0	0	1	1	8	
+Tamashiro Genjo	0	0	1	0	0	0	3	0	0	0	0	1	3	
+Kione Andrews	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Brady Goodman	0	0	0	0	0	0	0	0	0	0	0	0	0	

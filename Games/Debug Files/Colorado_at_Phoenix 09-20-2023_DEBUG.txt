@@ -1,43 +1,26 @@
 TOP INNING 1
 
-Hiro Hakayawa: rng1 = 15 + 13 - 7 - 1 = 20
-Strikeout
-Team 2 pitcher (Keshawn Thomas): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+Hiro Hakayawa: rng1 = 37 + 13 - 8 - 1 = 41
+rng2 = 61 + 12 - 2 - 1 = 70
+Flyout
+Team 2 pitcher (Alberto Berganza): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
 Score: 0-0
 
-Guillermo Tamayo: rng1 = 74 + 12 - 7 - 1 = 78
-rng2 = 86 + 6 - 5 - 1 = 86
-Double
-Team 2 pitcher (Keshawn Thomas): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+Guillermo Tamayo: rng1 = 62 + 12 - 8 - 1 = 65
+rng2 = 45 + 6 - 2 - 1 = 48
+Lineout
+Team 2 pitcher (Alberto Berganza): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
 
-base1: false, base2: [1,0], base3: false
-base1: false, base2: true, base3: false
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
 Score: 0-0
 
-Zachary Hughes: rng1 = 55 + 10 - 7 - 1 = 57
-rng2 = 9 + 13 - 5 - 1 = 16
-Groundout
-Team 2 pitcher (Keshawn Thomas): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
-
-base1: false, base2: [1,0], base3: false
-base1: false, base2: true, base3: false
-Score: 0-0
-
-Micah Zamora: rng1 = 78 + 9 - 7 - 1 = 79
-rng2 = 37 + 13 - 5 - 1 = 44
-Single
-Team 2 pitcher (Keshawn Thomas): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
-
-base1: [3,0], base2: false, base3: [1,0]
-base1: true, base2: false, base3: true
-Score: 0-0
-
-Alfredo Encarnacion: rng1 = 3 + 9 - 7 - 1 = 4
+Zachary Hughes: rng1 = 17 + 10 - 8 - 1 = 18
 Strikeout
-Team 2 pitcher (Keshawn Thomas): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+Team 2 pitcher (Alberto Berganza): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
 
 base1: false, base2: false, base3: false
 Score: 0-0
@@ -46,25 +29,26 @@ Score: 0-0
 
 BOTTOM INNING 1
 
-Stanley Soto: rng1 = 7 + 8 - 6 + 1 = 10
+Stanley Soto: rng1 = 7 + 8 - 15 + 1 = 1
 Strikeout
-Team 1 pitcher (Valentín Sánchez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+Team 1 pitcher (Angel Chavez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
 Score: 0-0
 
-Josh Poole: rng1 = 6 + 7 - 6 + 1 = 8
+Josh Poole: rng1 = 25 + 7 - 15 + 1 = 18
 Strikeout
-Team 1 pitcher (Valentín Sánchez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+Team 1 pitcher (Angel Chavez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
 Score: 0-0
 
-Tom Lawson: rng1 = 25 + 6 - 6 + 1 = 26
-Strikeout
-Team 1 pitcher (Valentín Sánchez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+Tom Lawson: rng1 = 64 + 6 - 15 + 1 = 56
+rng2 = 56 + 4 - 15 + 1 = 46
+Groundout
+Team 1 pitcher (Angel Chavez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
 
 base1: false, base2: false, base3: false
 Score: 0-0
@@ -73,28 +57,44 @@ Score: 0-0
 
 TOP INNING 2
 
-Felix Alarcón: rng1 = 60 + 5 - 7 - 1 = 57
-rng2 = 100 + 6 - 5 - 1 = 100
-Flyout
-Team 2 pitcher (Keshawn Thomas): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+Micah Zamora: rng1 = 27 + 9 - 8 - 1 = 27
+Strikeout
+Team 2 pitcher (Alberto Berganza): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
 Score: 0-0
 
-Sean Stevens: rng1 = 51 + 4 - 7 - 1 = 47
-rng2 = 50 + 6 - 5 - 1 = 50
-Lineout
-Team 2 pitcher (Keshawn Thomas): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+Alfredo Encarnacion: rng1 = 47 + 9 - 8 - 1 = 47
+rng2 = 1 + 10 - 2 - 1 = 8
+Groundout
+Team 2 pitcher (Alberto Berganza): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
 Score: 0-0
 
-Agustín Molina: rng1 = 50 + 4 - 7 - 1 = 46
-rng2 = 68 + 6 - 5 - 1 = 68
-Flyout
-Team 2 pitcher (Keshawn Thomas): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+Felix Alarcón: rng1 = 89 + 5 - 8 - 1 = 85
+rng2 = 45 + 6 - 2 - 1 = 48
+Single
+Team 2 pitcher (Alberto Berganza): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Sean Stevens: rng1 = 91 + 4 - 8 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Alberto Berganza): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Agustín Molina: rng1 = 63 + 4 - 8 - 1 = 58
+rng2 = 10 + 6 - 2 - 1 = 13
+Groundout
+Team 2 pitcher (Alberto Berganza): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
 
 base1: false, base2: false, base3: false
 Score: 0-0
@@ -103,587 +103,603 @@ Score: 0-0
 
 BOTTOM INNING 2
 
-Reese Ross: rng1 = 77 + 3 - 6 + 1 = 75
-rng2 = 37 + 7 - 3 + 1 = 42
-Single
-Team 1 pitcher (Valentín Sánchez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
-
-base1: [3,0], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 0-0
-
-Ignacio Delacruz: rng1 = 99 + 5 - 6 + 1 = 99
-rng2 = 90 + 5 - 3 + 1 = 93
-Triple
-Team 1 pitcher (Valentín Sánchez): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 0
-
-base1: false, base2: false, base3: [4,0]
-base1: false, base2: false, base3: true
-Score: 0-1
-
-Bradley Simon: rng1 = 75 + 6 - 6 + 1 = 76
-rng2 = 48 + 4 - 3 + 1 = 50
-Single
-Team 1 pitcher (Valentín Sánchez): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 0
-
-base1: [5,0], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 0-2
-
-Joshua Marsh: rng1 = 79 + 3 - 6 + 1 = 77
-rng2 = 12 + 6 - 3 + 1 = 16
-Single
-Team 1 pitcher (Valentín Sánchez): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 0
-
-base1: [6,0], base2: [5,0], base3: false
-base1: true, base2: true, base3: false
-Score: 0-2
-
-Ivan Cruz: rng1 = 22 + 3 - 6 + 1 = 20
+Reese Ross: rng1 = 20 + 3 - 15 + 1 = 9
 Strikeout
-Team 1 pitcher (Valentín Sánchez): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 1
-
-base1: [6,0], base2: [5,0], base3: false
-base1: true, base2: true, base3: false
-Score: 0-2
-
-Bruno Rios: rng1 = 60 + 4 - 6 + 1 = 59
-rng2 = 53 + 5 - 3 + 1 = 56
-Lineout
-Team 1 pitcher (Valentín Sánchez): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 2
-
-base1: [6,0], base2: [5,0], base3: false
-base1: true, base2: true, base3: false
-Score: 0-2
-
-Stanley Soto: rng1 = 60 + 8 - 6 + 1 = 63
-rng2 = 45 + 4 - 3 + 1 = 47
-Groundout
-Team 1 pitcher (Valentín Sánchez): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 3
+Team 1 pitcher (Angel Chavez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
 
 base1: false, base2: false, base3: false
-Score: 0-2
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Ignacio Delacruz: rng1 = 11 + 5 - 15 + 1 = 2
+Strikeout
+Team 1 pitcher (Angel Chavez): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Bradley Simon: rng1 = 2 + 6 - 15 + 1 = -6
+Strikeout
+Team 1 pitcher (Angel Chavez): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
 
 -----------------------
 
 TOP INNING 3
 
-Dídac Laguna: rng1 = 69 + 6 - 7 - 1 = 67
-rng2 = 52 + 4 - 5 - 1 = 50
-Lineout
-Team 2 pitcher (Keshawn Thomas): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+Dídac Laguna: rng1 = 66 + 6 - 8 - 1 = 63
+rng2 = 31 + 4 - 2 - 1 = 32
+Groundout
+Team 2 pitcher (Alberto Berganza): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 0-2
+Score: 0-0
 
-Hiro Hakayawa: rng1 = 5 + 13 - 7 - 1 = 10
-Strikeout
-Team 2 pitcher (Keshawn Thomas): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+Hiro Hakayawa: rng1 = 73 + 13 - 8 - 1 = 77
+rng2 = 4 + 12 - 2 - 1 = 13
+Single
+Team 2 pitcher (Alberto Berganza): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Guillermo Tamayo: rng1 = 76 + 12 - 8 - 1 = 79
+rng2 = 78 + 6 - 2 - 1 = 81
+Home run
+Team 2 pitcher (Alberto Berganza): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 0-2
+Score: 2-0
 
-Guillermo Tamayo: rng1 = 7 + 12 - 7 - 1 = 11
-rng2 = 68 + 6 - 5 - 1 = 68
+Zachary Hughes: rng1 = 57 + 10 - 8 - 1 = 58
+rng2 = 27 + 13 - 2 - 1 = 37
+Groundout
+Team 2 pitcher (Alberto Berganza): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Micah Zamora: rng1 = 62 + 9 - 8 - 1 = 62
+rng2 = 89 + 13 - 2 - 1 = 99
 Flyout
-Team 2 pitcher (Keshawn Thomas): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 3
+Team 2 pitcher (Alberto Berganza): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 0-2
+Score: 2-0
 
 -----------------------
 
 BOTTOM INNING 3
 
-Josh Poole: rng1 = 22 + 7 - 6 + 1 = 24
-Strikeout
-Team 1 pitcher (Valentín Sánchez): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 1
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 0-2
-
-Tom Lawson: rng1 = 96 + 6 - 6 + 1 = 97
-rng2 = 100 + 4 - 3 + 1 = 102
-Home run
-Team 1 pitcher (Valentín Sánchez): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 1
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 0-3
-
-Reese Ross: rng1 = 16 + 3 - 6 + 1 = 14
-rng2 = 73 + 7 - 3 + 1 = 78
+Joshua Marsh: rng1 = 56 + 3 - 15 + 1 = 45
+rng2 = 89 + 6 - 15 + 1 = 81
 Flyout
-Team 1 pitcher (Valentín Sánchez): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 2
+Team 1 pitcher (Angel Chavez): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 0-3
+Score: 2-0
 
-Ignacio Delacruz: rng1 = 30 + 5 - 6 + 1 = 30
-rng2 = 19 + 5 - 3 + 1 = 22
-Groundout
-Team 1 pitcher (Valentín Sánchez): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 3
+Ivan Cruz: rng1 = 29 + 3 - 15 + 1 = 18
+Strikeout
+Team 1 pitcher (Angel Chavez): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
 
 base1: false, base2: false, base3: false
-Score: 0-3
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Bruno Rios: rng1 = 62 + 4 - 15 + 1 = 52
+rng2 = 83 + 5 - 15 + 1 = 74
+Flyout
+Team 1 pitcher (Angel Chavez): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
 
 -----------------------
 
 TOP INNING 4
 
-Zachary Hughes: rng1 = 34 + 10 - 7 - 1 = 36
-rng2 = 43 + 13 - 5 - 1 = 50
-Lineout
-Team 2 pitcher (Keshawn Thomas): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 1
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 0-3
-
-Micah Zamora: rng1 = 82 + 9 - 7 - 1 = 83
-rng2 = 29 + 13 - 5 - 1 = 36
-Single
-Team 2 pitcher (Keshawn Thomas): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 1
-
-base1: [3,0], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 0-3
-
-Alfredo Encarnacion: rng1 = 69 + 9 - 7 - 1 = 70
+Alfredo Encarnacion: rng1 = 70 + 9 - 8 - 1 = 70
 Walk
-Team 2 pitcher (Keshawn Thomas): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 1
+Team 2 pitcher (Alberto Berganza): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 0
 
-base1: [4,0], base2: [3,0], base3: false
-base1: true, base2: true, base3: false
-Score: 0-3
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
 
-Felix Alarcón: rng1 = 46 + 5 - 7 - 1 = 43
-rng2 = 25 + 6 - 5 - 1 = 25
-Groundout
-Team 2 pitcher (Keshawn Thomas): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 3
+Felix Alarcón: rng1 = 80 + 5 - 8 - 1 = 76
+rng2 = 90 + 6 - 2 - 1 = 93
+Triple
+Team 2 pitcher (Alberto Berganza): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 0
+
+base1: false, base2: false, base3: [5,0]
+base1: false, base2: false, base3: true
+Score: 3-0
+
+Sean Stevens: rng1 = 94 + 4 - 8 - 1 = 89
+Walk
+Team 2 pitcher (Alberto Berganza): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 0
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 3-0
+
+Agustín Molina: rng1 = 56 + 4 - 8 - 1 = 51
+rng2 = 65 + 6 - 2 - 1 = 68
+Flyout
+Team 2 pitcher (Alberto Berganza): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Dídac Laguna: rng1 = 38 + 6 - 8 - 1 = 35
+rng2 = 69 + 4 - 2 - 1 = 70
+Flyout
+Team 2 pitcher (Alberto Berganza): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Hiro Hakayawa: rng1 = 21 + 13 - 8 - 1 = 25
+Strikeout
+Team 2 pitcher (Alberto Berganza): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 0-3
+Score: 4-0
 
 -----------------------
 
 BOTTOM INNING 4
 
-Bradley Simon: rng1 = 21 + 6 - 6 + 1 = 22
-Strikeout
-Team 1 pitcher (Valentín Sánchez): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 1
+Stanley Soto: rng1 = 89 + 8 - 15 + 1 = 83
+rng2 = 62 + 4 - 15 + 1 = 52
+Single
+Team 1 pitcher (Angel Chavez): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 0
 
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 0-3
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
 
-Joshua Marsh: rng1 = 66 + 3 - 6 + 1 = 64
-rng2 = 25 + 6 - 3 + 1 = 29
+Josh Poole: rng1 = 63 + 7 - 15 + 1 = 56
+rng2 = 1 + 5 - 15 + 1 = -8
 Groundout
-Team 1 pitcher (Valentín Sánchez): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 2
+Team 1 pitcher (Angel Chavez): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 1
 
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 0-3
-
-Ivan Cruz: rng1 = 94 + 3 - 6 + 1 = 92
-rng2 = 64 + 6 - 3 + 1 = 68
-Double
-Team 1 pitcher (Valentín Sánchez): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 2
-
-base1: false, base2: [7,0], base3: false
+base1: false, base2: [0,0], base3: false
 base1: false, base2: true, base3: false
-Score: 0-3
+Score: 4-0
 
-Bruno Rios: rng1 = 54 + 4 - 6 + 1 = 53
-rng2 = 19 + 5 - 3 + 1 = 22
-Groundout
-Team 1 pitcher (Valentín Sánchez): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 3
+Tom Lawson: rng1 = 89 + 6 - 15 + 1 = 81
+rng2 = 15 + 4 - 15 + 1 = 5
+Single
+Team 1 pitcher (Angel Chavez): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 1
+
+base1: [2,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 4-0
+
+Reese Ross: rng1 = 37 + 3 - 15 + 1 = 26
+Strikeout
+Team 1 pitcher (Angel Chavez): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 2
+
+base1: [2,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 4-0
+
+Ignacio Delacruz: rng1 = 4 + 5 - 15 + 1 = -5
+Strikeout
+Team 1 pitcher (Angel Chavez): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 0-3
+Score: 4-0
 
 -----------------------
 
 TOP INNING 5
 
-Sean Stevens: rng1 = 12 + 4 - 7 - 1 = 8
-Strikeout
-Team 2 pitcher (Keshawn Thomas): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 1
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 0-3
-
-Agustín Molina: rng1 = 71 + 4 - 7 - 1 = 67
-rng2 = 66 + 6 - 5 - 1 = 66
-Flyout
-Team 2 pitcher (Keshawn Thomas): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 2
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 0-3
-
-Dídac Laguna: rng1 = 39 + 6 - 7 - 1 = 37
-rng2 = 33 + 4 - 5 - 1 = 31
+Guillermo Tamayo: rng1 = 47 + 12 - 8 - 1 = 50
+rng2 = 13 + 6 - 2 - 1 = 16
 Groundout
-Team 2 pitcher (Keshawn Thomas): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 3
+Team 2 pitcher (Alberto Berganza): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 1
 
 base1: false, base2: false, base3: false
-Score: 0-3
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Zachary Hughes: rng1 = 8 + 10 - 8 - 1 = 9
+Strikeout
+Team 2 pitcher (Alberto Berganza): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Micah Zamora: rng1 = 19 + 9 - 8 - 1 = 19
+Strikeout
+Team 2 pitcher (Alberto Berganza): 22 batters faced, 4 runs allowed = 22 + 10.0 = 32.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
 
 -----------------------
 
 BOTTOM INNING 5
 
-Stanley Soto: rng1 = 39 + 8 - 6 + 1 = 42
-rng2 = 63 + 4 - 3 + 1 = 65
+Bradley Simon: rng1 = 23 + 6 - 15 + 1 = 15
+rng2 = 70 + 4 - 15 + 1 = 60
 Flyout
-Team 1 pitcher (Valentín Sánchez): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 1
+Team 1 pitcher (Angel Chavez): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 0-3
+Score: 4-0
 
-Josh Poole: rng1 = 80 + 7 - 6 + 1 = 82
-rng2 = 62 + 5 - 3 + 1 = 65
-Single
-Team 1 pitcher (Valentín Sánchez): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 1
+Joshua Marsh: rng1 = 67 + 3 - 15 + 1 = 56
+rng2 = 65 + 6 - 15 + 1 = 57
+Lineout
+Team 1 pitcher (Angel Chavez): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 2
 
-base1: [1,0], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 0-3
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
 
-Tom Lawson: rng1 = 82 + 6 - 6 + 1 = 83
-rng2 = 27 + 4 - 3 + 1 = 29
-Single
-Team 1 pitcher (Valentín Sánchez): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 1
-
-base1: [2,0], base2: false, base3: [1,0]
-base1: true, base2: false, base3: true
-Score: 0-3
-
-Reese Ross: rng1 = 20 + 3 - 6 + 1 = 18
+Ivan Cruz: rng1 = 21 + 3 - 15 + 1 = 10
 Strikeout
-Team 1 pitcher (Valentín Sánchez): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 2
-
-base1: [2,0], base2: false, base3: [1,0]
-base1: true, base2: false, base3: true
-Score: 0-3
-
-Ignacio Delacruz: rng1 = 45 + 5 - 6 + 1 = 45
-rng2 = 90 + 5 - 3 + 1 = 93
-Flyout
-Team 1 pitcher (Valentín Sánchez): 23 batters faced, 3 runs allowed = 23 + 7.5 = 30.5, outs: 3
+Team 1 pitcher (Angel Chavez): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 0-3
+Score: 4-0
 
 -----------------------
 
 TOP INNING 6
 
-Hiro Hakayawa: rng1 = 14 + 13 - 7 - 1 = 19
+Team 2 pitcher change to Jake Booth
+
+Alfredo Encarnacion: rng1 = 22 + 9 - 7 - 1 = 23
 Strikeout
-Team 2 pitcher (Keshawn Thomas): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 1
+Team 2 pitcher (Jake Booth): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 0-3
+Score: 4-0
 
-Guillermo Tamayo: rng1 = 95 + 12 - 7 - 1 = 99
-rng2 = 92 + 6 - 5 - 1 = 92
-Double
-Team 2 pitcher (Keshawn Thomas): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 1
+Felix Alarcón: rng1 = 38 + 5 - 7 - 1 = 35
+rng2 = 28 + 6 - 6 - 1 = 27
+Groundout
+Team 2 pitcher (Jake Booth): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
 
-base1: false, base2: [1,0], base3: false
-base1: false, base2: true, base3: false
-Score: 0-3
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
 
-Zachary Hughes: rng1 = 61 + 10 - 7 - 1 = 63
-rng2 = 49 + 13 - 5 - 1 = 56
-Lineout
-Team 2 pitcher (Keshawn Thomas): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 2
-
-base1: false, base2: [1,0], base3: false
-base1: false, base2: true, base3: false
-Score: 0-3
-
-Micah Zamora: rng1 = 66 + 9 - 7 - 1 = 67
-rng2 = 97 + 13 - 5 - 1 = 104
+Sean Stevens: rng1 = 42 + 4 - 7 - 1 = 38
+rng2 = 82 + 6 - 6 - 1 = 81
 Flyout
-Team 2 pitcher (Keshawn Thomas): 22 batters faced, 0 runs allowed = 22 + 0.0 = 22.0, outs: 3
+Team 2 pitcher (Jake Booth): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 0-3
+Score: 4-0
 
 -----------------------
 
 BOTTOM INNING 6
 
-Team 1 pitcher change to Amante Harvey
-
-Bradley Simon: rng1 = 41 + 6 - 12 + 1 = 36
-rng2 = 54 + 4 - 11 + 1 = 48
-Lineout
-Team 1 pitcher (Amante Harvey): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+Bruno Rios: rng1 = 30 + 4 - 15 + 1 = 20
+Strikeout
+Team 1 pitcher (Angel Chavez): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 0-3
+Score: 4-0
 
-Joshua Marsh: rng1 = 56 + 3 - 12 + 1 = 48
-rng2 = 80 + 6 - 11 + 1 = 76
-Flyout
-Team 1 pitcher (Amante Harvey): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+Stanley Soto: rng1 = 26 + 8 - 15 + 1 = 20
+Strikeout
+Team 1 pitcher (Angel Chavez): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 2
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 0-3
+Score: 4-0
 
-Ivan Cruz: rng1 = 47 + 3 - 12 + 1 = 39
-rng2 = 34 + 6 - 11 + 1 = 30
+Josh Poole: rng1 = 36 + 7 - 15 + 1 = 29
+rng2 = 48 + 5 - 15 + 1 = 39
 Groundout
-Team 1 pitcher (Amante Harvey): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+Team 1 pitcher (Angel Chavez): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 0-3
+Score: 4-0
 
 -----------------------
 
 TOP INNING 7
 
-Alfredo Encarnacion: rng1 = 41 + 9 - 7 - 1 = 42
-rng2 = 8 + 10 - 5 - 1 = 12
-Groundout
-Team 2 pitcher (Keshawn Thomas): 23 batters faced, 0 runs allowed = 23 + 0.0 = 23.0, outs: 1
+Agustín Molina: rng1 = 70 + 4 - 7 - 1 = 66
+rng2 = 87 + 6 - 6 - 1 = 86
+Flyout
+Team 2 pitcher (Jake Booth): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 0-3
+Score: 4-0
 
-Felix Alarcón: rng1 = 37 + 5 - 7 - 1 = 34
-rng2 = 12 + 6 - 5 - 1 = 12
-Groundout
-Team 2 pitcher (Keshawn Thomas): 24 batters faced, 0 runs allowed = 24 + 0.0 = 24.0, outs: 2
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 0-3
-
-Sean Stevens: rng1 = 32 + 4 - 7 - 1 = 28
-Strikeout
-Team 2 pitcher (Keshawn Thomas): 25 batters faced, 0 runs allowed = 25 + 0.0 = 25.0, outs: 3
+Dídac Laguna: rng1 = 48 + 6 - 7 - 1 = 46
+rng2 = 72 + 4 - 6 - 1 = 69
+Flyout
+Team 2 pitcher (Jake Booth): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
 
 base1: false, base2: false, base3: false
-Score: 0-3
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Hiro Hakayawa: rng1 = 46 + 13 - 7 - 1 = 51
+rng2 = 92 + 12 - 6 - 1 = 97
+Flyout
+Team 2 pitcher (Jake Booth): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
 
 -----------------------
 
 BOTTOM INNING 7
 
-Bruno Rios: rng1 = 93 + 4 - 12 + 1 = 86
-Hit by pitch
-Team 1 pitcher (Amante Harvey): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
-
-base1: [8,1], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 0-3
-
-Stanley Soto: rng1 = 16 + 8 - 12 + 1 = 13
-rng2 = 41 + 4 - 11 + 1 = 35
-Groundout
-Team 1 pitcher (Amante Harvey): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
-
-base1: false, base2: [8,1], base3: false
-base1: false, base2: true, base3: false
-Score: 0-3
-
-Josh Poole: rng1 = 26 + 7 - 12 + 1 = 22
-Strikeout
-Team 1 pitcher (Amante Harvey): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
-
-base1: false, base2: [8,1], base3: false
-base1: false, base2: true, base3: false
-Score: 0-3
-
-Tom Lawson: rng1 = 34 + 6 - 12 + 1 = 29
-rng2 = 79 + 4 - 11 + 1 = 73
+Tom Lawson: rng1 = 38 + 6 - 15 + 1 = 30
+rng2 = 81 + 4 - 15 + 1 = 71
 Flyout
-Team 1 pitcher (Amante Harvey): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+Team 1 pitcher (Angel Chavez): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 1
 
 base1: false, base2: false, base3: false
-Score: 0-3
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Reese Ross: rng1 = 13 + 3 - 15 + 1 = 2
+Strikeout
+Team 1 pitcher (Angel Chavez): 22 batters faced, 0 runs allowed = 22 + 0.0 = 22.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Ignacio Delacruz: rng1 = 99 + 5 - 15 + 1 = 90
+Walk
+Team 1 pitcher (Angel Chavez): 23 batters faced, 0 runs allowed = 23 + 0.0 = 23.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Bradley Simon: rng1 = 51 + 6 - 15 + 1 = 43
+rng2 = 80 + 4 - 15 + 1 = 70
+Flyout
+Team 1 pitcher (Angel Chavez): 24 batters faced, 0 runs allowed = 24 + 0.0 = 24.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
 
 -----------------------
 
 TOP INNING 8
 
-Agustín Molina: rng1 = 83 + 4 - 7 - 1 = 79
-rng2 = 83 + 6 - 5 - 1 = 83
+Team 2 pitcher change to Jayden Cooper
+
+Guillermo Tamayo: rng1 = 88 + 12 - 5 - 1 = 94
+rng2 = 95 + 6 - 5 - 1 = 95
 Home run
-Team 2 pitcher (Keshawn Thomas): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 0
+Team 2 pitcher (Jayden Cooper): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 1-3
+Score: 5-0
 
-Dídac Laguna: rng1 = 8 + 6 - 7 - 1 = 6
+Zachary Hughes: rng1 = 71 + 10 - 5 - 1 = 75
+rng2 = 58 + 13 - 5 - 1 = 65
+Single
+Team 2 pitcher (Jayden Cooper): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-0
+
+Micah Zamora: rng1 = 90 + 9 - 5 - 1 = 93
+rng2 = 48 + 13 - 5 - 1 = 55
+Single
+Team 2 pitcher (Jayden Cooper): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 0
+
+base1: [3,2], base2: [2,2], base3: false
+base1: true, base2: true, base3: false
+Score: 5-0
+
+Alfredo Encarnacion: rng1 = 91 + 9 - 5 - 1 = 94
+rng2 = 5 + 10 - 5 - 1 = 9
+Single
+Team 2 pitcher (Jayden Cooper): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 0
+
+base1: [4,2], base2: [3,2], base3: [2,2]
+base1: true, base2: true, base3: true
+Score: 5-0
+
+Felix Alarcón: rng1 = 29 + 5 - 5 - 1 = 28
 Strikeout
-Team 2 pitcher (Keshawn Thomas): 27 batters faced, 1 runs allowed = 27 + 2.5 = 29.5, outs: 1
+Team 2 pitcher (Jayden Cooper): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
 
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 1-3
+base1: [4,2], base2: [3,2], base3: [2,2]
+base1: true, base2: true, base3: true
+Score: 5-0
 
-Hiro Hakayawa: rng1 = 52 + 13 - 7 - 1 = 57
-rng2 = 85 + 12 - 5 - 1 = 91
-Flyout
-Team 2 pitcher (Keshawn Thomas): 28 batters faced, 1 runs allowed = 28 + 2.5 = 30.5, outs: 2
+Sean Stevens: rng1 = 22 + 4 - 5 - 1 = 20
+Strikeout
+Team 2 pitcher (Jayden Cooper): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
 
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 1-3
+base1: [4,2], base2: [3,2], base3: [2,2]
+base1: true, base2: true, base3: true
+Score: 5-0
 
-Guillermo Tamayo: rng1 = 55 + 12 - 7 - 1 = 59
-rng2 = 18 + 6 - 5 - 1 = 18
+Agustín Molina: rng1 = 63 + 4 - 5 - 1 = 61
+rng2 = 37 + 6 - 5 - 1 = 37
 Groundout
-Team 2 pitcher (Keshawn Thomas): 29 batters faced, 1 runs allowed = 29 + 2.5 = 31.5, outs: 3
+Team 2 pitcher (Jayden Cooper): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 1-3
+Score: 5-0
 
 -----------------------
 
 BOTTOM INNING 8
 
-Team 1 pitcher change to Lyndon Perell
-
-Reese Ross: rng1 = 7 + 3 - 11 + 1 = 0
-Strikeout
-Team 1 pitcher (Lyndon Perell): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 1-3
-
-Ignacio Delacruz: rng1 = 49 + 5 - 11 + 1 = 44
-rng2 = 78 + 5 - 11 + 1 = 73
+Joshua Marsh: rng1 = 80 + 3 - 15 + 1 = 69
+rng2 = 68 + 6 - 15 + 1 = 60
 Flyout
-Team 1 pitcher (Lyndon Perell): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+Team 1 pitcher (Angel Chavez): 25 batters faced, 0 runs allowed = 25 + 0.0 = 25.0, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 1-3
+Score: 5-0
 
-Bradley Simon: rng1 = 86 + 6 - 11 + 1 = 82
-rng2 = 30 + 4 - 11 + 1 = 24
-Single
-Team 1 pitcher (Lyndon Perell): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
-
-base1: [5,2], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 1-3
-
-Joshua Marsh: rng1 = 77 + 3 - 11 + 1 = 70
-Walk
-Team 1 pitcher (Lyndon Perell): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
-
-base1: [6,2], base2: [5,2], base3: false
-base1: true, base2: true, base3: false
-Score: 1-3
-
-Ivan Cruz: rng1 = 19 + 3 - 11 + 1 = 12
-rng2 = 28 + 6 - 11 + 1 = 24
+Ivan Cruz: rng1 = 64 + 3 - 15 + 1 = 53
+rng2 = 16 + 6 - 15 + 1 = 8
 Groundout
-Team 1 pitcher (Lyndon Perell): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+Team 1 pitcher (Angel Chavez): 26 batters faced, 0 runs allowed = 26 + 0.0 = 26.0, outs: 2
 
 base1: false, base2: false, base3: false
-Score: 1-3
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Bruno Rios: rng1 = 50 + 4 - 15 + 1 = 40
+rng2 = 18 + 5 - 15 + 1 = 9
+Groundout
+Team 1 pitcher (Angel Chavez): 27 batters faced, 0 runs allowed = 27 + 0.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-0
 
 -----------------------
 
 TOP INNING 9
 
-Team 2 pitcher change to Rakeem Bradley
+Team 2 pitcher change to Hershel Easom
 
-Zachary Hughes: rng1 = 2 + 10 - 7 - 1 = 4
+Dídac Laguna: rng1 = 100 + 6 - 4 - 1 = 101
+rng2 = 56 + 4 - 5 - 1 = 54
+Single
+Team 2 pitcher (Hershel Easom): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [8,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-0
+
+Hiro Hakayawa: rng1 = 6 + 13 - 4 - 1 = 14
+rng2 = 54 + 12 - 5 - 1 = 60
+Flyout
+Team 2 pitcher (Hershel Easom): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [8,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-0
+
+Guillermo Tamayo: rng1 = 67 + 12 - 4 - 1 = 74
+rng2 = 90 + 6 - 5 - 1 = 90
+Double
+Team 2 pitcher (Hershel Easom): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [1,3], base3: false
+base1: false, base2: true, base3: false
+Score: 6-0
+
+Zachary Hughes: rng1 = 43 + 10 - 4 - 1 = 48
+rng2 = 76 + 13 - 5 - 1 = 83
+Flyout
+Team 2 pitcher (Hershel Easom): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: false, base3: [1,3]
+base1: false, base2: false, base3: true
+Score: 6-0
+
+Micah Zamora: rng1 = 1 + 9 - 4 - 1 = 5
 Strikeout
-Team 2 pitcher (Rakeem Bradley): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+Team 2 pitcher (Hershel Easom): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-0
+
+-----------------------
+
+BOTTOM INNING 9
+
+Stanley Soto: rng1 = 9 + 8 - 15 + 1 = 3
+Strikeout
+Team 1 pitcher (Angel Chavez): 28 batters faced, 0 runs allowed = 28 + 0.0 = 28.0, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 1-3
+Score: 6-0
 
-Micah Zamora: rng1 = 69 + 9 - 7 - 1 = 70
-Walk
-Team 2 pitcher (Rakeem Bradley): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
-
-base1: [3,4], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 1-3
-
-Alfredo Encarnacion: rng1 = 53 + 9 - 7 - 1 = 54
-rng2 = 78 + 10 - 7 - 1 = 80
-Flyout
-Team 2 pitcher (Rakeem Bradley): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
-
-base1: [3,4], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 1-3
-
-Felix Alarcón: rng1 = 16 + 5 - 7 - 1 = 13
-rng2 = 77 + 6 - 7 - 1 = 75
-Flyout
-Team 2 pitcher (Rakeem Bradley): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+Josh Poole: rng1 = 59 + 7 - 15 + 1 = 52
+rng2 = 6 + 5 - 15 + 1 = -3
+Groundout
+Team 1 pitcher (Angel Chavez): 29 batters faced, 0 runs allowed = 29 + 0.0 = 29.0, outs: 2
 
 base1: false, base2: false, base3: false
-Score: 1-3
+base1: false, base2: false, base3: false
+Score: 6-0
+
+Tom Lawson: rng1 = 50 + 6 - 15 + 1 = 42
+rng2 = 60 + 4 - 15 + 1 = 50
+Lineout
+Team 1 pitcher (Angel Chavez): 30 batters faced, 0 runs allowed = 30 + 0.0 = 30.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-0
 
 -----------------------
 
 Innings: 9
-Team 1 hits: 5
-Team 2 hits: 9
-Team 1 runs: 1
-Team 2 runs: 3
+Team 1 hits: 10
+Team 2 hits: 2
+Team 1 runs: 6
+Team 2 runs: 0
 
 Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-09-20
-Hiro Hakayawa	4	0	0	0	0	0	0	0	3					Colorado
-Guillermo Tamayo	4	0	2	2	0	0	0	0	0	
-Zachary Hughes	4	0	0	0	0	0	0	0	1	
-Micah Zamora	3	0	2	0	0	0	0	1	0	
-Alfredo Encarnacion	3	0	0	0	0	0	0	1	1	
-Felix Alarcón	4	0	0	0	0	0	0	0	0	
-Sean Stevens	3	0	0	0	0	0	0	0	2	
-Agustín Molina	3	1	1	0	0	1	1	0	0	
-Dídac Laguna	3	0	0	0	0	0	0	0	1	
+Hiro Hakayawa	5	1	1	0	0	0	0	0	1					Colorado
+Guillermo Tamayo	5	2	3	1	0	2	4	0	0	
+Zachary Hughes	5	0	1	0	0	0	0	0	2	
+Micah Zamora	5	0	1	0	0	0	0	0	3	
+Alfredo Encarnacion	3	1	1	0	0	0	0	1	1	
+Felix Alarcón	4	1	2	0	1	0	1	0	1	
+Sean Stevens	2	0	0	0	0	0	0	1	1	
+Agustín Molina	4	0	0	0	0	0	1	0	0	
+Dídac Laguna	4	1	1	0	0	0	0	0	0	
 
 Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
-Valentín Sánchez	0	1	1	1	0	0	15	8	3	1	0	7	23	
-Amante Harvey	0	0	1	0	0	0	6	0	0	0	0	1	7	
-Lyndon Perell	0	0	1	0	0	0	3	1	0	0	1	1	5	
+Angel Chavez	1	0	1	1	0	0	27	2	0	0	1	13	30	
 Julio Carrera	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Amante Harvey	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Lyndon Perell	0	0	0	0	0	0	0	0	0	0	0	0	0	
 Marquis Haynes	0	0	0	0	0	0	0	0	0	0	0	0	0	
 
 Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-09-20
-Stanley Soto	4	0	0	0	0	0	0	0	1					Phoenix
-Josh Poole	4	0	1	0	0	0	0	0	3	
-Tom Lawson	4	1	2	0	0	1	1	0	1	
-Reese Ross	4	1	1	0	0	0	0	0	2	
-Ignacio Delacruz	4	1	1	0	1	0	1	0	0	
-Bradley Simon	4	0	2	0	0	0	1	0	1	
-Joshua Marsh	3	0	1	0	0	0	0	1	0	
-Ivan Cruz	4	0	1	1	0	0	0	0	1	
-Bruno Rios	2	0	0	0	0	0	0	0	0	
+Stanley Soto	4	0	1	0	0	0	0	0	3					Phoenix
+Josh Poole	4	0	0	0	0	0	0	0	1	
+Tom Lawson	4	0	1	0	0	0	0	0	0	
+Reese Ross	3	0	0	0	0	0	0	0	3	
+Ignacio Delacruz	2	0	0	0	0	0	0	1	2	
+Bradley Simon	3	0	0	0	0	0	0	0	1	
+Joshua Marsh	3	0	0	0	0	0	0	0	0	
+Ivan Cruz	3	0	0	0	0	0	0	0	2	
+Bruno Rios	3	0	0	0	0	0	0	0	1	
 
 Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
-Keshawn Thomas	1	0	1	1	0	0	24	5	1	1	1	7	29	
-Jake Booth	0	0	0	0	0	0	0	0	0	0	0	0	0	
-Jayden Cooper	0	0	0	0	0	0	0	0	0	0	0	0	0	
-Hershel Easom	0	0	0	0	0	0	0	0	0	0	0	0	0	
-Rakeem Bradley	0	0	1	0	1	1	3	0	0	0	1	1	4	
+Alberto Berganza	0	1	1	1	0	0	15	4	4	1	2	5	22	
+Jake Booth	0	0	1	0	0	0	6	0	0	0	0	1	6	
+Jayden Cooper	0	0	1	0	0	0	3	4	1	1	0	2	7	
+Hershel Easom	0	0	1	0	0	0	3	2	1	0	0	1	5	
+Rakeem Bradley	0	0	0	0	0	0	0	0	0	0	0	0	0	

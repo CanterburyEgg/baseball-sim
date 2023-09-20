@@ -1,26 +1,42 @@
 TOP INNING 1
 
-Quentin Farmer: rng1 = 54 + 9 - 7 - 1 = 55
-rng2 = 78 + 2 - 7 - 1 = 72
-Flyout
-Team 2 pitcher (Owen Bowen): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 0-0
-
-Robert Bailey: rng1 = 5 + 9 - 7 - 1 = 6
+Quentin Farmer: rng1 = 8 + 9 - 15 - 1 = 1
 Strikeout
-Team 2 pitcher (Owen Bowen): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+Team 2 pitcher (D'Mario Morgan): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
 Score: 0-0
 
-Leonardo Pinto: rng1 = 32 + 9 - 7 - 1 = 33
-rng2 = 80 + 5 - 7 - 1 = 77
-Flyout
-Team 2 pitcher (Owen Bowen): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+Robert Bailey: rng1 = 85 + 9 - 15 - 1 = 78
+rng2 = 25 + 12 - 15 - 1 = 21
+Single
+Team 2 pitcher (D'Mario Morgan): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Leonardo Pinto: rng1 = 94 + 9 - 15 - 1 = 87
+Walk
+Team 2 pitcher (D'Mario Morgan): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Edward Lowe: rng1 = 31 + 6 - 15 - 1 = 21
+Strikeout
+Team 2 pitcher (D'Mario Morgan): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Leroy Powell: rng1 = 78 + 5 - 15 - 1 = 67
+rng2 = 44 + 7 - 15 - 1 = 35
+Groundout
+Team 2 pitcher (D'Mario Morgan): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
 
 base1: false, base2: false, base3: false
 Score: 0-0
@@ -29,771 +45,593 @@ Score: 0-0
 
 BOTTOM INNING 1
 
-Phoenix Moore: rng1 = 2 + 15 - 11 + 1 = 7
-Strikeout
-Team 1 pitcher (Scott Reynolds): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+Phoenix Moore: rng1 = 81 + 15 - 8 + 1 = 89
+Walk
+Team 1 pitcher (Wyatt Heller): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
 
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
 Score: 0-0
 
-Ashton Martin: rng1 = 60 + 13 - 11 + 1 = 63
-rng2 = 22 + 14 - 11 + 1 = 26
-Groundout
-Team 1 pitcher (Scott Reynolds): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+Ashton Martin: rng1 = 38 + 13 - 8 + 1 = 44
+rng2 = 80 + 14 - 7 + 1 = 88
+Flyout
+Team 1 pitcher (Wyatt Heller): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
 
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
 Score: 0-0
 
-Mason Foster: rng1 = 89 + 13 - 11 + 1 = 92
-rng2 = 87 + 11 - 11 + 1 = 88
-Double
-Team 1 pitcher (Scott Reynolds): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
-
-base1: false, base2: [2,0], base3: false
-base1: false, base2: true, base3: false
-Score: 0-0
-
-Bradley Murphy: rng1 = 95 + 10 - 11 + 1 = 95
-rng2 = 32 + 13 - 11 + 1 = 35
+Mason Foster: rng1 = 73 + 13 - 8 + 1 = 79
+rng2 = 31 + 11 - 7 + 1 = 36
 Single
-Team 1 pitcher (Scott Reynolds): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+Team 1 pitcher (Wyatt Heller): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
 
-base1: [3,0], base2: false, base3: false
+base1: [2,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Bradley Murphy: rng1 = 31 + 10 - 8 + 1 = 34
+rng2 = 59 + 13 - 7 + 1 = 66
+Flyout
+Team 1 pitcher (Wyatt Heller): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [2,0], base2: false, base3: false
 base1: true, base2: false, base3: false
 Score: 0-1
 
-Caden Beckett: rng1 = 94 + 12 - 11 + 1 = 96
-rng2 = 45 + 11 - 11 + 1 = 46
-Single
-Team 1 pitcher (Scott Reynolds): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+Caden Beckett: rng1 = 81 + 12 - 8 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Wyatt Heller): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
 
-base1: [4,0], base2: [3,0], base3: false
+base1: [4,0], base2: [2,0], base3: false
 base1: true, base2: true, base3: false
 Score: 0-1
 
-Yodogawa Shosuke: rng1 = 74 + 8 - 11 + 1 = 72
-Walk
-Team 1 pitcher (Scott Reynolds): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
-
-base1: [5,0], base2: [4,0], base3: [3,0]
-base1: true, base2: true, base3: true
-Score: 0-1
-
-Quinell McDaniel: rng1 = 76 + 8 - 11 + 1 = 74
-rng2 = 70 + 8 - 11 + 1 = 68
-Double
-Team 1 pitcher (Scott Reynolds): 7 batters faced, 4 runs allowed = 7 + 10.0 = 17.0, outs: 2
-
-base1: false, base2: [6,0], base3: false
-base1: false, base2: true, base3: false
-Score: 0-4
-
-Esteban Mendoza: rng1 = 25 + 8 - 11 + 1 = 23
-Strikeout
-Team 1 pitcher (Scott Reynolds): 8 batters faced, 4 runs allowed = 8 + 10.0 = 18.0, outs: 3
+Yodogawa Shosuke: rng1 = 51 + 8 - 8 + 1 = 52
+rng2 = 87 + 8 - 7 + 1 = 89
+Flyout
+Team 1 pitcher (Wyatt Heller): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 0-4
+Score: 0-1
 
 -----------------------
 
 TOP INNING 2
 
-Edward Lowe: rng1 = 74 + 6 - 7 - 1 = 72
-Walk
-Team 2 pitcher (Owen Bowen): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+Alejandro López: rng1 = 91 + 4 - 15 - 1 = 79
+rng2 = 28 + 7 - 15 - 1 = 19
+Single
+Team 2 pitcher (D'Mario Morgan): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 0
 
-base1: [3,0], base2: false, base3: false
+base1: [5,0], base2: false, base3: false
 base1: true, base2: false, base3: false
-Score: 0-4
+Score: 0-1
 
-Leroy Powell: rng1 = 85 + 5 - 7 - 1 = 82
-rng2 = 46 + 7 - 7 - 1 = 45
-Single
-Team 2 pitcher (Owen Bowen): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
-
-base1: [4,0], base2: false, base3: [3,0]
-base1: true, base2: false, base3: true
-Score: 0-4
-
-Alejandro López: rng1 = 83 + 4 - 7 - 1 = 79
-rng2 = 56 + 7 - 7 - 1 = 55
-Single
-Team 2 pitcher (Owen Bowen): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 0
-
-base1: [5,0], base2: [4,0], base3: false
-base1: true, base2: true, base3: false
-Score: 1-4
-
-Estefania Espina: rng1 = 10 + 5 - 7 - 1 = 7
+Estefania Espina: rng1 = 14 + 5 - 15 - 1 = 3
 Strikeout
-Team 2 pitcher (Owen Bowen): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+Team 2 pitcher (D'Mario Morgan): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
 
-base1: [5,0], base2: [4,0], base3: false
-base1: true, base2: true, base3: false
-Score: 1-4
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
 
-Orlando Mendejo: rng1 = 55 + 3 - 7 - 1 = 50
-rng2 = 65 + 7 - 7 - 1 = 64
-Flyout
-Team 2 pitcher (Owen Bowen): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
-
-base1: [5,0], base2: [4,0], base3: false
-base1: true, base2: true, base3: false
-Score: 1-4
-
-Ronan Abbott: rng1 = 22 + 5 - 7 - 1 = 19
+Orlando Mendejo: rng1 = 36 + 3 - 15 - 1 = 23
 Strikeout
-Team 2 pitcher (Owen Bowen): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+Team 2 pitcher (D'Mario Morgan): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Ronan Abbott: rng1 = 16 + 5 - 15 - 1 = 5
+Strikeout
+Team 2 pitcher (D'Mario Morgan): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 1-4
+Score: 0-1
 
 -----------------------
 
 BOTTOM INNING 2
 
-Valentino Rubio: rng1 = 86 + 6 - 11 + 1 = 82
-rng2 = 4 + 4 - 11 + 1 = -2
-Single
-Team 1 pitcher (Scott Reynolds): 9 batters faced, 4 runs allowed = 9 + 10.0 = 19.0, outs: 0
-
-base1: [8,0], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 1-4
-
-Phoenix Moore: rng1 = 75 + 15 - 11 + 1 = 80
-rng2 = 91 + 12 - 11 + 1 = 93
-Triple
-Team 1 pitcher (Scott Reynolds): 10 batters faced, 5 runs allowed = 10 + 12.5 = 22.5, outs: 0
-
-base1: false, base2: false, base3: [0,0]
-base1: false, base2: false, base3: true
-Score: 1-5
-
-Ashton Martin: rng1 = 65 + 13 - 11 + 1 = 68
-rng2 = 59 + 14 - 11 + 1 = 63
-Flyout
-Team 1 pitcher (Scott Reynolds): 11 batters faced, 6 runs allowed = 11 + 15.0 = 26.0, outs: 1
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 1-6
-
-Mason Foster: rng1 = 100 + 13 - 11 + 1 = 103
-rng2 = 40 + 11 - 11 + 1 = 41
-Single
-Team 1 pitcher (Scott Reynolds): 12 batters faced, 6 runs allowed = 12 + 15.0 = 27.0, outs: 1
-
-base1: [2,0], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 1-6
-
-Bradley Murphy: rng1 = 6 + 10 - 11 + 1 = 6
+Quinell McDaniel: rng1 = 24 + 8 - 8 + 1 = 25
 Strikeout
-Team 1 pitcher (Scott Reynolds): 13 batters faced, 6 runs allowed = 13 + 15.0 = 28.0, outs: 2
-
-base1: [2,0], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 1-6
-
-Caden Beckett: rng1 = 55 + 12 - 11 + 1 = 57
-rng2 = 71 + 11 - 11 + 1 = 72
-Flyout
-Team 1 pitcher (Scott Reynolds): 14 batters faced, 6 runs allowed = 14 + 15.0 = 29.0, outs: 3
+Team 1 pitcher (Wyatt Heller): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
 
 base1: false, base2: false, base3: false
-Score: 1-6
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Esteban Mendoza: rng1 = 40 + 8 - 8 + 1 = 41
+rng2 = 28 + 7 - 7 + 1 = 29
+Groundout
+Team 1 pitcher (Wyatt Heller): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Valentino Rubio: rng1 = 32 + 6 - 8 + 1 = 31
+rng2 = 81 + 4 - 7 + 1 = 79
+Flyout
+Team 1 pitcher (Wyatt Heller): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
 
 -----------------------
 
 TOP INNING 3
 
-Quentin Farmer: rng1 = 60 + 9 - 7 - 1 = 61
-rng2 = 85 + 2 - 7 - 1 = 79
-Flyout
-Team 2 pitcher (Owen Bowen): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 1-6
-
-Robert Bailey: rng1 = 49 + 9 - 7 - 1 = 50
-rng2 = 71 + 12 - 7 - 1 = 75
-Flyout
-Team 2 pitcher (Owen Bowen): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 1-6
-
-Leonardo Pinto: rng1 = 92 + 9 - 7 - 1 = 93
-rng2 = 17 + 5 - 7 - 1 = 14
-Single
-Team 2 pitcher (Owen Bowen): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 2
-
-base1: [2,0], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 1-6
-
-Edward Lowe: rng1 = 17 + 6 - 7 - 1 = 15
-rng2 = 18 + 7 - 7 - 1 = 17
+Quentin Farmer: rng1 = 22 + 9 - 15 - 1 = 15
+rng2 = 24 + 2 - 15 - 1 = 10
 Groundout
-Team 2 pitcher (Owen Bowen): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 3
+Team 2 pitcher (D'Mario Morgan): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
 
 base1: false, base2: false, base3: false
-Score: 1-6
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Robert Bailey: rng1 = 81 + 9 - 15 - 1 = 74
+rng2 = 51 + 12 - 15 - 1 = 47
+Single
+Team 2 pitcher (D'Mario Morgan): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Leonardo Pinto: rng1 = 32 + 9 - 15 - 1 = 25
+Strikeout
+Team 2 pitcher (D'Mario Morgan): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Edward Lowe: rng1 = 26 + 6 - 15 - 1 = 16
+Strikeout
+Team 2 pitcher (D'Mario Morgan): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
 
 -----------------------
 
 BOTTOM INNING 3
 
-Yodogawa Shosuke: rng1 = 27 + 8 - 11 + 1 = 25
-Strikeout
-Team 1 pitcher (Scott Reynolds): 15 batters faced, 6 runs allowed = 15 + 15.0 = 30.0, outs: 1
+Phoenix Moore: rng1 = 81 + 15 - 8 + 1 = 89
+Walk
+Team 1 pitcher (Wyatt Heller): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 0
 
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 1-6
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
 
-Quinell McDaniel: rng1 = 98 + 8 - 11 + 1 = 96
-rng2 = 80 + 8 - 11 + 1 = 78
-Double
-Team 1 pitcher (Scott Reynolds): 16 batters faced, 6 runs allowed = 16 + 15.0 = 31.0, outs: 1
-
-base1: false, base2: [6,0], base3: false
-base1: false, base2: true, base3: false
-Score: 1-6
-
-Esteban Mendoza: rng1 = 95 + 8 - 11 + 1 = 93
-rng2 = 99 + 7 - 11 + 1 = 96
-Home run
-Team 1 pitcher (Scott Reynolds): 17 batters faced, 8 runs allowed = 17 + 20.0 = 37.0, outs: 1
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 1-8
-
-Team 1 pitcher change to Reuben Simmons
-
-Valentino Rubio: rng1 = 38 + 6 - 10 + 1 = 35
-rng2 = 94 + 4 - 11 + 1 = 88
-Flyout
-Team 1 pitcher (Reuben Simmons): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 1-8
-
-Phoenix Moore: rng1 = 47 + 15 - 10 + 1 = 53
-rng2 = 26 + 12 - 11 + 1 = 28
+Ashton Martin: rng1 = 54 + 13 - 8 + 1 = 60
+rng2 = 2 + 14 - 7 + 1 = 10
 Groundout
-Team 1 pitcher (Reuben Simmons): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+Team 1 pitcher (Wyatt Heller): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Mason Foster: rng1 = 55 + 13 - 8 + 1 = 61
+rng2 = 15 + 11 - 7 + 1 = 20
+Groundout
+Team 1 pitcher (Wyatt Heller): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Bradley Murphy: rng1 = 20 + 10 - 8 + 1 = 23
+Strikeout
+Team 1 pitcher (Wyatt Heller): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 1-8
+Score: 0-1
 
 -----------------------
 
 TOP INNING 4
 
-Leroy Powell: rng1 = 89 + 5 - 7 - 1 = 86
-Hit by pitch
-Team 2 pitcher (Owen Bowen): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 0
-
-base1: [4,0], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 1-8
-
-Alejandro López: rng1 = 89 + 4 - 7 - 1 = 85
-rng2 = 40 + 7 - 7 - 1 = 39
-Single
-Team 2 pitcher (Owen Bowen): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 0
-
-base1: [5,0], base2: false, base3: [4,0]
-base1: true, base2: false, base3: true
-Score: 1-8
-
-Estefania Espina: rng1 = 16 + 5 - 7 - 1 = 13
-rng2 = 92 + 6 - 7 - 1 = 90
-Flyout
-Team 2 pitcher (Owen Bowen): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 1
-
-base1: [5,0], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 2-8
-
-Orlando Mendejo: rng1 = 98 + 3 - 7 - 1 = 93
-rng2 = 46 + 7 - 7 - 1 = 45
-Single
-Team 2 pitcher (Owen Bowen): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 1
-
-base1: [7,0], base2: [5,0], base3: false
-base1: true, base2: true, base3: false
-Score: 2-8
-
-Ronan Abbott: rng1 = 67 + 5 - 7 - 1 = 64
-rng2 = 90 + 5 - 7 - 1 = 87
-Flyout
-Team 2 pitcher (Owen Bowen): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 2
-
-base1: [7,0], base2: [5,0], base3: false
-base1: true, base2: true, base3: false
-Score: 2-8
-
-Quentin Farmer: rng1 = 86 + 9 - 7 - 1 = 87
-Walk
-Team 2 pitcher (Owen Bowen): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 2
-
-base1: [0,0], base2: [7,0], base3: [5,0]
-base1: true, base2: true, base3: true
-Score: 2-8
-
-Robert Bailey: rng1 = 30 + 9 - 7 - 1 = 31
-rng2 = 31 + 12 - 7 - 1 = 35
+Leroy Powell: rng1 = 61 + 5 - 15 - 1 = 50
+rng2 = 55 + 7 - 15 - 1 = 46
 Groundout
-Team 2 pitcher (Owen Bowen): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 3
+Team 2 pitcher (D'Mario Morgan): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 1
 
 base1: false, base2: false, base3: false
-Score: 2-8
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Alejandro López: rng1 = 69 + 4 - 15 - 1 = 57
+rng2 = 70 + 7 - 15 - 1 = 61
+Flyout
+Team 2 pitcher (D'Mario Morgan): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Estefania Espina: rng1 = 66 + 5 - 15 - 1 = 55
+rng2 = 2 + 6 - 15 - 1 = -8
+Groundout
+Team 2 pitcher (D'Mario Morgan): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
 
 -----------------------
 
 BOTTOM INNING 4
 
-Ashton Martin: rng1 = 3 + 13 - 10 + 1 = 7
+Caden Beckett: rng1 = 78 + 12 - 8 + 1 = 83
+rng2 = 2 + 11 - 7 + 1 = 7
+Single
+Team 1 pitcher (Wyatt Heller): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Yodogawa Shosuke: rng1 = 18 + 8 - 8 + 1 = 19
 Strikeout
-Team 1 pitcher (Reuben Simmons): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+Team 1 pitcher (Wyatt Heller): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 1
 
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 2-8
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
 
-Mason Foster: rng1 = 100 + 13 - 10 + 1 = 104
-rng2 = 91 + 11 - 11 + 1 = 92
-Double
-Team 1 pitcher (Reuben Simmons): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
-
-base1: false, base2: [2,1], base3: false
-base1: false, base2: true, base3: false
-Score: 2-8
-
-Bradley Murphy: rng1 = 8 + 10 - 10 + 1 = 9
+Quinell McDaniel: rng1 = 9 + 8 - 8 + 1 = 10
 Strikeout
-Team 1 pitcher (Reuben Simmons): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+Team 1 pitcher (Wyatt Heller): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 2
 
-base1: false, base2: [2,1], base3: false
-base1: false, base2: true, base3: false
-Score: 2-8
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
 
-Caden Beckett: rng1 = 47 + 12 - 10 + 1 = 50
-rng2 = 14 + 11 - 11 + 1 = 15
-Groundout
-Team 1 pitcher (Reuben Simmons): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+Esteban Mendoza: rng1 = 68 + 8 - 8 + 1 = 69
+rng2 = 56 + 7 - 7 + 1 = 57
+Lineout
+Team 1 pitcher (Wyatt Heller): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 2-8
+Score: 0-1
 
 -----------------------
 
 TOP INNING 5
 
-Leonardo Pinto: rng1 = 84 + 9 - 7 - 1 = 85
-rng2 = 65 + 5 - 7 - 1 = 62
-Single
-Team 2 pitcher (Owen Bowen): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 0
-
-base1: [2,0], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 2-8
-
-Edward Lowe: rng1 = 82 + 6 - 7 - 1 = 80
-rng2 = 36 + 7 - 7 - 1 = 35
-Single
-Team 2 pitcher (Owen Bowen): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 0
-
-base1: [3,0], base2: [2,0], base3: false
-base1: true, base2: true, base3: false
-Score: 2-8
-
-Leroy Powell: rng1 = 12 + 5 - 7 - 1 = 9
-Strikeout
-Team 2 pitcher (Owen Bowen): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 1
-
-base1: [3,0], base2: [2,0], base3: false
-base1: true, base2: true, base3: false
-Score: 2-8
-
-Alejandro López: rng1 = 72 + 4 - 7 - 1 = 68
-rng2 = 35 + 7 - 7 - 1 = 34
+Orlando Mendejo: rng1 = 44 + 3 - 15 - 1 = 31
+rng2 = 8 + 7 - 15 - 1 = -1
 Groundout
-Team 2 pitcher (Owen Bowen): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 2
-
-base1: [5,0], base2: false, base3: [2,0]
-base1: true, base2: false, base3: true
-Score: 2-8
-
-Estefania Espina: rng1 = 85 + 5 - 7 - 1 = 82
-rng2 = 97 + 6 - 7 - 1 = 95
-Home run
-Team 2 pitcher (Owen Bowen): 25 batters faced, 5 runs allowed = 25 + 12.5 = 37.5, outs: 2
+Team 2 pitcher (D'Mario Morgan): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 5-8
+Score: 0-1
 
-Team 2 pitcher change to Jason Francisco
+Ronan Abbott: rng1 = 59 + 5 - 15 - 1 = 48
+rng2 = 93 + 5 - 15 - 1 = 82
+Flyout
+Team 2 pitcher (D'Mario Morgan): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 2
 
-Orlando Mendejo: rng1 = 10 + 3 - 10 - 1 = 2
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Quentin Farmer: rng1 = 7 + 9 - 15 - 1 = 0
 Strikeout
-Team 2 pitcher (Jason Francisco): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+Team 2 pitcher (D'Mario Morgan): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 5-8
+Score: 0-1
 
 -----------------------
 
 BOTTOM INNING 5
 
-Team 1 pitcher change to Bravon McDaniel
-
-Yodogawa Shosuke: rng1 = 14 + 8 - 10 + 1 = 13
-rng2 = 20 + 8 - 9 + 1 = 20
+Valentino Rubio: rng1 = 42 + 6 - 8 + 1 = 41
+rng2 = 3 + 4 - 7 + 1 = 1
 Groundout
-Team 1 pitcher (Bravon McDaniel): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+Team 1 pitcher (Wyatt Heller): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 5-8
+Score: 0-1
 
-Quinell McDaniel: rng1 = 13 + 8 - 10 + 1 = 12
-rng2 = 95 + 8 - 9 + 1 = 95
+Phoenix Moore: rng1 = 5 + 15 - 8 + 1 = 13
+rng2 = 88 + 12 - 7 + 1 = 94
 Flyout
-Team 1 pitcher (Bravon McDaniel): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+Team 1 pitcher (Wyatt Heller): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 2
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 5-8
+Score: 0-1
 
-Esteban Mendoza: rng1 = 5 + 8 - 10 + 1 = 4
-Strikeout
-Team 1 pitcher (Bravon McDaniel): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+Ashton Martin: rng1 = 98 + 13 - 8 + 1 = 104
+rng2 = 33 + 14 - 7 + 1 = 41
+Single
+Team 1 pitcher (Wyatt Heller): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Mason Foster: rng1 = 62 + 13 - 8 + 1 = 68
+rng2 = 88 + 11 - 7 + 1 = 93
+Flyout
+Team 1 pitcher (Wyatt Heller): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 5-8
+Score: 0-1
 
 -----------------------
 
 TOP INNING 6
 
-Ronan Abbott: rng1 = 13 + 5 - 10 - 1 = 7
+Robert Bailey: rng1 = 7 + 9 - 15 - 1 = 0
 Strikeout
-Team 2 pitcher (Jason Francisco): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+Team 2 pitcher (D'Mario Morgan): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 5-8
+Score: 0-1
 
-Quentin Farmer: rng1 = 78 + 9 - 10 - 1 = 76
-rng2 = 24 + 2 - 9 - 1 = 16
-Single
-Team 2 pitcher (Jason Francisco): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
-
-base1: [0,1], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 5-8
-
-Robert Bailey: rng1 = 38 + 9 - 10 - 1 = 36
-rng2 = 46 + 12 - 9 - 1 = 48
+Leonardo Pinto: rng1 = 68 + 9 - 15 - 1 = 61
+rng2 = 64 + 5 - 15 - 1 = 53
 Lineout
-Team 2 pitcher (Jason Francisco): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
-
-base1: [0,1], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 5-8
-
-Leonardo Pinto: rng1 = 9 + 9 - 10 - 1 = 7
-Strikeout
-Team 2 pitcher (Jason Francisco): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+Team 2 pitcher (D'Mario Morgan): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 2
 
 base1: false, base2: false, base3: false
-Score: 5-8
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Edward Lowe: rng1 = 8 + 6 - 15 - 1 = -2
+Strikeout
+Team 2 pitcher (D'Mario Morgan): 22 batters faced, 0 runs allowed = 22 + 0.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
 
 -----------------------
 
 BOTTOM INNING 6
 
-Valentino Rubio: rng1 = 35 + 6 - 10 + 1 = 32
-rng2 = 60 + 4 - 9 + 1 = 56
-Lineout
-Team 1 pitcher (Bravon McDaniel): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 5-8
-
-Phoenix Moore: rng1 = 19 + 15 - 10 + 1 = 25
+Bradley Murphy: rng1 = 7 + 10 - 8 + 1 = 10
 Strikeout
-Team 1 pitcher (Bravon McDaniel): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+Team 1 pitcher (Wyatt Heller): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 5-8
+Score: 0-1
 
-Ashton Martin: rng1 = 44 + 13 - 10 + 1 = 48
-rng2 = 52 + 14 - 9 + 1 = 58
-Lineout
-Team 1 pitcher (Bravon McDaniel): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+Caden Beckett: rng1 = 44 + 12 - 8 + 1 = 49
+rng2 = 77 + 11 - 7 + 1 = 82
+Flyout
+Team 1 pitcher (Wyatt Heller): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 2
 
 base1: false, base2: false, base3: false
-Score: 5-8
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Yodogawa Shosuke: rng1 = 36 + 8 - 8 + 1 = 37
+rng2 = 97 + 8 - 7 + 1 = 99
+Flyout
+Team 1 pitcher (Wyatt Heller): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
 
 -----------------------
 
 TOP INNING 7
 
-Team 2 pitcher change to Calvin Hogan
-
-Edward Lowe: rng1 = 56 + 6 - 7 - 1 = 54
-rng2 = 33 + 7 - 9 - 1 = 30
+Leroy Powell: rng1 = 63 + 5 - 15 - 1 = 52
+rng2 = 28 + 7 - 15 - 1 = 19
 Groundout
-Team 2 pitcher (Calvin Hogan): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+Team 2 pitcher (D'Mario Morgan): 23 batters faced, 0 runs allowed = 23 + 0.0 = 23.0, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 5-8
+Score: 0-1
 
-Leroy Powell: rng1 = 10 + 5 - 7 - 1 = 7
+Alejandro López: rng1 = 34 + 4 - 15 - 1 = 22
 Strikeout
-Team 2 pitcher (Calvin Hogan): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+Team 2 pitcher (D'Mario Morgan): 24 batters faced, 0 runs allowed = 24 + 0.0 = 24.0, outs: 2
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 5-8
+Score: 0-1
 
-Alejandro López: rng1 = 92 + 4 - 7 - 1 = 88
-Walk
-Team 2 pitcher (Calvin Hogan): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
-
-base1: [5,2], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 5-8
-
-Estefania Espina: rng1 = 55 + 5 - 7 - 1 = 52
-rng2 = 4 + 6 - 9 - 1 = 0
-Groundout
-Team 2 pitcher (Calvin Hogan): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+Estefania Espina: rng1 = 18 + 5 - 15 - 1 = 7
+Strikeout
+Team 2 pitcher (D'Mario Morgan): 25 batters faced, 0 runs allowed = 25 + 0.0 = 25.0, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 5-8
+Score: 0-1
 
 -----------------------
 
 BOTTOM INNING 7
 
-Team 1 pitcher change to Okihana Min-Ki
-
-Mason Foster: rng1 = 23 + 13 - 8 + 1 = 29
-rng2 = 70 + 11 - 6 + 1 = 76
-Flyout
-Team 1 pitcher (Okihana Min-Ki): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+Quinell McDaniel: rng1 = 60 + 8 - 8 + 1 = 61
+rng2 = 55 + 8 - 7 + 1 = 57
+Lineout
+Team 1 pitcher (Wyatt Heller): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 5-8
+Score: 0-1
 
-Bradley Murphy: rng1 = 97 + 10 - 8 + 1 = 100
-rng2 = 76 + 13 - 6 + 1 = 84
-Home run
-Team 1 pitcher (Okihana Min-Ki): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 5-9
-
-Caden Beckett: rng1 = 37 + 12 - 8 + 1 = 42
-rng2 = 21 + 11 - 6 + 1 = 27
+Esteban Mendoza: rng1 = 59 + 8 - 8 + 1 = 60
+rng2 = 28 + 7 - 7 + 1 = 29
 Groundout
-Team 1 pitcher (Okihana Min-Ki): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+Team 1 pitcher (Wyatt Heller): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 2
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 5-9
+Score: 0-1
 
-Yodogawa Shosuke: rng1 = 2 + 8 - 8 + 1 = 3
-Strikeout
-Team 1 pitcher (Okihana Min-Ki): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+Valentino Rubio: rng1 = 78 + 6 - 8 + 1 = 77
+rng2 = 91 + 4 - 7 + 1 = 89
+Double
+Team 1 pitcher (Wyatt Heller): 27 batters faced, 1 runs allowed = 27 + 2.5 = 29.5, outs: 2
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Phoenix Moore: rng1 = 29 + 15 - 8 + 1 = 37
+rng2 = 13 + 12 - 7 + 1 = 19
+Groundout
+Team 1 pitcher (Wyatt Heller): 28 batters faced, 1 runs allowed = 28 + 2.5 = 30.5, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 5-9
+Score: 0-1
 
 -----------------------
 
 TOP INNING 8
 
-Orlando Mendejo: rng1 = 21 + 3 - 7 - 1 = 16
+Orlando Mendejo: rng1 = 21 + 3 - 15 - 1 = 8
 Strikeout
-Team 2 pitcher (Calvin Hogan): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+Team 2 pitcher (D'Mario Morgan): 26 batters faced, 0 runs allowed = 26 + 0.0 = 26.0, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 5-9
+Score: 0-1
 
-Ronan Abbott: rng1 = 91 + 5 - 7 - 1 = 88
+Ronan Abbott: rng1 = 30 + 5 - 15 - 1 = 19
+Strikeout
+Team 2 pitcher (D'Mario Morgan): 27 batters faced, 0 runs allowed = 27 + 0.0 = 27.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Quentin Farmer: rng1 = 96 + 9 - 15 - 1 = 89
 Walk
-Team 2 pitcher (Calvin Hogan): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+Team 2 pitcher (D'Mario Morgan): 28 batters faced, 0 runs allowed = 28 + 0.0 = 28.0, outs: 2
 
-base1: [8,2], base2: false, base3: false
+base1: [0,0], base2: false, base3: false
 base1: true, base2: false, base3: false
-Score: 5-9
+Score: 0-1
 
-Quentin Farmer: rng1 = 21 + 9 - 7 - 1 = 22
-Strikeout
-Team 2 pitcher (Calvin Hogan): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
-
-base1: [8,2], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 5-9
-
-Robert Bailey: rng1 = 45 + 9 - 7 - 1 = 46
-rng2 = 69 + 12 - 9 - 1 = 71
+Robert Bailey: rng1 = 66 + 9 - 15 - 1 = 59
+rng2 = 75 + 12 - 15 - 1 = 71
 Flyout
-Team 2 pitcher (Calvin Hogan): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+Team 2 pitcher (D'Mario Morgan): 29 batters faced, 0 runs allowed = 29 + 0.0 = 29.0, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 5-9
+Score: 0-1
 
 -----------------------
 
 BOTTOM INNING 8
 
-Team 1 pitcher change to Charlie Jordan
+Team 1 pitcher change to Reuben Simmons
 
-Quinell McDaniel: rng1 = 41 + 8 - 15 + 1 = 35
-rng2 = 14 + 8 - 15 + 1 = 8
-Groundout
-Team 1 pitcher (Charlie Jordan): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+Ashton Martin: rng1 = 21 + 13 - 10 + 1 = 25
+Strikeout
+Team 1 pitcher (Reuben Simmons): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Mason Foster: rng1 = 52 + 13 - 10 + 1 = 56
+rng2 = 81 + 11 - 11 + 1 = 82
+Flyout
+Team 1 pitcher (Reuben Simmons): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 5-9
+Score: 0-1
 
-Esteban Mendoza: rng1 = 82 + 8 - 15 + 1 = 76
-rng2 = 40 + 7 - 15 + 1 = 33
-Single
-Team 1 pitcher (Charlie Jordan): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
-
-base1: [7,4], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 5-9
-
-Valentino Rubio: rng1 = 100 + 6 - 15 + 1 = 92
-rng2 = 19 + 4 - 15 + 1 = 9
-Single
-Team 1 pitcher (Charlie Jordan): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
-
-base1: [8,4], base2: false, base3: [7,4]
-base1: true, base2: false, base3: true
-Score: 5-9
-
-Phoenix Moore: rng1 = 46 + 15 - 15 + 1 = 47
-rng2 = 22 + 12 - 15 + 1 = 20
-Groundout
-Team 1 pitcher (Charlie Jordan): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+Bradley Murphy: rng1 = 67 + 10 - 10 + 1 = 68
+rng2 = 75 + 13 - 11 + 1 = 78
+Flyout
+Team 1 pitcher (Reuben Simmons): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 5-9
+Score: 0-1
 
 -----------------------
 
 TOP INNING 9
 
-Team 2 pitcher change to Dante Berry
+Team 2 pitcher change to Reed Winters
 
-Leonardo Pinto: rng1 = 22 + 9 - 6 - 1 = 24
+Leonardo Pinto: rng1 = 12 + 9 - 11 - 1 = 9
 Strikeout
-Team 2 pitcher (Dante Berry): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+Team 2 pitcher (Reed Winters): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 5-9
+Score: 0-1
 
-Edward Lowe: rng1 = 83 + 6 - 6 - 1 = 82
-rng2 = 93 + 7 - 5 - 1 = 94
-Home run
-Team 2 pitcher (Dante Berry): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+Edward Lowe: rng1 = 20 + 6 - 11 - 1 = 14
+rng2 = 18 + 7 - 9 - 1 = 15
+Groundout
+Team 2 pitcher (Reed Winters): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 6-9
+Score: 0-1
 
-Leroy Powell: rng1 = 65 + 5 - 6 - 1 = 63
-rng2 = 51 + 7 - 5 - 1 = 52
+Leroy Powell: rng1 = 41 + 5 - 11 - 1 = 34
+rng2 = 51 + 7 - 9 - 1 = 48
 Lineout
-Team 2 pitcher (Dante Berry): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+Team 2 pitcher (Reed Winters): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
 
 base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 6-9
-
-Alejandro López: rng1 = 88 + 4 - 6 - 1 = 85
-rng2 = 54 + 7 - 5 - 1 = 55
-Single
-Team 2 pitcher (Dante Berry): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
-
-base1: [5,3], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 6-9
-
-Estefania Espina: rng1 = 28 + 5 - 6 - 1 = 26
-Strikeout
-Team 2 pitcher (Dante Berry): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
-
-base1: false, base2: false, base3: false
-Score: 6-9
+Score: 0-1
 
 -----------------------
 
 Innings: 9
-Team 1 hits: 11
-Team 2 hits: 13
-Team 1 runs: 6
-Team 2 runs: 9
+Team 1 hits: 3
+Team 2 hits: 4
+Team 1 runs: 0
+Team 2 runs: 1
 
 Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-09-20
-Quentin Farmer	4	0	1	0	0	0	0	1	1					Chicago
-Robert Bailey	5	0	0	0	0	0	0	0	1	
-Leonardo Pinto	5	1	2	0	0	0	0	0	2	
-Edward Lowe	4	2	2	0	0	1	1	1	0	
-Leroy Powell	4	1	1	0	0	0	0	0	2	
-Alejandro López	4	1	3	0	0	0	1	1	0	
-Estefania Espina	5	1	1	0	0	1	4	0	2	
-Orlando Mendejo	4	0	1	0	0	0	0	0	2	
-Ronan Abbott	3	0	0	0	0	0	0	1	2	
+Quentin Farmer	3	0	0	0	0	0	0	1	2					Chicago
+Robert Bailey	4	0	2	0	0	0	0	0	1	
+Leonardo Pinto	3	0	0	0	0	0	0	1	2	
+Edward Lowe	4	0	0	0	0	0	0	0	3	
+Leroy Powell	4	0	0	0	0	0	0	0	0	
+Alejandro López	3	0	1	0	0	0	0	0	1	
+Estefania Espina	3	0	0	0	0	0	0	0	2	
+Orlando Mendejo	3	0	0	0	0	0	0	0	2	
+Ronan Abbott	3	0	0	0	0	0	0	0	2	
 
 Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
-Scott Reynolds	0	1	1	1	0	0	7	9	8	1	1	4	17	
-Reuben Simmons	0	0	1	0	0	0	5	1	0	0	0	2	6	
-Bravon McDaniel	0	0	1	0	0	0	6	0	0	0	0	2	6	
-Okihana Min-Ki	0	0	1	0	0	0	3	1	1	1	0	1	4	
-Charlie Jordan	0	0	1	0	0	0	3	2	0	0	0	0	4	
+Wyatt Heller	0	1	1	1	0	0	21	4	1	0	2	5	28	
+Reuben Simmons	0	0	1	0	0	0	3	0	0	0	0	1	3	
+Bravon McDaniel	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Okihana Min-Ki	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Charlie Jordan	0	0	0	0	0	0	0	0	0	0	0	0	0	
 
 Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-09-20
-Phoenix Moore	5	1	1	0	1	0	1	0	2					Los Angeles
-Ashton Martin	4	0	0	0	0	0	1	0	1	
-Mason Foster	4	1	3	2	0	0	0	0	0	
-Bradley Murphy	4	2	2	0	0	1	2	0	2	
-Caden Beckett	4	1	1	0	0	0	0	0	0	
-Yodogawa Shosuke	3	1	0	0	0	0	0	1	2	
-Quinell McDaniel	4	1	2	2	0	0	3	0	0	
-Esteban Mendoza	4	1	2	0	0	1	2	0	2	
-Valentino Rubio	4	1	2	0	0	0	0	0	0	
+Phoenix Moore	2	1	0	0	0	0	0	2	0					Los Angeles
+Ashton Martin	4	0	1	0	0	0	0	0	1	
+Mason Foster	4	0	1	0	0	0	0	0	0	
+Bradley Murphy	4	0	0	0	0	0	1	0	2	
+Caden Beckett	2	0	1	0	0	0	0	0	0	
+Yodogawa Shosuke	3	0	0	0	0	0	0	0	1	
+Quinell McDaniel	3	0	0	0	0	0	0	0	2	
+Esteban Mendoza	3	0	0	0	0	0	0	0	0	
+Valentino Rubio	3	0	1	1	0	0	0	0	0	
 
 Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
-Owen Bowen	1	0	1	1	0	0	14	8	5	1	2	4	25	
-Jason Francisco	0	0	1	0	0	0	4	1	0	0	0	3	5	
-Calvin Hogan	0	0	1	0	0	0	6	0	0	0	2	3	8	
-Dante Berry	0	0	1	0	0	0	3	2	1	1	0	2	5	
-Reed Winters	0	0	0	0	0	0	0	0	0	0	0	0	0	
+D'Mario Morgan	1	0	1	1	0	0	24	3	0	0	2	14	29	
+Jason Francisco	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Calvin Hogan	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Dante Berry	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Reed Winters	0	0	1	0	1	1	3	0	0	0	0	1	3	

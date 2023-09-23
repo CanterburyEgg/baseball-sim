@@ -1,0 +1,751 @@
+TOP INNING 1
+
+Henry Webb: rng1 = 60 + 14 - 6 - 1 = 67
+rng2 = 70 + 14 - 4 - 1 = 79
+Flyout
+Team 2 pitcher (Clévon Fuller): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Liam Green: rng1 = 14 + 13 - 6 - 1 = 20
+Strikeout
+Team 2 pitcher (Clévon Fuller): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Serafín Sancho: rng1 = 37 + 10 - 6 - 1 = 40
+rng2 = 57 + 9 - 4 - 1 = 61
+Flyout
+Team 2 pitcher (Clévon Fuller): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Qua'sean Price: rng1 = 2 + 15 - 11 + 1 = 7
+Strikeout
+Team 1 pitcher (Jose Abasto): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Dekion Atkins: rng1 = 89 + 14 - 11 + 1 = 93
+rng2 = 66 + 15 - 7 + 1 = 75
+Double
+Team 1 pitcher (Jose Abasto): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Dushane Rice: rng1 = 92 + 11 - 11 + 1 = 93
+rng2 = 72 + 13 - 7 + 1 = 79
+Triple
+Team 1 pitcher (Jose Abasto): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: false, base3: [2,0]
+base1: false, base2: false, base3: true
+Score: 0-1
+
+Luca Águila: rng1 = 63 + 6 - 11 + 1 = 59
+rng2 = 71 + 12 - 7 + 1 = 77
+Flyout
+Team 1 pitcher (Jose Abasto): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Calder Martin: rng1 = 44 + 10 - 11 + 1 = 44
+rng2 = 66 + 10 - 7 + 1 = 70
+Flyout
+Team 1 pitcher (Jose Abasto): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 2
+
+Yaniel Benitez: rng1 = 11 + 9 - 6 - 1 = 13
+rng2 = 19 + 13 - 4 - 1 = 27
+Groundout
+Team 2 pitcher (Clévon Fuller): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Isaac Correa: rng1 = 30 + 10 - 6 - 1 = 33
+rng2 = 18 + 11 - 4 - 1 = 24
+Groundout
+Team 2 pitcher (Clévon Fuller): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Watabe Kazuyuki: rng1 = 96 + 5 - 6 - 1 = 94
+rng2 = 91 + 11 - 4 - 1 = 97
+Home run
+Team 2 pitcher (Clévon Fuller): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Iker Pareja: rng1 = 18 + 8 - 6 - 1 = 19
+Strikeout
+Team 2 pitcher (Clévon Fuller): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 2
+
+Suko Masakado: rng1 = 89 + 4 - 11 + 1 = 83
+rng2 = 28 + 10 - 7 + 1 = 32
+Single
+Team 1 pitcher (Jose Abasto): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Cevonte Riley: rng1 = 52 + 6 - 11 + 1 = 48
+rng2 = 79 + 7 - 7 + 1 = 80
+Flyout
+Team 1 pitcher (Jose Abasto): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Reilly Carter: rng1 = 39 + 5 - 11 + 1 = 34
+rng2 = 27 + 5 - 7 + 1 = 26
+Groundout
+Team 1 pitcher (Jose Abasto): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-2
+
+Hayden Ross: rng1 = 80 + 5 - 11 + 1 = 75
+rng2 = 17 + 5 - 7 + 1 = 16
+Single
+Team 1 pitcher (Jose Abasto): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Qua'sean Price: rng1 = 93 + 15 - 11 + 1 = 98
+rng2 = 43 + 12 - 7 + 1 = 49
+Single
+Team 1 pitcher (Jose Abasto): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 2
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-3
+
+Dekion Atkins: rng1 = 73 + 14 - 11 + 1 = 77
+rng2 = 81 + 15 - 7 + 1 = 90
+Double
+Team 1 pitcher (Jose Abasto): 11 batters faced, 5 runs allowed = 11 + 12.5 = 23.5, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-5
+
+Dushane Rice: rng1 = 69 + 11 - 11 + 1 = 70
+Walk
+Team 1 pitcher (Jose Abasto): 12 batters faced, 5 runs allowed = 12 + 12.5 = 24.5, outs: 2
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-5
+
+Luca Águila: rng1 = 54 + 6 - 11 + 1 = 50
+rng2 = 56 + 12 - 7 + 1 = 62
+Flyout
+Team 1 pitcher (Jose Abasto): 13 batters faced, 5 runs allowed = 13 + 12.5 = 25.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+TOP INNING 3
+
+Luis Canales: rng1 = 82 + 8 - 6 - 1 = 83
+rng2 = 64 + 7 - 4 - 1 = 66
+Double
+Team 2 pitcher (Clévon Fuller): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 0
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-5
+
+Santino Alcantara: rng1 = 7 + 7 - 6 - 1 = 7
+Strikeout
+Team 2 pitcher (Clévon Fuller): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-5
+
+Henry Webb: rng1 = 60 + 14 - 6 - 1 = 67
+rng2 = 43 + 14 - 4 - 1 = 52
+Lineout
+Team 2 pitcher (Clévon Fuller): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-5
+
+Liam Green: rng1 = 60 + 13 - 6 - 1 = 66
+rng2 = 80 + 13 - 4 - 1 = 88
+Flyout
+Team 2 pitcher (Clévon Fuller): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+BOTTOM INNING 3
+
+Calder Martin: rng1 = 68 + 10 - 11 + 1 = 68
+rng2 = 85 + 10 - 7 + 1 = 89
+Flyout
+Team 1 pitcher (Jose Abasto): 14 batters faced, 5 runs allowed = 14 + 12.5 = 26.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Suko Masakado: rng1 = 87 + 4 - 11 + 1 = 81
+rng2 = 66 + 10 - 7 + 1 = 70
+Double
+Team 1 pitcher (Jose Abasto): 15 batters faced, 5 runs allowed = 15 + 12.5 = 27.5, outs: 1
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-5
+
+Cevonte Riley: rng1 = 35 + 6 - 11 + 1 = 31
+rng2 = 69 + 7 - 7 + 1 = 70
+Flyout
+Team 1 pitcher (Jose Abasto): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 2
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-5
+
+Reilly Carter: rng1 = 15 + 5 - 11 + 1 = 10
+Strikeout
+Team 1 pitcher (Jose Abasto): 17 batters faced, 5 runs allowed = 17 + 12.5 = 29.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+TOP INNING 4
+
+Serafín Sancho: rng1 = 74 + 10 - 6 - 1 = 77
+rng2 = 51 + 9 - 4 - 1 = 55
+Single
+Team 2 pitcher (Clévon Fuller): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 0
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Yaniel Benitez: rng1 = 48 + 9 - 6 - 1 = 50
+rng2 = 19 + 13 - 4 - 1 = 27
+Groundout
+Team 2 pitcher (Clévon Fuller): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Isaac Correa: rng1 = 87 + 10 - 6 - 1 = 90
+Walk
+Team 2 pitcher (Clévon Fuller): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Watabe Kazuyuki: rng1 = 9 + 5 - 6 - 1 = 7
+Strikeout
+Team 2 pitcher (Clévon Fuller): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+BOTTOM INNING 4
+
+Team 1 pitcher change to Jacobo Pozo
+
+Hayden Ross: rng1 = 79 + 5 - 9 + 1 = 76
+rng2 = 26 + 5 - 10 + 1 = 22
+Single
+Team 1 pitcher (Jacobo Pozo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Qua'sean Price: rng1 = 29 + 15 - 9 + 1 = 36
+rng2 = 21 + 12 - 10 + 1 = 24
+Groundout
+Team 1 pitcher (Jacobo Pozo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Dekion Atkins: rng1 = 79 + 14 - 9 + 1 = 85
+rng2 = 78 + 15 - 10 + 1 = 84
+Home run
+Team 1 pitcher (Jacobo Pozo): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-7
+
+Dushane Rice: rng1 = 97 + 11 - 9 + 1 = 100
+rng2 = 69 + 13 - 10 + 1 = 73
+Double
+Team 1 pitcher (Jacobo Pozo): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: false, base2: [2,1], base3: false
+base1: false, base2: true, base3: false
+Score: 1-7
+
+Luca Águila: rng1 = 19 + 6 - 9 + 1 = 17
+Strikeout
+Team 1 pitcher (Jacobo Pozo): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: false, base2: [2,1], base3: false
+base1: false, base2: true, base3: false
+Score: 1-7
+
+Calder Martin: rng1 = 30 + 10 - 9 + 1 = 32
+rng2 = 22 + 10 - 10 + 1 = 23
+Groundout
+Team 1 pitcher (Jacobo Pozo): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-7
+
+-----------------------
+
+TOP INNING 5
+
+Iker Pareja: rng1 = 65 + 8 - 6 - 1 = 66
+rng2 = 14 + 8 - 4 - 1 = 17
+Groundout
+Team 2 pitcher (Clévon Fuller): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-7
+
+Luis Canales: rng1 = 24 + 8 - 6 - 1 = 25
+Strikeout
+Team 2 pitcher (Clévon Fuller): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-7
+
+Santino Alcantara: rng1 = 72 + 7 - 6 - 1 = 72
+Walk
+Team 2 pitcher (Clévon Fuller): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-7
+
+Henry Webb: rng1 = 86 + 14 - 6 - 1 = 93
+rng2 = 96 + 14 - 4 - 1 = 105
+Home run
+Team 2 pitcher (Clévon Fuller): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Liam Green: rng1 = 24 + 13 - 6 - 1 = 30
+rng2 = 4 + 13 - 4 - 1 = 12
+Groundout
+Team 2 pitcher (Clévon Fuller): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Lee Combs
+
+Suko Masakado: rng1 = 32 + 4 - 12 + 1 = 25
+Strikeout
+Team 1 pitcher (Lee Combs): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Cevonte Riley: rng1 = 3 + 6 - 12 + 1 = -2
+Strikeout
+Team 1 pitcher (Lee Combs): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Reilly Carter: rng1 = 8 + 5 - 12 + 1 = 2
+Strikeout
+Team 1 pitcher (Lee Combs): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+TOP INNING 6
+
+Serafín Sancho: rng1 = 44 + 10 - 6 - 1 = 47
+rng2 = 12 + 9 - 4 - 1 = 16
+Groundout
+Team 2 pitcher (Clévon Fuller): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Yaniel Benitez: rng1 = 65 + 9 - 6 - 1 = 67
+rng2 = 83 + 13 - 4 - 1 = 91
+Flyout
+Team 2 pitcher (Clévon Fuller): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Isaac Correa: rng1 = 10 + 10 - 6 - 1 = 13
+rng2 = 61 + 11 - 4 - 1 = 67
+Flyout
+Team 2 pitcher (Clévon Fuller): 23 batters faced, 3 runs allowed = 23 + 7.5 = 30.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+BOTTOM INNING 6
+
+Hayden Ross: rng1 = 96 + 5 - 12 + 1 = 90
+Walk
+Team 1 pitcher (Lee Combs): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-7
+
+Qua'sean Price: rng1 = 11 + 15 - 12 + 1 = 15
+rng2 = 6 + 12 - 11 + 1 = 8
+Groundout
+Team 1 pitcher (Lee Combs): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [0,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-7
+
+Dekion Atkins: rng1 = 58 + 14 - 12 + 1 = 61
+rng2 = 32 + 15 - 11 + 1 = 37
+Groundout
+Team 1 pitcher (Lee Combs): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-7
+
+Dushane Rice: rng1 = 42 + 11 - 12 + 1 = 42
+rng2 = 78 + 13 - 11 + 1 = 81
+Flyout
+Team 1 pitcher (Lee Combs): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Pae Kwang-Min
+
+Watabe Kazuyuki: rng1 = 1 + 5 - 8 - 1 = -3
+Strikeout
+Team 2 pitcher (Pae Kwang-Min): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Iker Pareja: rng1 = 81 + 8 - 8 - 1 = 80
+rng2 = 45 + 8 - 8 - 1 = 44
+Single
+Team 2 pitcher (Pae Kwang-Min): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-7
+
+Luis Canales: rng1 = 56 + 8 - 8 - 1 = 55
+rng2 = 23 + 7 - 8 - 1 = 21
+Groundout
+Team 2 pitcher (Pae Kwang-Min): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-7
+
+Santino Alcantara: rng1 = 98 + 7 - 8 - 1 = 96
+rng2 = 67 + 6 - 8 - 1 = 64
+Single
+Team 2 pitcher (Pae Kwang-Min): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [8,1], base2: [7,1], base3: false
+base1: true, base2: true, base3: false
+Score: 3-7
+
+Henry Webb: rng1 = 64 + 14 - 8 - 1 = 69
+rng2 = 58 + 14 - 8 - 1 = 63
+Flyout
+Team 2 pitcher (Pae Kwang-Min): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Evan Veselka
+
+Luca Águila: rng1 = 57 + 6 - 12 + 1 = 52
+rng2 = 49 + 12 - 9 + 1 = 53
+Lineout
+Team 1 pitcher (Evan Veselka): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Calder Martin: rng1 = 21 + 10 - 12 + 1 = 20
+Strikeout
+Team 1 pitcher (Evan Veselka): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Suko Masakado: rng1 = 59 + 4 - 12 + 1 = 52
+rng2 = 92 + 10 - 9 + 1 = 94
+Flyout
+Team 1 pitcher (Evan Veselka): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Lucas Gardner
+
+Liam Green: rng1 = 14 + 13 - 7 - 1 = 19
+Strikeout
+Team 2 pitcher (Lucas Gardner): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Serafín Sancho: rng1 = 27 + 10 - 7 - 1 = 29
+rng2 = 8 + 9 - 8 - 1 = 8
+Groundout
+Team 2 pitcher (Lucas Gardner): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Yaniel Benitez: rng1 = 39 + 9 - 7 - 1 = 40
+rng2 = 50 + 13 - 8 - 1 = 54
+Lineout
+Team 2 pitcher (Lucas Gardner): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+BOTTOM INNING 8
+
+Cevonte Riley: rng1 = 71 + 6 - 12 + 1 = 66
+rng2 = 68 + 7 - 9 + 1 = 67
+Flyout
+Team 1 pitcher (Evan Veselka): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Reilly Carter: rng1 = 83 + 5 - 12 + 1 = 77
+rng2 = 55 + 5 - 9 + 1 = 52
+Single
+Team 1 pitcher (Evan Veselka): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [7,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-7
+
+Hayden Ross: rng1 = 96 + 5 - 12 + 1 = 90
+Walk
+Team 1 pitcher (Evan Veselka): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [8,3], base2: [7,3], base3: false
+base1: true, base2: true, base3: false
+Score: 3-7
+
+Qua'sean Price: rng1 = 78 + 15 - 12 + 1 = 82
+rng2 = 74 + 12 - 9 + 1 = 78
+Double
+Team 1 pitcher (Evan Veselka): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 1
+
+base1: false, base2: [0,3], base3: false
+base1: false, base2: true, base3: false
+Score: 3-9
+
+Dekion Atkins: rng1 = 59 + 14 - 12 + 1 = 62
+rng2 = 87 + 15 - 9 + 1 = 94
+Flyout
+Team 1 pitcher (Evan Veselka): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: false, base2: [0,3], base3: false
+base1: false, base2: true, base3: false
+Score: 3-9
+
+Team 1 pitcher change to Jack Wells
+
+Dushane Rice: rng1 = 66 + 11 - 15 + 1 = 63
+rng2 = 32 + 13 - 14 + 1 = 32
+Groundout
+Team 1 pitcher (Jack Wells): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-9
+
+-----------------------
+
+TOP INNING 9
+
+Isaac Correa: rng1 = 31 + 10 - 7 - 1 = 33
+rng2 = 78 + 11 - 8 - 1 = 80
+Flyout
+Team 2 pitcher (Lucas Gardner): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-9
+
+Watabe Kazuyuki: rng1 = 77 + 5 - 7 - 1 = 74
+rng2 = 16 + 11 - 8 - 1 = 18
+Single
+Team 2 pitcher (Lucas Gardner): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-9
+
+Iker Pareja: rng1 = 31 + 8 - 7 - 1 = 31
+rng2 = 66 + 8 - 8 - 1 = 65
+Flyout
+Team 2 pitcher (Lucas Gardner): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-9
+
+Luis Canales: rng1 = 38 + 8 - 7 - 1 = 38
+rng2 = 54 + 7 - 8 - 1 = 52
+Lineout
+Team 2 pitcher (Lucas Gardner): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-9
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 7
+Team 2 hits: 12
+Team 1 runs: 3
+Team 2 runs: 9
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-09-22
+Henry Webb	4	1	1	0	0	1	2	0	0					Vancouver
+Liam Green	4	0	0	0	0	0	0	0	2	
+Serafín Sancho	4	0	1	0	0	0	0	0	0	
+Yaniel Benitez	4	0	0	0	0	0	0	0	0	
+Isaac Correa	3	0	0	0	0	0	0	1	0	
+Watabe Kazuyuki	4	1	2	0	0	1	1	0	2	
+Iker Pareja	4	0	1	0	0	0	0	0	1	
+Luis Canales	4	0	1	1	0	0	0	0	1	
+Santino Alcantara	2	1	1	0	0	0	0	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Jose Abasto	0	1	1	1	0	0	9	7	5	0	1	2	17	
+Jacobo Pozo	0	0	1	0	0	0	3	3	2	1	0	1	6	
+Lee Combs	0	0	1	0	0	0	6	0	0	0	1	3	7	
+Evan Veselka	0	0	1	0	0	0	5	2	2	0	1	1	8	
+Jack Wells	0	0	1	0	0	0	1	0	0	0	0	0	1	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-09-22
+Qua'sean Price	5	2	2	1	0	0	2	0	1					Seattle
+Dekion Atkins	5	2	3	2	0	1	4	0	0	
+Dushane Rice	4	1	2	1	1	0	1	1	0	
+Luca Águila	4	0	0	0	0	0	1	0	1	
+Calder Martin	4	0	0	0	0	0	0	0	1	
+Suko Masakado	4	1	2	1	0	0	0	0	1	
+Cevonte Riley	4	0	0	0	0	0	0	0	1	
+Reilly Carter	4	1	1	0	0	0	0	0	2	
+Hayden Ross	2	2	2	0	0	0	1	2	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Clévon Fuller	1	0	1	1	0	0	18	4	3	2	2	5	23	
+Pae Kwang-Min	0	0	1	0	0	0	3	2	0	0	0	1	5	
+Lucas Gardner	0	0	1	0	0	0	6	1	0	0	0	1	7	
+Jensen Garrish	0	0	0	0	0	0	0	0	0	0	0	0	0	
+August Mantilla	0	0	0	0	0	0	0	0	0	0	0	0	0	

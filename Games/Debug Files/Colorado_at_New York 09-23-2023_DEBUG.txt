@@ -1,0 +1,683 @@
+TOP INNING 1
+
+Hiro Hakayawa: rng1 = 67 + 13 - 9 - 1 = 70
+Walk
+Team 2 pitcher (Jack Patel): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Guillermo Tamayo: rng1 = 58 + 12 - 9 - 1 = 60
+rng2 = 6 + 6 - 8 - 1 = 3
+Groundout
+Team 2 pitcher (Jack Patel): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Zachary Hughes: rng1 = 22 + 10 - 9 - 1 = 22
+Strikeout
+Team 2 pitcher (Jack Patel): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Nicolás Moruga: rng1 = 8 + 12 - 6 + 1 = 15
+rng2 = 53 + 14 - 3 + 1 = 65
+Flyout
+Team 1 pitcher (Valentín Sánchez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Edward Cox: rng1 = 63 + 12 - 6 + 1 = 70
+Walk
+Team 1 pitcher (Valentín Sánchez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Tristian Love: rng1 = 72 + 12 - 6 + 1 = 79
+rng2 = 80 + 11 - 3 + 1 = 89
+Double
+Team 1 pitcher (Valentín Sánchez): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Aldo Gilmore: rng1 = 6 + 10 - 6 + 1 = 11
+rng2 = 53 + 12 - 3 + 1 = 63
+Flyout
+Team 1 pitcher (Valentín Sánchez): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Javier Guillén: rng1 = 40 + 7 - 6 + 1 = 42
+rng2 = 22 + 12 - 3 + 1 = 32
+Groundout
+Team 1 pitcher (Valentín Sánchez): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 2
+
+Micah Zamora: rng1 = 28 + 9 - 9 - 1 = 27
+Strikeout
+Team 2 pitcher (Jack Patel): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Alfredo Encarnacion: rng1 = 34 + 9 - 9 - 1 = 33
+rng2 = 81 + 10 - 8 - 1 = 82
+Flyout
+Team 2 pitcher (Jack Patel): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Felix Alarcón: rng1 = 34 + 5 - 9 - 1 = 29
+rng2 = 48 + 6 - 8 - 1 = 45
+Groundout
+Team 2 pitcher (Jack Patel): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Alexis Shultz: rng1 = 72 + 9 - 6 + 1 = 76
+rng2 = 56 + 9 - 3 + 1 = 63
+Single
+Team 1 pitcher (Valentín Sánchez): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Lucián Chicote: rng1 = 71 + 9 - 6 + 1 = 75
+rng2 = 46 + 9 - 3 + 1 = 53
+Single
+Team 1 pitcher (Valentín Sánchez): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 0
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-1
+
+Joaquín Laguna: rng1 = 79 + 4 - 6 + 1 = 78
+rng2 = 10 + 7 - 3 + 1 = 15
+Single
+Team 1 pitcher (Valentín Sánchez): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 0
+
+base1: [7,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 0-2
+
+Francis Alford: rng1 = 36 + 4 - 6 + 1 = 35
+rng2 = 77 + 6 - 3 + 1 = 81
+Flyout
+Team 1 pitcher (Valentín Sánchez): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Nicolás Moruga: rng1 = 75 + 12 - 6 + 1 = 82
+rng2 = 90 + 14 - 3 + 1 = 102
+Home run
+Team 1 pitcher (Valentín Sánchez): 10 batters faced, 5 runs allowed = 10 + 12.5 = 22.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Edward Cox: rng1 = 62 + 12 - 6 + 1 = 69
+rng2 = 4 + 7 - 3 + 1 = 9
+Groundout
+Team 1 pitcher (Valentín Sánchez): 11 batters faced, 5 runs allowed = 11 + 12.5 = 23.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Tristian Love: rng1 = 62 + 12 - 6 + 1 = 69
+rng2 = 41 + 11 - 3 + 1 = 50
+Lineout
+Team 1 pitcher (Valentín Sánchez): 12 batters faced, 5 runs allowed = 12 + 12.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+TOP INNING 3
+
+Sean Stevens: rng1 = 12 + 4 - 9 - 1 = 6
+Strikeout
+Team 2 pitcher (Jack Patel): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Agustín Molina: rng1 = 67 + 4 - 9 - 1 = 61
+rng2 = 64 + 6 - 8 - 1 = 61
+Flyout
+Team 2 pitcher (Jack Patel): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Dídac Laguna: rng1 = 15 + 6 - 9 - 1 = 11
+rng2 = 4 + 4 - 8 - 1 = -1
+Groundout
+Team 2 pitcher (Jack Patel): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+BOTTOM INNING 3
+
+Aldo Gilmore: rng1 = 65 + 10 - 6 + 1 = 70
+Walk
+Team 1 pitcher (Valentín Sánchez): 13 batters faced, 5 runs allowed = 13 + 12.5 = 25.5, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Javier Guillén: rng1 = 50 + 7 - 6 + 1 = 52
+rng2 = 51 + 12 - 3 + 1 = 61
+Flyout
+Team 1 pitcher (Valentín Sánchez): 14 batters faced, 5 runs allowed = 14 + 12.5 = 26.5, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Alexis Shultz: rng1 = 30 + 9 - 6 + 1 = 34
+rng2 = 96 + 9 - 3 + 1 = 103
+Flyout
+Team 1 pitcher (Valentín Sánchez): 15 batters faced, 5 runs allowed = 15 + 12.5 = 27.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Lucián Chicote: rng1 = 63 + 9 - 6 + 1 = 67
+rng2 = 74 + 9 - 3 + 1 = 81
+Flyout
+Team 1 pitcher (Valentín Sánchez): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+TOP INNING 4
+
+Hiro Hakayawa: rng1 = 59 + 13 - 9 - 1 = 62
+rng2 = 55 + 12 - 8 - 1 = 58
+Lineout
+Team 2 pitcher (Jack Patel): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Guillermo Tamayo: rng1 = 6 + 12 - 9 - 1 = 8
+Strikeout
+Team 2 pitcher (Jack Patel): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Zachary Hughes: rng1 = 71 + 10 - 9 - 1 = 71
+Walk
+Team 2 pitcher (Jack Patel): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Micah Zamora: rng1 = 55 + 9 - 9 - 1 = 54
+rng2 = 76 + 13 - 8 - 1 = 80
+Flyout
+Team 2 pitcher (Jack Patel): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+BOTTOM INNING 4
+
+Joaquín Laguna: rng1 = 87 + 4 - 6 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Valentín Sánchez): 17 batters faced, 5 runs allowed = 17 + 12.5 = 29.5, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Francis Alford: rng1 = 68 + 4 - 6 + 1 = 67
+rng2 = 41 + 6 - 3 + 1 = 45
+Groundout
+Team 1 pitcher (Valentín Sánchez): 18 batters faced, 5 runs allowed = 18 + 12.5 = 30.5, outs: 1
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-5
+
+Nicolás Moruga: rng1 = 3 + 12 - 6 + 1 = 10
+Strikeout
+Team 1 pitcher (Valentín Sánchez): 19 batters faced, 5 runs allowed = 19 + 12.5 = 31.5, outs: 2
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-5
+
+Edward Cox: rng1 = 53 + 12 - 6 + 1 = 60
+rng2 = 7 + 7 - 3 + 1 = 12
+Groundout
+Team 1 pitcher (Valentín Sánchez): 20 batters faced, 5 runs allowed = 20 + 12.5 = 32.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+TOP INNING 5
+
+Alfredo Encarnacion: rng1 = 69 + 9 - 9 - 1 = 68
+rng2 = 73 + 10 - 8 - 1 = 74
+Flyout
+Team 2 pitcher (Jack Patel): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Felix Alarcón: rng1 = 42 + 5 - 9 - 1 = 37
+rng2 = 98 + 6 - 8 - 1 = 95
+Flyout
+Team 2 pitcher (Jack Patel): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Sean Stevens: rng1 = 3 + 4 - 9 - 1 = -3
+Strikeout
+Team 2 pitcher (Jack Patel): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Amante Harvey
+
+Tristian Love: rng1 = 25 + 12 - 12 + 1 = 26
+Strikeout
+Team 1 pitcher (Amante Harvey): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Aldo Gilmore: rng1 = 18 + 10 - 12 + 1 = 17
+Strikeout
+Team 1 pitcher (Amante Harvey): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Javier Guillén: rng1 = 85 + 7 - 12 + 1 = 81
+rng2 = 21 + 12 - 11 + 1 = 23
+Single
+Team 1 pitcher (Amante Harvey): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Alexis Shultz: rng1 = 83 + 9 - 12 + 1 = 81
+rng2 = 45 + 9 - 11 + 1 = 44
+Single
+Team 1 pitcher (Amante Harvey): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [5,1], base2: false, base3: [4,1]
+base1: true, base2: false, base3: true
+Score: 0-5
+
+Lucián Chicote: rng1 = 41 + 9 - 12 + 1 = 39
+rng2 = 72 + 9 - 11 + 1 = 71
+Flyout
+Team 1 pitcher (Amante Harvey): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+TOP INNING 6
+
+Agustín Molina: rng1 = 83 + 4 - 9 - 1 = 77
+rng2 = 32 + 6 - 8 - 1 = 29
+Single
+Team 2 pitcher (Jack Patel): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Dídac Laguna: rng1 = 51 + 6 - 9 - 1 = 47
+rng2 = 51 + 4 - 8 - 1 = 46
+Groundout
+Team 2 pitcher (Jack Patel): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Hiro Hakayawa: rng1 = 39 + 13 - 9 - 1 = 42
+rng2 = 89 + 12 - 8 - 1 = 92
+Flyout
+Team 2 pitcher (Jack Patel): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Lyndon Perell
+
+Joaquín Laguna: rng1 = 17 + 4 - 11 + 1 = 11
+rng2 = 3 + 7 - 11 + 1 = 0
+Groundout
+Team 1 pitcher (Lyndon Perell): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Francis Alford: rng1 = 27 + 4 - 11 + 1 = 21
+Strikeout
+Team 1 pitcher (Lyndon Perell): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Nicolás Moruga: rng1 = 44 + 12 - 11 + 1 = 46
+rng2 = 71 + 14 - 11 + 1 = 75
+Flyout
+Team 1 pitcher (Lyndon Perell): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+TOP INNING 7
+
+Guillermo Tamayo: rng1 = 84 + 12 - 9 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Jack Patel): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Zachary Hughes: rng1 = 34 + 10 - 9 - 1 = 34
+rng2 = 60 + 13 - 8 - 1 = 64
+Flyout
+Team 2 pitcher (Jack Patel): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Micah Zamora: rng1 = 16 + 9 - 9 - 1 = 15
+rng2 = 69 + 13 - 8 - 1 = 73
+Flyout
+Team 2 pitcher (Jack Patel): 22 batters faced, 0 runs allowed = 22 + 0.0 = 22.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Alfredo Encarnacion: rng1 = 78 + 9 - 9 - 1 = 77
+rng2 = 68 + 10 - 8 - 1 = 69
+Double
+Team 2 pitcher (Jack Patel): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 2
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-5
+
+Felix Alarcón: rng1 = 26 + 5 - 9 - 1 = 21
+Strikeout
+Team 2 pitcher (Jack Patel): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+BOTTOM INNING 7
+
+Edward Cox: rng1 = 28 + 12 - 11 + 1 = 30
+rng2 = 88 + 7 - 11 + 1 = 85
+Flyout
+Team 1 pitcher (Lyndon Perell): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Tristian Love: rng1 = 30 + 12 - 11 + 1 = 32
+rng2 = 19 + 11 - 11 + 1 = 20
+Groundout
+Team 1 pitcher (Lyndon Perell): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Aldo Gilmore: rng1 = 40 + 10 - 11 + 1 = 40
+rng2 = 9 + 12 - 11 + 1 = 11
+Groundout
+Team 1 pitcher (Lyndon Perell): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+TOP INNING 8
+
+Sean Stevens: rng1 = 27 + 4 - 9 - 1 = 21
+Strikeout
+Team 2 pitcher (Jack Patel): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Agustín Molina: rng1 = 11 + 4 - 9 - 1 = 5
+Strikeout
+Team 2 pitcher (Jack Patel): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Dídac Laguna: rng1 = 87 + 6 - 9 - 1 = 83
+rng2 = 46 + 4 - 8 - 1 = 41
+Single
+Team 2 pitcher (Jack Patel): 27 batters faced, 1 runs allowed = 27 + 2.5 = 29.5, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Hiro Hakayawa: rng1 = 24 + 13 - 9 - 1 = 27
+Strikeout
+Team 2 pitcher (Jack Patel): 28 batters faced, 1 runs allowed = 28 + 2.5 = 30.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Julio Carrera
+
+Javier Guillén: rng1 = 62 + 7 - 10 + 1 = 60
+rng2 = 62 + 12 - 10 + 1 = 65
+Flyout
+Team 1 pitcher (Julio Carrera): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Alexis Shultz: rng1 = 94 + 9 - 10 + 1 = 94
+rng2 = 93 + 9 - 10 + 1 = 93
+Triple
+Team 1 pitcher (Julio Carrera): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: [5,3]
+base1: false, base2: false, base3: true
+Score: 1-5
+
+Lucián Chicote: rng1 = 71 + 9 - 10 + 1 = 71
+Walk
+Team 1 pitcher (Julio Carrera): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [6,3], base2: false, base3: [5,3]
+base1: true, base2: false, base3: true
+Score: 1-5
+
+Joaquín Laguna: rng1 = 38 + 4 - 10 + 1 = 33
+rng2 = 39 + 7 - 10 + 1 = 37
+Groundout
+Team 1 pitcher (Julio Carrera): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: [6,3], base3: [5,3]
+base1: false, base2: true, base3: true
+Score: 1-5
+
+Francis Alford: rng1 = 16 + 4 - 10 + 1 = 11
+rng2 = 28 + 6 - 10 + 1 = 25
+Groundout
+Team 1 pitcher (Julio Carrera): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Shane Moran
+
+Guillermo Tamayo: rng1 = 47 + 12 - 9 - 1 = 49
+rng2 = 88 + 6 - 10 - 1 = 83
+Flyout
+Team 2 pitcher (Shane Moran): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Zachary Hughes: rng1 = 53 + 10 - 9 - 1 = 53
+rng2 = 37 + 13 - 10 - 1 = 39
+Groundout
+Team 2 pitcher (Shane Moran): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Micah Zamora: rng1 = 16 + 9 - 9 - 1 = 15
+rng2 = 22 + 13 - 10 - 1 = 24
+Groundout
+Team 2 pitcher (Shane Moran): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 3
+Team 2 hits: 8
+Team 1 runs: 1
+Team 2 runs: 5
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-09-23
+Hiro Hakayawa	3	0	0	0	0	0	0	1	1					Colorado
+Guillermo Tamayo	3	1	0	0	0	0	0	0	1	
+Zachary Hughes	3	0	0	0	0	0	0	1	1	
+Micah Zamora	4	0	0	0	0	0	0	0	1	
+Alfredo Encarnacion	3	0	1	1	0	0	1	0	0	
+Felix Alarcón	3	0	0	0	0	0	0	0	1	
+Sean Stevens	3	0	0	0	0	0	0	0	3	
+Agustín Molina	3	0	1	0	0	0	0	0	1	
+Dídac Laguna	3	0	1	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Valentín Sánchez	0	1	1	1	0	0	12	5	5	1	2	1	20	
+Amante Harvey	0	0	1	0	0	0	3	2	0	0	0	2	5	
+Lyndon Perell	0	0	1	0	0	0	6	0	0	0	0	1	6	
+Julio Carrera	0	0	1	0	0	0	3	1	0	0	1	0	5	
+Marquis Haynes	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-09-23
+Nicolás Moruga	4	1	1	0	0	1	2	0	1					New York
+Edward Cox	3	1	0	0	0	0	0	1	0	
+Tristian Love	4	0	1	1	0	0	1	0	1	
+Aldo Gilmore	3	0	0	0	0	0	0	1	1	
+Javier Guillén	4	0	1	0	0	0	0	0	0	
+Alexis Shultz	4	1	3	0	1	0	0	0	0	
+Lucián Chicote	3	1	1	0	0	0	0	1	0	
+Joaquín Laguna	3	1	1	0	0	0	1	0	0	
+Francis Alford	4	0	0	0	0	0	1	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Jack Patel	1	0	1	1	0	0	24	3	1	0	2	9	28	
+Shane Moran	0	0	1	0	0	0	3	0	0	0	0	0	3	
+Johan Cortez	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Trey Hendrickson	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Christopher Jones	0	0	0	0	0	0	0	0	0	0	0	0	0	

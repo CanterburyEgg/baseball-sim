@@ -1,0 +1,717 @@
+TOP INNING 1
+
+Cody Henderson: rng1 = 22 + 15 - 12 - 1 = 24
+Strikeout
+Team 2 pitcher (Jordan Burns): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Kieran Byrne: rng1 = 90 + 13 - 12 - 1 = 90
+Walk
+Team 2 pitcher (Jordan Burns): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Xavier Washington: rng1 = 69 + 13 - 12 - 1 = 69
+rng2 = 9 + 14 - 12 - 1 = 10
+Groundout
+Team 2 pitcher (Jordan Burns): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Anthony Bennett: rng1 = 30 + 12 - 12 - 1 = 29
+rng2 = 5 + 13 - 12 - 1 = 5
+Groundout
+Team 2 pitcher (Jordan Burns): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+George Nagle: rng1 = 53 + 15 - 9 + 1 = 60
+rng2 = 3 + 15 - 9 + 1 = 10
+Groundout
+Team 1 pitcher (Jonatan Velazquez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Lawrence Randolph: rng1 = 86 + 15 - 9 + 1 = 93
+rng2 = 73 + 13 - 9 + 1 = 78
+Double
+Team 1 pitcher (Jonatan Velazquez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Antonio Carrera: rng1 = 45 + 12 - 9 + 1 = 49
+rng2 = 89 + 11 - 9 + 1 = 92
+Flyout
+Team 1 pitcher (Jonatan Velazquez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: [1,0]
+base1: false, base2: false, base3: true
+Score: 0-0
+
+Jason Burress: rng1 = 54 + 10 - 9 + 1 = 56
+rng2 = 91 + 8 - 9 + 1 = 91
+Flyout
+Team 1 pitcher (Jonatan Velazquez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Jadon Mitchell: rng1 = 30 + 12 - 12 - 1 = 29
+rng2 = 53 + 12 - 12 - 1 = 52
+Lineout
+Team 2 pitcher (Jordan Burns): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Elliot Hudson: rng1 = 13 + 9 - 12 - 1 = 9
+Strikeout
+Team 2 pitcher (Jordan Burns): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Aaron Vera: rng1 = 44 + 9 - 12 - 1 = 40
+rng2 = 57 + 8 - 12 - 1 = 52
+Lineout
+Team 2 pitcher (Jordan Burns): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Noah Fontenot: rng1 = 2 + 12 - 9 + 1 = 6
+Strikeout
+Team 1 pitcher (Jonatan Velazquez): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Dante Arias: rng1 = 20 + 11 - 9 + 1 = 23
+Strikeout
+Team 1 pitcher (Jonatan Velazquez): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Bautista Saelices: rng1 = 6 + 9 - 9 + 1 = 7
+Strikeout
+Team 1 pitcher (Jonatan Velazquez): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 3
+
+César Botín: rng1 = 92 + 8 - 12 - 1 = 87
+Walk
+Team 2 pitcher (Jordan Burns): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Joshua Fontina: rng1 = 95 + 4 - 12 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Jordan Burns): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 0
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Cody Henderson: rng1 = 67 + 15 - 12 - 1 = 69
+rng2 = 14 + 14 - 12 - 1 = 15
+Groundout
+Team 2 pitcher (Jordan Burns): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Kieran Byrne: rng1 = 1 + 13 - 12 - 1 = 1
+Strikeout
+Team 2 pitcher (Jordan Burns): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 2
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Xavier Washington: rng1 = 73 + 13 - 12 - 1 = 73
+rng2 = 82 + 14 - 12 - 1 = 83
+Home run
+Team 2 pitcher (Jordan Burns): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Anthony Bennett: rng1 = 31 + 12 - 12 - 1 = 30
+rng2 = 82 + 13 - 12 - 1 = 82
+Flyout
+Team 2 pitcher (Jordan Burns): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Terry Schroeder: rng1 = 68 + 8 - 9 + 1 = 68
+rng2 = 2 + 5 - 9 + 1 = -1
+Groundout
+Team 1 pitcher (Jonatan Velazquez): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Xavier Sanford: rng1 = 53 + 6 - 9 + 1 = 51
+rng2 = 43 + 4 - 9 + 1 = 39
+Groundout
+Team 1 pitcher (Jonatan Velazquez): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+George Nagle: rng1 = 51 + 15 - 9 + 1 = 58
+rng2 = 90 + 15 - 9 + 1 = 97
+Flyout
+Team 1 pitcher (Jonatan Velazquez): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+TOP INNING 4
+
+Jadon Mitchell: rng1 = 43 + 12 - 12 - 1 = 42
+rng2 = 2 + 12 - 12 - 1 = 1
+Groundout
+Team 2 pitcher (Jordan Burns): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Elliot Hudson: rng1 = 84 + 9 - 12 - 1 = 80
+rng2 = 38 + 10 - 12 - 1 = 35
+Single
+Team 2 pitcher (Jordan Burns): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Aaron Vera: rng1 = 1 + 9 - 12 - 1 = -3
+Strikeout
+Team 2 pitcher (Jordan Burns): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+César Botín: rng1 = 91 + 8 - 12 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Jordan Burns): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 2
+
+base1: [7,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-0
+
+Joshua Fontina: rng1 = 49 + 4 - 12 - 1 = 40
+rng2 = 97 + 7 - 12 - 1 = 91
+Flyout
+Team 2 pitcher (Jordan Burns): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 4
+
+Lawrence Randolph: rng1 = 5 + 15 - 9 + 1 = 12
+rng2 = 55 + 13 - 9 + 1 = 60
+Flyout
+Team 1 pitcher (Jonatan Velazquez): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Antonio Carrera: rng1 = 3 + 12 - 9 + 1 = 7
+Strikeout
+Team 1 pitcher (Jonatan Velazquez): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Jason Burress: rng1 = 99 + 10 - 9 + 1 = 101
+rng2 = 79 + 8 - 9 + 1 = 79
+Triple
+Team 1 pitcher (Jonatan Velazquez): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 2
+
+base1: false, base2: false, base3: [3,0]
+base1: false, base2: false, base3: true
+Score: 3-0
+
+Noah Fontenot: rng1 = 78 + 12 - 9 + 1 = 82
+rng2 = 100 + 7 - 9 + 1 = 99
+Home run
+Team 1 pitcher (Jonatan Velazquez): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Dante Arias: rng1 = 4 + 11 - 9 + 1 = 7
+Strikeout
+Team 1 pitcher (Jonatan Velazquez): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+TOP INNING 5
+
+Cody Henderson: rng1 = 80 + 15 - 12 - 1 = 82
+rng2 = 48 + 14 - 12 - 1 = 49
+Single
+Team 2 pitcher (Jordan Burns): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Kieran Byrne: rng1 = 10 + 13 - 12 - 1 = 10
+Strikeout
+Team 2 pitcher (Jordan Burns): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Xavier Washington: rng1 = 53 + 13 - 12 - 1 = 53
+rng2 = 12 + 14 - 12 - 1 = 13
+Groundout
+Team 2 pitcher (Jordan Burns): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-2
+
+Anthony Bennett: rng1 = 51 + 12 - 12 - 1 = 50
+rng2 = 69 + 13 - 12 - 1 = 69
+Flyout
+Team 2 pitcher (Jordan Burns): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+BOTTOM INNING 5
+
+Bautista Saelices: rng1 = 39 + 9 - 9 + 1 = 40
+rng2 = 53 + 8 - 9 + 1 = 53
+Lineout
+Team 1 pitcher (Jonatan Velazquez): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Terry Schroeder: rng1 = 73 + 8 - 9 + 1 = 73
+rng2 = 69 + 5 - 9 + 1 = 66
+Double
+Team 1 pitcher (Jonatan Velazquez): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 1
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-2
+
+Xavier Sanford: rng1 = 86 + 6 - 9 + 1 = 84
+rng2 = 57 + 4 - 9 + 1 = 53
+Single
+Team 1 pitcher (Jonatan Velazquez): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+George Nagle: rng1 = 24 + 15 - 9 + 1 = 31
+rng2 = 6 + 15 - 9 + 1 = 13
+Groundout
+Team 1 pitcher (Jonatan Velazquez): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 2
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-3
+
+Lawrence Randolph: rng1 = 85 + 15 - 9 + 1 = 92
+rng2 = 94 + 13 - 9 + 1 = 99
+Home run
+Team 1 pitcher (Jonatan Velazquez): 20 batters faced, 5 runs allowed = 20 + 12.5 = 32.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Antonio Carrera: rng1 = 75 + 12 - 9 + 1 = 79
+rng2 = 89 + 11 - 9 + 1 = 92
+Double
+Team 1 pitcher (Jonatan Velazquez): 21 batters faced, 5 runs allowed = 21 + 12.5 = 33.5, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-5
+
+Jason Burress: rng1 = 39 + 10 - 9 + 1 = 41
+rng2 = 96 + 8 - 9 + 1 = 96
+Flyout
+Team 1 pitcher (Jonatan Velazquez): 22 batters faced, 5 runs allowed = 22 + 12.5 = 34.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+TOP INNING 6
+
+Jadon Mitchell: rng1 = 24 + 12 - 12 - 1 = 23
+Strikeout
+Team 2 pitcher (Jordan Burns): 23 batters faced, 3 runs allowed = 23 + 7.5 = 30.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Elliot Hudson: rng1 = 20 + 9 - 12 - 1 = 16
+Strikeout
+Team 2 pitcher (Jordan Burns): 24 batters faced, 3 runs allowed = 24 + 7.5 = 31.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Aaron Vera: rng1 = 15 + 9 - 12 - 1 = 11
+rng2 = 24 + 8 - 12 - 1 = 19
+Groundout
+Team 2 pitcher (Jordan Burns): 25 batters faced, 3 runs allowed = 25 + 7.5 = 32.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Foster Roebuck
+
+Noah Fontenot: rng1 = 51 + 12 - 9 + 1 = 55
+rng2 = 55 + 7 - 9 + 1 = 54
+Lineout
+Team 1 pitcher (Foster Roebuck): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Dante Arias: rng1 = 88 + 11 - 9 + 1 = 91
+rng2 = 79 + 7 - 9 + 1 = 78
+Double
+Team 1 pitcher (Foster Roebuck): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [5,1], base3: false
+base1: false, base2: true, base3: false
+Score: 3-5
+
+Bautista Saelices: rng1 = 73 + 9 - 9 + 1 = 74
+rng2 = 92 + 8 - 9 + 1 = 92
+Double
+Team 1 pitcher (Foster Roebuck): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [6,1], base3: false
+base1: false, base2: true, base3: false
+Score: 3-6
+
+Terry Schroeder: rng1 = 75 + 8 - 9 + 1 = 75
+rng2 = 48 + 5 - 9 + 1 = 45
+Single
+Team 1 pitcher (Foster Roebuck): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-7
+
+Xavier Sanford: rng1 = 28 + 6 - 9 + 1 = 26
+Strikeout
+Team 1 pitcher (Foster Roebuck): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-7
+
+George Nagle: rng1 = 18 + 15 - 9 + 1 = 25
+Strikeout
+Team 1 pitcher (Foster Roebuck): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Taylor Murphy
+
+César Botín: rng1 = 25 + 8 - 15 - 1 = 17
+Strikeout
+Team 2 pitcher (Taylor Murphy): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Joshua Fontina: rng1 = 17 + 4 - 15 - 1 = 5
+Strikeout
+Team 2 pitcher (Taylor Murphy): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Cody Henderson: rng1 = 70 + 15 - 15 - 1 = 69
+rng2 = 8 + 14 - 14 - 1 = 7
+Groundout
+Team 2 pitcher (Taylor Murphy): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Craig Valencis
+
+Lawrence Randolph: rng1 = 12 + 15 - 8 + 1 = 20
+Strikeout
+Team 1 pitcher (Craig Valencis): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Antonio Carrera: rng1 = 49 + 12 - 8 + 1 = 54
+rng2 = 16 + 11 - 9 + 1 = 19
+Groundout
+Team 1 pitcher (Craig Valencis): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Jason Burress: rng1 = 94 + 10 - 8 + 1 = 97
+rng2 = 49 + 8 - 9 + 1 = 49
+Single
+Team 1 pitcher (Craig Valencis): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [3,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-7
+
+Noah Fontenot: rng1 = 41 + 12 - 8 + 1 = 46
+rng2 = 94 + 7 - 9 + 1 = 93
+Flyout
+Team 1 pitcher (Craig Valencis): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+TOP INNING 8
+
+Kieran Byrne: rng1 = 38 + 13 - 15 - 1 = 35
+rng2 = 41 + 12 - 14 - 1 = 38
+Groundout
+Team 2 pitcher (Taylor Murphy): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Xavier Washington: rng1 = 74 + 13 - 15 - 1 = 71
+Walk
+Team 2 pitcher (Taylor Murphy): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-7
+
+Anthony Bennett: rng1 = 51 + 12 - 15 - 1 = 47
+rng2 = 93 + 13 - 14 - 1 = 91
+Flyout
+Team 2 pitcher (Taylor Murphy): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-7
+
+Jadon Mitchell: rng1 = 70 + 12 - 15 - 1 = 66
+rng2 = 10 + 12 - 14 - 1 = 7
+Groundout
+Team 2 pitcher (Taylor Murphy): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+BOTTOM INNING 8
+
+Dante Arias: rng1 = 96 + 11 - 8 + 1 = 100
+rng2 = 53 + 7 - 9 + 1 = 52
+Single
+Team 1 pitcher (Craig Valencis): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-7
+
+Bautista Saelices: rng1 = 34 + 9 - 8 + 1 = 36
+rng2 = 37 + 8 - 9 + 1 = 37
+Groundout
+Team 1 pitcher (Craig Valencis): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Terry Schroeder: rng1 = 73 + 8 - 8 + 1 = 74
+rng2 = 26 + 5 - 9 + 1 = 23
+Single
+Team 1 pitcher (Craig Valencis): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-7
+
+Xavier Sanford: rng1 = 69 + 6 - 8 + 1 = 68
+rng2 = 73 + 4 - 9 + 1 = 69
+Flyout
+Team 1 pitcher (Craig Valencis): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Rodrigo Valerio
+
+Elliot Hudson: rng1 = 16 + 9 - 10 - 1 = 14
+rng2 = 91 + 10 - 9 - 1 = 91
+Flyout
+Team 2 pitcher (Rodrigo Valerio): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Aaron Vera: rng1 = 71 + 9 - 10 - 1 = 69
+rng2 = 39 + 8 - 9 - 1 = 37
+Groundout
+Team 2 pitcher (Rodrigo Valerio): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+César Botín: rng1 = 70 + 8 - 10 - 1 = 67
+rng2 = 32 + 6 - 9 - 1 = 28
+Groundout
+Team 2 pitcher (Rodrigo Valerio): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 3
+Team 2 hits: 13
+Team 1 runs: 3
+Team 2 runs: 7
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-10-04
+Cody Henderson	4	1	1	0	0	0	0	0	1					Houston
+Kieran Byrne	3	0	0	0	0	0	0	1	2	
+Xavier Washington	3	1	1	0	0	1	3	1	0	
+Anthony Bennett	4	0	0	0	0	0	0	0	0	
+Jadon Mitchell	4	0	0	0	0	0	0	0	1	
+Elliot Hudson	4	0	1	0	0	0	0	0	2	
+Aaron Vera	4	0	0	0	0	0	0	0	1	
+César Botín	2	0	0	0	0	0	0	1	1	
+Joshua Fontina	2	1	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Jonatan Velazquez	0	1	1	1	0	0	15	7	5	2	0	5	22	
+Foster Roebuck	0	0	1	0	0	0	3	3	2	0	0	2	6	
+Craig Valencis	0	0	1	0	0	0	6	3	0	0	0	1	8	
+Ryu Shi-Woo	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Gideon Giles	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-10-04
+George Nagle	4	0	0	0	0	0	0	0	1					Las Vegas
+Lawrence Randolph	4	1	2	1	0	1	2	0	1	
+Antonio Carrera	4	0	1	1	0	0	0	0	1	
+Jason Burress	4	1	2	0	1	0	0	0	0	
+Noah Fontenot	4	1	1	0	0	1	2	0	1	
+Dante Arias	4	1	2	1	0	0	0	0	2	
+Bautista Saelices	4	1	1	1	0	0	1	0	1	
+Terry Schroeder	4	1	3	1	0	0	1	0	0	
+Xavier Sanford	4	1	1	0	0	0	1	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Jordan Burns	1	0	1	1	0	0	18	3	3	1	2	7	25	
+Taylor Murphy	0	0	1	0	0	0	6	0	0	0	1	2	7	
+Rodrigo Valerio	0	0	1	0	0	0	3	0	0	0	0	0	3	
+Phil Segee	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Macos Alguacil	0	0	0	0	0	0	0	0	0	0	0	0	0	

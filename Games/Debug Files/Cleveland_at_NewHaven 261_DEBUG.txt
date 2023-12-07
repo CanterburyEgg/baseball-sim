@@ -1,0 +1,783 @@
+TOP INNING 1
+
+Rafael Figueroa: rng1 = 4 + 16 - 7 - 1 = 12
+rng2 = 49 + 9 - 9 - 1 = 48
+Lineout
+Team 2 pitcher (Ed Wolfe): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Martin Holland: rng1 = 90 + 15 - 7 - 1 = 97
+rng2 = 1 + 7 - 9 - 1 = -2
+Single
+Team 2 pitcher (Ed Wolfe): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Phil Hill: rng1 = 62 + 13 - 7 - 1 = 67
+rng2 = 51 + 9 - 9 - 1 = 50
+Lineout
+Team 2 pitcher (Ed Wolfe): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Hernan Pereira: rng1 = 5 + 12 - 7 - 1 = 9
+Strikeout
+Team 2 pitcher (Ed Wolfe): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Logan Chambers: rng1 = 80 + 14 - 7 + 1 = 88
+Walk
+Team 1 pitcher (Edward Stevens): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+David Hunter: rng1 = 15 + 11 - 7 + 1 = 20
+Strikeout
+Team 1 pitcher (Edward Stevens): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Travis Nichols: rng1 = 39 + 11 - 7 + 1 = 44
+rng2 = 44 + 9 - 5 + 1 = 49
+Lineout
+Team 1 pitcher (Edward Stevens): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Duante Jones: rng1 = 12 + 5 - 7 + 1 = 11
+rng2 = 48 + 13 - 5 + 1 = 57
+Lineout
+Team 1 pitcher (Edward Stevens): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Federico Taveras: rng1 = 6 + 11 - 7 - 1 = 9
+Strikeout
+Team 2 pitcher (Ed Wolfe): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Hano Hiroki: rng1 = 11 + 10 - 7 - 1 = 13
+rng2 = 81 + 10 - 9 - 1 = 81
+Flyout
+Team 2 pitcher (Ed Wolfe): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Ricky Bowers: rng1 = 85 + 13 - 7 - 1 = 90
+Walk
+Team 2 pitcher (Ed Wolfe): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Yon Shin-Young: rng1 = 86 + 7 - 7 - 1 = 85
+rng2 = 76 + 9 - 9 - 1 = 75
+Double
+Team 2 pitcher (Ed Wolfe): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Alfonso Manzanedo: rng1 = 3 + 6 - 7 - 1 = 1
+Strikeout
+Team 2 pitcher (Ed Wolfe): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Whalen Tate: rng1 = 78 + 5 - 7 + 1 = 77
+rng2 = 38 + 12 - 5 + 1 = 46
+Single
+Team 1 pitcher (Edward Stevens): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Juan Bolton: rng1 = 17 + 5 - 7 + 1 = 16
+Strikeout
+Team 1 pitcher (Edward Stevens): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Dan Robertson: rng1 = 63 + 7 - 7 + 1 = 64
+rng2 = 49 + 9 - 5 + 1 = 54
+Lineout
+Team 1 pitcher (Edward Stevens): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Zahir Burgos: rng1 = 20 + 8 - 7 + 1 = 22
+Strikeout
+Team 1 pitcher (Edward Stevens): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 3
+
+Rafael Figueroa: rng1 = 46 + 16 - 7 - 1 = 54
+rng2 = 67 + 9 - 9 - 1 = 66
+Flyout
+Team 2 pitcher (Ed Wolfe): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Martin Holland: rng1 = 68 + 15 - 7 - 1 = 75
+rng2 = 65 + 7 - 9 - 1 = 62
+Single
+Team 2 pitcher (Ed Wolfe): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Phil Hill: rng1 = 84 + 13 - 7 - 1 = 89
+Walk
+Team 2 pitcher (Ed Wolfe): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Hernan Pereira: rng1 = 4 + 12 - 7 - 1 = 8
+Strikeout
+Team 2 pitcher (Ed Wolfe): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 2
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Federico Taveras: rng1 = 28 + 11 - 7 - 1 = 31
+rng2 = 90 + 12 - 9 - 1 = 92
+Flyout
+Team 2 pitcher (Ed Wolfe): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Cory Vance: rng1 = 2 + 7 - 7 + 1 = 3
+Strikeout
+Team 1 pitcher (Edward Stevens): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Logan Chambers: rng1 = 33 + 14 - 7 + 1 = 41
+rng2 = 66 + 7 - 5 + 1 = 69
+Flyout
+Team 1 pitcher (Edward Stevens): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+David Hunter: rng1 = 74 + 11 - 7 + 1 = 79
+rng2 = 45 + 10 - 5 + 1 = 51
+Single
+Team 1 pitcher (Edward Stevens): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Travis Nichols: rng1 = 99 + 11 - 7 + 1 = 104
+rng2 = 80 + 9 - 5 + 1 = 85
+Home run
+Team 1 pitcher (Edward Stevens): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Duante Jones: rng1 = 71 + 5 - 7 + 1 = 70
+Walk
+Team 1 pitcher (Edward Stevens): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Whalen Tate: rng1 = 34 + 5 - 7 + 1 = 33
+rng2 = 78 + 12 - 5 + 1 = 86
+Flyout
+Team 1 pitcher (Edward Stevens): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 4
+
+Hano Hiroki: rng1 = 5 + 10 - 7 - 1 = 7
+Strikeout
+Team 2 pitcher (Ed Wolfe): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Ricky Bowers: rng1 = 20 + 13 - 7 - 1 = 25
+Strikeout
+Team 2 pitcher (Ed Wolfe): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Yon Shin-Young: rng1 = 51 + 7 - 7 - 1 = 50
+rng2 = 97 + 9 - 9 - 1 = 96
+Flyout
+Team 2 pitcher (Ed Wolfe): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 4
+
+Juan Bolton: rng1 = 95 + 5 - 7 + 1 = 94
+rng2 = 7 + 10 - 5 + 1 = 13
+Single
+Team 1 pitcher (Edward Stevens): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Dan Robertson: rng1 = 76 + 7 - 7 + 1 = 77
+rng2 = 83 + 9 - 5 + 1 = 88
+Double
+Team 1 pitcher (Edward Stevens): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 0
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-3
+
+Zahir Burgos: rng1 = 54 + 8 - 7 + 1 = 56
+rng2 = 57 + 8 - 5 + 1 = 61
+Flyout
+Team 1 pitcher (Edward Stevens): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 1
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-3
+
+Cory Vance: rng1 = 63 + 7 - 7 + 1 = 64
+rng2 = 53 + 6 - 5 + 1 = 55
+Lineout
+Team 1 pitcher (Edward Stevens): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 2
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-3
+
+Logan Chambers: rng1 = 46 + 14 - 7 + 1 = 54
+rng2 = 88 + 7 - 5 + 1 = 91
+Flyout
+Team 1 pitcher (Edward Stevens): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 5
+
+Alfonso Manzanedo: rng1 = 27 + 6 - 7 - 1 = 25
+Strikeout
+Team 2 pitcher (Ed Wolfe): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Rafael Figueroa: rng1 = 71 + 16 - 7 - 1 = 79
+rng2 = 62 + 9 - 9 - 1 = 61
+Single
+Team 2 pitcher (Ed Wolfe): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Martin Holland: rng1 = 15 + 15 - 7 - 1 = 22
+Strikeout
+Team 2 pitcher (Ed Wolfe): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Phil Hill: rng1 = 23 + 13 - 7 - 1 = 28
+Strikeout
+Team 2 pitcher (Ed Wolfe): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+BOTTOM INNING 5
+
+David Hunter: rng1 = 74 + 11 - 7 + 1 = 79
+rng2 = 6 + 10 - 5 + 1 = 12
+Single
+Team 1 pitcher (Edward Stevens): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Travis Nichols: rng1 = 9 + 11 - 7 + 1 = 14
+rng2 = 82 + 9 - 5 + 1 = 87
+Flyout
+Team 1 pitcher (Edward Stevens): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Duante Jones: rng1 = 91 + 5 - 7 + 1 = 90
+Walk
+Team 1 pitcher (Edward Stevens): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 1
+
+base1: [3,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-3
+
+Whalen Tate: rng1 = 95 + 5 - 7 + 1 = 94
+rng2 = 93 + 12 - 5 + 1 = 101
+Home run
+Team 1 pitcher (Edward Stevens): 23 batters faced, 6 runs allowed = 23 + 15.0 = 38.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Team 1 pitcher change to Dario Peralta
+
+Juan Bolton: rng1 = 85 + 5 - 9 + 1 = 82
+rng2 = 6 + 10 - 8 + 1 = 9
+Single
+Team 1 pitcher (Dario Peralta): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Dan Robertson: rng1 = 5 + 7 - 9 + 1 = 4
+Strikeout
+Team 1 pitcher (Dario Peralta): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Zahir Burgos: rng1 = 98 + 8 - 9 + 1 = 98
+rng2 = 10 + 8 - 8 + 1 = 11
+Single
+Team 1 pitcher (Dario Peralta): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [7,1], base2: false, base3: [5,1]
+base1: true, base2: false, base3: true
+Score: 1-6
+
+Cory Vance: rng1 = 37 + 7 - 9 + 1 = 36
+rng2 = 39 + 6 - 8 + 1 = 38
+Groundout
+Team 1 pitcher (Dario Peralta): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 6
+
+Hernan Pereira: rng1 = 36 + 12 - 7 - 1 = 40
+rng2 = 13 + 15 - 9 - 1 = 18
+Groundout
+Team 2 pitcher (Ed Wolfe): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Federico Taveras: rng1 = 86 + 11 - 7 - 1 = 89
+Walk
+Team 2 pitcher (Ed Wolfe): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Hano Hiroki: rng1 = 26 + 10 - 7 - 1 = 28
+Strikeout
+Team 2 pitcher (Ed Wolfe): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Ricky Bowers: rng1 = 72 + 13 - 7 - 1 = 77
+rng2 = 11 + 7 - 9 - 1 = 8
+Single
+Team 2 pitcher (Ed Wolfe): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 2
+
+base1: [6,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-6
+
+Yon Shin-Young: rng1 = 2 + 7 - 7 - 1 = 1
+Strikeout
+Team 2 pitcher (Ed Wolfe): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+BOTTOM INNING 6
+
+Logan Chambers: rng1 = 99 + 14 - 9 + 1 = 105
+rng2 = 19 + 7 - 8 + 1 = 19
+Single
+Team 1 pitcher (Dario Peralta): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+David Hunter: rng1 = 70 + 11 - 9 + 1 = 73
+rng2 = 35 + 10 - 8 + 1 = 38
+Single
+Team 1 pitcher (Dario Peralta): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 0
+
+base1: [1,1], base2: [0,1], base3: false
+base1: true, base2: true, base3: false
+Score: 1-6
+
+Travis Nichols: rng1 = 20 + 11 - 9 + 1 = 23
+Strikeout
+Team 1 pitcher (Dario Peralta): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [1,1], base2: [0,1], base3: false
+base1: true, base2: true, base3: false
+Score: 1-6
+
+Duante Jones: rng1 = 26 + 5 - 9 + 1 = 23
+Strikeout
+Team 1 pitcher (Dario Peralta): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [1,1], base2: [0,1], base3: false
+base1: true, base2: true, base3: false
+Score: 1-6
+
+Whalen Tate: rng1 = 92 + 5 - 9 + 1 = 89
+Walk
+Team 1 pitcher (Dario Peralta): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: [4,1], base2: [1,1], base3: [0,1]
+base1: true, base2: true, base3: true
+Score: 1-6
+
+Juan Bolton: rng1 = 95 + 5 - 9 + 1 = 92
+rng2 = 73 + 10 - 8 + 1 = 76
+Double
+Team 1 pitcher (Dario Peralta): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 2
+
+base1: false, base2: [5,1], base3: [4,1]
+base1: false, base2: true, base3: true
+Score: 1-8
+
+Team 1 pitcher change to Jesus Perez
+
+Dan Robertson: rng1 = 57 + 7 - 6 + 1 = 59
+rng2 = 40 + 9 - 7 + 1 = 43
+Groundout
+Team 1 pitcher (Jesus Perez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-8
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Rob Bowman
+
+Alfonso Manzanedo: rng1 = 53 + 6 - 10 - 1 = 48
+rng2 = 43 + 8 - 14 - 1 = 36
+Groundout
+Team 2 pitcher (Rob Bowman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-8
+
+Rafael Figueroa: rng1 = 45 + 16 - 10 - 1 = 50
+rng2 = 23 + 9 - 14 - 1 = 17
+Groundout
+Team 2 pitcher (Rob Bowman): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-8
+
+Martin Holland: rng1 = 91 + 15 - 10 - 1 = 95
+rng2 = 18 + 7 - 14 - 1 = 10
+Single
+Team 2 pitcher (Rob Bowman): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-8
+
+Phil Hill: rng1 = 32 + 13 - 10 - 1 = 34
+rng2 = 4 + 9 - 14 - 1 = -2
+Groundout
+Team 2 pitcher (Rob Bowman): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-8
+
+-----------------------
+
+BOTTOM INNING 7
+
+Zahir Burgos: rng1 = 28 + 8 - 6 + 1 = 31
+rng2 = 9 + 8 - 7 + 1 = 11
+Groundout
+Team 1 pitcher (Jesus Perez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-8
+
+Cory Vance: rng1 = 14 + 7 - 6 + 1 = 16
+Strikeout
+Team 1 pitcher (Jesus Perez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-8
+
+Logan Chambers: rng1 = 67 + 14 - 6 + 1 = 76
+rng2 = 96 + 7 - 7 + 1 = 97
+Home run
+Team 1 pitcher (Jesus Perez): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-9
+
+David Hunter: rng1 = 26 + 11 - 6 + 1 = 32
+rng2 = 47 + 10 - 7 + 1 = 51
+Lineout
+Team 1 pitcher (Jesus Perez): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-9
+
+-----------------------
+
+TOP INNING 8
+
+Hernan Pereira: rng1 = 22 + 12 - 10 - 1 = 23
+Strikeout
+Team 2 pitcher (Rob Bowman): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-9
+
+Federico Taveras: rng1 = 95 + 11 - 10 - 1 = 95
+rng2 = 73 + 12 - 14 - 1 = 70
+Double
+Team 2 pitcher (Rob Bowman): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: [4,1], base3: false
+base1: false, base2: true, base3: false
+Score: 1-9
+
+Hano Hiroki: rng1 = 64 + 10 - 10 - 1 = 63
+rng2 = 87 + 10 - 14 - 1 = 82
+Flyout
+Team 2 pitcher (Rob Bowman): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: false, base3: [4,1]
+base1: false, base2: false, base3: true
+Score: 1-9
+
+Ricky Bowers: rng1 = 75 + 13 - 10 - 1 = 77
+rng2 = 91 + 7 - 14 - 1 = 83
+Home run
+Team 2 pitcher (Rob Bowman): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-9
+
+Team 2 pitcher change to Thiago Ortiz
+
+Yon Shin-Young: rng1 = 5 + 7 - 8 - 1 = 3
+Strikeout
+Team 2 pitcher (Thiago Ortiz): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-9
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Grover Bercher
+
+Travis Nichols: rng1 = 13 + 11 - 7 + 1 = 18
+Strikeout
+Team 1 pitcher (Grover Bercher): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-9
+
+Duante Jones: rng1 = 62 + 5 - 7 + 1 = 61
+rng2 = 25 + 13 - 6 + 1 = 33
+Groundout
+Team 1 pitcher (Grover Bercher): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-9
+
+Whalen Tate: rng1 = 60 + 5 - 7 + 1 = 59
+rng2 = 46 + 12 - 6 + 1 = 53
+Lineout
+Team 1 pitcher (Grover Bercher): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-9
+
+-----------------------
+
+TOP INNING 9
+
+Alfonso Manzanedo: rng1 = 65 + 6 - 8 - 1 = 62
+rng2 = 94 + 8 - 10 - 1 = 91
+Flyout
+Team 2 pitcher (Thiago Ortiz): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-9
+
+Rafael Figueroa: rng1 = 52 + 16 - 8 - 1 = 59
+rng2 = 58 + 9 - 10 - 1 = 56
+Lineout
+Team 2 pitcher (Thiago Ortiz): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-9
+
+Martin Holland: rng1 = 10 + 15 - 8 - 1 = 16
+Strikeout
+Team 2 pitcher (Thiago Ortiz): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-9
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 8
+Team 2 hits: 13
+Team 1 runs: 3
+Team 2 runs: 9
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-12-06
+Rafael Figueroa	5	0	1	0	0	0	0	0	0					Cleveland
+Martin Holland	5	0	3	0	0	0	0	0	2	
+Phil Hill	3	0	0	0	0	0	0	1	1	
+Hernan Pereira	4	0	0	0	0	0	0	0	3	
+Federico Taveras	3	1	1	1	0	0	0	1	1	
+Hano Hiroki	4	0	0	0	0	0	0	0	2	
+Ricky Bowers	3	2	2	0	0	1	2	1	1	
+Yon Shin-Young	4	0	1	1	0	0	1	0	2	
+Alfonso Manzanedo	4	0	0	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Edward Stevens	0	1	1	1	0	0	13	7	6	2	3	4	23	
+Dario Peralta	0	0	1	0	0	0	4	5	2	0	1	3	10	
+Jesus Perez	0	0	1	0	0	0	4	1	1	1	0	1	5	
+Grover Bercher	0	0	1	0	0	0	3	0	0	0	0	1	3	
+Ige Shukishi	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-12-06
+Logan Chambers	4	2	2	0	0	1	1	1	0					NewHaven
+David Hunter	5	3	3	0	0	0	0	0	1	
+Travis Nichols	5	1	1	0	0	1	2	0	2	
+Duante Jones	3	1	0	0	0	0	0	2	1	
+Whalen Tate	4	1	2	0	0	1	3	1	0	
+Juan Bolton	4	1	3	1	0	0	2	0	1	
+Dan Robertson	4	0	1	1	0	0	1	0	1	
+Zahir Burgos	4	0	1	0	0	0	0	0	1	
+Cory Vance	4	0	0	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Ed Wolfe	1	0	1	1	0	0	18	5	1	0	3	11	26	
+Rob Bowman	0	0	1	0	0	0	5	3	2	1	0	1	8	
+Thiago Ortiz	0	0	1	0	0	0	4	0	0	0	0	2	4	
+Aaron Hall	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Emilio Aguilar	0	0	0	0	0	0	0	0	0	0	0	0	0	

@@ -1,0 +1,810 @@
+TOP INNING 1
+
+Mateo Estrada: rng1 = 4 + 15 - 9 - 1 = 9
+Strikeout
+Team 2 pitcher (Lewis Shelton): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Eric Parker: rng1 = 45 + 15 - 9 - 1 = 50
+rng2 = 27 + 15 - 10 - 1 = 31
+Groundout
+Team 2 pitcher (Lewis Shelton): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jose Walker: rng1 = 66 + 15 - 9 - 1 = 71
+Walk
+Team 2 pitcher (Lewis Shelton): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Miguel Castillo: rng1 = 81 + 12 - 9 - 1 = 83
+rng2 = 45 + 15 - 10 - 1 = 49
+Single
+Team 2 pitcher (Lewis Shelton): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Rafael Guzman: rng1 = 25 + 13 - 9 - 1 = 28
+Strikeout
+Team 2 pitcher (Lewis Shelton): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Francisco Garcia: rng1 = 26 + 15 - 9 + 1 = 33
+rng2 = 59 + 15 - 10 + 1 = 65
+Flyout
+Team 1 pitcher (Ted Spencer): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jorge Gonzalez: rng1 = 45 + 15 - 9 + 1 = 52
+rng2 = 14 + 14 - 10 + 1 = 19
+Groundout
+Team 1 pitcher (Ted Spencer): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jerome Fields: rng1 = 16 + 13 - 9 + 1 = 21
+Strikeout
+Team 1 pitcher (Ted Spencer): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Lawrence Webb: rng1 = 6 + 14 - 9 - 1 = 10
+Strikeout
+Team 2 pitcher (Lewis Shelton): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Juan Reyes: rng1 = 56 + 11 - 9 - 1 = 57
+rng2 = 67 + 11 - 10 - 1 = 67
+Flyout
+Team 2 pitcher (Lewis Shelton): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jorge Perez: rng1 = 87 + 14 - 9 - 1 = 91
+rng2 = 85 + 8 - 10 - 1 = 82
+Home run
+Team 2 pitcher (Lewis Shelton): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Umberto Tasis: rng1 = 67 + 9 - 9 - 1 = 66
+rng2 = 19 + 7 - 10 - 1 = 15
+Groundout
+Team 2 pitcher (Lewis Shelton): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Luis Guillén: rng1 = 68 + 4 - 9 + 1 = 64
+rng2 = 60 + 10 - 10 + 1 = 61
+Flyout
+Team 1 pitcher (Ted Spencer): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Javier Guillén: rng1 = 96 + 7 - 9 + 1 = 95
+rng2 = 69 + 9 - 10 + 1 = 69
+Double
+Team 1 pitcher (Ted Spencer): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Ethan Hayes: rng1 = 73 + 7 - 9 + 1 = 72
+Walk
+Team 1 pitcher (Ted Spencer): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Sean Watson: rng1 = 96 + 9 - 9 + 1 = 97
+rng2 = 93 + 6 - 10 + 1 = 90
+Double
+Team 1 pitcher (Ted Spencer): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 1
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-2
+
+Evan Bliss: rng1 = 17 + 6 - 9 + 1 = 15
+rng2 = 99 + 8 - 10 + 1 = 98
+Flyout
+Team 1 pitcher (Ted Spencer): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-2
+
+Chris Ruiz: rng1 = 59 + 6 - 9 + 1 = 57
+rng2 = 90 + 7 - 10 + 1 = 88
+Flyout
+Team 1 pitcher (Ted Spencer): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 3
+
+Mateo Estrada: rng1 = 77 + 15 - 9 - 1 = 82
+rng2 = 92 + 15 - 10 - 1 = 96
+Home run
+Team 2 pitcher (Lewis Shelton): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Eric Parker: rng1 = 2 + 15 - 9 - 1 = 7
+Strikeout
+Team 2 pitcher (Lewis Shelton): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Jose Walker: rng1 = 18 + 15 - 9 - 1 = 23
+Strikeout
+Team 2 pitcher (Lewis Shelton): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Miguel Castillo: rng1 = 56 + 12 - 9 - 1 = 58
+rng2 = 93 + 15 - 10 - 1 = 97
+Flyout
+Team 2 pitcher (Lewis Shelton): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+BOTTOM INNING 3
+
+Francisco Garcia: rng1 = 76 + 15 - 9 + 1 = 83
+rng2 = 63 + 15 - 10 + 1 = 69
+Double
+Team 1 pitcher (Ted Spencer): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 0
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-2
+
+Jorge Gonzalez: rng1 = 67 + 15 - 9 + 1 = 74
+rng2 = 97 + 14 - 10 + 1 = 102
+Home run
+Team 1 pitcher (Ted Spencer): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Jerome Fields: rng1 = 36 + 13 - 9 + 1 = 41
+rng2 = 36 + 13 - 10 + 1 = 40
+Groundout
+Team 1 pitcher (Ted Spencer): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Luis Guillén: rng1 = 33 + 4 - 9 + 1 = 29
+rng2 = 54 + 10 - 10 + 1 = 55
+Lineout
+Team 1 pitcher (Ted Spencer): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Javier Guillén: rng1 = 74 + 7 - 9 + 1 = 73
+rng2 = 42 + 9 - 10 + 1 = 42
+Single
+Team 1 pitcher (Ted Spencer): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-4
+
+Ethan Hayes: rng1 = 100 + 7 - 9 + 1 = 99
+rng2 = 58 + 9 - 10 + 1 = 58
+Single
+Team 1 pitcher (Ted Spencer): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 2
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-4
+
+Sean Watson: rng1 = 74 + 9 - 9 + 1 = 75
+rng2 = 38 + 6 - 10 + 1 = 35
+Single
+Team 1 pitcher (Ted Spencer): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 2
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-5
+
+Evan Bliss: rng1 = 26 + 6 - 9 + 1 = 24
+Strikeout
+Team 1 pitcher (Ted Spencer): 17 batters faced, 5 runs allowed = 17 + 12.5 = 29.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-5
+
+-----------------------
+
+TOP INNING 4
+
+Rafael Guzman: rng1 = 50 + 13 - 9 - 1 = 53
+rng2 = 89 + 13 - 10 - 1 = 91
+Flyout
+Team 2 pitcher (Lewis Shelton): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-5
+
+Lawrence Webb: rng1 = 33 + 14 - 9 - 1 = 37
+rng2 = 42 + 12 - 10 - 1 = 43
+Groundout
+Team 2 pitcher (Lewis Shelton): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-5
+
+Juan Reyes: rng1 = 71 + 11 - 9 - 1 = 72
+Walk
+Team 2 pitcher (Lewis Shelton): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-5
+
+Jorge Perez: rng1 = 7 + 14 - 9 - 1 = 11
+rng2 = 5 + 8 - 10 - 1 = 2
+Groundout
+Team 2 pitcher (Lewis Shelton): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-5
+
+-----------------------
+
+BOTTOM INNING 4
+
+Team 1 pitcher change to Henry Wright
+
+Chris Ruiz: rng1 = 30 + 6 - 10 + 1 = 27
+Strikeout
+Team 1 pitcher (Henry Wright): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-5
+
+Francisco Garcia: rng1 = 76 + 15 - 10 + 1 = 82
+rng2 = 22 + 15 - 9 + 1 = 29
+Single
+Team 1 pitcher (Henry Wright): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-5
+
+Jorge Gonzalez: rng1 = 85 + 15 - 10 + 1 = 91
+rng2 = 67 + 14 - 9 + 1 = 73
+Double
+Team 1 pitcher (Henry Wright): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [1,1], base3: false
+base1: false, base2: true, base3: false
+Score: 2-6
+
+Jerome Fields: rng1 = 79 + 13 - 10 + 1 = 83
+rng2 = 7 + 13 - 9 + 1 = 12
+Single
+Team 1 pitcher (Henry Wright): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-7
+
+Luis Guillén: rng1 = 1 + 4 - 10 + 1 = -4
+Strikeout
+Team 1 pitcher (Henry Wright): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-7
+
+Javier Guillén: rng1 = 72 + 7 - 10 + 1 = 70
+Walk
+Team 1 pitcher (Henry Wright): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: [4,1], base2: [2,1], base3: false
+base1: true, base2: true, base3: false
+Score: 2-7
+
+Ethan Hayes: rng1 = 10 + 7 - 10 + 1 = 8
+Strikeout
+Team 1 pitcher (Henry Wright): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-7
+
+-----------------------
+
+TOP INNING 5
+
+Umberto Tasis: rng1 = 50 + 9 - 9 - 1 = 49
+rng2 = 93 + 7 - 10 - 1 = 89
+Flyout
+Team 2 pitcher (Lewis Shelton): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Mateo Estrada: rng1 = 41 + 15 - 9 - 1 = 46
+rng2 = 80 + 15 - 10 - 1 = 84
+Flyout
+Team 2 pitcher (Lewis Shelton): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Eric Parker: rng1 = 36 + 15 - 9 - 1 = 41
+rng2 = 96 + 15 - 10 - 1 = 100
+Flyout
+Team 2 pitcher (Lewis Shelton): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-7
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Lautaro Lain
+
+Sean Watson: rng1 = 41 + 9 - 8 + 1 = 43
+rng2 = 29 + 6 - 8 + 1 = 28
+Groundout
+Team 1 pitcher (Lautaro Lain): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Evan Bliss: rng1 = 71 + 6 - 8 + 1 = 70
+Walk
+Team 1 pitcher (Lautaro Lain): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-7
+
+Chris Ruiz: rng1 = 12 + 6 - 8 + 1 = 11
+rng2 = 85 + 7 - 8 + 1 = 85
+Flyout
+Team 1 pitcher (Lautaro Lain): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-7
+
+Francisco Garcia: rng1 = 45 + 15 - 8 + 1 = 53
+rng2 = 4 + 15 - 8 + 1 = 12
+Groundout
+Team 1 pitcher (Lautaro Lain): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-7
+
+-----------------------
+
+TOP INNING 6
+
+Jose Walker: rng1 = 54 + 15 - 9 - 1 = 59
+rng2 = 84 + 14 - 10 - 1 = 87
+Flyout
+Team 2 pitcher (Lewis Shelton): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Miguel Castillo: rng1 = 12 + 12 - 9 - 1 = 14
+rng2 = 71 + 15 - 10 - 1 = 75
+Flyout
+Team 2 pitcher (Lewis Shelton): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Rafael Guzman: rng1 = 81 + 13 - 9 - 1 = 84
+rng2 = 20 + 13 - 10 - 1 = 22
+Single
+Team 2 pitcher (Lewis Shelton): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-7
+
+Lawrence Webb: rng1 = 58 + 14 - 9 - 1 = 62
+rng2 = 18 + 12 - 10 - 1 = 19
+Groundout
+Team 2 pitcher (Lewis Shelton): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-7
+
+-----------------------
+
+BOTTOM INNING 6
+
+Jorge Gonzalez: rng1 = 29 + 15 - 8 + 1 = 37
+rng2 = 90 + 14 - 8 + 1 = 97
+Flyout
+Team 1 pitcher (Lautaro Lain): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Jerome Fields: rng1 = 9 + 13 - 8 + 1 = 15
+rng2 = 82 + 13 - 8 + 1 = 88
+Flyout
+Team 1 pitcher (Lautaro Lain): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Luis Guillén: rng1 = 30 + 4 - 8 + 1 = 27
+Strikeout
+Team 1 pitcher (Lautaro Lain): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-7
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Ian Colome
+
+Juan Reyes: rng1 = 38 + 11 - 9 - 1 = 39
+rng2 = 25 + 11 - 8 - 1 = 27
+Groundout
+Team 2 pitcher (Ian Colome): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Jorge Perez: rng1 = 5 + 14 - 9 - 1 = 9
+Strikeout
+Team 2 pitcher (Ian Colome): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Umberto Tasis: rng1 = 93 + 9 - 9 - 1 = 92
+rng2 = 10 + 7 - 8 - 1 = 8
+Single
+Team 2 pitcher (Ian Colome): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-7
+
+Mateo Estrada: rng1 = 24 + 15 - 9 - 1 = 29
+rng2 = 99 + 15 - 8 - 1 = 105
+Flyout
+Team 2 pitcher (Ian Colome): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-7
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Mori Yoshikazu
+
+Javier Guillén: rng1 = 87 + 7 - 9 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Mori Yoshikazu): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [4,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-7
+
+Ethan Hayes: rng1 = 44 + 7 - 9 + 1 = 43
+rng2 = 79 + 9 - 7 + 1 = 82
+Flyout
+Team 1 pitcher (Mori Yoshikazu): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [4,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-7
+
+Sean Watson: rng1 = 45 + 9 - 9 + 1 = 46
+rng2 = 43 + 6 - 7 + 1 = 43
+Groundout
+Team 1 pitcher (Mori Yoshikazu): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [4,3], base3: false
+base1: false, base2: true, base3: false
+Score: 2-7
+
+Evan Bliss: rng1 = 40 + 6 - 9 + 1 = 38
+rng2 = 72 + 8 - 7 + 1 = 74
+Flyout
+Team 1 pitcher (Mori Yoshikazu): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-7
+
+-----------------------
+
+TOP INNING 8
+
+Eric Parker: rng1 = 74 + 15 - 9 - 1 = 79
+rng2 = 66 + 15 - 8 - 1 = 72
+Double
+Team 2 pitcher (Ian Colome): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: false, base2: [1,1], base3: false
+base1: false, base2: true, base3: false
+Score: 2-7
+
+Jose Walker: rng1 = 83 + 15 - 9 - 1 = 88
+Walk
+Team 2 pitcher (Ian Colome): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 0
+
+base1: [2,1], base2: [1,1], base3: false
+base1: true, base2: true, base3: false
+Score: 2-7
+
+Miguel Castillo: rng1 = 79 + 12 - 9 - 1 = 81
+rng2 = 11 + 15 - 8 - 1 = 17
+Single
+Team 2 pitcher (Ian Colome): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 0
+
+base1: [3,1], base2: [2,1], base3: false
+base1: true, base2: true, base3: false
+Score: 3-7
+
+Rafael Guzman: rng1 = 90 + 13 - 9 - 1 = 93
+rng2 = 25 + 13 - 8 - 1 = 29
+Single
+Team 2 pitcher (Ian Colome): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 0
+
+base1: [4,1], base2: [3,1], base3: [2,1]
+base1: true, base2: true, base3: true
+Score: 3-7
+
+Lawrence Webb: rng1 = 39 + 14 - 9 - 1 = 43
+rng2 = 24 + 12 - 8 - 1 = 27
+Groundout
+Team 2 pitcher (Ian Colome): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 1
+
+base1: false, base2: [4,1], base3: [3,1]
+base1: false, base2: true, base3: true
+Score: 4-7
+
+Team 2 pitcher change to Nate Tucker
+
+Juan Reyes: rng1 = 64 + 11 - 10 - 1 = 64
+rng2 = 99 + 11 - 8 - 1 = 101
+Flyout
+Team 2 pitcher (Nate Tucker): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: false, base2: [4,1], base3: false
+base1: false, base2: true, base3: false
+Score: 5-7
+
+Jorge Perez: rng1 = 24 + 14 - 10 - 1 = 27
+Strikeout
+Team 2 pitcher (Nate Tucker): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-7
+
+-----------------------
+
+BOTTOM INNING 8
+
+Chris Ruiz: rng1 = 2 + 6 - 9 + 1 = 0
+Strikeout
+Team 1 pitcher (Mori Yoshikazu): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-7
+
+Francisco Garcia: rng1 = 4 + 15 - 9 + 1 = 11
+rng2 = 13 + 15 - 7 + 1 = 22
+Groundout
+Team 1 pitcher (Mori Yoshikazu): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-7
+
+Jorge Gonzalez: rng1 = 66 + 15 - 9 + 1 = 73
+rng2 = 96 + 14 - 7 + 1 = 104
+Home run
+Team 1 pitcher (Mori Yoshikazu): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-8
+
+Jerome Fields: rng1 = 30 + 13 - 9 + 1 = 35
+rng2 = 62 + 13 - 7 + 1 = 69
+Flyout
+Team 1 pitcher (Mori Yoshikazu): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-8
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Johnny Farmer
+
+Umberto Tasis: rng1 = 53 + 9 - 10 - 1 = 51
+rng2 = 60 + 7 - 13 - 1 = 53
+Lineout
+Team 2 pitcher (Johnny Farmer): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-8
+
+Mateo Estrada: rng1 = 75 + 15 - 10 - 1 = 79
+rng2 = 89 + 15 - 13 - 1 = 90
+Double
+Team 2 pitcher (Johnny Farmer): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [0,4], base3: false
+base1: false, base2: true, base3: false
+Score: 5-8
+
+Eric Parker: rng1 = 70 + 15 - 10 - 1 = 74
+rng2 = 47 + 15 - 13 - 1 = 48
+Single
+Team 2 pitcher (Johnny Farmer): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [1,4], base2: false, base3: [0,4]
+base1: true, base2: false, base3: true
+Score: 5-8
+
+Jose Walker: rng1 = 96 + 15 - 10 - 1 = 100
+rng2 = 73 + 14 - 13 - 1 = 73
+Double
+Team 2 pitcher (Johnny Farmer): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: false, base2: [2,4], base3: false
+base1: false, base2: true, base3: false
+Score: 7-8
+
+Miguel Castillo: rng1 = 77 + 12 - 10 - 1 = 78
+rng2 = 15 + 15 - 13 - 1 = 16
+Single
+Team 2 pitcher (Johnny Farmer): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 1
+
+base1: [3,4], base2: false, base3: [2,4]
+base1: true, base2: false, base3: true
+Score: 7-8
+
+Rafael Guzman: rng1 = 1 + 13 - 10 - 1 = 3
+Strikeout
+Team 2 pitcher (Johnny Farmer): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: [3,4], base2: false, base3: [2,4]
+base1: true, base2: false, base3: true
+Score: 7-8
+
+Lawrence Webb: rng1 = 18 + 14 - 10 - 1 = 21
+Strikeout
+Team 2 pitcher (Johnny Farmer): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-8
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 12
+Team 2 hits: 11
+Team 1 runs: 7
+Team 2 runs: 8
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-12-06
+Mateo Estrada	5	2	2	1	0	1	1	0	1					StLouis
+Eric Parker	5	2	2	1	0	0	0	0	1	
+Jose Walker	3	1	1	1	0	0	2	2	1	
+Miguel Castillo	5	1	3	0	0	0	1	0	0	
+Rafael Guzman	5	0	2	0	0	0	0	0	2	
+Lawrence Webb	5	0	0	0	0	0	1	0	2	
+Juan Reyes	3	0	0	0	0	0	1	1	0	
+Jorge Perez	4	1	1	0	0	1	1	0	2	
+Umberto Tasis	4	0	1	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Ted Spencer	0	1	1	1	0	0	9	7	5	1	1	2	17	
+Henry Wright	0	0	1	0	0	0	3	3	2	0	1	3	7	
+Lautaro Lain	0	0	1	0	0	0	6	0	0	0	1	1	7	
+Mori Yoshikazu	0	0	1	0	0	0	6	1	1	1	0	1	8	
+David Juarez	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-12-06
+Francisco Garcia	5	2	2	1	0	0	0	0	0					Lafayette
+Jorge Gonzalez	5	3	3	1	0	2	4	0	0	
+Jerome Fields	5	0	1	0	0	0	1	0	1	
+Luis Guillén	4	0	0	0	0	0	0	0	2	
+Javier Guillén	2	2	2	1	0	0	0	1	0	
+Ethan Hayes	3	1	1	0	0	0	0	1	1	
+Sean Watson	4	0	2	1	0	0	3	0	0	
+Evan Bliss	3	0	0	0	0	0	0	1	1	
+Chris Ruiz	4	0	0	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Lewis Shelton	1	0	1	1	0	0	18	4	2	2	2	5	24	
+Ian Colome	0	0	1	0	0	0	4	4	3	0	1	1	9	
+Nate Tucker	0	0	1	0	0	0	2	0	0	0	0	1	2	
+Daigo Eishi	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Johnny Farmer	0	0	1	0	1	1	3	4	2	0	0	2	7	

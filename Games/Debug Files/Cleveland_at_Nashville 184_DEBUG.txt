@@ -1,0 +1,847 @@
+TOP INNING 1
+
+Rafael Figueroa: rng1 = 41 + 16 - 5 - 1 = 51
+rng2 = 82 + 9 - 8 - 1 = 82
+Flyout
+Team 2 pitcher (Damien Robles): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Martin Holland: rng1 = 55 + 15 - 5 - 1 = 64
+rng2 = 6 + 7 - 8 - 1 = 4
+Groundout
+Team 2 pitcher (Damien Robles): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Phil Hill: rng1 = 24 + 13 - 5 - 1 = 31
+rng2 = 28 + 9 - 8 - 1 = 28
+Groundout
+Team 2 pitcher (Damien Robles): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Aaron Garcia: rng1 = 80 + 13 - 7 + 1 = 87
+Walk
+Team 1 pitcher (Ben Reid): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Tyler Sanders: rng1 = 66 + 11 - 7 + 1 = 71
+Walk
+Team 1 pitcher (Ben Reid): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Kugo Tadayuki: rng1 = 68 + 10 - 7 + 1 = 72
+Walk
+Team 1 pitcher (Ben Reid): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 0
+
+base1: [2,0], base2: [1,0], base3: [0,0]
+base1: true, base2: true, base3: true
+Score: 0-0
+
+Eugene Bryant: rng1 = 89 + 8 - 7 + 1 = 91
+rng2 = 16 + 10 - 5 + 1 = 22
+Single
+Team 1 pitcher (Ben Reid): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 0
+
+base1: [3,0], base2: [2,0], base3: [1,0]
+base1: true, base2: true, base3: true
+Score: 0-1
+
+Terryl Maxwell: rng1 = 3 + 8 - 7 + 1 = 5
+Strikeout
+Team 1 pitcher (Ben Reid): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: [3,0], base2: [2,0], base3: [1,0]
+base1: true, base2: true, base3: true
+Score: 0-1
+
+Alex Carpenter: rng1 = 5 + 8 - 7 + 1 = 7
+Strikeout
+Team 1 pitcher (Ben Reid): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: [3,0], base2: [2,0], base3: [1,0]
+base1: true, base2: true, base3: true
+Score: 0-1
+
+Jonatan Abreu: rng1 = 27 + 9 - 7 + 1 = 30
+rng2 = 58 + 6 - 5 + 1 = 60
+Flyout
+Team 1 pitcher (Ben Reid): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 2
+
+Hernan Pereira: rng1 = 80 + 12 - 5 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Damien Robles): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Federico Taveras: rng1 = 84 + 11 - 5 - 1 = 89
+Walk
+Team 2 pitcher (Damien Robles): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-1
+
+Hano Hiroki: rng1 = 48 + 10 - 5 - 1 = 52
+rng2 = 19 + 10 - 8 - 1 = 20
+Groundout
+Team 2 pitcher (Damien Robles): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: [3,0]
+base1: false, base2: false, base3: true
+Score: 0-1
+
+Ricky Bowers: rng1 = 87 + 13 - 5 - 1 = 94
+rng2 = 58 + 7 - 8 - 1 = 56
+Single
+Team 2 pitcher (Damien Robles): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Yon Shin-Young: rng1 = 63 + 7 - 5 - 1 = 64
+rng2 = 72 + 9 - 8 - 1 = 72
+Flyout
+Team 2 pitcher (Damien Robles): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Romero Hidalgo: rng1 = 32 + 9 - 7 + 1 = 35
+rng2 = 89 + 6 - 5 + 1 = 91
+Flyout
+Team 1 pitcher (Ben Reid): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Mark Mullins: rng1 = 93 + 6 - 7 + 1 = 93
+rng2 = 21 + 8 - 5 + 1 = 25
+Single
+Team 1 pitcher (Ben Reid): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Aaron Garcia: rng1 = 68 + 13 - 7 + 1 = 75
+rng2 = 18 + 9 - 5 + 1 = 23
+Single
+Team 1 pitcher (Ben Reid): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Tyler Sanders: rng1 = 62 + 11 - 7 + 1 = 67
+rng2 = 41 + 8 - 5 + 1 = 45
+Groundout
+Team 1 pitcher (Ben Reid): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Kugo Tadayuki: rng1 = 37 + 10 - 7 + 1 = 41
+rng2 = 26 + 6 - 5 + 1 = 28
+Groundout
+Team 1 pitcher (Ben Reid): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 3
+
+Alfonso Manzanedo: rng1 = 98 + 6 - 5 - 1 = 98
+rng2 = 76 + 8 - 8 - 1 = 75
+Double
+Team 2 pitcher (Damien Robles): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 0
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Rafael Figueroa: rng1 = 36 + 16 - 5 - 1 = 46
+rng2 = 77 + 9 - 8 - 1 = 77
+Flyout
+Team 2 pitcher (Damien Robles): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: false, base2: false, base3: [8,0]
+base1: false, base2: false, base3: true
+Score: 1-1
+
+Martin Holland: rng1 = 26 + 15 - 5 - 1 = 35
+rng2 = 15 + 7 - 8 - 1 = 13
+Groundout
+Team 2 pitcher (Damien Robles): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: false, base2: false, base3: [8,0]
+base1: false, base2: false, base3: true
+Score: 1-1
+
+Phil Hill: rng1 = 28 + 13 - 5 - 1 = 35
+rng2 = 56 + 9 - 8 - 1 = 56
+Lineout
+Team 2 pitcher (Damien Robles): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Eugene Bryant: rng1 = 16 + 8 - 7 + 1 = 18
+Strikeout
+Team 1 pitcher (Ben Reid): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Terryl Maxwell: rng1 = 7 + 8 - 7 + 1 = 9
+Strikeout
+Team 1 pitcher (Ben Reid): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Alex Carpenter: rng1 = 68 + 8 - 7 + 1 = 70
+Walk
+Team 1 pitcher (Ben Reid): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Jonatan Abreu: rng1 = 42 + 9 - 7 + 1 = 45
+rng2 = 57 + 6 - 5 + 1 = 59
+Flyout
+Team 1 pitcher (Ben Reid): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 4
+
+Hernan Pereira: rng1 = 60 + 12 - 5 - 1 = 66
+rng2 = 100 + 15 - 8 - 1 = 106
+Flyout
+Team 2 pitcher (Damien Robles): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Federico Taveras: rng1 = 72 + 11 - 5 - 1 = 77
+rng2 = 86 + 12 - 8 - 1 = 89
+Double
+Team 2 pitcher (Damien Robles): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 1
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Hano Hiroki: rng1 = 68 + 10 - 5 - 1 = 72
+Walk
+Team 2 pitcher (Damien Robles): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 1
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Ricky Bowers: rng1 = 25 + 13 - 5 - 1 = 32
+rng2 = 83 + 7 - 8 - 1 = 81
+Flyout
+Team 2 pitcher (Damien Robles): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 2
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Yon Shin-Young: rng1 = 90 + 7 - 5 - 1 = 91
+rng2 = 83 + 9 - 8 - 1 = 83
+Home run
+Team 2 pitcher (Damien Robles): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Alfonso Manzanedo: rng1 = 84 + 6 - 5 - 1 = 84
+rng2 = 96 + 8 - 8 - 1 = 95
+Home run
+Team 2 pitcher (Damien Robles): 18 batters faced, 5 runs allowed = 18 + 12.5 = 30.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Rafael Figueroa: rng1 = 78 + 16 - 5 - 1 = 88
+Walk
+Team 2 pitcher (Damien Robles): 19 batters faced, 5 runs allowed = 19 + 12.5 = 31.5, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-1
+
+Martin Holland: rng1 = 99 + 15 - 5 - 1 = 108
+rng2 = 92 + 7 - 8 - 1 = 90
+Double
+Team 2 pitcher (Damien Robles): 20 batters faced, 6 runs allowed = 20 + 15.0 = 35.0, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 6-1
+
+Phil Hill: rng1 = 80 + 13 - 5 - 1 = 87
+Walk
+Team 2 pitcher (Damien Robles): 21 batters faced, 6 runs allowed = 21 + 15.0 = 36.0, outs: 2
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 6-1
+
+Team 2 pitcher change to Ghalen Fisher
+
+Hernan Pereira: rng1 = 90 + 12 - 7 - 1 = 94
+rng2 = 19 + 15 - 8 - 1 = 25
+Single
+Team 2 pitcher (Ghalen Fisher): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [3,1], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 7-1
+
+Federico Taveras: rng1 = 29 + 11 - 7 - 1 = 32
+rng2 = 30 + 12 - 8 - 1 = 33
+Groundout
+Team 2 pitcher (Ghalen Fisher): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Romero Hidalgo: rng1 = 50 + 9 - 7 + 1 = 53
+rng2 = 36 + 6 - 5 + 1 = 38
+Groundout
+Team 1 pitcher (Ben Reid): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-1
+
+Mark Mullins: rng1 = 65 + 6 - 7 + 1 = 65
+rng2 = 40 + 8 - 5 + 1 = 44
+Groundout
+Team 1 pitcher (Ben Reid): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-1
+
+Aaron Garcia: rng1 = 44 + 13 - 7 + 1 = 51
+rng2 = 10 + 9 - 5 + 1 = 15
+Groundout
+Team 1 pitcher (Ben Reid): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-1
+
+-----------------------
+
+TOP INNING 5
+
+Hano Hiroki: rng1 = 6 + 10 - 7 - 1 = 8
+Strikeout
+Team 2 pitcher (Ghalen Fisher): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-1
+
+Ricky Bowers: rng1 = 19 + 13 - 7 - 1 = 24
+Strikeout
+Team 2 pitcher (Ghalen Fisher): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-1
+
+Yon Shin-Young: rng1 = 91 + 7 - 7 - 1 = 90
+Walk
+Team 2 pitcher (Ghalen Fisher): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-1
+
+Alfonso Manzanedo: rng1 = 44 + 6 - 7 - 1 = 42
+rng2 = 53 + 8 - 8 - 1 = 52
+Lineout
+Team 2 pitcher (Ghalen Fisher): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-1
+
+-----------------------
+
+BOTTOM INNING 5
+
+Tyler Sanders: rng1 = 46 + 11 - 7 + 1 = 51
+rng2 = 87 + 8 - 5 + 1 = 91
+Flyout
+Team 1 pitcher (Ben Reid): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-1
+
+Kugo Tadayuki: rng1 = 92 + 10 - 7 + 1 = 96
+rng2 = 92 + 6 - 5 + 1 = 94
+Home run
+Team 1 pitcher (Ben Reid): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-2
+
+Eugene Bryant: rng1 = 90 + 8 - 7 + 1 = 92
+rng2 = 58 + 10 - 5 + 1 = 64
+Single
+Team 1 pitcher (Ben Reid): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-2
+
+Terryl Maxwell: rng1 = 20 + 8 - 7 + 1 = 22
+Strikeout
+Team 1 pitcher (Ben Reid): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-2
+
+Alex Carpenter: rng1 = 11 + 8 - 7 + 1 = 13
+rng2 = 39 + 8 - 5 + 1 = 43
+Groundout
+Team 1 pitcher (Ben Reid): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-2
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Kelvin Rojas
+
+Rafael Figueroa: rng1 = 33 + 16 - 8 - 1 = 40
+rng2 = 90 + 9 - 12 - 1 = 86
+Flyout
+Team 2 pitcher (Kelvin Rojas): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-2
+
+Martin Holland: rng1 = 64 + 15 - 8 - 1 = 70
+Walk
+Team 2 pitcher (Kelvin Rojas): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-2
+
+Phil Hill: rng1 = 13 + 13 - 8 - 1 = 17
+Strikeout
+Team 2 pitcher (Kelvin Rojas): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-2
+
+Hernan Pereira: rng1 = 22 + 12 - 8 - 1 = 25
+Strikeout
+Team 2 pitcher (Kelvin Rojas): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-2
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Grover Bercher
+
+Jonatan Abreu: rng1 = 63 + 9 - 7 + 1 = 66
+rng2 = 42 + 6 - 6 + 1 = 43
+Groundout
+Team 1 pitcher (Grover Bercher): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-2
+
+Romero Hidalgo: rng1 = 71 + 9 - 7 + 1 = 74
+rng2 = 33 + 6 - 6 + 1 = 34
+Single
+Team 1 pitcher (Grover Bercher): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-2
+
+Mark Mullins: rng1 = 33 + 6 - 7 + 1 = 33
+rng2 = 54 + 8 - 6 + 1 = 57
+Lineout
+Team 1 pitcher (Grover Bercher): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-2
+
+Aaron Garcia: rng1 = 20 + 13 - 7 + 1 = 27
+Strikeout
+Team 1 pitcher (Grover Bercher): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-2
+
+-----------------------
+
+TOP INNING 7
+
+Federico Taveras: rng1 = 35 + 11 - 8 - 1 = 37
+rng2 = 96 + 12 - 12 - 1 = 95
+Flyout
+Team 2 pitcher (Kelvin Rojas): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-2
+
+Hano Hiroki: rng1 = 48 + 10 - 8 - 1 = 49
+rng2 = 40 + 10 - 12 - 1 = 37
+Groundout
+Team 2 pitcher (Kelvin Rojas): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-2
+
+Ricky Bowers: rng1 = 28 + 13 - 8 - 1 = 32
+rng2 = 83 + 7 - 12 - 1 = 77
+Flyout
+Team 2 pitcher (Kelvin Rojas): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-2
+
+-----------------------
+
+BOTTOM INNING 7
+
+Tyler Sanders: rng1 = 51 + 11 - 7 + 1 = 56
+rng2 = 90 + 8 - 6 + 1 = 93
+Flyout
+Team 1 pitcher (Grover Bercher): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-2
+
+Kugo Tadayuki: rng1 = 12 + 10 - 7 + 1 = 16
+Strikeout
+Team 1 pitcher (Grover Bercher): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-2
+
+Eugene Bryant: rng1 = 33 + 8 - 7 + 1 = 35
+rng2 = 44 + 10 - 6 + 1 = 49
+Lineout
+Team 1 pitcher (Grover Bercher): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-2
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Hiraoka Yosai
+
+Yon Shin-Young: rng1 = 35 + 7 - 11 - 1 = 30
+rng2 = 56 + 9 - 8 - 1 = 56
+Lineout
+Team 2 pitcher (Hiraoka Yosai): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-2
+
+Alfonso Manzanedo: rng1 = 30 + 6 - 11 - 1 = 24
+Strikeout
+Team 2 pitcher (Hiraoka Yosai): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-2
+
+Rafael Figueroa: rng1 = 38 + 16 - 11 - 1 = 42
+rng2 = 10 + 9 - 8 - 1 = 10
+Groundout
+Team 2 pitcher (Hiraoka Yosai): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-2
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Jesus Perez
+
+Terryl Maxwell: rng1 = 33 + 8 - 6 + 1 = 36
+rng2 = 80 + 10 - 7 + 1 = 84
+Flyout
+Team 1 pitcher (Jesus Perez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-2
+
+Alex Carpenter: rng1 = 63 + 8 - 6 + 1 = 66
+rng2 = 13 + 8 - 7 + 1 = 15
+Groundout
+Team 1 pitcher (Jesus Perez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-2
+
+Jonatan Abreu: rng1 = 96 + 9 - 6 + 1 = 100
+rng2 = 64 + 6 - 7 + 1 = 64
+Single
+Team 1 pitcher (Jesus Perez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-2
+
+Romero Hidalgo: rng1 = 28 + 9 - 6 + 1 = 32
+rng2 = 18 + 6 - 7 + 1 = 18
+Groundout
+Team 1 pitcher (Jesus Perez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-2
+
+-----------------------
+
+TOP INNING 9
+
+Martin Holland: rng1 = 32 + 15 - 11 - 1 = 35
+rng2 = 45 + 7 - 8 - 1 = 43
+Groundout
+Team 2 pitcher (Hiraoka Yosai): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-2
+
+Phil Hill: rng1 = 93 + 13 - 11 - 1 = 94
+rng2 = 30 + 9 - 8 - 1 = 30
+Single
+Team 2 pitcher (Hiraoka Yosai): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [2,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-2
+
+Hernan Pereira: rng1 = 78 + 12 - 11 - 1 = 78
+rng2 = 3 + 15 - 8 - 1 = 9
+Single
+Team 2 pitcher (Hiraoka Yosai): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [3,3], base2: [2,3], base3: false
+base1: true, base2: true, base3: false
+Score: 7-2
+
+Federico Taveras: rng1 = 90 + 11 - 11 - 1 = 89
+Walk
+Team 2 pitcher (Hiraoka Yosai): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [4,3], base2: [3,3], base3: [2,3]
+base1: true, base2: true, base3: true
+Score: 7-2
+
+Hano Hiroki: rng1 = 5 + 10 - 11 - 1 = 3
+Strikeout
+Team 2 pitcher (Hiraoka Yosai): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [4,3], base2: [3,3], base3: [2,3]
+base1: true, base2: true, base3: true
+Score: 7-2
+
+Ricky Bowers: rng1 = 69 + 13 - 11 - 1 = 70
+Walk
+Team 2 pitcher (Hiraoka Yosai): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [6,3], base2: [4,3], base3: [3,3]
+base1: true, base2: true, base3: true
+Score: 8-2
+
+Team 2 pitcher change to Josh Harris
+
+Yon Shin-Young: rng1 = 9 + 7 - 13 - 1 = 2
+Strikeout
+Team 2 pitcher (Josh Harris): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-2
+
+-----------------------
+
+BOTTOM INNING 9
+
+Mark Mullins: rng1 = 93 + 6 - 6 + 1 = 94
+rng2 = 53 + 8 - 7 + 1 = 55
+Single
+Team 1 pitcher (Jesus Perez): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-2
+
+Aaron Garcia: rng1 = 6 + 13 - 6 + 1 = 14
+rng2 = 54 + 9 - 7 + 1 = 57
+Lineout
+Team 1 pitcher (Jesus Perez): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-2
+
+Tyler Sanders: rng1 = 35 + 11 - 6 + 1 = 41
+rng2 = 52 + 8 - 7 + 1 = 54
+Lineout
+Team 1 pitcher (Jesus Perez): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-2
+
+Kugo Tadayuki: rng1 = 100 + 10 - 6 + 1 = 105
+rng2 = 90 + 6 - 7 + 1 = 90
+Double
+Team 1 pitcher (Jesus Perez): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: false, base2: [2,2], base3: [8,2]
+base1: false, base2: true, base3: true
+Score: 8-2
+
+Eugene Bryant: rng1 = 100 + 8 - 6 + 1 = 103
+rng2 = 96 + 10 - 7 + 1 = 100
+Home run
+Team 1 pitcher (Jesus Perez): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-5
+
+Team 1 pitcher change to Dario Peralta
+
+Terryl Maxwell: rng1 = 66 + 8 - 9 + 1 = 66
+rng2 = 94 + 10 - 8 + 1 = 97
+Flyout
+Team 1 pitcher (Dario Peralta): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-5
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 9
+Team 2 hits: 10
+Team 1 runs: 8
+Team 2 runs: 5
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-12-06
+Rafael Figueroa	4	1	0	0	0	0	0	1	0					Cleveland
+Martin Holland	4	1	1	1	0	0	1	1	0	
+Phil Hill	4	1	1	0	0	0	0	1	1	
+Hernan Pereira	4	1	2	0	0	0	1	0	1	
+Federico Taveras	3	1	1	1	0	0	0	2	0	
+Hano Hiroki	4	1	0	0	0	0	0	1	2	
+Ricky Bowers	4	0	1	0	0	0	2	1	1	
+Yon Shin-Young	4	1	1	0	0	1	3	1	1	
+Alfonso Manzanedo	4	1	2	1	0	1	1	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Ben Reid	1	0	1	1	0	0	15	5	2	1	4	5	24	
+Grover Bercher	0	0	1	0	0	0	6	1	0	0	0	2	7	
+Jesus Perez	0	0	1	0	0	0	5	4	3	1	0	0	9	
+Dario Peralta	0	0	1	0	0	0	1	0	0	0	0	0	1	
+Ige Shukishi	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-12-06
+Aaron Garcia	4	1	1	0	0	0	0	1	1					Nashville
+Tyler Sanders	4	0	0	0	0	0	0	1	0	
+Kugo Tadayuki	4	2	2	1	0	1	1	1	1	
+Eugene Bryant	5	1	3	0	0	1	4	0	1	
+Terryl Maxwell	5	0	0	0	0	0	0	0	3	
+Alex Carpenter	3	0	0	0	0	0	0	1	1	
+Jonatan Abreu	4	0	1	0	0	0	0	0	0	
+Romero Hidalgo	4	0	1	0	0	0	0	0	0	
+Mark Mullins	4	1	2	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Damien Robles	0	1	1	1	0	0	11	6	7	2	4	0	21	
+Ghalen Fisher	0	0	1	0	0	0	4	1	0	0	1	2	6	
+Kelvin Rojas	0	0	1	0	0	0	6	0	0	0	1	2	7	
+Hiraoka Yosai	0	0	1	0	0	0	5	2	1	0	2	2	9	
+Josh Harris	0	0	1	0	0	0	1	0	0	0	0	1	1	

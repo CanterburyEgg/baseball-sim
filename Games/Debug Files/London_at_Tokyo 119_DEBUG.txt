@@ -1,0 +1,871 @@
+TOP INNING 1
+
+Chaquille Barnett: rng1 = 13 + 11 - 8 - 1 = 15
+rng2 = 88 + 8 - 8 - 1 = 87
+Flyout
+Team 2 pitcher (Mauricio Villa): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Martin Cambeiro: rng1 = 95 + 9 - 8 - 1 = 95
+rng2 = 82 + 6 - 8 - 1 = 79
+Triple
+Team 2 pitcher (Mauricio Villa): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: [1,0]
+base1: false, base2: false, base3: true
+Score: 0-0
+
+Zyrell Ford: rng1 = 94 + 8 - 8 - 1 = 93
+rng2 = 46 + 7 - 8 - 1 = 44
+Single
+Team 2 pitcher (Mauricio Villa): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Aaron Pearce: rng1 = 64 + 7 - 8 - 1 = 62
+rng2 = 39 + 11 - 8 - 1 = 41
+Groundout
+Team 2 pitcher (Mauricio Villa): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Seta Senzo: rng1 = 71 + 7 - 8 - 1 = 69
+rng2 = 92 + 10 - 8 - 1 = 93
+Flyout
+Team 2 pitcher (Mauricio Villa): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Alex Diaz: rng1 = 51 + 15 - 7 + 1 = 60
+rng2 = 58 + 13 - 8 + 1 = 64
+Flyout
+Team 1 pitcher (Solomon McCarthy): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Esteban Obregón: rng1 = 56 + 10 - 7 + 1 = 60
+rng2 = 43 + 10 - 8 + 1 = 46
+Groundout
+Team 1 pitcher (Solomon McCarthy): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Kyle Stewart: rng1 = 61 + 10 - 7 + 1 = 65
+rng2 = 74 + 6 - 8 + 1 = 73
+Flyout
+Team 1 pitcher (Solomon McCarthy): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 2
+
+Kyle Murphy: rng1 = 21 + 6 - 8 - 1 = 18
+Strikeout
+Team 2 pitcher (Mauricio Villa): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Fabián Sánchez: rng1 = 30 + 6 - 8 - 1 = 27
+Strikeout
+Team 2 pitcher (Mauricio Villa): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Nathan Kaur: rng1 = 86 + 7 - 8 - 1 = 84
+rng2 = 30 + 8 - 8 - 1 = 29
+Single
+Team 2 pitcher (Mauricio Villa): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Kevin Taylor: rng1 = 40 + 7 - 8 - 1 = 38
+rng2 = 95 + 8 - 8 - 1 = 94
+Flyout
+Team 2 pitcher (Mauricio Villa): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Ewan Hunt: rng1 = 38 + 7 - 7 + 1 = 39
+rng2 = 78 + 9 - 8 + 1 = 80
+Flyout
+Team 1 pitcher (Solomon McCarthy): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Jorge Donald: rng1 = 7 + 6 - 7 + 1 = 7
+Strikeout
+Team 1 pitcher (Solomon McCarthy): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Patrick Cook: rng1 = 28 + 6 - 7 + 1 = 28
+Strikeout
+Team 1 pitcher (Solomon McCarthy): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 3
+
+Chaquille Barnett: rng1 = 24 + 11 - 8 - 1 = 26
+Strikeout
+Team 2 pitcher (Mauricio Villa): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Martin Cambeiro: rng1 = 94 + 9 - 8 - 1 = 94
+rng2 = 4 + 6 - 8 - 1 = 1
+Single
+Team 2 pitcher (Mauricio Villa): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Zyrell Ford: rng1 = 14 + 8 - 8 - 1 = 13
+rng2 = 23 + 7 - 8 - 1 = 21
+Groundout
+Team 2 pitcher (Mauricio Villa): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Aaron Pearce: rng1 = 75 + 7 - 8 - 1 = 73
+rng2 = 38 + 11 - 8 - 1 = 40
+Single
+Team 2 pitcher (Mauricio Villa): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Seta Senzo: rng1 = 93 + 7 - 8 - 1 = 91
+rng2 = 100 + 10 - 8 - 1 = 101
+Home run
+Team 2 pitcher (Mauricio Villa): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Kyle Murphy: rng1 = 78 + 6 - 8 - 1 = 75
+rng2 = 56 + 9 - 8 - 1 = 56
+Single
+Team 2 pitcher (Mauricio Villa): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Fabián Sánchez: rng1 = 67 + 6 - 8 - 1 = 64
+rng2 = 51 + 9 - 8 - 1 = 51
+Lineout
+Team 2 pitcher (Mauricio Villa): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Andy Kelley: rng1 = 33 + 7 - 7 + 1 = 34
+rng2 = 60 + 8 - 8 + 1 = 61
+Flyout
+Team 1 pitcher (Solomon McCarthy): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Irvin Brown: rng1 = 46 + 8 - 7 + 1 = 48
+rng2 = 75 + 7 - 8 + 1 = 75
+Flyout
+Team 1 pitcher (Solomon McCarthy): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Park Jae-Min: rng1 = 47 + 7 - 7 + 1 = 48
+rng2 = 54 + 6 - 8 + 1 = 53
+Lineout
+Team 1 pitcher (Solomon McCarthy): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+TOP INNING 4
+
+Nathan Kaur: rng1 = 80 + 7 - 8 - 1 = 78
+rng2 = 5 + 8 - 8 - 1 = 4
+Single
+Team 2 pitcher (Mauricio Villa): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Kevin Taylor: rng1 = 93 + 7 - 8 - 1 = 91
+rng2 = 35 + 8 - 8 - 1 = 34
+Single
+Team 2 pitcher (Mauricio Villa): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 0
+
+base1: [8,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 4-0
+
+Chaquille Barnett: rng1 = 57 + 11 - 8 - 1 = 59
+rng2 = 58 + 8 - 8 - 1 = 57
+Lineout
+Team 2 pitcher (Mauricio Villa): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 1
+
+base1: [8,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 4-0
+
+Martin Cambeiro: rng1 = 78 + 9 - 8 - 1 = 78
+rng2 = 27 + 6 - 8 - 1 = 24
+Single
+Team 2 pitcher (Mauricio Villa): 20 batters faced, 5 runs allowed = 20 + 12.5 = 32.5, outs: 1
+
+base1: [1,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 5-0
+
+Zyrell Ford: rng1 = 88 + 8 - 8 - 1 = 87
+Walk
+Team 2 pitcher (Mauricio Villa): 21 batters faced, 5 runs allowed = 21 + 12.5 = 33.5, outs: 1
+
+base1: [2,0], base2: [1,0], base3: [8,0]
+base1: true, base2: true, base3: true
+Score: 5-0
+
+Aaron Pearce: rng1 = 96 + 7 - 8 - 1 = 94
+rng2 = 31 + 11 - 8 - 1 = 33
+Single
+Team 2 pitcher (Mauricio Villa): 22 batters faced, 7 runs allowed = 22 + 17.5 = 39.5, outs: 1
+
+base1: [3,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 7-0
+
+Team 2 pitcher change to Amed Romeo
+
+Seta Senzo: rng1 = 36 + 7 - 7 - 1 = 35
+rng2 = 32 + 10 - 7 - 1 = 34
+Groundout
+Team 2 pitcher (Amed Romeo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [4,1], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 7-0
+
+Kyle Murphy: rng1 = 57 + 6 - 7 - 1 = 55
+rng2 = 94 + 9 - 7 - 1 = 95
+Flyout
+Team 2 pitcher (Amed Romeo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-0
+
+-----------------------
+
+BOTTOM INNING 4
+
+Alex Diaz: rng1 = 25 + 15 - 7 + 1 = 34
+rng2 = 50 + 13 - 8 + 1 = 56
+Lineout
+Team 1 pitcher (Solomon McCarthy): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-0
+
+Esteban Obregón: rng1 = 71 + 10 - 7 + 1 = 75
+rng2 = 44 + 10 - 8 + 1 = 47
+Single
+Team 1 pitcher (Solomon McCarthy): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-0
+
+Kyle Stewart: rng1 = 23 + 10 - 7 + 1 = 27
+Strikeout
+Team 1 pitcher (Solomon McCarthy): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-0
+
+Ewan Hunt: rng1 = 10 + 7 - 7 + 1 = 11
+rng2 = 74 + 9 - 8 + 1 = 76
+Flyout
+Team 1 pitcher (Solomon McCarthy): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-0
+
+-----------------------
+
+TOP INNING 5
+
+Fabián Sánchez: rng1 = 69 + 6 - 7 - 1 = 67
+rng2 = 27 + 9 - 7 - 1 = 28
+Groundout
+Team 2 pitcher (Amed Romeo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-0
+
+Nathan Kaur: rng1 = 91 + 7 - 7 - 1 = 90
+Walk
+Team 2 pitcher (Amed Romeo): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-0
+
+Kevin Taylor: rng1 = 71 + 7 - 7 - 1 = 70
+Walk
+Team 2 pitcher (Amed Romeo): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [8,1], base2: [7,1], base3: false
+base1: true, base2: true, base3: false
+Score: 7-0
+
+Chaquille Barnett: rng1 = 36 + 11 - 7 - 1 = 39
+rng2 = 77 + 8 - 7 - 1 = 77
+Flyout
+Team 2 pitcher (Amed Romeo): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [8,1], base2: [7,1], base3: false
+base1: true, base2: true, base3: false
+Score: 7-0
+
+Martin Cambeiro: rng1 = 18 + 9 - 7 - 1 = 19
+Strikeout
+Team 2 pitcher (Amed Romeo): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-0
+
+-----------------------
+
+BOTTOM INNING 5
+
+Jorge Donald: rng1 = 79 + 6 - 7 + 1 = 79
+rng2 = 46 + 9 - 8 + 1 = 48
+Single
+Team 1 pitcher (Solomon McCarthy): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-0
+
+Patrick Cook: rng1 = 53 + 6 - 7 + 1 = 53
+rng2 = 84 + 9 - 8 + 1 = 86
+Flyout
+Team 1 pitcher (Solomon McCarthy): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-0
+
+Andy Kelley: rng1 = 98 + 7 - 7 + 1 = 99
+rng2 = 87 + 8 - 8 + 1 = 88
+Double
+Team 1 pitcher (Solomon McCarthy): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 1
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 7-1
+
+Irvin Brown: rng1 = 60 + 8 - 7 + 1 = 62
+rng2 = 64 + 7 - 8 + 1 = 64
+Flyout
+Team 1 pitcher (Solomon McCarthy): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 2
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 7-1
+
+Park Jae-Min: rng1 = 32 + 7 - 7 + 1 = 33
+rng2 = 91 + 6 - 8 + 1 = 90
+Flyout
+Team 1 pitcher (Solomon McCarthy): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-1
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Gabriel Clark
+
+Zyrell Ford: rng1 = 95 + 8 - 6 - 1 = 96
+rng2 = 49 + 7 - 9 - 1 = 46
+Single
+Team 2 pitcher (Gabriel Clark): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-1
+
+Aaron Pearce: rng1 = 89 + 7 - 6 - 1 = 89
+Walk
+Team 2 pitcher (Gabriel Clark): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [3,2], base2: [2,2], base3: false
+base1: true, base2: true, base3: false
+Score: 7-1
+
+Seta Senzo: rng1 = 6 + 7 - 6 - 1 = 6
+Strikeout
+Team 2 pitcher (Gabriel Clark): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [3,2], base2: [2,2], base3: false
+base1: true, base2: true, base3: false
+Score: 7-1
+
+Kyle Murphy: rng1 = 63 + 6 - 6 - 1 = 62
+rng2 = 47 + 9 - 9 - 1 = 46
+Groundout
+Team 2 pitcher (Gabriel Clark): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-1
+
+-----------------------
+
+BOTTOM INNING 6
+
+Alex Diaz: rng1 = 31 + 15 - 7 + 1 = 40
+rng2 = 40 + 13 - 8 + 1 = 46
+Groundout
+Team 1 pitcher (Solomon McCarthy): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-1
+
+Esteban Obregón: rng1 = 7 + 10 - 7 + 1 = 11
+rng2 = 64 + 10 - 8 + 1 = 67
+Flyout
+Team 1 pitcher (Solomon McCarthy): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-1
+
+Kyle Stewart: rng1 = 72 + 10 - 7 + 1 = 76
+rng2 = 48 + 6 - 8 + 1 = 47
+Single
+Team 1 pitcher (Solomon McCarthy): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-1
+
+Ewan Hunt: rng1 = 81 + 7 - 7 + 1 = 82
+rng2 = 21 + 9 - 8 + 1 = 23
+Single
+Team 1 pitcher (Solomon McCarthy): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 2
+
+base1: [3,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 7-1
+
+Jorge Donald: rng1 = 62 + 6 - 7 + 1 = 62
+rng2 = 98 + 9 - 8 + 1 = 100
+Flyout
+Team 1 pitcher (Solomon McCarthy): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-1
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Zachary Lowe
+
+Fabián Sánchez: rng1 = 99 + 6 - 8 - 1 = 96
+rng2 = 74 + 9 - 6 - 1 = 76
+Double
+Team 2 pitcher (Zachary Lowe): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [6,3], base3: false
+base1: false, base2: true, base3: false
+Score: 7-1
+
+Nathan Kaur: rng1 = 46 + 7 - 8 - 1 = 44
+rng2 = 4 + 8 - 6 - 1 = 5
+Groundout
+Team 2 pitcher (Zachary Lowe): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [6,3], base3: false
+base1: false, base2: true, base3: false
+Score: 7-1
+
+Kevin Taylor: rng1 = 80 + 7 - 8 - 1 = 78
+rng2 = 49 + 8 - 6 - 1 = 50
+Single
+Team 2 pitcher (Zachary Lowe): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [8,3], base2: false, base3: [6,3]
+base1: true, base2: false, base3: true
+Score: 7-1
+
+Chaquille Barnett: rng1 = 65 + 11 - 8 - 1 = 67
+rng2 = 38 + 8 - 6 - 1 = 39
+Groundout
+Team 2 pitcher (Zachary Lowe): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: [8,3], base3: [6,3]
+base1: false, base2: true, base3: true
+Score: 7-1
+
+Martin Cambeiro: rng1 = 28 + 9 - 8 - 1 = 28
+Strikeout
+Team 2 pitcher (Zachary Lowe): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-1
+
+-----------------------
+
+BOTTOM INNING 7
+
+Patrick Cook: rng1 = 69 + 6 - 7 + 1 = 69
+rng2 = 66 + 9 - 8 + 1 = 68
+Flyout
+Team 1 pitcher (Solomon McCarthy): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-1
+
+Andy Kelley: rng1 = 81 + 7 - 7 + 1 = 82
+rng2 = 3 + 8 - 8 + 1 = 4
+Single
+Team 1 pitcher (Solomon McCarthy): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-1
+
+Irvin Brown: rng1 = 2 + 8 - 7 + 1 = 4
+Strikeout
+Team 1 pitcher (Solomon McCarthy): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-1
+
+Park Jae-Min: rng1 = 62 + 7 - 7 + 1 = 63
+rng2 = 41 + 6 - 8 + 1 = 40
+Groundout
+Team 1 pitcher (Solomon McCarthy): 27 batters faced, 1 runs allowed = 27 + 2.5 = 29.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-1
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Matias Rivera
+
+Zyrell Ford: rng1 = 15 + 8 - 12 - 1 = 10
+Strikeout
+Team 2 pitcher (Matias Rivera): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-1
+
+Aaron Pearce: rng1 = 20 + 7 - 12 - 1 = 14
+rng2 = 28 + 11 - 9 - 1 = 29
+Groundout
+Team 2 pitcher (Matias Rivera): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-1
+
+Seta Senzo: rng1 = 84 + 7 - 12 - 1 = 78
+rng2 = 34 + 10 - 9 - 1 = 34
+Single
+Team 2 pitcher (Matias Rivera): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [4,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-1
+
+Kyle Murphy: rng1 = 88 + 6 - 12 - 1 = 81
+rng2 = 85 + 9 - 9 - 1 = 84
+Home run
+Team 2 pitcher (Matias Rivera): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-1
+
+Fabián Sánchez: rng1 = 87 + 6 - 12 - 1 = 80
+rng2 = 31 + 9 - 9 - 1 = 30
+Single
+Team 2 pitcher (Matias Rivera): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: [6,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-1
+
+Nathan Kaur: rng1 = 79 + 7 - 12 - 1 = 73
+rng2 = 80 + 8 - 9 - 1 = 78
+Double
+Team 2 pitcher (Matias Rivera): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: false, base2: [7,4], base3: false
+base1: false, base2: true, base3: false
+Score: 10-1
+
+Kevin Taylor: rng1 = 64 + 7 - 12 - 1 = 58
+rng2 = 33 + 8 - 9 - 1 = 31
+Groundout
+Team 2 pitcher (Matias Rivera): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 10-1
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Keegan Schiel
+
+Alex Diaz: rng1 = 50 + 15 - 7 + 1 = 59
+rng2 = 63 + 13 - 8 + 1 = 69
+Flyout
+Team 1 pitcher (Keegan Schiel): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-1
+
+Esteban Obregón: rng1 = 68 + 10 - 7 + 1 = 72
+Walk
+Team 1 pitcher (Keegan Schiel): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 10-1
+
+Kyle Stewart: rng1 = 52 + 10 - 7 + 1 = 56
+rng2 = 15 + 6 - 8 + 1 = 14
+Groundout
+Team 1 pitcher (Keegan Schiel): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 10-1
+
+Ewan Hunt: rng1 = 40 + 7 - 7 + 1 = 41
+rng2 = 19 + 9 - 8 + 1 = 21
+Groundout
+Team 1 pitcher (Keegan Schiel): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 10-1
+
+-----------------------
+
+TOP INNING 9
+
+Chaquille Barnett: rng1 = 62 + 11 - 12 - 1 = 60
+rng2 = 10 + 8 - 9 - 1 = 8
+Groundout
+Team 2 pitcher (Matias Rivera): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-1
+
+Martin Cambeiro: rng1 = 59 + 9 - 12 - 1 = 55
+rng2 = 85 + 6 - 9 - 1 = 81
+Flyout
+Team 2 pitcher (Matias Rivera): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-1
+
+Zyrell Ford: rng1 = 92 + 8 - 12 - 1 = 87
+Walk
+Team 2 pitcher (Matias Rivera): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 2
+
+base1: [2,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 10-1
+
+Aaron Pearce: rng1 = 34 + 7 - 12 - 1 = 28
+Strikeout
+Team 2 pitcher (Matias Rivera): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 10-1
+
+-----------------------
+
+BOTTOM INNING 9
+
+Jorge Donald: rng1 = 94 + 6 - 7 + 1 = 94
+rng2 = 63 + 9 - 8 + 1 = 65
+Single
+Team 1 pitcher (Keegan Schiel): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 10-1
+
+Patrick Cook: rng1 = 73 + 6 - 7 + 1 = 73
+rng2 = 49 + 9 - 8 + 1 = 51
+Single
+Team 1 pitcher (Keegan Schiel): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 0
+
+base1: [5,1], base2: [4,1], base3: false
+base1: true, base2: true, base3: false
+Score: 10-1
+
+Andy Kelley: rng1 = 39 + 7 - 7 + 1 = 40
+rng2 = 9 + 8 - 8 + 1 = 10
+Groundout
+Team 1 pitcher (Keegan Schiel): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [6,1], base2: false, base3: [4,1]
+base1: true, base2: false, base3: true
+Score: 10-1
+
+Irvin Brown: rng1 = 89 + 8 - 7 + 1 = 91
+rng2 = 94 + 7 - 8 + 1 = 94
+Home run
+Team 1 pitcher (Keegan Schiel): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-4
+
+Team 1 pitcher change to Camryn Wagner
+
+Park Jae-Min: rng1 = 54 + 7 - 6 + 1 = 56
+rng2 = 98 + 6 - 6 + 1 = 99
+Flyout
+Team 1 pitcher (Camryn Wagner): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-4
+
+Alex Diaz: rng1 = 84 + 15 - 6 + 1 = 94
+rng2 = 44 + 13 - 6 + 1 = 52
+Single
+Team 1 pitcher (Camryn Wagner): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: [0,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 10-4
+
+Esteban Obregón: rng1 = 21 + 10 - 6 + 1 = 26
+Strikeout
+Team 1 pitcher (Camryn Wagner): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 10-4
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 18
+Team 2 hits: 10
+Team 1 runs: 10
+Team 2 runs: 4
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-12-06
+Chaquille Barnett	6	0	0	0	0	0	0	0	1					London
+Martin Cambeiro	6	3	3	0	1	0	1	0	2	
+Zyrell Ford	4	0	2	0	0	0	1	2	1	
+Aaron Pearce	5	1	2	0	0	0	3	1	1	
+Seta Senzo	5	2	2	0	0	1	2	0	1	
+Kyle Murphy	5	1	2	0	0	1	2	0	1	
+Fabián Sánchez	5	1	2	1	0	0	0	0	1	
+Nathan Kaur	4	1	3	1	0	0	1	1	0	
+Kevin Taylor	4	1	2	0	0	0	0	1	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Solomon McCarthy	1	0	1	1	0	0	21	6	1	0	0	4	27	
+Keegan Schiel	0	0	1	0	0	0	4	3	3	1	1	0	8	
+Camryn Wagner	0	0	1	0	0	0	2	1	0	0	0	1	3	
+Marcelo Surrais	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Larry Gibson	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-12-06
+Alex Diaz	5	0	1	0	0	0	0	0	0					Tokyo
+Esteban Obregón	4	0	1	0	0	0	0	1	1	
+Kyle Stewart	4	0	1	0	0	0	0	0	1	
+Ewan Hunt	4	0	1	0	0	0	0	0	0	
+Jorge Donald	4	2	2	0	0	0	0	0	1	
+Patrick Cook	4	0	1	0	0	0	0	0	1	
+Andy Kelley	4	1	2	1	0	0	1	0	0	
+Irvin Brown	4	1	1	0	0	1	3	0	1	
+Park Jae-Min	4	0	0	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Mauricio Villa	0	1	1	1	0	0	10	11	7	1	1	3	22	
+Amed Romeo	0	0	1	0	0	0	5	0	0	0	2	1	7	
+Gabriel Clark	0	0	1	0	0	0	3	1	0	0	1	1	4	
+Zachary Lowe	0	0	1	0	0	0	3	2	0	0	0	1	5	
+Matias Rivera	0	0	1	0	0	0	6	4	3	1	1	2	11	

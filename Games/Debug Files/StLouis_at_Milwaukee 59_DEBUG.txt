@@ -1,0 +1,779 @@
+TOP INNING 1
+
+Mateo Estrada: rng1 = 94 + 15 - 7 - 1 = 101
+rng2 = 62 + 15 - 6 - 1 = 70
+Double
+Team 2 pitcher (Josh Stokes): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Eric Parker: rng1 = 10 + 15 - 7 - 1 = 17
+Strikeout
+Team 2 pitcher (Josh Stokes): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Jose Walker: rng1 = 23 + 15 - 7 - 1 = 30
+rng2 = 55 + 14 - 6 - 1 = 62
+Flyout
+Team 2 pitcher (Josh Stokes): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Miguel Castillo: rng1 = 29 + 12 - 7 - 1 = 33
+rng2 = 70 + 15 - 6 - 1 = 78
+Flyout
+Team 2 pitcher (Josh Stokes): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Diego Vargas: rng1 = 38 + 15 - 7 + 1 = 47
+rng2 = 66 + 14 - 7 + 1 = 74
+Flyout
+Team 1 pitcher (Hagiwara Taji): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jeremy Anderson: rng1 = 24 + 15 - 7 + 1 = 33
+rng2 = 27 + 12 - 7 + 1 = 33
+Groundout
+Team 1 pitcher (Hagiwara Taji): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jeff Murray: rng1 = 48 + 12 - 7 + 1 = 54
+rng2 = 75 + 9 - 7 + 1 = 78
+Flyout
+Team 1 pitcher (Hagiwara Taji): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Rafael Guzman: rng1 = 27 + 13 - 7 - 1 = 32
+rng2 = 44 + 13 - 6 - 1 = 50
+Lineout
+Team 2 pitcher (Josh Stokes): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Lawrence Webb: rng1 = 41 + 14 - 7 - 1 = 47
+rng2 = 21 + 12 - 6 - 1 = 26
+Groundout
+Team 2 pitcher (Josh Stokes): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Juan Reyes: rng1 = 3 + 11 - 7 - 1 = 6
+Strikeout
+Team 2 pitcher (Josh Stokes): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Melvin Carlson: rng1 = 66 + 11 - 7 + 1 = 71
+Walk
+Team 1 pitcher (Hagiwara Taji): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Joey Crawford: rng1 = 24 + 9 - 7 + 1 = 27
+Strikeout
+Team 1 pitcher (Hagiwara Taji): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Ethan Murphy: rng1 = 80 + 7 - 7 + 1 = 81
+rng2 = 72 + 8 - 7 + 1 = 74
+Double
+Team 1 pitcher (Hagiwara Taji): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: [5,0], base3: [3,0]
+base1: false, base2: true, base3: true
+Score: 0-0
+
+Nicolas Sanchez: rng1 = 67 + 9 - 7 + 1 = 70
+Walk
+Team 1 pitcher (Hagiwara Taji): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [6,0], base2: [5,0], base3: [3,0]
+base1: true, base2: true, base3: true
+Score: 0-0
+
+Jeffery Sims: rng1 = 81 + 9 - 7 + 1 = 84
+rng2 = 24 + 7 - 7 + 1 = 25
+Single
+Team 1 pitcher (Hagiwara Taji): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 1
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-2
+
+Alonso Welch: rng1 = 64 + 8 - 7 + 1 = 66
+rng2 = 75 + 7 - 7 + 1 = 76
+Flyout
+Team 1 pitcher (Hagiwara Taji): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 2
+
+base1: [7,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 0-2
+
+Diego Vargas: rng1 = 11 + 15 - 7 + 1 = 20
+Strikeout
+Team 1 pitcher (Hagiwara Taji): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 3
+
+Jorge Perez: rng1 = 2 + 14 - 7 - 1 = 8
+Strikeout
+Team 2 pitcher (Josh Stokes): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Umberto Tasis: rng1 = 38 + 9 - 7 - 1 = 39
+rng2 = 65 + 7 - 6 - 1 = 65
+Flyout
+Team 2 pitcher (Josh Stokes): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Mateo Estrada: rng1 = 29 + 15 - 7 - 1 = 36
+rng2 = 32 + 15 - 6 - 1 = 40
+Groundout
+Team 2 pitcher (Josh Stokes): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+BOTTOM INNING 3
+
+Jeremy Anderson: rng1 = 9 + 15 - 7 + 1 = 18
+Strikeout
+Team 1 pitcher (Hagiwara Taji): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Jeff Murray: rng1 = 95 + 12 - 7 + 1 = 101
+rng2 = 21 + 9 - 7 + 1 = 24
+Single
+Team 1 pitcher (Hagiwara Taji): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Melvin Carlson: rng1 = 62 + 11 - 7 + 1 = 67
+rng2 = 37 + 8 - 7 + 1 = 39
+Groundout
+Team 1 pitcher (Hagiwara Taji): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Joey Crawford: rng1 = 14 + 9 - 7 + 1 = 17
+Strikeout
+Team 1 pitcher (Hagiwara Taji): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 4
+
+Eric Parker: rng1 = 55 + 15 - 7 - 1 = 62
+rng2 = 60 + 15 - 6 - 1 = 68
+Flyout
+Team 2 pitcher (Josh Stokes): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Jose Walker: rng1 = 78 + 15 - 7 - 1 = 85
+rng2 = 17 + 14 - 6 - 1 = 24
+Single
+Team 2 pitcher (Josh Stokes): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Miguel Castillo: rng1 = 10 + 12 - 7 - 1 = 14
+rng2 = 70 + 15 - 6 - 1 = 78
+Flyout
+Team 2 pitcher (Josh Stokes): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Rafael Guzman: rng1 = 46 + 13 - 7 - 1 = 51
+rng2 = 2 + 13 - 6 - 1 = 8
+Groundout
+Team 2 pitcher (Josh Stokes): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+BOTTOM INNING 4
+
+Ethan Murphy: rng1 = 13 + 7 - 7 + 1 = 14
+rng2 = 50 + 8 - 7 + 1 = 52
+Lineout
+Team 1 pitcher (Hagiwara Taji): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Nicolas Sanchez: rng1 = 51 + 9 - 7 + 1 = 54
+rng2 = 44 + 7 - 7 + 1 = 45
+Groundout
+Team 1 pitcher (Hagiwara Taji): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Jeffery Sims: rng1 = 29 + 9 - 7 + 1 = 32
+rng2 = 28 + 7 - 7 + 1 = 29
+Groundout
+Team 1 pitcher (Hagiwara Taji): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 5
+
+Lawrence Webb: rng1 = 91 + 14 - 7 - 1 = 97
+rng2 = 41 + 12 - 6 - 1 = 46
+Single
+Team 2 pitcher (Josh Stokes): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Juan Reyes: rng1 = 2 + 11 - 7 - 1 = 5
+Strikeout
+Team 2 pitcher (Josh Stokes): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Jorge Perez: rng1 = 79 + 14 - 7 - 1 = 85
+rng2 = 69 + 8 - 6 - 1 = 70
+Double
+Team 2 pitcher (Josh Stokes): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 1
+
+base1: false, base2: [7,0], base3: [5,0]
+base1: false, base2: true, base3: true
+Score: 0-2
+
+Umberto Tasis: rng1 = 55 + 9 - 7 - 1 = 56
+rng2 = 59 + 7 - 6 - 1 = 59
+Flyout
+Team 2 pitcher (Josh Stokes): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 2
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-2
+
+Mateo Estrada: rng1 = 36 + 15 - 7 - 1 = 43
+rng2 = 74 + 15 - 6 - 1 = 82
+Flyout
+Team 2 pitcher (Josh Stokes): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 5
+
+Alonso Welch: rng1 = 39 + 8 - 7 + 1 = 41
+rng2 = 31 + 7 - 7 + 1 = 32
+Groundout
+Team 1 pitcher (Hagiwara Taji): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Diego Vargas: rng1 = 95 + 15 - 7 + 1 = 104
+rng2 = 62 + 14 - 7 + 1 = 70
+Double
+Team 1 pitcher (Hagiwara Taji): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-2
+
+Jeremy Anderson: rng1 = 76 + 15 - 7 + 1 = 85
+rng2 = 100 + 12 - 7 + 1 = 106
+Home run
+Team 1 pitcher (Hagiwara Taji): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Jeff Murray: rng1 = 10 + 12 - 7 + 1 = 16
+Strikeout
+Team 1 pitcher (Hagiwara Taji): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Melvin Carlson: rng1 = 89 + 11 - 7 + 1 = 94
+rng2 = 56 + 8 - 7 + 1 = 58
+Single
+Team 1 pitcher (Hagiwara Taji): 22 batters faced, 4 runs allowed = 22 + 10.0 = 32.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Joey Crawford: rng1 = 78 + 9 - 7 + 1 = 81
+rng2 = 88 + 8 - 7 + 1 = 90
+Double
+Team 1 pitcher (Hagiwara Taji): 23 batters faced, 5 runs allowed = 23 + 12.5 = 35.5, outs: 2
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-5
+
+Team 1 pitcher change to Lautaro Lain
+
+Ethan Murphy: rng1 = 86 + 7 - 8 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Lautaro Lain): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [5,1], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-5
+
+Nicolas Sanchez: rng1 = 36 + 9 - 8 + 1 = 38
+rng2 = 4 + 7 - 8 + 1 = 4
+Groundout
+Team 1 pitcher (Lautaro Lain): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+TOP INNING 6
+
+Eric Parker: rng1 = 16 + 15 - 7 - 1 = 23
+Strikeout
+Team 2 pitcher (Josh Stokes): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Jose Walker: rng1 = 68 + 15 - 7 - 1 = 75
+rng2 = 80 + 14 - 6 - 1 = 87
+Double
+Team 2 pitcher (Josh Stokes): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-5
+
+Miguel Castillo: rng1 = 2 + 12 - 7 - 1 = 6
+Strikeout
+Team 2 pitcher (Josh Stokes): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-5
+
+Rafael Guzman: rng1 = 33 + 13 - 7 - 1 = 38
+rng2 = 68 + 13 - 6 - 1 = 74
+Flyout
+Team 2 pitcher (Josh Stokes): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+BOTTOM INNING 6
+
+Jeffery Sims: rng1 = 86 + 9 - 8 + 1 = 88
+Walk
+Team 1 pitcher (Lautaro Lain): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 0
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Alonso Welch: rng1 = 3 + 8 - 8 + 1 = 4
+Strikeout
+Team 1 pitcher (Lautaro Lain): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Diego Vargas: rng1 = 63 + 15 - 8 + 1 = 71
+Walk
+Team 1 pitcher (Lautaro Lain): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [0,1], base2: [7,1], base3: false
+base1: true, base2: true, base3: false
+Score: 1-5
+
+Jeremy Anderson: rng1 = 45 + 15 - 8 + 1 = 53
+rng2 = 2 + 12 - 8 + 1 = 7
+Groundout
+Team 1 pitcher (Lautaro Lain): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: [0,1], base3: [7,1]
+base1: false, base2: true, base3: true
+Score: 1-5
+
+Jeff Murray: rng1 = 85 + 12 - 8 + 1 = 90
+Walk
+Team 1 pitcher (Lautaro Lain): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [2,1], base2: [0,1], base3: [7,1]
+base1: true, base2: true, base3: true
+Score: 1-5
+
+Melvin Carlson: rng1 = 95 + 11 - 8 + 1 = 99
+rng2 = 79 + 8 - 8 + 1 = 80
+Home run
+Team 1 pitcher (Lautaro Lain): 8 batters faced, 4 runs allowed = 8 + 10.0 = 18.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-9
+
+Team 1 pitcher change to Henry Wright
+
+Joey Crawford: rng1 = 52 + 9 - 10 + 1 = 52
+rng2 = 40 + 8 - 9 + 1 = 40
+Groundout
+Team 1 pitcher (Henry Wright): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-9
+
+-----------------------
+
+TOP INNING 7
+
+Lawrence Webb: rng1 = 94 + 14 - 7 - 1 = 100
+rng2 = 37 + 12 - 6 - 1 = 42
+Single
+Team 2 pitcher (Josh Stokes): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-9
+
+Juan Reyes: rng1 = 41 + 11 - 7 - 1 = 44
+rng2 = 71 + 11 - 6 - 1 = 75
+Flyout
+Team 2 pitcher (Josh Stokes): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-9
+
+Jorge Perez: rng1 = 86 + 14 - 7 - 1 = 92
+rng2 = 5 + 8 - 6 - 1 = 6
+Single
+Team 2 pitcher (Josh Stokes): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 1
+
+base1: [7,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 1-9
+
+Umberto Tasis: rng1 = 80 + 9 - 7 - 1 = 81
+rng2 = 15 + 7 - 6 - 1 = 15
+Single
+Team 2 pitcher (Josh Stokes): 27 batters faced, 2 runs allowed = 27 + 5.0 = 32.0, outs: 1
+
+base1: [8,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 2-9
+
+Mateo Estrada: rng1 = 19 + 15 - 7 - 1 = 26
+Strikeout
+Team 2 pitcher (Josh Stokes): 28 batters faced, 2 runs allowed = 28 + 5.0 = 33.0, outs: 2
+
+base1: [8,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 2-9
+
+Team 2 pitcher change to Drew Burns
+
+Eric Parker: rng1 = 99 + 15 - 8 - 1 = 105
+rng2 = 43 + 15 - 9 - 1 = 48
+Single
+Team 2 pitcher (Drew Burns): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [1,1], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-9
+
+Jose Walker: rng1 = 81 + 15 - 8 - 1 = 87
+Walk
+Team 2 pitcher (Drew Burns): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: [2,1], base2: [1,1], base3: [8,0]
+base1: true, base2: true, base3: true
+Score: 3-9
+
+Miguel Castillo: rng1 = 62 + 12 - 8 - 1 = 65
+rng2 = 99 + 15 - 9 - 1 = 104
+Flyout
+Team 2 pitcher (Drew Burns): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-9
+
+-----------------------
+
+BOTTOM INNING 7
+
+Ethan Murphy: rng1 = 57 + 7 - 10 + 1 = 55
+rng2 = 23 + 8 - 9 + 1 = 23
+Groundout
+Team 1 pitcher (Henry Wright): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-9
+
+Nicolas Sanchez: rng1 = 64 + 9 - 10 + 1 = 64
+rng2 = 89 + 7 - 9 + 1 = 88
+Flyout
+Team 1 pitcher (Henry Wright): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-9
+
+Jeffery Sims: rng1 = 86 + 9 - 10 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Henry Wright): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-9
+
+Alonso Welch: rng1 = 57 + 8 - 10 + 1 = 56
+rng2 = 15 + 7 - 9 + 1 = 14
+Groundout
+Team 1 pitcher (Henry Wright): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-9
+
+-----------------------
+
+TOP INNING 8
+
+Rafael Guzman: rng1 = 87 + 13 - 8 - 1 = 91
+rng2 = 51 + 13 - 9 - 1 = 54
+Single
+Team 2 pitcher (Drew Burns): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-9
+
+Lawrence Webb: rng1 = 16 + 14 - 8 - 1 = 21
+Strikeout
+Team 2 pitcher (Drew Burns): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-9
+
+Juan Reyes: rng1 = 44 + 11 - 8 - 1 = 46
+rng2 = 31 + 11 - 9 - 1 = 32
+Groundout
+Team 2 pitcher (Drew Burns): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-9
+
+Jorge Perez: rng1 = 4 + 14 - 8 - 1 = 9
+Strikeout
+Team 2 pitcher (Drew Burns): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-9
+
+-----------------------
+
+BOTTOM INNING 8
+
+Diego Vargas: rng1 = 9 + 15 - 10 + 1 = 15
+rng2 = 25 + 14 - 9 + 1 = 31
+Groundout
+Team 1 pitcher (Henry Wright): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-9
+
+Jeremy Anderson: rng1 = 61 + 15 - 10 + 1 = 67
+rng2 = 69 + 12 - 9 + 1 = 73
+Flyout
+Team 1 pitcher (Henry Wright): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-9
+
+Jeff Murray: rng1 = 62 + 12 - 10 + 1 = 65
+rng2 = 99 + 9 - 9 + 1 = 100
+Flyout
+Team 1 pitcher (Henry Wright): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-9
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Zion Wright
+
+Umberto Tasis: rng1 = 69 + 9 - 9 - 1 = 68
+rng2 = 50 + 7 - 8 - 1 = 48
+Lineout
+Team 2 pitcher (Zion Wright): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-9
+
+Mateo Estrada: rng1 = 51 + 15 - 9 - 1 = 56
+rng2 = 89 + 15 - 8 - 1 = 95
+Flyout
+Team 2 pitcher (Zion Wright): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-9
+
+Eric Parker: rng1 = 87 + 15 - 9 - 1 = 92
+rng2 = 60 + 15 - 8 - 1 = 66
+Double
+Team 2 pitcher (Zion Wright): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [1,2], base3: false
+base1: false, base2: true, base3: false
+Score: 3-9
+
+Jose Walker: rng1 = 53 + 15 - 9 - 1 = 58
+rng2 = 51 + 14 - 8 - 1 = 56
+Lineout
+Team 2 pitcher (Zion Wright): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-9
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 11
+Team 2 hits: 8
+Team 1 runs: 3
+Team 2 runs: 9
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-12-06
+Mateo Estrada	5	0	1	1	0	0	0	0	1					StLouis
+Eric Parker	5	0	2	1	0	0	1	0	2	
+Jose Walker	4	0	2	1	0	0	0	1	0	
+Miguel Castillo	4	0	0	0	0	0	0	0	1	
+Rafael Guzman	4	0	1	0	0	0	0	0	0	
+Lawrence Webb	4	2	2	0	0	0	0	0	1	
+Juan Reyes	4	0	0	0	0	0	0	0	2	
+Jorge Perez	4	1	2	1	0	0	0	0	2	
+Umberto Tasis	4	0	1	0	0	0	2	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Hagiwara Taji	0	1	1	1	0	0	14	7	5	1	2	5	23	
+Lautaro Lain	0	0	1	0	0	0	3	1	4	1	3	1	8	
+Henry Wright	0	0	1	0	0	0	7	0	0	0	0	0	8	
+Mori Yoshikazu	0	0	0	0	0	0	0	0	0	0	0	0	0	
+David Juarez	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-12-06
+Diego Vargas	4	2	1	1	0	0	0	1	1					Milwaukee
+Jeremy Anderson	5	1	1	0	0	1	2	0	1	
+Jeff Murray	4	1	1	0	0	0	0	1	1	
+Melvin Carlson	3	3	2	0	0	1	4	1	0	
+Joey Crawford	4	0	1	1	0	0	1	0	2	
+Ethan Murphy	3	1	1	1	0	0	0	0	0	
+Nicolas Sanchez	3	0	0	0	0	0	0	1	0	
+Jeffery Sims	2	1	1	0	0	0	2	1	0	
+Alonso Welch	4	0	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Josh Stokes	1	0	1	1	0	0	20	8	3	0	0	7	28	
+Drew Burns	0	0	1	0	0	0	4	2	0	0	1	2	7	
+Zion Wright	0	0	1	0	0	0	3	1	0	0	0	0	4	
+Donte Walter	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Walt Lewis	0	0	0	0	0	0	0	0	0	0	0	0	0	

@@ -1,0 +1,729 @@
+TOP INNING 1
+
+Jacobi Davis: rng1 = 81 + 15 - 11 - 1 = 84
+rng2 = 31 + 12 - 9 - 1 = 33
+Single
+Team 2 pitcher (Laquon Perkins): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Kazuhiro Ida: rng1 = 67 + 13 - 11 - 1 = 68
+rng2 = 13 + 14 - 9 - 1 = 17
+Groundout
+Team 2 pitcher (Laquon Perkins): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Alex Murphy: rng1 = 27 + 10 - 11 - 1 = 25
+Strikeout
+Team 2 pitcher (Laquon Perkins): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Diego Vargas: rng1 = 55 + 15 - 11 + 1 = 60
+rng2 = 35 + 14 - 11 + 1 = 39
+Groundout
+Team 1 pitcher (John Long): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jeremy Anderson: rng1 = 96 + 15 - 11 + 1 = 101
+rng2 = 77 + 12 - 11 + 1 = 79
+Triple
+Team 1 pitcher (John Long): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: [1,0]
+base1: false, base2: false, base3: true
+Score: 0-0
+
+Jeff Murray: rng1 = 75 + 12 - 11 + 1 = 77
+rng2 = 10 + 9 - 11 + 1 = 9
+Single
+Team 1 pitcher (John Long): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Melvin Carlson: rng1 = 15 + 11 - 11 + 1 = 16
+Strikeout
+Team 1 pitcher (John Long): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Joey Crawford: rng1 = 53 + 9 - 11 + 1 = 52
+rng2 = 41 + 8 - 11 + 1 = 39
+Groundout
+Team 1 pitcher (John Long): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 2
+
+Enrique Holmes: rng1 = 84 + 7 - 11 - 1 = 79
+rng2 = 81 + 11 - 9 - 1 = 82
+Home run
+Team 2 pitcher (Laquon Perkins): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Trent Cline: rng1 = 32 + 8 - 11 - 1 = 28
+Strikeout
+Team 2 pitcher (Laquon Perkins): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Cannon Terry: rng1 = 55 + 8 - 11 - 1 = 51
+rng2 = 11 + 8 - 9 - 1 = 9
+Groundout
+Team 2 pitcher (Laquon Perkins): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Jake Weaver: rng1 = 5 + 10 - 11 - 1 = 3
+Strikeout
+Team 2 pitcher (Laquon Perkins): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Ethan Murphy: rng1 = 53 + 7 - 11 + 1 = 50
+rng2 = 55 + 8 - 11 + 1 = 53
+Lineout
+Team 1 pitcher (John Long): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Nicolas Sanchez: rng1 = 22 + 9 - 11 + 1 = 21
+Strikeout
+Team 1 pitcher (John Long): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Jeffery Sims: rng1 = 21 + 9 - 11 + 1 = 20
+Strikeout
+Team 1 pitcher (John Long): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 3
+
+Erik Lowe: rng1 = 22 + 7 - 11 - 1 = 17
+Strikeout
+Team 2 pitcher (Laquon Perkins): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Martin Avila: rng1 = 75 + 6 - 11 - 1 = 69
+rng2 = 30 + 8 - 9 - 1 = 28
+Groundout
+Team 2 pitcher (Laquon Perkins): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Jacobi Davis: rng1 = 83 + 15 - 11 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Laquon Perkins): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Kazuhiro Ida: rng1 = 68 + 13 - 11 - 1 = 69
+rng2 = 94 + 14 - 9 - 1 = 98
+Flyout
+Team 2 pitcher (Laquon Perkins): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Alonso Welch: rng1 = 55 + 8 - 11 + 1 = 53
+rng2 = 81 + 7 - 11 + 1 = 78
+Flyout
+Team 1 pitcher (John Long): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Diego Vargas: rng1 = 16 + 15 - 11 + 1 = 21
+Strikeout
+Team 1 pitcher (John Long): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Jeremy Anderson: rng1 = 44 + 15 - 11 + 1 = 49
+rng2 = 8 + 12 - 11 + 1 = 10
+Groundout
+Team 1 pitcher (John Long): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 4
+
+Alex Murphy: rng1 = 84 + 10 - 11 - 1 = 82
+rng2 = 39 + 12 - 9 - 1 = 41
+Single
+Team 2 pitcher (Laquon Perkins): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 0
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Enrique Holmes: rng1 = 34 + 7 - 11 - 1 = 29
+rng2 = 41 + 11 - 9 - 1 = 42
+Groundout
+Team 2 pitcher (Laquon Perkins): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Trent Cline: rng1 = 78 + 8 - 11 - 1 = 74
+rng2 = 53 + 8 - 9 - 1 = 51
+Single
+Team 2 pitcher (Laquon Perkins): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Cannon Terry: rng1 = 80 + 8 - 11 - 1 = 76
+rng2 = 71 + 8 - 9 - 1 = 69
+Double
+Team 2 pitcher (Laquon Perkins): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 1
+
+base1: false, base2: [5,0], base3: [4,0]
+base1: false, base2: true, base3: true
+Score: 2-1
+
+Jake Weaver: rng1 = 59 + 10 - 11 - 1 = 57
+rng2 = 67 + 7 - 9 - 1 = 64
+Flyout
+Team 2 pitcher (Laquon Perkins): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 2
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-1
+
+Erik Lowe: rng1 = 30 + 7 - 11 - 1 = 25
+Strikeout
+Team 2 pitcher (Laquon Perkins): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Jeff Murray: rng1 = 55 + 12 - 11 + 1 = 57
+rng2 = 2 + 9 - 11 + 1 = 1
+Groundout
+Team 1 pitcher (John Long): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Melvin Carlson: rng1 = 40 + 11 - 11 + 1 = 41
+rng2 = 9 + 8 - 11 + 1 = 7
+Groundout
+Team 1 pitcher (John Long): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Joey Crawford: rng1 = 75 + 9 - 11 + 1 = 74
+rng2 = 9 + 8 - 11 + 1 = 7
+Single
+Team 1 pitcher (John Long): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Ethan Murphy: rng1 = 97 + 7 - 11 + 1 = 94
+rng2 = 63 + 8 - 11 + 1 = 61
+Single
+Team 1 pitcher (John Long): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 2
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-1
+
+Nicolas Sanchez: rng1 = 30 + 9 - 11 + 1 = 29
+rng2 = 61 + 7 - 11 + 1 = 58
+Lineout
+Team 1 pitcher (John Long): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+TOP INNING 5
+
+Martin Avila: rng1 = 3 + 6 - 11 - 1 = -3
+Strikeout
+Team 2 pitcher (Laquon Perkins): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Jacobi Davis: rng1 = 67 + 15 - 11 - 1 = 70
+Walk
+Team 2 pitcher (Laquon Perkins): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Kazuhiro Ida: rng1 = 28 + 13 - 11 - 1 = 29
+rng2 = 88 + 14 - 9 - 1 = 92
+Flyout
+Team 2 pitcher (Laquon Perkins): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Alex Murphy: rng1 = 81 + 10 - 11 - 1 = 79
+rng2 = 36 + 12 - 9 - 1 = 38
+Single
+Team 2 pitcher (Laquon Perkins): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 2
+
+base1: [2,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-1
+
+Enrique Holmes: rng1 = 38 + 7 - 11 - 1 = 33
+rng2 = 82 + 11 - 9 - 1 = 83
+Flyout
+Team 2 pitcher (Laquon Perkins): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+BOTTOM INNING 5
+
+Jeffery Sims: rng1 = 93 + 9 - 11 + 1 = 92
+rng2 = 37 + 7 - 11 + 1 = 34
+Single
+Team 1 pitcher (John Long): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Alonso Welch: rng1 = 96 + 8 - 11 + 1 = 94
+rng2 = 97 + 7 - 11 + 1 = 94
+Home run
+Team 1 pitcher (John Long): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Diego Vargas: rng1 = 5 + 15 - 11 + 1 = 10
+Strikeout
+Team 1 pitcher (John Long): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Jeremy Anderson: rng1 = 47 + 15 - 11 + 1 = 52
+rng2 = 41 + 12 - 11 + 1 = 43
+Groundout
+Team 1 pitcher (John Long): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Jeff Murray: rng1 = 28 + 12 - 11 + 1 = 30
+rng2 = 11 + 9 - 11 + 1 = 10
+Groundout
+Team 1 pitcher (John Long): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Zion Wright
+
+Trent Cline: rng1 = 22 + 8 - 9 - 1 = 20
+Strikeout
+Team 2 pitcher (Zion Wright): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Cannon Terry: rng1 = 48 + 8 - 9 - 1 = 46
+rng2 = 40 + 8 - 8 - 1 = 39
+Groundout
+Team 2 pitcher (Zion Wright): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Jake Weaver: rng1 = 72 + 10 - 9 - 1 = 72
+Walk
+Team 2 pitcher (Zion Wright): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Erik Lowe: rng1 = 2 + 7 - 9 - 1 = -1
+Strikeout
+Team 2 pitcher (Zion Wright): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Tommy Greene
+
+Melvin Carlson: rng1 = 6 + 11 - 9 + 1 = 9
+Strikeout
+Team 1 pitcher (Tommy Greene): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Joey Crawford: rng1 = 49 + 9 - 9 + 1 = 50
+rng2 = 91 + 8 - 10 + 1 = 90
+Flyout
+Team 1 pitcher (Tommy Greene): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Ethan Murphy: rng1 = 15 + 7 - 9 + 1 = 14
+rng2 = 38 + 8 - 10 + 1 = 37
+Groundout
+Team 1 pitcher (Tommy Greene): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+TOP INNING 7
+
+Martin Avila: rng1 = 41 + 6 - 9 - 1 = 37
+rng2 = 65 + 8 - 8 - 1 = 64
+Flyout
+Team 2 pitcher (Zion Wright): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Jacobi Davis: rng1 = 37 + 15 - 9 - 1 = 42
+rng2 = 51 + 12 - 8 - 1 = 54
+Lineout
+Team 2 pitcher (Zion Wright): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Kazuhiro Ida: rng1 = 77 + 13 - 9 - 1 = 80
+rng2 = 66 + 14 - 8 - 1 = 71
+Double
+Team 2 pitcher (Zion Wright): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: [1,1], base3: false
+base1: false, base2: true, base3: false
+Score: 3-3
+
+Alex Murphy: rng1 = 9 + 10 - 9 - 1 = 9
+Strikeout
+Team 2 pitcher (Zion Wright): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+BOTTOM INNING 7
+
+Nicolas Sanchez: rng1 = 10 + 9 - 9 + 1 = 11
+rng2 = 45 + 7 - 10 + 1 = 43
+Groundout
+Team 1 pitcher (Tommy Greene): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Jeffery Sims: rng1 = 84 + 9 - 9 + 1 = 85
+rng2 = 19 + 7 - 10 + 1 = 17
+Single
+Team 1 pitcher (Tommy Greene): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Alonso Welch: rng1 = 32 + 8 - 9 + 1 = 32
+rng2 = 22 + 7 - 10 + 1 = 20
+Groundout
+Team 1 pitcher (Tommy Greene): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Drew Burns
+
+Enrique Holmes: rng1 = 12 + 7 - 8 - 1 = 10
+Strikeout
+Team 2 pitcher (Drew Burns): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Trent Cline: rng1 = 6 + 8 - 8 - 1 = 5
+Strikeout
+Team 2 pitcher (Drew Burns): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Cannon Terry: rng1 = 64 + 8 - 8 - 1 = 63
+rng2 = 86 + 8 - 9 - 1 = 84
+Flyout
+Team 2 pitcher (Drew Burns): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Ron Moore
+
+Diego Vargas: rng1 = 94 + 15 - 8 + 1 = 102
+rng2 = 9 + 14 - 10 + 1 = 14
+Single
+Team 1 pitcher (Ron Moore): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Jeremy Anderson: rng1 = 7 + 15 - 8 + 1 = 15
+rng2 = 36 + 12 - 10 + 1 = 39
+Groundout
+Team 1 pitcher (Ron Moore): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [0,2], base3: false
+base1: false, base2: true, base3: false
+Score: 3-3
+
+Jeff Murray: rng1 = 60 + 12 - 8 + 1 = 65
+rng2 = 96 + 9 - 10 + 1 = 96
+Flyout
+Team 1 pitcher (Ron Moore): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [0,2], base3: false
+base1: false, base2: true, base3: false
+Score: 3-3
+
+Melvin Carlson: rng1 = 44 + 11 - 8 + 1 = 48
+rng2 = 78 + 8 - 10 + 1 = 77
+Flyout
+Team 1 pitcher (Ron Moore): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+TOP INNING 9
+
+Jake Weaver: rng1 = 15 + 10 - 8 - 1 = 16
+Strikeout
+Team 2 pitcher (Drew Burns): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Erik Lowe: rng1 = 63 + 7 - 8 - 1 = 61
+rng2 = 80 + 8 - 9 - 1 = 78
+Flyout
+Team 2 pitcher (Drew Burns): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Martin Avila: rng1 = 7 + 6 - 8 - 1 = 4
+Strikeout
+Team 2 pitcher (Drew Burns): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+BOTTOM INNING 9
+
+Joey Crawford: rng1 = 75 + 9 - 8 + 1 = 77
+rng2 = 26 + 8 - 10 + 1 = 25
+Single
+Team 1 pitcher (Ron Moore): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Ethan Murphy: rng1 = 22 + 7 - 8 + 1 = 22
+Strikeout
+Team 1 pitcher (Ron Moore): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Nicolas Sanchez: rng1 = 97 + 9 - 8 + 1 = 99
+rng2 = 30 + 7 - 10 + 1 = 28
+Single
+Team 1 pitcher (Ron Moore): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [6,2], base2: false, base3: [4,2]
+base1: true, base2: false, base3: true
+Score: 3-3
+
+Jeffery Sims: rng1 = 57 + 9 - 8 + 1 = 59
+rng2 = 45 + 7 - 10 + 1 = 43
+Groundout
+Team 1 pitcher (Ron Moore): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [7,2], base2: false, base3: [4,2]
+base1: true, base2: false, base3: true
+Score: 3-3
+
+Alonso Welch: rng1 = 80 + 8 - 8 + 1 = 81
+rng2 = 43 + 7 - 10 + 1 = 41
+Single
+Team 1 pitcher (Ron Moore): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [8,2], base2: [7,2], base3: false
+base1: true, base2: true, base3: false
+Score: 3-4
+
+Team 1 pitcher change to Cullen McClain
+
+Innings: 9
+Team 1 hits: 7
+Team 2 hits: 11
+Team 1 runs: 3
+Team 2 runs: 4
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-12-06
+Jacobi Davis	2	0	1	0	0	0	0	1	0					Austin
+Kazuhiro Ida	4	0	1	1	0	0	0	0	0	
+Alex Murphy	4	1	2	0	0	0	0	0	2	
+Enrique Holmes	4	1	1	0	0	1	1	0	1	
+Trent Cline	4	1	1	0	0	0	1	0	3	
+Cannon Terry	4	0	1	1	0	0	0	0	0	
+Jake Weaver	3	0	0	0	0	0	1	1	2	
+Erik Lowe	4	0	0	0	0	0	0	0	3	
+Martin Avila	4	0	0	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+John Long	0	0	1	1	0	0	15	6	3	1	0	5	21	
+Tommy Greene	0	0	1	0	0	0	6	1	0	0	0	1	6	
+Ron Moore	0	1	1	0	0	0	5	4	1	0	0	1	9	
+Cullen McClain	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Lance Haynes	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-12-06
+Diego Vargas	4	0	1	0	0	0	0	0	2					Milwaukee
+Jeremy Anderson	4	1	1	0	1	0	0	0	0	
+Jeff Murray	4	0	1	0	0	0	1	0	0	
+Melvin Carlson	4	0	0	0	0	0	0	0	2	
+Joey Crawford	4	1	2	0	0	0	0	0	0	
+Ethan Murphy	4	0	1	0	0	0	0	0	1	
+Nicolas Sanchez	4	0	1	0	0	0	0	0	1	
+Jeffery Sims	4	1	2	0	0	0	0	0	1	
+Alonso Welch	4	1	2	0	0	1	3	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Laquon Perkins	0	0	1	1	0	0	15	6	3	1	1	6	22	
+Zion Wright	0	0	1	0	0	0	6	1	0	0	1	3	8	
+Drew Burns	1	0	1	0	0	0	6	0	0	0	0	4	6	
+Donte Walter	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Walt Lewis	0	0	0	0	0	0	0	0	0	0	0	0	0	

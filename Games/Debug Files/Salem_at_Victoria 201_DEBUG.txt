@@ -1,0 +1,799 @@
+TOP INNING 1
+
+Russell Glover: rng1 = 45 + 13 - 11 - 1 = 46
+rng2 = 96 + 9 - 10 - 1 = 94
+Flyout
+Team 2 pitcher (Chang Kwan): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Emilio Cordero: rng1 = 83 + 10 - 11 - 1 = 81
+rng2 = 49 + 12 - 10 - 1 = 50
+Single
+Team 2 pitcher (Chang Kwan): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Sam Snyder: rng1 = 49 + 8 - 11 - 1 = 45
+rng2 = 81 + 12 - 10 - 1 = 82
+Flyout
+Team 2 pitcher (Chang Kwan): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Tyler May: rng1 = 89 + 7 - 11 - 1 = 84
+rng2 = 99 + 11 - 10 - 1 = 99
+Home run
+Team 2 pitcher (Chang Kwan): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Argenis Cedeno: rng1 = 52 + 6 - 11 - 1 = 46
+rng2 = 58 + 11 - 10 - 1 = 58
+Lineout
+Team 2 pitcher (Chang Kwan): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Marcus Byrd: rng1 = 38 + 12 - 14 + 1 = 37
+rng2 = 99 + 11 - 11 + 1 = 100
+Flyout
+Team 1 pitcher (Ruben Banks): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Agustin Torres: rng1 = 69 + 11 - 14 + 1 = 67
+rng2 = 41 + 13 - 11 + 1 = 44
+Groundout
+Team 1 pitcher (Ruben Banks): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Matt Thompson: rng1 = 53 + 9 - 14 + 1 = 49
+rng2 = 47 + 10 - 11 + 1 = 47
+Groundout
+Team 1 pitcher (Ruben Banks): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+TOP INNING 2
+
+Abel Leoz: rng1 = 2 + 6 - 11 - 1 = -4
+Strikeout
+Team 2 pitcher (Chang Kwan): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Ethan Clarke: rng1 = 10 + 7 - 11 - 1 = 5
+Strikeout
+Team 2 pitcher (Chang Kwan): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Santino Reyes: rng1 = 17 + 7 - 11 - 1 = 12
+rng2 = 48 + 8 - 10 - 1 = 45
+Groundout
+Team 2 pitcher (Chang Kwan): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Larry Goodwin: rng1 = 24 + 8 - 14 + 1 = 19
+Strikeout
+Team 1 pitcher (Ruben Banks): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Orlando Cuevas: rng1 = 19 + 7 - 14 + 1 = 13
+rng2 = 44 + 10 - 11 + 1 = 44
+Groundout
+Team 1 pitcher (Ruben Banks): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Ben Wheeler: rng1 = 96 + 7 - 14 + 1 = 90
+Walk
+Team 1 pitcher (Ruben Banks): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Pablo Hernandez: rng1 = 14 + 7 - 14 + 1 = 8
+Strikeout
+Team 1 pitcher (Ruben Banks): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+TOP INNING 3
+
+Jeon Jong-Ho: rng1 = 85 + 6 - 11 - 1 = 79
+rng2 = 61 + 8 - 10 - 1 = 58
+Single
+Team 2 pitcher (Chang Kwan): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Russell Glover: rng1 = 94 + 13 - 11 - 1 = 95
+rng2 = 25 + 9 - 10 - 1 = 23
+Single
+Team 2 pitcher (Chang Kwan): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 0
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-0
+
+Emilio Cordero: rng1 = 30 + 10 - 11 - 1 = 28
+Strikeout
+Team 2 pitcher (Chang Kwan): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 1
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-0
+
+Sam Snyder: rng1 = 53 + 8 - 11 - 1 = 49
+rng2 = 1 + 12 - 10 - 1 = 2
+Groundout
+Team 2 pitcher (Chang Kwan): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 2
+
+base1: [2,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 2-0
+
+Tyler May: rng1 = 13 + 7 - 11 - 1 = 8
+Strikeout
+Team 2 pitcher (Chang Kwan): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Josué Sarmiento: rng1 = 77 + 7 - 14 + 1 = 71
+Walk
+Team 1 pitcher (Ruben Banks): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Marques Taylor: rng1 = 40 + 8 - 14 + 1 = 35
+rng2 = 43 + 7 - 11 + 1 = 40
+Groundout
+Team 1 pitcher (Ruben Banks): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-0
+
+Marcus Byrd: rng1 = 20 + 12 - 14 + 1 = 19
+Strikeout
+Team 1 pitcher (Ruben Banks): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-0
+
+Agustin Torres: rng1 = 30 + 11 - 14 + 1 = 28
+Strikeout
+Team 1 pitcher (Ruben Banks): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+TOP INNING 4
+
+Argenis Cedeno: rng1 = 45 + 6 - 11 - 1 = 39
+rng2 = 9 + 11 - 10 - 1 = 9
+Groundout
+Team 2 pitcher (Chang Kwan): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Abel Leoz: rng1 = 11 + 6 - 11 - 1 = 5
+Strikeout
+Team 2 pitcher (Chang Kwan): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Ethan Clarke: rng1 = 29 + 7 - 11 - 1 = 24
+Strikeout
+Team 2 pitcher (Chang Kwan): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+BOTTOM INNING 4
+
+Matt Thompson: rng1 = 63 + 9 - 14 + 1 = 59
+rng2 = 42 + 10 - 11 + 1 = 42
+Groundout
+Team 1 pitcher (Ruben Banks): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Larry Goodwin: rng1 = 80 + 8 - 14 + 1 = 75
+rng2 = 21 + 10 - 11 + 1 = 21
+Single
+Team 1 pitcher (Ruben Banks): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Orlando Cuevas: rng1 = 53 + 7 - 14 + 1 = 47
+rng2 = 97 + 10 - 11 + 1 = 97
+Flyout
+Team 1 pitcher (Ruben Banks): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Ben Wheeler: rng1 = 81 + 7 - 14 + 1 = 75
+rng2 = 86 + 8 - 11 + 1 = 84
+Home run
+Team 1 pitcher (Ruben Banks): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Pablo Hernandez: rng1 = 34 + 7 - 14 + 1 = 28
+Strikeout
+Team 1 pitcher (Ruben Banks): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+TOP INNING 5
+
+Santino Reyes: rng1 = 60 + 7 - 11 - 1 = 55
+rng2 = 4 + 8 - 10 - 1 = 1
+Groundout
+Team 2 pitcher (Chang Kwan): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Jeon Jong-Ho: rng1 = 80 + 6 - 11 - 1 = 74
+rng2 = 70 + 8 - 10 - 1 = 67
+Double
+Team 2 pitcher (Chang Kwan): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 1
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-2
+
+Russell Glover: rng1 = 91 + 13 - 11 - 1 = 92
+rng2 = 94 + 9 - 10 - 1 = 92
+Double
+Team 2 pitcher (Chang Kwan): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-2
+
+Emilio Cordero: rng1 = 92 + 10 - 11 - 1 = 90
+Walk
+Team 2 pitcher (Chang Kwan): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 1
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-2
+
+Sam Snyder: rng1 = 100 + 8 - 11 - 1 = 96
+rng2 = 6 + 12 - 10 - 1 = 7
+Single
+Team 2 pitcher (Chang Kwan): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 1
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 4-2
+
+Tyler May: rng1 = 79 + 7 - 11 - 1 = 74
+rng2 = 97 + 11 - 10 - 1 = 97
+Home run
+Team 2 pitcher (Chang Kwan): 22 batters faced, 7 runs allowed = 22 + 17.5 = 39.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-2
+
+Team 2 pitcher change to Emiliano Navarro
+
+Argenis Cedeno: rng1 = 58 + 6 - 8 - 1 = 55
+rng2 = 85 + 11 - 6 - 1 = 89
+Flyout
+Team 2 pitcher (Emiliano Navarro): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-2
+
+Abel Leoz: rng1 = 96 + 6 - 8 - 1 = 93
+rng2 = 52 + 9 - 6 - 1 = 54
+Single
+Team 2 pitcher (Emiliano Navarro): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-2
+
+Ethan Clarke: rng1 = 93 + 7 - 8 - 1 = 91
+rng2 = 60 + 8 - 6 - 1 = 61
+Single
+Team 2 pitcher (Emiliano Navarro): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [6,1], base2: [5,1], base3: false
+base1: true, base2: true, base3: false
+Score: 7-2
+
+Santino Reyes: rng1 = 60 + 7 - 8 - 1 = 58
+rng2 = 5 + 8 - 6 - 1 = 6
+Groundout
+Team 2 pitcher (Emiliano Navarro): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-2
+
+-----------------------
+
+BOTTOM INNING 5
+
+Josué Sarmiento: rng1 = 22 + 7 - 14 + 1 = 16
+Strikeout
+Team 1 pitcher (Ruben Banks): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-2
+
+Marques Taylor: rng1 = 87 + 8 - 14 + 1 = 82
+rng2 = 35 + 7 - 11 + 1 = 32
+Single
+Team 1 pitcher (Ruben Banks): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-2
+
+Marcus Byrd: rng1 = 14 + 12 - 14 + 1 = 13
+rng2 = 28 + 11 - 11 + 1 = 29
+Groundout
+Team 1 pitcher (Ruben Banks): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-2
+
+Agustin Torres: rng1 = 37 + 11 - 14 + 1 = 35
+rng2 = 6 + 13 - 11 + 1 = 9
+Groundout
+Team 1 pitcher (Ruben Banks): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-2
+
+-----------------------
+
+TOP INNING 6
+
+Jeon Jong-Ho: rng1 = 69 + 6 - 8 - 1 = 66
+rng2 = 20 + 8 - 6 - 1 = 21
+Groundout
+Team 2 pitcher (Emiliano Navarro): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-2
+
+Russell Glover: rng1 = 11 + 13 - 8 - 1 = 15
+rng2 = 69 + 9 - 6 - 1 = 71
+Flyout
+Team 2 pitcher (Emiliano Navarro): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-2
+
+Emilio Cordero: rng1 = 69 + 10 - 8 - 1 = 70
+Walk
+Team 2 pitcher (Emiliano Navarro): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-2
+
+Sam Snyder: rng1 = 45 + 8 - 8 - 1 = 44
+rng2 = 1 + 12 - 6 - 1 = 6
+Groundout
+Team 2 pitcher (Emiliano Navarro): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-2
+
+-----------------------
+
+BOTTOM INNING 6
+
+Matt Thompson: rng1 = 3 + 9 - 14 + 1 = -1
+Strikeout
+Team 1 pitcher (Ruben Banks): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-2
+
+Larry Goodwin: rng1 = 82 + 8 - 14 + 1 = 77
+rng2 = 10 + 10 - 11 + 1 = 10
+Single
+Team 1 pitcher (Ruben Banks): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-2
+
+Orlando Cuevas: rng1 = 33 + 7 - 14 + 1 = 27
+Strikeout
+Team 1 pitcher (Ruben Banks): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-2
+
+Ben Wheeler: rng1 = 94 + 7 - 14 + 1 = 88
+Walk
+Team 1 pitcher (Ruben Banks): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 2
+
+base1: [5,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 7-2
+
+Pablo Hernandez: rng1 = 41 + 7 - 14 + 1 = 35
+rng2 = 9 + 8 - 11 + 1 = 7
+Groundout
+Team 1 pitcher (Ruben Banks): 25 batters faced, 2 runs allowed = 25 + 5.0 = 30.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-2
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Julio Ventura
+
+Tyler May: rng1 = 51 + 7 - 10 - 1 = 47
+rng2 = 56 + 11 - 7 - 1 = 59
+Flyout
+Team 2 pitcher (Julio Ventura): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-2
+
+Argenis Cedeno: rng1 = 59 + 6 - 10 - 1 = 54
+rng2 = 2 + 11 - 7 - 1 = 5
+Groundout
+Team 2 pitcher (Julio Ventura): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-2
+
+Abel Leoz: rng1 = 75 + 6 - 10 - 1 = 70
+Walk
+Team 2 pitcher (Julio Ventura): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-2
+
+Ethan Clarke: rng1 = 90 + 7 - 10 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Julio Ventura): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [6,2], base2: [5,2], base3: false
+base1: true, base2: true, base3: false
+Score: 7-2
+
+Santino Reyes: rng1 = 84 + 7 - 10 - 1 = 80
+rng2 = 48 + 8 - 7 - 1 = 48
+Single
+Team 2 pitcher (Julio Ventura): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: [7,2], base2: [6,2], base3: [5,2]
+base1: true, base2: true, base3: true
+Score: 7-2
+
+Jeon Jong-Ho: rng1 = 23 + 6 - 10 - 1 = 18
+Strikeout
+Team 2 pitcher (Julio Ventura): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-2
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Legend Brooks
+
+Josué Sarmiento: rng1 = 77 + 7 - 9 + 1 = 76
+rng2 = 82 + 8 - 9 + 1 = 82
+Home run
+Team 1 pitcher (Legend Brooks): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-3
+
+Marques Taylor: rng1 = 37 + 8 - 9 + 1 = 37
+rng2 = 34 + 7 - 9 + 1 = 33
+Groundout
+Team 1 pitcher (Legend Brooks): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-3
+
+Marcus Byrd: rng1 = 83 + 12 - 9 + 1 = 87
+Walk
+Team 1 pitcher (Legend Brooks): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-3
+
+Agustin Torres: rng1 = 37 + 11 - 9 + 1 = 40
+rng2 = 60 + 13 - 9 + 1 = 65
+Flyout
+Team 1 pitcher (Legend Brooks): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-3
+
+Matt Thompson: rng1 = 15 + 9 - 9 + 1 = 16
+Strikeout
+Team 1 pitcher (Legend Brooks): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-3
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Aoyama Kyoji
+
+Russell Glover: rng1 = 64 + 13 - 8 - 1 = 68
+rng2 = 1 + 9 - 8 - 1 = 1
+Groundout
+Team 2 pitcher (Aoyama Kyoji): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-3
+
+Emilio Cordero: rng1 = 12 + 10 - 8 - 1 = 13
+rng2 = 32 + 12 - 8 - 1 = 35
+Groundout
+Team 2 pitcher (Aoyama Kyoji): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-3
+
+Sam Snyder: rng1 = 8 + 8 - 8 - 1 = 7
+Strikeout
+Team 2 pitcher (Aoyama Kyoji): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-3
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Abel Vera
+
+Larry Goodwin: rng1 = 82 + 8 - 8 + 1 = 83
+rng2 = 31 + 10 - 8 + 1 = 34
+Single
+Team 1 pitcher (Abel Vera): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [3,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-3
+
+Orlando Cuevas: rng1 = 33 + 7 - 8 + 1 = 33
+rng2 = 15 + 10 - 8 + 1 = 18
+Groundout
+Team 1 pitcher (Abel Vera): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-3
+
+Ben Wheeler: rng1 = 77 + 7 - 8 + 1 = 77
+rng2 = 43 + 8 - 8 + 1 = 44
+Single
+Team 1 pitcher (Abel Vera): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-3
+
+Pablo Hernandez: rng1 = 39 + 7 - 8 + 1 = 39
+rng2 = 8 + 8 - 8 + 1 = 9
+Groundout
+Team 1 pitcher (Abel Vera): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-3
+
+-----------------------
+
+TOP INNING 9
+
+Tyler May: rng1 = 58 + 7 - 8 - 1 = 56
+rng2 = 2 + 11 - 8 - 1 = 4
+Groundout
+Team 2 pitcher (Aoyama Kyoji): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-3
+
+Argenis Cedeno: rng1 = 27 + 6 - 8 - 1 = 24
+Strikeout
+Team 2 pitcher (Aoyama Kyoji): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-3
+
+Abel Leoz: rng1 = 12 + 6 - 8 - 1 = 9
+Strikeout
+Team 2 pitcher (Aoyama Kyoji): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-3
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Luis Rodriguez
+
+Josué Sarmiento: rng1 = 64 + 7 - 10 + 1 = 62
+rng2 = 83 + 8 - 11 + 1 = 81
+Flyout
+Team 1 pitcher (Luis Rodriguez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-3
+
+Marques Taylor: rng1 = 93 + 8 - 10 + 1 = 92
+rng2 = 26 + 7 - 11 + 1 = 23
+Single
+Team 1 pitcher (Luis Rodriguez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [8,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-3
+
+Marcus Byrd: rng1 = 18 + 12 - 10 + 1 = 21
+Strikeout
+Team 1 pitcher (Luis Rodriguez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [8,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-3
+
+Agustin Torres: rng1 = 44 + 11 - 10 + 1 = 46
+rng2 = 30 + 13 - 11 + 1 = 33
+Groundout
+Team 1 pitcher (Luis Rodriguez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-3
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 11
+Team 2 hits: 8
+Team 1 runs: 7
+Team 2 runs: 3
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-12-06
+Russell Glover	5	1	2	1	0	0	1	0	0					Salem
+Emilio Cordero	3	2	1	0	0	0	0	2	1	
+Sam Snyder	5	1	1	0	0	0	1	0	1	
+Tyler May	5	2	2	0	0	2	5	0	1	
+Argenis Cedeno	5	0	0	0	0	0	0	0	1	
+Abel Leoz	4	0	1	0	0	0	0	1	3	
+Ethan Clarke	3	0	1	0	0	0	0	0	2	
+Santino Reyes	4	0	1	0	0	0	0	0	0	
+Jeon Jong-Ho	4	1	2	1	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Ruben Banks	1	0	1	1	0	0	18	4	2	1	3	8	25	
+Legend Brooks	0	0	1	0	0	0	3	1	1	1	1	1	5	
+Abel Vera	0	0	1	0	0	0	3	2	0	0	0	0	4	
+Mason Lane	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Luis Rodriguez	0	0	1	0	0	0	3	1	0	0	0	1	4	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-12-06
+Marcus Byrd	4	0	0	0	0	0	0	1	2					Victoria
+Agustin Torres	5	0	0	0	0	0	0	0	1	
+Matt Thompson	4	0	0	0	0	0	0	0	2	
+Larry Goodwin	4	1	3	0	0	0	0	0	1	
+Orlando Cuevas	4	0	0	0	0	0	0	0	1	
+Ben Wheeler	2	1	2	0	0	1	2	2	0	
+Pablo Hernandez	4	0	0	0	0	0	0	0	2	
+Josué Sarmiento	3	1	1	0	0	1	1	1	1	
+Marques Taylor	4	0	2	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Chang Kwan	0	1	1	1	0	0	13	8	7	2	1	6	22	
+Emiliano Navarro	0	0	1	0	0	0	5	2	0	0	1	0	8	
+Julio Ventura	0	0	1	0	0	0	3	1	0	0	1	1	6	
+Aoyama Kyoji	0	0	1	0	0	0	6	0	0	0	0	3	6	
+Julio Ramirez	0	0	0	0	0	0	0	0	0	0	0	0	0	

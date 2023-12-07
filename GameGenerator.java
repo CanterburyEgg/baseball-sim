@@ -6,9 +6,63 @@ import java.time.LocalDate;
 
 public class GameGenerator 
 {
-	public static PrintWriter gameOutput = null, gameDebug = null;
+	public static PrintWriter gameOutput = null, gameDebug = null, statCompendium = null, finalScores = null;
+	public static boolean printingStats = false;
+	public static int tracker = 0;
 	
 	public static void main(String[] args) throws FileNotFoundException
+	{
+		if (args.length == 0)
+		{
+			System.out.println("Welcome to Egg's baseball sim! Try 'java GameGenerator.java game [team1] [team2]' to simulate a game.");
+		}
+		else if (args[0].equals("game"))
+		{
+			if (args.length == 1)
+			{
+				System.out.println("Try 'java GameGenerator.java game [team1] [team2]'.");
+			}
+			else
+			{
+				playGame(args[1], args[2], false);				
+			}
+		}
+		else if (args[0].equals("scheduleSim"))
+		{
+			if (args.length == 1)
+			{
+				System.out.println("Try 'java GameGenerator.java scheduleSim [fileName].");
+			}
+			else
+			{
+				try {
+					statCompendium = new PrintWriter("statCompendium.txt");
+					finalScores = new PrintWriter("finalScores.txt");
+				} catch (IOException e)
+				{
+					System.out.println("Couldn't create stat compendium.");
+					e.printStackTrace();
+					System.exit(0);
+				}
+
+				Scanner inputFile = new Scanner(new File(args[1]));
+
+				while (inputFile.hasNext())
+				{
+					String awayTeam = inputFile.next();
+					String homeTeam = inputFile.next();
+
+					playGame(awayTeam, homeTeam, true);
+					statCompendium.println("");
+				}
+
+				statCompendium.close();
+				finalScores.close();
+			}
+		}
+	}
+
+	public static void playGame(String t1arg, String t2arg, boolean compilingStats) throws FileNotFoundException
 	{
 		boolean game = true;
 		boolean base1 = false;
@@ -44,31 +98,26 @@ public class GameGenerator
 		int tempA = 0, tempB = 0, tempC = 0, tempD = 0;
 		boolean pitchswapA = false, pitchswapB = false, pitchswapC = false, pitchswapD = false;
 		
-		String n1 = "", t1 = "", n2 = "", t2 = "";
-		if (args.length == 0)
-		{
-			Scanner input = new Scanner(System.in);
-			System.out.print("Away team: ");
-			n1 = input.nextLine();
-			System.out.print("Home team: ");
-			n2 = input.nextLine();
-			System.out.println();
-			input.close();
-		}
-		else
-		{
-			n1 = args[0];
-			n2 = args[1];
-		}
+		String t1 = "", t2 = "";
 
-		t1 = "Teams/" + n1 + ".txt";
-		t2 = "Teams/" + n2 + ".txt";
+		t1 = "Teams/" + t1arg + ".txt";
+		t2 = "Teams/" + t2arg + ".txt";
 		
 		try {
-			DateFormat df = new SimpleDateFormat("MM-dd-yyyy");
-			Date date = new Date();
-			gameOutput = new PrintWriter("Games/" + n1 + "_at_" + n2 + " " + df.format(date) + ".txt");
-			gameDebug = new PrintWriter("Games/Debug Files/" + n1 + "_at_" + n2 + " " + df.format(date) + "_DEBUG.txt");
+			if (compilingStats)
+			{
+				gameOutput = new PrintWriter("Games/" + t1arg + "_at_" + t2arg + "_" + tracker + ".txt");
+				gameDebug = new PrintWriter("Games/Debug Files/" + t1arg + "_at_" + t2arg + " " + tracker + "_DEBUG.txt");
+
+				tracker++;
+			}
+			else
+			{
+				DateFormat df = new SimpleDateFormat("MM-dd-yyyy");
+				Date date = new Date();
+				gameOutput = new PrintWriter("Games/" + t1arg + "_at_" + t2arg + " " + df.format(date) + ".txt");
+				gameDebug = new PrintWriter("Games/Debug Files/" + t1arg + "_at_" + t2arg + " " + df.format(date) + "_DEBUG.txt");
+			}
 		} catch (IOException e)
 		{
 			System.out.println("Couldn't create game file.");
@@ -2827,6 +2876,12 @@ public class GameGenerator
 				
 				if (!game)
 				{
+					if (compilingStats)
+					{
+						printingStats = true;
+						finalScores.println(runs1 + "\t" + t1arg + "\t@\t" + t2arg + "\t" + runs2);
+					}
+
 					FullPrintLine("Player\tAB\tR\tH\t2B\t3B\tHR\tRBI\tBB\tSO\t\t\t\t\t" + LocalDate.now());
 					
 					for (int i = 0; i < team1.length; i++)
@@ -2837,7 +2892,7 @@ public class GameGenerator
 							FullPrint(team1[i][j] + "\t");
 						}
 						if (i == 0)
-							FullPrint("\t\t\t\t" + n1);
+							FullPrint("\t\t\t\t" + t1arg);
 						FullPrintLine("");
 					}
 					
@@ -2865,7 +2920,7 @@ public class GameGenerator
 							FullPrint(team2[i][j] + "\t");
 						}
 						if (i == 0)
-							FullPrint("\t\t\t\t" + n2);
+							FullPrint("\t\t\t\t" + t2arg);
 						FullPrintLine("");
 					}
 					
@@ -2881,6 +2936,9 @@ public class GameGenerator
 						}
 						FullPrintLine("");
 					}
+
+					if (compilingStats)
+						printingStats = false;
 					
 					if (pitchers1[p1index][6] % 3 == 0 && pitchers1[p1index][12]-1 + pitchers1[p1index][8]*2.5 > 35)
 						gameOutput.println("CHECK DEBUG: Team 1 Pitcher checkval > 35");
@@ -3183,6 +3241,11 @@ public class GameGenerator
 		System.out.println(s);
 		gameOutput.println(s);
 		gameDebug.println(s);
+
+		if (printingStats)
+		{
+			statCompendium.println(s);
+		}
 	}
 	
 	public static void FullPrint(String s)
@@ -3190,5 +3253,10 @@ public class GameGenerator
 		System.out.print(s);
 		gameOutput.print(s);
 		gameDebug.print(s);
+
+		if (printingStats)
+		{
+			statCompendium.print(s);
+		}
 	}
 }

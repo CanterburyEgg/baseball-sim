@@ -1,0 +1,765 @@
+TOP INNING 1
+
+Ramon Cabrera: rng1 = 34 + 15 - 7 - 1 = 41
+rng2 = 81 + 11 - 6 - 1 = 85
+Flyout
+Team 2 pitcher (Quintavius Lewis): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Pedro Martinez: rng1 = 11 + 11 - 7 - 1 = 14
+rng2 = 16 + 12 - 6 - 1 = 21
+Groundout
+Team 2 pitcher (Quintavius Lewis): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Billy Campbell: rng1 = 53 + 10 - 7 - 1 = 55
+rng2 = 13 + 12 - 6 - 1 = 18
+Groundout
+Team 2 pitcher (Quintavius Lewis): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Marcus Byrd: rng1 = 93 + 12 - 8 + 1 = 98
+rng2 = 93 + 11 - 9 + 1 = 96
+Home run
+Team 1 pitcher (Elias Betancourt): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Agustin Torres: rng1 = 8 + 11 - 8 + 1 = 12
+rng2 = 3 + 13 - 9 + 1 = 8
+Groundout
+Team 1 pitcher (Elias Betancourt): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Matt Thompson: rng1 = 45 + 9 - 8 + 1 = 47
+rng2 = 35 + 10 - 9 + 1 = 37
+Groundout
+Team 1 pitcher (Elias Betancourt): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Larry Goodwin: rng1 = 35 + 8 - 8 + 1 = 36
+rng2 = 30 + 10 - 9 + 1 = 32
+Groundout
+Team 1 pitcher (Elias Betancourt): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 2
+
+Clifford Norris: rng1 = 37 + 7 - 7 - 1 = 36
+rng2 = 85 + 10 - 6 - 1 = 88
+Flyout
+Team 2 pitcher (Quintavius Lewis): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Jayden Green: rng1 = 41 + 7 - 7 - 1 = 40
+rng2 = 69 + 10 - 6 - 1 = 72
+Flyout
+Team 2 pitcher (Quintavius Lewis): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Orlando Cazalla: rng1 = 7 + 7 - 7 - 1 = 6
+Strikeout
+Team 2 pitcher (Quintavius Lewis): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Orlando Cuevas: rng1 = 1 + 7 - 8 + 1 = 1
+Strikeout
+Team 1 pitcher (Elias Betancourt): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Ben Wheeler: rng1 = 37 + 7 - 8 + 1 = 37
+rng2 = 10 + 8 - 9 + 1 = 10
+Groundout
+Team 1 pitcher (Elias Betancourt): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Pablo Hernandez: rng1 = 72 + 7 - 8 + 1 = 72
+Walk
+Team 1 pitcher (Elias Betancourt): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Josué Sarmiento: rng1 = 31 + 7 - 8 + 1 = 31
+rng2 = 32 + 8 - 9 + 1 = 32
+Groundout
+Team 1 pitcher (Elias Betancourt): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 3
+
+Bryson Mckinney: rng1 = 91 + 7 - 7 - 1 = 90
+Walk
+Team 2 pitcher (Quintavius Lewis): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Emmanuel Ramirez: rng1 = 89 + 7 - 7 - 1 = 88
+Walk
+Team 2 pitcher (Quintavius Lewis): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 0
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-1
+
+Wesley Powers: rng1 = 75 + 8 - 7 - 1 = 75
+rng2 = 49 + 7 - 6 - 1 = 49
+Single
+Team 2 pitcher (Quintavius Lewis): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 0
+
+base1: [8,0], base2: [7,0], base3: [6,0]
+base1: true, base2: true, base3: true
+Score: 0-1
+
+Ramon Cabrera: rng1 = 95 + 15 - 7 - 1 = 102
+rng2 = 9 + 11 - 6 - 1 = 13
+Single
+Team 2 pitcher (Quintavius Lewis): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 0
+
+base1: [0,0], base2: [8,0], base3: [7,0]
+base1: true, base2: true, base3: true
+Score: 1-1
+
+Pedro Martinez: rng1 = 77 + 11 - 7 - 1 = 80
+rng2 = 25 + 12 - 6 - 1 = 30
+Single
+Team 2 pitcher (Quintavius Lewis): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 0
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-1
+
+Billy Campbell: rng1 = 36 + 10 - 7 - 1 = 38
+rng2 = 37 + 12 - 6 - 1 = 42
+Groundout
+Team 2 pitcher (Quintavius Lewis): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 1
+
+base1: [2,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 3-1
+
+Clifford Norris: rng1 = 92 + 7 - 7 - 1 = 91
+rng2 = 76 + 10 - 6 - 1 = 79
+Triple
+Team 2 pitcher (Quintavius Lewis): 13 batters faced, 5 runs allowed = 13 + 12.5 = 25.5, outs: 1
+
+base1: false, base2: false, base3: [3,0]
+base1: false, base2: false, base3: true
+Score: 5-1
+
+Jayden Green: rng1 = 82 + 7 - 7 - 1 = 81
+rng2 = 62 + 10 - 6 - 1 = 65
+Single
+Team 2 pitcher (Quintavius Lewis): 14 batters faced, 6 runs allowed = 14 + 15.0 = 29.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-1
+
+Orlando Cazalla: rng1 = 59 + 7 - 7 - 1 = 58
+rng2 = 26 + 9 - 6 - 1 = 28
+Groundout
+Team 2 pitcher (Quintavius Lewis): 15 batters faced, 6 runs allowed = 15 + 15.0 = 30.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Marques Taylor: rng1 = 17 + 8 - 8 + 1 = 18
+Strikeout
+Team 1 pitcher (Elias Betancourt): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Marcus Byrd: rng1 = 40 + 12 - 8 + 1 = 45
+rng2 = 66 + 11 - 9 + 1 = 69
+Flyout
+Team 1 pitcher (Elias Betancourt): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Agustin Torres: rng1 = 4 + 11 - 8 + 1 = 8
+Strikeout
+Team 1 pitcher (Elias Betancourt): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+TOP INNING 4
+
+Team 2 pitcher change to Emiliano Navarro
+
+Bryson Mckinney: rng1 = 38 + 7 - 8 - 1 = 36
+rng2 = 14 + 8 - 6 - 1 = 15
+Groundout
+Team 2 pitcher (Emiliano Navarro): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Emmanuel Ramirez: rng1 = 87 + 7 - 8 - 1 = 85
+rng2 = 55 + 8 - 6 - 1 = 56
+Single
+Team 2 pitcher (Emiliano Navarro): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-1
+
+Wesley Powers: rng1 = 100 + 8 - 8 - 1 = 99
+rng2 = 26 + 7 - 6 - 1 = 26
+Single
+Team 2 pitcher (Emiliano Navarro): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [8,1], base2: [7,1], base3: false
+base1: true, base2: true, base3: false
+Score: 6-1
+
+Ramon Cabrera: rng1 = 33 + 15 - 8 - 1 = 39
+rng2 = 21 + 11 - 6 - 1 = 25
+Groundout
+Team 2 pitcher (Emiliano Navarro): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Matt Thompson: rng1 = 76 + 9 - 8 + 1 = 78
+rng2 = 40 + 10 - 9 + 1 = 42
+Single
+Team 1 pitcher (Elias Betancourt): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 0
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-1
+
+Larry Goodwin: rng1 = 27 + 8 - 8 + 1 = 28
+Strikeout
+Team 1 pitcher (Elias Betancourt): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-1
+
+Orlando Cuevas: rng1 = 50 + 7 - 8 + 1 = 50
+rng2 = 99 + 10 - 9 + 1 = 101
+Flyout
+Team 1 pitcher (Elias Betancourt): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-1
+
+Ben Wheeler: rng1 = 88 + 7 - 8 + 1 = 88
+Walk
+Team 1 pitcher (Elias Betancourt): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 2
+
+base1: [5,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 6-1
+
+Pablo Hernandez: rng1 = 6 + 7 - 8 + 1 = 6
+Strikeout
+Team 1 pitcher (Elias Betancourt): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+TOP INNING 5
+
+Team 2 pitcher change to Julio Ventura
+
+Pedro Martinez: rng1 = 19 + 11 - 10 - 1 = 19
+Strikeout
+Team 2 pitcher (Julio Ventura): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Billy Campbell: rng1 = 11 + 10 - 10 - 1 = 10
+Strikeout
+Team 2 pitcher (Julio Ventura): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Clifford Norris: rng1 = 12 + 7 - 10 - 1 = 8
+Strikeout
+Team 2 pitcher (Julio Ventura): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+BOTTOM INNING 5
+
+Josué Sarmiento: rng1 = 96 + 7 - 8 + 1 = 96
+rng2 = 69 + 8 - 9 + 1 = 69
+Double
+Team 1 pitcher (Elias Betancourt): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 0
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 6-1
+
+Marques Taylor: rng1 = 12 + 8 - 8 + 1 = 13
+rng2 = 11 + 7 - 9 + 1 = 10
+Groundout
+Team 1 pitcher (Elias Betancourt): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 1
+
+base1: false, base2: false, base3: [7,0]
+base1: false, base2: false, base3: true
+Score: 6-1
+
+Marcus Byrd: rng1 = 68 + 12 - 8 + 1 = 73
+rng2 = 23 + 11 - 9 + 1 = 26
+Single
+Team 1 pitcher (Elias Betancourt): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-2
+
+Agustin Torres: rng1 = 80 + 11 - 8 + 1 = 84
+rng2 = 61 + 13 - 9 + 1 = 66
+Double
+Team 1 pitcher (Elias Betancourt): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 6-3
+
+Matt Thompson: rng1 = 79 + 9 - 8 + 1 = 81
+rng2 = 9 + 10 - 9 + 1 = 11
+Single
+Team 1 pitcher (Elias Betancourt): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-4
+
+Larry Goodwin: rng1 = 73 + 8 - 8 + 1 = 74
+rng2 = 73 + 10 - 9 + 1 = 75
+Double
+Team 1 pitcher (Elias Betancourt): 22 batters faced, 5 runs allowed = 22 + 12.5 = 34.5, outs: 1
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 6-5
+
+Orlando Cuevas: rng1 = 8 + 7 - 8 + 1 = 8
+Strikeout
+Team 1 pitcher (Elias Betancourt): 23 batters faced, 5 runs allowed = 23 + 12.5 = 35.5, outs: 2
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 6-5
+
+Team 1 pitcher change to Curtis Holmes
+
+Ben Wheeler: rng1 = 48 + 7 - 12 + 1 = 44
+rng2 = 26 + 8 - 12 + 1 = 23
+Groundout
+Team 1 pitcher (Curtis Holmes): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-5
+
+-----------------------
+
+TOP INNING 6
+
+Jayden Green: rng1 = 42 + 7 - 10 - 1 = 38
+rng2 = 7 + 10 - 7 - 1 = 9
+Groundout
+Team 2 pitcher (Julio Ventura): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-5
+
+Orlando Cazalla: rng1 = 47 + 7 - 10 - 1 = 43
+rng2 = 34 + 9 - 7 - 1 = 35
+Groundout
+Team 2 pitcher (Julio Ventura): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-5
+
+Bryson Mckinney: rng1 = 39 + 7 - 10 - 1 = 35
+rng2 = 90 + 8 - 7 - 1 = 90
+Flyout
+Team 2 pitcher (Julio Ventura): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-5
+
+-----------------------
+
+BOTTOM INNING 6
+
+Pablo Hernandez: rng1 = 95 + 7 - 12 + 1 = 91
+rng2 = 31 + 8 - 12 + 1 = 28
+Single
+Team 1 pitcher (Curtis Holmes): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-5
+
+Josué Sarmiento: rng1 = 13 + 7 - 12 + 1 = 9
+Strikeout
+Team 1 pitcher (Curtis Holmes): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-5
+
+Marques Taylor: rng1 = 32 + 8 - 12 + 1 = 29
+rng2 = 31 + 7 - 12 + 1 = 27
+Groundout
+Team 1 pitcher (Curtis Holmes): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-5
+
+Marcus Byrd: rng1 = 67 + 12 - 12 + 1 = 68
+rng2 = 33 + 11 - 12 + 1 = 33
+Groundout
+Team 1 pitcher (Curtis Holmes): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-5
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Aoyama Kyoji
+
+Emmanuel Ramirez: rng1 = 58 + 7 - 8 - 1 = 56
+rng2 = 70 + 8 - 8 - 1 = 69
+Flyout
+Team 2 pitcher (Aoyama Kyoji): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-5
+
+Wesley Powers: rng1 = 9 + 8 - 8 - 1 = 8
+Strikeout
+Team 2 pitcher (Aoyama Kyoji): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-5
+
+Ramon Cabrera: rng1 = 75 + 15 - 8 - 1 = 81
+rng2 = 95 + 11 - 8 - 1 = 97
+Home run
+Team 2 pitcher (Aoyama Kyoji): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-5
+
+Pedro Martinez: rng1 = 100 + 11 - 8 - 1 = 102
+rng2 = 45 + 12 - 8 - 1 = 48
+Single
+Team 2 pitcher (Aoyama Kyoji): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [1,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-5
+
+Billy Campbell: rng1 = 3 + 10 - 8 - 1 = 4
+Strikeout
+Team 2 pitcher (Aoyama Kyoji): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-5
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Tim Brooks
+
+Agustin Torres: rng1 = 33 + 11 - 10 + 1 = 35
+rng2 = 18 + 13 - 13 + 1 = 19
+Groundout
+Team 1 pitcher (Tim Brooks): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-5
+
+Matt Thompson: rng1 = 90 + 9 - 10 + 1 = 90
+Walk
+Team 1 pitcher (Tim Brooks): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-5
+
+Larry Goodwin: rng1 = 6 + 8 - 10 + 1 = 5
+Strikeout
+Team 1 pitcher (Tim Brooks): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-5
+
+Orlando Cuevas: rng1 = 12 + 7 - 10 + 1 = 10
+Strikeout
+Team 1 pitcher (Tim Brooks): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-5
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Julio Ramirez
+
+Clifford Norris: rng1 = 10 + 7 - 13 - 1 = 3
+Strikeout
+Team 2 pitcher (Julio Ramirez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-5
+
+Jayden Green: rng1 = 26 + 7 - 13 - 1 = 19
+Strikeout
+Team 2 pitcher (Julio Ramirez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-5
+
+Orlando Cazalla: rng1 = 96 + 7 - 13 - 1 = 89
+Walk
+Team 2 pitcher (Julio Ramirez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [5,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-5
+
+Bryson Mckinney: rng1 = 67 + 7 - 13 - 1 = 60
+rng2 = 5 + 8 - 10 - 1 = 2
+Groundout
+Team 2 pitcher (Julio Ramirez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-5
+
+-----------------------
+
+BOTTOM INNING 8
+
+Ben Wheeler: rng1 = 29 + 7 - 10 + 1 = 27
+Strikeout
+Team 1 pitcher (Tim Brooks): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-5
+
+Pablo Hernandez: rng1 = 64 + 7 - 10 + 1 = 62
+rng2 = 16 + 8 - 13 + 1 = 12
+Groundout
+Team 1 pitcher (Tim Brooks): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-5
+
+Josué Sarmiento: rng1 = 33 + 7 - 10 + 1 = 31
+rng2 = 66 + 8 - 13 + 1 = 62
+Flyout
+Team 1 pitcher (Tim Brooks): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-5
+
+-----------------------
+
+TOP INNING 9
+
+Emmanuel Ramirez: rng1 = 7 + 7 - 13 - 1 = 0
+Strikeout
+Team 2 pitcher (Julio Ramirez): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-5
+
+Wesley Powers: rng1 = 82 + 8 - 13 - 1 = 76
+rng2 = 51 + 7 - 10 - 1 = 47
+Single
+Team 2 pitcher (Julio Ramirez): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [8,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-5
+
+Ramon Cabrera: rng1 = 57 + 15 - 13 - 1 = 58
+rng2 = 40 + 11 - 10 - 1 = 40
+Groundout
+Team 2 pitcher (Julio Ramirez): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [0,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-5
+
+Pedro Martinez: rng1 = 25 + 11 - 13 - 1 = 22
+Strikeout
+Team 2 pitcher (Julio Ramirez): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-5
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Terry Adams
+
+Marques Taylor: rng1 = 25 + 8 - 16 + 1 = 18
+Strikeout
+Team 1 pitcher (Terry Adams): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-5
+
+Marcus Byrd: rng1 = 72 + 12 - 16 + 1 = 69
+rng2 = 7 + 11 - 16 + 1 = 3
+Groundout
+Team 1 pitcher (Terry Adams): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-5
+
+Agustin Torres: rng1 = 21 + 11 - 16 + 1 = 17
+Strikeout
+Team 1 pitcher (Terry Adams): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-5
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 10
+Team 2 hits: 8
+Team 1 runs: 7
+Team 2 runs: 5
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-12-06
+Ramon Cabrera	5	2	2	0	0	1	2	0	0					Anaheim
+Pedro Martinez	5	0	2	0	0	0	2	0	2	
+Billy Campbell	4	1	0	0	0	0	0	0	2	
+Clifford Norris	4	1	1	0	1	0	2	0	2	
+Jayden Green	4	0	1	0	0	0	1	0	1	
+Orlando Cazalla	3	0	0	0	0	0	0	1	1	
+Bryson Mckinney	3	1	0	0	0	0	0	1	0	
+Emmanuel Ramirez	3	1	1	0	0	0	0	1	1	
+Wesley Powers	4	1	3	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Elias Betancourt	1	0	1	1	0	0	14	7	5	1	2	6	23	
+Curtis Holmes	0	0	1	0	0	0	4	1	0	0	0	1	5	
+Tim Brooks	0	0	1	0	0	0	6	0	0	0	1	3	7	
+Bradley Weaver	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Terry Adams	0	0	1	0	1	1	3	0	0	0	0	2	3	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-12-06
+Marcus Byrd	5	2	2	0	0	1	2	0	0					Victoria
+Agustin Torres	5	1	1	1	0	0	1	0	2	
+Matt Thompson	3	1	2	0	0	0	1	1	0	
+Larry Goodwin	4	0	1	1	0	0	1	0	2	
+Orlando Cuevas	4	0	0	0	0	0	0	0	3	
+Ben Wheeler	3	0	0	0	0	0	0	1	1	
+Pablo Hernandez	3	0	1	0	0	0	0	1	1	
+Josué Sarmiento	4	1	1	1	0	0	0	0	1	
+Marques Taylor	4	0	0	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Quintavius Lewis	0	1	1	1	0	0	9	5	6	0	2	1	15	
+Emiliano Navarro	0	0	1	0	0	0	3	2	0	0	0	0	4	
+Julio Ventura	0	0	1	0	0	0	6	0	0	0	0	3	6	
+Aoyama Kyoji	0	0	1	0	0	0	3	2	1	1	0	2	5	
+Julio Ramirez	0	0	1	0	0	0	6	1	0	0	1	4	8	

@@ -1,0 +1,797 @@
+TOP INNING 1
+
+Jacobi Davis: rng1 = 56 + 15 - 7 - 1 = 63
+rng2 = 40 + 12 - 7 - 1 = 44
+Groundout
+Team 2 pitcher (Kadeem Davis): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Kazuhiro Ida: rng1 = 16 + 13 - 7 - 1 = 21
+Strikeout
+Team 2 pitcher (Kadeem Davis): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Alex Murphy: rng1 = 43 + 10 - 7 - 1 = 45
+rng2 = 26 + 12 - 7 - 1 = 30
+Groundout
+Team 2 pitcher (Kadeem Davis): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Francisco Garcia: rng1 = 2 + 15 - 7 + 1 = 11
+rng2 = 15 + 15 - 7 + 1 = 24
+Groundout
+Team 1 pitcher (Jose Cruz): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jorge Gonzalez: rng1 = 66 + 15 - 7 + 1 = 75
+rng2 = 84 + 14 - 7 + 1 = 92
+Double
+Team 1 pitcher (Jose Cruz): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Jerome Fields: rng1 = 40 + 13 - 7 + 1 = 47
+rng2 = 76 + 13 - 7 + 1 = 83
+Flyout
+Team 1 pitcher (Jose Cruz): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: [1,0]
+base1: false, base2: false, base3: true
+Score: 0-0
+
+Luis Guillén: rng1 = 35 + 4 - 7 + 1 = 33
+rng2 = 45 + 10 - 7 + 1 = 49
+Lineout
+Team 1 pitcher (Jose Cruz): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Enrique Holmes: rng1 = 81 + 7 - 7 - 1 = 80
+rng2 = 22 + 11 - 7 - 1 = 25
+Single
+Team 2 pitcher (Kadeem Davis): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Trent Cline: rng1 = 16 + 8 - 7 - 1 = 16
+Strikeout
+Team 2 pitcher (Kadeem Davis): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Cannon Terry: rng1 = 78 + 8 - 7 - 1 = 78
+rng2 = 26 + 8 - 7 - 1 = 26
+Single
+Team 2 pitcher (Kadeem Davis): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Jake Weaver: rng1 = 31 + 10 - 7 - 1 = 33
+rng2 = 66 + 7 - 7 - 1 = 65
+Flyout
+Team 2 pitcher (Kadeem Davis): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Erik Lowe: rng1 = 22 + 7 - 7 - 1 = 21
+Strikeout
+Team 2 pitcher (Kadeem Davis): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Javier Guillén: rng1 = 82 + 7 - 7 + 1 = 83
+rng2 = 74 + 9 - 7 + 1 = 77
+Double
+Team 1 pitcher (Jose Cruz): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Ethan Hayes: rng1 = 54 + 7 - 7 + 1 = 55
+rng2 = 12 + 9 - 7 + 1 = 15
+Groundout
+Team 1 pitcher (Jose Cruz): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: false, base3: [4,0]
+base1: false, base2: false, base3: true
+Score: 1-0
+
+Sean Watson: rng1 = 40 + 9 - 7 + 1 = 43
+rng2 = 91 + 6 - 7 + 1 = 91
+Flyout
+Team 1 pitcher (Jose Cruz): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Evan Bliss: rng1 = 14 + 6 - 7 + 1 = 14
+rng2 = 35 + 8 - 7 + 1 = 37
+Groundout
+Team 1 pitcher (Jose Cruz): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 3
+
+Martin Avila: rng1 = 99 + 6 - 7 - 1 = 97
+rng2 = 17 + 8 - 7 - 1 = 17
+Single
+Team 2 pitcher (Kadeem Davis): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Jacobi Davis: rng1 = 51 + 15 - 7 - 1 = 58
+rng2 = 34 + 12 - 7 - 1 = 38
+Groundout
+Team 2 pitcher (Kadeem Davis): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Kazuhiro Ida: rng1 = 58 + 13 - 7 - 1 = 63
+rng2 = 99 + 14 - 7 - 1 = 105
+Flyout
+Team 2 pitcher (Kadeem Davis): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Alex Murphy: rng1 = 44 + 10 - 7 - 1 = 46
+rng2 = 72 + 12 - 7 - 1 = 76
+Flyout
+Team 2 pitcher (Kadeem Davis): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Chris Ruiz: rng1 = 39 + 6 - 7 + 1 = 39
+rng2 = 53 + 7 - 7 + 1 = 54
+Lineout
+Team 1 pitcher (Jose Cruz): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Francisco Garcia: rng1 = 100 + 15 - 7 + 1 = 109
+rng2 = 73 + 15 - 7 + 1 = 82
+Home run
+Team 1 pitcher (Jose Cruz): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Jorge Gonzalez: rng1 = 29 + 15 - 7 + 1 = 38
+rng2 = 20 + 14 - 7 + 1 = 28
+Groundout
+Team 1 pitcher (Jose Cruz): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Jerome Fields: rng1 = 80 + 13 - 7 + 1 = 87
+Walk
+Team 1 pitcher (Jose Cruz): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Luis Guillén: rng1 = 64 + 4 - 7 + 1 = 62
+rng2 = 15 + 10 - 7 + 1 = 19
+Groundout
+Team 1 pitcher (Jose Cruz): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 4
+
+Enrique Holmes: rng1 = 87 + 7 - 7 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Kadeem Davis): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Trent Cline: rng1 = 15 + 8 - 7 - 1 = 15
+rng2 = 49 + 8 - 7 - 1 = 49
+Lineout
+Team 2 pitcher (Kadeem Davis): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Cannon Terry: rng1 = 40 + 8 - 7 - 1 = 40
+rng2 = 5 + 8 - 7 - 1 = 5
+Groundout
+Team 2 pitcher (Kadeem Davis): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 4
+
+Javier Guillén: rng1 = 50 + 7 - 7 + 1 = 51
+rng2 = 52 + 9 - 7 + 1 = 55
+Lineout
+Team 1 pitcher (Jose Cruz): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Ethan Hayes: rng1 = 2 + 7 - 7 + 1 = 3
+Strikeout
+Team 1 pitcher (Jose Cruz): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Sean Watson: rng1 = 33 + 9 - 7 + 1 = 36
+rng2 = 96 + 6 - 7 + 1 = 96
+Flyout
+Team 1 pitcher (Jose Cruz): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 5
+
+Jake Weaver: rng1 = 72 + 10 - 7 - 1 = 74
+rng2 = 43 + 7 - 7 - 1 = 42
+Single
+Team 2 pitcher (Kadeem Davis): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Erik Lowe: rng1 = 57 + 7 - 7 - 1 = 56
+rng2 = 79 + 8 - 7 - 1 = 79
+Flyout
+Team 2 pitcher (Kadeem Davis): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Martin Avila: rng1 = 88 + 6 - 7 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Kadeem Davis): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 1
+
+base1: [8,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-2
+
+Jacobi Davis: rng1 = 13 + 15 - 7 - 1 = 20
+Strikeout
+Team 2 pitcher (Kadeem Davis): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 2
+
+base1: [8,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-2
+
+Kazuhiro Ida: rng1 = 30 + 13 - 7 - 1 = 35
+rng2 = 96 + 14 - 7 - 1 = 102
+Flyout
+Team 2 pitcher (Kadeem Davis): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 5
+
+Evan Bliss: rng1 = 82 + 6 - 7 + 1 = 82
+rng2 = 79 + 8 - 7 + 1 = 81
+Home run
+Team 1 pitcher (Jose Cruz): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Chris Ruiz: rng1 = 91 + 6 - 7 + 1 = 91
+rng2 = 60 + 7 - 7 + 1 = 61
+Single
+Team 1 pitcher (Jose Cruz): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Francisco Garcia: rng1 = 87 + 15 - 7 + 1 = 96
+rng2 = 19 + 15 - 7 + 1 = 28
+Single
+Team 1 pitcher (Jose Cruz): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 0
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-3
+
+Jorge Gonzalez: rng1 = 77 + 15 - 7 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Jose Cruz): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 0
+
+base1: [1,0], base2: [0,0], base3: [8,0]
+base1: true, base2: true, base3: true
+Score: 1-3
+
+Jerome Fields: rng1 = 96 + 13 - 7 + 1 = 103
+rng2 = 37 + 13 - 7 + 1 = 44
+Single
+Team 1 pitcher (Jose Cruz): 21 batters faced, 5 runs allowed = 21 + 12.5 = 33.5, outs: 0
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 1-5
+
+Luis Guillén: rng1 = 37 + 4 - 7 + 1 = 35
+rng2 = 81 + 10 - 7 + 1 = 85
+Flyout
+Team 1 pitcher (Jose Cruz): 22 batters faced, 6 runs allowed = 22 + 15.0 = 37.0, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Team 1 pitcher change to Tommy Greene
+
+Javier Guillén: rng1 = 8 + 7 - 9 + 1 = 7
+Strikeout
+Team 1 pitcher (Tommy Greene): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Ethan Hayes: rng1 = 14 + 7 - 9 + 1 = 13
+rng2 = 88 + 9 - 10 + 1 = 88
+Flyout
+Team 1 pitcher (Tommy Greene): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 6
+
+Alex Murphy: rng1 = 93 + 10 - 7 - 1 = 95
+rng2 = 50 + 12 - 7 - 1 = 54
+Single
+Team 2 pitcher (Kadeem Davis): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 0
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Enrique Holmes: rng1 = 31 + 7 - 7 - 1 = 30
+rng2 = 96 + 11 - 7 - 1 = 99
+Flyout
+Team 2 pitcher (Kadeem Davis): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Trent Cline: rng1 = 100 + 8 - 7 - 1 = 100
+rng2 = 12 + 8 - 7 - 1 = 12
+Single
+Team 2 pitcher (Kadeem Davis): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 1
+
+base1: [4,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 1-6
+
+Cannon Terry: rng1 = 13 + 8 - 7 - 1 = 13
+rng2 = 81 + 8 - 7 - 1 = 81
+Flyout
+Team 2 pitcher (Kadeem Davis): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-6
+
+Jake Weaver: rng1 = 65 + 10 - 7 - 1 = 67
+rng2 = 3 + 7 - 7 - 1 = 2
+Groundout
+Team 2 pitcher (Kadeem Davis): 25 batters faced, 2 runs allowed = 25 + 5.0 = 30.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-6
+
+-----------------------
+
+BOTTOM INNING 6
+
+Sean Watson: rng1 = 48 + 9 - 9 + 1 = 49
+rng2 = 99 + 6 - 10 + 1 = 96
+Flyout
+Team 1 pitcher (Tommy Greene): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-6
+
+Evan Bliss: rng1 = 93 + 6 - 9 + 1 = 91
+rng2 = 45 + 8 - 10 + 1 = 44
+Single
+Team 1 pitcher (Tommy Greene): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-6
+
+Chris Ruiz: rng1 = 96 + 6 - 9 + 1 = 94
+rng2 = 74 + 7 - 10 + 1 = 72
+Double
+Team 1 pitcher (Tommy Greene): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: false, base2: [8,1], base3: false
+base1: false, base2: true, base3: false
+Score: 2-7
+
+Francisco Garcia: rng1 = 54 + 15 - 9 + 1 = 61
+rng2 = 93 + 15 - 10 + 1 = 99
+Flyout
+Team 1 pitcher (Tommy Greene): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: false, base2: [8,1], base3: false
+base1: false, base2: true, base3: false
+Score: 2-7
+
+Jorge Gonzalez: rng1 = 95 + 15 - 9 + 1 = 102
+rng2 = 81 + 14 - 10 + 1 = 86
+Double
+Team 1 pitcher (Tommy Greene): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 2
+
+base1: false, base2: [1,1], base3: false
+base1: false, base2: true, base3: false
+Score: 2-8
+
+Jerome Fields: rng1 = 86 + 13 - 9 + 1 = 91
+rng2 = 71 + 13 - 10 + 1 = 75
+Double
+Team 1 pitcher (Tommy Greene): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 2
+
+base1: false, base2: [2,1], base3: false
+base1: false, base2: true, base3: false
+Score: 2-9
+
+Team 1 pitcher change to Cullen McClain
+
+Luis Guillén: rng1 = 1 + 4 - 8 + 1 = -2
+Strikeout
+Team 1 pitcher (Cullen McClain): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-9
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Daigo Eishi
+
+Erik Lowe: rng1 = 84 + 7 - 10 - 1 = 80
+rng2 = 50 + 8 - 7 - 1 = 50
+Single
+Team 2 pitcher (Daigo Eishi): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-9
+
+Martin Avila: rng1 = 61 + 6 - 10 - 1 = 56
+rng2 = 86 + 8 - 7 - 1 = 86
+Flyout
+Team 2 pitcher (Daigo Eishi): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-9
+
+Jacobi Davis: rng1 = 16 + 15 - 10 - 1 = 20
+Strikeout
+Team 2 pitcher (Daigo Eishi): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-9
+
+Kazuhiro Ida: rng1 = 37 + 13 - 10 - 1 = 39
+rng2 = 70 + 14 - 7 - 1 = 76
+Flyout
+Team 2 pitcher (Daigo Eishi): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-9
+
+-----------------------
+
+BOTTOM INNING 7
+
+Javier Guillén: rng1 = 9 + 7 - 8 + 1 = 9
+Strikeout
+Team 1 pitcher (Cullen McClain): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-9
+
+Ethan Hayes: rng1 = 92 + 7 - 8 + 1 = 92
+rng2 = 88 + 9 - 7 + 1 = 91
+Double
+Team 1 pitcher (Cullen McClain): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: [5,2], base3: false
+base1: false, base2: true, base3: false
+Score: 2-9
+
+Sean Watson: rng1 = 87 + 9 - 8 + 1 = 89
+Walk
+Team 1 pitcher (Cullen McClain): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [6,2], base2: [5,2], base3: false
+base1: true, base2: true, base3: false
+Score: 2-9
+
+Evan Bliss: rng1 = 19 + 6 - 8 + 1 = 18
+Strikeout
+Team 1 pitcher (Cullen McClain): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: [6,2], base2: [5,2], base3: false
+base1: true, base2: true, base3: false
+Score: 2-9
+
+Chris Ruiz: rng1 = 16 + 6 - 8 + 1 = 15
+rng2 = 96 + 7 - 7 + 1 = 97
+Flyout
+Team 1 pitcher (Cullen McClain): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-9
+
+-----------------------
+
+TOP INNING 8
+
+Alex Murphy: rng1 = 95 + 10 - 10 - 1 = 94
+rng2 = 11 + 12 - 7 - 1 = 15
+Single
+Team 2 pitcher (Daigo Eishi): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-9
+
+Enrique Holmes: rng1 = 35 + 7 - 10 - 1 = 31
+rng2 = 3 + 11 - 7 - 1 = 6
+Groundout
+Team 2 pitcher (Daigo Eishi): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: [2,1], base3: false
+base1: false, base2: true, base3: false
+Score: 2-9
+
+Trent Cline: rng1 = 79 + 8 - 10 - 1 = 76
+rng2 = 22 + 8 - 7 - 1 = 22
+Single
+Team 2 pitcher (Daigo Eishi): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-9
+
+Cannon Terry: rng1 = 16 + 8 - 10 - 1 = 13
+rng2 = 42 + 8 - 7 - 1 = 42
+Groundout
+Team 2 pitcher (Daigo Eishi): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-9
+
+Jake Weaver: rng1 = 56 + 10 - 10 - 1 = 55
+rng2 = 85 + 7 - 7 - 1 = 84
+Flyout
+Team 2 pitcher (Daigo Eishi): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-9
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Ron Moore
+
+Francisco Garcia: rng1 = 22 + 15 - 8 + 1 = 30
+rng2 = 72 + 15 - 10 + 1 = 78
+Flyout
+Team 1 pitcher (Ron Moore): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-9
+
+Jorge Gonzalez: rng1 = 35 + 15 - 8 + 1 = 43
+rng2 = 86 + 14 - 10 + 1 = 91
+Flyout
+Team 1 pitcher (Ron Moore): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-9
+
+Jerome Fields: rng1 = 24 + 13 - 8 + 1 = 30
+rng2 = 87 + 13 - 10 + 1 = 91
+Flyout
+Team 1 pitcher (Ron Moore): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-9
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Nate Tucker
+
+Erik Lowe: rng1 = 81 + 7 - 10 - 1 = 77
+rng2 = 12 + 8 - 8 - 1 = 11
+Single
+Team 2 pitcher (Nate Tucker): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-9
+
+Martin Avila: rng1 = 89 + 6 - 10 - 1 = 84
+rng2 = 26 + 8 - 8 - 1 = 25
+Single
+Team 2 pitcher (Nate Tucker): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [8,2], base2: [7,2], base3: false
+base1: true, base2: true, base3: false
+Score: 3-9
+
+Jacobi Davis: rng1 = 10 + 15 - 10 - 1 = 14
+rng2 = 72 + 12 - 8 - 1 = 75
+Flyout
+Team 2 pitcher (Nate Tucker): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [8,2], base2: [7,2], base3: false
+base1: true, base2: true, base3: false
+Score: 3-9
+
+Kazuhiro Ida: rng1 = 77 + 13 - 10 - 1 = 79
+rng2 = 55 + 14 - 8 - 1 = 60
+Single
+Team 2 pitcher (Nate Tucker): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [1,2], base2: [8,2], base3: [7,2]
+base1: true, base2: true, base3: true
+Score: 3-9
+
+Alex Murphy: rng1 = 32 + 10 - 10 - 1 = 31
+rng2 = 82 + 12 - 8 - 1 = 85
+Flyout
+Team 2 pitcher (Nate Tucker): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [1,2], base2: [8,2], base3: false
+base1: true, base2: true, base3: false
+Score: 4-9
+
+Enrique Holmes: rng1 = 32 + 7 - 10 - 1 = 28
+Strikeout
+Team 2 pitcher (Nate Tucker): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-9
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 12
+Team 2 hits: 12
+Team 1 runs: 4
+Team 2 runs: 9
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-12-06
+Jacobi Davis	5	0	0	0	0	0	0	0	2					Austin
+Kazuhiro Ida	5	0	1	0	0	0	0	0	1	
+Alex Murphy	5	2	2	0	0	0	1	0	0	
+Enrique Holmes	4	1	1	0	0	0	0	0	1	
+Trent Cline	4	0	2	0	0	0	1	0	1	
+Cannon Terry	4	0	1	0	0	0	1	0	0	
+Jake Weaver	4	0	1	0	0	0	1	0	0	
+Erik Lowe	4	1	2	0	0	0	0	0	1	
+Martin Avila	3	0	2	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Jose Cruz	0	1	1	1	0	0	13	7	6	2	1	1	22	
+Tommy Greene	0	0	1	0	0	0	4	4	3	0	0	1	8	
+Cullen McClain	0	0	1	0	0	0	4	1	0	0	1	3	6	
+Ron Moore	0	0	1	0	0	0	3	0	0	0	0	0	3	
+Lance Haynes	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-12-06
+Francisco Garcia	5	2	2	0	0	1	1	0	0					Lafayette
+Jorge Gonzalez	4	2	2	2	0	0	1	0	0	
+Jerome Fields	4	0	2	1	0	0	3	1	0	
+Luis Guillén	4	0	0	0	0	0	1	0	1	
+Javier Guillén	4	1	1	1	0	0	0	0	2	
+Ethan Hayes	4	0	1	1	0	0	0	0	1	
+Sean Watson	3	0	0	0	0	0	1	1	0	
+Evan Bliss	4	2	2	0	0	1	1	0	1	
+Chris Ruiz	4	2	2	1	0	0	1	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Kadeem Davis	1	0	1	1	0	0	18	6	2	0	0	4	25	
+Daigo Eishi	0	0	1	0	0	0	6	3	1	0	0	1	9	
+Nate Tucker	0	0	1	0	0	0	3	3	1	0	0	1	6	
+Ian Colome	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Johnny Farmer	0	0	0	0	0	0	0	0	0	0	0	0	0	

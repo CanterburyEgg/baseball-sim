@@ -1,0 +1,712 @@
+TOP INNING 1
+
+Adam Harmon: rng1 = 50 + 13 - 8 - 1 = 54
+rng2 = 79 + 13 - 8 - 1 = 83
+Flyout
+Team 2 pitcher (Ethan Scott): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Domingo Jimenez: rng1 = 76 + 12 - 8 - 1 = 79
+rng2 = 61 + 9 - 8 - 1 = 61
+Single
+Team 2 pitcher (Ethan Scott): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Joshua Cooper: rng1 = 21 + 12 - 8 - 1 = 24
+Strikeout
+Team 2 pitcher (Ethan Scott): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Manuel Alvarez: rng1 = 74 + 6 - 8 - 1 = 71
+Walk
+Team 2 pitcher (Ethan Scott): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [3,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Nehemiah Clark: rng1 = 71 + 5 - 8 - 1 = 67
+rng2 = 69 + 10 - 8 - 1 = 70
+Flyout
+Team 2 pitcher (Ethan Scott): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Alex Diaz: rng1 = 36 + 15 - 9 + 1 = 43
+rng2 = 14 + 13 - 7 + 1 = 21
+Groundout
+Team 1 pitcher (Mostafa Samir): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Esteban Obregón: rng1 = 14 + 10 - 9 + 1 = 16
+Strikeout
+Team 1 pitcher (Mostafa Samir): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Kyle Stewart: rng1 = 59 + 10 - 9 + 1 = 61
+rng2 = 84 + 6 - 7 + 1 = 84
+Flyout
+Team 1 pitcher (Mostafa Samir): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Kyrie Anderson: rng1 = 35 + 7 - 8 - 1 = 33
+rng2 = 19 + 9 - 8 - 1 = 19
+Groundout
+Team 2 pitcher (Ethan Scott): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Ramon Delgado: rng1 = 80 + 10 - 8 - 1 = 81
+rng2 = 27 + 6 - 8 - 1 = 24
+Single
+Team 2 pitcher (Ethan Scott): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Max Chicote: rng1 = 17 + 8 - 8 - 1 = 16
+Strikeout
+Team 2 pitcher (Ethan Scott): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Leon Watts: rng1 = 54 + 8 - 8 - 1 = 53
+rng2 = 98 + 5 - 8 - 1 = 94
+Flyout
+Team 2 pitcher (Ethan Scott): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Ewan Hunt: rng1 = 74 + 7 - 9 + 1 = 73
+rng2 = 75 + 9 - 7 + 1 = 78
+Double
+Team 1 pitcher (Mostafa Samir): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Jorge Donald: rng1 = 66 + 6 - 9 + 1 = 64
+rng2 = 55 + 9 - 7 + 1 = 58
+Lineout
+Team 1 pitcher (Mostafa Samir): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Patrick Cook: rng1 = 9 + 6 - 9 + 1 = 7
+Strikeout
+Team 1 pitcher (Mostafa Samir): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Andy Kelley: rng1 = 31 + 7 - 9 + 1 = 30
+rng2 = 45 + 8 - 7 + 1 = 47
+Groundout
+Team 1 pitcher (Mostafa Samir): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 3
+
+Adam Harmon: rng1 = 15 + 13 - 8 - 1 = 19
+Strikeout
+Team 2 pitcher (Ethan Scott): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Domingo Jimenez: rng1 = 17 + 12 - 8 - 1 = 20
+Strikeout
+Team 2 pitcher (Ethan Scott): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Joshua Cooper: rng1 = 65 + 12 - 8 - 1 = 68
+rng2 = 83 + 5 - 8 - 1 = 79
+Flyout
+Team 2 pitcher (Ethan Scott): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Irvin Brown: rng1 = 60 + 8 - 9 + 1 = 60
+rng2 = 77 + 7 - 7 + 1 = 78
+Flyout
+Team 1 pitcher (Mostafa Samir): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Park Jae-Min: rng1 = 1 + 7 - 9 + 1 = 0
+Strikeout
+Team 1 pitcher (Mostafa Samir): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Alex Diaz: rng1 = 70 + 15 - 9 + 1 = 77
+rng2 = 28 + 13 - 7 + 1 = 35
+Single
+Team 1 pitcher (Mostafa Samir): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Esteban Obregón: rng1 = 98 + 10 - 9 + 1 = 100
+rng2 = 77 + 10 - 7 + 1 = 81
+Home run
+Team 1 pitcher (Mostafa Samir): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Kyle Stewart: rng1 = 39 + 10 - 9 + 1 = 41
+rng2 = 16 + 6 - 7 + 1 = 16
+Groundout
+Team 1 pitcher (Mostafa Samir): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 4
+
+Manuel Alvarez: rng1 = 80 + 6 - 8 - 1 = 77
+rng2 = 100 + 10 - 8 - 1 = 101
+Home run
+Team 2 pitcher (Ethan Scott): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Nehemiah Clark: rng1 = 36 + 5 - 8 - 1 = 32
+rng2 = 92 + 10 - 8 - 1 = 93
+Flyout
+Team 2 pitcher (Ethan Scott): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Kyrie Anderson: rng1 = 90 + 7 - 8 - 1 = 88
+Walk
+Team 2 pitcher (Ethan Scott): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Ramon Delgado: rng1 = 5 + 10 - 8 - 1 = 6
+Strikeout
+Team 2 pitcher (Ethan Scott): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Max Chicote: rng1 = 77 + 8 - 8 - 1 = 76
+rng2 = 74 + 7 - 8 - 1 = 72
+Double
+Team 2 pitcher (Ethan Scott): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 2
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-2
+
+Leon Watts: rng1 = 52 + 8 - 8 - 1 = 51
+rng2 = 43 + 5 - 8 - 1 = 39
+Groundout
+Team 2 pitcher (Ethan Scott): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+BOTTOM INNING 4
+
+Ewan Hunt: rng1 = 34 + 7 - 9 + 1 = 33
+rng2 = 32 + 9 - 7 + 1 = 35
+Groundout
+Team 1 pitcher (Mostafa Samir): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Jorge Donald: rng1 = 91 + 6 - 9 + 1 = 89
+Walk
+Team 1 pitcher (Mostafa Samir): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Patrick Cook: rng1 = 19 + 6 - 9 + 1 = 17
+Strikeout
+Team 1 pitcher (Mostafa Samir): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Andy Kelley: rng1 = 97 + 7 - 9 + 1 = 96
+rng2 = 20 + 8 - 7 + 1 = 22
+Single
+Team 1 pitcher (Mostafa Samir): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 2
+
+base1: [6,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 2-2
+
+Irvin Brown: rng1 = 6 + 8 - 9 + 1 = 6
+Strikeout
+Team 1 pitcher (Mostafa Samir): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+TOP INNING 5
+
+Adam Harmon: rng1 = 24 + 13 - 8 - 1 = 28
+Strikeout
+Team 2 pitcher (Ethan Scott): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Domingo Jimenez: rng1 = 37 + 12 - 8 - 1 = 40
+rng2 = 69 + 9 - 8 - 1 = 69
+Flyout
+Team 2 pitcher (Ethan Scott): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Joshua Cooper: rng1 = 97 + 12 - 8 - 1 = 100
+rng2 = 7 + 5 - 8 - 1 = 3
+Single
+Team 2 pitcher (Ethan Scott): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Manuel Alvarez: rng1 = 45 + 6 - 8 - 1 = 42
+rng2 = 77 + 10 - 8 - 1 = 78
+Flyout
+Team 2 pitcher (Ethan Scott): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+BOTTOM INNING 5
+
+Park Jae-Min: rng1 = 17 + 7 - 9 + 1 = 16
+Strikeout
+Team 1 pitcher (Mostafa Samir): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Alex Diaz: rng1 = 58 + 15 - 9 + 1 = 65
+rng2 = 21 + 13 - 7 + 1 = 28
+Groundout
+Team 1 pitcher (Mostafa Samir): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Esteban Obregón: rng1 = 62 + 10 - 9 + 1 = 64
+rng2 = 9 + 10 - 7 + 1 = 13
+Groundout
+Team 1 pitcher (Mostafa Samir): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+TOP INNING 6
+
+Nehemiah Clark: rng1 = 17 + 5 - 8 - 1 = 13
+rng2 = 57 + 10 - 8 - 1 = 58
+Lineout
+Team 2 pitcher (Ethan Scott): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Kyrie Anderson: rng1 = 46 + 7 - 8 - 1 = 44
+rng2 = 71 + 9 - 8 - 1 = 71
+Flyout
+Team 2 pitcher (Ethan Scott): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Ramon Delgado: rng1 = 78 + 10 - 8 - 1 = 79
+rng2 = 93 + 6 - 8 - 1 = 90
+Double
+Team 2 pitcher (Ethan Scott): 25 batters faced, 2 runs allowed = 25 + 5.0 = 30.0, outs: 2
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-2
+
+Max Chicote: rng1 = 3 + 8 - 8 - 1 = 2
+Strikeout
+Team 2 pitcher (Ethan Scott): 26 batters faced, 2 runs allowed = 26 + 5.0 = 31.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+BOTTOM INNING 6
+
+Kyle Stewart: rng1 = 21 + 10 - 9 + 1 = 23
+Strikeout
+Team 1 pitcher (Mostafa Samir): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Ewan Hunt: rng1 = 44 + 7 - 9 + 1 = 43
+rng2 = 64 + 9 - 7 + 1 = 67
+Flyout
+Team 1 pitcher (Mostafa Samir): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Jorge Donald: rng1 = 22 + 6 - 9 + 1 = 20
+Strikeout
+Team 1 pitcher (Mostafa Samir): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Gabriel Clark
+
+Leon Watts: rng1 = 98 + 8 - 6 - 1 = 99
+rng2 = 52 + 5 - 9 - 1 = 47
+Single
+Team 2 pitcher (Gabriel Clark): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Adam Harmon: rng1 = 43 + 13 - 6 - 1 = 49
+rng2 = 73 + 13 - 9 - 1 = 76
+Flyout
+Team 2 pitcher (Gabriel Clark): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Domingo Jimenez: rng1 = 98 + 12 - 6 - 1 = 103
+rng2 = 72 + 9 - 9 - 1 = 71
+Double
+Team 2 pitcher (Gabriel Clark): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [1,1], base3: false
+base1: false, base2: true, base3: false
+Score: 3-2
+
+Joshua Cooper: rng1 = 60 + 12 - 6 - 1 = 65
+rng2 = 74 + 5 - 9 - 1 = 69
+Flyout
+Team 2 pitcher (Gabriel Clark): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [1,1], base3: false
+base1: false, base2: true, base3: false
+Score: 3-2
+
+Manuel Alvarez: rng1 = 8 + 6 - 6 - 1 = 7
+Strikeout
+Team 2 pitcher (Gabriel Clark): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+BOTTOM INNING 7
+
+Patrick Cook: rng1 = 69 + 6 - 9 + 1 = 67
+rng2 = 19 + 9 - 7 + 1 = 22
+Groundout
+Team 1 pitcher (Mostafa Samir): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Andy Kelley: rng1 = 22 + 7 - 9 + 1 = 21
+Strikeout
+Team 1 pitcher (Mostafa Samir): 25 batters faced, 2 runs allowed = 25 + 5.0 = 30.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Irvin Brown: rng1 = 11 + 8 - 9 + 1 = 11
+rng2 = 94 + 7 - 7 + 1 = 95
+Flyout
+Team 1 pitcher (Mostafa Samir): 26 batters faced, 2 runs allowed = 26 + 5.0 = 31.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Zachary Lowe
+
+Nehemiah Clark: rng1 = 99 + 5 - 8 - 1 = 95
+rng2 = 13 + 10 - 6 - 1 = 16
+Single
+Team 2 pitcher (Zachary Lowe): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Kyrie Anderson: rng1 = 19 + 7 - 8 - 1 = 17
+Strikeout
+Team 2 pitcher (Zachary Lowe): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Ramon Delgado: rng1 = 36 + 10 - 8 - 1 = 37
+rng2 = 96 + 6 - 6 - 1 = 95
+Flyout
+Team 2 pitcher (Zachary Lowe): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Max Chicote: rng1 = 39 + 8 - 8 - 1 = 38
+rng2 = 42 + 7 - 6 - 1 = 42
+Groundout
+Team 2 pitcher (Zachary Lowe): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Rodney Fox
+
+Park Jae-Min: rng1 = 69 + 7 - 11 + 1 = 66
+rng2 = 66 + 6 - 8 + 1 = 65
+Flyout
+Team 1 pitcher (Rodney Fox): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Alex Diaz: rng1 = 74 + 15 - 11 + 1 = 79
+rng2 = 52 + 13 - 8 + 1 = 58
+Single
+Team 1 pitcher (Rodney Fox): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Esteban Obregón: rng1 = 49 + 10 - 11 + 1 = 49
+rng2 = 29 + 10 - 8 + 1 = 32
+Groundout
+Team 1 pitcher (Rodney Fox): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+TOP INNING 9
+
+Leon Watts: rng1 = 36 + 8 - 8 - 1 = 35
+rng2 = 12 + 5 - 6 - 1 = 10
+Groundout
+Team 2 pitcher (Zachary Lowe): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Adam Harmon: rng1 = 60 + 13 - 8 - 1 = 64
+rng2 = 55 + 13 - 6 - 1 = 61
+Flyout
+Team 2 pitcher (Zachary Lowe): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Domingo Jimenez: rng1 = 35 + 12 - 8 - 1 = 38
+rng2 = 14 + 9 - 6 - 1 = 16
+Groundout
+Team 2 pitcher (Zachary Lowe): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Shunji Onishi
+
+Kyle Stewart: rng1 = 47 + 10 - 12 + 1 = 46
+rng2 = 20 + 6 - 14 + 1 = 13
+Groundout
+Team 1 pitcher (Shunji Onishi): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Ewan Hunt: rng1 = 45 + 7 - 12 + 1 = 41
+rng2 = 22 + 9 - 14 + 1 = 18
+Groundout
+Team 1 pitcher (Shunji Onishi): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Jorge Donald: rng1 = 67 + 6 - 12 + 1 = 62
+rng2 = 8 + 9 - 14 + 1 = 4
+Groundout
+Team 1 pitcher (Shunji Onishi): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 9
+Team 2 hits: 5
+Team 1 runs: 3
+Team 2 runs: 2
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-12-06
+Adam Harmon	5	0	0	0	0	0	0	0	2					Seoul
+Domingo Jimenez	5	0	2	1	0	0	1	0	1	
+Joshua Cooper	4	0	1	0	0	0	0	0	1	
+Manuel Alvarez	3	1	1	0	0	1	1	1	1	
+Nehemiah Clark	4	0	1	0	0	0	0	0	0	
+Kyrie Anderson	3	1	0	0	0	0	0	1	1	
+Ramon Delgado	4	0	2	1	0	0	0	0	1	
+Max Chicote	4	0	1	1	0	0	1	0	2	
+Leon Watts	4	1	1	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Mostafa Samir	1	0	1	1	0	0	21	4	2	1	1	9	26	
+Rodney Fox	0	0	1	0	0	0	3	1	0	0	0	0	3	
+Junior Acosta	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Brandon Robinson	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Shunji Onishi	0	0	1	0	1	1	3	0	0	0	0	0	3	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2023-12-06
+Alex Diaz	4	1	2	0	0	0	0	0	0					Tokyo
+Esteban Obregón	4	1	1	0	0	1	2	0	1	
+Kyle Stewart	4	0	0	0	0	0	0	0	1	
+Ewan Hunt	4	0	1	1	0	0	0	0	0	
+Jorge Donald	3	0	0	0	0	0	0	1	1	
+Patrick Cook	3	0	0	0	0	0	0	0	2	
+Andy Kelley	3	0	1	0	0	0	0	0	1	
+Irvin Brown	3	0	0	0	0	0	0	0	1	
+Park Jae-Min	3	0	0	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Ethan Scott	0	0	1	1	0	0	18	6	2	1	2	7	26	
+Gabriel Clark	0	1	1	0	0	0	3	2	1	0	0	1	5	
+Zachary Lowe	0	0	1	0	0	0	6	1	0	0	0	1	7	
+Amed Romeo	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Matias Rivera	0	0	0	0	0	0	0	0	0	0	0	0	0	

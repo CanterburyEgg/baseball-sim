@@ -31,7 +31,7 @@ public class GameGenerator
 		{
 			if (args.length == 1)
 			{
-				System.out.println("Try 'java GameGenerator.java scheduleSim [fileName].");
+				System.out.println("Try 'java GameGenerator.java scheduleSim [fileName]'.");
 			}
 			else
 			{
@@ -49,10 +49,10 @@ public class GameGenerator
 
 				while (inputFile.hasNext())
 				{
-					String awayTeam = inputFile.next();
-					String homeTeam = inputFile.next();
+					String matchup = inputFile.nextLine();
+					String[] teams = matchup.split("\t");
 
-					playGame(awayTeam, homeTeam, true);
+					playGame(teams[0], teams[1], true);
 					statCompendium.println("");
 				}
 
@@ -103,18 +103,19 @@ public class GameGenerator
 		t1 = "Teams/" + t1arg + ".txt";
 		t2 = "Teams/" + t2arg + ".txt";
 		
+		DateFormat df = new SimpleDateFormat("MM-dd-yyyy");
+		Date date = new Date();
+
 		try {
 			if (compilingStats)
 			{
-				gameOutput = new PrintWriter("Games/" + t1arg + "_at_" + t2arg + "_" + tracker + ".txt");
-				gameDebug = new PrintWriter("Games/Debug Files/" + t1arg + "_at_" + t2arg + " " + tracker + "_DEBUG.txt");
+				gameOutput = new PrintWriter("Games/" + t1arg + "_at_" + t2arg + "_" + df.format(date) + "_" + tracker + ".txt");
+				gameDebug = new PrintWriter("Games/Debug Files/" + t1arg + "_at_" + t2arg + "_" + df.format(date) + "_" + tracker + "_DEBUG.txt");
 
 				tracker++;
 			}
 			else
 			{
-				DateFormat df = new SimpleDateFormat("MM-dd-yyyy");
-				Date date = new Date();
 				gameOutput = new PrintWriter("Games/" + t1arg + "_at_" + t2arg + " " + df.format(date) + ".txt");
 				gameDebug = new PrintWriter("Games/Debug Files/" + t1arg + "_at_" + t2arg + " " + df.format(date) + "_DEBUG.txt");
 			}

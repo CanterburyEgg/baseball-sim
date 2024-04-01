@@ -1,13 +1,14 @@
 import java.io.*;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
+import java.text.DecimalFormat;
 import java.util.*;
 import java.time.LocalDate;
 
 public class GameGenerator 
 {
 	public static PrintWriter gameOutput = null, gameDebug = null, statCompendium = null, finalScores = null;
-	public static boolean printingStats = false;
+	public static boolean printingStats = false, updatingTeams = true, writing = true;
 	public static int tracker = 0;
 	
 	public static void main(String[] args) throws FileNotFoundException
@@ -15,6 +16,19 @@ public class GameGenerator
 		if (args.length == 0)
 		{
 			System.out.println("Welcome to Egg's baseball sim! Try 'java GameGenerator.java game [team1] [team2]' to simulate a game.");
+		}
+		else if (args[0].equals("winprob"))
+		{
+			if (args.length == 1)
+			{
+				System.out.println("Try 'java GameGenerator.java winprob [team1] [team2]'.");
+			}
+			else
+			{
+				updatingTeams = false;
+				writing = false;
+				multipleGameSim(args[1], args[2], 7500);				
+			}
 		}
 		else if (args[0].equals("game"))
 		{
@@ -62,7 +76,42 @@ public class GameGenerator
 		}
 	}
 
-	public static void playGame(String t1arg, String t2arg, boolean compilingStats) throws FileNotFoundException
+	public static void multipleGameSim(String t1arg, String t2arg, int cycles) throws FileNotFoundException
+	{
+		int t1wins = 0, t2wins = 0;
+		int t1runs = 0, t2runs = 0;
+		int gameTracker = 0, percentTracker = 0;
+		int percentValue = cycles / 100;
+
+		for (int i = 0; i < cycles; i++)
+		{
+			int[] scores = playGame(t1arg, t2arg, false);
+			if (scores[0] > scores[1])
+				t1wins++;
+			else
+				t2wins++;
+
+			t1runs += scores[0];
+			t2runs += scores[1];
+
+			gameTracker++;
+			if (gameTracker == percentValue)
+			{
+				percentTracker++;
+				System.out.println("Simulating ... " + percentTracker + "% complete!");
+				gameTracker = 0;
+			}
+		}
+
+		DecimalFormat df = new DecimalFormat("#.##");
+		System.out.println("");
+		System.out.println(t1arg + " wins: " + t1wins + " (" + df.format((double)100*t1wins/cycles) + "%)");
+		System.out.println(t2arg + " wins: " + t2wins + " (" + df.format((double)100*t2wins/cycles) + "%)");
+		System.out.println(t1arg + " runs / game: " + df.format((double)t1runs/cycles));
+		System.out.println(t2arg + " runs / game: " + df.format((double)t2runs/cycles));
+	}
+
+	public static int[] playGame(String t1arg, String t2arg, boolean compilingStats) throws FileNotFoundException
 	{
 		boolean game = true;
 		boolean base1 = false;
@@ -107,14 +156,14 @@ public class GameGenerator
 		Date date = new Date();
 
 		try {
-			if (compilingStats)
+			if (compilingStats && writing)
 			{
 				gameOutput = new PrintWriter("Games/" + t1arg + "_at_" + t2arg + "_" + df.format(date) + "_" + tracker + ".txt");
 				gameDebug = new PrintWriter("Games/Debug Files/" + t1arg + "_at_" + t2arg + "_" + df.format(date) + "_" + tracker + "_DEBUG.txt");
 
 				tracker++;
 			}
-			else
+			else if (writing)
 			{
 				gameOutput = new PrintWriter("Games/" + t1arg + "_at_" + t2arg + " " + df.format(date) + ".txt");
 				gameDebug = new PrintWriter("Games/Debug Files/" + t1arg + "_at_" + t2arg + " " + df.format(date) + "_DEBUG.txt");
@@ -234,22 +283,31 @@ public class GameGenerator
 			
 			if (inning % 2 == 1)
 			{
-				System.out.print("rng1 = " + rng + " + " + t1contactranks[t1index] + " - " + t2controlranks[p2index] + " - 1");
-				gameDebug.print("rng1 = " + rng + " + " + t1contactranks[t1index] + " - " + t2controlranks[p2index] + " - 1");
+				if (writing)
+				{
+					System.out.print("rng1 = " + rng + " + " + t1contactranks[t1index] + " - " + t2controlranks[p2index] + " - 1");
+					gameDebug.print("rng1 = " + rng + " + " + t1contactranks[t1index] + " - " + t2controlranks[p2index] + " - 1");
+				}
 				rng += t1contactranks[t1index];
 				rng -= t2controlranks[p2index];
 				rng -= 1;
 			}
 			else
 			{
-				System.out.print("rng1 = " + rng + " + " + t2contactranks[t2index] + " - " + t1controlranks[p1index] + " + 1");
-				gameDebug.print("rng1 = " + rng + " + " + t2contactranks[t2index] + " - " + t1controlranks[p1index] + " + 1");
+				if (writing)
+				{
+					System.out.print("rng1 = " + rng + " + " + t2contactranks[t2index] + " - " + t1controlranks[p1index] + " + 1");
+					gameDebug.print("rng1 = " + rng + " + " + t2contactranks[t2index] + " - " + t1controlranks[p1index] + " + 1");
+				}
 				rng += t2contactranks[t2index];
 				rng -= t1controlranks[p1index];
 				rng += 1;
 			}
-			System.out.println(" = " + rng);
-			gameDebug.println(" = " + rng);
+			if (writing)
+			{
+				System.out.println(" = " + rng);
+				gameDebug.println(" = " + rng);
+			}
 			
 			if (rng <= 10 || (rng >= 16 && rng <= 28))
 			{
@@ -597,23 +655,32 @@ public class GameGenerator
 				
 				if (inning % 2 == 1)
 				{
-					System.out.print("rng2 = " + rng + " + " + t1powerranks[t1index] + " - " + t2stuffranks[p2index] + " - 1");
-					gameDebug.print("rng2 = " + rng + " + " + t1powerranks[t1index] + " - " + t2stuffranks[p2index] + " - 1");
+					if (writing)
+					{
+						System.out.print("rng2 = " + rng + " + " + t1powerranks[t1index] + " - " + t2stuffranks[p2index] + " - 1");
+						gameDebug.print("rng2 = " + rng + " + " + t1powerranks[t1index] + " - " + t2stuffranks[p2index] + " - 1");
+					}
 					rng += t1powerranks[t1index];
 					rng -= t2stuffranks[p2index];
 					rng -= 1;
 				}
 				else
 				{
-					System.out.print("rng2 = " + rng + " + " + t2powerranks[t2index] + " - " + t1stuffranks[p1index] + " + 1");
-					gameDebug.print("rng2 = " + rng + " + " + t2powerranks[t2index] + " - " + t1stuffranks[p1index] + " + 1");
+					if (writing)
+					{
+						System.out.print("rng2 = " + rng + " + " + t2powerranks[t2index] + " - " + t1stuffranks[p1index] + " + 1");
+						gameDebug.print("rng2 = " + rng + " + " + t2powerranks[t2index] + " - " + t1stuffranks[p1index] + " + 1");
+					}
 					rng += t2powerranks[t2index];
 					rng -= t1stuffranks[p1index];
 					rng += 1;
 				}
-				System.out.println(" = " + rng);
-				gameDebug.println(" = " + rng);
-				
+				if (writing)
+				{
+					System.out.println(" = " + rng);
+					gameDebug.println(" = " + rng);
+				}
+
 				if (rng <= 47)
 				{
 					FullPrintLine("Groundout");
@@ -1198,22 +1265,31 @@ public class GameGenerator
 				
 				if (inning % 2 == 1)
 				{
-					System.out.print("rng2 = " + rng + " + " + t1powerranks[t1index] + " - " + t2stuffranks[p2index] + " - 1");
-					gameDebug.print("rng2 = " + rng + " + " + t1powerranks[t1index] + " - " + t2stuffranks[p2index] + " - 1");
+					if (writing)
+					{
+						System.out.print("rng2 = " + rng + " + " + t1powerranks[t1index] + " - " + t2stuffranks[p2index] + " - 1");
+						gameDebug.print("rng2 = " + rng + " + " + t1powerranks[t1index] + " - " + t2stuffranks[p2index] + " - 1");
+					}
 					rng += t1powerranks[t1index];
 					rng -= t2stuffranks[p2index];
 					rng -= 1;
 				}
 				else
 				{
-					System.out.print("rng2 = " + rng + " + " + t2powerranks[t2index] + " - " + t1stuffranks[p1index] + " + 1");
-					gameDebug.print("rng2 = " + rng + " + " + t2powerranks[t2index] + " - " + t1stuffranks[p1index] + " + 1");
+					if (writing)
+					{
+						System.out.print("rng2 = " + rng + " + " + t2powerranks[t2index] + " - " + t1stuffranks[p1index] + " + 1");
+						gameDebug.print("rng2 = " + rng + " + " + t2powerranks[t2index] + " - " + t1stuffranks[p1index] + " + 1");
+					}
 					rng += t2powerranks[t2index];
 					rng -= t1stuffranks[p1index];
 					rng += 1;
 				}
-				System.out.println(" = " + rng);
-				gameDebug.println(" = " + rng);	
+				if (writing)
+				{
+					System.out.println(" = " + rng);
+					gameDebug.println(" = " + rng);
+				}
 				
 				if (rng <= 65)
 				{
@@ -2596,11 +2672,12 @@ public class GameGenerator
 			else
 				pitchers1[p1index][12]++;
 			
-			if (inning % 2 == 0)
+			if (inning % 2 == 0 && writing)
 				gameDebug.println("Team 1 pitcher (" + team1pitchers[p1index] + "): " + pitchers1[p1index][12] + " batters faced, " + pitchers1[p1index][8] + " runs allowed = " + pitchers1[p1index][12] + " + " + 2.5*(pitchers1[p1index][8]) + " = " + (pitchers1[p1index][12] + 2.5*(pitchers1[p1index][8]) + ", outs: " + outs));
-			else
+			else if (writing)
 				gameDebug.println("Team 2 pitcher (" + team2pitchers[p2index] + "): " + pitchers2[p2index][12] + " batters faced, " + pitchers2[p2index][8] + " runs allowed = " + pitchers2[p2index][12] + " + " + 2.5*(pitchers2[p2index][8]) + " = " + (pitchers2[p2index][12] + 2.5*(pitchers2[p2index][8]) + ", outs: " + outs));
-			gameDebug.println("");
+			if (writing)
+				gameDebug.println("");
 			
 			if (outs < 3)
 			{
@@ -2619,7 +2696,8 @@ public class GameGenerator
 				else
 					baseDebug = baseDebug + "base3: false";
 
-				gameDebug.println(baseDebug);
+				if (writing)
+					gameDebug.println(baseDebug);
 				FullPrintLine("base1: " + base1 + ", base2: " + base2 + ", base3: " + base3);
 				FullPrintLine("Score: " + runs1 + "-" + runs2 + "\n");
 			}
@@ -2941,15 +3019,15 @@ public class GameGenerator
 					if (compilingStats)
 						printingStats = false;
 					
-					if (pitchers1[p1index][6] % 3 == 0 && pitchers1[p1index][12]-1 + pitchers1[p1index][8]*2.5 > 35)
+					if (writing && pitchers1[p1index][6] % 3 == 0 && pitchers1[p1index][12]-1 + pitchers1[p1index][8]*2.5 > 35)
 						gameOutput.println("CHECK DEBUG: Team 1 Pitcher checkval > 35");
-					if (pitchers2[p2index][6] % 3 == 0 && pitchers2[p2index][12]-1 + pitchers2[p2index][8]*2.5 > 35)
+					if (writing && pitchers2[p2index][6] % 3 == 0 && pitchers2[p2index][12]-1 + pitchers2[p2index][8]*2.5 > 35)
 						gameOutput.println("CHECK DEBUG: Team 2 Pitcher checkval > 35");
 					for (int i = 0; i <= 3; i++)
 					{
-						if (pitchers1[i][2] == 1 && pitchers1[i][12] == 0)
+						if (writing && pitchers1[i][2] == 1 && pitchers1[i][12] == 0)
 							gameOutput.println("CHECK DEBUG: Team 1 Pitcher " + (i+1) + " incorrectly registered for appearance");
-						if (pitchers2[i][2] == 1 && pitchers2[i][12] == 0)
+						if (writing && pitchers2[i][2] == 1 && pitchers2[i][12] == 0)
 							gameOutput.println("CHECK DEBUG: Team 2 Pitcher " + (i+1) + " incorrectly registered for appearance");
 					}
 				}
@@ -3035,229 +3113,242 @@ public class GameGenerator
 				}
 			}
 		}
+
+		if (updatingTeams)
+		{
+			Scanner reader1 = new Scanner(new File(t1));
+			ArrayList<String> array1 = new ArrayList<String>();
+			while (reader1.hasNextLine())
+			{
+				array1.add(reader1.nextLine());
+			}
+			try {
+				PrintWriter writer = new PrintWriter(t1);
+				for (int i = 0; i < 13; i++)
+				{
+					writer.println(array1.get(i));					
+				}
+
+				int r1stats = t1controlranks[1] + t1stuffranks[1];
+				int r2stats = t1controlranks[2] + t1stuffranks[2];
+				int r3stats = t1controlranks[3] + t1stuffranks[3];
+				int[] rsorted = new int[3];
+
+				if (r3stats > r2stats)
+				{
+					if (r1stats > r3stats)
+					{
+						rsorted[0] = 1;
+						rsorted[1] = 3;
+						rsorted[2] = 2;
+					}
+					else if (r2stats > r1stats)
+					{
+						rsorted[0] = 3;
+						rsorted[1] = 2;
+						rsorted[2] = 1;
+					}
+					else
+					{
+						rsorted[0] = 3;
+						rsorted[1] = 1;
+						rsorted[2] = 2;
+					}
+				}
+				else
+				{
+					if (r1stats > r2stats)
+					{
+						rsorted[0] = 1;
+						rsorted[1] = 2;
+						rsorted[2] = 3;
+					}
+					else if (r1stats > r3stats)
+					{
+						rsorted[0] = 2;
+						rsorted[1] = 1;
+						rsorted[2] = 3;
+					}
+					else
+					{
+						rsorted[0] = 2;
+						rsorted[1] = 3;
+						rsorted[2] = 1;				
+					}
+				}
+
+				ArrayList<String> pitched = new ArrayList<String>();
+				ArrayList<String> didntPitch = new ArrayList<String>();
+
+				for (int i = 0; i < 3; i++)
+				{
+					if (pitchers1[rsorted[i]][2] == 1)
+					{
+						pitched.add(array1.get(rsorted[i]+12));
+					}
+					else
+					{
+						didntPitch.add(array1.get(rsorted[i]+12));
+					}
+				}
+
+				didntPitch.forEach((n) -> writer.println(n));
+				pitched.forEach((n) -> writer.println(n));
+
+				writer.println(array1.get(16));
+
+				if (p1 == 3)
+				{
+					writer.print("0");
+				}
+				else
+				{
+					writer.print(p1+1);
+				}
+				writer.close();
+			}
+			catch (IOException e)
+			{
+				System.out.println("Couldn't write to file.");
+			}
+			
+			Scanner reader2 = new Scanner(new File(t2));
+			ArrayList<String> array2 = new ArrayList<String>();
+			while (reader2.hasNextLine())
+			{
+				array2.add(reader2.nextLine());
+			}
+			try {
+				PrintWriter writer = new PrintWriter(t2);
+				for (int i = 0; i < 13; i++)
+				{
+					writer.println(array2.get(i));					
+				}
+
+				int r1stats = t2controlranks[1] + t2stuffranks[1];
+				int r2stats = t2controlranks[2] + t2stuffranks[2];
+				int r3stats = t2controlranks[3] + t2stuffranks[3];
+				int[] rsorted = new int[3];
+
+				if (r3stats > r2stats)
+				{
+					if (r1stats > r3stats)
+					{
+						rsorted[0] = 1;
+						rsorted[1] = 3;
+						rsorted[2] = 2;
+					}
+					else if (r2stats > r1stats)
+					{
+						rsorted[0] = 3;
+						rsorted[1] = 2;
+						rsorted[2] = 1;
+					}
+					else
+					{
+						rsorted[0] = 3;
+						rsorted[1] = 1;
+						rsorted[2] = 2;
+					}
+				}
+				else
+				{
+					if (r1stats > r2stats)
+					{
+						rsorted[0] = 1;
+						rsorted[1] = 2;
+						rsorted[2] = 3;
+					}
+					else if (r1stats > r3stats)
+					{
+						rsorted[0] = 2;
+						rsorted[1] = 1;
+						rsorted[2] = 3;
+					}
+					else
+					{
+						rsorted[0] = 2;
+						rsorted[1] = 3;
+						rsorted[2] = 1;				
+					}
+				}
+
+				ArrayList<String> pitched = new ArrayList<String>();
+				ArrayList<String> didntPitch = new ArrayList<String>();
+
+				for (int i = 0; i < 3; i++)
+				{
+					if (pitchers2[rsorted[i]][2] == 1)
+					{
+						pitched.add(array2.get(rsorted[i]+12));
+					}
+					else
+					{
+						didntPitch.add(array2.get(rsorted[i]+12));
+					}
+				}
+
+				didntPitch.forEach((n) -> writer.println(n));
+				pitched.forEach((n) -> writer.println(n));
+
+				writer.println(array2.get(16));
+
+				if (p2 == 3)
+				{
+					writer.print("0");
+				}
+				else
+				{
+					writer.print(p2+1);
+				}
+
+				writer.close();
+			}
+			catch (IOException e)
+			{
+				System.out.println("Couldn't write to file.");
+			}
+
+			reader1.close();
+			reader2.close();
+			gameOutput.close();
+			gameDebug.close();
+		}
 		
-		Scanner reader1 = new Scanner(new File(t1));
-		ArrayList<String> array1 = new ArrayList<String>();
-		while (reader1.hasNextLine())
-		{
-			array1.add(reader1.nextLine());
-		}
-		try {
-			PrintWriter writer = new PrintWriter(t1);
-			for (int i = 0; i < 13; i++)
-			{
-				writer.println(array1.get(i));					
-			}
-
-			int r1stats = t1controlranks[1] + t1stuffranks[1];
-			int r2stats = t1controlranks[2] + t1stuffranks[2];
-			int r3stats = t1controlranks[3] + t1stuffranks[3];
-			int[] rsorted = new int[3];
-
-			if (r3stats > r2stats)
-			{
-				if (r1stats > r3stats)
-				{
-					rsorted[0] = 1;
-					rsorted[1] = 3;
-					rsorted[2] = 2;
-				}
-				else if (r2stats > r1stats)
-				{
-					rsorted[0] = 3;
-					rsorted[1] = 2;
-					rsorted[2] = 1;
-				}
-				else
-				{
-					rsorted[0] = 3;
-					rsorted[1] = 1;
-					rsorted[2] = 2;
-				}
-			}
-			else
-			{
-				if (r1stats > r2stats)
-				{
-					rsorted[0] = 1;
-					rsorted[1] = 2;
-					rsorted[2] = 3;
-				}
-				else if (r1stats > r3stats)
-				{
-					rsorted[0] = 2;
-					rsorted[1] = 1;
-					rsorted[2] = 3;
-				}
-				else
-				{
-					rsorted[0] = 2;
-					rsorted[1] = 3;
-					rsorted[2] = 1;				
-				}
-			}
-
-			ArrayList<String> pitched = new ArrayList<String>();
-			ArrayList<String> didntPitch = new ArrayList<String>();
-
-			for (int i = 0; i < 3; i++)
-			{
-				if (pitchers1[rsorted[i]][2] == 1)
-				{
-					pitched.add(array1.get(rsorted[i]+12));
-				}
-				else
-				{
-					didntPitch.add(array1.get(rsorted[i]+12));
-				}
-			}
-
-			didntPitch.forEach((n) -> writer.println(n));
-			pitched.forEach((n) -> writer.println(n));
-
-			writer.println(array1.get(16));
-
-			if (p1 == 3)
-			{
-				writer.print("0");
-			}
-			else
-			{
-				writer.print(p1+1);
-			}
-			writer.close();
-		}
-		catch (IOException e)
-		{
-			System.out.println("Couldn't write to file.");
-		}
-		
-		Scanner reader2 = new Scanner(new File(t2));
-		ArrayList<String> array2 = new ArrayList<String>();
-		while (reader2.hasNextLine())
-		{
-			array2.add(reader2.nextLine());
-		}
-		try {
-			PrintWriter writer = new PrintWriter(t2);
-			for (int i = 0; i < 13; i++)
-			{
-				writer.println(array2.get(i));					
-			}
-
-			int r1stats = t2controlranks[1] + t2stuffranks[1];
-			int r2stats = t2controlranks[2] + t2stuffranks[2];
-			int r3stats = t2controlranks[3] + t2stuffranks[3];
-			int[] rsorted = new int[3];
-
-			if (r3stats > r2stats)
-			{
-				if (r1stats > r3stats)
-				{
-					rsorted[0] = 1;
-					rsorted[1] = 3;
-					rsorted[2] = 2;
-				}
-				else if (r2stats > r1stats)
-				{
-					rsorted[0] = 3;
-					rsorted[1] = 2;
-					rsorted[2] = 1;
-				}
-				else
-				{
-					rsorted[0] = 3;
-					rsorted[1] = 1;
-					rsorted[2] = 2;
-				}
-			}
-			else
-			{
-				if (r1stats > r2stats)
-				{
-					rsorted[0] = 1;
-					rsorted[1] = 2;
-					rsorted[2] = 3;
-				}
-				else if (r1stats > r3stats)
-				{
-					rsorted[0] = 2;
-					rsorted[1] = 1;
-					rsorted[2] = 3;
-				}
-				else
-				{
-					rsorted[0] = 2;
-					rsorted[1] = 3;
-					rsorted[2] = 1;				
-				}
-			}
-
-			ArrayList<String> pitched = new ArrayList<String>();
-			ArrayList<String> didntPitch = new ArrayList<String>();
-
-			for (int i = 0; i < 3; i++)
-			{
-				if (pitchers2[rsorted[i]][2] == 1)
-				{
-					pitched.add(array2.get(rsorted[i]+12));
-				}
-				else
-				{
-					didntPitch.add(array2.get(rsorted[i]+12));
-				}
-			}
-
-			didntPitch.forEach((n) -> writer.println(n));
-			pitched.forEach((n) -> writer.println(n));
-
-			writer.println(array2.get(16));
-
-			if (p2 == 3)
-			{
-				writer.print("0");
-			}
-			else
-			{
-				writer.print(p2+1);
-			}
-
-			writer.close();
-		}
-		catch (IOException e)
-		{
-			System.out.println("Couldn't write to file.");
-		}
-		
-		gameOutput.close();
-		gameDebug.close();
 		file1.close();
 		file2.close();
-		reader1.close();
-		reader2.close();
+
+		int[] scores = { runs1, runs2 };
+		return scores;
 	}
 	
 	public static void FullPrintLine(String s)
 	{
-		System.out.println(s);
-		gameOutput.println(s);
-		gameDebug.println(s);
-
-		if (printingStats)
+		if (writing)
 		{
-			statCompendium.println(s);
+			System.out.println(s);
+			gameOutput.println(s);
+			gameDebug.println(s);
+
+			if (printingStats)
+			{
+				statCompendium.println(s);
+			}
 		}
 	}
 	
 	public static void FullPrint(String s)
 	{
-		System.out.print(s);
-		gameOutput.print(s);
-		gameDebug.print(s);
-
-		if (printingStats)
+		if (writing)
 		{
-			statCompendium.print(s);
+			System.out.print(s);
+			gameOutput.print(s);
+			gameDebug.print(s);
+
+			if (printingStats)
+			{
+				statCompendium.print(s);
+			}
 		}
 	}
 }

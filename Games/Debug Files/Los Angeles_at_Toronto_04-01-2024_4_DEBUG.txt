@@ -1,0 +1,816 @@
+TOP INNING 1
+
+Phoenix Moore: rng1 = 70 + 15 - 8 - 1 = 76
+rng2 = 84 + 13 - 8 - 1 = 88
+Double
+Team 2 pitcher (Theo Thomson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Ashton Martin: rng1 = 50 + 13 - 8 - 1 = 54
+rng2 = 52 + 14 - 8 - 1 = 57
+Lineout
+Team 2 pitcher (Theo Thomson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Mason Foster: rng1 = 76 + 12 - 8 - 1 = 79
+rng2 = 41 + 11 - 8 - 1 = 43
+Single
+Team 2 pitcher (Theo Thomson): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Caden Beckett: rng1 = 69 + 11 - 8 - 1 = 71
+Walk
+Team 2 pitcher (Theo Thomson): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Quinell McDaniel: rng1 = 86 + 9 - 8 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Theo Thomson): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: [4,0], base2: [3,0], base3: [2,0]
+base1: true, base2: true, base3: true
+Score: 1-0
+
+Felipe Grimes: rng1 = 60 + 6 - 8 - 1 = 57
+rng2 = 97 + 9 - 8 - 1 = 97
+Flyout
+Team 2 pitcher (Theo Thomson): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-0
+
+Ethan Clarke: rng1 = 43 + 3 - 8 - 1 = 37
+rng2 = 67 + 8 - 8 - 1 = 66
+Flyout
+Team 2 pitcher (Theo Thomson): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Isaac Morris: rng1 = 30 + 15 - 10 + 1 = 36
+rng2 = 19 + 15 - 7 + 1 = 28
+Groundout
+Team 1 pitcher (Gustavo Soto): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Ryuke Watanabe: rng1 = 61 + 14 - 10 + 1 = 66
+rng2 = 78 + 12 - 7 + 1 = 84
+Flyout
+Team 1 pitcher (Gustavo Soto): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Yorell Harmon: rng1 = 71 + 12 - 10 + 1 = 74
+rng2 = 100 + 14 - 7 + 1 = 108
+Home run
+Team 1 pitcher (Gustavo Soto): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Angel Semprún: rng1 = 100 + 12 - 10 + 1 = 103
+rng2 = 6 + 10 - 7 + 1 = 10
+Single
+Team 1 pitcher (Gustavo Soto): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Trey Walter: rng1 = 88 + 11 - 10 + 1 = 90
+Walk
+Team 1 pitcher (Gustavo Soto): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-1
+
+Martin Holland: rng1 = 47 + 12 - 10 + 1 = 50
+rng2 = 40 + 5 - 7 + 1 = 39
+Groundout
+Team 1 pitcher (Gustavo Soto): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+TOP INNING 2
+
+Stanley Soto: rng1 = 93 + 7 - 8 - 1 = 91
+rng2 = 95 + 4 - 8 - 1 = 90
+Double
+Team 2 pitcher (Theo Thomson): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 0
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-1
+
+Reese Ross: rng1 = 87 + 3 - 8 - 1 = 81
+rng2 = 86 + 7 - 8 - 1 = 84
+Home run
+Team 2 pitcher (Theo Thomson): 9 batters faced, 4 runs allowed = 9 + 10.0 = 19.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Phoenix Moore: rng1 = 17 + 15 - 8 - 1 = 23
+Strikeout
+Team 2 pitcher (Theo Thomson): 10 batters faced, 4 runs allowed = 10 + 10.0 = 20.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Ashton Martin: rng1 = 29 + 13 - 8 - 1 = 33
+rng2 = 40 + 14 - 8 - 1 = 45
+Groundout
+Team 2 pitcher (Theo Thomson): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Mason Foster: rng1 = 29 + 12 - 8 - 1 = 32
+rng2 = 73 + 11 - 8 - 1 = 75
+Flyout
+Team 2 pitcher (Theo Thomson): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Parker Dillard: rng1 = 11 + 6 - 10 + 1 = 8
+Strikeout
+Team 1 pitcher (Gustavo Soto): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Romero Hidalgo: rng1 = 22 + 8 - 10 + 1 = 21
+Strikeout
+Team 1 pitcher (Gustavo Soto): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Whalen Tate: rng1 = 62 + 2 - 10 + 1 = 55
+rng2 = 19 + 8 - 7 + 1 = 21
+Groundout
+Team 1 pitcher (Gustavo Soto): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+TOP INNING 3
+
+Caden Beckett: rng1 = 22 + 11 - 8 - 1 = 24
+Strikeout
+Team 2 pitcher (Theo Thomson): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Quinell McDaniel: rng1 = 88 + 9 - 8 - 1 = 88
+Walk
+Team 2 pitcher (Theo Thomson): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-1
+
+Felipe Grimes: rng1 = 85 + 6 - 8 - 1 = 82
+rng2 = 30 + 9 - 8 - 1 = 30
+Single
+Team 2 pitcher (Theo Thomson): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 1
+
+base1: [5,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 4-1
+
+Ethan Clarke: rng1 = 66 + 3 - 8 - 1 = 60
+rng2 = 10 + 8 - 8 - 1 = 9
+Groundout
+Team 2 pitcher (Theo Thomson): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 2
+
+base1: false, base2: [5,0], base3: [4,0]
+base1: false, base2: true, base3: true
+Score: 4-1
+
+Stanley Soto: rng1 = 55 + 7 - 8 - 1 = 53
+rng2 = 77 + 4 - 8 - 1 = 72
+Flyout
+Team 2 pitcher (Theo Thomson): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Isaac Morris: rng1 = 11 + 15 - 10 + 1 = 17
+Strikeout
+Team 1 pitcher (Gustavo Soto): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Ryuke Watanabe: rng1 = 37 + 14 - 10 + 1 = 42
+rng2 = 58 + 12 - 7 + 1 = 64
+Flyout
+Team 1 pitcher (Gustavo Soto): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Yorell Harmon: rng1 = 66 + 12 - 10 + 1 = 69
+rng2 = 86 + 14 - 7 + 1 = 94
+Flyout
+Team 1 pitcher (Gustavo Soto): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+TOP INNING 4
+
+Reese Ross: rng1 = 34 + 3 - 8 - 1 = 28
+Strikeout
+Team 2 pitcher (Theo Thomson): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Phoenix Moore: rng1 = 47 + 15 - 8 - 1 = 53
+rng2 = 17 + 13 - 8 - 1 = 21
+Groundout
+Team 2 pitcher (Theo Thomson): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Ashton Martin: rng1 = 24 + 13 - 8 - 1 = 28
+Strikeout
+Team 2 pitcher (Theo Thomson): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Angel Semprún: rng1 = 68 + 12 - 10 + 1 = 71
+Walk
+Team 1 pitcher (Gustavo Soto): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-1
+
+Trey Walter: rng1 = 93 + 11 - 10 + 1 = 95
+rng2 = 9 + 10 - 7 + 1 = 13
+Single
+Team 1 pitcher (Gustavo Soto): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 0
+
+base1: [4,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 4-1
+
+Martin Holland: rng1 = 65 + 12 - 10 + 1 = 68
+rng2 = 47 + 5 - 7 + 1 = 46
+Groundout
+Team 1 pitcher (Gustavo Soto): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 1
+
+base1: false, base2: [4,0], base3: [3,0]
+base1: false, base2: true, base3: true
+Score: 4-1
+
+Parker Dillard: rng1 = 87 + 6 - 10 + 1 = 84
+rng2 = 47 + 6 - 7 + 1 = 47
+Single
+Team 1 pitcher (Gustavo Soto): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Romero Hidalgo: rng1 = 98 + 8 - 10 + 1 = 97
+rng2 = 35 + 3 - 7 + 1 = 32
+Single
+Team 1 pitcher (Gustavo Soto): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 1
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 4-3
+
+Whalen Tate: rng1 = 30 + 2 - 10 + 1 = 23
+Strikeout
+Team 1 pitcher (Gustavo Soto): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 2
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 4-3
+
+Isaac Morris: rng1 = 97 + 15 - 10 + 1 = 103
+rng2 = 44 + 15 - 7 + 1 = 53
+Single
+Team 1 pitcher (Gustavo Soto): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 2
+
+base1: [0,0], base2: [7,0], base3: [6,0]
+base1: true, base2: true, base3: true
+Score: 4-3
+
+Ryuke Watanabe: rng1 = 17 + 14 - 10 + 1 = 22
+Strikeout
+Team 1 pitcher (Gustavo Soto): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+TOP INNING 5
+
+Mason Foster: rng1 = 64 + 12 - 8 - 1 = 67
+rng2 = 60 + 11 - 8 - 1 = 62
+Flyout
+Team 2 pitcher (Theo Thomson): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Caden Beckett: rng1 = 89 + 11 - 8 - 1 = 91
+rng2 = 87 + 11 - 8 - 1 = 89
+Double
+Team 2 pitcher (Theo Thomson): 22 batters faced, 4 runs allowed = 22 + 10.0 = 32.0, outs: 1
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-3
+
+Quinell McDaniel: rng1 = 98 + 9 - 8 - 1 = 98
+rng2 = 96 + 8 - 8 - 1 = 95
+Home run
+Team 2 pitcher (Theo Thomson): 23 batters faced, 6 runs allowed = 23 + 15.0 = 38.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Team 2 pitcher change to Liam Newman
+
+Felipe Grimes: rng1 = 61 + 6 - 10 - 1 = 56
+rng2 = 43 + 9 - 9 - 1 = 42
+Groundout
+Team 2 pitcher (Liam Newman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Ethan Clarke: rng1 = 93 + 3 - 10 - 1 = 85
+rng2 = 66 + 8 - 9 - 1 = 64
+Single
+Team 2 pitcher (Liam Newman): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-3
+
+Stanley Soto: rng1 = 35 + 7 - 10 - 1 = 31
+rng2 = 88 + 4 - 9 - 1 = 82
+Flyout
+Team 2 pitcher (Liam Newman): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-3
+
+-----------------------
+
+BOTTOM INNING 5
+
+Yorell Harmon: rng1 = 67 + 12 - 10 + 1 = 70
+Walk
+Team 1 pitcher (Gustavo Soto): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 0
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-3
+
+Angel Semprún: rng1 = 92 + 12 - 10 + 1 = 95
+rng2 = 26 + 10 - 7 + 1 = 30
+Single
+Team 1 pitcher (Gustavo Soto): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 0
+
+base1: [3,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 6-3
+
+Trey Walter: rng1 = 37 + 11 - 10 + 1 = 39
+rng2 = 29 + 10 - 7 + 1 = 33
+Groundout
+Team 1 pitcher (Gustavo Soto): 23 batters faced, 3 runs allowed = 23 + 7.5 = 30.5, outs: 1
+
+base1: false, base2: [3,0], base3: [2,0]
+base1: false, base2: true, base3: true
+Score: 6-3
+
+Martin Holland: rng1 = 35 + 12 - 10 + 1 = 38
+rng2 = 1 + 5 - 7 + 1 = 0
+Groundout
+Team 1 pitcher (Gustavo Soto): 24 batters faced, 4 runs allowed = 24 + 10.0 = 34.0, outs: 2
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 6-4
+
+Team 1 pitcher change to Reed Winters
+
+Parker Dillard: rng1 = 22 + 6 - 10 + 1 = 19
+Strikeout
+Team 1 pitcher (Reed Winters): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-4
+
+-----------------------
+
+TOP INNING 6
+
+Reese Ross: rng1 = 49 + 3 - 10 - 1 = 41
+rng2 = 24 + 7 - 9 - 1 = 21
+Groundout
+Team 2 pitcher (Liam Newman): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Phoenix Moore: rng1 = 30 + 15 - 10 - 1 = 34
+rng2 = 18 + 13 - 9 - 1 = 21
+Groundout
+Team 2 pitcher (Liam Newman): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Ashton Martin: rng1 = 52 + 13 - 10 - 1 = 54
+rng2 = 63 + 14 - 9 - 1 = 67
+Flyout
+Team 2 pitcher (Liam Newman): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-4
+
+-----------------------
+
+BOTTOM INNING 6
+
+Romero Hidalgo: rng1 = 62 + 8 - 10 + 1 = 61
+rng2 = 3 + 3 - 9 + 1 = -2
+Groundout
+Team 1 pitcher (Reed Winters): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Whalen Tate: rng1 = 41 + 2 - 10 + 1 = 34
+rng2 = 97 + 8 - 9 + 1 = 97
+Flyout
+Team 1 pitcher (Reed Winters): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Isaac Morris: rng1 = 23 + 15 - 10 + 1 = 29
+rng2 = 92 + 15 - 9 + 1 = 99
+Flyout
+Team 1 pitcher (Reed Winters): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-4
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Julian Carney
+
+Mason Foster: rng1 = 77 + 12 - 9 - 1 = 79
+rng2 = 53 + 11 - 8 - 1 = 55
+Single
+Team 2 pitcher (Julian Carney): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-4
+
+Caden Beckett: rng1 = 22 + 11 - 9 - 1 = 23
+Strikeout
+Team 2 pitcher (Julian Carney): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-4
+
+Quinell McDaniel: rng1 = 58 + 9 - 9 - 1 = 57
+rng2 = 23 + 8 - 8 - 1 = 22
+Groundout
+Team 2 pitcher (Julian Carney): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [2,2], base3: false
+base1: false, base2: true, base3: false
+Score: 6-4
+
+Felipe Grimes: rng1 = 62 + 6 - 9 - 1 = 58
+rng2 = 9 + 9 - 8 - 1 = 9
+Groundout
+Team 2 pitcher (Julian Carney): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-4
+
+-----------------------
+
+BOTTOM INNING 7
+
+Ryuke Watanabe: rng1 = 53 + 14 - 10 + 1 = 58
+rng2 = 61 + 12 - 9 + 1 = 65
+Flyout
+Team 1 pitcher (Reed Winters): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Yorell Harmon: rng1 = 40 + 12 - 10 + 1 = 43
+rng2 = 53 + 14 - 9 + 1 = 59
+Flyout
+Team 1 pitcher (Reed Winters): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Angel Semprún: rng1 = 72 + 12 - 10 + 1 = 75
+rng2 = 71 + 10 - 9 + 1 = 73
+Double
+Team 1 pitcher (Reed Winters): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: [3,1], base3: false
+base1: false, base2: true, base3: false
+Score: 6-4
+
+Trey Walter: rng1 = 32 + 11 - 10 + 1 = 34
+rng2 = 32 + 10 - 9 + 1 = 34
+Groundout
+Team 1 pitcher (Reed Winters): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-4
+
+-----------------------
+
+TOP INNING 8
+
+Ethan Clarke: rng1 = 22 + 3 - 9 - 1 = 15
+rng2 = 60 + 8 - 8 - 1 = 59
+Flyout
+Team 2 pitcher (Julian Carney): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Stanley Soto: rng1 = 51 + 7 - 9 - 1 = 48
+rng2 = 10 + 4 - 8 - 1 = 5
+Groundout
+Team 2 pitcher (Julian Carney): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Reese Ross: rng1 = 30 + 3 - 9 - 1 = 23
+Strikeout
+Team 2 pitcher (Julian Carney): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-4
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Jason Francisco
+
+Martin Holland: rng1 = 35 + 12 - 10 + 1 = 38
+rng2 = 25 + 5 - 9 + 1 = 22
+Groundout
+Team 1 pitcher (Jason Francisco): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Parker Dillard: rng1 = 84 + 6 - 10 + 1 = 81
+rng2 = 90 + 6 - 9 + 1 = 88
+Double
+Team 1 pitcher (Jason Francisco): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [6,2], base3: false
+base1: false, base2: true, base3: false
+Score: 6-4
+
+Romero Hidalgo: rng1 = 6 + 8 - 10 + 1 = 5
+Strikeout
+Team 1 pitcher (Jason Francisco): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [6,2], base3: false
+base1: false, base2: true, base3: false
+Score: 6-4
+
+Whalen Tate: rng1 = 56 + 2 - 10 + 1 = 49
+rng2 = 90 + 8 - 9 + 1 = 90
+Flyout
+Team 1 pitcher (Jason Francisco): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-4
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Grover Bercher
+
+Phoenix Moore: rng1 = 40 + 15 - 7 - 1 = 47
+rng2 = 78 + 13 - 7 - 1 = 83
+Flyout
+Team 2 pitcher (Grover Bercher): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Ashton Martin: rng1 = 75 + 13 - 7 - 1 = 80
+rng2 = 13 + 14 - 7 - 1 = 19
+Single
+Team 2 pitcher (Grover Bercher): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-4
+
+Mason Foster: rng1 = 99 + 12 - 7 - 1 = 103
+rng2 = 33 + 11 - 7 - 1 = 36
+Single
+Team 2 pitcher (Grover Bercher): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,3], base2: [1,3], base3: false
+base1: true, base2: true, base3: false
+Score: 6-4
+
+Caden Beckett: rng1 = 49 + 11 - 7 - 1 = 52
+rng2 = 70 + 11 - 7 - 1 = 73
+Flyout
+Team 2 pitcher (Grover Bercher): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [2,3], base2: false, base3: [1,3]
+base1: true, base2: false, base3: true
+Score: 6-4
+
+Quinell McDaniel: rng1 = 41 + 9 - 7 - 1 = 42
+rng2 = 31 + 8 - 7 - 1 = 31
+Groundout
+Team 2 pitcher (Grover Bercher): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-4
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Jensen Garrish
+
+Isaac Morris: rng1 = 25 + 15 - 10 + 1 = 31
+rng2 = 73 + 15 - 13 + 1 = 76
+Flyout
+Team 1 pitcher (Jensen Garrish): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Ryuke Watanabe: rng1 = 94 + 14 - 10 + 1 = 99
+rng2 = 78 + 12 - 13 + 1 = 78
+Double
+Team 1 pitcher (Jensen Garrish): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [1,4], base3: false
+base1: false, base2: true, base3: false
+Score: 6-4
+
+Yorell Harmon: rng1 = 2 + 12 - 10 + 1 = 5
+Strikeout
+Team 1 pitcher (Jensen Garrish): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [1,4], base3: false
+base1: false, base2: true, base3: false
+Score: 6-4
+
+Angel Semprún: rng1 = 60 + 12 - 10 + 1 = 63
+rng2 = 80 + 10 - 13 + 1 = 78
+Flyout
+Team 1 pitcher (Jensen Garrish): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-4
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 11
+Team 2 hits: 10
+Team 1 runs: 6
+Team 2 runs: 4
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-04-01
+Phoenix Moore	5	1	1	1	0	0	0	0	1					Los Angeles
+Ashton Martin	5	0	1	0	0	0	0	0	1	
+Mason Foster	5	1	3	0	0	0	1	0	0	
+Caden Beckett	4	1	1	1	0	0	0	1	2	
+Quinell McDaniel	3	1	1	0	0	1	2	1	0	
+Felipe Grimes	4	0	1	0	0	0	1	0	0	
+Ethan Clarke	4	0	1	0	0	0	0	0	0	
+Stanley Soto	4	1	1	1	0	0	0	0	0	
+Reese Ross	4	1	1	0	0	1	2	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Gustavo Soto	1	0	1	1	0	0	14	7	4	1	3	5	24	
+Reed Winters	0	0	1	0	0	0	7	1	0	0	0	1	8	
+Jason Francisco	0	0	1	0	0	0	3	1	0	0	0	1	4	
+Rodney Fox	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Jensen Garrish	0	0	1	0	1	1	3	1	0	0	0	1	4	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-04-01
+Isaac Morris	5	0	1	0	0	0	0	0	1					Toronto
+Ryuke Watanabe	5	0	1	1	0	0	0	0	1	
+Yorell Harmon	4	2	1	0	0	1	1	1	1	
+Angel Semprún	4	1	3	1	0	0	0	1	0	
+Trey Walter	3	1	1	0	0	0	0	1	0	
+Martin Holland	4	0	0	0	0	0	1	0	0	
+Parker Dillard	4	0	2	1	0	0	2	0	2	
+Romero Hidalgo	4	0	1	0	0	0	0	0	2	
+Whalen Tate	4	0	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Theo Thomson	0	1	1	1	0	0	13	7	6	2	2	4	23	
+Liam Newman	0	0	1	0	0	0	5	1	0	0	0	0	6	
+Julian Carney	0	0	1	0	0	0	6	1	0	0	0	2	7	
+Grover Bercher	0	0	1	0	0	0	3	2	0	0	0	0	5	
+Otis Michael	0	0	0	0	0	0	0	0	0	0	0	0	0	

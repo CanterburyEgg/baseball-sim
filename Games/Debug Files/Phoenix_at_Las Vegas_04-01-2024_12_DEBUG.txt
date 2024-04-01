@@ -1,0 +1,698 @@
+TOP INNING 1
+
+Calder Martin: rng1 = 17 + 9 - 6 - 1 = 19
+Strikeout
+Team 2 pitcher (Kyo Hyun-Woo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jack Hayes: rng1 = 25 + 9 - 6 - 1 = 27
+Strikeout
+Team 2 pitcher (Kyo Hyun-Woo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Esteban Mendoza: rng1 = 27 + 8 - 6 - 1 = 28
+Strikeout
+Team 2 pitcher (Kyo Hyun-Woo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+George Nagle: rng1 = 86 + 15 - 8 + 1 = 94
+rng2 = 46 + 15 - 7 + 1 = 55
+Single
+Team 1 pitcher (Aaron Parry): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Lawrence Randolph: rng1 = 77 + 15 - 8 + 1 = 85
+rng2 = 59 + 14 - 7 + 1 = 67
+Double
+Team 1 pitcher (Aaron Parry): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Noah Fontenot: rng1 = 86 + 12 - 8 + 1 = 91
+rng2 = 32 + 7 - 7 + 1 = 33
+Single
+Team 1 pitcher (Aaron Parry): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 0
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Bautista Saelices: rng1 = 44 + 10 - 8 + 1 = 47
+rng2 = 18 + 9 - 7 + 1 = 21
+Groundout
+Team 1 pitcher (Aaron Parry): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-2
+
+Dante Arias: rng1 = 96 + 11 - 8 + 1 = 100
+rng2 = 72 + 8 - 7 + 1 = 74
+Double
+Team 1 pitcher (Aaron Parry): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 1
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-3
+
+Orlando Cazalla: rng1 = 23 + 3 - 8 + 1 = 19
+Strikeout
+Team 1 pitcher (Aaron Parry): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-3
+
+Sean Watson: rng1 = 53 + 6 - 8 + 1 = 52
+rng2 = 25 + 5 - 7 + 1 = 24
+Groundout
+Team 1 pitcher (Aaron Parry): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+TOP INNING 2
+
+Luca Águila: rng1 = 14 + 4 - 6 - 1 = 11
+rng2 = 36 + 10 - 6 - 1 = 39
+Groundout
+Team 2 pitcher (Kyo Hyun-Woo): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Mark White: rng1 = 15 + 8 - 6 - 1 = 16
+Strikeout
+Team 2 pitcher (Kyo Hyun-Woo): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Yodogawa Shosuke: rng1 = 96 + 7 - 6 - 1 = 96
+rng2 = 79 + 8 - 6 - 1 = 80
+Home run
+Team 2 pitcher (Kyo Hyun-Woo): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Adam Pearce: rng1 = 35 + 5 - 6 - 1 = 33
+rng2 = 74 + 6 - 6 - 1 = 73
+Flyout
+Team 2 pitcher (Kyo Hyun-Woo): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+BOTTOM INNING 2
+
+Antonio Santiago: rng1 = 79 + 8 - 8 + 1 = 80
+rng2 = 36 + 3 - 7 + 1 = 33
+Single
+Team 1 pitcher (Aaron Parry): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Noel Ayers: rng1 = 34 + 3 - 8 + 1 = 30
+rng2 = 64 + 7 - 7 + 1 = 65
+Flyout
+Team 1 pitcher (Aaron Parry): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+George Nagle: rng1 = 40 + 15 - 8 + 1 = 48
+rng2 = 54 + 15 - 7 + 1 = 63
+Flyout
+Team 1 pitcher (Aaron Parry): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Lawrence Randolph: rng1 = 26 + 15 - 8 + 1 = 34
+rng2 = 36 + 14 - 7 + 1 = 44
+Groundout
+Team 1 pitcher (Aaron Parry): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 3
+
+Josh Poole: rng1 = 94 + 6 - 6 - 1 = 93
+rng2 = 54 + 5 - 6 - 1 = 52
+Single
+Team 2 pitcher (Kyo Hyun-Woo): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Darren Chang: rng1 = 87 + 4 - 6 - 1 = 84
+rng2 = 30 + 6 - 6 - 1 = 29
+Single
+Team 2 pitcher (Kyo Hyun-Woo): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 0
+
+base1: [8,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 1-3
+
+Calder Martin: rng1 = 35 + 9 - 6 - 1 = 37
+rng2 = 81 + 9 - 6 - 1 = 83
+Flyout
+Team 2 pitcher (Kyo Hyun-Woo): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-3
+
+Jack Hayes: rng1 = 15 + 9 - 6 - 1 = 17
+Strikeout
+Team 2 pitcher (Kyo Hyun-Woo): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-3
+
+Esteban Mendoza: rng1 = 55 + 8 - 6 - 1 = 56
+rng2 = 72 + 8 - 6 - 1 = 73
+Flyout
+Team 2 pitcher (Kyo Hyun-Woo): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+BOTTOM INNING 3
+
+Noah Fontenot: rng1 = 5 + 12 - 8 + 1 = 10
+Strikeout
+Team 1 pitcher (Aaron Parry): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Bautista Saelices: rng1 = 6 + 10 - 8 + 1 = 9
+Strikeout
+Team 1 pitcher (Aaron Parry): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Dante Arias: rng1 = 53 + 11 - 8 + 1 = 57
+rng2 = 21 + 8 - 7 + 1 = 23
+Groundout
+Team 1 pitcher (Aaron Parry): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+TOP INNING 4
+
+Luca Águila: rng1 = 4 + 4 - 6 - 1 = 1
+Strikeout
+Team 2 pitcher (Kyo Hyun-Woo): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Mark White: rng1 = 36 + 8 - 6 - 1 = 37
+rng2 = 9 + 10 - 6 - 1 = 12
+Groundout
+Team 2 pitcher (Kyo Hyun-Woo): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Yodogawa Shosuke: rng1 = 55 + 7 - 6 - 1 = 55
+rng2 = 39 + 8 - 6 - 1 = 40
+Groundout
+Team 2 pitcher (Kyo Hyun-Woo): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+BOTTOM INNING 4
+
+Orlando Cazalla: rng1 = 4 + 3 - 8 + 1 = 0
+Strikeout
+Team 1 pitcher (Aaron Parry): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Sean Watson: rng1 = 40 + 6 - 8 + 1 = 39
+rng2 = 80 + 5 - 7 + 1 = 79
+Flyout
+Team 1 pitcher (Aaron Parry): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Antonio Santiago: rng1 = 68 + 8 - 8 + 1 = 69
+rng2 = 72 + 3 - 7 + 1 = 69
+Flyout
+Team 1 pitcher (Aaron Parry): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+TOP INNING 5
+
+Adam Pearce: rng1 = 100 + 5 - 6 - 1 = 98
+rng2 = 70 + 6 - 6 - 1 = 69
+Double
+Team 2 pitcher (Kyo Hyun-Woo): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 0
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-3
+
+Josh Poole: rng1 = 35 + 6 - 6 - 1 = 34
+rng2 = 30 + 5 - 6 - 1 = 28
+Groundout
+Team 2 pitcher (Kyo Hyun-Woo): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 1
+
+base1: false, base2: false, base3: [6,0]
+base1: false, base2: false, base3: true
+Score: 2-3
+
+Darren Chang: rng1 = 59 + 4 - 6 - 1 = 56
+rng2 = 52 + 6 - 6 - 1 = 51
+Lineout
+Team 2 pitcher (Kyo Hyun-Woo): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 2
+
+base1: false, base2: false, base3: [6,0]
+base1: false, base2: false, base3: true
+Score: 2-3
+
+Calder Martin: rng1 = 70 + 9 - 6 - 1 = 72
+Walk
+Team 2 pitcher (Kyo Hyun-Woo): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 2
+
+base1: [0,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 2-3
+
+Jack Hayes: rng1 = 54 + 9 - 6 - 1 = 56
+rng2 = 60 + 9 - 6 - 1 = 62
+Flyout
+Team 2 pitcher (Kyo Hyun-Woo): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+BOTTOM INNING 5
+
+Noel Ayers: rng1 = 36 + 3 - 8 + 1 = 32
+rng2 = 59 + 7 - 7 + 1 = 60
+Flyout
+Team 1 pitcher (Aaron Parry): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+George Nagle: rng1 = 35 + 15 - 8 + 1 = 43
+rng2 = 82 + 15 - 7 + 1 = 91
+Flyout
+Team 1 pitcher (Aaron Parry): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Lawrence Randolph: rng1 = 37 + 15 - 8 + 1 = 45
+rng2 = 72 + 14 - 7 + 1 = 80
+Flyout
+Team 1 pitcher (Aaron Parry): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+TOP INNING 6
+
+Esteban Mendoza: rng1 = 89 + 8 - 6 - 1 = 90
+Walk
+Team 2 pitcher (Kyo Hyun-Woo): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 0
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-3
+
+Luca Águila: rng1 = 12 + 4 - 6 - 1 = 9
+Strikeout
+Team 2 pitcher (Kyo Hyun-Woo): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-3
+
+Mark White: rng1 = 11 + 8 - 6 - 1 = 12
+rng2 = 61 + 10 - 6 - 1 = 64
+Flyout
+Team 2 pitcher (Kyo Hyun-Woo): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-3
+
+Yodogawa Shosuke: rng1 = 64 + 7 - 6 - 1 = 64
+rng2 = 36 + 8 - 6 - 1 = 37
+Groundout
+Team 2 pitcher (Kyo Hyun-Woo): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+BOTTOM INNING 6
+
+Noah Fontenot: rng1 = 40 + 12 - 8 + 1 = 45
+rng2 = 91 + 7 - 7 + 1 = 92
+Flyout
+Team 1 pitcher (Aaron Parry): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Bautista Saelices: rng1 = 41 + 10 - 8 + 1 = 44
+rng2 = 79 + 9 - 7 + 1 = 82
+Flyout
+Team 1 pitcher (Aaron Parry): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Dante Arias: rng1 = 82 + 11 - 8 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Aaron Parry): 23 batters faced, 3 runs allowed = 23 + 7.5 = 30.5, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-3
+
+Orlando Cazalla: rng1 = 13 + 3 - 8 + 1 = 9
+Strikeout
+Team 1 pitcher (Aaron Parry): 24 batters faced, 3 runs allowed = 24 + 7.5 = 31.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Phil Segee
+
+Adam Pearce: rng1 = 29 + 5 - 10 - 1 = 23
+Strikeout
+Team 2 pitcher (Phil Segee): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Josh Poole: rng1 = 82 + 6 - 10 - 1 = 77
+rng2 = 70 + 5 - 10 - 1 = 64
+Single
+Team 2 pitcher (Phil Segee): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-3
+
+Darren Chang: rng1 = 77 + 4 - 10 - 1 = 70
+Walk
+Team 2 pitcher (Phil Segee): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [8,1], base2: [7,1], base3: false
+base1: true, base2: true, base3: false
+Score: 2-3
+
+Calder Martin: rng1 = 57 + 9 - 10 - 1 = 55
+rng2 = 5 + 9 - 10 - 1 = 3
+Groundout
+Team 2 pitcher (Phil Segee): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: [8,1], base3: [7,1]
+base1: false, base2: true, base3: true
+Score: 2-3
+
+Jack Hayes: rng1 = 12 + 9 - 10 - 1 = 10
+Strikeout
+Team 2 pitcher (Phil Segee): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Noah Rosario
+
+Sean Watson: rng1 = 63 + 6 - 9 + 1 = 61
+rng2 = 69 + 5 - 7 + 1 = 68
+Flyout
+Team 1 pitcher (Noah Rosario): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Antonio Santiago: rng1 = 9 + 8 - 9 + 1 = 9
+Strikeout
+Team 1 pitcher (Noah Rosario): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Noel Ayers: rng1 = 73 + 3 - 9 + 1 = 68
+rng2 = 42 + 7 - 7 + 1 = 43
+Groundout
+Team 1 pitcher (Noah Rosario): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Rodrigo Valerio
+
+Esteban Mendoza: rng1 = 72 + 8 - 10 - 1 = 69
+rng2 = 72 + 8 - 9 - 1 = 70
+Flyout
+Team 2 pitcher (Rodrigo Valerio): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Luca Águila: rng1 = 51 + 4 - 10 - 1 = 44
+rng2 = 24 + 10 - 9 - 1 = 24
+Groundout
+Team 2 pitcher (Rodrigo Valerio): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Mark White: rng1 = 79 + 8 - 10 - 1 = 76
+rng2 = 78 + 10 - 9 - 1 = 78
+Double
+Team 2 pitcher (Rodrigo Valerio): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [4,2], base3: false
+base1: false, base2: true, base3: false
+Score: 2-3
+
+Yodogawa Shosuke: rng1 = 81 + 7 - 10 - 1 = 77
+rng2 = 12 + 8 - 9 - 1 = 10
+Single
+Team 2 pitcher (Rodrigo Valerio): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [5,2], base2: false, base3: [4,2]
+base1: true, base2: false, base3: true
+Score: 2-3
+
+Adam Pearce: rng1 = 34 + 5 - 10 - 1 = 28
+Strikeout
+Team 2 pitcher (Rodrigo Valerio): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+BOTTOM INNING 8
+
+George Nagle: rng1 = 52 + 15 - 9 + 1 = 59
+rng2 = 78 + 15 - 7 + 1 = 87
+Flyout
+Team 1 pitcher (Noah Rosario): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Lawrence Randolph: rng1 = 98 + 15 - 9 + 1 = 105
+rng2 = 42 + 14 - 7 + 1 = 50
+Single
+Team 1 pitcher (Noah Rosario): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-3
+
+Noah Fontenot: rng1 = 3 + 12 - 9 + 1 = 7
+Strikeout
+Team 1 pitcher (Noah Rosario): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-3
+
+Bautista Saelices: rng1 = 84 + 10 - 9 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Noah Rosario): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [3,1], base2: [1,1], base3: false
+base1: true, base2: true, base3: false
+Score: 2-3
+
+Dante Arias: rng1 = 10 + 11 - 9 + 1 = 13
+rng2 = 18 + 8 - 7 + 1 = 20
+Groundout
+Team 1 pitcher (Noah Rosario): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Macos Alguacil
+
+Josh Poole: rng1 = 51 + 6 - 15 - 1 = 41
+rng2 = 3 + 5 - 15 - 1 = -8
+Groundout
+Team 2 pitcher (Macos Alguacil): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Darren Chang: rng1 = 83 + 4 - 15 - 1 = 71
+Walk
+Team 2 pitcher (Macos Alguacil): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [8,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-3
+
+Calder Martin: rng1 = 68 + 9 - 15 - 1 = 61
+rng2 = 29 + 9 - 15 - 1 = 22
+Groundout
+Team 2 pitcher (Macos Alguacil): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 7
+Team 2 hits: 6
+Team 1 runs: 2
+Team 2 runs: 3
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-04-01
+Calder Martin	4	0	0	0	0	0	1	1	1					Phoenix
+Jack Hayes	4	0	0	0	0	0	0	0	3	
+Esteban Mendoza	3	0	0	0	0	0	0	1	1	
+Luca Águila	4	0	0	0	0	0	0	0	2	
+Mark White	4	0	1	1	0	0	0	0	1	
+Yodogawa Shosuke	4	1	2	0	0	1	1	0	0	
+Adam Pearce	4	0	1	1	0	0	0	0	2	
+Josh Poole	4	1	2	0	0	0	0	0	0	
+Darren Chang	2	0	1	0	0	0	0	2	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Aaron Parry	0	1	1	1	0	0	18	5	3	0	0	5	24	
+Noah Rosario	0	0	1	0	0	0	6	1	0	0	0	2	8	
+Lucas Gardner	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Ian Colome	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Louis Evans	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-04-01
+George Nagle	4	1	1	0	0	0	0	0	0					Las Vegas
+Lawrence Randolph	4	1	2	1	0	0	1	0	0	
+Noah Fontenot	4	1	1	0	0	0	1	0	2	
+Bautista Saelices	3	0	0	0	0	0	0	0	1	
+Dante Arias	3	0	1	1	0	0	1	0	0	
+Orlando Cazalla	3	0	0	0	0	0	0	0	3	
+Sean Watson	3	0	0	0	0	0	0	0	0	
+Antonio Santiago	3	0	1	0	0	0	0	0	1	
+Noel Ayers	3	0	0	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Kyo Hyun-Woo	1	0	1	1	0	0	18	4	2	1	2	7	24	
+Phil Segee	0	0	1	0	0	0	3	1	0	0	1	2	5	
+Rodrigo Valerio	0	0	1	0	0	0	3	2	0	0	0	1	5	
+Taylor Murphy	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Macos Alguacil	0	0	1	0	1	1	3	0	0	0	1	0	3	

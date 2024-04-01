@@ -1,0 +1,741 @@
+TOP INNING 1
+
+Tomas Canto: rng1 = 68 + 14 - 6 - 1 = 75
+rng2 = 78 + 15 - 7 - 1 = 85
+Home run
+Team 2 pitcher (Tavell Nash): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Keli Alohilani: rng1 = 44 + 13 - 6 - 1 = 50
+rng2 = 35 + 11 - 7 - 1 = 38
+Groundout
+Team 2 pitcher (Tavell Nash): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Caleb Harrington: rng1 = 76 + 12 - 6 - 1 = 81
+rng2 = 74 + 9 - 7 - 1 = 75
+Double
+Team 2 pitcher (Tavell Nash): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Jong Jung-Hwa: rng1 = 79 + 9 - 6 - 1 = 81
+rng2 = 36 + 12 - 7 - 1 = 40
+Single
+Team 2 pitcher (Tavell Nash): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Andres Fortune: rng1 = 92 + 9 - 6 - 1 = 94
+rng2 = 56 + 11 - 7 - 1 = 59
+Single
+Team 2 pitcher (Tavell Nash): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 1
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-0
+
+Ricky Bowers: rng1 = 6 + 10 - 6 - 1 = 9
+Strikeout
+Team 2 pitcher (Tavell Nash): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-0
+
+Konner Knight: rng1 = 21 + 11 - 6 - 1 = 25
+Strikeout
+Team 2 pitcher (Tavell Nash): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Leonardo Pinto: rng1 = 100 + 9 - 13 + 1 = 97
+rng2 = 75 + 6 - 13 + 1 = 69
+Double
+Team 1 pitcher (Pedro Diaz): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-0
+
+Robert Bailey: rng1 = 49 + 9 - 13 + 1 = 46
+rng2 = 20 + 12 - 13 + 1 = 20
+Groundout
+Team 1 pitcher (Pedro Diaz): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: [0,0]
+base1: false, base2: false, base3: true
+Score: 2-0
+
+Leon Fraser: rng1 = 91 + 7 - 13 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Pedro Diaz): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 2-0
+
+Bradley Murphy: rng1 = 34 + 10 - 13 + 1 = 32
+rng2 = 20 + 12 - 13 + 1 = 20
+Groundout
+Team 1 pitcher (Pedro Diaz): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+TOP INNING 2
+
+Javier Guillén: rng1 = 14 + 7 - 6 - 1 = 14
+rng2 = 74 + 10 - 7 - 1 = 76
+Flyout
+Team 2 pitcher (Tavell Nash): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Alonso Medina: rng1 = 83 + 10 - 6 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Tavell Nash): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Tomas Canto: rng1 = 82 + 14 - 6 - 1 = 89
+Walk
+Team 2 pitcher (Tavell Nash): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 1
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-0
+
+Keli Alohilani: rng1 = 99 + 13 - 6 - 1 = 105
+rng2 = 83 + 11 - 7 - 1 = 86
+Double
+Team 2 pitcher (Tavell Nash): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-0
+
+Caleb Harrington: rng1 = 62 + 12 - 6 - 1 = 67
+rng2 = 68 + 9 - 7 - 1 = 69
+Flyout
+Team 2 pitcher (Tavell Nash): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-0
+
+Jong Jung-Hwa: rng1 = 53 + 9 - 6 - 1 = 55
+rng2 = 18 + 12 - 7 - 1 = 22
+Groundout
+Team 2 pitcher (Tavell Nash): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Nicolas Sanchez: rng1 = 27 + 4 - 13 + 1 = 19
+Strikeout
+Team 1 pitcher (Pedro Diaz): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Trent Cline: rng1 = 75 + 6 - 13 + 1 = 69
+rng2 = 34 + 6 - 13 + 1 = 28
+Groundout
+Team 1 pitcher (Pedro Diaz): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Devoreaux Waters: rng1 = 82 + 7 - 13 + 1 = 77
+rng2 = 93 + 5 - 13 + 1 = 86
+Double
+Team 1 pitcher (Pedro Diaz): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-0
+
+Edward Lowe: rng1 = 66 + 5 - 13 + 1 = 59
+rng2 = 23 + 6 - 13 + 1 = 17
+Groundout
+Team 1 pitcher (Pedro Diaz): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+TOP INNING 3
+
+Andres Fortune: rng1 = 44 + 9 - 6 - 1 = 46
+rng2 = 41 + 11 - 7 - 1 = 44
+Groundout
+Team 2 pitcher (Tavell Nash): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Ricky Bowers: rng1 = 8 + 10 - 6 - 1 = 11
+rng2 = 89 + 8 - 7 - 1 = 89
+Flyout
+Team 2 pitcher (Tavell Nash): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Konner Knight: rng1 = 27 + 11 - 6 - 1 = 31
+rng2 = 45 + 7 - 7 - 1 = 44
+Groundout
+Team 2 pitcher (Tavell Nash): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Leroy Powell: rng1 = 17 + 4 - 13 + 1 = 9
+Strikeout
+Team 1 pitcher (Pedro Diaz): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Leonardo Pinto: rng1 = 84 + 9 - 13 + 1 = 81
+rng2 = 89 + 6 - 13 + 1 = 83
+Home run
+Team 1 pitcher (Pedro Diaz): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Robert Bailey: rng1 = 50 + 9 - 13 + 1 = 47
+rng2 = 12 + 12 - 13 + 1 = 12
+Groundout
+Team 1 pitcher (Pedro Diaz): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Leon Fraser: rng1 = 10 + 7 - 13 + 1 = 5
+Strikeout
+Team 1 pitcher (Pedro Diaz): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+TOP INNING 4
+
+Javier Guillén: rng1 = 70 + 7 - 6 - 1 = 70
+Walk
+Team 2 pitcher (Tavell Nash): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-1
+
+Alonso Medina: rng1 = 32 + 10 - 6 - 1 = 35
+rng2 = 9 + 7 - 7 - 1 = 8
+Groundout
+Team 2 pitcher (Tavell Nash): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 1
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-1
+
+Tomas Canto: rng1 = 72 + 14 - 6 - 1 = 79
+rng2 = 71 + 15 - 7 - 1 = 78
+Double
+Team 2 pitcher (Tavell Nash): 19 batters faced, 5 runs allowed = 19 + 12.5 = 31.5, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 5-1
+
+Keli Alohilani: rng1 = 96 + 13 - 6 - 1 = 102
+rng2 = 34 + 11 - 7 - 1 = 37
+Single
+Team 2 pitcher (Tavell Nash): 20 batters faced, 6 runs allowed = 20 + 15.0 = 35.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-1
+
+Caleb Harrington: rng1 = 55 + 12 - 6 - 1 = 60
+rng2 = 6 + 9 - 7 - 1 = 7
+Groundout
+Team 2 pitcher (Tavell Nash): 21 batters faced, 6 runs allowed = 21 + 15.0 = 36.0, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 6-1
+
+Jong Jung-Hwa: rng1 = 4 + 9 - 6 - 1 = 6
+Strikeout
+Team 2 pitcher (Tavell Nash): 22 batters faced, 6 runs allowed = 22 + 15.0 = 37.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Bradley Murphy: rng1 = 73 + 10 - 13 + 1 = 71
+Walk
+Team 1 pitcher (Pedro Diaz): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-1
+
+Nicolas Sanchez: rng1 = 21 + 4 - 13 + 1 = 13
+rng2 = 99 + 8 - 13 + 1 = 95
+Flyout
+Team 1 pitcher (Pedro Diaz): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-1
+
+Trent Cline: rng1 = 72 + 6 - 13 + 1 = 66
+rng2 = 49 + 6 - 13 + 1 = 43
+Groundout
+Team 1 pitcher (Pedro Diaz): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+TOP INNING 5
+
+Team 2 pitcher change to Keegan Schiel
+
+Andres Fortune: rng1 = 34 + 9 - 6 - 1 = 36
+rng2 = 44 + 11 - 7 - 1 = 47
+Groundout
+Team 2 pitcher (Keegan Schiel): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Ricky Bowers: rng1 = 70 + 10 - 6 - 1 = 73
+rng2 = 27 + 8 - 7 - 1 = 27
+Single
+Team 2 pitcher (Keegan Schiel): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-1
+
+Konner Knight: rng1 = 42 + 11 - 6 - 1 = 46
+rng2 = 42 + 7 - 7 - 1 = 41
+Groundout
+Team 2 pitcher (Keegan Schiel): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [5,1], base3: false
+base1: false, base2: true, base3: false
+Score: 6-1
+
+Javier Guillén: rng1 = 46 + 7 - 6 - 1 = 46
+rng2 = 8 + 10 - 7 - 1 = 10
+Groundout
+Team 2 pitcher (Keegan Schiel): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+BOTTOM INNING 5
+
+Devoreaux Waters: rng1 = 21 + 7 - 13 + 1 = 16
+Strikeout
+Team 1 pitcher (Pedro Diaz): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Edward Lowe: rng1 = 58 + 5 - 13 + 1 = 51
+rng2 = 17 + 6 - 13 + 1 = 11
+Groundout
+Team 1 pitcher (Pedro Diaz): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Leroy Powell: rng1 = 37 + 4 - 13 + 1 = 29
+rng2 = 63 + 6 - 13 + 1 = 57
+Lineout
+Team 1 pitcher (Pedro Diaz): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+TOP INNING 6
+
+Alonso Medina: rng1 = 66 + 10 - 6 - 1 = 69
+rng2 = 15 + 7 - 7 - 1 = 14
+Groundout
+Team 2 pitcher (Keegan Schiel): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Tomas Canto: rng1 = 40 + 14 - 6 - 1 = 47
+rng2 = 23 + 15 - 7 - 1 = 30
+Groundout
+Team 2 pitcher (Keegan Schiel): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Keli Alohilani: rng1 = 26 + 13 - 6 - 1 = 32
+rng2 = 84 + 11 - 7 - 1 = 87
+Flyout
+Team 2 pitcher (Keegan Schiel): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+BOTTOM INNING 6
+
+Leonardo Pinto: rng1 = 61 + 9 - 13 + 1 = 58
+rng2 = 100 + 6 - 13 + 1 = 94
+Flyout
+Team 1 pitcher (Pedro Diaz): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Robert Bailey: rng1 = 7 + 9 - 13 + 1 = 4
+Strikeout
+Team 1 pitcher (Pedro Diaz): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Leon Fraser: rng1 = 4 + 7 - 13 + 1 = -1
+Strikeout
+Team 1 pitcher (Pedro Diaz): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Reuben Simmons
+
+Caleb Harrington: rng1 = 50 + 12 - 11 - 1 = 50
+rng2 = 31 + 9 - 12 - 1 = 27
+Groundout
+Team 2 pitcher (Reuben Simmons): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Jong Jung-Hwa: rng1 = 89 + 9 - 11 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Reuben Simmons): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [3,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-1
+
+Andres Fortune: rng1 = 11 + 9 - 11 - 1 = 8
+Strikeout
+Team 2 pitcher (Reuben Simmons): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [3,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-1
+
+Ricky Bowers: rng1 = 30 + 10 - 11 - 1 = 28
+Strikeout
+Team 2 pitcher (Reuben Simmons): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+BOTTOM INNING 7
+
+Bradley Murphy: rng1 = 55 + 10 - 13 + 1 = 53
+rng2 = 39 + 12 - 13 + 1 = 39
+Groundout
+Team 1 pitcher (Pedro Diaz): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Nicolas Sanchez: rng1 = 12 + 4 - 13 + 1 = 4
+Strikeout
+Team 1 pitcher (Pedro Diaz): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Trent Cline: rng1 = 96 + 6 - 13 + 1 = 90
+Walk
+Team 1 pitcher (Pedro Diaz): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-1
+
+Devoreaux Waters: rng1 = 19 + 7 - 13 + 1 = 14
+rng2 = 12 + 5 - 13 + 1 = 5
+Groundout
+Team 1 pitcher (Pedro Diaz): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+TOP INNING 8
+
+Konner Knight: rng1 = 100 + 11 - 11 - 1 = 99
+rng2 = 45 + 7 - 12 - 1 = 39
+Single
+Team 2 pitcher (Reuben Simmons): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-1
+
+Javier Guillén: rng1 = 2 + 7 - 11 - 1 = -3
+Strikeout
+Team 2 pitcher (Reuben Simmons): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-1
+
+Alonso Medina: rng1 = 36 + 10 - 11 - 1 = 34
+rng2 = 14 + 7 - 12 - 1 = 8
+Groundout
+Team 2 pitcher (Reuben Simmons): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Rolando Maroto
+
+Edward Lowe: rng1 = 80 + 5 - 14 + 1 = 72
+Walk
+Team 1 pitcher (Rolando Maroto): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-1
+
+Leroy Powell: rng1 = 31 + 4 - 14 + 1 = 22
+Strikeout
+Team 1 pitcher (Rolando Maroto): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-1
+
+Leonardo Pinto: rng1 = 6 + 9 - 14 + 1 = 2
+Strikeout
+Team 1 pitcher (Rolando Maroto): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-1
+
+Robert Bailey: rng1 = 55 + 9 - 14 + 1 = 51
+rng2 = 88 + 12 - 11 + 1 = 90
+Flyout
+Team 1 pitcher (Rolando Maroto): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Bravon McDaniel
+
+Tomas Canto: rng1 = 40 + 14 - 11 - 1 = 42
+rng2 = 21 + 15 - 9 - 1 = 26
+Groundout
+Team 2 pitcher (Bravon McDaniel): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Keli Alohilani: rng1 = 12 + 13 - 11 - 1 = 13
+rng2 = 29 + 11 - 9 - 1 = 30
+Groundout
+Team 2 pitcher (Bravon McDaniel): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Caleb Harrington: rng1 = 86 + 12 - 11 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Bravon McDaniel): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-1
+
+Jong Jung-Hwa: rng1 = 68 + 9 - 11 - 1 = 65
+rng2 = 2 + 12 - 9 - 1 = 4
+Groundout
+Team 2 pitcher (Bravon McDaniel): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+BOTTOM INNING 9
+
+Leon Fraser: rng1 = 19 + 7 - 14 + 1 = 13
+rng2 = 90 + 6 - 11 + 1 = 86
+Flyout
+Team 1 pitcher (Rolando Maroto): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Bradley Murphy: rng1 = 20 + 10 - 14 + 1 = 17
+Strikeout
+Team 1 pitcher (Rolando Maroto): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Nicolas Sanchez: rng1 = 96 + 4 - 14 + 1 = 87
+Walk
+Team 1 pitcher (Rolando Maroto): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-1
+
+Trent Cline: rng1 = 97 + 6 - 14 + 1 = 90
+Walk
+Team 1 pitcher (Rolando Maroto): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [5,1], base2: [4,1], base3: false
+base1: true, base2: true, base3: false
+Score: 6-1
+
+Devoreaux Waters: rng1 = 23 + 7 - 14 + 1 = 17
+Strikeout
+Team 1 pitcher (Rolando Maroto): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 9
+Team 2 hits: 3
+Team 1 runs: 6
+Team 2 runs: 1
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-04-01
+Tomas Canto	4	3	2	1	0	1	2	1	0					Philadelphia
+Keli Alohilani	5	0	2	1	0	0	3	0	0	
+Caleb Harrington	4	1	1	1	0	0	0	0	0	
+Jong Jung-Hwa	4	0	1	0	0	0	1	0	1	
+Andres Fortune	4	0	1	0	0	0	0	0	1	
+Ricky Bowers	4	0	1	0	0	0	0	0	2	
+Konner Knight	4	0	1	0	0	0	0	0	1	
+Javier Guillén	3	1	0	0	0	0	0	1	1	
+Alonso Medina	3	1	0	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Pedro Diaz	1	0	1	1	0	0	21	3	1	1	2	7	25	
+Rolando Maroto	0	0	1	0	0	0	6	0	0	0	3	4	9	
+Steve Randles	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Ige Shukishi	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Eduardo Elvira	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-04-01
+Leonardo Pinto	4	1	2	1	0	1	1	0	1					Chicago
+Robert Bailey	4	0	0	0	0	0	0	0	1	
+Leon Fraser	3	0	0	0	0	0	0	0	2	
+Bradley Murphy	3	0	0	0	0	0	0	1	1	
+Nicolas Sanchez	3	0	0	0	0	0	0	1	2	
+Trent Cline	2	0	0	0	0	0	0	2	0	
+Devoreaux Waters	4	0	1	1	0	0	0	0	2	
+Edward Lowe	2	0	0	0	0	0	0	1	0	
+Leroy Powell	3	0	0	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Tavell Nash	0	1	1	1	0	0	12	7	6	1	2	3	22	
+Keegan Schiel	0	0	1	0	0	0	6	1	0	0	0	0	7	
+Reuben Simmons	0	0	1	0	0	0	6	1	0	0	0	3	7	
+Bravon McDaniel	0	0	1	0	0	0	3	0	0	0	0	0	4	
+Charlie Jordan	0	0	0	0	0	0	0	0	0	0	0	0	0	

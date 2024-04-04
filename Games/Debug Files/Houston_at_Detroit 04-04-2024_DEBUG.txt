@@ -1,0 +1,861 @@
+TOP INNING 1
+
+Cody Henderson: rng1 = 31 + 15 - 6 - 1 = 39
+rng2 = 88 + 14 - 7 - 1 = 94
+Flyout
+Team 2 pitcher (Finley Carr): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Kieran Byrne: rng1 = 60 + 14 - 6 - 1 = 67
+rng2 = 82 + 12 - 7 - 1 = 86
+Flyout
+Team 2 pitcher (Finley Carr): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Dante Leoz: rng1 = 29 + 13 - 6 - 1 = 35
+rng2 = 72 + 12 - 7 - 1 = 76
+Flyout
+Team 2 pitcher (Finley Carr): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Randall Hodge: rng1 = 68 + 14 - 9 + 1 = 74
+rng2 = 65 + 10 - 9 + 1 = 67
+Double
+Team 1 pitcher (Jonatan Velazquez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Cody McCarthy: rng1 = 61 + 12 - 9 + 1 = 65
+rng2 = 30 + 14 - 9 + 1 = 36
+Groundout
+Team 1 pitcher (Jonatan Velazquez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: [0,0]
+base1: false, base2: false, base3: true
+Score: 0-0
+
+Randy Carson: rng1 = 13 + 10 - 9 + 1 = 15
+rng2 = 76 + 10 - 9 + 1 = 78
+Flyout
+Team 1 pitcher (Jonatan Velazquez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: [0,0]
+base1: false, base2: false, base3: true
+Score: 0-0
+
+Reuben Sutton: rng1 = 88 + 9 - 9 + 1 = 89
+Walk
+Team 1 pitcher (Jonatan Velazquez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [3,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Joseph Thayer: rng1 = 29 + 10 - 9 + 1 = 31
+rng2 = 36 + 8 - 9 + 1 = 36
+Groundout
+Team 1 pitcher (Jonatan Velazquez): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Xavier Washington: rng1 = 66 + 12 - 6 - 1 = 71
+Walk
+Team 2 pitcher (Finley Carr): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Anthony Bennett: rng1 = 83 + 11 - 6 - 1 = 87
+Walk
+Team 2 pitcher (Finley Carr): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Jadon Mitchell: rng1 = 76 + 12 - 6 - 1 = 81
+rng2 = 2 + 12 - 7 - 1 = 6
+Single
+Team 2 pitcher (Finley Carr): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 0
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Elliot Hudson: rng1 = 71 + 9 - 6 - 1 = 73
+rng2 = 56 + 9 - 7 - 1 = 57
+Single
+Team 2 pitcher (Finley Carr): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 0
+
+base1: [6,0], base2: [5,0], base3: [4,0]
+base1: true, base2: true, base3: true
+Score: 1-0
+
+Dan Robertson: rng1 = 21 + 6 - 6 - 1 = 20
+Strikeout
+Team 2 pitcher (Finley Carr): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: [6,0], base2: [5,0], base3: [4,0]
+base1: true, base2: true, base3: true
+Score: 1-0
+
+Javier Gallardo: rng1 = 97 + 5 - 6 - 1 = 95
+rng2 = 51 + 6 - 7 - 1 = 49
+Single
+Team 2 pitcher (Finley Carr): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 1
+
+base1: [8,0], base2: [6,0], base3: [5,0]
+base1: true, base2: true, base3: true
+Score: 2-0
+
+Cody Henderson: rng1 = 26 + 15 - 6 - 1 = 34
+rng2 = 43 + 14 - 7 - 1 = 49
+Lineout
+Team 2 pitcher (Finley Carr): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 2
+
+base1: [8,0], base2: [6,0], base3: [5,0]
+base1: true, base2: true, base3: true
+Score: 2-0
+
+Kieran Byrne: rng1 = 44 + 14 - 6 - 1 = 51
+rng2 = 41 + 12 - 7 - 1 = 45
+Groundout
+Team 2 pitcher (Finley Carr): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Caden Bryan: rng1 = 39 + 7 - 9 + 1 = 38
+rng2 = 12 + 9 - 9 + 1 = 13
+Groundout
+Team 1 pitcher (Jonatan Velazquez): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Kugo Tadayuki: rng1 = 84 + 10 - 9 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Jonatan Velazquez): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Marvin Calvert: rng1 = 76 + 4 - 9 + 1 = 72
+Walk
+Team 1 pitcher (Jonatan Velazquez): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-0
+
+Terry Schroeder: rng1 = 19 + 8 - 9 + 1 = 19
+Strikeout
+Team 1 pitcher (Jonatan Velazquez): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-0
+
+Randall Hodge: rng1 = 79 + 14 - 9 + 1 = 85
+rng2 = 33 + 10 - 9 + 1 = 35
+Single
+Team 1 pitcher (Jonatan Velazquez): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: [0,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 2-1
+
+Cody McCarthy: rng1 = 62 + 12 - 9 + 1 = 66
+rng2 = 92 + 14 - 9 + 1 = 98
+Flyout
+Team 1 pitcher (Jonatan Velazquez): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+TOP INNING 3
+
+Dante Leoz: rng1 = 82 + 13 - 6 - 1 = 88
+Walk
+Team 2 pitcher (Finley Carr): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 0
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Xavier Washington: rng1 = 87 + 12 - 6 - 1 = 92
+rng2 = 76 + 14 - 7 - 1 = 82
+Home run
+Team 2 pitcher (Finley Carr): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Anthony Bennett: rng1 = 84 + 11 - 6 - 1 = 88
+Walk
+Team 2 pitcher (Finley Carr): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-1
+
+Jadon Mitchell: rng1 = 69 + 12 - 6 - 1 = 74
+rng2 = 13 + 12 - 7 - 1 = 17
+Single
+Team 2 pitcher (Finley Carr): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 0
+
+base1: [5,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 4-1
+
+Elliot Hudson: rng1 = 72 + 9 - 6 - 1 = 74
+rng2 = 76 + 9 - 7 - 1 = 77
+Double
+Team 2 pitcher (Finley Carr): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 0
+
+base1: false, base2: [6,0], base3: [5,0]
+base1: false, base2: true, base3: true
+Score: 5-1
+
+Dan Robertson: rng1 = 8 + 6 - 6 - 1 = 7
+Strikeout
+Team 2 pitcher (Finley Carr): 17 batters faced, 5 runs allowed = 17 + 12.5 = 29.5, outs: 1
+
+base1: false, base2: [6,0], base3: [5,0]
+base1: false, base2: true, base3: true
+Score: 5-1
+
+Javier Gallardo: rng1 = 82 + 5 - 6 - 1 = 80
+rng2 = 84 + 6 - 7 - 1 = 82
+Home run
+Team 2 pitcher (Finley Carr): 18 batters faced, 8 runs allowed = 18 + 20.0 = 38.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-1
+
+Team 2 pitcher change to Luciano Garrido
+
+Cody Henderson: rng1 = 98 + 15 - 7 - 1 = 105
+rng2 = 58 + 14 - 6 - 1 = 65
+Single
+Team 2 pitcher (Luciano Garrido): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-1
+
+Kieran Byrne: rng1 = 37 + 14 - 7 - 1 = 43
+rng2 = 9 + 12 - 6 - 1 = 14
+Groundout
+Team 2 pitcher (Luciano Garrido): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Randy Carson: rng1 = 9 + 10 - 9 + 1 = 11
+rng2 = 50 + 10 - 9 + 1 = 52
+Lineout
+Team 1 pitcher (Jonatan Velazquez): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-1
+
+Reuben Sutton: rng1 = 30 + 9 - 9 + 1 = 31
+rng2 = 53 + 10 - 9 + 1 = 55
+Lineout
+Team 1 pitcher (Jonatan Velazquez): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-1
+
+Joseph Thayer: rng1 = 87 + 10 - 9 + 1 = 89
+Walk
+Team 1 pitcher (Jonatan Velazquez): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-1
+
+Caden Bryan: rng1 = 17 + 7 - 9 + 1 = 16
+Strikeout
+Team 1 pitcher (Jonatan Velazquez): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-1
+
+-----------------------
+
+TOP INNING 4
+
+Dante Leoz: rng1 = 19 + 13 - 7 - 1 = 24
+Strikeout
+Team 2 pitcher (Luciano Garrido): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-1
+
+Xavier Washington: rng1 = 12 + 12 - 7 - 1 = 16
+Strikeout
+Team 2 pitcher (Luciano Garrido): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-1
+
+Anthony Bennett: rng1 = 33 + 11 - 7 - 1 = 36
+rng2 = 5 + 13 - 6 - 1 = 11
+Groundout
+Team 2 pitcher (Luciano Garrido): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Kugo Tadayuki: rng1 = 90 + 10 - 9 + 1 = 92
+rng2 = 21 + 4 - 9 + 1 = 17
+Single
+Team 1 pitcher (Jonatan Velazquez): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-1
+
+Marvin Calvert: rng1 = 32 + 4 - 9 + 1 = 28
+Strikeout
+Team 1 pitcher (Jonatan Velazquez): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-1
+
+Terry Schroeder: rng1 = 41 + 8 - 9 + 1 = 41
+rng2 = 20 + 5 - 9 + 1 = 17
+Groundout
+Team 1 pitcher (Jonatan Velazquez): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 2
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 8-1
+
+Randall Hodge: rng1 = 98 + 14 - 9 + 1 = 104
+rng2 = 36 + 10 - 9 + 1 = 38
+Single
+Team 1 pitcher (Jonatan Velazquez): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 2
+
+base1: [0,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 8-1
+
+Cody McCarthy: rng1 = 19 + 12 - 9 + 1 = 23
+Strikeout
+Team 1 pitcher (Jonatan Velazquez): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-1
+
+-----------------------
+
+TOP INNING 5
+
+Team 2 pitcher change to Jesus Perez
+
+Jadon Mitchell: rng1 = 60 + 12 - 6 - 1 = 65
+rng2 = 5 + 12 - 8 - 1 = 8
+Groundout
+Team 2 pitcher (Jesus Perez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-1
+
+Elliot Hudson: rng1 = 93 + 9 - 6 - 1 = 95
+rng2 = 96 + 9 - 8 - 1 = 96
+Home run
+Team 2 pitcher (Jesus Perez): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-1
+
+Dan Robertson: rng1 = 21 + 6 - 6 - 1 = 20
+Strikeout
+Team 2 pitcher (Jesus Perez): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-1
+
+Javier Gallardo: rng1 = 18 + 5 - 6 - 1 = 16
+Strikeout
+Team 2 pitcher (Jesus Perez): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-1
+
+-----------------------
+
+BOTTOM INNING 5
+
+Randy Carson: rng1 = 72 + 10 - 9 + 1 = 74
+rng2 = 3 + 10 - 9 + 1 = 5
+Single
+Team 1 pitcher (Jonatan Velazquez): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 0
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-1
+
+Reuben Sutton: rng1 = 71 + 9 - 9 + 1 = 72
+Walk
+Team 1 pitcher (Jonatan Velazquez): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 0
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 9-1
+
+Joseph Thayer: rng1 = 72 + 10 - 9 + 1 = 74
+rng2 = 53 + 8 - 9 + 1 = 53
+Single
+Team 1 pitcher (Jonatan Velazquez): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 0
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 9-2
+
+Caden Bryan: rng1 = 11 + 7 - 9 + 1 = 10
+Strikeout
+Team 1 pitcher (Jonatan Velazquez): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 1
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 9-2
+
+Kugo Tadayuki: rng1 = 72 + 10 - 9 + 1 = 74
+rng2 = 22 + 4 - 9 + 1 = 18
+Single
+Team 1 pitcher (Jonatan Velazquez): 25 batters faced, 3 runs allowed = 25 + 7.5 = 32.5, outs: 1
+
+base1: [6,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 9-3
+
+Marvin Calvert: rng1 = 77 + 4 - 9 + 1 = 73
+rng2 = 10 + 9 - 9 + 1 = 11
+Single
+Team 1 pitcher (Jonatan Velazquez): 26 batters faced, 4 runs allowed = 26 + 10.0 = 36.0, outs: 1
+
+base1: [7,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 9-4
+
+Team 1 pitcher change to Foster Roebuck
+
+Terry Schroeder: rng1 = 57 + 8 - 9 + 1 = 57
+rng2 = 84 + 5 - 10 + 1 = 80
+Flyout
+Team 1 pitcher (Foster Roebuck): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-5
+
+Randall Hodge: rng1 = 51 + 14 - 9 + 1 = 57
+rng2 = 11 + 10 - 10 + 1 = 12
+Groundout
+Team 1 pitcher (Foster Roebuck): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-5
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Armando Negron
+
+Cody Henderson: rng1 = 21 + 15 - 8 - 1 = 27
+Strikeout
+Team 2 pitcher (Armando Negron): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-5
+
+Kieran Byrne: rng1 = 20 + 14 - 8 - 1 = 25
+Strikeout
+Team 2 pitcher (Armando Negron): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-5
+
+Dante Leoz: rng1 = 34 + 13 - 8 - 1 = 38
+rng2 = 12 + 12 - 6 - 1 = 17
+Groundout
+Team 2 pitcher (Armando Negron): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-5
+
+-----------------------
+
+BOTTOM INNING 6
+
+Cody McCarthy: rng1 = 69 + 12 - 9 + 1 = 73
+rng2 = 23 + 14 - 10 + 1 = 28
+Single
+Team 1 pitcher (Foster Roebuck): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 0
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-5
+
+Randy Carson: rng1 = 30 + 10 - 9 + 1 = 32
+rng2 = 48 + 10 - 10 + 1 = 49
+Lineout
+Team 1 pitcher (Foster Roebuck): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-5
+
+Reuben Sutton: rng1 = 72 + 9 - 9 + 1 = 73
+rng2 = 18 + 10 - 10 + 1 = 19
+Single
+Team 1 pitcher (Foster Roebuck): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [3,1], base2: [1,1], base3: false
+base1: true, base2: true, base3: false
+Score: 9-5
+
+Joseph Thayer: rng1 = 48 + 10 - 9 + 1 = 50
+rng2 = 24 + 8 - 10 + 1 = 23
+Groundout
+Team 1 pitcher (Foster Roebuck): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [4,1], base2: [3,1], base3: false
+base1: true, base2: true, base3: false
+Score: 9-5
+
+Caden Bryan: rng1 = 79 + 7 - 9 + 1 = 78
+rng2 = 28 + 9 - 10 + 1 = 28
+Single
+Team 1 pitcher (Foster Roebuck): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: [5,1], base2: false, base3: [4,1]
+base1: true, base2: false, base3: true
+Score: 9-6
+
+Kugo Tadayuki: rng1 = 79 + 10 - 9 + 1 = 81
+rng2 = 61 + 4 - 10 + 1 = 56
+Single
+Team 1 pitcher (Foster Roebuck): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: [6,1], base2: false, base3: [5,1]
+base1: true, base2: false, base3: true
+Score: 9-7
+
+Team 1 pitcher change to Douglas Bosak
+
+Marvin Calvert: rng1 = 73 + 4 - 6 + 1 = 72
+Walk
+Team 1 pitcher (Douglas Bosak): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [7,2], base2: [6,1], base3: [5,1]
+base1: true, base2: true, base3: true
+Score: 9-7
+
+Terry Schroeder: rng1 = 54 + 8 - 6 + 1 = 57
+rng2 = 53 + 5 - 7 + 1 = 52
+Lineout
+Team 1 pitcher (Douglas Bosak): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-7
+
+-----------------------
+
+TOP INNING 7
+
+Xavier Washington: rng1 = 68 + 12 - 8 - 1 = 71
+Walk
+Team 2 pitcher (Armando Negron): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [3,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-7
+
+Anthony Bennett: rng1 = 4 + 11 - 8 - 1 = 6
+Strikeout
+Team 2 pitcher (Armando Negron): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [3,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-7
+
+Jadon Mitchell: rng1 = 47 + 12 - 8 - 1 = 50
+rng2 = 15 + 12 - 6 - 1 = 20
+Groundout
+Team 2 pitcher (Armando Negron): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: [3,3], base3: false
+base1: false, base2: true, base3: false
+Score: 9-7
+
+Elliot Hudson: rng1 = 41 + 9 - 8 - 1 = 41
+rng2 = 9 + 9 - 6 - 1 = 11
+Groundout
+Team 2 pitcher (Armando Negron): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-7
+
+-----------------------
+
+BOTTOM INNING 7
+
+Randall Hodge: rng1 = 96 + 14 - 6 + 1 = 105
+rng2 = 39 + 10 - 7 + 1 = 43
+Single
+Team 1 pitcher (Douglas Bosak): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 0
+
+base1: [0,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-7
+
+Cody McCarthy: rng1 = 94 + 12 - 6 + 1 = 101
+rng2 = 74 + 14 - 7 + 1 = 82
+Home run
+Team 1 pitcher (Douglas Bosak): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-9
+
+Randy Carson: rng1 = 61 + 10 - 6 + 1 = 66
+rng2 = 54 + 10 - 7 + 1 = 58
+Lineout
+Team 1 pitcher (Douglas Bosak): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-9
+
+Reuben Sutton: rng1 = 48 + 9 - 6 + 1 = 52
+rng2 = 14 + 10 - 7 + 1 = 18
+Groundout
+Team 1 pitcher (Douglas Bosak): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-9
+
+Joseph Thayer: rng1 = 28 + 10 - 6 + 1 = 33
+rng2 = 65 + 8 - 7 + 1 = 67
+Flyout
+Team 1 pitcher (Douglas Bosak): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-9
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Brentley Dickson
+
+Dan Robertson: rng1 = 31 + 6 - 11 - 1 = 25
+Strikeout
+Team 2 pitcher (Brentley Dickson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-9
+
+Javier Gallardo: rng1 = 45 + 5 - 11 - 1 = 38
+rng2 = 93 + 6 - 10 - 1 = 88
+Flyout
+Team 2 pitcher (Brentley Dickson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-9
+
+Cody Henderson: rng1 = 8 + 15 - 11 - 1 = 11
+rng2 = 76 + 14 - 10 - 1 = 79
+Flyout
+Team 2 pitcher (Brentley Dickson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-9
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Craig Valencis
+
+Caden Bryan: rng1 = 41 + 7 - 9 + 1 = 40
+rng2 = 51 + 9 - 9 + 1 = 52
+Lineout
+Team 1 pitcher (Craig Valencis): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-9
+
+Kugo Tadayuki: rng1 = 41 + 10 - 9 + 1 = 43
+rng2 = 24 + 4 - 9 + 1 = 20
+Groundout
+Team 1 pitcher (Craig Valencis): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-9
+
+Marvin Calvert: rng1 = 96 + 4 - 9 + 1 = 92
+rng2 = 82 + 9 - 9 + 1 = 83
+Home run
+Team 1 pitcher (Craig Valencis): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-10
+
+Terry Schroeder: rng1 = 11 + 8 - 9 + 1 = 11
+rng2 = 45 + 5 - 9 + 1 = 42
+Groundout
+Team 1 pitcher (Craig Valencis): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-10
+
+-----------------------
+
+TOP INNING 9
+
+Kieran Byrne: rng1 = 85 + 14 - 11 - 1 = 87
+Walk
+Team 2 pitcher (Brentley Dickson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [1,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-10
+
+Dante Leoz: rng1 = 81 + 13 - 11 - 1 = 82
+rng2 = 37 + 12 - 10 - 1 = 38
+Single
+Team 2 pitcher (Brentley Dickson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [2,4], base2: [1,4], base3: false
+base1: true, base2: true, base3: false
+Score: 9-10
+
+Xavier Washington: rng1 = 30 + 12 - 11 - 1 = 30
+rng2 = 65 + 14 - 10 - 1 = 68
+Flyout
+Team 2 pitcher (Brentley Dickson): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [2,4], base2: [1,4], base3: false
+base1: true, base2: true, base3: false
+Score: 9-10
+
+Anthony Bennett: rng1 = 38 + 11 - 11 - 1 = 37
+rng2 = 38 + 13 - 10 - 1 = 40
+Groundout
+Team 2 pitcher (Brentley Dickson): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: [2,4], base3: [1,4]
+base1: false, base2: true, base3: true
+Score: 9-10
+
+Jadon Mitchell: rng1 = 24 + 12 - 11 - 1 = 24
+Strikeout
+Team 2 pitcher (Brentley Dickson): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-10
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 10
+Team 2 hits: 15
+Team 1 runs: 9
+Team 2 runs: 10
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-04-04
+Cody Henderson	5	0	1	0	0	0	0	0	1					Houston
+Kieran Byrne	4	0	0	0	0	0	0	1	1	
+Dante Leoz	4	1	1	0	0	0	0	1	1	
+Xavier Washington	3	2	1	0	0	1	2	2	1	
+Anthony Bennett	3	2	0	0	0	0	0	2	1	
+Jadon Mitchell	5	1	2	0	0	0	1	0	1	
+Elliot Hudson	4	2	3	1	0	1	2	0	0	
+Dan Robertson	4	0	0	0	0	0	0	0	4	
+Javier Gallardo	4	1	2	0	0	1	4	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Jonatan Velazquez	0	0	1	1	0	0	13	8	5	0	4	5	26	
+Foster Roebuck	0	0	1	0	0	0	4	4	2	0	0	0	8	
+Douglas Bosak	0	0	1	0	0	0	4	2	2	1	1	0	7	
+Craig Valencis	0	1	1	0	0	0	3	1	1	1	0	0	4	
+Gideon Giles	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-04-04
+Randall Hodge	5	1	4	1	0	0	1	0	0					Detroit
+Cody McCarthy	5	1	2	0	0	1	2	0	1	
+Randy Carson	5	1	1	0	0	0	0	0	0	
+Reuben Sutton	3	2	1	0	0	0	0	2	0	
+Joseph Thayer	4	2	1	0	0	0	1	1	0	
+Caden Bryan	5	0	1	0	0	0	1	0	2	
+Kugo Tadayuki	4	2	3	0	0	0	2	0	0	
+Marvin Calvert	3	1	2	0	0	1	2	2	1	
+Terry Schroeder	5	0	0	0	0	0	1	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Finley Carr	0	0	1	1	0	0	7	7	8	2	4	2	18	
+Luciano Garrido	0	0	1	0	0	0	5	1	0	0	0	2	5	
+Jesus Perez	0	0	1	0	0	0	3	1	1	1	0	2	4	
+Armando Negron	0	0	1	0	0	0	6	0	0	0	1	3	7	
+Brentley Dickson	1	0	1	0	0	0	6	1	0	0	1	2	8	

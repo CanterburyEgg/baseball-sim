@@ -1,0 +1,777 @@
+TOP INNING 1
+
+Blake Welsh: rng1 = 98 + 14 - 9 - 1 = 102
+rng2 = 10 + 8 - 6 - 1 = 11
+Single
+Team 2 pitcher (Sean Wilson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Gabe Roberts: rng1 = 27 + 13 - 9 - 1 = 30
+rng2 = 46 + 14 - 6 - 1 = 53
+Lineout
+Team 2 pitcher (Sean Wilson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Mahadi Khan: rng1 = 54 + 12 - 9 - 1 = 56
+rng2 = 83 + 10 - 6 - 1 = 86
+Flyout
+Team 2 pitcher (Sean Wilson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Tommy Baxter: rng1 = 64 + 8 - 9 - 1 = 62
+rng2 = 50 + 11 - 6 - 1 = 54
+Lineout
+Team 2 pitcher (Sean Wilson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Logan Chambers: rng1 = 88 + 13 - 8 + 1 = 94
+rng2 = 64 + 8 - 7 + 1 = 66
+Double
+Team 1 pitcher (Daniel Ortega): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Nicolás Moruga: rng1 = 90 + 12 - 8 + 1 = 95
+rng2 = 46 + 14 - 7 + 1 = 54
+Single
+Team 1 pitcher (Daniel Ortega): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Edward Cox: rng1 = 54 + 12 - 8 + 1 = 59
+rng2 = 46 + 7 - 7 + 1 = 47
+Groundout
+Team 1 pitcher (Daniel Ortega): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Tristian Love: rng1 = 14 + 11 - 8 + 1 = 18
+Strikeout
+Team 1 pitcher (Daniel Ortega): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 2
+
+Jaquon Lyons: rng1 = 4 + 10 - 9 - 1 = 4
+Strikeout
+Team 2 pitcher (Sean Wilson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Emiel Ware: rng1 = 68 + 8 - 9 - 1 = 66
+rng2 = 58 + 10 - 6 - 1 = 61
+Flyout
+Team 2 pitcher (Sean Wilson): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Isaac Secada: rng1 = 89 + 7 - 9 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Sean Wilson): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Timothy Bentley: rng1 = 3 + 5 - 9 - 1 = -2
+Strikeout
+Team 2 pitcher (Sean Wilson): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Aldo Gilmore: rng1 = 79 + 9 - 8 + 1 = 81
+rng2 = 41 + 11 - 7 + 1 = 46
+Single
+Team 1 pitcher (Daniel Ortega): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Alexis Shultz: rng1 = 72 + 8 - 8 + 1 = 73
+rng2 = 84 + 8 - 7 + 1 = 86
+Double
+Team 1 pitcher (Daniel Ortega): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 0
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-2
+
+Lucián Chicote: rng1 = 33 + 8 - 8 + 1 = 34
+rng2 = 72 + 8 - 7 + 1 = 74
+Flyout
+Team 1 pitcher (Daniel Ortega): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 1
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-2
+
+Cevonte Riley: rng1 = 87 + 7 - 8 + 1 = 87
+Walk
+Team 1 pitcher (Daniel Ortega): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 1
+
+base1: [7,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-2
+
+Zahir Burgos: rng1 = 93 + 4 - 8 + 1 = 90
+Walk
+Team 1 pitcher (Daniel Ortega): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 1
+
+base1: [8,0], base2: [7,0], base3: [5,0]
+base1: true, base2: true, base3: true
+Score: 0-2
+
+Logan Chambers: rng1 = 64 + 13 - 8 + 1 = 70
+Walk
+Team 1 pitcher (Daniel Ortega): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 1
+
+base1: [0,0], base2: [8,0], base3: [7,0]
+base1: true, base2: true, base3: true
+Score: 0-3
+
+Nicolás Moruga: rng1 = 89 + 12 - 8 + 1 = 94
+rng2 = 8 + 14 - 7 + 1 = 16
+Single
+Team 1 pitcher (Daniel Ortega): 11 batters faced, 5 runs allowed = 11 + 12.5 = 23.5, outs: 1
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 0-5
+
+Edward Cox: rng1 = 53 + 12 - 8 + 1 = 58
+rng2 = 64 + 7 - 7 + 1 = 65
+Flyout
+Team 1 pitcher (Daniel Ortega): 12 batters faced, 6 runs allowed = 12 + 15.0 = 27.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-6
+
+Tristian Love: rng1 = 19 + 11 - 8 + 1 = 23
+Strikeout
+Team 1 pitcher (Daniel Ortega): 13 batters faced, 6 runs allowed = 13 + 15.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+TOP INNING 3
+
+Yoshida Kei: rng1 = 92 + 7 - 9 - 1 = 89
+Walk
+Team 2 pitcher (Sean Wilson): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-6
+
+Blake Welsh: rng1 = 10 + 14 - 9 - 1 = 14
+rng2 = 95 + 8 - 6 - 1 = 96
+Flyout
+Team 2 pitcher (Sean Wilson): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-6
+
+Gabe Roberts: rng1 = 73 + 13 - 9 - 1 = 76
+rng2 = 3 + 14 - 6 - 1 = 10
+Single
+Team 2 pitcher (Sean Wilson): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 1
+
+base1: [1,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-6
+
+Mahadi Khan: rng1 = 46 + 12 - 9 - 1 = 48
+rng2 = 88 + 10 - 6 - 1 = 91
+Flyout
+Team 2 pitcher (Sean Wilson): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 2
+
+base1: [1,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-6
+
+Tommy Baxter: rng1 = 37 + 8 - 9 - 1 = 35
+rng2 = 21 + 11 - 6 - 1 = 25
+Groundout
+Team 2 pitcher (Sean Wilson): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+BOTTOM INNING 3
+
+Aldo Gilmore: rng1 = 16 + 9 - 8 + 1 = 18
+Strikeout
+Team 1 pitcher (Daniel Ortega): 14 batters faced, 6 runs allowed = 14 + 15.0 = 29.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Alexis Shultz: rng1 = 31 + 8 - 8 + 1 = 32
+rng2 = 51 + 8 - 7 + 1 = 53
+Lineout
+Team 1 pitcher (Daniel Ortega): 15 batters faced, 6 runs allowed = 15 + 15.0 = 30.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Lucián Chicote: rng1 = 26 + 8 - 8 + 1 = 27
+Strikeout
+Team 1 pitcher (Daniel Ortega): 16 batters faced, 6 runs allowed = 16 + 15.0 = 31.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+TOP INNING 4
+
+Jaquon Lyons: rng1 = 57 + 10 - 9 - 1 = 57
+rng2 = 16 + 10 - 6 - 1 = 19
+Groundout
+Team 2 pitcher (Sean Wilson): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Emiel Ware: rng1 = 61 + 8 - 9 - 1 = 59
+rng2 = 58 + 10 - 6 - 1 = 61
+Flyout
+Team 2 pitcher (Sean Wilson): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Isaac Secada: rng1 = 38 + 7 - 9 - 1 = 35
+rng2 = 54 + 8 - 6 - 1 = 55
+Lineout
+Team 2 pitcher (Sean Wilson): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+BOTTOM INNING 4
+
+Team 1 pitcher change to Abraham Pace
+
+Cevonte Riley: rng1 = 49 + 7 - 10 + 1 = 47
+rng2 = 12 + 7 - 10 + 1 = 10
+Groundout
+Team 1 pitcher (Abraham Pace): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Zahir Burgos: rng1 = 25 + 4 - 10 + 1 = 20
+Strikeout
+Team 1 pitcher (Abraham Pace): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Logan Chambers: rng1 = 48 + 13 - 10 + 1 = 52
+rng2 = 10 + 8 - 10 + 1 = 9
+Groundout
+Team 1 pitcher (Abraham Pace): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+TOP INNING 5
+
+Timothy Bentley: rng1 = 12 + 5 - 9 - 1 = 7
+Strikeout
+Team 2 pitcher (Sean Wilson): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Yoshida Kei: rng1 = 83 + 7 - 9 - 1 = 80
+rng2 = 100 + 6 - 6 - 1 = 99
+Home run
+Team 2 pitcher (Sean Wilson): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Blake Welsh: rng1 = 91 + 14 - 9 - 1 = 95
+rng2 = 16 + 8 - 6 - 1 = 17
+Single
+Team 2 pitcher (Sean Wilson): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Gabe Roberts: rng1 = 7 + 13 - 9 - 1 = 10
+Strikeout
+Team 2 pitcher (Sean Wilson): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Mahadi Khan: rng1 = 5 + 12 - 9 - 1 = 7
+Strikeout
+Team 2 pitcher (Sean Wilson): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+BOTTOM INNING 5
+
+Nicolás Moruga: rng1 = 71 + 12 - 10 + 1 = 74
+rng2 = 83 + 14 - 10 + 1 = 88
+Double
+Team 1 pitcher (Abraham Pace): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: false, base2: [1,1], base3: false
+base1: false, base2: true, base3: false
+Score: 1-6
+
+Edward Cox: rng1 = 48 + 12 - 10 + 1 = 51
+rng2 = 100 + 7 - 10 + 1 = 98
+Flyout
+Team 1 pitcher (Abraham Pace): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: [1,1]
+base1: false, base2: false, base3: true
+Score: 1-6
+
+Tristian Love: rng1 = 55 + 11 - 10 + 1 = 57
+rng2 = 17 + 12 - 10 + 1 = 20
+Groundout
+Team 1 pitcher (Abraham Pace): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: [1,1]
+base1: false, base2: false, base3: true
+Score: 1-6
+
+Aldo Gilmore: rng1 = 62 + 9 - 10 + 1 = 62
+rng2 = 49 + 11 - 10 + 1 = 51
+Lineout
+Team 1 pitcher (Abraham Pace): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 6
+
+Tommy Baxter: rng1 = 99 + 8 - 9 - 1 = 97
+rng2 = 64 + 11 - 6 - 1 = 68
+Double
+Team 2 pitcher (Sean Wilson): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 0
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-6
+
+Jaquon Lyons: rng1 = 98 + 10 - 9 - 1 = 98
+rng2 = 13 + 10 - 6 - 1 = 16
+Single
+Team 2 pitcher (Sean Wilson): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 0
+
+base1: [4,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 1-6
+
+Emiel Ware: rng1 = 88 + 8 - 9 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Sean Wilson): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 0
+
+base1: [5,0], base2: [4,0], base3: [3,0]
+base1: true, base2: true, base3: true
+Score: 1-6
+
+Isaac Secada: rng1 = 55 + 7 - 9 - 1 = 52
+rng2 = 76 + 8 - 6 - 1 = 77
+Flyout
+Team 2 pitcher (Sean Wilson): 25 batters faced, 2 runs allowed = 25 + 5.0 = 30.0, outs: 1
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-6
+
+Timothy Bentley: rng1 = 65 + 5 - 9 - 1 = 60
+rng2 = 48 + 9 - 6 - 1 = 50
+Lineout
+Team 2 pitcher (Sean Wilson): 26 batters faced, 2 runs allowed = 26 + 5.0 = 31.0, outs: 2
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-6
+
+Yoshida Kei: rng1 = 58 + 7 - 9 - 1 = 55
+rng2 = 11 + 6 - 6 - 1 = 10
+Groundout
+Team 2 pitcher (Sean Wilson): 27 batters faced, 2 runs allowed = 27 + 5.0 = 32.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-6
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Isaac Hartman
+
+Alexis Shultz: rng1 = 30 + 8 - 8 + 1 = 31
+rng2 = 72 + 8 - 9 + 1 = 72
+Flyout
+Team 1 pitcher (Isaac Hartman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-6
+
+Lucián Chicote: rng1 = 95 + 8 - 8 + 1 = 96
+rng2 = 22 + 8 - 9 + 1 = 22
+Single
+Team 1 pitcher (Isaac Hartman): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-6
+
+Cevonte Riley: rng1 = 70 + 7 - 8 + 1 = 70
+Walk
+Team 1 pitcher (Isaac Hartman): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [7,2], base2: [6,2], base3: false
+base1: true, base2: true, base3: false
+Score: 2-6
+
+Zahir Burgos: rng1 = 43 + 4 - 8 + 1 = 40
+rng2 = 93 + 8 - 9 + 1 = 93
+Flyout
+Team 1 pitcher (Isaac Hartman): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [7,2], base2: false, base3: [6,2]
+base1: true, base2: false, base3: true
+Score: 2-6
+
+Logan Chambers: rng1 = 30 + 13 - 8 + 1 = 36
+rng2 = 5 + 8 - 9 + 1 = 5
+Groundout
+Team 1 pitcher (Isaac Hartman): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-6
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Shane Moran
+
+Blake Welsh: rng1 = 5 + 14 - 8 - 1 = 10
+Strikeout
+Team 2 pitcher (Shane Moran): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-6
+
+Gabe Roberts: rng1 = 4 + 13 - 8 - 1 = 8
+Strikeout
+Team 2 pitcher (Shane Moran): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-6
+
+Mahadi Khan: rng1 = 87 + 12 - 8 - 1 = 90
+Walk
+Team 2 pitcher (Shane Moran): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-6
+
+Tommy Baxter: rng1 = 88 + 8 - 8 - 1 = 87
+Walk
+Team 2 pitcher (Shane Moran): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [3,1], base2: [2,1], base3: false
+base1: true, base2: true, base3: false
+Score: 2-6
+
+Jaquon Lyons: rng1 = 92 + 10 - 8 - 1 = 93
+rng2 = 87 + 10 - 9 - 1 = 87
+Double
+Team 2 pitcher (Shane Moran): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: false, base2: [4,1], base3: false
+base1: false, base2: true, base3: false
+Score: 4-6
+
+Emiel Ware: rng1 = 27 + 8 - 8 - 1 = 26
+Strikeout
+Team 2 pitcher (Shane Moran): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-6
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Emiliano Navarro
+
+Nicolás Moruga: rng1 = 5 + 12 - 8 + 1 = 10
+Strikeout
+Team 1 pitcher (Emiliano Navarro): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-6
+
+Edward Cox: rng1 = 65 + 12 - 8 + 1 = 70
+Walk
+Team 1 pitcher (Emiliano Navarro): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [2,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-6
+
+Tristian Love: rng1 = 30 + 11 - 8 + 1 = 34
+rng2 = 16 + 12 - 7 + 1 = 22
+Groundout
+Team 1 pitcher (Emiliano Navarro): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [2,3], base3: false
+base1: false, base2: true, base3: false
+Score: 4-6
+
+Aldo Gilmore: rng1 = 88 + 9 - 8 + 1 = 90
+Walk
+Team 1 pitcher (Emiliano Navarro): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [4,3], base2: [2,3], base3: false
+base1: true, base2: true, base3: false
+Score: 4-6
+
+Alexis Shultz: rng1 = 14 + 8 - 8 + 1 = 15
+rng2 = 90 + 8 - 7 + 1 = 92
+Flyout
+Team 1 pitcher (Emiliano Navarro): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-6
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Trey Hendrickson
+
+Isaac Secada: rng1 = 41 + 7 - 14 - 1 = 33
+rng2 = 49 + 8 - 14 - 1 = 42
+Groundout
+Team 2 pitcher (Trey Hendrickson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-6
+
+Timothy Bentley: rng1 = 13 + 5 - 14 - 1 = 3
+Strikeout
+Team 2 pitcher (Trey Hendrickson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-6
+
+Yoshida Kei: rng1 = 44 + 7 - 14 - 1 = 36
+rng2 = 89 + 6 - 14 - 1 = 80
+Flyout
+Team 2 pitcher (Trey Hendrickson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-6
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Kwok Kwang-Seok
+
+Lucián Chicote: rng1 = 67 + 8 - 11 + 1 = 65
+rng2 = 37 + 8 - 13 + 1 = 33
+Groundout
+Team 1 pitcher (Kwok Kwang-Seok): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-6
+
+Cevonte Riley: rng1 = 43 + 7 - 11 + 1 = 40
+rng2 = 35 + 7 - 13 + 1 = 30
+Groundout
+Team 1 pitcher (Kwok Kwang-Seok): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-6
+
+Zahir Burgos: rng1 = 23 + 4 - 11 + 1 = 17
+Strikeout
+Team 1 pitcher (Kwok Kwang-Seok): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-6
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Christopher Jones
+
+Blake Welsh: rng1 = 17 + 14 - 15 - 1 = 15
+rng2 = 9 + 8 - 15 - 1 = 1
+Groundout
+Team 2 pitcher (Christopher Jones): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-6
+
+Gabe Roberts: rng1 = 91 + 13 - 15 - 1 = 88
+Walk
+Team 2 pitcher (Christopher Jones): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-6
+
+Mahadi Khan: rng1 = 74 + 12 - 15 - 1 = 70
+Walk
+Team 2 pitcher (Christopher Jones): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,4], base2: [1,4], base3: false
+base1: true, base2: true, base3: false
+Score: 4-6
+
+Tommy Baxter: rng1 = 6 + 8 - 15 - 1 = -2
+Strikeout
+Team 2 pitcher (Christopher Jones): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [2,4], base2: [1,4], base3: false
+base1: true, base2: true, base3: false
+Score: 4-6
+
+Jaquon Lyons: rng1 = 99 + 10 - 15 - 1 = 93
+rng2 = 39 + 10 - 15 - 1 = 33
+Single
+Team 2 pitcher (Christopher Jones): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: [4,4], base2: [2,4], base3: [1,4]
+base1: true, base2: true, base3: true
+Score: 4-6
+
+Emiel Ware: rng1 = 4 + 8 - 15 - 1 = -4
+Strikeout
+Team 2 pitcher (Christopher Jones): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-6
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 8
+Team 2 hits: 7
+Team 1 runs: 4
+Team 2 runs: 6
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-04-04
+Blake Welsh	5	0	2	0	0	0	0	0	1					Miami
+Gabe Roberts	4	0	1	0	0	0	0	1	2	
+Mahadi Khan	3	1	0	0	0	0	0	2	1	
+Tommy Baxter	4	2	1	1	0	0	0	1	1	
+Jaquon Lyons	5	0	3	1	0	0	2	0	1	
+Emiel Ware	4	0	0	0	0	0	0	0	2	
+Isaac Secada	3	0	0	0	0	0	1	0	0	
+Timothy Bentley	4	0	0	0	0	0	0	0	3	
+Yoshida Kei	3	1	1	0	0	1	1	1	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Daniel Ortega	0	1	1	1	0	0	9	5	6	0	3	4	16	
+Abraham Pace	0	0	1	0	0	0	6	1	0	0	0	1	7	
+Isaac Hartman	0	0	1	0	0	0	3	1	0	0	1	0	5	
+Emiliano Navarro	0	0	1	0	0	0	3	0	0	0	2	1	5	
+Kwok Kwang-Seok	0	0	1	0	0	0	3	0	0	0	0	1	3	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-04-04
+Logan Chambers	3	2	1	1	0	0	1	1	0					New York
+Nicolás Moruga	4	0	3	1	0	0	3	0	1	
+Edward Cox	3	0	0	0	0	0	1	1	0	
+Tristian Love	4	0	0	0	0	0	0	0	2	
+Aldo Gilmore	3	1	1	0	0	0	0	1	1	
+Alexis Shultz	4	1	1	1	0	0	1	0	0	
+Lucián Chicote	4	0	1	0	0	0	0	0	1	
+Cevonte Riley	2	1	0	0	0	0	0	2	0	
+Zahir Burgos	3	1	0	0	0	0	0	1	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Sean Wilson	1	0	1	1	0	0	18	6	2	1	1	5	27	
+Shane Moran	0	0	1	0	0	0	3	1	2	0	2	3	6	
+Trey Hendrickson	0	0	1	0	0	0	3	0	0	0	0	1	3	
+Johan Cortez	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Christopher Jones	0	0	1	0	1	1	3	1	0	0	2	2	6	

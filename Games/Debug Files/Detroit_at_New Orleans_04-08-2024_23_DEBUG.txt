@@ -1,0 +1,773 @@
+TOP INNING 1
+
+Randall Hodge: rng1 = 4 + 14 - 14 - 1 = 3
+Strikeout
+Team 2 pitcher (Freddie Bailey): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Cody McCarthy: rng1 = 67 + 12 - 14 - 1 = 64
+rng2 = 24 + 14 - 14 - 1 = 23
+Groundout
+Team 2 pitcher (Freddie Bailey): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Randy Carson: rng1 = 39 + 10 - 14 - 1 = 34
+rng2 = 51 + 10 - 14 - 1 = 46
+Groundout
+Team 2 pitcher (Freddie Bailey): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Byron Bartlett: rng1 = 57 + 15 - 6 + 1 = 67
+rng2 = 27 + 14 - 8 + 1 = 34
+Groundout
+Team 1 pitcher (John Long): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Juan Manzanares: rng1 = 70 + 15 - 6 + 1 = 80
+rng2 = 81 + 14 - 8 + 1 = 88
+Double
+Team 1 pitcher (John Long): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Arturo Bellamy: rng1 = 90 + 14 - 6 + 1 = 99
+rng2 = 96 + 14 - 8 + 1 = 103
+Home run
+Team 1 pitcher (John Long): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Edmundo Pousa: rng1 = 66 + 14 - 6 + 1 = 75
+rng2 = 80 + 13 - 8 + 1 = 86
+Double
+Team 1 pitcher (John Long): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-2
+
+Noah Key: rng1 = 66 + 6 - 6 + 1 = 67
+rng2 = 15 + 6 - 8 + 1 = 14
+Groundout
+Team 1 pitcher (John Long): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: false, base2: false, base3: [3,0]
+base1: false, base2: false, base3: true
+Score: 0-2
+
+Alejandro López: rng1 = 24 + 4 - 6 + 1 = 23
+Strikeout
+Team 1 pitcher (John Long): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 2
+
+Reuben Sutton: rng1 = 1 + 9 - 14 - 1 = -5
+Strikeout
+Team 2 pitcher (Freddie Bailey): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Joseph Thayer: rng1 = 77 + 10 - 14 - 1 = 72
+Walk
+Team 2 pitcher (Freddie Bailey): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Caden Bryan: rng1 = 97 + 7 - 14 - 1 = 89
+Walk
+Team 2 pitcher (Freddie Bailey): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-2
+
+Kugo Tadayuki: rng1 = 42 + 10 - 14 - 1 = 37
+rng2 = 51 + 4 - 14 - 1 = 40
+Groundout
+Team 2 pitcher (Freddie Bailey): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [6,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 0-2
+
+Marvin Calvert: rng1 = 66 + 4 - 14 - 1 = 55
+rng2 = 54 + 9 - 14 - 1 = 48
+Lineout
+Team 2 pitcher (Freddie Bailey): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+BOTTOM INNING 2
+
+Terryl Maxwell: rng1 = 34 + 4 - 6 + 1 = 33
+rng2 = 28 + 7 - 8 + 1 = 28
+Groundout
+Team 1 pitcher (John Long): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Darren Adams: rng1 = 74 + 5 - 6 + 1 = 74
+rng2 = 85 + 6 - 8 + 1 = 84
+Home run
+Team 1 pitcher (John Long): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Marcos Gilabert: rng1 = 61 + 5 - 6 + 1 = 61
+rng2 = 100 + 6 - 8 + 1 = 99
+Flyout
+Team 1 pitcher (John Long): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Byron Bartlett: rng1 = 62 + 15 - 6 + 1 = 72
+Walk
+Team 1 pitcher (John Long): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Juan Manzanares: rng1 = 86 + 15 - 6 + 1 = 96
+rng2 = 37 + 14 - 8 + 1 = 44
+Single
+Team 1 pitcher (John Long): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 2
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 0-3
+
+Arturo Bellamy: rng1 = 29 + 14 - 6 + 1 = 38
+rng2 = 22 + 14 - 8 + 1 = 29
+Groundout
+Team 1 pitcher (John Long): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+TOP INNING 3
+
+Terry Schroeder: rng1 = 34 + 8 - 14 - 1 = 27
+Strikeout
+Team 2 pitcher (Freddie Bailey): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Randall Hodge: rng1 = 86 + 14 - 14 - 1 = 85
+rng2 = 14 + 10 - 14 - 1 = 9
+Single
+Team 2 pitcher (Freddie Bailey): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Cody McCarthy: rng1 = 37 + 12 - 14 - 1 = 34
+rng2 = 21 + 14 - 14 - 1 = 20
+Groundout
+Team 2 pitcher (Freddie Bailey): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+BOTTOM INNING 3
+
+Edmundo Pousa: rng1 = 10 + 14 - 6 + 1 = 19
+Strikeout
+Team 1 pitcher (John Long): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Noah Key: rng1 = 31 + 6 - 6 + 1 = 32
+rng2 = 1 + 6 - 8 + 1 = 0
+Groundout
+Team 1 pitcher (John Long): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Alejandro López: rng1 = 87 + 4 - 6 + 1 = 86
+Hit by pitch
+Team 1 pitcher (John Long): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Terryl Maxwell: rng1 = 74 + 4 - 6 + 1 = 73
+rng2 = 53 + 7 - 8 + 1 = 53
+Single
+Team 1 pitcher (John Long): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 2
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-3
+
+Darren Adams: rng1 = 94 + 5 - 6 + 1 = 94
+rng2 = 64 + 6 - 8 + 1 = 63
+Single
+Team 1 pitcher (John Long): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 2
+
+base1: [7,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 0-4
+
+Marcos Gilabert: rng1 = 22 + 5 - 6 + 1 = 22
+Strikeout
+Team 1 pitcher (John Long): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+TOP INNING 4
+
+Randy Carson: rng1 = 97 + 10 - 14 - 1 = 92
+rng2 = 4 + 10 - 14 - 1 = -1
+Single
+Team 2 pitcher (Freddie Bailey): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 0
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Reuben Sutton: rng1 = 92 + 9 - 14 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Freddie Bailey): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 0
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-4
+
+Joseph Thayer: rng1 = 67 + 10 - 14 - 1 = 62
+rng2 = 38 + 8 - 14 - 1 = 31
+Groundout
+Team 2 pitcher (Freddie Bailey): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 1
+
+base1: false, base2: [3,0], base3: [2,0]
+base1: false, base2: true, base3: true
+Score: 0-4
+
+Caden Bryan: rng1 = 46 + 7 - 14 - 1 = 38
+rng2 = 38 + 9 - 14 - 1 = 32
+Groundout
+Team 2 pitcher (Freddie Bailey): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 2
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-4
+
+Kugo Tadayuki: rng1 = 63 + 10 - 14 - 1 = 58
+rng2 = 73 + 4 - 14 - 1 = 62
+Flyout
+Team 2 pitcher (Freddie Bailey): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+BOTTOM INNING 4
+
+Byron Bartlett: rng1 = 84 + 15 - 6 + 1 = 94
+rng2 = 10 + 14 - 8 + 1 = 17
+Single
+Team 1 pitcher (John Long): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Juan Manzanares: rng1 = 32 + 15 - 6 + 1 = 42
+rng2 = 3 + 14 - 8 + 1 = 10
+Groundout
+Team 1 pitcher (John Long): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-4
+
+Arturo Bellamy: rng1 = 77 + 14 - 6 + 1 = 86
+Hit by pitch
+Team 1 pitcher (John Long): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 1
+
+base1: [2,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-4
+
+Edmundo Pousa: rng1 = 24 + 14 - 6 + 1 = 33
+rng2 = 57 + 13 - 8 + 1 = 63
+Flyout
+Team 1 pitcher (John Long): 22 batters faced, 4 runs allowed = 22 + 10.0 = 32.0, outs: 2
+
+base1: [2,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 1-4
+
+Noah Key: rng1 = 61 + 6 - 6 + 1 = 62
+rng2 = 20 + 6 - 8 + 1 = 19
+Groundout
+Team 1 pitcher (John Long): 23 batters faced, 4 runs allowed = 23 + 10.0 = 33.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+TOP INNING 5
+
+Marvin Calvert: rng1 = 38 + 4 - 14 - 1 = 27
+Strikeout
+Team 2 pitcher (Freddie Bailey): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Terry Schroeder: rng1 = 76 + 8 - 14 - 1 = 69
+rng2 = 79 + 5 - 14 - 1 = 69
+Flyout
+Team 2 pitcher (Freddie Bailey): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Randall Hodge: rng1 = 81 + 14 - 14 - 1 = 80
+rng2 = 29 + 10 - 14 - 1 = 24
+Single
+Team 2 pitcher (Freddie Bailey): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Cody McCarthy: rng1 = 68 + 12 - 14 - 1 = 65
+rng2 = 67 + 14 - 14 - 1 = 66
+Flyout
+Team 2 pitcher (Freddie Bailey): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Jesus Perez
+
+Alejandro López: rng1 = 26 + 4 - 6 + 1 = 25
+Strikeout
+Team 1 pitcher (Jesus Perez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Terryl Maxwell: rng1 = 90 + 4 - 6 + 1 = 89
+Walk
+Team 1 pitcher (Jesus Perez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Darren Adams: rng1 = 29 + 5 - 6 + 1 = 29
+rng2 = 11 + 6 - 8 + 1 = 10
+Groundout
+Team 1 pitcher (Jesus Perez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [6,1], base3: false
+base1: false, base2: true, base3: false
+Score: 1-4
+
+Marcos Gilabert: rng1 = 2 + 5 - 6 + 1 = 2
+Strikeout
+Team 1 pitcher (Jesus Perez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+TOP INNING 6
+
+Randy Carson: rng1 = 47 + 10 - 14 - 1 = 42
+rng2 = 76 + 10 - 14 - 1 = 71
+Flyout
+Team 2 pitcher (Freddie Bailey): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Reuben Sutton: rng1 = 78 + 9 - 14 - 1 = 72
+Walk
+Team 2 pitcher (Freddie Bailey): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Joseph Thayer: rng1 = 7 + 10 - 14 - 1 = 2
+Strikeout
+Team 2 pitcher (Freddie Bailey): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Caden Bryan: rng1 = 69 + 7 - 14 - 1 = 61
+rng2 = 54 + 9 - 14 - 1 = 48
+Lineout
+Team 2 pitcher (Freddie Bailey): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+BOTTOM INNING 6
+
+Byron Bartlett: rng1 = 75 + 15 - 6 + 1 = 85
+rng2 = 54 + 14 - 8 + 1 = 61
+Single
+Team 1 pitcher (Jesus Perez): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Juan Manzanares: rng1 = 77 + 15 - 6 + 1 = 87
+Walk
+Team 1 pitcher (Jesus Perez): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 0
+
+base1: [1,1], base2: [0,1], base3: false
+base1: true, base2: true, base3: false
+Score: 1-4
+
+Arturo Bellamy: rng1 = 78 + 14 - 6 + 1 = 87
+Walk
+Team 1 pitcher (Jesus Perez): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 0
+
+base1: [2,1], base2: [1,1], base3: [0,1]
+base1: true, base2: true, base3: true
+Score: 1-4
+
+Edmundo Pousa: rng1 = 13 + 14 - 6 + 1 = 22
+Strikeout
+Team 1 pitcher (Jesus Perez): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: [2,1], base2: [1,1], base3: [0,1]
+base1: true, base2: true, base3: true
+Score: 1-4
+
+Noah Key: rng1 = 17 + 6 - 6 + 1 = 18
+Strikeout
+Team 1 pitcher (Jesus Perez): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: [2,1], base2: [1,1], base3: [0,1]
+base1: true, base2: true, base3: true
+Score: 1-4
+
+Alejandro López: rng1 = 85 + 4 - 6 + 1 = 84
+rng2 = 76 + 7 - 8 + 1 = 76
+Double
+Team 1 pitcher (Jesus Perez): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 2
+
+base1: false, base2: [5,1], base3: [2,1]
+base1: false, base2: true, base3: true
+Score: 1-6
+
+Team 1 pitcher change to Luciano Garrido
+
+Terryl Maxwell: rng1 = 69 + 4 - 7 + 1 = 67
+rng2 = 74 + 7 - 6 + 1 = 76
+Flyout
+Team 1 pitcher (Luciano Garrido): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 7
+
+Kugo Tadayuki: rng1 = 37 + 10 - 14 - 1 = 32
+rng2 = 18 + 4 - 14 - 1 = 7
+Groundout
+Team 2 pitcher (Freddie Bailey): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Marvin Calvert: rng1 = 7 + 4 - 14 - 1 = -4
+Strikeout
+Team 2 pitcher (Freddie Bailey): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Terry Schroeder: rng1 = 90 + 8 - 14 - 1 = 83
+rng2 = 2 + 5 - 14 - 1 = -8
+Single
+Team 2 pitcher (Freddie Bailey): 27 batters faced, 1 runs allowed = 27 + 2.5 = 29.5, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Randall Hodge: rng1 = 55 + 14 - 14 - 1 = 54
+rng2 = 56 + 10 - 14 - 1 = 51
+Lineout
+Team 2 pitcher (Freddie Bailey): 28 batters faced, 1 runs allowed = 28 + 2.5 = 30.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+BOTTOM INNING 7
+
+Darren Adams: rng1 = 78 + 5 - 7 + 1 = 77
+rng2 = 30 + 6 - 6 + 1 = 31
+Single
+Team 1 pitcher (Luciano Garrido): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Marcos Gilabert: rng1 = 42 + 5 - 7 + 1 = 41
+rng2 = 73 + 6 - 6 + 1 = 74
+Flyout
+Team 1 pitcher (Luciano Garrido): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Byron Bartlett: rng1 = 1 + 15 - 7 + 1 = 10
+Strikeout
+Team 1 pitcher (Luciano Garrido): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Juan Manzanares: rng1 = 32 + 15 - 7 + 1 = 41
+rng2 = 63 + 14 - 6 + 1 = 72
+Flyout
+Team 1 pitcher (Luciano Garrido): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Edmundo Martínez
+
+Cody McCarthy: rng1 = 48 + 12 - 6 - 1 = 53
+rng2 = 87 + 14 - 7 - 1 = 93
+Flyout
+Team 2 pitcher (Edmundo Martínez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Randy Carson: rng1 = 100 + 10 - 6 - 1 = 103
+rng2 = 32 + 10 - 7 - 1 = 34
+Single
+Team 2 pitcher (Edmundo Martínez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Reuben Sutton: rng1 = 11 + 9 - 6 - 1 = 13
+rng2 = 91 + 10 - 7 - 1 = 93
+Flyout
+Team 2 pitcher (Edmundo Martínez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Joseph Thayer: rng1 = 46 + 10 - 6 - 1 = 49
+rng2 = 36 + 8 - 7 - 1 = 36
+Groundout
+Team 2 pitcher (Edmundo Martínez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Armando Negron
+
+Arturo Bellamy: rng1 = 14 + 14 - 8 + 1 = 21
+Strikeout
+Team 1 pitcher (Armando Negron): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Edmundo Pousa: rng1 = 49 + 14 - 8 + 1 = 56
+rng2 = 15 + 13 - 6 + 1 = 23
+Groundout
+Team 1 pitcher (Armando Negron): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Noah Key: rng1 = 1 + 6 - 8 + 1 = 0
+Strikeout
+Team 1 pitcher (Armando Negron): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 9
+
+Caden Bryan: rng1 = 14 + 7 - 6 - 1 = 14
+rng2 = 55 + 9 - 7 - 1 = 56
+Lineout
+Team 2 pitcher (Edmundo Martínez): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Kugo Tadayuki: rng1 = 83 + 10 - 6 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Edmundo Martínez): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Marvin Calvert: rng1 = 48 + 4 - 6 - 1 = 45
+rng2 = 46 + 9 - 7 - 1 = 47
+Groundout
+Team 2 pitcher (Edmundo Martínez): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Terry Schroeder: rng1 = 88 + 8 - 6 - 1 = 89
+Walk
+Team 2 pitcher (Edmundo Martínez): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [8,1], base2: [7,1], base3: false
+base1: true, base2: true, base3: false
+Score: 1-6
+
+Randall Hodge: rng1 = 16 + 14 - 6 - 1 = 23
+Strikeout
+Team 2 pitcher (Edmundo Martínez): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 5
+Team 2 hits: 11
+Team 1 runs: 1
+Team 2 runs: 6
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-04-08
+Randall Hodge	5	0	2	0	0	0	0	0	2					Detroit
+Cody McCarthy	4	0	0	0	0	0	0	0	0	
+Randy Carson	4	1	2	0	0	0	0	0	0	
+Reuben Sutton	2	0	0	0	0	0	0	1	1	
+Joseph Thayer	3	0	0	0	0	0	0	1	1	
+Caden Bryan	3	0	0	0	0	0	1	1	0	
+Kugo Tadayuki	3	0	0	0	0	0	0	0	0	
+Marvin Calvert	4	0	0	0	0	0	0	0	2	
+Terry Schroeder	3	0	1	0	0	0	0	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+John Long	0	1	1	1	0	0	12	8	4	2	1	3	23	
+Jesus Perez	0	0	1	0	0	0	5	2	2	0	3	4	10	
+Luciano Garrido	0	0	1	0	0	0	4	1	0	0	0	1	5	
+Armando Negron	0	0	1	0	0	0	3	0	0	0	0	2	3	
+Brentley Dickson	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-04-08
+Byron Bartlett	4	1	2	0	0	0	0	1	1					New Orleans
+Juan Manzanares	4	2	2	1	0	0	0	1	0	
+Arturo Bellamy	3	1	1	0	0	1	2	1	1	
+Edmundo Pousa	5	0	1	1	0	0	0	0	2	
+Noah Key	5	0	0	0	0	0	0	0	2	
+Alejandro López	3	1	1	1	0	0	2	0	2	
+Terryl Maxwell	3	0	1	0	0	0	0	1	0	
+Darren Adams	4	1	3	0	0	1	2	0	0	
+Marcos Gilabert	4	0	0	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Freddie Bailey	1	0	1	1	0	0	21	4	1	0	3	6	28	
+Edmundo Martínez	0	0	1	0	0	0	6	1	0	0	1	1	9	
+Rakeem Bradley	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Ryu Shi-Woo	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Phoenix Deleon	0	0	0	0	0	0	0	0	0	0	0	0	0	

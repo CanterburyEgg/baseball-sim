@@ -1,0 +1,932 @@
+TOP INNING 1
+
+Logan Chambers: rng1 = 58 + 13 - 9 - 1 = 61
+rng2 = 68 + 8 - 3 - 1 = 72
+Flyout
+Team 2 pitcher (Valentino Llacer): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Nicolás Moruga: rng1 = 8 + 12 - 9 - 1 = 10
+Strikeout
+Team 2 pitcher (Valentino Llacer): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Edward Cox: rng1 = 39 + 12 - 9 - 1 = 41
+rng2 = 64 + 7 - 3 - 1 = 67
+Flyout
+Team 2 pitcher (Valentino Llacer): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Cody Henderson: rng1 = 38 + 15 - 11 + 1 = 43
+rng2 = 69 + 14 - 11 + 1 = 73
+Flyout
+Team 1 pitcher (Zachary Pearson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Kieran Byrne: rng1 = 75 + 14 - 11 + 1 = 79
+rng2 = 7 + 12 - 11 + 1 = 9
+Single
+Team 1 pitcher (Zachary Pearson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Dante Leoz: rng1 = 41 + 13 - 11 + 1 = 44
+rng2 = 19 + 12 - 11 + 1 = 21
+Groundout
+Team 1 pitcher (Zachary Pearson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Xavier Washington: rng1 = 4 + 12 - 11 + 1 = 6
+Strikeout
+Team 1 pitcher (Zachary Pearson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Tristian Love: rng1 = 7 + 11 - 9 - 1 = 8
+Strikeout
+Team 2 pitcher (Valentino Llacer): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Aldo Gilmore: rng1 = 47 + 9 - 9 - 1 = 46
+rng2 = 25 + 11 - 3 - 1 = 32
+Groundout
+Team 2 pitcher (Valentino Llacer): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Alexis Shultz: rng1 = 40 + 8 - 9 - 1 = 38
+rng2 = 84 + 8 - 3 - 1 = 88
+Flyout
+Team 2 pitcher (Valentino Llacer): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Anthony Bennett: rng1 = 39 + 11 - 11 + 1 = 40
+rng2 = 96 + 13 - 11 + 1 = 99
+Flyout
+Team 1 pitcher (Zachary Pearson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jadon Mitchell: rng1 = 87 + 12 - 11 + 1 = 89
+Walk
+Team 1 pitcher (Zachary Pearson): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Elliot Hudson: rng1 = 78 + 9 - 11 + 1 = 77
+rng2 = 95 + 9 - 11 + 1 = 94
+Home run
+Team 1 pitcher (Zachary Pearson): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Dan Robertson: rng1 = 85 + 6 - 11 + 1 = 81
+rng2 = 46 + 6 - 11 + 1 = 42
+Single
+Team 1 pitcher (Zachary Pearson): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Javier Gallardo: rng1 = 22 + 5 - 11 + 1 = 17
+Strikeout
+Team 1 pitcher (Zachary Pearson): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Cody Henderson: rng1 = 53 + 15 - 11 + 1 = 58
+rng2 = 77 + 14 - 11 + 1 = 81
+Flyout
+Team 1 pitcher (Zachary Pearson): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 3
+
+Lucián Chicote: rng1 = 50 + 8 - 9 - 1 = 48
+rng2 = 80 + 8 - 3 - 1 = 84
+Flyout
+Team 2 pitcher (Valentino Llacer): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Cevonte Riley: rng1 = 38 + 7 - 9 - 1 = 35
+rng2 = 71 + 7 - 3 - 1 = 74
+Flyout
+Team 2 pitcher (Valentino Llacer): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Zahir Burgos: rng1 = 64 + 4 - 9 - 1 = 58
+rng2 = 33 + 8 - 3 - 1 = 37
+Groundout
+Team 2 pitcher (Valentino Llacer): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+BOTTOM INNING 3
+
+Kieran Byrne: rng1 = 11 + 14 - 11 + 1 = 15
+rng2 = 20 + 12 - 11 + 1 = 22
+Groundout
+Team 1 pitcher (Zachary Pearson): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Dante Leoz: rng1 = 78 + 13 - 11 + 1 = 81
+rng2 = 41 + 12 - 11 + 1 = 43
+Single
+Team 1 pitcher (Zachary Pearson): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Xavier Washington: rng1 = 100 + 12 - 11 + 1 = 102
+rng2 = 86 + 14 - 11 + 1 = 90
+Double
+Team 1 pitcher (Zachary Pearson): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 1
+
+base1: false, base2: [3,0], base3: [2,0]
+base1: false, base2: true, base3: true
+Score: 0-2
+
+Anthony Bennett: rng1 = 39 + 11 - 11 + 1 = 40
+rng2 = 9 + 13 - 11 + 1 = 12
+Groundout
+Team 1 pitcher (Zachary Pearson): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 2
+
+base1: false, base2: [3,0], base3: [2,0]
+base1: false, base2: true, base3: true
+Score: 0-2
+
+Jadon Mitchell: rng1 = 40 + 12 - 11 + 1 = 42
+rng2 = 76 + 12 - 11 + 1 = 78
+Flyout
+Team 1 pitcher (Zachary Pearson): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 4
+
+Logan Chambers: rng1 = 49 + 13 - 9 - 1 = 52
+rng2 = 56 + 8 - 3 - 1 = 60
+Flyout
+Team 2 pitcher (Valentino Llacer): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Nicolás Moruga: rng1 = 100 + 12 - 9 - 1 = 102
+rng2 = 70 + 14 - 3 - 1 = 80
+Home run
+Team 2 pitcher (Valentino Llacer): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Edward Cox: rng1 = 9 + 12 - 9 - 1 = 11
+rng2 = 64 + 7 - 3 - 1 = 67
+Flyout
+Team 2 pitcher (Valentino Llacer): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Tristian Love: rng1 = 70 + 11 - 9 - 1 = 71
+Walk
+Team 2 pitcher (Valentino Llacer): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Aldo Gilmore: rng1 = 1 + 9 - 9 - 1 = 0
+Strikeout
+Team 2 pitcher (Valentino Llacer): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 4
+
+Elliot Hudson: rng1 = 96 + 9 - 11 + 1 = 95
+rng2 = 71 + 9 - 11 + 1 = 70
+Double
+Team 1 pitcher (Zachary Pearson): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 0
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-2
+
+Dan Robertson: rng1 = 66 + 6 - 11 + 1 = 62
+rng2 = 63 + 6 - 11 + 1 = 59
+Flyout
+Team 1 pitcher (Zachary Pearson): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 1
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-2
+
+Javier Gallardo: rng1 = 68 + 5 - 11 + 1 = 63
+rng2 = 69 + 6 - 11 + 1 = 65
+Flyout
+Team 1 pitcher (Zachary Pearson): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 2
+
+base1: false, base2: false, base3: [6,0]
+base1: false, base2: false, base3: true
+Score: 1-2
+
+Cody Henderson: rng1 = 5 + 15 - 11 + 1 = 10
+Strikeout
+Team 1 pitcher (Zachary Pearson): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 5
+
+Alexis Shultz: rng1 = 87 + 8 - 9 - 1 = 85
+rng2 = 14 + 8 - 3 - 1 = 18
+Single
+Team 2 pitcher (Valentino Llacer): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Lucián Chicote: rng1 = 41 + 8 - 9 - 1 = 39
+rng2 = 65 + 8 - 3 - 1 = 69
+Flyout
+Team 2 pitcher (Valentino Llacer): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Cevonte Riley: rng1 = 14 + 7 - 9 - 1 = 11
+rng2 = 48 + 7 - 3 - 1 = 51
+Lineout
+Team 2 pitcher (Valentino Llacer): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Zahir Burgos: rng1 = 79 + 4 - 9 - 1 = 73
+rng2 = 48 + 8 - 3 - 1 = 52
+Single
+Team 2 pitcher (Valentino Llacer): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 2
+
+base1: [8,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 1-2
+
+Logan Chambers: rng1 = 92 + 13 - 9 - 1 = 95
+rng2 = 67 + 8 - 3 - 1 = 71
+Double
+Team 2 pitcher (Valentino Llacer): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-2
+
+Nicolás Moruga: rng1 = 62 + 12 - 9 - 1 = 64
+rng2 = 27 + 14 - 3 - 1 = 37
+Groundout
+Team 2 pitcher (Valentino Llacer): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+BOTTOM INNING 5
+
+Kieran Byrne: rng1 = 39 + 14 - 11 + 1 = 43
+rng2 = 49 + 12 - 11 + 1 = 51
+Lineout
+Team 1 pitcher (Zachary Pearson): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Dante Leoz: rng1 = 99 + 13 - 11 + 1 = 102
+rng2 = 96 + 12 - 11 + 1 = 98
+Home run
+Team 1 pitcher (Zachary Pearson): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Xavier Washington: rng1 = 85 + 12 - 11 + 1 = 87
+Walk
+Team 1 pitcher (Zachary Pearson): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Anthony Bennett: rng1 = 51 + 11 - 11 + 1 = 52
+rng2 = 90 + 13 - 11 + 1 = 93
+Flyout
+Team 1 pitcher (Zachary Pearson): 23 batters faced, 3 runs allowed = 23 + 7.5 = 30.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Jadon Mitchell: rng1 = 89 + 12 - 11 + 1 = 91
+rng2 = 71 + 12 - 11 + 1 = 73
+Double
+Team 1 pitcher (Zachary Pearson): 24 batters faced, 4 runs allowed = 24 + 10.0 = 34.0, outs: 2
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-4
+
+Team 1 pitcher change to Trey Hendrickson
+
+Elliot Hudson: rng1 = 29 + 9 - 14 + 1 = 25
+Strikeout
+Team 1 pitcher (Trey Hendrickson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+TOP INNING 6
+
+Edward Cox: rng1 = 78 + 12 - 9 - 1 = 80
+rng2 = 87 + 7 - 3 - 1 = 90
+Double
+Team 2 pitcher (Valentino Llacer): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 0
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-4
+
+Tristian Love: rng1 = 64 + 11 - 9 - 1 = 65
+rng2 = 52 + 12 - 3 - 1 = 60
+Flyout
+Team 2 pitcher (Valentino Llacer): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 1
+
+base1: false, base2: false, base3: [2,0]
+base1: false, base2: false, base3: true
+Score: 3-4
+
+Aldo Gilmore: rng1 = 42 + 9 - 9 - 1 = 41
+rng2 = 6 + 11 - 3 - 1 = 13
+Groundout
+Team 2 pitcher (Valentino Llacer): 23 batters faced, 3 runs allowed = 23 + 7.5 = 30.5, outs: 2
+
+base1: false, base2: false, base3: [2,0]
+base1: false, base2: false, base3: true
+Score: 3-4
+
+Alexis Shultz: rng1 = 30 + 8 - 9 - 1 = 28
+Strikeout
+Team 2 pitcher (Valentino Llacer): 24 batters faced, 3 runs allowed = 24 + 7.5 = 31.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+BOTTOM INNING 6
+
+Dan Robertson: rng1 = 65 + 6 - 14 + 1 = 58
+rng2 = 22 + 6 - 14 + 1 = 15
+Groundout
+Team 1 pitcher (Trey Hendrickson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Javier Gallardo: rng1 = 46 + 5 - 14 + 1 = 38
+rng2 = 66 + 6 - 14 + 1 = 59
+Flyout
+Team 1 pitcher (Trey Hendrickson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Cody Henderson: rng1 = 25 + 15 - 14 + 1 = 27
+Strikeout
+Team 1 pitcher (Trey Hendrickson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Foster Roebuck
+
+Lucián Chicote: rng1 = 36 + 8 - 9 - 1 = 34
+rng2 = 78 + 8 - 10 - 1 = 75
+Flyout
+Team 2 pitcher (Foster Roebuck): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Cevonte Riley: rng1 = 3 + 7 - 9 - 1 = 0
+Strikeout
+Team 2 pitcher (Foster Roebuck): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Zahir Burgos: rng1 = 41 + 4 - 9 - 1 = 35
+rng2 = 4 + 8 - 10 - 1 = 1
+Groundout
+Team 2 pitcher (Foster Roebuck): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+BOTTOM INNING 7
+
+Kieran Byrne: rng1 = 73 + 14 - 14 + 1 = 74
+rng2 = 28 + 12 - 14 + 1 = 27
+Single
+Team 1 pitcher (Trey Hendrickson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-4
+
+Dante Leoz: rng1 = 3 + 13 - 14 + 1 = 3
+Strikeout
+Team 1 pitcher (Trey Hendrickson): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-4
+
+Xavier Washington: rng1 = 32 + 12 - 14 + 1 = 31
+rng2 = 88 + 14 - 14 + 1 = 89
+Flyout
+Team 1 pitcher (Trey Hendrickson): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-4
+
+Anthony Bennett: rng1 = 56 + 11 - 14 + 1 = 54
+rng2 = 84 + 13 - 14 + 1 = 84
+Flyout
+Team 1 pitcher (Trey Hendrickson): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+TOP INNING 8
+
+Logan Chambers: rng1 = 61 + 13 - 9 - 1 = 64
+rng2 = 8 + 8 - 10 - 1 = 5
+Groundout
+Team 2 pitcher (Foster Roebuck): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Nicolás Moruga: rng1 = 54 + 12 - 9 - 1 = 56
+rng2 = 8 + 14 - 10 - 1 = 11
+Groundout
+Team 2 pitcher (Foster Roebuck): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Edward Cox: rng1 = 26 + 12 - 9 - 1 = 28
+Strikeout
+Team 2 pitcher (Foster Roebuck): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Shane Moran
+
+Jadon Mitchell: rng1 = 71 + 12 - 8 + 1 = 76
+rng2 = 74 + 12 - 9 + 1 = 78
+Double
+Team 1 pitcher (Shane Moran): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [5,2], base3: false
+base1: false, base2: true, base3: false
+Score: 3-4
+
+Elliot Hudson: rng1 = 57 + 9 - 8 + 1 = 59
+rng2 = 9 + 9 - 9 + 1 = 10
+Groundout
+Team 1 pitcher (Shane Moran): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [5,2], base3: false
+base1: false, base2: true, base3: false
+Score: 3-4
+
+Dan Robertson: rng1 = 17 + 6 - 8 + 1 = 16
+Strikeout
+Team 1 pitcher (Shane Moran): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [5,2], base3: false
+base1: false, base2: true, base3: false
+Score: 3-4
+
+Javier Gallardo: rng1 = 39 + 5 - 8 + 1 = 37
+rng2 = 7 + 6 - 9 + 1 = 5
+Groundout
+Team 1 pitcher (Shane Moran): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Gideon Giles
+
+Tristian Love: rng1 = 95 + 11 - 15 - 1 = 90
+Walk
+Team 2 pitcher (Gideon Giles): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [3,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-4
+
+Aldo Gilmore: rng1 = 77 + 9 - 15 - 1 = 70
+Walk
+Team 2 pitcher (Gideon Giles): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [4,4], base2: [3,4], base3: false
+base1: true, base2: true, base3: false
+Score: 3-4
+
+Alexis Shultz: rng1 = 43 + 8 - 15 - 1 = 35
+rng2 = 75 + 8 - 15 - 1 = 67
+Flyout
+Team 2 pitcher (Gideon Giles): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [4,4], base2: [3,4], base3: false
+base1: true, base2: true, base3: false
+Score: 3-4
+
+Lucián Chicote: rng1 = 93 + 8 - 15 - 1 = 85
+rng2 = 30 + 8 - 15 - 1 = 22
+Single
+Team 2 pitcher (Gideon Giles): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [6,4], base2: false, base3: [4,4]
+base1: true, base2: false, base3: true
+Score: 4-4
+
+Cevonte Riley: rng1 = 18 + 7 - 15 - 1 = 9
+Strikeout
+Team 2 pitcher (Gideon Giles): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [6,4], base2: false, base3: [4,4]
+base1: true, base2: false, base3: true
+Score: 4-4
+
+Zahir Burgos: rng1 = 21 + 4 - 15 - 1 = 9
+Strikeout
+Team 2 pitcher (Gideon Giles): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+BOTTOM INNING 9
+
+Cody Henderson: rng1 = 63 + 15 - 8 + 1 = 71
+Walk
+Team 1 pitcher (Shane Moran): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [0,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Kieran Byrne: rng1 = 34 + 14 - 8 + 1 = 41
+rng2 = 5 + 12 - 9 + 1 = 9
+Groundout
+Team 1 pitcher (Shane Moran): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: [0,2], base3: false
+base1: false, base2: true, base3: false
+Score: 4-4
+
+Dante Leoz: rng1 = 80 + 13 - 8 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Shane Moran): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [2,2], base2: [0,2], base3: false
+base1: true, base2: true, base3: false
+Score: 4-4
+
+Xavier Washington: rng1 = 11 + 12 - 8 + 1 = 16
+Strikeout
+Team 1 pitcher (Shane Moran): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [2,2], base2: [0,2], base3: false
+base1: true, base2: true, base3: false
+Score: 4-4
+
+Anthony Bennett: rng1 = 20 + 11 - 8 + 1 = 24
+Strikeout
+Team 1 pitcher (Shane Moran): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+TOP INNING 10
+
+Team 2 pitcher change to Craig Valencis
+
+Logan Chambers: rng1 = 60 + 13 - 9 - 1 = 63
+rng2 = 72 + 8 - 9 - 1 = 70
+Flyout
+Team 2 pitcher (Craig Valencis): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Nicolás Moruga: rng1 = 87 + 12 - 9 - 1 = 89
+Walk
+Team 2 pitcher (Craig Valencis): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Edward Cox: rng1 = 17 + 12 - 9 - 1 = 19
+Strikeout
+Team 2 pitcher (Craig Valencis): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Tristian Love: rng1 = 60 + 11 - 9 - 1 = 61
+rng2 = 57 + 12 - 9 - 1 = 59
+Flyout
+Team 2 pitcher (Craig Valencis): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+BOTTOM INNING 10
+
+Team 1 pitcher change to Christopher Jones
+
+Jadon Mitchell: rng1 = 42 + 12 - 15 + 1 = 40
+rng2 = 74 + 12 - 15 + 1 = 72
+Flyout
+Team 1 pitcher (Christopher Jones): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Elliot Hudson: rng1 = 17 + 9 - 15 + 1 = 12
+rng2 = 85 + 9 - 15 + 1 = 80
+Flyout
+Team 1 pitcher (Christopher Jones): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Dan Robertson: rng1 = 51 + 6 - 15 + 1 = 43
+rng2 = 83 + 6 - 15 + 1 = 75
+Flyout
+Team 1 pitcher (Christopher Jones): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+TOP INNING 11
+
+Aldo Gilmore: rng1 = 51 + 9 - 9 - 1 = 50
+rng2 = 44 + 11 - 9 - 1 = 45
+Groundout
+Team 2 pitcher (Craig Valencis): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Alexis Shultz: rng1 = 40 + 8 - 9 - 1 = 38
+rng2 = 4 + 8 - 9 - 1 = 2
+Groundout
+Team 2 pitcher (Craig Valencis): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Lucián Chicote: rng1 = 85 + 8 - 9 - 1 = 83
+rng2 = 4 + 8 - 9 - 1 = 2
+Single
+Team 2 pitcher (Craig Valencis): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Cevonte Riley: rng1 = 83 + 7 - 9 - 1 = 80
+rng2 = 87 + 7 - 9 - 1 = 84
+Home run
+Team 2 pitcher (Craig Valencis): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Team 2 pitcher change to Douglas Bosak
+
+Zahir Burgos: rng1 = 94 + 4 - 6 - 1 = 91
+rng2 = 76 + 8 - 7 - 1 = 76
+Double
+Team 2 pitcher (Douglas Bosak): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: false, base2: [8,3], base3: false
+base1: false, base2: true, base3: false
+Score: 6-4
+
+Logan Chambers: rng1 = 29 + 13 - 6 - 1 = 35
+rng2 = 26 + 8 - 7 - 1 = 26
+Groundout
+Team 2 pitcher (Douglas Bosak): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-4
+
+-----------------------
+
+BOTTOM INNING 11
+
+Javier Gallardo: rng1 = 62 + 5 - 15 + 1 = 53
+rng2 = 5 + 6 - 15 + 1 = -3
+Groundout
+Team 1 pitcher (Christopher Jones): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Cody Henderson: rng1 = 41 + 15 - 15 + 1 = 42
+rng2 = 64 + 14 - 15 + 1 = 64
+Flyout
+Team 1 pitcher (Christopher Jones): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Kieran Byrne: rng1 = 65 + 14 - 15 + 1 = 65
+rng2 = 99 + 12 - 15 + 1 = 97
+Flyout
+Team 1 pitcher (Christopher Jones): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-4
+
+-----------------------
+
+Innings: 11
+Team 1 hits: 9
+Team 2 hits: 10
+Team 1 runs: 6
+Team 2 runs: 4
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-04-11
+Logan Chambers	6	0	1	1	0	0	2	0	0					New York
+Nicolás Moruga	4	1	1	0	0	1	1	1	1	
+Edward Cox	5	0	1	1	0	0	0	0	2	
+Tristian Love	3	1	0	0	0	0	0	2	1	
+Aldo Gilmore	4	0	0	0	0	0	0	1	1	
+Alexis Shultz	5	1	1	0	0	0	0	0	1	
+Lucián Chicote	5	1	2	0	0	0	1	0	0	
+Cevonte Riley	5	1	1	0	0	1	2	0	2	
+Zahir Burgos	5	1	2	1	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Zachary Pearson	0	0	1	1	0	0	14	8	4	2	2	3	24	
+Trey Hendrickson	0	0	1	0	0	0	7	1	0	0	0	3	8	
+Shane Moran	0	0	1	0	0	0	6	1	0	0	1	3	9	
+Johan Cortez	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Christopher Jones	1	0	1	0	0	0	6	0	0	0	0	0	6	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-04-11
+Cody Henderson	5	0	0	0	0	0	0	1	2					Houston
+Kieran Byrne	6	0	2	0	0	0	0	0	0	
+Dante Leoz	4	1	2	0	0	1	1	0	1	
+Xavier Washington	4	1	1	1	0	0	0	1	2	
+Anthony Bennett	5	0	0	0	0	0	0	0	1	
+Jadon Mitchell	4	1	2	2	0	0	1	1	0	
+Elliot Hudson	5	1	2	1	0	1	2	0	1	
+Dan Robertson	5	0	1	0	0	0	0	0	1	
+Javier Gallardo	5	0	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Valentino Llacer	0	0	1	1	0	0	18	5	3	1	1	4	24	
+Foster Roebuck	0	0	1	0	0	0	6	0	0	0	0	2	6	
+Craig Valencis	0	1	1	0	0	0	5	2	2	1	1	1	8	
+Douglas Bosak	0	0	1	0	0	0	1	1	0	0	0	0	2	
+Gideon Giles	0	0	1	0	0	1	3	1	1	0	2	2	6	

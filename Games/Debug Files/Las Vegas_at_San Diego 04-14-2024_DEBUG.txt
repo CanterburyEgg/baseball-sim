@@ -1,52 +1,26 @@
 TOP INNING 1
 
-George Nagle: rng1 = 61 + 15 - 9 - 1 = 66
-rng2 = 10 + 15 - 11 - 1 = 13
-Groundout
-Team 2 pitcher (Jude Campbell): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+George Nagle: rng1 = 27 + 15 - 8 - 1 = 33
+rng2 = 44 + 15 - 8 - 1 = 50
+Lineout
+Team 2 pitcher (Chong Min-Gyu): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
 Score: 0-0
 
-Lawrence Randolph: rng1 = 99 + 15 - 9 - 1 = 104
-rng2 = 52 + 14 - 11 - 1 = 54
-Single
-Team 2 pitcher (Jude Campbell): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
-
-base1: [1,0], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 0-0
-
-Noah Fontenot: rng1 = 84 + 12 - 9 - 1 = 86
-Hit by pitch
-Team 2 pitcher (Jude Campbell): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
-
-base1: [2,0], base2: [1,0], base3: false
-base1: true, base2: true, base3: false
-Score: 0-0
-
-Bautista Saelices: rng1 = 66 + 10 - 9 - 1 = 66
-rng2 = 25 + 9 - 11 - 1 = 22
-Groundout
-Team 2 pitcher (Jude Campbell): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
-
-base1: false, base2: [2,0], base3: [1,0]
-base1: false, base2: true, base3: true
-Score: 0-0
-
-Dante Arias: rng1 = 88 + 11 - 9 - 1 = 89
-Walk
-Team 2 pitcher (Jude Campbell): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
-
-base1: [4,0], base2: [2,0], base3: [1,0]
-base1: true, base2: true, base3: true
-Score: 0-0
-
-Orlando Cazalla: rng1 = 39 + 3 - 9 - 1 = 32
-rng2 = 73 + 8 - 11 - 1 = 69
+Lawrence Randolph: rng1 = 58 + 15 - 8 - 1 = 64
+rng2 = 86 + 14 - 8 - 1 = 91
 Flyout
-Team 2 pitcher (Jude Campbell): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+Team 2 pitcher (Chong Min-Gyu): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Noah Fontenot: rng1 = 16 + 12 - 8 - 1 = 19
+Strikeout
+Team 2 pitcher (Chong Min-Gyu): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
 
 base1: false, base2: false, base3: false
 Score: 0-0
@@ -55,690 +29,745 @@ Score: 0-0
 
 BOTTOM INNING 1
 
-Leonardo Vera: rng1 = 71 + 14 - 7 + 1 = 79
-rng2 = 22 + 13 - 6 + 1 = 30
-Single
-Team 1 pitcher (Emanuel Muñoz): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+Leonardo Vera: rng1 = 62 + 14 - 6 + 1 = 71
+Walk
+Team 1 pitcher (Kyo Hyun-Woo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
 
 base1: [0,0], base2: false, base3: false
 base1: true, base2: false, base3: false
 Score: 0-0
 
-Drake LaStelle: rng1 = 25 + 14 - 7 + 1 = 33
-rng2 = 23 + 12 - 6 + 1 = 30
-Groundout
-Team 1 pitcher (Emanuel Muñoz): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+Drake LaStelle: rng1 = 100 + 14 - 6 + 1 = 109
+rng2 = 26 + 12 - 6 + 1 = 33
+Single
+Team 1 pitcher (Kyo Hyun-Woo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
 
-base1: false, base2: [0,0], base3: false
-base1: false, base2: true, base3: false
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
 Score: 0-0
 
-Alfie Young: rng1 = 89 + 13 - 7 + 1 = 96
-rng2 = 73 + 9 - 6 + 1 = 77
-Double
-Team 1 pitcher (Emanuel Muñoz): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+Alfie Young: rng1 = 16 + 13 - 6 + 1 = 24
+Strikeout
+Team 1 pitcher (Kyo Hyun-Woo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
 
-base1: false, base2: [2,0], base3: false
-base1: false, base2: true, base3: false
-Score: 0-1
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
 
-Billy Campbell: rng1 = 31 + 8 - 7 + 1 = 33
-rng2 = 42 + 11 - 6 + 1 = 48
-Lineout
-Team 1 pitcher (Emanuel Muñoz): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+Billy Campbell: rng1 = 17 + 8 - 6 + 1 = 20
+Strikeout
+Team 1 pitcher (Kyo Hyun-Woo): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
 
-base1: false, base2: [2,0], base3: false
-base1: false, base2: true, base3: false
-Score: 0-1
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
 
-Charlie May: rng1 = 71 + 10 - 7 + 1 = 75
-rng2 = 71 + 11 - 6 + 1 = 77
-Double
-Team 1 pitcher (Emanuel Muñoz): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
-
-base1: false, base2: [4,0], base3: false
-base1: false, base2: true, base3: false
-Score: 0-2
-
-Matías Martinez: rng1 = 38 + 10 - 7 + 1 = 42
-rng2 = 3 + 10 - 6 + 1 = 8
+Charlie May: rng1 = 10 + 10 - 6 + 1 = 15
+rng2 = 37 + 11 - 6 + 1 = 43
 Groundout
-Team 1 pitcher (Emanuel Muñoz): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+Team 1 pitcher (Kyo Hyun-Woo): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 0-2
+Score: 0-0
 
 -----------------------
 
 TOP INNING 2
 
-Sean Watson: rng1 = 35 + 6 - 9 - 1 = 31
-rng2 = 66 + 5 - 11 - 1 = 59
+Bautista Saelices: rng1 = 32 + 10 - 8 - 1 = 33
+rng2 = 94 + 9 - 8 - 1 = 94
 Flyout
-Team 2 pitcher (Jude Campbell): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+Team 2 pitcher (Chong Min-Gyu): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 0-2
+Score: 0-0
 
-Antonio Santiago: rng1 = 73 + 8 - 9 - 1 = 71
-Walk
-Team 2 pitcher (Jude Campbell): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
-
-base1: [7,0], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 0-2
-
-Noel Ayers: rng1 = 22 + 3 - 9 - 1 = 15
-rng2 = 63 + 7 - 11 - 1 = 58
-Lineout
-Team 2 pitcher (Jude Campbell): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
-
-base1: [7,0], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 0-2
-
-George Nagle: rng1 = 96 + 15 - 9 - 1 = 101
-rng2 = 65 + 15 - 11 - 1 = 68
-Double
-Team 2 pitcher (Jude Campbell): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
-
-base1: false, base2: [0,0], base3: false
-base1: false, base2: true, base3: false
-Score: 1-2
-
-Lawrence Randolph: rng1 = 14 + 15 - 9 - 1 = 19
+Dante Arias: rng1 = 3 + 11 - 8 - 1 = 5
 Strikeout
-Team 2 pitcher (Jude Campbell): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 3
+Team 2 pitcher (Chong Min-Gyu): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
 
 base1: false, base2: false, base3: false
-Score: 1-2
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Orlando Cazalla: rng1 = 34 + 3 - 8 - 1 = 28
+Strikeout
+Team 2 pitcher (Chong Min-Gyu): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
 
 -----------------------
 
 BOTTOM INNING 2
 
-Jamie Reid: rng1 = 65 + 8 - 7 + 1 = 67
-rng2 = 18 + 10 - 6 + 1 = 23
+Matías Martinez: rng1 = 54 + 10 - 6 + 1 = 59
+rng2 = 83 + 10 - 6 + 1 = 88
+Flyout
+Team 1 pitcher (Kyo Hyun-Woo): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jamie Reid: rng1 = 71 + 8 - 6 + 1 = 74
+rng2 = 17 + 10 - 6 + 1 = 22
+Single
+Team 1 pitcher (Kyo Hyun-Woo): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Benito Maroto: rng1 = 10 + 6 - 6 + 1 = 11
+rng2 = 42 + 8 - 6 + 1 = 45
 Groundout
-Team 1 pitcher (Emanuel Muñoz): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 1
+Team 1 pitcher (Kyo Hyun-Woo): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
 
 base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 1-2
-
-Benito Maroto: rng1 = 17 + 6 - 7 + 1 = 17
-Strikeout
-Team 1 pitcher (Emanuel Muñoz): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 1-2
-
-Pascual Gilbert: rng1 = 35 + 9 - 7 + 1 = 38
-rng2 = 1 + 5 - 6 + 1 = 1
-Groundout
-Team 1 pitcher (Emanuel Muñoz): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 3
-
-base1: false, base2: false, base3: false
-Score: 1-2
+Score: 0-0
 
 -----------------------
 
 TOP INNING 3
 
-Noah Fontenot: rng1 = 46 + 12 - 9 - 1 = 48
-rng2 = 54 + 7 - 11 - 1 = 49
-Lineout
-Team 2 pitcher (Jude Campbell): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+Sean Watson: rng1 = 77 + 6 - 8 - 1 = 74
+rng2 = 56 + 5 - 8 - 1 = 52
+Single
+Team 2 pitcher (Chong Min-Gyu): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 0
 
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 1-2
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
 
-Bautista Saelices: rng1 = 58 + 10 - 9 - 1 = 58
-rng2 = 3 + 9 - 11 - 1 = 0
+Antonio Santiago: rng1 = 88 + 8 - 8 - 1 = 87
+Walk
+Team 2 pitcher (Chong Min-Gyu): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 0
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Noel Ayers: rng1 = 22 + 3 - 8 - 1 = 16
+Strikeout
+Team 2 pitcher (Chong Min-Gyu): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+George Nagle: rng1 = 27 + 15 - 8 - 1 = 33
+rng2 = 33 + 15 - 8 - 1 = 39
 Groundout
-Team 2 pitcher (Jude Campbell): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 2
+Team 2 pitcher (Chong Min-Gyu): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
 
 base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 1-2
-
-Dante Arias: rng1 = 39 + 11 - 9 - 1 = 40
-rng2 = 36 + 8 - 11 - 1 = 32
-Groundout
-Team 2 pitcher (Jude Campbell): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 3
-
-base1: false, base2: false, base3: false
-Score: 1-2
+Score: 0-0
 
 -----------------------
 
 BOTTOM INNING 3
 
-Leonardo Vera: rng1 = 83 + 14 - 7 + 1 = 91
-rng2 = 5 + 13 - 6 + 1 = 13
+Pascual Gilbert: rng1 = 46 + 9 - 6 + 1 = 50
+rng2 = 58 + 5 - 6 + 1 = 58
+Lineout
+Team 1 pitcher (Kyo Hyun-Woo): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Leonardo Vera: rng1 = 17 + 14 - 6 + 1 = 26
+Strikeout
+Team 1 pitcher (Kyo Hyun-Woo): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Drake LaStelle: rng1 = 89 + 14 - 6 + 1 = 98
+rng2 = 3 + 12 - 6 + 1 = 10
 Single
-Team 1 pitcher (Emanuel Muñoz): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 0
+Team 1 pitcher (Kyo Hyun-Woo): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 2
 
-base1: [0,0], base2: false, base3: false
+base1: [1,0], base2: false, base3: false
 base1: true, base2: false, base3: false
-Score: 1-2
+Score: 0-0
 
-Drake LaStelle: rng1 = 57 + 14 - 7 + 1 = 65
-rng2 = 24 + 12 - 6 + 1 = 31
-Groundout
-Team 1 pitcher (Emanuel Muñoz): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 2
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 1-2
-
-Alfie Young: rng1 = 27 + 13 - 7 + 1 = 34
-rng2 = 68 + 9 - 6 + 1 = 72
+Alfie Young: rng1 = 51 + 13 - 6 + 1 = 59
+rng2 = 81 + 9 - 6 + 1 = 85
 Flyout
-Team 1 pitcher (Emanuel Muñoz): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 3
+Team 1 pitcher (Kyo Hyun-Woo): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 1-2
+Score: 0-0
 
 -----------------------
 
 TOP INNING 4
 
-Orlando Cazalla: rng1 = 41 + 3 - 9 - 1 = 34
-rng2 = 55 + 8 - 11 - 1 = 51
-Lineout
-Team 2 pitcher (Jude Campbell): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 1
+Lawrence Randolph: rng1 = 56 + 15 - 8 - 1 = 62
+rng2 = 84 + 14 - 8 - 1 = 89
+Flyout
+Team 2 pitcher (Chong Min-Gyu): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 1-2
+Score: 0-0
 
-Sean Watson: rng1 = 59 + 6 - 9 - 1 = 55
-rng2 = 13 + 5 - 11 - 1 = 6
+Noah Fontenot: rng1 = 80 + 12 - 8 - 1 = 83
+rng2 = 95 + 7 - 8 - 1 = 93
+Triple
+Team 2 pitcher (Chong Min-Gyu): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 1
+
+base1: false, base2: false, base3: [2,0]
+base1: false, base2: false, base3: true
+Score: 0-0
+
+Bautista Saelices: rng1 = 34 + 10 - 8 - 1 = 35
+rng2 = 1 + 9 - 8 - 1 = 1
 Groundout
-Team 2 pitcher (Jude Campbell): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 2
+Team 2 pitcher (Chong Min-Gyu): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 2
+
+base1: false, base2: false, base3: [2,0]
+base1: false, base2: false, base3: true
+Score: 0-0
+
+Dante Arias: rng1 = 78 + 11 - 8 - 1 = 80
+rng2 = 92 + 8 - 8 - 1 = 91
+Double
+Team 2 pitcher (Chong Min-Gyu): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Orlando Cazalla: rng1 = 38 + 3 - 8 - 1 = 32
+rng2 = 82 + 8 - 8 - 1 = 81
+Flyout
+Team 2 pitcher (Chong Min-Gyu): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 3
 
 base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 1-2
-
-Antonio Santiago: rng1 = 70 + 8 - 9 - 1 = 68
-rng2 = 51 + 3 - 11 - 1 = 42
-Groundout
-Team 2 pitcher (Jude Campbell): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 3
-
-base1: false, base2: false, base3: false
-Score: 1-2
+Score: 1-0
 
 -----------------------
 
 BOTTOM INNING 4
 
-Billy Campbell: rng1 = 31 + 8 - 7 + 1 = 33
-rng2 = 86 + 11 - 6 + 1 = 92
-Flyout
-Team 1 pitcher (Emanuel Muñoz): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 1
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 1-2
-
-Charlie May: rng1 = 73 + 10 - 7 + 1 = 77
-rng2 = 67 + 11 - 6 + 1 = 73
-Double
-Team 1 pitcher (Emanuel Muñoz): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 1
-
-base1: false, base2: [4,0], base3: false
-base1: false, base2: true, base3: false
-Score: 1-2
-
-Matías Martinez: rng1 = 26 + 10 - 7 + 1 = 30
-rng2 = 20 + 10 - 6 + 1 = 25
-Groundout
-Team 1 pitcher (Emanuel Muñoz): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 2
-
-base1: false, base2: false, base3: [4,0]
-base1: false, base2: false, base3: true
-Score: 1-2
-
-Jamie Reid: rng1 = 19 + 8 - 7 + 1 = 21
+Billy Campbell: rng1 = 23 + 8 - 6 + 1 = 26
 Strikeout
-Team 1 pitcher (Emanuel Muñoz): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 3
+Team 1 pitcher (Kyo Hyun-Woo): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 1
 
 base1: false, base2: false, base3: false
-Score: 1-2
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Charlie May: rng1 = 14 + 10 - 6 + 1 = 19
+Strikeout
+Team 1 pitcher (Kyo Hyun-Woo): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Matías Martinez: rng1 = 9 + 10 - 6 + 1 = 14
+rng2 = 37 + 10 - 6 + 1 = 42
+Groundout
+Team 1 pitcher (Kyo Hyun-Woo): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
 
 -----------------------
 
 TOP INNING 5
 
-Noel Ayers: rng1 = 96 + 3 - 9 - 1 = 89
+Sean Watson: rng1 = 83 + 6 - 8 - 1 = 80
+rng2 = 96 + 5 - 8 - 1 = 92
+Double
+Team 2 pitcher (Chong Min-Gyu): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 0
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Antonio Santiago: rng1 = 50 + 8 - 8 - 1 = 49
+rng2 = 14 + 3 - 8 - 1 = 8
+Groundout
+Team 2 pitcher (Chong Min-Gyu): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 1
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Noel Ayers: rng1 = 5 + 3 - 8 - 1 = -1
+Strikeout
+Team 2 pitcher (Chong Min-Gyu): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 2
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+George Nagle: rng1 = 81 + 15 - 8 - 1 = 87
 Walk
-Team 2 pitcher (Jude Campbell): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 0
+Team 2 pitcher (Chong Min-Gyu): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 2
 
-base1: [8,0], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 1-2
+base1: [0,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
 
-George Nagle: rng1 = 29 + 15 - 9 - 1 = 34
-rng2 = 48 + 15 - 11 - 1 = 51
-Lineout
-Team 2 pitcher (Jude Campbell): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 1
-
-base1: [8,0], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 1-2
-
-Lawrence Randolph: rng1 = 29 + 15 - 9 - 1 = 34
-rng2 = 59 + 14 - 11 - 1 = 61
+Lawrence Randolph: rng1 = 32 + 15 - 8 - 1 = 38
+rng2 = 87 + 14 - 8 - 1 = 92
 Flyout
-Team 2 pitcher (Jude Campbell): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 2
-
-base1: [8,0], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 1-2
-
-Noah Fontenot: rng1 = 36 + 12 - 9 - 1 = 38
-rng2 = 70 + 7 - 11 - 1 = 65
-Flyout
-Team 2 pitcher (Jude Campbell): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 3
+Team 2 pitcher (Chong Min-Gyu): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 1-2
+Score: 1-0
 
 -----------------------
 
 BOTTOM INNING 5
 
-Benito Maroto: rng1 = 75 + 6 - 7 + 1 = 75
-rng2 = 61 + 8 - 6 + 1 = 64
-Single
-Team 1 pitcher (Emanuel Muñoz): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 0
-
-base1: [7,0], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 1-2
-
-Pascual Gilbert: rng1 = 98 + 9 - 7 + 1 = 101
-rng2 = 73 + 5 - 6 + 1 = 73
-Double
-Team 1 pitcher (Emanuel Muñoz): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 0
-
-base1: false, base2: [8,0], base3: [7,0]
-base1: false, base2: true, base3: true
-Score: 1-2
-
-Leonardo Vera: rng1 = 6 + 14 - 7 + 1 = 14
-rng2 = 16 + 13 - 6 + 1 = 24
+Jamie Reid: rng1 = 28 + 8 - 6 + 1 = 31
+rng2 = 16 + 10 - 6 + 1 = 21
 Groundout
-Team 1 pitcher (Emanuel Muñoz): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 1
-
-base1: false, base2: [8,0], base3: false
-base1: false, base2: true, base3: false
-Score: 1-3
-
-Drake LaStelle: rng1 = 2 + 14 - 7 + 1 = 10
-Strikeout
-Team 1 pitcher (Emanuel Muñoz): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 2
-
-base1: false, base2: [8,0], base3: false
-base1: false, base2: true, base3: false
-Score: 1-3
-
-Alfie Young: rng1 = 81 + 13 - 7 + 1 = 88
-Walk
-Team 1 pitcher (Emanuel Muñoz): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 2
-
-base1: [2,0], base2: [8,0], base3: false
-base1: true, base2: true, base3: false
-Score: 1-3
-
-Billy Campbell: rng1 = 34 + 8 - 7 + 1 = 36
-rng2 = 31 + 11 - 6 + 1 = 37
-Groundout
-Team 1 pitcher (Emanuel Muñoz): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 3
+Team 1 pitcher (Kyo Hyun-Woo): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 1
 
 base1: false, base2: false, base3: false
-Score: 1-3
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Benito Maroto: rng1 = 32 + 6 - 6 + 1 = 33
+rng2 = 61 + 8 - 6 + 1 = 64
+Flyout
+Team 1 pitcher (Kyo Hyun-Woo): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Pascual Gilbert: rng1 = 46 + 9 - 6 + 1 = 50
+rng2 = 68 + 5 - 6 + 1 = 68
+Flyout
+Team 1 pitcher (Kyo Hyun-Woo): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
 
 -----------------------
 
 TOP INNING 6
 
-Bautista Saelices: rng1 = 65 + 10 - 9 - 1 = 65
-rng2 = 11 + 9 - 11 - 1 = 8
+Noah Fontenot: rng1 = 78 + 12 - 8 - 1 = 81
+rng2 = 1 + 7 - 8 - 1 = -1
+Single
+Team 2 pitcher (Chong Min-Gyu): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 0
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Bautista Saelices: rng1 = 80 + 10 - 8 - 1 = 81
+rng2 = 97 + 9 - 8 - 1 = 97
+Home run
+Team 2 pitcher (Chong Min-Gyu): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Dante Arias: rng1 = 31 + 11 - 8 - 1 = 33
+rng2 = 30 + 8 - 8 - 1 = 29
 Groundout
-Team 2 pitcher (Jude Campbell): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 1
+Team 2 pitcher (Chong Min-Gyu): 23 batters faced, 3 runs allowed = 23 + 7.5 = 30.5, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 1-3
+Score: 3-0
 
-Dante Arias: rng1 = 38 + 11 - 9 - 1 = 39
-rng2 = 95 + 8 - 11 - 1 = 91
-Flyout
-Team 2 pitcher (Jude Campbell): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 2
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 1-3
-
-Orlando Cazalla: rng1 = 52 + 3 - 9 - 1 = 45
-rng2 = 38 + 8 - 11 - 1 = 34
-Groundout
-Team 2 pitcher (Jude Campbell): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 3
+Orlando Cazalla: rng1 = 27 + 3 - 8 - 1 = 21
+Strikeout
+Team 2 pitcher (Chong Min-Gyu): 24 batters faced, 3 runs allowed = 24 + 7.5 = 31.5, outs: 2
 
 base1: false, base2: false, base3: false
-Score: 1-3
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Sean Watson: rng1 = 86 + 6 - 8 - 1 = 83
+rng2 = 55 + 5 - 8 - 1 = 51
+Single
+Team 2 pitcher (Chong Min-Gyu): 25 batters faced, 3 runs allowed = 25 + 7.5 = 32.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Team 2 pitcher change to Matthew Dorman
+
+Antonio Santiago: rng1 = 97 + 8 - 6 - 1 = 98
+rng2 = 65 + 3 - 7 - 1 = 60
+Single
+Team 2 pitcher (Matthew Dorman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [7,1], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 3-0
+
+Noel Ayers: rng1 = 41 + 3 - 6 - 1 = 37
+rng2 = 55 + 7 - 7 - 1 = 54
+Lineout
+Team 2 pitcher (Matthew Dorman): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
 
 -----------------------
 
 BOTTOM INNING 6
 
-Team 1 pitcher change to Taylor Murphy
+Leonardo Vera: rng1 = 63 + 14 - 6 + 1 = 72
+rng2 = 58 + 13 - 6 + 1 = 66
+Double
+Team 1 pitcher (Kyo Hyun-Woo): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 0
 
-Charlie May: rng1 = 5 + 10 - 15 + 1 = 1
-Strikeout
-Team 1 pitcher (Taylor Murphy): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-0
+
+Drake LaStelle: rng1 = 49 + 14 - 6 + 1 = 58
+rng2 = 44 + 12 - 6 + 1 = 51
+Lineout
+Team 1 pitcher (Kyo Hyun-Woo): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-0
+
+Alfie Young: rng1 = 88 + 13 - 6 + 1 = 96
+rng2 = 68 + 9 - 6 + 1 = 72
+Double
+Team 1 pitcher (Kyo Hyun-Woo): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-1
+
+Billy Campbell: rng1 = 61 + 8 - 6 + 1 = 64
+rng2 = 49 + 11 - 6 + 1 = 55
+Lineout
+Team 1 pitcher (Kyo Hyun-Woo): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-1
+
+Charlie May: rng1 = 83 + 10 - 6 + 1 = 88
+Walk
+Team 1 pitcher (Kyo Hyun-Woo): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 2
+
+base1: [4,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-1
+
+Matías Martinez: rng1 = 27 + 10 - 6 + 1 = 32
+rng2 = 12 + 10 - 6 + 1 = 17
+Groundout
+Team 1 pitcher (Kyo Hyun-Woo): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 3
 
 base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 1-3
-
-Matías Martinez: rng1 = 4 + 10 - 15 + 1 = 0
-Strikeout
-Team 1 pitcher (Taylor Murphy): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 1-3
-
-Jamie Reid: rng1 = 73 + 8 - 15 + 1 = 67
-rng2 = 90 + 10 - 15 + 1 = 86
-Flyout
-Team 1 pitcher (Taylor Murphy): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
-
-base1: false, base2: false, base3: false
-Score: 1-3
+Score: 3-1
 
 -----------------------
 
 TOP INNING 7
 
-Sean Watson: rng1 = 47 + 6 - 9 - 1 = 43
-rng2 = 12 + 5 - 11 - 1 = 5
-Groundout
-Team 2 pitcher (Jude Campbell): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 1
+George Nagle: rng1 = 47 + 15 - 6 - 1 = 55
+rng2 = 57 + 15 - 7 - 1 = 64
+Flyout
+Team 2 pitcher (Matthew Dorman): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 1-3
+Score: 3-1
 
-Antonio Santiago: rng1 = 78 + 8 - 9 - 1 = 76
-rng2 = 15 + 3 - 11 - 1 = 6
-Single
-Team 2 pitcher (Jude Campbell): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 1
+Lawrence Randolph: rng1 = 70 + 15 - 6 - 1 = 78
+rng2 = 95 + 14 - 7 - 1 = 101
+Home run
+Team 2 pitcher (Matthew Dorman): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
 
-base1: [7,0], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 1-3
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
 
-Noel Ayers: rng1 = 25 + 3 - 9 - 1 = 18
-Strikeout
-Team 2 pitcher (Jude Campbell): 27 batters faced, 1 runs allowed = 27 + 2.5 = 29.5, outs: 2
+Noah Fontenot: rng1 = 69 + 12 - 6 - 1 = 74
+rng2 = 71 + 7 - 7 - 1 = 70
+Double
+Team 2 pitcher (Matthew Dorman): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
 
-base1: [7,0], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 1-3
+base1: false, base2: [2,1], base3: false
+base1: false, base2: true, base3: false
+Score: 4-1
 
-George Nagle: rng1 = 66 + 15 - 9 - 1 = 71
+Bautista Saelices: rng1 = 28 + 10 - 6 - 1 = 31
+rng2 = 86 + 9 - 7 - 1 = 87
+Flyout
+Team 2 pitcher (Matthew Dorman): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: false, base2: [2,1], base3: false
+base1: false, base2: true, base3: false
+Score: 4-1
+
+Dante Arias: rng1 = 67 + 11 - 6 - 1 = 71
 Walk
-Team 2 pitcher (Jude Campbell): 28 batters faced, 1 runs allowed = 28 + 2.5 = 30.5, outs: 2
+Team 2 pitcher (Matthew Dorman): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
 
-base1: [0,0], base2: [7,0], base3: false
+base1: [4,1], base2: [2,1], base3: false
 base1: true, base2: true, base3: false
-Score: 1-3
+Score: 4-1
 
-Lawrence Randolph: rng1 = 54 + 15 - 9 - 1 = 59
-rng2 = 4 + 14 - 11 - 1 = 6
+Orlando Cazalla: rng1 = 47 + 3 - 6 - 1 = 43
+rng2 = 18 + 8 - 7 - 1 = 18
 Groundout
-Team 2 pitcher (Jude Campbell): 29 batters faced, 1 runs allowed = 29 + 2.5 = 31.5, outs: 3
+Team 2 pitcher (Matthew Dorman): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 1-3
+Score: 4-1
 
 -----------------------
 
 BOTTOM INNING 7
 
-Benito Maroto: rng1 = 67 + 6 - 15 + 1 = 59
-rng2 = 47 + 8 - 15 + 1 = 41
+Team 1 pitcher change to Phil Segee
+
+Jamie Reid: rng1 = 42 + 8 - 10 + 1 = 41
+rng2 = 17 + 10 - 10 + 1 = 18
 Groundout
-Team 1 pitcher (Taylor Murphy): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+Team 1 pitcher (Phil Segee): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 1-3
+Score: 4-1
 
-Pascual Gilbert: rng1 = 60 + 9 - 15 + 1 = 55
-rng2 = 50 + 5 - 15 + 1 = 41
+Benito Maroto: rng1 = 69 + 6 - 10 + 1 = 66
+rng2 = 20 + 8 - 10 + 1 = 19
 Groundout
-Team 1 pitcher (Taylor Murphy): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+Team 1 pitcher (Phil Segee): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 1-3
+Score: 4-1
 
-Leonardo Vera: rng1 = 75 + 14 - 15 + 1 = 75
-rng2 = 58 + 13 - 15 + 1 = 57
+Pascual Gilbert: rng1 = 72 + 9 - 10 + 1 = 72
+rng2 = 50 + 5 - 10 + 1 = 46
 Single
-Team 1 pitcher (Taylor Murphy): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+Team 1 pitcher (Phil Segee): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
 
-base1: [0,1], base2: false, base3: false
+base1: [8,1], base2: false, base3: false
 base1: true, base2: false, base3: false
-Score: 1-3
+Score: 4-1
 
-Drake LaStelle: rng1 = 14 + 14 - 15 + 1 = 14
-rng2 = 59 + 12 - 15 + 1 = 57
-Lineout
-Team 1 pitcher (Taylor Murphy): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+Leonardo Vera: rng1 = 21 + 14 - 10 + 1 = 26
+Strikeout
+Team 1 pitcher (Phil Segee): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 1-3
+Score: 4-1
 
 -----------------------
 
 TOP INNING 8
 
-Team 2 pitcher change to Colton Hendrix
+Team 2 pitcher change to Okihana Min-Ki
 
-Noah Fontenot: rng1 = 60 + 12 - 9 - 1 = 62
-rng2 = 41 + 7 - 9 - 1 = 38
+Sean Watson: rng1 = 3 + 6 - 7 - 1 = 1
+Strikeout
+Team 2 pitcher (Okihana Min-Ki): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Antonio Santiago: rng1 = 42 + 8 - 7 - 1 = 42
+rng2 = 82 + 3 - 6 - 1 = 78
+Flyout
+Team 2 pitcher (Okihana Min-Ki): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Noel Ayers: rng1 = 59 + 3 - 7 - 1 = 54
+rng2 = 12 + 7 - 6 - 1 = 12
 Groundout
-Team 2 pitcher (Colton Hendrix): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+Team 2 pitcher (Okihana Min-Ki): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
 
 base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 1-3
-
-Bautista Saelices: rng1 = 96 + 10 - 9 - 1 = 96
-rng2 = 27 + 9 - 9 - 1 = 26
-Single
-Team 2 pitcher (Colton Hendrix): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
-
-base1: [3,1], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 1-3
-
-Dante Arias: rng1 = 25 + 11 - 9 - 1 = 26
-Strikeout
-Team 2 pitcher (Colton Hendrix): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
-
-base1: [3,1], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 1-3
-
-Orlando Cazalla: rng1 = 6 + 3 - 9 - 1 = -1
-Strikeout
-Team 2 pitcher (Colton Hendrix): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
-
-base1: false, base2: false, base3: false
-Score: 1-3
+Score: 4-1
 
 -----------------------
 
 BOTTOM INNING 8
 
-Team 1 pitcher change to Rodrigo Valerio
-
-Alfie Young: rng1 = 93 + 13 - 10 + 1 = 97
-rng2 = 8 + 9 - 9 + 1 = 9
-Single
-Team 1 pitcher (Rodrigo Valerio): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
-
-base1: [2,2], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 1-3
-
-Billy Campbell: rng1 = 37 + 8 - 10 + 1 = 36
-rng2 = 7 + 11 - 9 + 1 = 10
-Groundout
-Team 1 pitcher (Rodrigo Valerio): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
-
-base1: [3,2], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 1-3
-
-Charlie May: rng1 = 78 + 10 - 10 + 1 = 79
-rng2 = 67 + 11 - 9 + 1 = 70
+Drake LaStelle: rng1 = 99 + 14 - 10 + 1 = 104
+rng2 = 83 + 12 - 10 + 1 = 86
 Double
-Team 1 pitcher (Rodrigo Valerio): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+Team 1 pitcher (Phil Segee): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
 
-base1: false, base2: [4,2], base3: false
+base1: false, base2: [1,1], base3: false
 base1: false, base2: true, base3: false
-Score: 1-4
+Score: 4-1
 
-Matías Martinez: rng1 = 12 + 10 - 10 + 1 = 13
-rng2 = 25 + 10 - 9 + 1 = 27
-Groundout
-Team 1 pitcher (Rodrigo Valerio): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+Alfie Young: rng1 = 40 + 13 - 10 + 1 = 44
+rng2 = 56 + 9 - 10 + 1 = 56
+Lineout
+Team 1 pitcher (Phil Segee): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
 
-base1: false, base2: [4,2], base3: false
+base1: false, base2: [1,1], base3: false
 base1: false, base2: true, base3: false
-Score: 1-4
+Score: 4-1
 
-Jamie Reid: rng1 = 100 + 8 - 10 + 1 = 99
-rng2 = 3 + 10 - 9 + 1 = 5
-Single
-Team 1 pitcher (Rodrigo Valerio): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
-
-base1: [6,2], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 1-5
-
-Benito Maroto: rng1 = 92 + 6 - 10 + 1 = 89
+Billy Campbell: rng1 = 91 + 8 - 10 + 1 = 90
 Walk
-Team 1 pitcher (Rodrigo Valerio): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+Team 1 pitcher (Phil Segee): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
 
-base1: [7,2], base2: [6,2], base3: false
+base1: [3,1], base2: [1,1], base3: false
 base1: true, base2: true, base3: false
-Score: 1-5
+Score: 4-1
 
-Pascual Gilbert: rng1 = 7 + 9 - 10 + 1 = 7
-Strikeout
-Team 1 pitcher (Rodrigo Valerio): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 3
+Charlie May: rng1 = 88 + 10 - 10 + 1 = 89
+Walk
+Team 1 pitcher (Phil Segee): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: [4,1], base2: [3,1], base3: [1,1]
+base1: true, base2: true, base3: true
+Score: 4-1
+
+Matías Martinez: rng1 = 88 + 10 - 10 + 1 = 89
+Walk
+Team 1 pitcher (Phil Segee): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: [5,1], base2: [4,1], base3: [3,1]
+base1: true, base2: true, base3: true
+Score: 4-2
+
+Team 1 pitcher change to Taylor Murphy
+
+Jamie Reid: rng1 = 67 + 8 - 15 + 1 = 61
+rng2 = 58 + 10 - 15 + 1 = 54
+Lineout
+Team 1 pitcher (Taylor Murphy): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [5,1], base2: [4,1], base3: [3,1]
+base1: true, base2: true, base3: true
+Score: 4-2
+
+Benito Maroto: rng1 = 88 + 6 - 15 + 1 = 80
+rng2 = 82 + 8 - 15 + 1 = 76
+Double
+Team 1 pitcher (Taylor Murphy): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: [7,2], base3: false
+base1: false, base2: true, base3: false
+Score: 4-5
+
+Pascual Gilbert: rng1 = 80 + 9 - 15 + 1 = 75
+rng2 = 69 + 5 - 15 + 1 = 60
+Single
+Team 1 pitcher (Taylor Murphy): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-6
+
+Leonardo Vera: rng1 = 58 + 14 - 15 + 1 = 58
+rng2 = 70 + 13 - 15 + 1 = 69
+Flyout
+Team 1 pitcher (Taylor Murphy): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 1-5
+Score: 4-6
 
 -----------------------
 
 TOP INNING 9
 
-Sean Watson: rng1 = 5 + 6 - 9 - 1 = 1
-Strikeout
-Team 2 pitcher (Colton Hendrix): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+Team 2 pitcher change to Jordan Knight
+
+George Nagle: rng1 = 78 + 15 - 12 - 1 = 80
+rng2 = 97 + 15 - 10 - 1 = 101
+Home run
+Team 2 pitcher (Jordan Knight): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 1-5
+Score: 5-6
 
-Antonio Santiago: rng1 = 80 + 8 - 9 - 1 = 78
-rng2 = 85 + 3 - 9 - 1 = 78
-Double
-Team 2 pitcher (Colton Hendrix): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
-
-base1: false, base2: [7,1], base3: false
-base1: false, base2: true, base3: false
-Score: 1-5
-
-Noel Ayers: rng1 = 9 + 3 - 9 - 1 = 2
-Strikeout
-Team 2 pitcher (Colton Hendrix): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
-
-base1: false, base2: [7,1], base3: false
-base1: false, base2: true, base3: false
-Score: 1-5
-
-George Nagle: rng1 = 84 + 15 - 9 - 1 = 89
-Walk
-Team 2 pitcher (Colton Hendrix): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
-
-base1: [0,1], base2: [7,1], base3: false
-base1: true, base2: true, base3: false
-Score: 1-5
-
-Lawrence Randolph: rng1 = 48 + 15 - 9 - 1 = 53
-rng2 = 1 + 14 - 9 - 1 = 5
+Lawrence Randolph: rng1 = 36 + 15 - 12 - 1 = 38
+rng2 = 34 + 14 - 10 - 1 = 37
 Groundout
-Team 2 pitcher (Colton Hendrix): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+Team 2 pitcher (Jordan Knight): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
 
 base1: false, base2: false, base3: false
-Score: 1-5
+base1: false, base2: false, base3: false
+Score: 5-6
+
+Noah Fontenot: rng1 = 52 + 12 - 12 - 1 = 51
+rng2 = 91 + 7 - 10 - 1 = 87
+Flyout
+Team 2 pitcher (Jordan Knight): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-6
+
+Bautista Saelices: rng1 = 3 + 10 - 12 - 1 = 0
+Strikeout
+Team 2 pitcher (Jordan Knight): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-6
 
 -----------------------
 
 Innings: 9
-Team 1 hits: 5
-Team 2 hits: 11
-Team 1 runs: 1
-Team 2 runs: 5
+Team 1 hits: 11
+Team 2 hits: 9
+Team 1 runs: 5
+Team 2 runs: 6
 
 Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-04-14
-George Nagle	3	0	1	1	0	0	1	2	0					Las Vegas
-Lawrence Randolph	5	0	1	0	0	0	0	0	1	
-Noah Fontenot	3	0	0	0	0	0	0	0	0	
-Bautista Saelices	4	0	1	0	0	0	0	0	0	
-Dante Arias	3	0	0	0	0	0	0	1	1	
-Orlando Cazalla	4	0	0	0	0	0	0	0	1	
-Sean Watson	4	0	0	0	0	0	0	0	1	
-Antonio Santiago	3	1	2	1	0	0	0	1	0	
-Noel Ayers	3	0	0	0	0	0	0	1	2	
+George Nagle	4	1	1	0	0	1	1	1	0					Las Vegas
+Lawrence Randolph	5	1	1	0	0	1	1	0	0	
+Noah Fontenot	5	2	3	1	1	0	0	0	1	
+Bautista Saelices	5	1	1	0	0	1	2	0	1	
+Dante Arias	3	0	1	1	0	0	1	1	1	
+Orlando Cazalla	4	0	0	0	0	0	0	0	2	
+Sean Watson	4	0	3	1	0	0	0	0	1	
+Antonio Santiago	3	0	1	0	0	0	0	1	0	
+Noel Ayers	4	0	0	0	0	0	0	0	2	
 
 Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
-Emanuel Muñoz	0	1	1	1	0	0	15	7	3	0	1	3	22	
-Taylor Murphy	0	0	1	0	0	0	6	1	0	0	0	2	7	
-Rodrigo Valerio	0	0	1	0	0	0	3	3	2	0	1	1	7	
-Phil Segee	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Kyo Hyun-Woo	0	0	1	1	0	0	18	5	1	0	2	5	24	
+Phil Segee	0	0	1	0	0	0	4	2	4	0	3	1	9	
+Taylor Murphy	0	1	1	0	0	0	2	2	1	0	0	0	4	
+Rodrigo Valerio	0	0	0	0	0	0	0	0	0	0	0	0	0	
 Macos Alguacil	0	0	0	0	0	0	0	0	0	0	0	0	0	
 
 Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-04-14
-Leonardo Vera	4	1	3	0	0	0	1	0	0					San Diego
-Drake LaStelle	4	0	0	0	0	0	0	0	1	
-Alfie Young	3	1	2	1	0	0	1	1	0	
-Billy Campbell	4	1	0	0	0	0	0	0	0	
-Charlie May	4	1	3	3	0	0	2	0	1	
-Matías Martinez	4	0	0	0	0	0	0	0	1	
-Jamie Reid	4	0	1	0	0	0	1	0	1	
-Benito Maroto	3	1	1	0	0	0	0	1	1	
-Pascual Gilbert	4	0	1	1	0	0	0	0	1	
+Leonardo Vera	4	1	1	1	0	0	0	1	2					San Diego
+Drake LaStelle	4	1	3	1	0	0	0	0	0	
+Alfie Young	4	0	1	1	0	0	1	0	1	
+Billy Campbell	3	1	0	0	0	0	0	1	2	
+Charlie May	2	1	0	0	0	0	0	2	1	
+Matías Martinez	3	1	0	0	0	0	1	1	0	
+Jamie Reid	4	0	1	0	0	0	0	0	0	
+Benito Maroto	4	1	1	1	0	0	3	0	0	
+Pascual Gilbert	4	0	2	0	0	0	1	0	0	
 
 Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
-Jude Campbell	1	0	1	1	0	0	21	3	1	0	4	2	29	
-Colton Hendrix	0	0	1	0	0	0	6	2	0	0	1	4	9	
-Matthew Dorman	0	0	0	0	0	0	0	0	0	0	0	0	0	
-Okihana Min-Ki	0	0	0	0	0	0	0	0	0	0	0	0	0	
-Jordan Knight	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Chong Min-Gyu	0	0	1	1	0	0	17	7	3	1	2	6	25	
+Matthew Dorman	0	0	1	0	0	0	4	3	1	1	1	0	8	
+Okihana Min-Ki	1	0	1	0	0	0	3	0	0	0	0	1	3	
+Colton Hendrix	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Jordan Knight	0	0	1	0	1	1	3	1	1	1	0	1	4	

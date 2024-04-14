@@ -1,847 +1,610 @@
 TOP INNING 1
 
-Phoenix Moore: rng1 = 100 + 15 - 9 - 1 = 105
-rng2 = 44 + 13 - 9 - 1 = 47
-Single
-Team 2 pitcher (Zach Jackson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+Phoenix Moore: rng1 = 80 + 15 - 9 - 1 = 85
+rng2 = 70 + 13 - 9 - 1 = 73
+Double
+Team 2 pitcher (Dirk-Jan Heeten): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
 
-base1: [0,0], base2: false, base3: false
-base1: true, base2: false, base3: false
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
 Score: 0-0
 
-Ashton Martin: rng1 = 88 + 13 - 9 - 1 = 91
-rng2 = 51 + 14 - 9 - 1 = 55
-Single
-Team 2 pitcher (Zach Jackson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
-
-base1: [1,0], base2: false, base3: [0,0]
-base1: true, base2: false, base3: true
-Score: 0-0
-
-Mason Foster: rng1 = 98 + 12 - 9 - 1 = 100
-rng2 = 23 + 11 - 9 - 1 = 24
-Single
-Team 2 pitcher (Zach Jackson): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 0
-
-base1: [2,0], base2: [1,0], base3: false
-base1: true, base2: true, base3: false
-Score: 1-0
-
-Caden Beckett: rng1 = 74 + 11 - 9 - 1 = 75
-rng2 = 62 + 11 - 9 - 1 = 63
-Single
-Team 2 pitcher (Zach Jackson): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 0
-
-base1: [3,0], base2: false, base3: [2,0]
-base1: true, base2: false, base3: true
-Score: 2-0
-
-Quinell McDaniel: rng1 = 78 + 9 - 9 - 1 = 77
-rng2 = 80 + 8 - 9 - 1 = 78
-Double
-Team 2 pitcher (Zach Jackson): 5 batters faced, 4 runs allowed = 5 + 10.0 = 15.0, outs: 0
-
-base1: false, base2: [4,0], base3: false
-base1: false, base2: true, base3: false
-Score: 4-0
-
-Felipe Grimes: rng1 = 33 + 6 - 9 - 1 = 29
-rng2 = 17 + 9 - 9 - 1 = 16
-Groundout
-Team 2 pitcher (Zach Jackson): 6 batters faced, 4 runs allowed = 6 + 10.0 = 16.0, outs: 1
-
-base1: false, base2: [4,0], base3: false
-base1: false, base2: true, base3: false
-Score: 4-0
-
-Ethan Clarke: rng1 = 95 + 3 - 9 - 1 = 88
-Walk
-Team 2 pitcher (Zach Jackson): 7 batters faced, 4 runs allowed = 7 + 10.0 = 17.0, outs: 1
-
-base1: [6,0], base2: [4,0], base3: false
-base1: true, base2: true, base3: false
-Score: 4-0
-
-Stanley Soto: rng1 = 81 + 7 - 9 - 1 = 78
-rng2 = 92 + 4 - 9 - 1 = 86
-Double
-Team 2 pitcher (Zach Jackson): 8 batters faced, 6 runs allowed = 8 + 15.0 = 23.0, outs: 1
-
-base1: false, base2: [7,0], base3: false
-base1: false, base2: true, base3: false
-Score: 6-0
-
-Reese Ross: rng1 = 64 + 3 - 9 - 1 = 57
-rng2 = 65 + 7 - 9 - 1 = 62
+Ashton Martin: rng1 = 47 + 13 - 9 - 1 = 50
+rng2 = 63 + 14 - 9 - 1 = 67
 Flyout
-Team 2 pitcher (Zach Jackson): 9 batters faced, 6 runs allowed = 9 + 15.0 = 24.0, outs: 2
+Team 2 pitcher (Dirk-Jan Heeten): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
 
-base1: false, base2: false, base3: [7,0]
+base1: false, base2: false, base3: [0,0]
 base1: false, base2: false, base3: true
-Score: 6-0
+Score: 0-0
 
-Phoenix Moore: rng1 = 99 + 15 - 9 - 1 = 104
-rng2 = 97 + 13 - 9 - 1 = 100
-Home run
-Team 2 pitcher (Zach Jackson): 10 batters faced, 8 runs allowed = 10 + 20.0 = 30.0, outs: 2
+Mason Foster: rng1 = 25 + 12 - 9 - 1 = 27
+Strikeout
+Team 2 pitcher (Dirk-Jan Heeten): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: [0,0]
+base1: false, base2: false, base3: true
+Score: 0-0
+
+Caden Beckett: rng1 = 67 + 11 - 9 - 1 = 68
+rng2 = 11 + 11 - 9 - 1 = 12
+Groundout
+Team 2 pitcher (Dirk-Jan Heeten): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
 
 base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 8-0
-
-Ashton Martin: rng1 = 33 + 13 - 9 - 1 = 36
-rng2 = 79 + 14 - 9 - 1 = 83
-Flyout
-Team 2 pitcher (Zach Jackson): 11 batters faced, 8 runs allowed = 11 + 20.0 = 31.0, outs: 3
-
-base1: false, base2: false, base3: false
-Score: 8-0
+Score: 0-0
 
 -----------------------
 
 BOTTOM INNING 1
 
-Calder Martin: rng1 = 30 + 9 - 10 + 1 = 30
-rng2 = 20 + 9 - 7 + 1 = 23
+Calder Martin: rng1 = 57 + 9 - 7 + 1 = 60
+rng2 = 14 + 9 - 7 + 1 = 17
 Groundout
-Team 1 pitcher (Gustavo Soto): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+Team 1 pitcher (Owen Bowen): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 8-0
+Score: 0-0
 
-Jack Hayes: rng1 = 77 + 9 - 10 + 1 = 77
-rng2 = 71 + 9 - 7 + 1 = 74
-Double
-Team 1 pitcher (Gustavo Soto): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
-
-base1: false, base2: [1,0], base3: false
-base1: false, base2: true, base3: false
-Score: 8-0
-
-Esteban Mendoza: rng1 = 70 + 8 - 10 + 1 = 69
-Walk
-Team 1 pitcher (Gustavo Soto): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
-
-base1: [2,0], base2: [1,0], base3: false
-base1: true, base2: true, base3: false
-Score: 8-0
-
-Luca Águila: rng1 = 66 + 4 - 10 + 1 = 61
-rng2 = 78 + 10 - 7 + 1 = 82
-Flyout
-Team 1 pitcher (Gustavo Soto): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
-
-base1: [2,0], base2: false, base3: [1,0]
-base1: true, base2: false, base3: true
-Score: 8-0
-
-Mark White: rng1 = 19 + 8 - 10 + 1 = 18
+Jack Hayes: rng1 = 16 + 9 - 7 + 1 = 19
 Strikeout
-Team 1 pitcher (Gustavo Soto): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+Team 1 pitcher (Owen Bowen): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
 
 base1: false, base2: false, base3: false
-Score: 8-0
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Esteban Mendoza: rng1 = 41 + 8 - 7 + 1 = 43
+rng2 = 75 + 8 - 7 + 1 = 77
+Flyout
+Team 1 pitcher (Owen Bowen): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
 
 -----------------------
 
 TOP INNING 2
 
-Mason Foster: rng1 = 34 + 12 - 9 - 1 = 36
-rng2 = 83 + 11 - 9 - 1 = 84
+Quinell McDaniel: rng1 = 33 + 9 - 9 - 1 = 32
+rng2 = 94 + 8 - 9 - 1 = 92
 Flyout
-Team 2 pitcher (Zach Jackson): 12 batters faced, 8 runs allowed = 12 + 20.0 = 32.0, outs: 1
+Team 2 pitcher (Dirk-Jan Heeten): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 8-0
+Score: 0-0
 
-Caden Beckett: rng1 = 89 + 11 - 9 - 1 = 90
-Walk
-Team 2 pitcher (Zach Jackson): 13 batters faced, 8 runs allowed = 13 + 20.0 = 33.0, outs: 1
-
-base1: [3,0], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 8-0
-
-Quinell McDaniel: rng1 = 96 + 9 - 9 - 1 = 95
-rng2 = 48 + 8 - 9 - 1 = 46
-Single
-Team 2 pitcher (Zach Jackson): 14 batters faced, 8 runs allowed = 14 + 20.0 = 34.0, outs: 1
-
-base1: [4,0], base2: [3,0], base3: false
-base1: true, base2: true, base3: false
-Score: 8-0
-
-Felipe Grimes: rng1 = 9 + 6 - 9 - 1 = 5
-Strikeout
-Team 2 pitcher (Zach Jackson): 15 batters faced, 8 runs allowed = 15 + 20.0 = 35.0, outs: 2
-
-base1: [4,0], base2: [3,0], base3: false
-base1: true, base2: true, base3: false
-Score: 8-0
-
-Ethan Clarke: rng1 = 45 + 3 - 9 - 1 = 38
-rng2 = 95 + 8 - 9 - 1 = 93
-Flyout
-Team 2 pitcher (Zach Jackson): 16 batters faced, 8 runs allowed = 16 + 20.0 = 36.0, outs: 3
+Felipe Grimes: rng1 = 37 + 6 - 9 - 1 = 33
+rng2 = 55 + 9 - 9 - 1 = 54
+Lineout
+Team 2 pitcher (Dirk-Jan Heeten): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
 
 base1: false, base2: false, base3: false
-Score: 8-0
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Ethan Clarke: rng1 = 19 + 3 - 9 - 1 = 12
+rng2 = 59 + 8 - 9 - 1 = 57
+Lineout
+Team 2 pitcher (Dirk-Jan Heeten): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
 
 -----------------------
 
 BOTTOM INNING 2
 
-Yodogawa Shosuke: rng1 = 15 + 7 - 10 + 1 = 13
-rng2 = 46 + 8 - 7 + 1 = 48
-Lineout
-Team 1 pitcher (Gustavo Soto): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 8-0
-
-Adam Pearce: rng1 = 56 + 5 - 10 + 1 = 52
-rng2 = 32 + 6 - 7 + 1 = 32
+Luca Águila: rng1 = 63 + 4 - 7 + 1 = 61
+rng2 = 30 + 10 - 7 + 1 = 34
 Groundout
-Team 1 pitcher (Gustavo Soto): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+Team 1 pitcher (Owen Bowen): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 8-0
+Score: 0-0
 
-Josh Poole: rng1 = 99 + 6 - 10 + 1 = 96
-rng2 = 11 + 5 - 7 + 1 = 10
-Single
-Team 1 pitcher (Gustavo Soto): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+Mark White: rng1 = 84 + 8 - 7 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Owen Bowen): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
 
-base1: [7,0], base2: false, base3: false
+base1: [4,0], base2: false, base3: false
 base1: true, base2: false, base3: false
-Score: 8-0
+Score: 0-0
 
-Darren Chang: rng1 = 81 + 4 - 10 + 1 = 76
-rng2 = 78 + 6 - 7 + 1 = 78
-Double
-Team 1 pitcher (Gustavo Soto): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
-
-base1: false, base2: [8,0], base3: [7,0]
-base1: false, base2: true, base3: true
-Score: 8-0
-
-Calder Martin: rng1 = 25 + 9 - 10 + 1 = 25
+Yodogawa Shosuke: rng1 = 2 + 7 - 7 + 1 = 3
 Strikeout
-Team 1 pitcher (Gustavo Soto): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+Team 1 pitcher (Owen Bowen): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Adam Pearce: rng1 = 88 + 5 - 7 + 1 = 87
+Walk
+Team 1 pitcher (Owen Bowen): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [6,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Josh Poole: rng1 = 57 + 6 - 7 + 1 = 57
+rng2 = 17 + 5 - 7 + 1 = 16
+Groundout
+Team 1 pitcher (Owen Bowen): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 8-0
+Score: 0-0
 
 -----------------------
 
 TOP INNING 3
 
-Team 2 pitcher change to Lucas Gardner
-
-Stanley Soto: rng1 = 50 + 7 - 7 - 1 = 49
-rng2 = 30 + 4 - 9 - 1 = 24
-Groundout
-Team 2 pitcher (Lucas Gardner): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 8-0
-
-Reese Ross: rng1 = 26 + 3 - 7 - 1 = 21
-Strikeout
-Team 2 pitcher (Lucas Gardner): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 8-0
-
-Phoenix Moore: rng1 = 91 + 15 - 7 - 1 = 98
-rng2 = 41 + 13 - 9 - 1 = 44
+Stanley Soto: rng1 = 94 + 7 - 9 - 1 = 91
+rng2 = 46 + 4 - 9 - 1 = 40
 Single
-Team 2 pitcher (Lucas Gardner): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+Team 2 pitcher (Dirk-Jan Heeten): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 0
 
-base1: [0,1], base2: false, base3: false
+base1: [7,0], base2: false, base3: false
 base1: true, base2: false, base3: false
-Score: 8-0
+Score: 0-0
 
-Ashton Martin: rng1 = 78 + 13 - 7 - 1 = 83
-rng2 = 86 + 14 - 9 - 1 = 90
-Double
-Team 2 pitcher (Lucas Gardner): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+Reese Ross: rng1 = 13 + 3 - 9 - 1 = 6
+Strikeout
+Team 2 pitcher (Dirk-Jan Heeten): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
 
-base1: false, base2: [1,1], base3: [0,1]
-base1: false, base2: true, base3: true
-Score: 8-0
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
 
-Mason Foster: rng1 = 25 + 12 - 7 - 1 = 29
-rng2 = 22 + 11 - 9 - 1 = 23
+Phoenix Moore: rng1 = 10 + 15 - 9 - 1 = 15
+rng2 = 57 + 13 - 9 - 1 = 60
+Flyout
+Team 2 pitcher (Dirk-Jan Heeten): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Ashton Martin: rng1 = 35 + 13 - 9 - 1 = 38
+rng2 = 41 + 14 - 9 - 1 = 45
 Groundout
-Team 2 pitcher (Lucas Gardner): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+Team 2 pitcher (Dirk-Jan Heeten): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 8-0
+Score: 0-0
 
 -----------------------
 
 BOTTOM INNING 3
 
-Jack Hayes: rng1 = 6 + 9 - 10 + 1 = 6
-Strikeout
-Team 1 pitcher (Gustavo Soto): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 1
+Darren Chang: rng1 = 99 + 4 - 7 + 1 = 97
+rng2 = 95 + 6 - 7 + 1 = 95
+Home run
+Team 1 pitcher (Owen Bowen): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 0
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 8-0
+Score: 0-1
 
-Esteban Mendoza: rng1 = 76 + 8 - 10 + 1 = 75
-rng2 = 2 + 8 - 7 + 1 = 4
-Single
-Team 1 pitcher (Gustavo Soto): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 1
-
-base1: [2,0], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 8-0
-
-Luca Águila: rng1 = 31 + 4 - 10 + 1 = 26
-Strikeout
-Team 1 pitcher (Gustavo Soto): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 2
-
-base1: [2,0], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 8-0
-
-Mark White: rng1 = 39 + 8 - 10 + 1 = 38
-rng2 = 60 + 10 - 7 + 1 = 64
+Calder Martin: rng1 = 29 + 9 - 7 + 1 = 32
+rng2 = 80 + 9 - 7 + 1 = 83
 Flyout
-Team 1 pitcher (Gustavo Soto): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 3
+Team 1 pitcher (Owen Bowen): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
 
 base1: false, base2: false, base3: false
-Score: 8-0
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Jack Hayes: rng1 = 80 + 9 - 7 + 1 = 83
+rng2 = 7 + 9 - 7 + 1 = 10
+Single
+Team 1 pitcher (Owen Bowen): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Esteban Mendoza: rng1 = 40 + 8 - 7 + 1 = 42
+rng2 = 40 + 8 - 7 + 1 = 42
+Groundout
+Team 1 pitcher (Owen Bowen): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
 
 -----------------------
 
 TOP INNING 4
 
-Team 2 pitcher change to Noah Rosario
-
-Caden Beckett: rng1 = 94 + 11 - 9 - 1 = 95
-rng2 = 7 + 11 - 7 - 1 = 10
-Single
-Team 2 pitcher (Noah Rosario): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
-
-base1: [3,2], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 8-0
-
-Quinell McDaniel: rng1 = 25 + 9 - 9 - 1 = 24
-Strikeout
-Team 2 pitcher (Noah Rosario): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
-
-base1: [3,2], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 8-0
-
-Felipe Grimes: rng1 = 41 + 6 - 9 - 1 = 37
-rng2 = 83 + 9 - 7 - 1 = 84
-Flyout
-Team 2 pitcher (Noah Rosario): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
-
-base1: [3,2], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 8-0
-
-Ethan Clarke: rng1 = 98 + 3 - 9 - 1 = 91
-rng2 = 48 + 8 - 7 - 1 = 48
-Single
-Team 2 pitcher (Noah Rosario): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
-
-base1: [6,2], base2: false, base3: [3,2]
-base1: true, base2: false, base3: true
-Score: 8-0
-
-Stanley Soto: rng1 = 97 + 7 - 9 - 1 = 94
-rng2 = 96 + 4 - 7 - 1 = 92
-Double
-Team 2 pitcher (Noah Rosario): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
-
-base1: false, base2: [7,2], base3: false
-base1: false, base2: true, base3: false
-Score: 10-0
-
-Reese Ross: rng1 = 2 + 3 - 9 - 1 = -5
-Strikeout
-Team 2 pitcher (Noah Rosario): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+Mason Foster: rng1 = 35 + 12 - 9 - 1 = 37
+rng2 = 42 + 11 - 9 - 1 = 43
+Groundout
+Team 2 pitcher (Dirk-Jan Heeten): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 1
 
 base1: false, base2: false, base3: false
-Score: 10-0
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Caden Beckett: rng1 = 14 + 11 - 9 - 1 = 15
+rng2 = 91 + 11 - 9 - 1 = 92
+Flyout
+Team 2 pitcher (Dirk-Jan Heeten): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Quinell McDaniel: rng1 = 60 + 9 - 9 - 1 = 59
+rng2 = 61 + 8 - 9 - 1 = 59
+Flyout
+Team 2 pitcher (Dirk-Jan Heeten): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
 
 -----------------------
 
 BOTTOM INNING 4
 
-Yodogawa Shosuke: rng1 = 45 + 7 - 10 + 1 = 43
-rng2 = 49 + 8 - 7 + 1 = 51
-Lineout
-Team 1 pitcher (Gustavo Soto): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 1
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 10-0
-
-Adam Pearce: rng1 = 76 + 5 - 10 + 1 = 72
-rng2 = 60 + 6 - 7 + 1 = 60
-Single
-Team 1 pitcher (Gustavo Soto): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 1
-
-base1: [6,0], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 10-0
-
-Josh Poole: rng1 = 50 + 6 - 10 + 1 = 47
-rng2 = 40 + 5 - 7 + 1 = 39
+Luca Águila: rng1 = 39 + 4 - 7 + 1 = 37
+rng2 = 39 + 10 - 7 + 1 = 43
 Groundout
-Team 1 pitcher (Gustavo Soto): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 2
-
-base1: [7,0], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 10-0
-
-Darren Chang: rng1 = 92 + 4 - 10 + 1 = 87
-Walk
-Team 1 pitcher (Gustavo Soto): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 2
-
-base1: [8,0], base2: [7,0], base3: false
-base1: true, base2: true, base3: false
-Score: 10-0
-
-Calder Martin: rng1 = 75 + 9 - 10 + 1 = 75
-rng2 = 50 + 9 - 7 + 1 = 53
-Single
-Team 1 pitcher (Gustavo Soto): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 2
-
-base1: [0,0], base2: [8,0], base3: false
-base1: true, base2: true, base3: false
-Score: 10-1
-
-Jack Hayes: rng1 = 14 + 9 - 10 + 1 = 14
-rng2 = 85 + 9 - 7 + 1 = 88
-Flyout
-Team 1 pitcher (Gustavo Soto): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 3
+Team 1 pitcher (Owen Bowen): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
 
 base1: false, base2: false, base3: false
-Score: 10-1
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Mark White: rng1 = 40 + 8 - 7 + 1 = 42
+rng2 = 95 + 10 - 7 + 1 = 99
+Flyout
+Team 1 pitcher (Owen Bowen): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Yodogawa Shosuke: rng1 = 85 + 7 - 7 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Owen Bowen): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Adam Pearce: rng1 = 15 + 5 - 7 + 1 = 14
+rng2 = 76 + 6 - 7 + 1 = 76
+Flyout
+Team 1 pitcher (Owen Bowen): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
 
 -----------------------
 
 TOP INNING 5
 
-Team 2 pitcher change to Ian Colome
-
-Phoenix Moore: rng1 = 77 + 15 - 8 - 1 = 83
-rng2 = 98 + 13 - 6 - 1 = 104
-Home run
-Team 2 pitcher (Ian Colome): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+Felipe Grimes: rng1 = 23 + 6 - 9 - 1 = 19
+Strikeout
+Team 2 pitcher (Dirk-Jan Heeten): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 11-1
+Score: 0-1
 
-Ashton Martin: rng1 = 41 + 13 - 8 - 1 = 45
-rng2 = 44 + 14 - 6 - 1 = 51
-Lineout
-Team 2 pitcher (Ian Colome): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+Ethan Clarke: rng1 = 28 + 3 - 9 - 1 = 21
+Strikeout
+Team 2 pitcher (Dirk-Jan Heeten): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 2
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 11-1
+Score: 0-1
 
-Mason Foster: rng1 = 53 + 12 - 8 - 1 = 56
-rng2 = 99 + 11 - 6 - 1 = 103
+Stanley Soto: rng1 = 47 + 7 - 9 - 1 = 44
+rng2 = 74 + 4 - 9 - 1 = 68
 Flyout
-Team 2 pitcher (Ian Colome): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+Team 2 pitcher (Dirk-Jan Heeten): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 3
 
 base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 11-1
-
-Caden Beckett: rng1 = 51 + 11 - 8 - 1 = 53
-rng2 = 69 + 11 - 6 - 1 = 73
-Flyout
-Team 2 pitcher (Ian Colome): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
-
-base1: false, base2: false, base3: false
-Score: 11-1
+Score: 0-1
 
 -----------------------
 
 BOTTOM INNING 5
 
-Esteban Mendoza: rng1 = 33 + 8 - 10 + 1 = 32
-rng2 = 78 + 8 - 7 + 1 = 80
+Josh Poole: rng1 = 55 + 6 - 7 + 1 = 55
+rng2 = 97 + 5 - 7 + 1 = 96
 Flyout
-Team 1 pitcher (Gustavo Soto): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 1
+Team 1 pitcher (Owen Bowen): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 11-1
+Score: 0-1
 
-Luca Águila: rng1 = 81 + 4 - 10 + 1 = 76
-rng2 = 81 + 10 - 7 + 1 = 85
-Home run
-Team 1 pitcher (Gustavo Soto): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 1
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 11-2
-
-Mark White: rng1 = 46 + 8 - 10 + 1 = 45
-rng2 = 9 + 10 - 7 + 1 = 13
-Groundout
-Team 1 pitcher (Gustavo Soto): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 2
+Darren Chang: rng1 = 49 + 4 - 7 + 1 = 47
+rng2 = 89 + 6 - 7 + 1 = 89
+Flyout
+Team 1 pitcher (Owen Bowen): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 2
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 11-2
+Score: 0-1
 
-Yodogawa Shosuke: rng1 = 20 + 7 - 10 + 1 = 18
-Strikeout
-Team 1 pitcher (Gustavo Soto): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 3
+Calder Martin: rng1 = 48 + 9 - 7 + 1 = 51
+rng2 = 98 + 9 - 7 + 1 = 101
+Flyout
+Team 1 pitcher (Owen Bowen): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 11-2
+Score: 0-1
 
 -----------------------
 
 TOP INNING 6
 
-Team 2 pitcher change to Louis Evans
-
-Quinell McDaniel: rng1 = 59 + 9 - 9 - 1 = 58
-rng2 = 21 + 8 - 8 - 1 = 20
-Groundout
-Team 2 pitcher (Louis Evans): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 11-2
-
-Felipe Grimes: rng1 = 1 + 6 - 9 - 1 = -3
-Strikeout
-Team 2 pitcher (Louis Evans): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 11-2
-
-Ethan Clarke: rng1 = 43 + 3 - 9 - 1 = 36
-rng2 = 92 + 8 - 8 - 1 = 91
+Reese Ross: rng1 = 52 + 3 - 9 - 1 = 45
+rng2 = 66 + 7 - 9 - 1 = 63
 Flyout
-Team 2 pitcher (Louis Evans): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+Team 2 pitcher (Dirk-Jan Heeten): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 1
 
 base1: false, base2: false, base3: false
-Score: 11-2
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Phoenix Moore: rng1 = 14 + 15 - 9 - 1 = 19
+Strikeout
+Team 2 pitcher (Dirk-Jan Heeten): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Ashton Martin: rng1 = 31 + 13 - 9 - 1 = 34
+rng2 = 93 + 14 - 9 - 1 = 97
+Flyout
+Team 2 pitcher (Dirk-Jan Heeten): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
 
 -----------------------
 
 BOTTOM INNING 6
 
-Team 1 pitcher change to Rodney Fox
-
-Adam Pearce: rng1 = 1 + 5 - 8 + 1 = -1
+Jack Hayes: rng1 = 7 + 9 - 7 + 1 = 10
 Strikeout
-Team 1 pitcher (Rodney Fox): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+Team 1 pitcher (Owen Bowen): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 11-2
+Score: 0-1
 
-Josh Poole: rng1 = 84 + 6 - 8 + 1 = 83
-rng2 = 38 + 5 - 7 + 1 = 37
-Single
-Team 1 pitcher (Rodney Fox): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+Esteban Mendoza: rng1 = 59 + 8 - 7 + 1 = 61
+rng2 = 75 + 8 - 7 + 1 = 77
+Flyout
+Team 1 pitcher (Owen Bowen): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 2
 
-base1: [7,1], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 11-2
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
 
-Darren Chang: rng1 = 32 + 4 - 8 + 1 = 29
-rng2 = 24 + 6 - 7 + 1 = 24
+Luca Águila: rng1 = 55 + 4 - 7 + 1 = 53
+rng2 = 41 + 10 - 7 + 1 = 45
 Groundout
-Team 1 pitcher (Rodney Fox): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
-
-base1: [8,1], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 11-2
-
-Calder Martin: rng1 = 23 + 9 - 8 + 1 = 25
-Strikeout
-Team 1 pitcher (Rodney Fox): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+Team 1 pitcher (Owen Bowen): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 11-2
+Score: 0-1
 
 -----------------------
 
 TOP INNING 7
 
-Stanley Soto: rng1 = 4 + 7 - 9 - 1 = 1
+Mason Foster: rng1 = 52 + 12 - 9 - 1 = 54
+rng2 = 75 + 11 - 9 - 1 = 76
+Flyout
+Team 2 pitcher (Dirk-Jan Heeten): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Caden Beckett: rng1 = 69 + 11 - 9 - 1 = 70
+Walk
+Team 2 pitcher (Dirk-Jan Heeten): 22 batters faced, 0 runs allowed = 22 + 0.0 = 22.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Quinell McDaniel: rng1 = 49 + 9 - 9 - 1 = 48
+rng2 = 73 + 8 - 9 - 1 = 71
+Flyout
+Team 2 pitcher (Dirk-Jan Heeten): 23 batters faced, 0 runs allowed = 23 + 0.0 = 23.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Felipe Grimes: rng1 = 9 + 6 - 9 - 1 = 5
 Strikeout
-Team 2 pitcher (Louis Evans): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+Team 2 pitcher (Dirk-Jan Heeten): 24 batters faced, 0 runs allowed = 24 + 0.0 = 24.0, outs: 3
 
 base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 11-2
-
-Reese Ross: rng1 = 30 + 3 - 9 - 1 = 23
-Strikeout
-Team 2 pitcher (Louis Evans): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 11-2
-
-Phoenix Moore: rng1 = 45 + 15 - 9 - 1 = 50
-rng2 = 13 + 13 - 8 - 1 = 17
-Groundout
-Team 2 pitcher (Louis Evans): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
-
-base1: false, base2: false, base3: false
-Score: 11-2
+Score: 0-1
 
 -----------------------
 
 BOTTOM INNING 7
 
-Jack Hayes: rng1 = 92 + 9 - 8 + 1 = 94
-rng2 = 46 + 9 - 7 + 1 = 49
-Single
-Team 1 pitcher (Rodney Fox): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
-
-base1: [1,1], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 11-2
-
-Esteban Mendoza: rng1 = 18 + 8 - 8 + 1 = 19
-Strikeout
-Team 1 pitcher (Rodney Fox): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
-
-base1: [1,1], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 11-2
-
-Luca Águila: rng1 = 13 + 4 - 8 + 1 = 10
-Strikeout
-Team 1 pitcher (Rodney Fox): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
-
-base1: [1,1], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 11-2
-
-Mark White: rng1 = 33 + 8 - 8 + 1 = 34
-rng2 = 51 + 10 - 7 + 1 = 55
-Lineout
-Team 1 pitcher (Rodney Fox): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+Mark White: rng1 = 60 + 8 - 7 + 1 = 62
+rng2 = 34 + 10 - 7 + 1 = 38
+Groundout
+Team 1 pitcher (Owen Bowen): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 1
 
 base1: false, base2: false, base3: false
-Score: 11-2
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Yodogawa Shosuke: rng1 = 52 + 7 - 7 + 1 = 53
+rng2 = 90 + 8 - 7 + 1 = 92
+Flyout
+Team 1 pitcher (Owen Bowen): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Adam Pearce: rng1 = 30 + 5 - 7 + 1 = 29
+rng2 = 7 + 6 - 7 + 1 = 7
+Groundout
+Team 1 pitcher (Owen Bowen): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
 
 -----------------------
 
 TOP INNING 8
 
-Ashton Martin: rng1 = 73 + 13 - 9 - 1 = 76
-rng2 = 81 + 14 - 8 - 1 = 86
-Double
-Team 2 pitcher (Louis Evans): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 0
-
-base1: false, base2: [1,4], base3: false
-base1: false, base2: true, base3: false
-Score: 11-2
-
-Mason Foster: rng1 = 55 + 12 - 9 - 1 = 57
-rng2 = 75 + 11 - 8 - 1 = 77
+Ethan Clarke: rng1 = 52 + 3 - 9 - 1 = 45
+rng2 = 82 + 8 - 9 - 1 = 80
 Flyout
-Team 2 pitcher (Louis Evans): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+Team 2 pitcher (Dirk-Jan Heeten): 25 batters faced, 0 runs allowed = 25 + 0.0 = 25.0, outs: 1
 
-base1: false, base2: false, base3: [1,4]
-base1: false, base2: false, base3: true
-Score: 11-2
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
 
-Caden Beckett: rng1 = 55 + 11 - 9 - 1 = 56
-rng2 = 92 + 11 - 8 - 1 = 94
+Stanley Soto: rng1 = 48 + 7 - 9 - 1 = 45
+rng2 = 87 + 4 - 9 - 1 = 81
 Flyout
-Team 2 pitcher (Louis Evans): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+Team 2 pitcher (Dirk-Jan Heeten): 26 batters faced, 0 runs allowed = 26 + 0.0 = 26.0, outs: 2
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 12-2
+Score: 0-1
 
-Quinell McDaniel: rng1 = 73 + 9 - 9 - 1 = 72
-rng2 = 95 + 8 - 8 - 1 = 94
-Home run
-Team 2 pitcher (Louis Evans): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 2
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 13-2
-
-Felipe Grimes: rng1 = 42 + 6 - 9 - 1 = 38
-rng2 = 91 + 9 - 8 - 1 = 91
-Flyout
-Team 2 pitcher (Louis Evans): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 3
+Reese Ross: rng1 = 34 + 3 - 9 - 1 = 27
+Strikeout
+Team 2 pitcher (Dirk-Jan Heeten): 27 batters faced, 0 runs allowed = 27 + 0.0 = 27.0, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 13-2
+Score: 0-1
 
 -----------------------
 
 BOTTOM INNING 8
 
-Team 1 pitcher change to Jason Francisco
-
-Yodogawa Shosuke: rng1 = 72 + 7 - 10 + 1 = 70
-Walk
-Team 1 pitcher (Jason Francisco): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
-
-base1: [5,2], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 13-2
-
-Adam Pearce: rng1 = 40 + 5 - 10 + 1 = 36
-rng2 = 94 + 6 - 9 + 1 = 92
-Flyout
-Team 1 pitcher (Jason Francisco): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
-
-base1: [5,2], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 13-2
-
-Josh Poole: rng1 = 57 + 6 - 10 + 1 = 54
-rng2 = 71 + 5 - 9 + 1 = 68
-Flyout
-Team 1 pitcher (Jason Francisco): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
-
-base1: [5,2], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 13-2
-
-Darren Chang: rng1 = 50 + 4 - 10 + 1 = 45
-rng2 = 56 + 6 - 9 + 1 = 54
-Lineout
-Team 1 pitcher (Jason Francisco): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+Josh Poole: rng1 = 60 + 6 - 7 + 1 = 60
+rng2 = 45 + 5 - 7 + 1 = 44
+Groundout
+Team 1 pitcher (Owen Bowen): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 1
 
 base1: false, base2: false, base3: false
-Score: 13-2
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Darren Chang: rng1 = 58 + 4 - 7 + 1 = 56
+rng2 = 88 + 6 - 7 + 1 = 88
+Flyout
+Team 1 pitcher (Owen Bowen): 27 batters faced, 1 runs allowed = 27 + 2.5 = 29.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Calder Martin: rng1 = 75 + 9 - 7 + 1 = 78
+rng2 = 89 + 9 - 7 + 1 = 92
+Double
+Team 1 pitcher (Owen Bowen): 28 batters faced, 1 runs allowed = 28 + 2.5 = 30.5, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Jack Hayes: rng1 = 61 + 9 - 7 + 1 = 64
+rng2 = 93 + 9 - 7 + 1 = 96
+Flyout
+Team 1 pitcher (Owen Bowen): 29 batters faced, 1 runs allowed = 29 + 2.5 = 31.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
 
 -----------------------
 
 TOP INNING 9
 
-Ethan Clarke: rng1 = 10 + 3 - 9 - 1 = 3
-Strikeout
-Team 2 pitcher (Louis Evans): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 1
+Team 2 pitcher change to Louis Evans
+
+Phoenix Moore: rng1 = 24 + 15 - 9 - 1 = 29
+rng2 = 45 + 13 - 8 - 1 = 49
+Lineout
+Team 2 pitcher (Louis Evans): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 13-2
+Score: 0-1
 
-Stanley Soto: rng1 = 13 + 7 - 9 - 1 = 10
-Strikeout
-Team 2 pitcher (Louis Evans): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 2
+Ashton Martin: rng1 = 67 + 13 - 9 - 1 = 70
+Walk
+Team 2 pitcher (Louis Evans): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
 
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 13-2
+base1: [1,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
 
-Reese Ross: rng1 = 71 + 3 - 9 - 1 = 64
-rng2 = 12 + 7 - 8 - 1 = 10
+Mason Foster: rng1 = 32 + 12 - 9 - 1 = 34
+rng2 = 29 + 11 - 8 - 1 = 31
 Groundout
-Team 2 pitcher (Louis Evans): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 3
+Team 2 pitcher (Louis Evans): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 13-2
-
------------------------
-
-BOTTOM INNING 9
-
-Calder Martin: rng1 = 81 + 9 - 10 + 1 = 81
-rng2 = 43 + 9 - 9 + 1 = 44
-Single
-Team 1 pitcher (Jason Francisco): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
-
-base1: [0,2], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 13-2
-
-Jack Hayes: rng1 = 19 + 9 - 10 + 1 = 19
-Strikeout
-Team 1 pitcher (Jason Francisco): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
-
-base1: [0,2], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 13-2
-
-Esteban Mendoza: rng1 = 7 + 8 - 10 + 1 = 6
-Strikeout
-Team 1 pitcher (Jason Francisco): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
-
-base1: [0,2], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 13-2
-
-Luca Águila: rng1 = 49 + 4 - 10 + 1 = 44
-rng2 = 1 + 10 - 9 + 1 = 3
-Groundout
-Team 1 pitcher (Jason Francisco): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
-
-base1: false, base2: false, base3: false
-Score: 13-2
+Score: 0-1
 
 -----------------------
 
 Innings: 9
-Team 1 hits: 16
-Team 2 hits: 10
-Team 1 runs: 13
-Team 2 runs: 2
+Team 1 hits: 2
+Team 2 hits: 3
+Team 1 runs: 0
+Team 2 runs: 1
 
 Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-04-14
-Phoenix Moore	5	3	4	0	0	2	3	0	0					Los Angeles
-Ashton Martin	5	2	3	2	0	0	0	0	0	
-Mason Foster	5	1	1	0	0	0	1	0	0	
-Caden Beckett	4	2	2	0	0	0	2	1	0	
-Quinell McDaniel	5	2	3	1	0	1	3	0	1	
-Felipe Grimes	5	0	0	0	0	0	0	0	2	
-Ethan Clarke	4	2	1	0	0	0	0	1	1	
-Stanley Soto	5	1	2	2	0	0	4	0	2	
-Reese Ross	5	0	0	0	0	0	0	0	3	
+Phoenix Moore	4	0	1	1	0	0	0	0	1					Los Angeles
+Ashton Martin	3	0	0	0	0	0	0	1	0	
+Mason Foster	4	0	0	0	0	0	0	0	1	
+Caden Beckett	2	0	0	0	0	0	0	1	0	
+Quinell McDaniel	3	0	0	0	0	0	0	0	0	
+Felipe Grimes	3	0	0	0	0	0	0	0	2	
+Ethan Clarke	3	0	0	0	0	0	0	0	1	
+Stanley Soto	3	0	1	0	0	0	0	0	0	
+Reese Ross	3	0	0	0	0	0	0	0	2	
 
 Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
-Gustavo Soto	1	0	1	1	0	0	15	7	2	1	2	5	24	
-Rodney Fox	0	0	1	0	0	0	6	2	0	0	0	4	8	
-Jason Francisco	0	0	1	0	0	0	6	1	0	0	1	2	8	
+Owen Bowen	0	1	1	1	0	0	24	3	1	1	1	3	29	
 Reed Winters	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Jason Francisco	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rodney Fox	0	0	0	0	0	0	0	0	0	0	0	0	0	
 Jensen Garrish	0	0	0	0	0	0	0	0	0	0	0	0	0	
 
 Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-04-14
-Calder Martin	5	0	2	0	0	0	1	0	2					Phoenix
-Jack Hayes	5	0	2	1	0	0	0	0	2	
-Esteban Mendoza	4	0	1	0	0	0	0	1	2	
-Luca Águila	5	1	1	0	0	1	1	0	2	
-Mark White	4	0	0	0	0	0	0	0	1	
-Yodogawa Shosuke	3	0	0	0	0	0	0	1	1	
-Adam Pearce	4	0	1	0	0	0	0	0	1	
-Josh Poole	4	1	2	0	0	0	0	0	0	
-Darren Chang	3	0	1	1	0	0	0	1	0	
+Calder Martin	4	0	1	1	0	0	0	0	0					Phoenix
+Jack Hayes	4	0	1	0	0	0	0	0	2	
+Esteban Mendoza	3	0	0	0	0	0	0	0	0	
+Luca Águila	3	0	0	0	0	0	0	0	0	
+Mark White	2	0	0	0	0	0	0	0	0	
+Yodogawa Shosuke	2	0	0	0	0	0	0	0	1	
+Adam Pearce	2	0	0	0	0	0	0	1	0	
+Josh Poole	3	0	0	0	0	0	0	0	0	
+Darren Chang	3	1	1	0	0	1	1	0	0	
 
 Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
-Zach Jackson	0	1	1	1	0	0	6	8	8	1	2	1	16	
-Lucas Gardner	0	0	1	0	0	0	3	2	0	0	0	1	5	
-Noah Rosario	0	0	1	0	0	0	3	3	2	0	0	2	6	
-Ian Colome	0	0	1	0	0	0	3	1	1	1	0	0	4	
-Louis Evans	0	0	1	0	0	0	12	2	2	1	0	5	14	
+Dirk-Jan Heeten	1	0	1	1	0	0	24	2	0	0	1	7	27	
+Noah Rosario	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Lucas Gardner	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Ian Colome	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Louis Evans	0	0	1	0	1	1	3	0	0	0	1	0	3	

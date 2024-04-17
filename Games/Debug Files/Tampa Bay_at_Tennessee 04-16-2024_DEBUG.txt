@@ -1,0 +1,812 @@
+TOP INNING 1
+
+Koyama Tsuneo: rng1 = 62 + 15 - 9 - 1 = 67
+rng2 = 48 + 13 - 7 - 1 = 53
+Lineout
+Team 2 pitcher (Raul Cespedes): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Kim Tae-Woo: rng1 = 90 + 14 - 9 - 1 = 94
+rng2 = 31 + 14 - 7 - 1 = 37
+Single
+Team 2 pitcher (Raul Cespedes): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Justus Pate: rng1 = 70 + 12 - 9 - 1 = 72
+rng2 = 9 + 14 - 7 - 1 = 15
+Single
+Team 2 pitcher (Raul Cespedes): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Chris Lane: rng1 = 86 + 11 - 9 - 1 = 87
+Walk
+Team 2 pitcher (Raul Cespedes): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [3,0], base2: [2,0], base3: [1,0]
+base1: true, base2: true, base3: true
+Score: 0-0
+
+Leonardo Nunez: rng1 = 62 + 11 - 9 - 1 = 63
+rng2 = 94 + 8 - 7 - 1 = 94
+Flyout
+Team 2 pitcher (Raul Cespedes): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Charles Harris: rng1 = 91 + 6 - 9 - 1 = 87
+Walk
+Team 2 pitcher (Raul Cespedes): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: [5,0], base2: [3,0], base3: [2,0]
+base1: true, base2: true, base3: true
+Score: 1-0
+
+Jeronimo Maldonado: rng1 = 87 + 6 - 9 - 1 = 83
+rng2 = 89 + 9 - 7 - 1 = 90
+Double
+Team 2 pitcher (Raul Cespedes): 7 batters faced, 4 runs allowed = 7 + 10.0 = 17.0, outs: 2
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-0
+
+Sam Snyder: rng1 = 42 + 4 - 9 - 1 = 36
+rng2 = 27 + 10 - 7 - 1 = 29
+Groundout
+Team 2 pitcher (Raul Cespedes): 8 batters faced, 4 runs allowed = 8 + 10.0 = 18.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Oscar Pierce: rng1 = 78 + 11 - 10 + 1 = 80
+rng2 = 62 + 6 - 10 + 1 = 59
+Single
+Team 1 pitcher (Rafael Gomez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Jason Burress: rng1 = 5 + 10 - 10 + 1 = 6
+Strikeout
+Team 1 pitcher (Rafael Gomez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Finlay Webb: rng1 = 44 + 8 - 10 + 1 = 43
+rng2 = 20 + 7 - 10 + 1 = 18
+Groundout
+Team 1 pitcher (Rafael Gomez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+TOP INNING 2
+
+Jerome Goodwin: rng1 = 88 + 7 - 9 - 1 = 85
+rng2 = 50 + 6 - 7 - 1 = 48
+Single
+Team 2 pitcher (Raul Cespedes): 9 batters faced, 4 runs allowed = 9 + 10.0 = 19.0, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Koyama Tsuneo: rng1 = 28 + 15 - 9 - 1 = 33
+rng2 = 77 + 13 - 7 - 1 = 82
+Flyout
+Team 2 pitcher (Raul Cespedes): 10 batters faced, 4 runs allowed = 10 + 10.0 = 20.0, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Kim Tae-Woo: rng1 = 87 + 14 - 9 - 1 = 91
+rng2 = 4 + 14 - 7 - 1 = 10
+Single
+Team 2 pitcher (Raul Cespedes): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 1
+
+base1: [1,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 4-0
+
+Justus Pate: rng1 = 97 + 12 - 9 - 1 = 99
+rng2 = 96 + 14 - 7 - 1 = 102
+Home run
+Team 2 pitcher (Raul Cespedes): 12 batters faced, 7 runs allowed = 12 + 17.5 = 29.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-0
+
+Chris Lane: rng1 = 63 + 11 - 9 - 1 = 64
+rng2 = 34 + 13 - 7 - 1 = 39
+Groundout
+Team 2 pitcher (Raul Cespedes): 13 batters faced, 7 runs allowed = 13 + 17.5 = 30.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-0
+
+Leonardo Nunez: rng1 = 16 + 11 - 9 - 1 = 17
+Strikeout
+Team 2 pitcher (Raul Cespedes): 14 batters faced, 7 runs allowed = 14 + 17.5 = 31.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Trace Spears: rng1 = 71 + 7 - 10 + 1 = 69
+Walk
+Team 1 pitcher (Rafael Gomez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-0
+
+Gary Miller: rng1 = 93 + 6 - 10 + 1 = 90
+Walk
+Team 1 pitcher (Rafael Gomez): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 7-0
+
+Esteban Obregón: rng1 = 57 + 6 - 10 + 1 = 54
+rng2 = 73 + 7 - 10 + 1 = 71
+Flyout
+Team 1 pitcher (Rafael Gomez): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [4,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 7-0
+
+Owen Williamson: rng1 = 12 + 4 - 10 + 1 = 7
+Strikeout
+Team 1 pitcher (Rafael Gomez): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [4,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 7-0
+
+Jorge Donald: rng1 = 99 + 3 - 10 + 1 = 93
+rng2 = 70 + 8 - 10 + 1 = 69
+Double
+Team 1 pitcher (Rafael Gomez): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 7-2
+
+Kugo Ryutaro: rng1 = 87 + 7 - 10 + 1 = 85
+rng2 = 44 + 4 - 10 + 1 = 39
+Single
+Team 1 pitcher (Rafael Gomez): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-3
+
+Oscar Pierce: rng1 = 53 + 11 - 10 + 1 = 55
+rng2 = 34 + 6 - 10 + 1 = 31
+Groundout
+Team 1 pitcher (Rafael Gomez): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-3
+
+-----------------------
+
+TOP INNING 3
+
+Team 2 pitcher change to Hiraoka Yosai
+
+Charles Harris: rng1 = 79 + 6 - 10 - 1 = 74
+rng2 = 91 + 10 - 9 - 1 = 91
+Double
+Team 2 pitcher (Hiraoka Yosai): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [5,1], base3: false
+base1: false, base2: true, base3: false
+Score: 7-3
+
+Jeronimo Maldonado: rng1 = 79 + 6 - 10 - 1 = 74
+rng2 = 62 + 9 - 9 - 1 = 61
+Single
+Team 2 pitcher (Hiraoka Yosai): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-3
+
+Sam Snyder: rng1 = 57 + 4 - 10 - 1 = 50
+rng2 = 91 + 10 - 9 - 1 = 91
+Flyout
+Team 2 pitcher (Hiraoka Yosai): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-3
+
+Jerome Goodwin: rng1 = 88 + 7 - 10 - 1 = 84
+rng2 = 61 + 6 - 9 - 1 = 57
+Single
+Team 2 pitcher (Hiraoka Yosai): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [8,1], base2: [6,1], base3: false
+base1: true, base2: true, base3: false
+Score: 8-3
+
+Koyama Tsuneo: rng1 = 24 + 15 - 10 - 1 = 28
+Strikeout
+Team 2 pitcher (Hiraoka Yosai): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [8,1], base2: [6,1], base3: false
+base1: true, base2: true, base3: false
+Score: 8-3
+
+Kim Tae-Woo: rng1 = 9 + 14 - 10 - 1 = 12
+rng2 = 38 + 14 - 9 - 1 = 42
+Groundout
+Team 2 pitcher (Hiraoka Yosai): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-3
+
+-----------------------
+
+BOTTOM INNING 3
+
+Jason Burress: rng1 = 35 + 10 - 10 + 1 = 36
+rng2 = 54 + 8 - 10 + 1 = 53
+Lineout
+Team 1 pitcher (Rafael Gomez): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-3
+
+Finlay Webb: rng1 = 45 + 8 - 10 + 1 = 44
+rng2 = 29 + 7 - 10 + 1 = 27
+Groundout
+Team 1 pitcher (Rafael Gomez): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-3
+
+Trace Spears: rng1 = 19 + 7 - 10 + 1 = 17
+Strikeout
+Team 1 pitcher (Rafael Gomez): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-3
+
+-----------------------
+
+TOP INNING 4
+
+Team 2 pitcher change to Jackson Peck
+
+Justus Pate: rng1 = 96 + 12 - 8 - 1 = 99
+rng2 = 95 + 14 - 7 - 1 = 101
+Home run
+Team 2 pitcher (Jackson Peck): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-3
+
+Chris Lane: rng1 = 76 + 11 - 8 - 1 = 78
+rng2 = 44 + 13 - 7 - 1 = 49
+Single
+Team 2 pitcher (Jackson Peck): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: [3,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-3
+
+Leonardo Nunez: rng1 = 44 + 11 - 8 - 1 = 46
+rng2 = 30 + 8 - 7 - 1 = 30
+Groundout
+Team 2 pitcher (Jackson Peck): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-3
+
+Charles Harris: rng1 = 60 + 6 - 8 - 1 = 57
+rng2 = 75 + 10 - 7 - 1 = 77
+Flyout
+Team 2 pitcher (Jackson Peck): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-3
+
+Jeronimo Maldonado: rng1 = 10 + 6 - 8 - 1 = 7
+Strikeout
+Team 2 pitcher (Jackson Peck): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-3
+
+-----------------------
+
+BOTTOM INNING 4
+
+Gary Miller: rng1 = 100 + 6 - 10 + 1 = 97
+rng2 = 37 + 10 - 10 + 1 = 38
+Single
+Team 1 pitcher (Rafael Gomez): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-3
+
+Esteban Obregón: rng1 = 94 + 6 - 10 + 1 = 91
+rng2 = 87 + 7 - 10 + 1 = 85
+Home run
+Team 1 pitcher (Rafael Gomez): 15 batters faced, 5 runs allowed = 15 + 12.5 = 27.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-5
+
+Owen Williamson: rng1 = 64 + 4 - 10 + 1 = 59
+rng2 = 58 + 8 - 10 + 1 = 57
+Lineout
+Team 1 pitcher (Rafael Gomez): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-5
+
+Jorge Donald: rng1 = 13 + 3 - 10 + 1 = 7
+Strikeout
+Team 1 pitcher (Rafael Gomez): 17 batters faced, 5 runs allowed = 17 + 12.5 = 29.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-5
+
+Kugo Ryutaro: rng1 = 50 + 7 - 10 + 1 = 48
+rng2 = 55 + 4 - 10 + 1 = 50
+Lineout
+Team 1 pitcher (Rafael Gomez): 18 batters faced, 5 runs allowed = 18 + 12.5 = 30.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-5
+
+-----------------------
+
+TOP INNING 5
+
+Team 2 pitcher change to Agustin Acosta
+
+Sam Snyder: rng1 = 58 + 4 - 7 - 1 = 54
+rng2 = 20 + 10 - 8 - 1 = 21
+Groundout
+Team 2 pitcher (Agustin Acosta): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-5
+
+Jerome Goodwin: rng1 = 4 + 7 - 7 - 1 = 3
+Strikeout
+Team 2 pitcher (Agustin Acosta): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-5
+
+Koyama Tsuneo: rng1 = 41 + 15 - 7 - 1 = 48
+rng2 = 77 + 13 - 8 - 1 = 81
+Flyout
+Team 2 pitcher (Agustin Acosta): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-5
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Boone Almas
+
+Oscar Pierce: rng1 = 93 + 11 - 6 + 1 = 99
+rng2 = 20 + 6 - 9 + 1 = 18
+Single
+Team 1 pitcher (Boone Almas): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-5
+
+Jason Burress: rng1 = 48 + 10 - 6 + 1 = 53
+rng2 = 42 + 8 - 9 + 1 = 42
+Groundout
+Team 1 pitcher (Boone Almas): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-5
+
+Finlay Webb: rng1 = 10 + 8 - 6 + 1 = 13
+rng2 = 7 + 7 - 9 + 1 = 6
+Groundout
+Team 1 pitcher (Boone Almas): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-5
+
+-----------------------
+
+TOP INNING 6
+
+Kim Tae-Woo: rng1 = 78 + 14 - 7 - 1 = 84
+rng2 = 94 + 14 - 8 - 1 = 99
+Home run
+Team 2 pitcher (Agustin Acosta): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-5
+
+Justus Pate: rng1 = 49 + 12 - 7 - 1 = 53
+rng2 = 84 + 14 - 8 - 1 = 89
+Flyout
+Team 2 pitcher (Agustin Acosta): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-5
+
+Chris Lane: rng1 = 92 + 11 - 7 - 1 = 95
+rng2 = 33 + 13 - 8 - 1 = 37
+Single
+Team 2 pitcher (Agustin Acosta): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: [3,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 10-5
+
+Leonardo Nunez: rng1 = 52 + 11 - 7 - 1 = 55
+rng2 = 92 + 8 - 8 - 1 = 91
+Flyout
+Team 2 pitcher (Agustin Acosta): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: [3,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 10-5
+
+Charles Harris: rng1 = 41 + 6 - 7 - 1 = 39
+rng2 = 64 + 10 - 8 - 1 = 65
+Flyout
+Team 2 pitcher (Agustin Acosta): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 10-5
+
+-----------------------
+
+BOTTOM INNING 6
+
+Trace Spears: rng1 = 60 + 7 - 6 + 1 = 62
+rng2 = 22 + 10 - 9 + 1 = 24
+Groundout
+Team 1 pitcher (Boone Almas): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-5
+
+Gary Miller: rng1 = 14 + 6 - 6 + 1 = 15
+rng2 = 44 + 10 - 9 + 1 = 46
+Groundout
+Team 1 pitcher (Boone Almas): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-5
+
+Esteban Obregón: rng1 = 88 + 6 - 6 + 1 = 89
+Walk
+Team 1 pitcher (Boone Almas): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 10-5
+
+Owen Williamson: rng1 = 33 + 4 - 6 + 1 = 32
+rng2 = 37 + 8 - 9 + 1 = 37
+Groundout
+Team 1 pitcher (Boone Almas): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 10-5
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Matias Rivera
+
+Jeronimo Maldonado: rng1 = 3 + 6 - 9 - 1 = -1
+Strikeout
+Team 2 pitcher (Matias Rivera): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-5
+
+Sam Snyder: rng1 = 35 + 4 - 9 - 1 = 29
+rng2 = 73 + 10 - 11 - 1 = 71
+Flyout
+Team 2 pitcher (Matias Rivera): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-5
+
+Jerome Goodwin: rng1 = 21 + 7 - 9 - 1 = 18
+Strikeout
+Team 2 pitcher (Matias Rivera): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 10-5
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Ignacio Morales
+
+Jorge Donald: rng1 = 57 + 3 - 8 + 1 = 53
+rng2 = 74 + 8 - 7 + 1 = 76
+Flyout
+Team 1 pitcher (Ignacio Morales): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-5
+
+Kugo Ryutaro: rng1 = 35 + 7 - 8 + 1 = 35
+rng2 = 97 + 4 - 7 + 1 = 95
+Flyout
+Team 1 pitcher (Ignacio Morales): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-5
+
+Oscar Pierce: rng1 = 97 + 11 - 8 + 1 = 101
+rng2 = 67 + 6 - 7 + 1 = 67
+Double
+Team 1 pitcher (Ignacio Morales): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [0,2], base3: false
+base1: false, base2: true, base3: false
+Score: 10-5
+
+Jason Burress: rng1 = 76 + 10 - 8 + 1 = 79
+rng2 = 41 + 8 - 7 + 1 = 43
+Single
+Team 1 pitcher (Ignacio Morales): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 10-6
+
+Finlay Webb: rng1 = 23 + 8 - 8 + 1 = 24
+Strikeout
+Team 1 pitcher (Ignacio Morales): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 10-6
+
+-----------------------
+
+TOP INNING 8
+
+Koyama Tsuneo: rng1 = 61 + 15 - 9 - 1 = 66
+rng2 = 98 + 13 - 11 - 1 = 99
+Flyout
+Team 2 pitcher (Matias Rivera): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-6
+
+Kim Tae-Woo: rng1 = 70 + 14 - 9 - 1 = 74
+rng2 = 84 + 14 - 11 - 1 = 86
+Double
+Team 2 pitcher (Matias Rivera): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: [1,4], base3: false
+base1: false, base2: true, base3: false
+Score: 10-6
+
+Justus Pate: rng1 = 33 + 12 - 9 - 1 = 35
+rng2 = 85 + 14 - 11 - 1 = 87
+Flyout
+Team 2 pitcher (Matias Rivera): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: [1,4], base3: false
+base1: false, base2: true, base3: false
+Score: 10-6
+
+Chris Lane: rng1 = 64 + 11 - 9 - 1 = 65
+rng2 = 51 + 13 - 11 - 1 = 52
+Lineout
+Team 2 pitcher (Matias Rivera): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 10-6
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Logan Rogers
+
+Trace Spears: rng1 = 61 + 7 - 9 + 1 = 60
+rng2 = 31 + 10 - 7 + 1 = 35
+Groundout
+Team 1 pitcher (Logan Rogers): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-6
+
+Gary Miller: rng1 = 97 + 6 - 9 + 1 = 95
+rng2 = 83 + 10 - 7 + 1 = 87
+Double
+Team 1 pitcher (Logan Rogers): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [4,3], base3: false
+base1: false, base2: true, base3: false
+Score: 10-6
+
+Esteban Obregón: rng1 = 63 + 6 - 9 + 1 = 61
+rng2 = 93 + 7 - 7 + 1 = 94
+Flyout
+Team 1 pitcher (Logan Rogers): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: [4,3]
+base1: false, base2: false, base3: true
+Score: 10-6
+
+Owen Williamson: rng1 = 69 + 4 - 9 + 1 = 65
+rng2 = 44 + 8 - 7 + 1 = 46
+Groundout
+Team 1 pitcher (Logan Rogers): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 10-6
+
+-----------------------
+
+TOP INNING 9
+
+Leonardo Nunez: rng1 = 42 + 11 - 9 - 1 = 43
+rng2 = 6 + 8 - 11 - 1 = 2
+Groundout
+Team 2 pitcher (Matias Rivera): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-6
+
+Charles Harris: rng1 = 54 + 6 - 9 - 1 = 50
+rng2 = 66 + 10 - 11 - 1 = 64
+Flyout
+Team 2 pitcher (Matias Rivera): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-6
+
+Jeronimo Maldonado: rng1 = 9 + 6 - 9 - 1 = 5
+Strikeout
+Team 2 pitcher (Matias Rivera): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 10-6
+
+-----------------------
+
+BOTTOM INNING 9
+
+Jorge Donald: rng1 = 64 + 3 - 9 + 1 = 59
+rng2 = 4 + 8 - 7 + 1 = 6
+Groundout
+Team 1 pitcher (Logan Rogers): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-6
+
+Kugo Ryutaro: rng1 = 55 + 7 - 9 + 1 = 54
+rng2 = 40 + 4 - 7 + 1 = 38
+Groundout
+Team 1 pitcher (Logan Rogers): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-6
+
+Oscar Pierce: rng1 = 51 + 11 - 9 + 1 = 54
+rng2 = 8 + 6 - 7 + 1 = 8
+Groundout
+Team 1 pitcher (Logan Rogers): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 10-6
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 14
+Team 2 hits: 9
+Team 1 runs: 10
+Team 2 runs: 6
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-04-16
+Koyama Tsuneo	5	0	0	0	0	0	0	0	1					Tampa Bay
+Kim Tae-Woo	5	3	4	1	0	1	1	0	0	
+Justus Pate	5	3	3	0	0	2	4	0	0	
+Chris Lane	4	1	2	0	0	0	0	1	0	
+Leonardo Nunez	5	0	0	0	0	0	1	0	1	
+Charles Harris	4	2	1	1	0	0	0	1	0	
+Jeronimo Maldonado	5	0	2	1	0	0	4	0	3	
+Sam Snyder	4	0	0	0	0	0	0	0	0	
+Jerome Goodwin	4	1	2	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Rafael Gomez	1	0	1	1	0	0	12	5	5	1	2	4	18	
+Boone Almas	0	0	1	0	0	0	6	1	0	0	1	0	7	
+Ignacio Morales	0	0	1	0	0	0	3	2	1	0	0	1	5	
+Logan Rogers	0	0	1	0	0	0	6	1	0	0	0	0	7	
+William Sheppard	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-04-16
+Oscar Pierce	5	1	3	1	0	0	0	0	0					Tennessee
+Jason Burress	4	0	1	0	0	0	1	0	1	
+Finlay Webb	4	0	0	0	0	0	0	0	1	
+Trace Spears	3	1	0	0	0	0	0	1	1	
+Gary Miller	3	2	2	1	0	0	0	1	0	
+Esteban Obregón	3	1	1	0	0	1	2	1	0	
+Owen Williamson	4	0	0	0	0	0	0	0	1	
+Jorge Donald	4	1	1	1	0	0	2	0	1	
+Kugo Ryutaro	4	0	1	0	0	0	1	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Raul Cespedes	0	1	1	1	0	0	6	6	7	1	2	1	14	
+Hiraoka Yosai	0	0	1	0	0	0	3	3	1	0	0	1	6	
+Jackson Peck	0	0	1	0	0	0	3	2	1	1	0	1	5	
+Agustin Acosta	0	0	1	0	0	0	6	2	1	1	0	1	8	
+Matias Rivera	0	0	1	0	0	0	9	1	0	0	0	3	10	

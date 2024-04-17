@@ -1,0 +1,810 @@
+TOP INNING 1
+
+Blake Welsh: rng1 = 79 + 14 - 11 - 1 = 81
+rng2 = 58 + 8 - 11 - 1 = 54
+Single
+Team 2 pitcher (Austin Harrison): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Gabe Roberts: rng1 = 76 + 13 - 11 - 1 = 77
+rng2 = 90 + 14 - 11 - 1 = 92
+Double
+Team 2 pitcher (Austin Harrison): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Mahadi Khan: rng1 = 81 + 12 - 11 - 1 = 81
+rng2 = 17 + 10 - 11 - 1 = 15
+Single
+Team 2 pitcher (Austin Harrison): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 0
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Tommy Baxter: rng1 = 53 + 8 - 11 - 1 = 49
+rng2 = 2 + 11 - 11 - 1 = 1
+Groundout
+Team 2 pitcher (Austin Harrison): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Jaquon Lyons: rng1 = 95 + 10 - 11 - 1 = 93
+rng2 = 51 + 10 - 11 - 1 = 49
+Single
+Team 2 pitcher (Austin Harrison): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 1
+
+base1: [4,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 2-0
+
+Emiel Ware: rng1 = 7 + 8 - 11 - 1 = 3
+Strikeout
+Team 2 pitcher (Austin Harrison): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: [4,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 2-0
+
+Isaac Secada: rng1 = 36 + 7 - 11 - 1 = 31
+rng2 = 28 + 8 - 11 - 1 = 24
+Groundout
+Team 2 pitcher (Austin Harrison): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Wakasugi Norogumi: rng1 = 63 + 15 - 8 + 1 = 71
+Walk
+Team 1 pitcher (Daniel Ortega): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Xavier Cabrera: rng1 = 96 + 13 - 8 + 1 = 102
+rng2 = 57 + 11 - 7 + 1 = 62
+Single
+Team 1 pitcher (Daniel Ortega): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 2-0
+
+Desharious Roberson: rng1 = 87 + 13 - 8 + 1 = 93
+rng2 = 2 + 9 - 7 + 1 = 5
+Single
+Team 1 pitcher (Daniel Ortega): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 0
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-1
+
+Ethan Spencer: rng1 = 27 + 11 - 8 + 1 = 31
+rng2 = 96 + 14 - 7 + 1 = 104
+Flyout
+Team 1 pitcher (Daniel Ortega): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-1
+
+Lawson Haney: rng1 = 84 + 13 - 8 + 1 = 90
+Walk
+Team 1 pitcher (Daniel Ortega): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: [4,0], base2: [2,0], base3: [1,0]
+base1: true, base2: true, base3: true
+Score: 2-1
+
+Alfonso Stafford: rng1 = 46 + 13 - 8 + 1 = 52
+rng2 = 12 + 10 - 7 + 1 = 16
+Groundout
+Team 1 pitcher (Daniel Ortega): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: false, base2: [4,0], base3: [2,0]
+base1: false, base2: true, base3: true
+Score: 2-2
+
+Ike Nicholson: rng1 = 82 + 7 - 8 + 1 = 82
+rng2 = 50 + 12 - 7 + 1 = 56
+Single
+Team 1 pitcher (Daniel Ortega): 7 batters faced, 4 runs allowed = 7 + 10.0 = 17.0, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-4
+
+Hayden Wright: rng1 = 52 + 7 - 8 + 1 = 52
+rng2 = 58 + 9 - 7 + 1 = 61
+Flyout
+Team 1 pitcher (Daniel Ortega): 8 batters faced, 4 runs allowed = 8 + 10.0 = 18.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-4
+
+-----------------------
+
+TOP INNING 2
+
+Timothy Bentley: rng1 = 97 + 5 - 11 - 1 = 90
+Walk
+Team 2 pitcher (Austin Harrison): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-4
+
+Yoshida Kei: rng1 = 34 + 7 - 11 - 1 = 29
+rng2 = 10 + 6 - 11 - 1 = 4
+Groundout
+Team 2 pitcher (Austin Harrison): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 1
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-4
+
+Blake Welsh: rng1 = 74 + 14 - 11 - 1 = 76
+rng2 = 22 + 8 - 11 - 1 = 18
+Single
+Team 2 pitcher (Austin Harrison): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-4
+
+Gabe Roberts: rng1 = 75 + 13 - 11 - 1 = 76
+rng2 = 39 + 14 - 11 - 1 = 41
+Single
+Team 2 pitcher (Austin Harrison): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 1
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-4
+
+Mahadi Khan: rng1 = 80 + 12 - 11 - 1 = 80
+rng2 = 60 + 10 - 11 - 1 = 58
+Single
+Team 2 pitcher (Austin Harrison): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 1
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 4-4
+
+Tommy Baxter: rng1 = 18 + 8 - 11 - 1 = 14
+rng2 = 52 + 11 - 11 - 1 = 51
+Lineout
+Team 2 pitcher (Austin Harrison): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 2
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 4-4
+
+Jaquon Lyons: rng1 = 78 + 10 - 11 - 1 = 76
+rng2 = 54 + 10 - 11 - 1 = 52
+Single
+Team 2 pitcher (Austin Harrison): 14 batters faced, 5 runs allowed = 14 + 12.5 = 26.5, outs: 2
+
+base1: [4,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 5-4
+
+Emiel Ware: rng1 = 19 + 8 - 11 - 1 = 15
+rng2 = 20 + 10 - 11 - 1 = 18
+Groundout
+Team 2 pitcher (Austin Harrison): 15 batters faced, 5 runs allowed = 15 + 12.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-4
+
+-----------------------
+
+BOTTOM INNING 2
+
+Joel Arboleda: rng1 = 6 + 6 - 8 + 1 = 5
+Strikeout
+Team 1 pitcher (Daniel Ortega): 9 batters faced, 4 runs allowed = 9 + 10.0 = 19.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Wakasugi Norogumi: rng1 = 70 + 15 - 8 + 1 = 78
+rng2 = 20 + 15 - 7 + 1 = 29
+Single
+Team 1 pitcher (Daniel Ortega): 10 batters faced, 4 runs allowed = 10 + 10.0 = 20.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-4
+
+Xavier Cabrera: rng1 = 58 + 13 - 8 + 1 = 64
+rng2 = 66 + 11 - 7 + 1 = 71
+Flyout
+Team 1 pitcher (Daniel Ortega): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-4
+
+Desharious Roberson: rng1 = 50 + 13 - 8 + 1 = 56
+rng2 = 1 + 9 - 7 + 1 = 4
+Groundout
+Team 1 pitcher (Daniel Ortega): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-4
+
+-----------------------
+
+TOP INNING 3
+
+Isaac Secada: rng1 = 36 + 7 - 11 - 1 = 31
+rng2 = 91 + 8 - 11 - 1 = 87
+Flyout
+Team 2 pitcher (Austin Harrison): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Timothy Bentley: rng1 = 97 + 5 - 11 - 1 = 90
+Walk
+Team 2 pitcher (Austin Harrison): 17 batters faced, 5 runs allowed = 17 + 12.5 = 29.5, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-4
+
+Yoshida Kei: rng1 = 8 + 7 - 11 - 1 = 3
+Strikeout
+Team 2 pitcher (Austin Harrison): 18 batters faced, 5 runs allowed = 18 + 12.5 = 30.5, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-4
+
+Blake Welsh: rng1 = 4 + 14 - 11 - 1 = 6
+Strikeout
+Team 2 pitcher (Austin Harrison): 19 batters faced, 5 runs allowed = 19 + 12.5 = 31.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-4
+
+-----------------------
+
+BOTTOM INNING 3
+
+Ethan Spencer: rng1 = 65 + 11 - 8 + 1 = 69
+Walk
+Team 1 pitcher (Daniel Ortega): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-4
+
+Lawson Haney: rng1 = 34 + 13 - 8 + 1 = 40
+rng2 = 40 + 13 - 7 + 1 = 47
+Groundout
+Team 1 pitcher (Daniel Ortega): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 1
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 5-4
+
+Alfonso Stafford: rng1 = 41 + 13 - 8 + 1 = 47
+rng2 = 99 + 10 - 7 + 1 = 103
+Flyout
+Team 1 pitcher (Daniel Ortega): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 2
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 5-4
+
+Ike Nicholson: rng1 = 24 + 7 - 8 + 1 = 24
+Strikeout
+Team 1 pitcher (Daniel Ortega): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-4
+
+-----------------------
+
+TOP INNING 4
+
+Team 2 pitcher change to Thomas Dillard
+
+Gabe Roberts: rng1 = 47 + 13 - 10 - 1 = 49
+rng2 = 48 + 14 - 8 - 1 = 53
+Lineout
+Team 2 pitcher (Thomas Dillard): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Mahadi Khan: rng1 = 8 + 12 - 10 - 1 = 9
+Strikeout
+Team 2 pitcher (Thomas Dillard): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Tommy Baxter: rng1 = 90 + 8 - 10 - 1 = 87
+Walk
+Team 2 pitcher (Thomas Dillard): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-4
+
+Jaquon Lyons: rng1 = 100 + 10 - 10 - 1 = 99
+rng2 = 51 + 10 - 8 - 1 = 52
+Single
+Team 2 pitcher (Thomas Dillard): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [4,1], base2: false, base3: [3,1]
+base1: true, base2: false, base3: true
+Score: 5-4
+
+Emiel Ware: rng1 = 61 + 8 - 10 - 1 = 58
+rng2 = 44 + 10 - 8 - 1 = 45
+Groundout
+Team 2 pitcher (Thomas Dillard): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-4
+
+-----------------------
+
+BOTTOM INNING 4
+
+Hayden Wright: rng1 = 26 + 7 - 8 + 1 = 26
+Strikeout
+Team 1 pitcher (Daniel Ortega): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Joel Arboleda: rng1 = 98 + 6 - 8 + 1 = 97
+rng2 = 46 + 6 - 7 + 1 = 46
+Single
+Team 1 pitcher (Daniel Ortega): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-4
+
+Wakasugi Norogumi: rng1 = 54 + 15 - 8 + 1 = 62
+rng2 = 58 + 15 - 7 + 1 = 67
+Flyout
+Team 1 pitcher (Daniel Ortega): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-4
+
+Xavier Cabrera: rng1 = 14 + 13 - 8 + 1 = 20
+Strikeout
+Team 1 pitcher (Daniel Ortega): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-4
+
+-----------------------
+
+TOP INNING 5
+
+Team 2 pitcher change to Evan Veselka
+
+Isaac Secada: rng1 = 78 + 7 - 12 - 1 = 72
+rng2 = 61 + 8 - 10 - 1 = 58
+Single
+Team 2 pitcher (Evan Veselka): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-4
+
+Timothy Bentley: rng1 = 45 + 5 - 12 - 1 = 37
+rng2 = 90 + 9 - 10 - 1 = 88
+Flyout
+Team 2 pitcher (Evan Veselka): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-4
+
+Yoshida Kei: rng1 = 14 + 7 - 12 - 1 = 8
+Strikeout
+Team 2 pitcher (Evan Veselka): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-4
+
+Blake Welsh: rng1 = 85 + 14 - 12 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Evan Veselka): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [0,2], base2: [6,2], base3: false
+base1: true, base2: true, base3: false
+Score: 5-4
+
+Gabe Roberts: rng1 = 68 + 13 - 12 - 1 = 68
+rng2 = 35 + 14 - 10 - 1 = 38
+Groundout
+Team 2 pitcher (Evan Veselka): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-4
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Isaac Hartman
+
+Desharious Roberson: rng1 = 3 + 13 - 8 + 1 = 9
+Strikeout
+Team 1 pitcher (Isaac Hartman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Ethan Spencer: rng1 = 29 + 11 - 8 + 1 = 33
+rng2 = 49 + 14 - 9 + 1 = 55
+Lineout
+Team 1 pitcher (Isaac Hartman): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Lawson Haney: rng1 = 96 + 13 - 8 + 1 = 102
+rng2 = 30 + 13 - 9 + 1 = 35
+Single
+Team 1 pitcher (Isaac Hartman): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-4
+
+Alfonso Stafford: rng1 = 20 + 13 - 8 + 1 = 26
+Strikeout
+Team 1 pitcher (Isaac Hartman): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-4
+
+-----------------------
+
+TOP INNING 6
+
+Mahadi Khan: rng1 = 33 + 12 - 12 - 1 = 32
+rng2 = 17 + 10 - 10 - 1 = 16
+Groundout
+Team 2 pitcher (Evan Veselka): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Tommy Baxter: rng1 = 29 + 8 - 12 - 1 = 24
+Strikeout
+Team 2 pitcher (Evan Veselka): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Jaquon Lyons: rng1 = 40 + 10 - 12 - 1 = 37
+rng2 = 9 + 10 - 10 - 1 = 8
+Groundout
+Team 2 pitcher (Evan Veselka): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-4
+
+-----------------------
+
+BOTTOM INNING 6
+
+Ike Nicholson: rng1 = 14 + 7 - 8 + 1 = 14
+rng2 = 11 + 12 - 9 + 1 = 15
+Groundout
+Team 1 pitcher (Isaac Hartman): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Hayden Wright: rng1 = 47 + 7 - 8 + 1 = 47
+rng2 = 55 + 9 - 9 + 1 = 56
+Lineout
+Team 1 pitcher (Isaac Hartman): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Joel Arboleda: rng1 = 28 + 6 - 8 + 1 = 27
+Strikeout
+Team 1 pitcher (Isaac Hartman): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-4
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Saiki Iwane
+
+Emiel Ware: rng1 = 27 + 8 - 11 - 1 = 23
+Strikeout
+Team 2 pitcher (Saiki Iwane): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Isaac Secada: rng1 = 42 + 7 - 11 - 1 = 37
+rng2 = 74 + 8 - 10 - 1 = 71
+Flyout
+Team 2 pitcher (Saiki Iwane): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Timothy Bentley: rng1 = 3 + 5 - 11 - 1 = -4
+Strikeout
+Team 2 pitcher (Saiki Iwane): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-4
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Abraham Pace
+
+Wakasugi Norogumi: rng1 = 48 + 15 - 10 + 1 = 54
+rng2 = 88 + 15 - 10 + 1 = 94
+Flyout
+Team 1 pitcher (Abraham Pace): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Xavier Cabrera: rng1 = 80 + 13 - 10 + 1 = 84
+rng2 = 93 + 11 - 10 + 1 = 95
+Home run
+Team 1 pitcher (Abraham Pace): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-5
+
+Desharious Roberson: rng1 = 22 + 13 - 10 + 1 = 26
+Strikeout
+Team 1 pitcher (Abraham Pace): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-5
+
+Ethan Spencer: rng1 = 93 + 11 - 10 + 1 = 95
+rng2 = 73 + 14 - 10 + 1 = 78
+Double
+Team 1 pitcher (Abraham Pace): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [3,2], base3: false
+base1: false, base2: true, base3: false
+Score: 5-5
+
+Lawson Haney: rng1 = 53 + 13 - 10 + 1 = 57
+rng2 = 40 + 13 - 10 + 1 = 44
+Groundout
+Team 1 pitcher (Abraham Pace): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-5
+
+-----------------------
+
+TOP INNING 8
+
+Yoshida Kei: rng1 = 46 + 7 - 11 - 1 = 41
+rng2 = 17 + 6 - 10 - 1 = 12
+Groundout
+Team 2 pitcher (Saiki Iwane): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-5
+
+Blake Welsh: rng1 = 74 + 14 - 11 - 1 = 76
+rng2 = 29 + 8 - 10 - 1 = 26
+Single
+Team 2 pitcher (Saiki Iwane): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [0,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-5
+
+Gabe Roberts: rng1 = 9 + 13 - 11 - 1 = 10
+Strikeout
+Team 2 pitcher (Saiki Iwane): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [0,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-5
+
+Mahadi Khan: rng1 = 74 + 12 - 11 - 1 = 74
+rng2 = 32 + 10 - 10 - 1 = 31
+Single
+Team 2 pitcher (Saiki Iwane): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [2,3], base2: false, base3: [0,3]
+base1: true, base2: false, base3: true
+Score: 5-5
+
+Tommy Baxter: rng1 = 57 + 8 - 11 - 1 = 53
+rng2 = 79 + 11 - 10 - 1 = 79
+Flyout
+Team 2 pitcher (Saiki Iwane): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-5
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Emiliano Navarro
+
+Alfonso Stafford: rng1 = 86 + 13 - 8 + 1 = 92
+rng2 = 51 + 10 - 7 + 1 = 55
+Single
+Team 1 pitcher (Emiliano Navarro): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [5,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-5
+
+Ike Nicholson: rng1 = 46 + 7 - 8 + 1 = 46
+rng2 = 4 + 12 - 7 + 1 = 10
+Groundout
+Team 1 pitcher (Emiliano Navarro): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-5
+
+Hayden Wright: rng1 = 63 + 7 - 8 + 1 = 63
+rng2 = 33 + 9 - 7 + 1 = 36
+Groundout
+Team 1 pitcher (Emiliano Navarro): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-5
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Juancarlo Pinto
+
+Jaquon Lyons: rng1 = 2 + 10 - 13 - 1 = -2
+Strikeout
+Team 2 pitcher (Juancarlo Pinto): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-5
+
+Emiel Ware: rng1 = 50 + 8 - 13 - 1 = 44
+rng2 = 86 + 10 - 14 - 1 = 81
+Flyout
+Team 2 pitcher (Juancarlo Pinto): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-5
+
+Isaac Secada: rng1 = 17 + 7 - 13 - 1 = 10
+Strikeout
+Team 2 pitcher (Juancarlo Pinto): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-5
+
+-----------------------
+
+BOTTOM INNING 9
+
+Joel Arboleda: rng1 = 89 + 6 - 8 + 1 = 88
+Walk
+Team 1 pitcher (Emiliano Navarro): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [8,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-5
+
+Wakasugi Norogumi: rng1 = 48 + 15 - 8 + 1 = 56
+rng2 = 43 + 15 - 7 + 1 = 52
+Lineout
+Team 1 pitcher (Emiliano Navarro): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [8,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-5
+
+Xavier Cabrera: rng1 = 69 + 13 - 8 + 1 = 75
+rng2 = 69 + 11 - 7 + 1 = 74
+Double
+Team 1 pitcher (Emiliano Navarro): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: [1,3], base3: false
+base1: false, base2: true, base3: false
+Score: 5-6
+
+Innings: 9
+Team 1 hits: 12
+Team 2 hits: 10
+Team 1 runs: 5
+Team 2 runs: 6
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-04-16
+Blake Welsh	4	2	3	0	0	0	1	0	1					Miami
+Gabe Roberts	5	2	2	1	0	0	1	0	1	
+Mahadi Khan	5	0	3	0	0	0	2	0	1	
+Tommy Baxter	4	0	0	0	0	0	0	1	1	
+Jaquon Lyons	5	0	3	0	0	0	1	0	1	
+Emiel Ware	5	0	0	0	0	0	0	0	2	
+Isaac Secada	5	0	1	0	0	0	0	0	1	
+Timothy Bentley	2	1	0	0	0	0	0	2	1	
+Yoshida Kei	4	0	0	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Daniel Ortega	0	0	1	1	0	0	12	5	4	0	3	4	20	
+Isaac Hartman	0	0	1	0	0	0	6	1	0	0	0	3	7	
+Abraham Pace	0	0	1	0	0	0	3	2	1	1	0	1	5	
+Emiliano Navarro	0	1	1	0	0	0	4	2	1	0	1	0	6	
+Kwok Kwang-Seok	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-04-16
+Wakasugi Norogumi	4	1	1	0	0	0	0	1	0					Atlanta
+Xavier Cabrera	5	2	3	1	0	1	2	0	1	
+Desharious Roberson	4	1	1	0	0	0	1	0	2	
+Ethan Spencer	3	0	1	1	0	0	0	1	0	
+Lawson Haney	3	1	1	0	0	0	0	1	0	
+Alfonso Stafford	4	0	1	0	0	0	1	0	1	
+Ike Nicholson	4	0	1	0	0	0	2	0	1	
+Hayden Wright	4	0	0	0	0	0	0	0	1	
+Joel Arboleda	3	1	1	0	0	0	0	1	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Austin Harrison	0	0	1	1	0	0	9	8	5	0	2	3	19	
+Thomas Dillard	0	0	1	0	0	0	3	1	0	0	1	1	5	
+Evan Veselka	0	0	1	0	0	0	6	1	0	0	0	2	8	
+Saiki Iwane	0	0	1	0	0	0	6	2	0	0	0	3	8	
+Juancarlo Pinto	1	0	1	0	0	0	3	0	0	0	0	2	3	

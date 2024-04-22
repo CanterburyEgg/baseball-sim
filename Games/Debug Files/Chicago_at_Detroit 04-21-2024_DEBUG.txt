@@ -1,682 +1,740 @@
 TOP INNING 1
 
-Leonardo Pinto: rng1 = 97 + 9 - 6 - 1 = 99
-rng2 = 14 + 6 - 7 - 1 = 12
-Single
-Team 2 pitcher (Finley Carr): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
-
-base1: [0,0], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 0-0
-
-Robert Bailey: rng1 = 36 + 9 - 6 - 1 = 38
-rng2 = 71 + 12 - 7 - 1 = 75
-Flyout
-Team 2 pitcher (Finley Carr): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
-
-base1: [0,0], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 0-0
-
-Leon Fraser: rng1 = 59 + 7 - 6 - 1 = 59
-rng2 = 72 + 6 - 7 - 1 = 70
-Flyout
-Team 2 pitcher (Finley Carr): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
-
-base1: [0,0], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 0-0
-
-Bradley Murphy: rng1 = 2 + 10 - 6 - 1 = 5
+Leonardo Pinto: rng1 = 5 + 9 - 6 - 1 = 7
 Strikeout
-Team 2 pitcher (Finley Carr): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+Team 2 pitcher (Kyle Bennett): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
 
 base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
 Score: 0-0
+
+Robert Bailey: rng1 = 41 + 9 - 6 - 1 = 43
+rng2 = 87 + 12 - 7 - 1 = 91
+Flyout
+Team 2 pitcher (Kyle Bennett): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Leon Fraser: rng1 = 100 + 7 - 6 - 1 = 100
+rng2 = 79 + 6 - 7 - 1 = 77
+Double
+Team 2 pitcher (Kyle Bennett): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Bradley Murphy: rng1 = 69 + 10 - 6 - 1 = 72
+rng2 = 80 + 12 - 7 - 1 = 84
+Home run
+Team 2 pitcher (Kyle Bennett): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Nicolas Sanchez: rng1 = 27 + 4 - 6 - 1 = 24
+Strikeout
+Team 2 pitcher (Kyle Bennett): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
 
 -----------------------
 
 BOTTOM INNING 1
 
-Randall Hodge: rng1 = 41 + 14 - 7 + 1 = 49
-rng2 = 40 + 10 - 6 + 1 = 45
+Randall Hodge: rng1 = 70 + 14 - 6 + 1 = 79
+rng2 = 66 + 10 - 7 + 1 = 70
+Double
+Team 1 pitcher (Tavell Nash): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-0
+
+Cody McCarthy: rng1 = 65 + 12 - 6 + 1 = 72
+rng2 = 92 + 14 - 7 + 1 = 100
+Home run
+Team 1 pitcher (Tavell Nash): 2 batters faced, 2 runs allowed = 2 + 5.0 = 7.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Randy Carson: rng1 = 100 + 10 - 6 + 1 = 105
+rng2 = 72 + 10 - 7 + 1 = 76
+Double
+Team 1 pitcher (Tavell Nash): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 0
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-2
+
+Reuben Sutton: rng1 = 11 + 9 - 6 + 1 = 15
+rng2 = 11 + 10 - 7 + 1 = 15
 Groundout
-Team 1 pitcher (Douglas Porter): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+Team 1 pitcher (Tavell Nash): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: false, base2: false, base3: [2,0]
+base1: false, base2: false, base3: true
+Score: 2-2
+
+Joseph Thayer: rng1 = 14 + 10 - 6 + 1 = 19
+Strikeout
+Team 1 pitcher (Tavell Nash): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: false, base2: false, base3: [2,0]
+base1: false, base2: false, base3: true
+Score: 2-2
+
+Caden Bryan: rng1 = 57 + 7 - 6 + 1 = 59
+rng2 = 4 + 9 - 7 + 1 = 7
+Groundout
+Team 1 pitcher (Tavell Nash): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
 
 base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 0-0
-
-Cody McCarthy: rng1 = 45 + 12 - 7 + 1 = 51
-rng2 = 48 + 14 - 6 + 1 = 57
-Lineout
-Team 1 pitcher (Douglas Porter): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 0-0
-
-Randy Carson: rng1 = 63 + 10 - 7 + 1 = 67
-rng2 = 49 + 10 - 6 + 1 = 54
-Lineout
-Team 1 pitcher (Douglas Porter): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
-
-base1: false, base2: false, base3: false
-Score: 0-0
+Score: 2-2
 
 -----------------------
 
 TOP INNING 2
 
-Nicolas Sanchez: rng1 = 96 + 4 - 6 - 1 = 93
-rng2 = 85 + 8 - 7 - 1 = 85
-Home run
-Team 2 pitcher (Finley Carr): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 0
+Trent Cline: rng1 = 36 + 6 - 6 - 1 = 35
+rng2 = 31 + 6 - 7 - 1 = 29
+Groundout
+Team 2 pitcher (Kyle Bennett): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 1-0
-
-Trent Cline: rng1 = 78 + 6 - 6 - 1 = 77
-rng2 = 55 + 6 - 7 - 1 = 53
-Single
-Team 2 pitcher (Finley Carr): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 0
-
-base1: [5,0], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 1-0
+Score: 2-2
 
 Devoreaux Waters: rng1 = 18 + 7 - 6 - 1 = 18
 Strikeout
-Team 2 pitcher (Finley Carr): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
-
-base1: [5,0], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 1-0
-
-Edward Lowe: rng1 = 78 + 5 - 6 - 1 = 76
-rng2 = 40 + 6 - 7 - 1 = 38
-Single
-Team 2 pitcher (Finley Carr): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
-
-base1: [7,0], base2: [5,0], base3: false
-base1: true, base2: true, base3: false
-Score: 1-0
-
-Leroy Powell: rng1 = 36 + 4 - 6 - 1 = 33
-rng2 = 75 + 6 - 7 - 1 = 73
-Flyout
-Team 2 pitcher (Finley Carr): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
-
-base1: [7,0], base2: false, base3: [5,0]
-base1: true, base2: false, base3: true
-Score: 1-0
-
-Leonardo Pinto: rng1 = 31 + 9 - 6 - 1 = 33
-rng2 = 83 + 6 - 7 - 1 = 81
-Flyout
-Team 2 pitcher (Finley Carr): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 3
+Team 2 pitcher (Kyle Bennett): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 2
 
 base1: false, base2: false, base3: false
-Score: 1-0
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Edward Lowe: rng1 = 87 + 5 - 6 - 1 = 85
+rng2 = 45 + 6 - 7 - 1 = 43
+Single
+Team 2 pitcher (Kyle Bennett): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Leroy Powell: rng1 = 92 + 4 - 6 - 1 = 89
+Walk
+Team 2 pitcher (Kyle Bennett): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 2
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-2
+
+Leonardo Pinto: rng1 = 37 + 9 - 6 - 1 = 39
+rng2 = 92 + 6 - 7 - 1 = 90
+Flyout
+Team 2 pitcher (Kyle Bennett): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
 
 -----------------------
 
 BOTTOM INNING 2
 
-Reuben Sutton: rng1 = 2 + 9 - 7 + 1 = 5
+Kugo Tadayuki: rng1 = 44 + 10 - 6 + 1 = 49
+rng2 = 64 + 4 - 7 + 1 = 62
+Flyout
+Team 1 pitcher (Tavell Nash): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Marvin Calvert: rng1 = 77 + 4 - 6 + 1 = 76
+rng2 = 98 + 9 - 7 + 1 = 101
+Home run
+Team 1 pitcher (Tavell Nash): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Terry Schroeder: rng1 = 5 + 8 - 6 + 1 = 8
 Strikeout
-Team 1 pitcher (Douglas Porter): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+Team 1 pitcher (Tavell Nash): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 2
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 1-0
+Score: 2-3
 
-Joseph Thayer: rng1 = 14 + 10 - 7 + 1 = 18
-Strikeout
-Team 1 pitcher (Douglas Porter): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 1-0
-
-Caden Bryan: rng1 = 66 + 7 - 7 + 1 = 67
-rng2 = 49 + 9 - 6 + 1 = 53
-Lineout
-Team 1 pitcher (Douglas Porter): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+Randall Hodge: rng1 = 27 + 14 - 6 + 1 = 36
+rng2 = 35 + 10 - 7 + 1 = 39
+Groundout
+Team 1 pitcher (Tavell Nash): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 1-0
+Score: 2-3
 
 -----------------------
 
 TOP INNING 3
 
-Robert Bailey: rng1 = 26 + 9 - 6 - 1 = 28
+Robert Bailey: rng1 = 14 + 9 - 6 - 1 = 16
 Strikeout
-Team 2 pitcher (Finley Carr): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+Team 2 pitcher (Kyle Bennett): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 1-0
+Score: 2-3
 
-Leon Fraser: rng1 = 8 + 7 - 6 - 1 = 8
+Leon Fraser: rng1 = 62 + 7 - 6 - 1 = 62
+rng2 = 22 + 6 - 7 - 1 = 20
+Groundout
+Team 2 pitcher (Kyle Bennett): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Bradley Murphy: rng1 = 89 + 10 - 6 - 1 = 92
+rng2 = 38 + 12 - 7 - 1 = 42
+Single
+Team 2 pitcher (Kyle Bennett): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-3
+
+Nicolas Sanchez: rng1 = 6 + 4 - 6 - 1 = 3
 Strikeout
-Team 2 pitcher (Finley Carr): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 2
+Team 2 pitcher (Kyle Bennett): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 3
 
 base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 1-0
-
-Bradley Murphy: rng1 = 63 + 10 - 6 - 1 = 66
-rng2 = 68 + 12 - 7 - 1 = 72
-Flyout
-Team 2 pitcher (Finley Carr): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 3
-
-base1: false, base2: false, base3: false
-Score: 1-0
+Score: 2-3
 
 -----------------------
 
 BOTTOM INNING 3
 
-Kugo Tadayuki: rng1 = 21 + 10 - 7 + 1 = 25
-Strikeout
-Team 1 pitcher (Douglas Porter): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+Cody McCarthy: rng1 = 44 + 12 - 6 + 1 = 51
+rng2 = 33 + 14 - 7 + 1 = 41
+Groundout
+Team 1 pitcher (Tavell Nash): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 1-0
+Score: 2-3
 
-Marvin Calvert: rng1 = 85 + 4 - 7 + 1 = 83
-rng2 = 57 + 9 - 6 + 1 = 61
-Single
-Team 1 pitcher (Douglas Porter): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
-
-base1: [7,0], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 1-0
-
-Terry Schroeder: rng1 = 91 + 8 - 7 + 1 = 93
-rng2 = 79 + 5 - 6 + 1 = 79
-Triple
-Team 1 pitcher (Douglas Porter): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
-
-base1: false, base2: false, base3: [8,0]
-base1: false, base2: false, base3: true
-Score: 1-1
-
-Randall Hodge: rng1 = 88 + 14 - 7 + 1 = 96
-rng2 = 49 + 10 - 6 + 1 = 54
-Single
-Team 1 pitcher (Douglas Porter): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 1
-
-base1: [0,0], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 1-2
-
-Cody McCarthy: rng1 = 25 + 12 - 7 + 1 = 31
-rng2 = 44 + 14 - 6 + 1 = 53
-Lineout
-Team 1 pitcher (Douglas Porter): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 2
-
-base1: [0,0], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 1-2
-
-Randy Carson: rng1 = 16 + 10 - 7 + 1 = 20
-Strikeout
-Team 1 pitcher (Douglas Porter): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 3
+Randy Carson: rng1 = 55 + 10 - 6 + 1 = 60
+rng2 = 87 + 10 - 7 + 1 = 91
+Flyout
+Team 1 pitcher (Tavell Nash): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 2
 
 base1: false, base2: false, base3: false
-Score: 1-2
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Reuben Sutton: rng1 = 57 + 9 - 6 + 1 = 61
+rng2 = 43 + 10 - 7 + 1 = 47
+Groundout
+Team 1 pitcher (Tavell Nash): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
 
 -----------------------
 
 TOP INNING 4
 
-Nicolas Sanchez: rng1 = 85 + 4 - 6 - 1 = 82
-rng2 = 31 + 8 - 7 - 1 = 31
-Single
-Team 2 pitcher (Finley Carr): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 0
-
-base1: [4,0], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 1-2
-
-Trent Cline: rng1 = 39 + 6 - 6 - 1 = 38
-rng2 = 37 + 6 - 7 - 1 = 35
+Trent Cline: rng1 = 55 + 6 - 6 - 1 = 54
+rng2 = 1 + 6 - 7 - 1 = -1
 Groundout
-Team 2 pitcher (Finley Carr): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 1
-
-base1: [5,0], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 1-2
-
-Devoreaux Waters: rng1 = 16 + 7 - 6 - 1 = 16
-Strikeout
-Team 2 pitcher (Finley Carr): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 2
-
-base1: [5,0], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 1-2
-
-Edward Lowe: rng1 = 47 + 5 - 6 - 1 = 45
-rng2 = 62 + 6 - 7 - 1 = 60
-Flyout
-Team 2 pitcher (Finley Carr): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 3
+Team 2 pitcher (Kyle Bennett): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 1
 
 base1: false, base2: false, base3: false
-Score: 1-2
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Devoreaux Waters: rng1 = 94 + 7 - 6 - 1 = 94
+rng2 = 97 + 5 - 7 - 1 = 94
+Home run
+Team 2 pitcher (Kyle Bennett): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Edward Lowe: rng1 = 89 + 5 - 6 - 1 = 87
+Walk
+Team 2 pitcher (Kyle Bennett): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Leroy Powell: rng1 = 57 + 4 - 6 - 1 = 54
+rng2 = 40 + 6 - 7 - 1 = 38
+Groundout
+Team 2 pitcher (Kyle Bennett): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 2
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-3
+
+Leonardo Pinto: rng1 = 85 + 9 - 6 - 1 = 87
+Walk
+Team 2 pitcher (Kyle Bennett): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 2
+
+base1: [0,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-3
+
+Robert Bailey: rng1 = 62 + 9 - 6 - 1 = 64
+rng2 = 83 + 12 - 7 - 1 = 87
+Flyout
+Team 2 pitcher (Kyle Bennett): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
 
 -----------------------
 
 BOTTOM INNING 4
 
-Reuben Sutton: rng1 = 91 + 9 - 7 + 1 = 94
-rng2 = 44 + 10 - 6 + 1 = 49
+Joseph Thayer: rng1 = 76 + 10 - 6 + 1 = 81
+rng2 = 26 + 8 - 7 + 1 = 28
 Single
-Team 1 pitcher (Douglas Porter): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 0
+Team 1 pitcher (Tavell Nash): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 0
 
-base1: [3,0], base2: false, base3: false
+base1: [4,0], base2: false, base3: false
 base1: true, base2: false, base3: false
-Score: 1-2
+Score: 3-3
 
-Joseph Thayer: rng1 = 40 + 10 - 7 + 1 = 44
-rng2 = 21 + 8 - 6 + 1 = 24
-Groundout
-Team 1 pitcher (Douglas Porter): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 1
-
-base1: false, base2: [3,0], base3: false
-base1: false, base2: true, base3: false
-Score: 1-2
-
-Caden Bryan: rng1 = 81 + 7 - 7 + 1 = 82
-rng2 = 27 + 9 - 6 + 1 = 31
-Single
-Team 1 pitcher (Douglas Porter): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 1
-
-base1: [5,0], base2: false, base3: [3,0]
-base1: true, base2: false, base3: true
-Score: 1-2
-
-Kugo Tadayuki: rng1 = 84 + 10 - 7 + 1 = 88
-Walk
-Team 1 pitcher (Douglas Porter): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 1
-
-base1: [6,0], base2: [5,0], base3: [3,0]
-base1: true, base2: true, base3: true
-Score: 1-2
-
-Marvin Calvert: rng1 = 45 + 4 - 7 + 1 = 43
-rng2 = 37 + 9 - 6 + 1 = 41
-Groundout
-Team 1 pitcher (Douglas Porter): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 2
-
-base1: [7,0], base2: [6,0], base3: [5,0]
-base1: true, base2: true, base3: true
-Score: 1-2
-
-Terry Schroeder: rng1 = 95 + 8 - 7 + 1 = 97
-rng2 = 58 + 5 - 6 + 1 = 58
-Single
-Team 1 pitcher (Douglas Porter): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 2
-
-base1: [8,0], base2: [7,0], base3: false
-base1: true, base2: true, base3: false
-Score: 1-4
-
-Randall Hodge: rng1 = 74 + 14 - 7 + 1 = 82
-rng2 = 80 + 10 - 6 + 1 = 85
+Caden Bryan: rng1 = 91 + 7 - 6 + 1 = 93
+rng2 = 96 + 9 - 7 + 1 = 99
 Home run
-Team 1 pitcher (Douglas Porter): 19 batters faced, 7 runs allowed = 19 + 17.5 = 36.5, outs: 2
+Team 1 pitcher (Tavell Nash): 15 batters faced, 5 runs allowed = 15 + 12.5 = 27.5, outs: 0
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 1-7
+Score: 3-5
 
-Team 1 pitcher change to Bravon McDaniel
+Kugo Tadayuki: rng1 = 38 + 10 - 6 + 1 = 43
+rng2 = 78 + 4 - 7 + 1 = 76
+Flyout
+Team 1 pitcher (Tavell Nash): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 1
 
-Cody McCarthy: rng1 = 45 + 12 - 11 + 1 = 47
-rng2 = 4 + 14 - 9 + 1 = 10
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Marvin Calvert: rng1 = 77 + 4 - 6 + 1 = 76
+rng2 = 72 + 9 - 7 + 1 = 75
+Double
+Team 1 pitcher (Tavell Nash): 17 batters faced, 5 runs allowed = 17 + 12.5 = 29.5, outs: 1
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-5
+
+Terry Schroeder: rng1 = 63 + 8 - 6 + 1 = 66
+rng2 = 28 + 5 - 7 + 1 = 27
 Groundout
-Team 1 pitcher (Bravon McDaniel): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+Team 1 pitcher (Tavell Nash): 18 batters faced, 5 runs allowed = 18 + 12.5 = 30.5, outs: 2
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-5
+
+Randall Hodge: rng1 = 29 + 14 - 6 + 1 = 38
+rng2 = 67 + 10 - 7 + 1 = 71
+Flyout
+Team 1 pitcher (Tavell Nash): 19 batters faced, 5 runs allowed = 19 + 12.5 = 31.5, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 1-7
+Score: 3-5
 
 -----------------------
 
 TOP INNING 5
 
-Leroy Powell: rng1 = 40 + 4 - 6 - 1 = 37
-rng2 = 53 + 6 - 7 - 1 = 51
-Lineout
-Team 2 pitcher (Finley Carr): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 1
+Team 2 pitcher change to Armando Negron
 
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 1-7
-
-Leonardo Pinto: rng1 = 52 + 9 - 6 - 1 = 54
-rng2 = 12 + 6 - 7 - 1 = 10
-Groundout
-Team 2 pitcher (Finley Carr): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 2
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 1-7
-
-Robert Bailey: rng1 = 20 + 9 - 6 - 1 = 22
+Leon Fraser: rng1 = 29 + 7 - 8 - 1 = 27
 Strikeout
-Team 2 pitcher (Finley Carr): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 3
+Team 2 pitcher (Armando Negron): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
 
 base1: false, base2: false, base3: false
-Score: 1-7
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Bradley Murphy: rng1 = 17 + 10 - 8 - 1 = 18
+Strikeout
+Team 2 pitcher (Armando Negron): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Nicolas Sanchez: rng1 = 66 + 4 - 8 - 1 = 61
+rng2 = 56 + 8 - 6 - 1 = 57
+Lineout
+Team 2 pitcher (Armando Negron): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
 
 -----------------------
 
 BOTTOM INNING 5
 
-Randy Carson: rng1 = 70 + 10 - 11 + 1 = 70
+Team 1 pitcher change to Reuben Simmons
+
+Cody McCarthy: rng1 = 94 + 12 - 11 + 1 = 96
+rng2 = 73 + 14 - 12 + 1 = 76
+Double
+Team 1 pitcher (Reuben Simmons): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [1,1], base3: false
+base1: false, base2: true, base3: false
+Score: 3-5
+
+Randy Carson: rng1 = 66 + 10 - 11 + 1 = 66
+rng2 = 62 + 10 - 12 + 1 = 61
+Flyout
+Team 1 pitcher (Reuben Simmons): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: [1,1]
+base1: false, base2: false, base3: true
+Score: 3-5
+
+Reuben Sutton: rng1 = 89 + 9 - 11 + 1 = 88
 Walk
-Team 1 pitcher (Bravon McDaniel): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+Team 1 pitcher (Reuben Simmons): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
 
-base1: [2,1], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 1-7
+base1: [3,1], base2: false, base3: [1,1]
+base1: true, base2: false, base3: true
+Score: 3-5
 
-Reuben Sutton: rng1 = 35 + 9 - 11 + 1 = 34
-rng2 = 26 + 10 - 9 + 1 = 28
-Groundout
-Team 1 pitcher (Bravon McDaniel): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+Joseph Thayer: rng1 = 93 + 10 - 11 + 1 = 93
+rng2 = 3 + 8 - 12 + 1 = 0
+Single
+Team 1 pitcher (Reuben Simmons): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
 
-base1: false, base2: [2,1], base3: false
+base1: [4,1], base2: false, base3: [3,1]
+base1: true, base2: false, base3: true
+Score: 3-6
+
+Caden Bryan: rng1 = 98 + 7 - 11 + 1 = 95
+rng2 = 50 + 9 - 12 + 1 = 48
+Single
+Team 1 pitcher (Reuben Simmons): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 1
+
+base1: [5,1], base2: [4,1], base3: false
+base1: true, base2: true, base3: false
+Score: 3-7
+
+Kugo Tadayuki: rng1 = 74 + 10 - 11 + 1 = 74
+rng2 = 93 + 4 - 12 + 1 = 86
+Double
+Team 1 pitcher (Reuben Simmons): 6 batters faced, 4 runs allowed = 6 + 10.0 = 16.0, outs: 1
+
+base1: false, base2: [6,1], base3: false
 base1: false, base2: true, base3: false
-Score: 1-7
+Score: 3-9
 
-Joseph Thayer: rng1 = 32 + 10 - 11 + 1 = 32
-rng2 = 67 + 8 - 9 + 1 = 67
-Flyout
-Team 1 pitcher (Bravon McDaniel): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+Team 1 pitcher change to Bravon McDaniel
 
-base1: false, base2: [2,1], base3: false
+Marvin Calvert: rng1 = 4 + 4 - 11 + 1 = -2
+Strikeout
+Team 1 pitcher (Bravon McDaniel): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: false, base2: [6,1], base3: false
 base1: false, base2: true, base3: false
-Score: 1-7
+Score: 3-9
 
-Caden Bryan: rng1 = 39 + 7 - 11 + 1 = 36
-rng2 = 85 + 9 - 9 + 1 = 86
+Terry Schroeder: rng1 = 62 + 8 - 11 + 1 = 60
+rng2 = 80 + 5 - 9 + 1 = 77
 Flyout
-Team 1 pitcher (Bravon McDaniel): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+Team 1 pitcher (Bravon McDaniel): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 1-7
+Score: 3-9
 
 -----------------------
 
 TOP INNING 6
 
-Leon Fraser: rng1 = 30 + 7 - 6 - 1 = 30
-rng2 = 18 + 6 - 7 - 1 = 16
+Trent Cline: rng1 = 39 + 6 - 8 - 1 = 36
+rng2 = 35 + 6 - 6 - 1 = 34
 Groundout
-Team 2 pitcher (Finley Carr): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 1
+Team 2 pitcher (Armando Negron): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 1-7
+Score: 3-9
 
-Bradley Murphy: rng1 = 28 + 10 - 6 - 1 = 31
-rng2 = 63 + 12 - 7 - 1 = 67
+Devoreaux Waters: rng1 = 60 + 7 - 8 - 1 = 58
+rng2 = 59 + 5 - 6 - 1 = 57
+Lineout
+Team 2 pitcher (Armando Negron): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-9
+
+Edward Lowe: rng1 = 55 + 5 - 8 - 1 = 51
+rng2 = 97 + 6 - 6 - 1 = 96
 Flyout
-Team 2 pitcher (Finley Carr): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 2
+Team 2 pitcher (Armando Negron): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
 
 base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 1-7
-
-Nicolas Sanchez: rng1 = 49 + 4 - 6 - 1 = 46
-rng2 = 78 + 8 - 7 - 1 = 78
-Flyout
-Team 2 pitcher (Finley Carr): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 3
-
-base1: false, base2: false, base3: false
-Score: 1-7
+Score: 3-9
 
 -----------------------
 
 BOTTOM INNING 6
 
-Team 1 pitcher change to Keegan Schiel
+Randall Hodge: rng1 = 34 + 14 - 11 + 1 = 38
+rng2 = 13 + 10 - 9 + 1 = 15
+Groundout
+Team 1 pitcher (Bravon McDaniel): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
 
-Kugo Tadayuki: rng1 = 18 + 10 - 6 + 1 = 23
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-9
+
+Cody McCarthy: rng1 = 16 + 12 - 11 + 1 = 18
 Strikeout
-Team 1 pitcher (Keegan Schiel): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+Team 1 pitcher (Bravon McDaniel): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 1-7
+Score: 3-9
 
-Marvin Calvert: rng1 = 64 + 4 - 6 + 1 = 63
-rng2 = 32 + 9 - 7 + 1 = 35
-Groundout
-Team 1 pitcher (Keegan Schiel): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 1-7
-
-Terry Schroeder: rng1 = 12 + 8 - 6 + 1 = 15
-rng2 = 39 + 5 - 7 + 1 = 38
-Groundout
-Team 1 pitcher (Keegan Schiel): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+Randy Carson: rng1 = 52 + 10 - 11 + 1 = 52
+rng2 = 49 + 10 - 9 + 1 = 51
+Lineout
+Team 1 pitcher (Bravon McDaniel): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 1-7
+Score: 3-9
 
 -----------------------
 
 TOP INNING 7
 
-Trent Cline: rng1 = 10 + 6 - 6 - 1 = 9
-Strikeout
-Team 2 pitcher (Finley Carr): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 1
+Team 2 pitcher change to Luciano Garrido
+
+Leroy Powell: rng1 = 43 + 4 - 7 - 1 = 39
+rng2 = 64 + 6 - 6 - 1 = 63
+Flyout
+Team 2 pitcher (Luciano Garrido): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 1-7
+Score: 3-9
 
-Devoreaux Waters: rng1 = 12 + 7 - 6 - 1 = 12
-rng2 = 10 + 5 - 7 - 1 = 7
+Leonardo Pinto: rng1 = 62 + 9 - 7 - 1 = 63
+rng2 = 69 + 6 - 6 - 1 = 68
+Flyout
+Team 2 pitcher (Luciano Garrido): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-9
+
+Robert Bailey: rng1 = 65 + 9 - 7 - 1 = 66
+rng2 = 2 + 12 - 6 - 1 = 7
 Groundout
-Team 2 pitcher (Finley Carr): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 2
+Team 2 pitcher (Luciano Garrido): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
 
 base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 1-7
-
-Edward Lowe: rng1 = 23 + 5 - 6 - 1 = 21
-Strikeout
-Team 2 pitcher (Finley Carr): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 3
-
-base1: false, base2: false, base3: false
-Score: 1-7
+Score: 3-9
 
 -----------------------
 
 BOTTOM INNING 7
 
-Randall Hodge: rng1 = 20 + 14 - 6 + 1 = 29
-rng2 = 82 + 10 - 7 + 1 = 86
-Flyout
-Team 1 pitcher (Keegan Schiel): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+Reuben Sutton: rng1 = 63 + 9 - 11 + 1 = 62
+rng2 = 37 + 10 - 9 + 1 = 39
+Groundout
+Team 1 pitcher (Bravon McDaniel): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 1-7
+Score: 3-9
 
-Cody McCarthy: rng1 = 80 + 12 - 6 + 1 = 87
+Joseph Thayer: rng1 = 87 + 10 - 11 + 1 = 87
 Walk
-Team 1 pitcher (Keegan Schiel): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+Team 1 pitcher (Bravon McDaniel): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
 
-base1: [1,2], base2: false, base3: false
+base1: [4,2], base2: false, base3: false
 base1: true, base2: false, base3: false
-Score: 1-7
+Score: 3-9
 
-Randy Carson: rng1 = 38 + 10 - 6 + 1 = 43
-rng2 = 75 + 10 - 7 + 1 = 79
-Flyout
-Team 1 pitcher (Keegan Schiel): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+Caden Bryan: rng1 = 4 + 7 - 11 + 1 = 1
+Strikeout
+Team 1 pitcher (Bravon McDaniel): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
 
-base1: [1,2], base2: false, base3: false
+base1: [4,2], base2: false, base3: false
 base1: true, base2: false, base3: false
-Score: 1-7
+Score: 3-9
 
-Reuben Sutton: rng1 = 30 + 9 - 6 + 1 = 34
-rng2 = 100 + 10 - 7 + 1 = 104
-Flyout
-Team 1 pitcher (Keegan Schiel): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+Kugo Tadayuki: rng1 = 16 + 10 - 11 + 1 = 16
+Strikeout
+Team 1 pitcher (Bravon McDaniel): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 1-7
+Score: 3-9
 
 -----------------------
 
 TOP INNING 8
 
-Team 2 pitcher change to Jesus Perez
-
-Leroy Powell: rng1 = 22 + 4 - 6 - 1 = 19
-Strikeout
-Team 2 pitcher (Jesus Perez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 1-7
-
-Leonardo Pinto: rng1 = 64 + 9 - 6 - 1 = 66
-rng2 = 31 + 6 - 8 - 1 = 28
-Groundout
-Team 2 pitcher (Jesus Perez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+Leon Fraser: rng1 = 58 + 7 - 7 - 1 = 57
+rng2 = 97 + 6 - 6 - 1 = 96
+Flyout
+Team 2 pitcher (Luciano Garrido): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 1-7
+Score: 3-9
 
-Robert Bailey: rng1 = 5 + 9 - 6 - 1 = 7
-Strikeout
-Team 2 pitcher (Jesus Perez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+Bradley Murphy: rng1 = 30 + 10 - 7 - 1 = 32
+rng2 = 56 + 12 - 6 - 1 = 61
+Flyout
+Team 2 pitcher (Luciano Garrido): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
 
 base1: false, base2: false, base3: false
-Score: 1-7
+base1: false, base2: false, base3: false
+Score: 3-9
+
+Nicolas Sanchez: rng1 = 99 + 4 - 7 - 1 = 95
+rng2 = 91 + 8 - 6 - 1 = 92
+Double
+Team 2 pitcher (Luciano Garrido): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: [4,2], base3: false
+base1: false, base2: true, base3: false
+Score: 3-9
+
+Trent Cline: rng1 = 31 + 6 - 7 - 1 = 29
+rng2 = 81 + 6 - 6 - 1 = 80
+Flyout
+Team 2 pitcher (Luciano Garrido): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-9
 
 -----------------------
 
 BOTTOM INNING 8
 
-Team 1 pitcher change to Reuben Simmons
+Team 1 pitcher change to Keegan Schiel
 
-Joseph Thayer: rng1 = 29 + 10 - 11 + 1 = 29
-rng2 = 23 + 8 - 12 + 1 = 20
-Groundout
-Team 1 pitcher (Reuben Simmons): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+Marvin Calvert: rng1 = 71 + 4 - 6 + 1 = 70
+Walk
+Team 1 pitcher (Keegan Schiel): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
 
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 1-7
-
-Caden Bryan: rng1 = 29 + 7 - 11 + 1 = 26
-Strikeout
-Team 1 pitcher (Reuben Simmons): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 1-7
-
-Kugo Tadayuki: rng1 = 72 + 10 - 11 + 1 = 72
-rng2 = 61 + 4 - 12 + 1 = 54
-Single
-Team 1 pitcher (Reuben Simmons): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
-
-base1: [6,3], base2: false, base3: false
+base1: [7,3], base2: false, base3: false
 base1: true, base2: false, base3: false
-Score: 1-7
+Score: 3-9
 
-Marvin Calvert: rng1 = 35 + 4 - 11 + 1 = 29
-rng2 = 33 + 9 - 12 + 1 = 31
+Terry Schroeder: rng1 = 13 + 8 - 6 + 1 = 16
+Strikeout
+Team 1 pitcher (Keegan Schiel): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [7,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-9
+
+Randall Hodge: rng1 = 24 + 14 - 6 + 1 = 33
+rng2 = 37 + 10 - 7 + 1 = 41
 Groundout
-Team 1 pitcher (Reuben Simmons): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+Team 1 pitcher (Keegan Schiel): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 1-7
+Score: 3-9
 
 -----------------------
 
 TOP INNING 9
 
-Leon Fraser: rng1 = 5 + 7 - 6 - 1 = 5
+Team 2 pitcher change to Jesus Perez
+
+Devoreaux Waters: rng1 = 34 + 7 - 6 - 1 = 34
+rng2 = 69 + 5 - 8 - 1 = 65
+Flyout
+Team 2 pitcher (Jesus Perez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-9
+
+Edward Lowe: rng1 = 56 + 5 - 6 - 1 = 54
+rng2 = 54 + 6 - 8 - 1 = 51
+Lineout
+Team 2 pitcher (Jesus Perez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-9
+
+Leroy Powell: rng1 = 12 + 4 - 6 - 1 = 9
 Strikeout
-Team 2 pitcher (Jesus Perez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+Team 2 pitcher (Jesus Perez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
 
 base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 1-7
-
-Bradley Murphy: rng1 = 30 + 10 - 6 - 1 = 33
-rng2 = 26 + 12 - 8 - 1 = 29
-Groundout
-Team 2 pitcher (Jesus Perez): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 1-7
-
-Nicolas Sanchez: rng1 = 7 + 4 - 6 - 1 = 4
-Strikeout
-Team 2 pitcher (Jesus Perez): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
-
-base1: false, base2: false, base3: false
-Score: 1-7
+Score: 3-9
 
 -----------------------
 
 Innings: 9
-Team 1 hits: 5
-Team 2 hits: 8
-Team 1 runs: 1
-Team 2 runs: 7
+Team 1 hits: 6
+Team 2 hits: 11
+Team 1 runs: 3
+Team 2 runs: 9
 
 Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-04-21
-Leonardo Pinto	4	0	1	0	0	0	0	0	0					Chicago
-Robert Bailey	4	0	0	0	0	0	0	0	3	
-Leon Fraser	4	0	0	0	0	0	0	0	2	
-Bradley Murphy	4	0	0	0	0	0	0	0	1	
-Nicolas Sanchez	4	1	2	0	0	1	1	0	1	
-Trent Cline	3	0	1	0	0	0	0	0	1	
-Devoreaux Waters	3	0	0	0	0	0	0	0	2	
-Edward Lowe	3	0	1	0	0	0	0	0	1	
-Leroy Powell	3	0	0	0	0	0	0	0	1	
+Leonardo Pinto	3	0	0	0	0	0	0	1	1					Chicago
+Robert Bailey	4	0	0	0	0	0	0	0	1	
+Leon Fraser	4	1	1	1	0	0	0	0	1	
+Bradley Murphy	4	1	2	0	0	1	2	0	1	
+Nicolas Sanchez	4	0	1	1	0	0	0	0	2	
+Trent Cline	4	0	0	0	0	0	0	0	0	
+Devoreaux Waters	4	1	1	0	0	1	1	0	1	
+Edward Lowe	3	0	1	0	0	0	0	1	0	
+Leroy Powell	3	0	0	0	0	0	0	1	1	
 
 Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
-Douglas Porter	0	1	1	1	0	0	11	7	7	1	1	4	19	
-Bravon McDaniel	0	0	1	0	0	0	4	0	0	0	1	0	5	
-Keegan Schiel	0	0	1	0	0	0	6	0	0	0	1	1	7	
-Reuben Simmons	0	0	1	0	0	0	3	1	0	0	0	1	4	
+Tavell Nash	0	1	1	1	0	0	12	7	5	3	0	2	19	
+Reuben Simmons	0	0	1	0	0	0	1	4	4	0	1	0	6	
+Bravon McDaniel	0	0	1	0	0	0	8	0	0	0	1	4	9	
+Keegan Schiel	0	0	1	0	0	0	3	0	0	0	1	1	3	
 Charlie Jordan	0	0	0	0	0	0	0	0	0	0	0	0	0	
 
 Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-04-21
-Randall Hodge	4	1	2	0	0	1	4	0	0					Detroit
-Cody McCarthy	3	0	0	0	0	0	0	1	0	
-Randy Carson	3	0	0	0	0	0	0	1	1	
-Reuben Sutton	4	0	1	0	0	0	0	0	1	
-Joseph Thayer	4	0	0	0	0	0	0	0	1	
-Caden Bryan	4	1	1	0	0	0	0	0	1	
-Kugo Tadayuki	3	1	1	0	0	0	0	1	2	
-Marvin Calvert	4	2	1	0	0	0	0	0	0	
-Terry Schroeder	3	2	2	0	1	0	3	0	0	
+Randall Hodge	5	1	1	1	0	0	0	0	0					Detroit
+Cody McCarthy	4	2	2	1	0	1	2	0	1	
+Randy Carson	4	0	1	1	0	0	0	0	0	
+Reuben Sutton	3	1	0	0	0	0	0	1	0	
+Joseph Thayer	3	2	2	0	0	0	1	1	1	
+Caden Bryan	4	2	2	0	0	1	3	0	1	
+Kugo Tadayuki	4	0	1	1	0	0	2	0	1	
+Marvin Calvert	3	1	2	1	0	1	1	1	1	
+Terry Schroeder	4	0	0	0	0	0	0	0	2	
 
 Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
-Finley Carr	1	0	1	1	0	0	21	5	1	1	0	8	26	
-Jesus Perez	0	0	1	0	0	0	6	0	0	0	0	4	6	
-Armando Negron	0	0	0	0	0	0	0	0	0	0	0	0	0	
-Luciano Garrido	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Kyle Bennett	1	0	1	1	0	0	12	5	3	2	3	5	20	
+Armando Negron	0	0	1	0	0	0	6	0	0	0	0	2	6	
+Luciano Garrido	0	0	1	0	0	0	6	1	0	0	0	0	7	
+Jesus Perez	0	0	1	0	0	0	3	0	0	0	0	1	3	
 Brentley Dickson	0	0	0	0	0	0	0	0	0	0	0	0	0	

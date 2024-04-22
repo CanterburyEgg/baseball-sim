@@ -1,522 +1,548 @@
 TOP INNING 1
 
-Leonardo Vera: rng1 = 15 + 14 - 15 - 1 = 13
-rng2 = 7 + 13 - 14 - 1 = 5
-Groundout
-Team 2 pitcher (Martin Gutiérrez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 0-0
-
-Drake LaStelle: rng1 = 25 + 14 - 15 - 1 = 23
+Leonardo Vera: rng1 = 15 + 14 - 10 - 1 = 18
 Strikeout
-Team 2 pitcher (Martin Gutiérrez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+Team 2 pitcher (Gustavo Soto): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
 Score: 0-0
 
-Alfie Young: rng1 = 86 + 13 - 15 - 1 = 83
-rng2 = 2 + 9 - 14 - 1 = -4
+Drake LaStelle: rng1 = 88 + 14 - 10 - 1 = 91
+rng2 = 100 + 12 - 7 - 1 = 104
+Home run
+Team 2 pitcher (Gustavo Soto): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Alfie Young: rng1 = 89 + 13 - 10 - 1 = 91
+rng2 = 5 + 9 - 7 - 1 = 6
 Single
-Team 2 pitcher (Martin Gutiérrez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+Team 2 pitcher (Gustavo Soto): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
 
 base1: [2,0], base2: false, base3: false
 base1: true, base2: false, base3: false
-Score: 0-0
+Score: 1-0
 
-Billy Campbell: rng1 = 94 + 8 - 15 - 1 = 86
-Hit by pitch
-Team 2 pitcher (Martin Gutiérrez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+Billy Campbell: rng1 = 9 + 8 - 10 - 1 = 6
+Strikeout
+Team 2 pitcher (Gustavo Soto): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
 
-base1: [3,0], base2: [2,0], base3: false
-base1: true, base2: true, base3: false
-Score: 0-0
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
 
-Charlie May: rng1 = 51 + 10 - 15 - 1 = 45
-rng2 = 6 + 11 - 14 - 1 = 2
-Groundout
-Team 2 pitcher (Martin Gutiérrez): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+Charlie May: rng1 = 47 + 10 - 10 - 1 = 46
+rng2 = 66 + 11 - 7 - 1 = 69
+Flyout
+Team 2 pitcher (Gustavo Soto): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 0-0
+Score: 1-0
 
 -----------------------
 
 BOTTOM INNING 1
 
-Phoenix Moore: rng1 = 60 + 15 - 11 + 1 = 65
-rng2 = 25 + 13 - 10 + 1 = 29
+Phoenix Moore: rng1 = 25 + 15 - 9 + 1 = 32
+rng2 = 31 + 13 - 11 + 1 = 34
 Groundout
-Team 1 pitcher (Austin Clarke): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+Team 1 pitcher (Jude Campbell): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 0-0
+Score: 1-0
 
-Ashton Martin: rng1 = 76 + 13 - 11 + 1 = 79
-rng2 = 89 + 14 - 10 + 1 = 94
-Home run
-Team 1 pitcher (Austin Clarke): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+Ashton Martin: rng1 = 89 + 13 - 9 + 1 = 94
+rng2 = 22 + 14 - 11 + 1 = 26
+Single
+Team 1 pitcher (Jude Campbell): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
 
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 0-1
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
 
-Mason Foster: rng1 = 48 + 12 - 11 + 1 = 50
-rng2 = 53 + 11 - 10 + 1 = 55
-Lineout
-Team 1 pitcher (Austin Clarke): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 0-1
-
-Caden Beckett: rng1 = 15 + 11 - 11 + 1 = 16
+Mason Foster: rng1 = 6 + 12 - 9 + 1 = 10
 Strikeout
-Team 1 pitcher (Austin Clarke): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+Team 1 pitcher (Jude Campbell): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Caden Beckett: rng1 = 76 + 11 - 9 + 1 = 79
+rng2 = 54 + 11 - 11 + 1 = 55
+Single
+Team 1 pitcher (Jude Campbell): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [3,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Quinell McDaniel: rng1 = 58 + 9 - 9 + 1 = 59
+rng2 = 13 + 8 - 11 + 1 = 11
+Groundout
+Team 1 pitcher (Jude Campbell): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 0-1
+Score: 1-0
 
 -----------------------
 
 TOP INNING 2
 
-Matías Martinez: rng1 = 34 + 10 - 15 - 1 = 28
-Strikeout
-Team 2 pitcher (Martin Gutiérrez): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+Matías Martinez: rng1 = 12 + 10 - 10 - 1 = 11
+rng2 = 55 + 10 - 7 - 1 = 57
+Lineout
+Team 2 pitcher (Gustavo Soto): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 0-1
+Score: 1-0
 
-Jamie Reid: rng1 = 92 + 8 - 15 - 1 = 84
-rng2 = 91 + 10 - 14 - 1 = 86
-Double
-Team 2 pitcher (Martin Gutiérrez): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
-
-base1: false, base2: [6,0], base3: false
-base1: false, base2: true, base3: false
-Score: 0-1
-
-Benito Maroto: rng1 = 19 + 6 - 15 - 1 = 9
-Strikeout
-Team 2 pitcher (Martin Gutiérrez): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
-
-base1: false, base2: [6,0], base3: false
-base1: false, base2: true, base3: false
-Score: 0-1
-
-Pascual Gilbert: rng1 = 52 + 9 - 15 - 1 = 45
-rng2 = 44 + 5 - 14 - 1 = 34
-Groundout
-Team 2 pitcher (Martin Gutiérrez): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+Jamie Reid: rng1 = 66 + 8 - 10 - 1 = 63
+rng2 = 79 + 10 - 7 - 1 = 81
+Flyout
+Team 2 pitcher (Gustavo Soto): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
 
 base1: false, base2: false, base3: false
-Score: 0-1
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Benito Maroto: rng1 = 46 + 6 - 10 - 1 = 41
+rng2 = 89 + 8 - 7 - 1 = 89
+Flyout
+Team 2 pitcher (Gustavo Soto): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
 
 -----------------------
 
 BOTTOM INNING 2
 
-Quinell McDaniel: rng1 = 96 + 9 - 11 + 1 = 95
-rng2 = 66 + 8 - 10 + 1 = 65
-Single
-Team 1 pitcher (Austin Clarke): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 0
-
-base1: [4,0], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 0-1
-
-Felipe Grimes: rng1 = 91 + 6 - 11 + 1 = 87
+Felipe Grimes: rng1 = 91 + 6 - 9 + 1 = 89
 Walk
-Team 1 pitcher (Austin Clarke): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 0
+Team 1 pitcher (Jude Campbell): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 0
 
-base1: [5,0], base2: [4,0], base3: false
-base1: true, base2: true, base3: false
-Score: 0-1
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
 
-Ethan Clarke: rng1 = 81 + 3 - 11 + 1 = 74
-rng2 = 19 + 8 - 10 + 1 = 18
+Ethan Clarke: rng1 = 87 + 3 - 9 + 1 = 82
+rng2 = 38 + 8 - 11 + 1 = 36
 Single
-Team 1 pitcher (Austin Clarke): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 0
+Team 1 pitcher (Jude Campbell): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 0
 
-base1: [6,0], base2: false, base3: [5,0]
-base1: true, base2: false, base3: true
-Score: 0-2
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
 
-Stanley Soto: rng1 = 40 + 7 - 11 + 1 = 37
-rng2 = 100 + 4 - 10 + 1 = 95
+Stanley Soto: rng1 = 44 + 7 - 9 + 1 = 43
+rng2 = 11 + 4 - 11 + 1 = 5
+Groundout
+Team 1 pitcher (Jude Campbell): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: false, base2: false, base3: [5,0]
+base1: false, base2: false, base3: true
+Score: 1-0
+
+Reese Ross: rng1 = 47 + 3 - 9 + 1 = 42
+rng2 = 74 + 7 - 11 + 1 = 71
 Flyout
-Team 1 pitcher (Austin Clarke): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 1
-
-base1: [6,0], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 0-3
-
-Reese Ross: rng1 = 31 + 3 - 11 + 1 = 24
-Strikeout
-Team 1 pitcher (Austin Clarke): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 2
-
-base1: [6,0], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 0-3
-
-Phoenix Moore: rng1 = 33 + 15 - 11 + 1 = 38
-rng2 = 84 + 13 - 10 + 1 = 88
-Flyout
-Team 1 pitcher (Austin Clarke): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 3
+Team 1 pitcher (Jude Campbell): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 0-3
+Score: 1-0
 
 -----------------------
 
 TOP INNING 3
 
-Leonardo Vera: rng1 = 65 + 14 - 15 - 1 = 63
-rng2 = 77 + 13 - 14 - 1 = 75
-Flyout
-Team 2 pitcher (Martin Gutiérrez): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+Pascual Gilbert: rng1 = 72 + 9 - 10 - 1 = 70
+Walk
+Team 2 pitcher (Gustavo Soto): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 0
 
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 0-3
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
 
-Drake LaStelle: rng1 = 55 + 14 - 15 - 1 = 53
-rng2 = 35 + 12 - 14 - 1 = 32
+Leonardo Vera: rng1 = 2 + 14 - 10 - 1 = 5
+Strikeout
+Team 2 pitcher (Gustavo Soto): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Drake LaStelle: rng1 = 56 + 14 - 10 - 1 = 59
+rng2 = 29 + 12 - 7 - 1 = 33
 Groundout
-Team 2 pitcher (Martin Gutiérrez): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 2
+Team 2 pitcher (Gustavo Soto): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
 
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 0-3
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
 
-Alfie Young: rng1 = 34 + 13 - 15 - 1 = 31
-rng2 = 69 + 9 - 14 - 1 = 63
+Alfie Young: rng1 = 38 + 13 - 10 - 1 = 40
+rng2 = 97 + 9 - 7 - 1 = 98
 Flyout
-Team 2 pitcher (Martin Gutiérrez): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 3
+Team 2 pitcher (Gustavo Soto): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 0-3
+Score: 1-0
 
 -----------------------
 
 BOTTOM INNING 3
 
-Ashton Martin: rng1 = 63 + 13 - 11 + 1 = 66
-rng2 = 9 + 14 - 10 + 1 = 14
-Groundout
-Team 1 pitcher (Austin Clarke): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 1
+Phoenix Moore: rng1 = 77 + 15 - 9 + 1 = 84
+rng2 = 55 + 13 - 11 + 1 = 58
+Single
+Team 1 pitcher (Jude Campbell): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 0
 
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 0-3
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
 
-Mason Foster: rng1 = 4 + 12 - 11 + 1 = 6
-Strikeout
-Team 1 pitcher (Austin Clarke): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 2
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 0-3
-
-Caden Beckett: rng1 = 84 + 11 - 11 + 1 = 85
-rng2 = 66 + 11 - 10 + 1 = 68
+Ashton Martin: rng1 = 80 + 13 - 9 + 1 = 85
+rng2 = 85 + 14 - 11 + 1 = 89
 Double
-Team 1 pitcher (Austin Clarke): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 2
+Team 1 pitcher (Jude Campbell): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 0
 
-base1: false, base2: [3,0], base3: false
+base1: false, base2: [1,0], base3: false
 base1: false, base2: true, base3: false
-Score: 0-3
+Score: 1-1
 
-Quinell McDaniel: rng1 = 68 + 9 - 11 + 1 = 67
-rng2 = 69 + 8 - 10 + 1 = 68
-Flyout
-Team 1 pitcher (Austin Clarke): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 3
+Mason Foster: rng1 = 12 + 12 - 9 + 1 = 16
+Strikeout
+Team 1 pitcher (Jude Campbell): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Caden Beckett: rng1 = 73 + 11 - 9 + 1 = 76
+rng2 = 20 + 11 - 11 + 1 = 21
+Single
+Team 1 pitcher (Jude Campbell): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Quinell McDaniel: rng1 = 69 + 9 - 9 + 1 = 70
+Walk
+Team 1 pitcher (Jude Campbell): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 1
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-2
+
+Felipe Grimes: rng1 = 4 + 6 - 9 + 1 = 2
+Strikeout
+Team 1 pitcher (Jude Campbell): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 2
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-2
+
+Ethan Clarke: rng1 = 32 + 3 - 9 + 1 = 27
+Strikeout
+Team 1 pitcher (Jude Campbell): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 0-3
+Score: 1-2
 
 -----------------------
 
 TOP INNING 4
 
-Billy Campbell: rng1 = 89 + 8 - 15 - 1 = 81
-rng2 = 90 + 11 - 14 - 1 = 86
-Double
-Team 2 pitcher (Martin Gutiérrez): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 0
+Billy Campbell: rng1 = 93 + 8 - 10 - 1 = 90
+Walk
+Team 2 pitcher (Gustavo Soto): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 0
 
-base1: false, base2: [3,0], base3: false
-base1: false, base2: true, base3: false
-Score: 0-3
-
-Charlie May: rng1 = 78 + 10 - 15 - 1 = 72
-rng2 = 16 + 11 - 14 - 1 = 12
-Single
-Team 2 pitcher (Martin Gutiérrez): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 0
-
-base1: [4,0], base2: false, base3: false
+base1: [3,0], base2: false, base3: false
 base1: true, base2: false, base3: false
-Score: 1-3
+Score: 1-2
 
-Matías Martinez: rng1 = 93 + 10 - 15 - 1 = 87
-Walk
-Team 2 pitcher (Martin Gutiérrez): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 0
+Charlie May: rng1 = 15 + 10 - 10 - 1 = 14
+rng2 = 45 + 11 - 7 - 1 = 48
+Lineout
+Team 2 pitcher (Gustavo Soto): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 1
 
-base1: [5,0], base2: [4,0], base3: false
-base1: true, base2: true, base3: false
-Score: 1-3
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
 
-Jamie Reid: rng1 = 97 + 8 - 15 - 1 = 89
-Walk
-Team 2 pitcher (Martin Gutiérrez): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 0
-
-base1: [6,0], base2: [5,0], base3: [4,0]
-base1: true, base2: true, base3: true
-Score: 1-3
-
-Benito Maroto: rng1 = 91 + 6 - 15 - 1 = 81
-rng2 = 5 + 8 - 14 - 1 = -2
+Matías Martinez: rng1 = 76 + 10 - 10 - 1 = 75
+rng2 = 4 + 10 - 7 - 1 = 6
 Single
-Team 2 pitcher (Martin Gutiérrez): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 0
+Team 2 pitcher (Gustavo Soto): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 1
 
-base1: [7,0], base2: [6,0], base3: [5,0]
-base1: true, base2: true, base3: true
-Score: 2-3
-
-Pascual Gilbert: rng1 = 80 + 9 - 15 - 1 = 73
-rng2 = 14 + 5 - 14 - 1 = 4
-Single
-Team 2 pitcher (Martin Gutiérrez): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 0
-
-base1: [8,0], base2: [7,0], base3: false
-base1: true, base2: true, base3: false
-Score: 4-3
-
-Leonardo Vera: rng1 = 16 + 14 - 15 - 1 = 14
-rng2 = 83 + 13 - 14 - 1 = 81
-Flyout
-Team 2 pitcher (Martin Gutiérrez): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 1
-
-base1: [8,0], base2: false, base3: [7,0]
+base1: [5,0], base2: false, base3: [3,0]
 base1: true, base2: false, base3: true
-Score: 4-3
+Score: 1-2
 
-Drake LaStelle: rng1 = 50 + 14 - 15 - 1 = 48
-rng2 = 66 + 12 - 14 - 1 = 63
-Flyout
-Team 2 pitcher (Martin Gutiérrez): 20 batters faced, 5 runs allowed = 20 + 12.5 = 32.5, outs: 2
-
-base1: [8,0], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 5-3
-
-Alfie Young: rng1 = 8 + 13 - 15 - 1 = 5
+Jamie Reid: rng1 = 20 + 8 - 10 - 1 = 17
 Strikeout
-Team 2 pitcher (Martin Gutiérrez): 21 batters faced, 5 runs allowed = 21 + 12.5 = 33.5, outs: 3
+Team 2 pitcher (Gustavo Soto): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 2
+
+base1: [5,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 1-2
+
+Benito Maroto: rng1 = 28 + 6 - 10 - 1 = 23
+Strikeout
+Team 2 pitcher (Gustavo Soto): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 5-3
+Score: 1-2
 
 -----------------------
 
 BOTTOM INNING 4
 
-Felipe Grimes: rng1 = 76 + 6 - 11 + 1 = 72
-rng2 = 10 + 9 - 10 + 1 = 10
-Single
-Team 1 pitcher (Austin Clarke): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 0
+Stanley Soto: rng1 = 6 + 7 - 9 + 1 = 5
+Strikeout
+Team 1 pitcher (Jude Campbell): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 1
 
-base1: [5,0], base2: false, base3: false
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Reese Ross: rng1 = 66 + 3 - 9 + 1 = 61
+rng2 = 48 + 7 - 11 + 1 = 45
+Groundout
+Team 1 pitcher (Jude Campbell): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Phoenix Moore: rng1 = 63 + 15 - 9 + 1 = 70
+Walk
+Team 1 pitcher (Jude Campbell): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
 base1: true, base2: false, base3: false
-Score: 5-3
+Score: 1-2
 
-Ethan Clarke: rng1 = 43 + 3 - 11 + 1 = 36
-rng2 = 25 + 8 - 10 + 1 = 24
-Groundout
-Team 1 pitcher (Austin Clarke): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 1
-
-base1: false, base2: [5,0], base3: false
-base1: false, base2: true, base3: false
-Score: 5-3
-
-Stanley Soto: rng1 = 32 + 7 - 11 + 1 = 29
-rng2 = 70 + 4 - 10 + 1 = 65
-Flyout
-Team 1 pitcher (Austin Clarke): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 2
-
-base1: false, base2: false, base3: [5,0]
-base1: false, base2: false, base3: true
-Score: 5-3
-
-Reese Ross: rng1 = 92 + 3 - 11 + 1 = 85
-rng2 = 96 + 7 - 10 + 1 = 94
-Home run
-Team 1 pitcher (Austin Clarke): 18 batters faced, 5 runs allowed = 18 + 12.5 = 30.5, outs: 2
+Ashton Martin: rng1 = 14 + 13 - 9 + 1 = 19
+Strikeout
+Team 1 pitcher (Jude Campbell): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 3
 
 base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 5-5
-
-Phoenix Moore: rng1 = 37 + 15 - 11 + 1 = 42
-rng2 = 15 + 13 - 10 + 1 = 19
-Groundout
-Team 1 pitcher (Austin Clarke): 19 batters faced, 5 runs allowed = 19 + 12.5 = 31.5, outs: 3
-
-base1: false, base2: false, base3: false
-Score: 5-5
+Score: 1-2
 
 -----------------------
 
 TOP INNING 5
 
-Team 2 pitcher change to Jason Francisco
+Pascual Gilbert: rng1 = 97 + 9 - 10 - 1 = 95
+rng2 = 49 + 5 - 7 - 1 = 46
+Single
+Team 2 pitcher (Gustavo Soto): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 0
 
-Billy Campbell: rng1 = 16 + 8 - 10 - 1 = 13
-rng2 = 74 + 11 - 9 - 1 = 75
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Leonardo Vera: rng1 = 64 + 14 - 10 - 1 = 67
+rng2 = 65 + 13 - 7 - 1 = 70
 Flyout
-Team 2 pitcher (Jason Francisco): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+Team 2 pitcher (Gustavo Soto): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 1
 
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 5-5
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
 
-Charlie May: rng1 = 9 + 10 - 10 - 1 = 8
-Strikeout
-Team 2 pitcher (Jason Francisco): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 5-5
-
-Matías Martinez: rng1 = 30 + 10 - 10 - 1 = 29
-rng2 = 96 + 10 - 9 - 1 = 96
+Drake LaStelle: rng1 = 44 + 14 - 10 - 1 = 47
+rng2 = 89 + 12 - 7 - 1 = 93
 Flyout
-Team 2 pitcher (Jason Francisco): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+Team 2 pitcher (Gustavo Soto): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Alfie Young: rng1 = 46 + 13 - 10 - 1 = 48
+rng2 = 61 + 9 - 7 - 1 = 62
+Flyout
+Team 2 pitcher (Gustavo Soto): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 5-5
+Score: 1-2
 
 -----------------------
 
 BOTTOM INNING 5
 
-Team 1 pitcher change to Colton Hendrix
-
-Ashton Martin: rng1 = 61 + 13 - 9 + 1 = 66
-rng2 = 2 + 14 - 9 + 1 = 8
-Groundout
-Team 1 pitcher (Colton Hendrix): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+Mason Foster: rng1 = 13 + 12 - 9 + 1 = 17
+Strikeout
+Team 1 pitcher (Jude Campbell): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 5-5
+Score: 1-2
 
-Mason Foster: rng1 = 94 + 12 - 9 + 1 = 98
-rng2 = 15 + 11 - 9 + 1 = 18
+Caden Beckett: rng1 = 74 + 11 - 9 + 1 = 77
+rng2 = 24 + 11 - 11 + 1 = 25
 Single
-Team 1 pitcher (Colton Hendrix): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+Team 1 pitcher (Jude Campbell): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 1
 
-base1: [2,1], base2: false, base3: false
+base1: [3,0], base2: false, base3: false
 base1: true, base2: false, base3: false
-Score: 5-5
+Score: 1-2
 
-Caden Beckett: rng1 = 11 + 11 - 9 + 1 = 14
-rng2 = 29 + 11 - 9 + 1 = 32
+Quinell McDaniel: rng1 = 42 + 9 - 9 + 1 = 43
+rng2 = 6 + 8 - 11 + 1 = 4
 Groundout
-Team 1 pitcher (Colton Hendrix): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+Team 1 pitcher (Jude Campbell): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 2
 
-base1: false, base2: [2,1], base3: false
-base1: false, base2: true, base3: false
-Score: 5-5
-
-Quinell McDaniel: rng1 = 74 + 9 - 9 + 1 = 75
-rng2 = 11 + 8 - 9 + 1 = 11
-Single
-Team 1 pitcher (Colton Hendrix): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
-
-base1: [4,1], base2: false, base3: false
+base1: [4,0], base2: false, base3: false
 base1: true, base2: false, base3: false
-Score: 5-6
+Score: 1-2
 
-Felipe Grimes: rng1 = 77 + 6 - 9 + 1 = 75
-rng2 = 73 + 9 - 9 + 1 = 74
-Double
-Team 1 pitcher (Colton Hendrix): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
-
-base1: false, base2: [5,1], base3: [4,1]
-base1: false, base2: true, base3: true
-Score: 5-6
-
-Ethan Clarke: rng1 = 43 + 3 - 9 + 1 = 38
-rng2 = 62 + 8 - 9 + 1 = 62
-Flyout
-Team 1 pitcher (Colton Hendrix): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+Felipe Grimes: rng1 = 27 + 6 - 9 + 1 = 25
+Strikeout
+Team 1 pitcher (Jude Campbell): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 5-6
+Score: 1-2
 
 -----------------------
 
 TOP INNING 6
 
-Jamie Reid: rng1 = 77 + 8 - 10 - 1 = 74
-rng2 = 35 + 10 - 9 - 1 = 35
-Single
-Team 2 pitcher (Jason Francisco): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
-
-base1: [6,1], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 5-6
-
-Benito Maroto: rng1 = 37 + 6 - 10 - 1 = 32
-rng2 = 2 + 8 - 9 - 1 = 0
-Groundout
-Team 2 pitcher (Jason Francisco): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 5-6
-
-Pascual Gilbert: rng1 = 21 + 9 - 10 - 1 = 19
+Billy Campbell: rng1 = 10 + 8 - 10 - 1 = 7
 Strikeout
-Team 2 pitcher (Jason Francisco): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+Team 2 pitcher (Gustavo Soto): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 1
 
 base1: false, base2: false, base3: false
-Score: 5-6
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Charlie May: rng1 = 24 + 10 - 10 - 1 = 23
+Strikeout
+Team 2 pitcher (Gustavo Soto): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Matías Martinez: rng1 = 73 + 10 - 10 - 1 = 72
+rng2 = 96 + 10 - 7 - 1 = 98
+Home run
+Team 2 pitcher (Gustavo Soto): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Jamie Reid: rng1 = 90 + 8 - 10 - 1 = 87
+Walk
+Team 2 pitcher (Gustavo Soto): 25 batters faced, 2 runs allowed = 25 + 5.0 = 30.0, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Benito Maroto: rng1 = 19 + 6 - 10 - 1 = 14
+rng2 = 17 + 8 - 7 - 1 = 17
+Groundout
+Team 2 pitcher (Gustavo Soto): 26 batters faced, 2 runs allowed = 26 + 5.0 = 31.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
 
 -----------------------
 
 BOTTOM INNING 6
 
+Team 1 pitcher change to Colton Hendrix
+
+Ethan Clarke: rng1 = 76 + 3 - 9 + 1 = 71
+Walk
+Team 1 pitcher (Colton Hendrix): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Stanley Soto: rng1 = 93 + 7 - 9 + 1 = 92
+rng2 = 89 + 4 - 9 + 1 = 85
+Home run
+Team 1 pitcher (Colton Hendrix): 2 batters faced, 2 runs allowed = 2 + 5.0 = 7.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Reese Ross: rng1 = 86 + 3 - 9 + 1 = 81
+rng2 = 82 + 7 - 9 + 1 = 81
+Home run
+Team 1 pitcher (Colton Hendrix): 3 batters faced, 3 runs allowed = 3 + 7.5 = 10.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-5
+
+Phoenix Moore: rng1 = 31 + 15 - 9 + 1 = 38
+rng2 = 65 + 13 - 9 + 1 = 70
+Flyout
+Team 1 pitcher (Colton Hendrix): 4 batters faced, 3 runs allowed = 4 + 7.5 = 11.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-5
+
+Ashton Martin: rng1 = 71 + 13 - 9 + 1 = 76
+rng2 = 59 + 14 - 9 + 1 = 65
+Single
+Team 1 pitcher (Colton Hendrix): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 1
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-5
+
+Mason Foster: rng1 = 93 + 12 - 9 + 1 = 97
+rng2 = 45 + 11 - 9 + 1 = 48
+Single
+Team 1 pitcher (Colton Hendrix): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 1
+
+base1: [2,1], base2: false, base3: [1,1]
+base1: true, base2: false, base3: true
+Score: 2-5
+
 Team 1 pitcher change to Okihana Min-Ki
 
-Stanley Soto: rng1 = 3 + 7 - 7 + 1 = 4
-Strikeout
+Caden Beckett: rng1 = 64 + 11 - 7 + 1 = 69
+Walk
 Team 1 pitcher (Okihana Min-Ki): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
 
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 5-6
+base1: [3,2], base2: [2,1], base3: [1,1]
+base1: true, base2: true, base3: true
+Score: 2-5
 
-Reese Ross: rng1 = 19 + 3 - 7 + 1 = 16
-Strikeout
+Quinell McDaniel: rng1 = 36 + 9 - 7 + 1 = 39
+rng2 = 84 + 8 - 6 + 1 = 87
+Flyout
 Team 1 pitcher (Okihana Min-Ki): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
 
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 5-6
+base1: [3,2], base2: false, base3: [2,1]
+base1: true, base2: false, base3: true
+Score: 2-6
 
-Phoenix Moore: rng1 = 58 + 15 - 7 + 1 = 67
-rng2 = 96 + 13 - 6 + 1 = 104
-Flyout
+Felipe Grimes: rng1 = 33 + 6 - 7 + 1 = 33
+rng2 = 29 + 9 - 6 + 1 = 33
+Groundout
 Team 1 pitcher (Okihana Min-Ki): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 5-6
+Score: 2-6
 
 -----------------------
 
@@ -524,269 +550,235 @@ TOP INNING 7
 
 Team 2 pitcher change to Reed Winters
 
-Leonardo Vera: rng1 = 20 + 14 - 10 - 1 = 23
-Strikeout
+Pascual Gilbert: rng1 = 63 + 9 - 10 - 1 = 61
+rng2 = 8 + 5 - 9 - 1 = 3
+Groundout
 Team 2 pitcher (Reed Winters): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 5-6
+Score: 2-6
 
-Drake LaStelle: rng1 = 52 + 14 - 10 - 1 = 55
-rng2 = 42 + 12 - 9 - 1 = 44
+Leonardo Vera: rng1 = 96 + 14 - 10 - 1 = 99
+rng2 = 30 + 13 - 9 - 1 = 33
+Single
+Team 2 pitcher (Reed Winters): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-6
+
+Drake LaStelle: rng1 = 37 + 14 - 10 - 1 = 40
+rng2 = 23 + 12 - 9 - 1 = 25
 Groundout
-Team 2 pitcher (Reed Winters): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 5-6
-
-Alfie Young: rng1 = 87 + 13 - 10 - 1 = 89
-Walk
 Team 2 pitcher (Reed Winters): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
 
-base1: [2,2], base2: false, base3: false
+base1: [1,1], base2: false, base3: false
 base1: true, base2: false, base3: false
-Score: 5-6
+Score: 2-6
 
-Billy Campbell: rng1 = 33 + 8 - 10 - 1 = 30
-rng2 = 88 + 11 - 9 - 1 = 89
-Flyout
-Team 2 pitcher (Reed Winters): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+Alfie Young: rng1 = 84 + 13 - 10 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Reed Winters): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [2,1], base2: [1,1], base3: false
+base1: true, base2: true, base3: false
+Score: 2-6
+
+Billy Campbell: rng1 = 45 + 8 - 10 - 1 = 42
+rng2 = 44 + 11 - 9 - 1 = 45
+Groundout
+Team 2 pitcher (Reed Winters): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 5-6
+Score: 2-6
 
 -----------------------
 
 BOTTOM INNING 7
 
-Ashton Martin: rng1 = 76 + 13 - 7 + 1 = 83
-rng2 = 98 + 14 - 6 + 1 = 107
-Home run
-Team 1 pitcher (Okihana Min-Ki): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 0
+Ethan Clarke: rng1 = 15 + 3 - 7 + 1 = 12
+rng2 = 49 + 8 - 6 + 1 = 52
+Lineout
+Team 1 pitcher (Okihana Min-Ki): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 5-7
+Score: 2-6
 
-Mason Foster: rng1 = 72 + 12 - 7 + 1 = 78
-rng2 = 11 + 11 - 6 + 1 = 17
+Stanley Soto: rng1 = 95 + 7 - 7 + 1 = 96
+rng2 = 49 + 4 - 6 + 1 = 48
 Single
-Team 1 pitcher (Okihana Min-Ki): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 0
+Team 1 pitcher (Okihana Min-Ki): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
 
-base1: [2,2], base2: false, base3: false
+base1: [7,2], base2: false, base3: false
 base1: true, base2: false, base3: false
-Score: 5-7
+Score: 2-6
 
-Caden Beckett: rng1 = 70 + 11 - 7 + 1 = 75
-rng2 = 78 + 11 - 6 + 1 = 84
-Home run
-Team 1 pitcher (Okihana Min-Ki): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 0
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 5-9
-
-Team 1 pitcher change to Matthew Dorman
-
-Quinell McDaniel: rng1 = 93 + 9 - 6 + 1 = 97
-rng2 = 58 + 8 - 7 + 1 = 60
-Single
-Team 1 pitcher (Matthew Dorman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
-
-base1: [4,3], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 5-9
-
-Felipe Grimes: rng1 = 25 + 6 - 6 + 1 = 26
+Reese Ross: rng1 = 21 + 3 - 7 + 1 = 18
 Strikeout
-Team 1 pitcher (Matthew Dorman): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+Team 1 pitcher (Okihana Min-Ki): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
 
-base1: [4,3], base2: false, base3: false
+base1: [7,2], base2: false, base3: false
 base1: true, base2: false, base3: false
-Score: 5-9
+Score: 2-6
 
-Ethan Clarke: rng1 = 71 + 3 - 6 + 1 = 69
-Walk
-Team 1 pitcher (Matthew Dorman): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
-
-base1: [6,3], base2: [4,3], base3: false
-base1: true, base2: true, base3: false
-Score: 5-9
-
-Stanley Soto: rng1 = 67 + 7 - 6 + 1 = 69
-Walk
-Team 1 pitcher (Matthew Dorman): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
-
-base1: [7,3], base2: [6,3], base3: [4,3]
-base1: true, base2: true, base3: true
-Score: 5-9
-
-Reese Ross: rng1 = 59 + 3 - 6 + 1 = 57
-rng2 = 90 + 7 - 7 + 1 = 91
-Flyout
-Team 1 pitcher (Matthew Dorman): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
-
-base1: [7,3], base2: [6,3], base3: false
-base1: true, base2: true, base3: false
-Score: 5-10
-
-Phoenix Moore: rng1 = 61 + 15 - 6 + 1 = 71
-Walk
-Team 1 pitcher (Matthew Dorman): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
-
-base1: [0,3], base2: [7,3], base3: [6,3]
-base1: true, base2: true, base3: true
-Score: 5-10
-
-Ashton Martin: rng1 = 13 + 13 - 6 + 1 = 21
+Phoenix Moore: rng1 = 11 + 15 - 7 + 1 = 20
 Strikeout
-Team 1 pitcher (Matthew Dorman): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 3
+Team 1 pitcher (Okihana Min-Ki): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
 
 base1: false, base2: false, base3: false
-Score: 5-10
+Score: 2-6
 
 -----------------------
 
 TOP INNING 8
 
-Charlie May: rng1 = 49 + 10 - 10 - 1 = 48
-rng2 = 85 + 11 - 9 - 1 = 86
-Flyout
-Team 2 pitcher (Reed Winters): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+Charlie May: rng1 = 86 + 10 - 10 - 1 = 85
+rng2 = 73 + 11 - 9 - 1 = 74
+Double
+Team 2 pitcher (Reed Winters): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 0
 
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 5-10
+base1: false, base2: [4,1], base3: false
+base1: false, base2: true, base3: false
+Score: 2-6
 
-Matías Martinez: rng1 = 2 + 10 - 10 - 1 = 1
+Matías Martinez: rng1 = 18 + 10 - 10 - 1 = 17
 Strikeout
-Team 2 pitcher (Reed Winters): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+Team 2 pitcher (Reed Winters): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: false, base2: [4,1], base3: false
+base1: false, base2: true, base3: false
+Score: 2-6
+
+Jamie Reid: rng1 = 21 + 8 - 10 - 1 = 18
+Strikeout
+Team 2 pitcher (Reed Winters): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: false, base2: [4,1], base3: false
+base1: false, base2: true, base3: false
+Score: 2-6
+
+Benito Maroto: rng1 = 83 + 6 - 10 - 1 = 78
+rng2 = 16 + 8 - 9 - 1 = 14
+Single
+Team 2 pitcher (Reed Winters): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-6
+
+Pascual Gilbert: rng1 = 11 + 9 - 10 - 1 = 9
+Strikeout
+Team 2 pitcher (Reed Winters): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 3
 
 base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 5-10
-
-Jamie Reid: rng1 = 61 + 8 - 10 - 1 = 58
-rng2 = 38 + 10 - 9 - 1 = 38
-Groundout
-Team 2 pitcher (Reed Winters): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
-
-base1: false, base2: false, base3: false
-Score: 5-10
+Score: 3-6
 
 -----------------------
 
 BOTTOM INNING 8
 
-Team 1 pitcher change to Jordan Knight
+Team 1 pitcher change to Matthew Dorman
 
-Mason Foster: rng1 = 63 + 12 - 12 + 1 = 64
-rng2 = 5 + 11 - 10 + 1 = 7
+Ashton Martin: rng1 = 36 + 13 - 6 + 1 = 44
+rng2 = 1 + 14 - 7 + 1 = 9
 Groundout
-Team 1 pitcher (Jordan Knight): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+Team 1 pitcher (Matthew Dorman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
 
 base1: false, base2: false, base3: false
 base1: false, base2: false, base3: false
-Score: 5-10
+Score: 3-6
 
-Caden Beckett: rng1 = 1 + 11 - 12 + 1 = 1
-Strikeout
-Team 1 pitcher (Jordan Knight): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 5-10
-
-Quinell McDaniel: rng1 = 62 + 9 - 12 + 1 = 60
-rng2 = 87 + 8 - 10 + 1 = 86
+Mason Foster: rng1 = 31 + 12 - 6 + 1 = 38
+rng2 = 62 + 11 - 7 + 1 = 67
 Flyout
-Team 1 pitcher (Jordan Knight): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+Team 1 pitcher (Matthew Dorman): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
 
 base1: false, base2: false, base3: false
-Score: 5-10
+base1: false, base2: false, base3: false
+Score: 3-6
+
+Caden Beckett: rng1 = 36 + 11 - 6 + 1 = 42
+rng2 = 7 + 11 - 7 + 1 = 12
+Groundout
+Team 1 pitcher (Matthew Dorman): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-6
 
 -----------------------
 
 TOP INNING 9
 
-Team 2 pitcher change to Rodney Fox
+Team 2 pitcher change to Jensen Garrish
 
-Benito Maroto: rng1 = 20 + 6 - 8 - 1 = 17
-Strikeout
-Team 2 pitcher (Rodney Fox): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
-
-base1: false, base2: false, base3: false
-base1: false, base2: false, base3: false
-Score: 5-10
-
-Pascual Gilbert: rng1 = 98 + 9 - 8 - 1 = 98
-rng2 = 47 + 5 - 7 - 1 = 44
-Single
-Team 2 pitcher (Rodney Fox): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
-
-base1: [8,3], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 5-10
-
-Leonardo Vera: rng1 = 39 + 14 - 8 - 1 = 44
-rng2 = 94 + 13 - 7 - 1 = 99
+Leonardo Vera: rng1 = 48 + 14 - 10 - 1 = 51
+rng2 = 77 + 13 - 13 - 1 = 76
 Flyout
-Team 2 pitcher (Rodney Fox): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
-
-base1: [8,3], base2: false, base3: false
-base1: true, base2: false, base3: false
-Score: 5-10
-
-Drake LaStelle: rng1 = 34 + 14 - 8 - 1 = 39
-rng2 = 61 + 12 - 7 - 1 = 65
-Flyout
-Team 2 pitcher (Rodney Fox): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+Team 2 pitcher (Jensen Garrish): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
 
 base1: false, base2: false, base3: false
-Score: 5-10
+base1: false, base2: false, base3: false
+Score: 3-6
+
+Drake LaStelle: rng1 = 51 + 14 - 10 - 1 = 54
+rng2 = 44 + 12 - 13 - 1 = 42
+Groundout
+Team 2 pitcher (Jensen Garrish): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-6
+
+Alfie Young: rng1 = 64 + 13 - 10 - 1 = 66
+rng2 = 100 + 9 - 13 - 1 = 95
+Flyout
+Team 2 pitcher (Jensen Garrish): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-6
 
 -----------------------
 
 Innings: 9
 Team 1 hits: 8
-Team 2 hits: 13
-Team 1 runs: 5
-Team 2 runs: 10
+Team 2 hits: 12
+Team 1 runs: 3
+Team 2 runs: 6
 
 Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-04-21
-Leonardo Vera	5	0	0	0	0	0	0	0	1					San Diego
-Drake LaStelle	5	0	0	0	0	0	1	0	1	
-Alfie Young	3	0	1	0	0	0	0	1	1	
-Billy Campbell	3	1	1	1	0	0	0	0	0	
-Charlie May	4	1	1	0	0	0	1	0	1	
-Matías Martinez	3	1	0	0	0	0	0	1	2	
-Jamie Reid	3	1	2	1	0	0	0	1	0	
-Benito Maroto	4	1	1	0	0	0	1	0	2	
-Pascual Gilbert	4	0	2	0	0	0	2	0	1	
+Leonardo Vera	5	0	1	0	0	0	0	0	2					San Diego
+Drake LaStelle	5	1	1	0	0	1	1	0	0	
+Alfie Young	4	0	1	0	0	0	0	0	0	
+Billy Campbell	3	0	0	0	0	0	0	1	2	
+Charlie May	4	1	1	1	0	0	0	0	1	
+Matías Martinez	4	1	2	0	0	1	1	0	1	
+Jamie Reid	3	0	0	0	0	0	0	1	2	
+Benito Maroto	4	0	1	0	0	0	1	0	1	
+Pascual Gilbert	3	0	1	0	0	0	0	1	1	
 
 Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
-Austin Clarke	0	0	1	1	0	0	12	6	5	2	1	3	19	
-Colton Hendrix	0	1	1	0	0	0	3	3	1	0	0	0	6	
-Okihana Min-Ki	0	0	1	0	0	0	3	3	3	2	0	2	6	
-Matthew Dorman	0	0	1	0	0	0	3	1	1	0	3	2	7	
-Jordan Knight	0	0	1	0	0	0	3	0	0	0	0	1	3	
+Jude Campbell	0	0	1	1	0	0	15	7	2	0	3	8	24	
+Colton Hendrix	0	1	1	0	0	0	1	4	4	2	1	0	6	
+Okihana Min-Ki	0	0	1	0	0	0	5	1	0	0	1	2	7	
+Matthew Dorman	0	0	1	0	0	0	3	0	0	0	0	0	3	
+Jordan Knight	0	0	0	0	0	0	0	0	0	0	0	0	0	
 
 Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-04-21
-Phoenix Moore	4	0	0	0	0	0	0	1	0					Los Angeles
-Ashton Martin	5	2	2	0	0	2	2	0	1	
-Mason Foster	5	2	2	0	0	0	0	0	1	
-Caden Beckett	5	1	2	1	0	1	2	0	2	
-Quinell McDaniel	5	2	3	0	0	0	1	0	0	
-Felipe Grimes	3	2	2	1	0	0	0	1	1	
-Ethan Clarke	3	0	1	0	0	0	1	1	0	
-Stanley Soto	3	0	0	0	0	0	1	1	1	
-Reese Ross	4	1	1	0	0	1	3	0	2	
+Phoenix Moore	4	1	1	0	0	0	0	1	1					Los Angeles
+Ashton Martin	5	2	3	1	0	0	1	0	1	
+Mason Foster	5	0	1	0	0	0	0	0	3	
+Caden Beckett	4	0	3	0	0	0	1	1	0	
+Quinell McDaniel	3	0	0	0	0	0	1	1	0	
+Felipe Grimes	3	0	0	0	0	0	0	1	2	
+Ethan Clarke	3	1	1	0	0	0	0	1	1	
+Stanley Soto	4	1	2	0	0	1	2	0	1	
+Reese Ross	4	1	1	0	0	1	1	0	1	
 
 Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
-Martin Gutiérrez	0	0	1	1	0	0	12	6	5	0	2	4	21	
-Jason Francisco	1	0	1	0	0	0	6	1	0	0	0	2	6	
-Reed Winters	0	0	1	0	0	0	6	0	0	0	1	2	7	
-Rodney Fox	0	0	1	0	0	0	3	1	0	0	0	1	4	
-Jensen Garrish	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Gustavo Soto	1	0	1	1	0	0	18	5	2	2	3	7	26	
+Reed Winters	0	0	1	0	0	0	6	3	1	0	0	3	10	
+Jason Francisco	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rodney Fox	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Jensen Garrish	0	0	1	0	1	1	3	0	0	0	0	0	3	

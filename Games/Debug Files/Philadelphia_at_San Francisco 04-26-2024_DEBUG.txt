@@ -1,0 +1,805 @@
+TOP INNING 1
+
+Tomas Canto: rng1 = 4 + 14 - 7 - 1 = 10
+Strikeout
+Team 2 pitcher (Gabriel Soto): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Keli Alohilani: rng1 = 4 + 13 - 7 - 1 = 9
+Strikeout
+Team 2 pitcher (Gabriel Soto): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Caleb Harrington: rng1 = 64 + 12 - 7 - 1 = 68
+rng2 = 20 + 9 - 7 - 1 = 21
+Groundout
+Team 2 pitcher (Gabriel Soto): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Jaz Eaton: rng1 = 36 + 12 - 9 + 1 = 40
+rng2 = 24 + 12 - 7 + 1 = 30
+Groundout
+Team 1 pitcher (Javier Manzanares): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Sean Lee: rng1 = 9 + 11 - 9 + 1 = 12
+rng2 = 51 + 10 - 7 + 1 = 55
+Lineout
+Team 1 pitcher (Javier Manzanares): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Efraim Agramonte: rng1 = 90 + 11 - 9 + 1 = 93
+rng2 = 6 + 7 - 7 + 1 = 7
+Single
+Team 1 pitcher (Javier Manzanares): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Anthony Davila: rng1 = 18 + 10 - 9 + 1 = 20
+Strikeout
+Team 1 pitcher (Javier Manzanares): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Jong Jung-Hwa: rng1 = 56 + 9 - 7 - 1 = 57
+rng2 = 85 + 12 - 7 - 1 = 89
+Flyout
+Team 2 pitcher (Gabriel Soto): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Andres Fortune: rng1 = 97 + 9 - 7 - 1 = 98
+rng2 = 76 + 11 - 7 - 1 = 79
+Triple
+Team 2 pitcher (Gabriel Soto): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: [4,0]
+base1: false, base2: false, base3: true
+Score: 0-0
+
+Ricky Bowers: rng1 = 96 + 10 - 7 - 1 = 98
+rng2 = 42 + 8 - 7 - 1 = 42
+Single
+Team 2 pitcher (Gabriel Soto): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Konner Knight: rng1 = 41 + 11 - 7 - 1 = 44
+rng2 = 28 + 7 - 7 - 1 = 27
+Groundout
+Team 2 pitcher (Gabriel Soto): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Isaías Juderías: rng1 = 44 + 14 - 9 + 1 = 50
+rng2 = 7 + 11 - 7 + 1 = 12
+Groundout
+Team 1 pitcher (Javier Manzanares): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+John Gibson: rng1 = 40 + 9 - 9 + 1 = 41
+rng2 = 36 + 8 - 7 + 1 = 38
+Groundout
+Team 1 pitcher (Javier Manzanares): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Adrián Noboa: rng1 = 48 + 8 - 9 + 1 = 48
+rng2 = 3 + 8 - 7 + 1 = 5
+Groundout
+Team 1 pitcher (Javier Manzanares): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 3
+
+Javier Guillén: rng1 = 100 + 7 - 7 - 1 = 99
+rng2 = 49 + 10 - 7 - 1 = 51
+Single
+Team 2 pitcher (Gabriel Soto): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Alonso Medina: rng1 = 32 + 10 - 7 - 1 = 34
+rng2 = 19 + 7 - 7 - 1 = 18
+Groundout
+Team 2 pitcher (Gabriel Soto): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Tomas Canto: rng1 = 65 + 14 - 7 - 1 = 71
+Walk
+Team 2 pitcher (Gabriel Soto): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Keli Alohilani: rng1 = 98 + 13 - 7 - 1 = 103
+rng2 = 80 + 11 - 7 - 1 = 83
+Home run
+Team 2 pitcher (Gabriel Soto): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Caleb Harrington: rng1 = 48 + 12 - 7 - 1 = 52
+rng2 = 86 + 9 - 7 - 1 = 87
+Flyout
+Team 2 pitcher (Gabriel Soto): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Jong Jung-Hwa: rng1 = 54 + 9 - 7 - 1 = 55
+rng2 = 54 + 12 - 7 - 1 = 58
+Lineout
+Team 2 pitcher (Gabriel Soto): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Jesús Alarcón: rng1 = 10 + 5 - 9 + 1 = 7
+Strikeout
+Team 1 pitcher (Javier Manzanares): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+César Botín: rng1 = 12 + 8 - 9 + 1 = 12
+rng2 = 70 + 6 - 7 + 1 = 70
+Flyout
+Team 1 pitcher (Javier Manzanares): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Jaz Eaton: rng1 = 90 + 12 - 9 + 1 = 94
+rng2 = 63 + 12 - 7 + 1 = 69
+Double
+Team 1 pitcher (Javier Manzanares): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-0
+
+Sean Lee: rng1 = 2 + 11 - 9 + 1 = 5
+Strikeout
+Team 1 pitcher (Javier Manzanares): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+TOP INNING 4
+
+Andres Fortune: rng1 = 78 + 9 - 7 - 1 = 79
+rng2 = 50 + 11 - 7 - 1 = 53
+Single
+Team 2 pitcher (Gabriel Soto): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Ricky Bowers: rng1 = 75 + 10 - 7 - 1 = 77
+rng2 = 29 + 8 - 7 - 1 = 29
+Single
+Team 2 pitcher (Gabriel Soto): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 0
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 4-0
+
+Konner Knight: rng1 = 42 + 11 - 7 - 1 = 45
+rng2 = 31 + 7 - 7 - 1 = 30
+Groundout
+Team 2 pitcher (Gabriel Soto): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 1
+
+base1: [6,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 4-0
+
+Javier Guillén: rng1 = 74 + 7 - 7 - 1 = 73
+rng2 = 34 + 10 - 7 - 1 = 36
+Single
+Team 2 pitcher (Gabriel Soto): 17 batters faced, 5 runs allowed = 17 + 12.5 = 29.5, outs: 1
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 5-0
+
+Alonso Medina: rng1 = 76 + 10 - 7 - 1 = 78
+rng2 = 28 + 7 - 7 - 1 = 27
+Single
+Team 2 pitcher (Gabriel Soto): 18 batters faced, 6 runs allowed = 18 + 15.0 = 33.0, outs: 1
+
+base1: [8,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 6-0
+
+Tomas Canto: rng1 = 11 + 14 - 7 - 1 = 17
+Strikeout
+Team 2 pitcher (Gabriel Soto): 19 batters faced, 6 runs allowed = 19 + 15.0 = 34.0, outs: 2
+
+base1: [8,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 6-0
+
+Keli Alohilani: rng1 = 74 + 13 - 7 - 1 = 79
+rng2 = 77 + 11 - 7 - 1 = 80
+Home run
+Team 2 pitcher (Gabriel Soto): 20 batters faced, 9 runs allowed = 20 + 22.5 = 42.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-0
+
+Team 2 pitcher change to Kirk Johns
+
+Caleb Harrington: rng1 = 53 + 12 - 9 - 1 = 55
+rng2 = 79 + 9 - 10 - 1 = 77
+Flyout
+Team 2 pitcher (Kirk Johns): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-0
+
+-----------------------
+
+BOTTOM INNING 4
+
+Efraim Agramonte: rng1 = 93 + 11 - 9 + 1 = 96
+rng2 = 95 + 7 - 7 + 1 = 96
+Home run
+Team 1 pitcher (Javier Manzanares): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-1
+
+Anthony Davila: rng1 = 38 + 10 - 9 + 1 = 40
+rng2 = 54 + 12 - 7 + 1 = 60
+Flyout
+Team 1 pitcher (Javier Manzanares): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-1
+
+Isaías Juderías: rng1 = 50 + 14 - 9 + 1 = 56
+rng2 = 11 + 11 - 7 + 1 = 16
+Groundout
+Team 1 pitcher (Javier Manzanares): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-1
+
+John Gibson: rng1 = 61 + 9 - 9 + 1 = 62
+rng2 = 64 + 8 - 7 + 1 = 66
+Flyout
+Team 1 pitcher (Javier Manzanares): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-1
+
+-----------------------
+
+TOP INNING 5
+
+Jong Jung-Hwa: rng1 = 28 + 9 - 9 - 1 = 27
+Strikeout
+Team 2 pitcher (Kirk Johns): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-1
+
+Andres Fortune: rng1 = 46 + 9 - 9 - 1 = 45
+rng2 = 79 + 11 - 10 - 1 = 79
+Flyout
+Team 2 pitcher (Kirk Johns): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-1
+
+Ricky Bowers: rng1 = 28 + 10 - 9 - 1 = 28
+Strikeout
+Team 2 pitcher (Kirk Johns): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-1
+
+-----------------------
+
+BOTTOM INNING 5
+
+Adrián Noboa: rng1 = 45 + 8 - 9 + 1 = 45
+rng2 = 81 + 8 - 7 + 1 = 83
+Flyout
+Team 1 pitcher (Javier Manzanares): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-1
+
+Jesús Alarcón: rng1 = 40 + 5 - 9 + 1 = 37
+rng2 = 47 + 9 - 7 + 1 = 50
+Lineout
+Team 1 pitcher (Javier Manzanares): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-1
+
+César Botín: rng1 = 52 + 8 - 9 + 1 = 52
+rng2 = 81 + 6 - 7 + 1 = 81
+Flyout
+Team 1 pitcher (Javier Manzanares): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-1
+
+-----------------------
+
+TOP INNING 6
+
+Konner Knight: rng1 = 12 + 11 - 9 - 1 = 13
+rng2 = 82 + 7 - 10 - 1 = 78
+Flyout
+Team 2 pitcher (Kirk Johns): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-1
+
+Javier Guillén: rng1 = 29 + 7 - 9 - 1 = 26
+Strikeout
+Team 2 pitcher (Kirk Johns): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-1
+
+Alonso Medina: rng1 = 56 + 10 - 9 - 1 = 56
+rng2 = 34 + 7 - 10 - 1 = 30
+Groundout
+Team 2 pitcher (Kirk Johns): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-1
+
+-----------------------
+
+BOTTOM INNING 6
+
+Jaz Eaton: rng1 = 98 + 12 - 9 + 1 = 102
+rng2 = 70 + 12 - 7 + 1 = 76
+Double
+Team 1 pitcher (Javier Manzanares): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 0
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 9-1
+
+Sean Lee: rng1 = 35 + 11 - 9 + 1 = 38
+rng2 = 70 + 10 - 7 + 1 = 74
+Flyout
+Team 1 pitcher (Javier Manzanares): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 9-1
+
+Efraim Agramonte: rng1 = 78 + 11 - 9 + 1 = 81
+rng2 = 66 + 7 - 7 + 1 = 67
+Double
+Team 1 pitcher (Javier Manzanares): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 9-2
+
+Anthony Davila: rng1 = 84 + 10 - 9 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Javier Manzanares): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 1
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 9-2
+
+Isaías Juderías: rng1 = 75 + 14 - 9 + 1 = 81
+rng2 = 36 + 11 - 7 + 1 = 41
+Single
+Team 1 pitcher (Javier Manzanares): 23 batters faced, 3 runs allowed = 23 + 7.5 = 30.5, outs: 1
+
+base1: [4,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 9-3
+
+John Gibson: rng1 = 9 + 9 - 9 + 1 = 10
+Strikeout
+Team 1 pitcher (Javier Manzanares): 24 batters faced, 3 runs allowed = 24 + 7.5 = 31.5, outs: 2
+
+base1: [4,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 9-3
+
+Adrián Noboa: rng1 = 99 + 8 - 9 + 1 = 99
+rng2 = 51 + 8 - 7 + 1 = 53
+Single
+Team 1 pitcher (Javier Manzanares): 25 batters faced, 4 runs allowed = 25 + 10.0 = 35.0, outs: 2
+
+base1: [6,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 9-4
+
+Jesús Alarcón: rng1 = 33 + 5 - 9 + 1 = 30
+rng2 = 97 + 9 - 7 + 1 = 100
+Flyout
+Team 1 pitcher (Javier Manzanares): 26 batters faced, 4 runs allowed = 26 + 10.0 = 36.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-4
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Pae Kwang-Min
+
+Tomas Canto: rng1 = 5 + 14 - 8 - 1 = 10
+Strikeout
+Team 2 pitcher (Pae Kwang-Min): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-4
+
+Keli Alohilani: rng1 = 76 + 13 - 8 - 1 = 80
+rng2 = 94 + 11 - 8 - 1 = 96
+Home run
+Team 2 pitcher (Pae Kwang-Min): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-4
+
+Caleb Harrington: rng1 = 59 + 12 - 8 - 1 = 62
+rng2 = 11 + 9 - 8 - 1 = 11
+Groundout
+Team 2 pitcher (Pae Kwang-Min): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-4
+
+Jong Jung-Hwa: rng1 = 10 + 9 - 8 - 1 = 10
+Strikeout
+Team 2 pitcher (Pae Kwang-Min): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 10-4
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Rolando Maroto
+
+César Botín: rng1 = 9 + 8 - 14 + 1 = 4
+Strikeout
+Team 1 pitcher (Rolando Maroto): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-4
+
+Jaz Eaton: rng1 = 93 + 12 - 14 + 1 = 92
+rng2 = 89 + 12 - 11 + 1 = 91
+Double
+Team 1 pitcher (Rolando Maroto): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [0,1], base3: false
+base1: false, base2: true, base3: false
+Score: 10-4
+
+Sean Lee: rng1 = 32 + 11 - 14 + 1 = 30
+rng2 = 49 + 10 - 11 + 1 = 49
+Lineout
+Team 1 pitcher (Rolando Maroto): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [0,1], base3: false
+base1: false, base2: true, base3: false
+Score: 10-4
+
+Efraim Agramonte: rng1 = 87 + 11 - 14 + 1 = 85
+rng2 = 64 + 7 - 11 + 1 = 61
+Single
+Team 1 pitcher (Rolando Maroto): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [2,1], base2: false, base3: [0,1]
+base1: true, base2: false, base3: true
+Score: 10-4
+
+Anthony Davila: rng1 = 17 + 10 - 14 + 1 = 14
+rng2 = 58 + 12 - 11 + 1 = 60
+Flyout
+Team 1 pitcher (Rolando Maroto): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 10-4
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Ghalen Fisher
+
+Andres Fortune: rng1 = 5 + 9 - 5 - 1 = 8
+Strikeout
+Team 2 pitcher (Ghalen Fisher): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-4
+
+Ricky Bowers: rng1 = 56 + 10 - 5 - 1 = 60
+rng2 = 73 + 8 - 7 - 1 = 73
+Flyout
+Team 2 pitcher (Ghalen Fisher): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-4
+
+Konner Knight: rng1 = 65 + 11 - 5 - 1 = 70
+Walk
+Team 2 pitcher (Ghalen Fisher): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [6,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 10-4
+
+Javier Guillén: rng1 = 18 + 7 - 5 - 1 = 19
+Strikeout
+Team 2 pitcher (Ghalen Fisher): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 10-4
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Steve Randles
+
+Isaías Juderías: rng1 = 53 + 14 - 12 + 1 = 56
+rng2 = 6 + 11 - 11 + 1 = 7
+Groundout
+Team 1 pitcher (Steve Randles): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-4
+
+John Gibson: rng1 = 60 + 9 - 12 + 1 = 58
+rng2 = 29 + 8 - 11 + 1 = 27
+Groundout
+Team 1 pitcher (Steve Randles): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-4
+
+Adrián Noboa: rng1 = 7 + 8 - 12 + 1 = 4
+Strikeout
+Team 1 pitcher (Steve Randles): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 10-4
+
+-----------------------
+
+TOP INNING 9
+
+Alonso Medina: rng1 = 32 + 10 - 5 - 1 = 36
+rng2 = 20 + 7 - 7 - 1 = 19
+Groundout
+Team 2 pitcher (Ghalen Fisher): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-4
+
+Tomas Canto: rng1 = 89 + 14 - 5 - 1 = 97
+rng2 = 70 + 15 - 7 - 1 = 77
+Double
+Team 2 pitcher (Ghalen Fisher): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: [0,3], base3: false
+base1: false, base2: true, base3: false
+Score: 10-4
+
+Keli Alohilani: rng1 = 73 + 13 - 5 - 1 = 80
+rng2 = 69 + 11 - 7 - 1 = 72
+Double
+Team 2 pitcher (Ghalen Fisher): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: false, base2: [1,3], base3: false
+base1: false, base2: true, base3: false
+Score: 11-4
+
+Caleb Harrington: rng1 = 84 + 12 - 5 - 1 = 90
+Walk
+Team 2 pitcher (Ghalen Fisher): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: [2,3], base2: [1,3], base3: false
+base1: true, base2: true, base3: false
+Score: 11-4
+
+Jong Jung-Hwa: rng1 = 43 + 9 - 5 - 1 = 46
+rng2 = 72 + 12 - 7 - 1 = 76
+Flyout
+Team 2 pitcher (Ghalen Fisher): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [2,3], base2: false, base3: [1,3]
+base1: true, base2: false, base3: true
+Score: 11-4
+
+Team 2 pitcher change to Iván Curbelo
+
+Andres Fortune: rng1 = 96 + 9 - 14 - 1 = 90
+Walk
+Team 2 pitcher (Iván Curbelo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [4,4], base2: [2,3], base3: [1,3]
+base1: true, base2: true, base3: true
+Score: 11-4
+
+Ricky Bowers: rng1 = 91 + 10 - 14 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Iván Curbelo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: [5,4], base2: [4,4], base3: [2,3]
+base1: true, base2: true, base3: true
+Score: 12-4
+
+Konner Knight: rng1 = 35 + 11 - 14 - 1 = 31
+rng2 = 5 + 7 - 14 - 1 = -3
+Groundout
+Team 2 pitcher (Iván Curbelo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 12-4
+
+-----------------------
+
+BOTTOM INNING 9
+
+Jesús Alarcón: rng1 = 47 + 5 - 12 + 1 = 41
+rng2 = 72 + 9 - 11 + 1 = 71
+Flyout
+Team 1 pitcher (Steve Randles): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 12-4
+
+César Botín: rng1 = 38 + 8 - 12 + 1 = 35
+rng2 = 6 + 6 - 11 + 1 = 2
+Groundout
+Team 1 pitcher (Steve Randles): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 12-4
+
+Jaz Eaton: rng1 = 35 + 12 - 12 + 1 = 36
+rng2 = 33 + 12 - 11 + 1 = 35
+Groundout
+Team 1 pitcher (Steve Randles): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 12-4
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 12
+Team 2 hits: 9
+Team 1 runs: 12
+Team 2 runs: 4
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-04-26
+Tomas Canto	4	2	1	1	0	0	0	1	3					Philadelphia
+Keli Alohilani	5	4	4	1	0	3	8	0	1	
+Caleb Harrington	4	0	0	0	0	0	0	1	0	
+Jong Jung-Hwa	5	0	0	0	0	0	0	0	2	
+Andres Fortune	4	2	2	0	1	0	0	1	1	
+Ricky Bowers	4	0	2	0	0	0	2	0	1	
+Konner Knight	4	1	0	0	0	0	0	1	0	
+Javier Guillén	4	1	2	0	0	0	1	0	2	
+Alonso Medina	4	2	1	0	0	0	1	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Javier Manzanares	1	0	1	1	0	0	18	7	4	1	0	4	26	
+Rolando Maroto	0	0	1	0	0	0	3	2	0	0	0	1	5	
+Steve Randles	0	0	1	0	0	0	6	0	0	0	0	1	6	
+Ige Shukishi	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Eduardo Elvira	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-04-26
+Jaz Eaton	5	1	3	3	0	0	0	0	0					San Francisco
+Sean Lee	4	0	0	0	0	0	0	0	1	
+Efraim Agramonte	4	2	4	1	0	1	2	0	0	
+Anthony Davila	3	1	0	0	0	0	0	0	1	
+Isaías Juderías	4	0	1	0	0	0	1	0	0	
+John Gibson	4	0	0	0	0	0	0	0	1	
+Adrián Noboa	4	0	1	0	0	0	1	0	1	
+Jesús Alarcón	4	0	0	0	0	0	0	0	1	
+César Botín	4	0	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Gabriel Soto	0	1	1	1	0	0	11	9	9	2	1	3	20	
+Kirk Johns	0	0	1	0	0	0	7	0	0	0	0	3	7	
+Pae Kwang-Min	0	0	1	0	0	0	3	1	1	1	0	2	4	
+Ghalen Fisher	0	0	1	0	0	0	5	2	2	0	2	2	9	
+Iván Curbelo	0	0	1	0	0	0	1	0	0	0	1	0	3	

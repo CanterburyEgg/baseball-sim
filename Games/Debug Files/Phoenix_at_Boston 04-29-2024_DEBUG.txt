@@ -1,0 +1,824 @@
+TOP INNING 1
+
+Calder Martin: rng1 = 70 + 9 - 7 - 1 = 71
+Walk
+Team 2 pitcher (Ryan Swanson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Jack Hayes: rng1 = 61 + 9 - 7 - 1 = 62
+rng2 = 45 + 9 - 7 - 1 = 46
+Groundout
+Team 2 pitcher (Ryan Swanson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Esteban Mendoza: rng1 = 19 + 8 - 7 - 1 = 19
+Strikeout
+Team 2 pitcher (Ryan Swanson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Luca Águila: rng1 = 31 + 4 - 7 - 1 = 27
+Strikeout
+Team 2 pitcher (Ryan Swanson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Jorge Gonzalez: rng1 = 21 + 11 - 8 + 1 = 25
+Strikeout
+Team 1 pitcher (Aaron Parry): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Quillin Grant: rng1 = 71 + 11 - 8 + 1 = 75
+rng2 = 99 + 12 - 7 + 1 = 105
+Home run
+Team 1 pitcher (Aaron Parry): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Aiden Hayes: rng1 = 34 + 10 - 8 + 1 = 37
+rng2 = 91 + 11 - 7 + 1 = 96
+Flyout
+Team 1 pitcher (Aaron Parry): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Aaron Vera: rng1 = 86 + 9 - 8 + 1 = 88
+Walk
+Team 1 pitcher (Aaron Parry): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Karsen Welch: rng1 = 64 + 9 - 8 + 1 = 66
+rng2 = 45 + 6 - 7 + 1 = 45
+Groundout
+Team 1 pitcher (Aaron Parry): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 2
+
+Mark White: rng1 = 79 + 8 - 7 - 1 = 79
+rng2 = 59 + 10 - 7 - 1 = 61
+Single
+Team 2 pitcher (Ryan Swanson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Yodogawa Shosuke: rng1 = 29 + 7 - 7 - 1 = 28
+Strikeout
+Team 2 pitcher (Ryan Swanson): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Adam Pearce: rng1 = 46 + 5 - 7 - 1 = 43
+rng2 = 96 + 6 - 7 - 1 = 94
+Flyout
+Team 2 pitcher (Ryan Swanson): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Josh Poole: rng1 = 47 + 6 - 7 - 1 = 45
+rng2 = 16 + 5 - 7 - 1 = 13
+Groundout
+Team 2 pitcher (Ryan Swanson): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Juan Pearson: rng1 = 86 + 6 - 8 + 1 = 85
+rng2 = 85 + 8 - 7 + 1 = 87
+Double
+Team 1 pitcher (Aaron Parry): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 0
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Zyrell Ford: rng1 = 36 + 7 - 8 + 1 = 36
+rng2 = 71 + 5 - 7 + 1 = 70
+Flyout
+Team 1 pitcher (Aaron Parry): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: false, base2: false, base3: [5,0]
+base1: false, base2: false, base3: true
+Score: 0-1
+
+Emanuel Gutiérrez: rng1 = 76 + 3 - 8 + 1 = 72
+rng2 = 45 + 8 - 7 + 1 = 47
+Single
+Team 1 pitcher (Aaron Parry): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Seamus Tanner: rng1 = 77 + 6 - 8 + 1 = 76
+rng2 = 22 + 5 - 7 + 1 = 21
+Single
+Team 1 pitcher (Aaron Parry): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 1
+
+base1: [8,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 0-2
+
+Jorge Gonzalez: rng1 = 39 + 11 - 8 + 1 = 43
+rng2 = 92 + 13 - 7 + 1 = 99
+Flyout
+Team 1 pitcher (Aaron Parry): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Quillin Grant: rng1 = 75 + 11 - 8 + 1 = 79
+rng2 = 29 + 12 - 7 + 1 = 35
+Single
+Team 1 pitcher (Aaron Parry): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 2
+
+base1: [1,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 0-3
+
+Aiden Hayes: rng1 = 57 + 10 - 8 + 1 = 60
+rng2 = 28 + 11 - 7 + 1 = 33
+Groundout
+Team 1 pitcher (Aaron Parry): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+TOP INNING 3
+
+Darren Chang: rng1 = 7 + 4 - 7 - 1 = 3
+Strikeout
+Team 2 pitcher (Ryan Swanson): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Calder Martin: rng1 = 19 + 9 - 7 - 1 = 20
+Strikeout
+Team 2 pitcher (Ryan Swanson): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Jack Hayes: rng1 = 77 + 9 - 7 - 1 = 78
+rng2 = 2 + 9 - 7 - 1 = 3
+Single
+Team 2 pitcher (Ryan Swanson): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Esteban Mendoza: rng1 = 82 + 8 - 7 - 1 = 82
+rng2 = 22 + 8 - 7 - 1 = 22
+Single
+Team 2 pitcher (Ryan Swanson): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 2
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-3
+
+Luca Águila: rng1 = 45 + 4 - 7 - 1 = 41
+rng2 = 18 + 10 - 7 - 1 = 20
+Groundout
+Team 2 pitcher (Ryan Swanson): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+BOTTOM INNING 3
+
+Aaron Vera: rng1 = 50 + 9 - 8 + 1 = 52
+rng2 = 69 + 8 - 7 + 1 = 71
+Flyout
+Team 1 pitcher (Aaron Parry): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Karsen Welch: rng1 = 53 + 9 - 8 + 1 = 55
+rng2 = 18 + 6 - 7 + 1 = 18
+Groundout
+Team 1 pitcher (Aaron Parry): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Juan Pearson: rng1 = 48 + 6 - 8 + 1 = 47
+rng2 = 31 + 8 - 7 + 1 = 33
+Groundout
+Team 1 pitcher (Aaron Parry): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+TOP INNING 4
+
+Mark White: rng1 = 60 + 8 - 7 - 1 = 60
+rng2 = 69 + 10 - 7 - 1 = 71
+Flyout
+Team 2 pitcher (Ryan Swanson): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Yodogawa Shosuke: rng1 = 61 + 7 - 7 - 1 = 60
+rng2 = 53 + 8 - 7 - 1 = 53
+Lineout
+Team 2 pitcher (Ryan Swanson): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Adam Pearce: rng1 = 41 + 5 - 7 - 1 = 38
+rng2 = 57 + 6 - 7 - 1 = 55
+Lineout
+Team 2 pitcher (Ryan Swanson): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+BOTTOM INNING 4
+
+Zyrell Ford: rng1 = 10 + 7 - 8 + 1 = 10
+Strikeout
+Team 1 pitcher (Aaron Parry): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Emanuel Gutiérrez: rng1 = 30 + 3 - 8 + 1 = 26
+Strikeout
+Team 1 pitcher (Aaron Parry): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Seamus Tanner: rng1 = 50 + 6 - 8 + 1 = 49
+rng2 = 66 + 5 - 7 + 1 = 65
+Flyout
+Team 1 pitcher (Aaron Parry): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+TOP INNING 5
+
+Josh Poole: rng1 = 29 + 6 - 7 - 1 = 27
+Strikeout
+Team 2 pitcher (Ryan Swanson): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Darren Chang: rng1 = 75 + 4 - 7 - 1 = 71
+Walk
+Team 2 pitcher (Ryan Swanson): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Calder Martin: rng1 = 35 + 9 - 7 - 1 = 36
+rng2 = 98 + 9 - 7 - 1 = 99
+Flyout
+Team 2 pitcher (Ryan Swanson): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Jack Hayes: rng1 = 9 + 9 - 7 - 1 = 10
+Strikeout
+Team 2 pitcher (Ryan Swanson): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+BOTTOM INNING 5
+
+Jorge Gonzalez: rng1 = 70 + 11 - 8 + 1 = 74
+rng2 = 85 + 13 - 7 + 1 = 92
+Double
+Team 1 pitcher (Aaron Parry): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 0
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-3
+
+Quillin Grant: rng1 = 18 + 11 - 8 + 1 = 22
+Strikeout
+Team 1 pitcher (Aaron Parry): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-3
+
+Aiden Hayes: rng1 = 96 + 10 - 8 + 1 = 99
+rng2 = 59 + 11 - 7 + 1 = 64
+Single
+Team 1 pitcher (Aaron Parry): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Aaron Vera: rng1 = 79 + 9 - 8 + 1 = 81
+rng2 = 16 + 8 - 7 + 1 = 18
+Single
+Team 1 pitcher (Aaron Parry): 22 batters faced, 4 runs allowed = 22 + 10.0 = 32.0, outs: 1
+
+base1: [3,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 0-4
+
+Karsen Welch: rng1 = 100 + 9 - 8 + 1 = 102
+rng2 = 71 + 6 - 7 + 1 = 71
+Double
+Team 1 pitcher (Aaron Parry): 23 batters faced, 6 runs allowed = 23 + 15.0 = 38.0, outs: 1
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-6
+
+Team 1 pitcher change to Noah Rosario
+
+Juan Pearson: rng1 = 42 + 6 - 9 + 1 = 40
+rng2 = 44 + 8 - 7 + 1 = 46
+Groundout
+Team 1 pitcher (Noah Rosario): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: false, base2: false, base3: [4,0]
+base1: false, base2: false, base3: true
+Score: 0-6
+
+Zyrell Ford: rng1 = 82 + 7 - 9 + 1 = 81
+rng2 = 27 + 5 - 7 + 1 = 26
+Single
+Team 1 pitcher (Noah Rosario): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-7
+
+Emanuel Gutiérrez: rng1 = 86 + 3 - 9 + 1 = 81
+rng2 = 30 + 8 - 7 + 1 = 32
+Single
+Team 1 pitcher (Noah Rosario): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [7,1], base2: false, base3: [6,1]
+base1: true, base2: false, base3: true
+Score: 0-7
+
+Seamus Tanner: rng1 = 26 + 6 - 9 + 1 = 24
+Strikeout
+Team 1 pitcher (Noah Rosario): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-7
+
+-----------------------
+
+TOP INNING 6
+
+Esteban Mendoza: rng1 = 99 + 8 - 7 - 1 = 99
+rng2 = 44 + 8 - 7 - 1 = 44
+Single
+Team 2 pitcher (Ryan Swanson): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 0
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-7
+
+Luca Águila: rng1 = 78 + 4 - 7 - 1 = 74
+rng2 = 11 + 10 - 7 - 1 = 13
+Single
+Team 2 pitcher (Ryan Swanson): 22 batters faced, 0 runs allowed = 22 + 0.0 = 22.0, outs: 0
+
+base1: [3,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 0-7
+
+Mark White: rng1 = 34 + 8 - 7 - 1 = 34
+rng2 = 35 + 10 - 7 - 1 = 37
+Groundout
+Team 2 pitcher (Ryan Swanson): 23 batters faced, 0 runs allowed = 23 + 0.0 = 23.0, outs: 1
+
+base1: false, base2: [3,0], base3: [2,0]
+base1: false, base2: true, base3: true
+Score: 0-7
+
+Yodogawa Shosuke: rng1 = 72 + 7 - 7 - 1 = 71
+Walk
+Team 2 pitcher (Ryan Swanson): 24 batters faced, 0 runs allowed = 24 + 0.0 = 24.0, outs: 1
+
+base1: [5,0], base2: [3,0], base3: [2,0]
+base1: true, base2: true, base3: true
+Score: 0-7
+
+Adam Pearce: rng1 = 93 + 5 - 7 - 1 = 90
+Walk
+Team 2 pitcher (Ryan Swanson): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 1
+
+base1: [6,0], base2: [5,0], base3: [3,0]
+base1: true, base2: true, base3: true
+Score: 1-7
+
+Josh Poole: rng1 = 71 + 6 - 7 - 1 = 69
+Walk
+Team 2 pitcher (Ryan Swanson): 26 batters faced, 2 runs allowed = 26 + 5.0 = 31.0, outs: 1
+
+base1: [7,0], base2: [6,0], base3: [5,0]
+base1: true, base2: true, base3: true
+Score: 2-7
+
+Darren Chang: rng1 = 57 + 4 - 7 - 1 = 53
+rng2 = 85 + 6 - 7 - 1 = 83
+Flyout
+Team 2 pitcher (Ryan Swanson): 27 batters faced, 3 runs allowed = 27 + 7.5 = 34.5, outs: 2
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-7
+
+Team 2 pitcher change to Thomas Barnes
+
+Calder Martin: rng1 = 94 + 9 - 9 - 1 = 93
+rng2 = 51 + 9 - 8 - 1 = 51
+Single
+Team 2 pitcher (Thomas Barnes): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [0,1], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 4-7
+
+Jack Hayes: rng1 = 50 + 9 - 9 - 1 = 49
+rng2 = 95 + 9 - 8 - 1 = 95
+Flyout
+Team 2 pitcher (Thomas Barnes): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-7
+
+-----------------------
+
+BOTTOM INNING 6
+
+Jorge Gonzalez: rng1 = 77 + 11 - 9 + 1 = 80
+rng2 = 27 + 13 - 7 + 1 = 34
+Single
+Team 1 pitcher (Noah Rosario): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-7
+
+Quillin Grant: rng1 = 61 + 11 - 9 + 1 = 64
+rng2 = 90 + 12 - 7 + 1 = 96
+Flyout
+Team 1 pitcher (Noah Rosario): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-7
+
+Aiden Hayes: rng1 = 83 + 10 - 9 + 1 = 85
+rng2 = 49 + 11 - 7 + 1 = 54
+Single
+Team 1 pitcher (Noah Rosario): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [2,1], base2: [0,1], base3: false
+base1: true, base2: true, base3: false
+Score: 4-7
+
+Aaron Vera: rng1 = 98 + 9 - 9 + 1 = 99
+rng2 = 12 + 8 - 7 + 1 = 14
+Single
+Team 1 pitcher (Noah Rosario): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: [3,1], base2: [2,1], base3: false
+base1: true, base2: true, base3: false
+Score: 4-8
+
+Team 1 pitcher change to Lucas Gardner
+
+Karsen Welch: rng1 = 12 + 9 - 7 + 1 = 15
+rng2 = 86 + 6 - 9 + 1 = 84
+Flyout
+Team 1 pitcher (Lucas Gardner): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [3,1], base2: false, base3: [2,1]
+base1: true, base2: false, base3: true
+Score: 4-8
+
+Juan Pearson: rng1 = 27 + 6 - 7 + 1 = 27
+Strikeout
+Team 1 pitcher (Lucas Gardner): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-8
+
+-----------------------
+
+TOP INNING 7
+
+Esteban Mendoza: rng1 = 41 + 8 - 9 - 1 = 39
+rng2 = 73 + 8 - 8 - 1 = 72
+Flyout
+Team 2 pitcher (Thomas Barnes): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-8
+
+Luca Águila: rng1 = 42 + 4 - 9 - 1 = 36
+rng2 = 2 + 10 - 8 - 1 = 3
+Groundout
+Team 2 pitcher (Thomas Barnes): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-8
+
+Mark White: rng1 = 10 + 8 - 9 - 1 = 8
+Strikeout
+Team 2 pitcher (Thomas Barnes): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-8
+
+-----------------------
+
+BOTTOM INNING 7
+
+Zyrell Ford: rng1 = 76 + 7 - 7 + 1 = 77
+rng2 = 73 + 5 - 9 + 1 = 70
+Double
+Team 1 pitcher (Lucas Gardner): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 0
+
+base1: false, base2: [6,2], base3: false
+base1: false, base2: true, base3: false
+Score: 4-8
+
+Emanuel Gutiérrez: rng1 = 82 + 3 - 7 + 1 = 79
+rng2 = 42 + 8 - 9 + 1 = 42
+Single
+Team 1 pitcher (Lucas Gardner): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 0
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-9
+
+Seamus Tanner: rng1 = 41 + 6 - 7 + 1 = 41
+rng2 = 39 + 5 - 9 + 1 = 36
+Groundout
+Team 1 pitcher (Lucas Gardner): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: false, base2: [7,2], base3: false
+base1: false, base2: true, base3: false
+Score: 4-9
+
+Jorge Gonzalez: rng1 = 56 + 11 - 7 + 1 = 61
+rng2 = 80 + 13 - 9 + 1 = 85
+Flyout
+Team 1 pitcher (Lucas Gardner): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: false, base2: [7,2], base3: false
+base1: false, base2: true, base3: false
+Score: 4-9
+
+Quillin Grant: rng1 = 49 + 11 - 7 + 1 = 54
+rng2 = 78 + 12 - 9 + 1 = 82
+Flyout
+Team 1 pitcher (Lucas Gardner): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-9
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Kadrick Reeves
+
+Yodogawa Shosuke: rng1 = 18 + 7 - 7 - 1 = 17
+Strikeout
+Team 2 pitcher (Kadrick Reeves): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-9
+
+Adam Pearce: rng1 = 82 + 5 - 7 - 1 = 79
+rng2 = 24 + 6 - 7 - 1 = 22
+Single
+Team 2 pitcher (Kadrick Reeves): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-9
+
+Josh Poole: rng1 = 41 + 6 - 7 - 1 = 39
+rng2 = 51 + 5 - 7 - 1 = 48
+Lineout
+Team 2 pitcher (Kadrick Reeves): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-9
+
+Darren Chang: rng1 = 18 + 4 - 7 - 1 = 14
+rng2 = 42 + 6 - 7 - 1 = 40
+Groundout
+Team 2 pitcher (Kadrick Reeves): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-9
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Ian Colome
+
+Aiden Hayes: rng1 = 86 + 10 - 8 + 1 = 89
+Walk
+Team 1 pitcher (Ian Colome): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [2,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-9
+
+Aaron Vera: rng1 = 61 + 9 - 8 + 1 = 63
+rng2 = 69 + 8 - 6 + 1 = 72
+Flyout
+Team 1 pitcher (Ian Colome): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [2,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-9
+
+Karsen Welch: rng1 = 95 + 9 - 8 + 1 = 97
+rng2 = 12 + 6 - 6 + 1 = 13
+Single
+Team 1 pitcher (Ian Colome): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [4,3], base2: false, base3: [2,3]
+base1: true, base2: false, base3: true
+Score: 4-9
+
+Juan Pearson: rng1 = 4 + 6 - 8 + 1 = 3
+Strikeout
+Team 1 pitcher (Ian Colome): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [4,3], base2: false, base3: [2,3]
+base1: true, base2: false, base3: true
+Score: 4-9
+
+Zyrell Ford: rng1 = 61 + 7 - 8 + 1 = 61
+rng2 = 32 + 5 - 6 + 1 = 32
+Groundout
+Team 1 pitcher (Ian Colome): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-9
+
+-----------------------
+
+TOP INNING 9
+
+Calder Martin: rng1 = 83 + 9 - 7 - 1 = 84
+rng2 = 51 + 9 - 7 - 1 = 52
+Single
+Team 2 pitcher (Kadrick Reeves): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [0,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-9
+
+Jack Hayes: rng1 = 24 + 9 - 7 - 1 = 25
+Strikeout
+Team 2 pitcher (Kadrick Reeves): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [0,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-9
+
+Esteban Mendoza: rng1 = 26 + 8 - 7 - 1 = 26
+Strikeout
+Team 2 pitcher (Kadrick Reeves): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [0,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-9
+
+Luca Águila: rng1 = 36 + 4 - 7 - 1 = 32
+rng2 = 68 + 10 - 7 - 1 = 70
+Flyout
+Team 2 pitcher (Kadrick Reeves): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-9
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 8
+Team 2 hits: 17
+Team 1 runs: 4
+Team 2 runs: 9
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-04-29
+Calder Martin	4	0	2	0	0	0	1	1	1					Phoenix
+Jack Hayes	5	0	1	0	0	0	0	0	2	
+Esteban Mendoza	5	1	2	0	0	0	0	0	2	
+Luca Águila	5	1	1	0	0	0	0	0	1	
+Mark White	4	0	1	0	0	0	0	0	1	
+Yodogawa Shosuke	3	1	0	0	0	0	0	1	2	
+Adam Pearce	3	1	1	0	0	0	1	1	0	
+Josh Poole	3	0	0	0	0	0	1	1	1	
+Darren Chang	3	0	0	0	0	0	1	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Aaron Parry	0	1	1	1	0	0	13	9	7	1	1	4	23	
+Noah Rosario	0	0	1	0	0	0	3	5	1	0	0	1	8	
+Lucas Gardner	0	0	1	0	0	0	5	2	1	0	0	1	7	
+Ian Colome	0	0	1	0	0	0	3	1	0	0	1	1	5	
+Louis Evans	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-04-29
+Jorge Gonzalez	5	2	2	1	0	0	1	0	1					Boston
+Quillin Grant	5	1	2	0	0	1	1	0	1	
+Aiden Hayes	4	1	2	0	0	0	1	1	0	
+Aaron Vera	4	1	2	0	0	0	1	1	0	
+Karsen Welch	5	1	2	1	0	0	2	0	0	
+Juan Pearson	5	1	1	1	0	0	0	0	2	
+Zyrell Ford	5	1	2	1	0	0	1	0	1	
+Emanuel Gutiérrez	4	1	3	0	0	0	2	0	1	
+Seamus Tanner	4	0	1	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Ryan Swanson	1	0	1	1	0	0	17	5	4	0	5	7	27	
+Thomas Barnes	0	0	1	0	0	0	4	1	0	0	0	1	5	
+Kadrick Reeves	0	0	1	0	0	0	6	2	0	0	0	3	8	
+Orlando Otero	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Emilio Aguilar	0	0	0	0	0	0	0	0	0	0	0	0	0	

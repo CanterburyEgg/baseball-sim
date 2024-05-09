@@ -1,0 +1,782 @@
+TOP INNING 1
+
+Guillermo Tamayo: rng1 = 21 + 11 - 13 - 1 = 18
+Strikeout
+Team 2 pitcher (Kyushi Morimoto): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Zachary Hughes: rng1 = 85 + 10 - 13 - 1 = 81
+rng2 = 48 + 12 - 12 - 1 = 47
+Single
+Team 2 pitcher (Kyushi Morimoto): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Youngwe Park: rng1 = 2 + 10 - 13 - 1 = -2
+Strikeout
+Team 2 pitcher (Kyushi Morimoto): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Hiro Hakayawa: rng1 = 70 + 13 - 13 - 1 = 69
+rng2 = 45 + 13 - 12 - 1 = 45
+Groundout
+Team 2 pitcher (Kyushi Morimoto): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+George Nagle: rng1 = 2 + 15 - 12 + 1 = 6
+Strikeout
+Team 1 pitcher (Danny Perry): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Lawrence Randolph: rng1 = 33 + 15 - 12 + 1 = 37
+rng2 = 40 + 14 - 11 + 1 = 44
+Groundout
+Team 1 pitcher (Danny Perry): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Noah Fontenot: rng1 = 9 + 12 - 12 + 1 = 10
+Strikeout
+Team 1 pitcher (Danny Perry): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Micah Zamora: rng1 = 76 + 8 - 13 - 1 = 70
+Walk
+Team 2 pitcher (Kyushi Morimoto): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Alfredo Encarnacion: rng1 = 97 + 9 - 13 - 1 = 92
+rng2 = 53 + 10 - 12 - 1 = 50
+Single
+Team 2 pitcher (Kyushi Morimoto): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 0
+
+base1: [5,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Enrique Holmes: rng1 = 87 + 7 - 13 - 1 = 80
+rng2 = 30 + 7 - 12 - 1 = 24
+Single
+Team 2 pitcher (Kyushi Morimoto): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 0
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Max Chicote: rng1 = 38 + 8 - 13 - 1 = 32
+rng2 = 49 + 5 - 12 - 1 = 41
+Groundout
+Team 2 pitcher (Kyushi Morimoto): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: false, base2: [6,0], base3: [5,0]
+base1: false, base2: true, base3: true
+Score: 1-0
+
+Felix Alarcón: rng1 = 29 + 4 - 13 - 1 = 19
+Strikeout
+Team 2 pitcher (Kyushi Morimoto): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: false, base2: [6,0], base3: [5,0]
+base1: false, base2: true, base3: true
+Score: 1-0
+
+Guillermo Tamayo: rng1 = 94 + 11 - 13 - 1 = 91
+rng2 = 9 + 6 - 12 - 1 = 2
+Single
+Team 2 pitcher (Kyushi Morimoto): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Zachary Hughes: rng1 = 20 + 10 - 13 - 1 = 16
+Strikeout
+Team 2 pitcher (Kyushi Morimoto): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Bautista Saelices: rng1 = 25 + 10 - 12 + 1 = 24
+Strikeout
+Team 1 pitcher (Danny Perry): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Dante Arias: rng1 = 5 + 11 - 12 + 1 = 5
+Strikeout
+Team 1 pitcher (Danny Perry): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Orlando Cazalla: rng1 = 29 + 3 - 12 + 1 = 21
+Strikeout
+Team 1 pitcher (Danny Perry): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+TOP INNING 3
+
+Youngwe Park: rng1 = 9 + 10 - 13 - 1 = 5
+Strikeout
+Team 2 pitcher (Kyushi Morimoto): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Hiro Hakayawa: rng1 = 26 + 13 - 13 - 1 = 25
+Strikeout
+Team 2 pitcher (Kyushi Morimoto): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Micah Zamora: rng1 = 63 + 8 - 13 - 1 = 57
+rng2 = 56 + 12 - 12 - 1 = 55
+Lineout
+Team 2 pitcher (Kyushi Morimoto): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Sean Watson: rng1 = 81 + 6 - 12 + 1 = 76
+rng2 = 59 + 5 - 11 + 1 = 54
+Single
+Team 1 pitcher (Danny Perry): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Antonio Santiago: rng1 = 11 + 8 - 12 + 1 = 8
+Strikeout
+Team 1 pitcher (Danny Perry): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Noel Ayers: rng1 = 25 + 3 - 12 + 1 = 17
+Strikeout
+Team 1 pitcher (Danny Perry): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+George Nagle: rng1 = 4 + 15 - 12 + 1 = 8
+Strikeout
+Team 1 pitcher (Danny Perry): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+TOP INNING 4
+
+Alfredo Encarnacion: rng1 = 79 + 9 - 13 - 1 = 74
+rng2 = 36 + 10 - 12 - 1 = 33
+Single
+Team 2 pitcher (Kyushi Morimoto): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Enrique Holmes: rng1 = 84 + 7 - 13 - 1 = 77
+rng2 = 21 + 7 - 12 - 1 = 15
+Single
+Team 2 pitcher (Kyushi Morimoto): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 0
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-0
+
+Max Chicote: rng1 = 94 + 8 - 13 - 1 = 88
+Walk
+Team 2 pitcher (Kyushi Morimoto): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 0
+
+base1: [7,0], base2: [6,0], base3: [5,0]
+base1: true, base2: true, base3: true
+Score: 3-0
+
+Felix Alarcón: rng1 = 3 + 4 - 13 - 1 = -7
+Strikeout
+Team 2 pitcher (Kyushi Morimoto): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 1
+
+base1: [7,0], base2: [6,0], base3: [5,0]
+base1: true, base2: true, base3: true
+Score: 3-0
+
+Guillermo Tamayo: rng1 = 7 + 11 - 13 - 1 = 4
+Strikeout
+Team 2 pitcher (Kyushi Morimoto): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 2
+
+base1: [7,0], base2: [6,0], base3: [5,0]
+base1: true, base2: true, base3: true
+Score: 3-0
+
+Zachary Hughes: rng1 = 84 + 10 - 13 - 1 = 80
+rng2 = 34 + 12 - 12 - 1 = 33
+Single
+Team 2 pitcher (Kyushi Morimoto): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 2
+
+base1: [1,0], base2: [7,0], base3: [6,0]
+base1: true, base2: true, base3: true
+Score: 4-0
+
+Youngwe Park: rng1 = 83 + 10 - 13 - 1 = 79
+rng2 = 66 + 9 - 12 - 1 = 62
+Single
+Team 2 pitcher (Kyushi Morimoto): 21 batters faced, 6 runs allowed = 21 + 15.0 = 36.0, outs: 2
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 6-0
+
+Team 2 pitcher change to Taylor Murphy
+
+Hiro Hakayawa: rng1 = 50 + 13 - 15 - 1 = 47
+rng2 = 10 + 13 - 15 - 1 = 7
+Groundout
+Team 2 pitcher (Taylor Murphy): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-0
+
+-----------------------
+
+BOTTOM INNING 4
+
+Lawrence Randolph: rng1 = 93 + 15 - 12 + 1 = 97
+rng2 = 97 + 14 - 11 + 1 = 101
+Home run
+Team 1 pitcher (Danny Perry): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Noah Fontenot: rng1 = 51 + 12 - 12 + 1 = 52
+rng2 = 80 + 7 - 11 + 1 = 77
+Flyout
+Team 1 pitcher (Danny Perry): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Bautista Saelices: rng1 = 84 + 10 - 12 + 1 = 83
+rng2 = 86 + 9 - 11 + 1 = 85
+Home run
+Team 1 pitcher (Danny Perry): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-2
+
+Dante Arias: rng1 = 22 + 11 - 12 + 1 = 22
+Strikeout
+Team 1 pitcher (Danny Perry): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-2
+
+Orlando Cazalla: rng1 = 69 + 3 - 12 + 1 = 61
+rng2 = 34 + 8 - 11 + 1 = 32
+Groundout
+Team 1 pitcher (Danny Perry): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-2
+
+-----------------------
+
+TOP INNING 5
+
+Micah Zamora: rng1 = 61 + 8 - 15 - 1 = 53
+rng2 = 30 + 12 - 15 - 1 = 26
+Groundout
+Team 2 pitcher (Taylor Murphy): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-2
+
+Alfredo Encarnacion: rng1 = 79 + 9 - 15 - 1 = 72
+Walk
+Team 2 pitcher (Taylor Murphy): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-2
+
+Enrique Holmes: rng1 = 45 + 7 - 15 - 1 = 36
+rng2 = 82 + 7 - 15 - 1 = 73
+Flyout
+Team 2 pitcher (Taylor Murphy): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-2
+
+Max Chicote: rng1 = 68 + 8 - 15 - 1 = 60
+rng2 = 3 + 5 - 15 - 1 = -8
+Groundout
+Team 2 pitcher (Taylor Murphy): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-2
+
+-----------------------
+
+BOTTOM INNING 5
+
+Sean Watson: rng1 = 31 + 6 - 12 + 1 = 26
+Strikeout
+Team 1 pitcher (Danny Perry): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-2
+
+Antonio Santiago: rng1 = 36 + 8 - 12 + 1 = 33
+rng2 = 57 + 3 - 11 + 1 = 50
+Lineout
+Team 1 pitcher (Danny Perry): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-2
+
+Noel Ayers: rng1 = 78 + 3 - 12 + 1 = 70
+Walk
+Team 1 pitcher (Danny Perry): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-2
+
+George Nagle: rng1 = 30 + 15 - 12 + 1 = 34
+rng2 = 79 + 15 - 11 + 1 = 84
+Flyout
+Team 1 pitcher (Danny Perry): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-2
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Phil Segee
+
+Felix Alarcón: rng1 = 98 + 4 - 10 - 1 = 91
+rng2 = 2 + 5 - 10 - 1 = -4
+Single
+Team 2 pitcher (Phil Segee): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-2
+
+Guillermo Tamayo: rng1 = 19 + 11 - 10 - 1 = 19
+Strikeout
+Team 2 pitcher (Phil Segee): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-2
+
+Zachary Hughes: rng1 = 79 + 10 - 10 - 1 = 78
+rng2 = 44 + 12 - 10 - 1 = 45
+Single
+Team 2 pitcher (Phil Segee): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [1,2], base2: false, base3: [8,2]
+base1: true, base2: false, base3: true
+Score: 6-2
+
+Youngwe Park: rng1 = 99 + 10 - 10 - 1 = 98
+rng2 = 62 + 9 - 10 - 1 = 60
+Single
+Team 2 pitcher (Phil Segee): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [2,2], base2: false, base3: [1,2]
+base1: true, base2: false, base3: true
+Score: 7-2
+
+Hiro Hakayawa: rng1 = 51 + 13 - 10 - 1 = 53
+rng2 = 8 + 13 - 10 - 1 = 10
+Groundout
+Team 2 pitcher (Phil Segee): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [3,2], base2: false, base3: [1,2]
+base1: true, base2: false, base3: true
+Score: 7-2
+
+Micah Zamora: rng1 = 30 + 8 - 10 - 1 = 27
+Strikeout
+Team 2 pitcher (Phil Segee): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-2
+
+-----------------------
+
+BOTTOM INNING 6
+
+Lawrence Randolph: rng1 = 28 + 15 - 12 + 1 = 32
+rng2 = 63 + 14 - 11 + 1 = 67
+Flyout
+Team 1 pitcher (Danny Perry): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-2
+
+Noah Fontenot: rng1 = 72 + 12 - 12 + 1 = 73
+rng2 = 6 + 7 - 11 + 1 = 3
+Single
+Team 1 pitcher (Danny Perry): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-2
+
+Bautista Saelices: rng1 = 30 + 10 - 12 + 1 = 29
+rng2 = 81 + 9 - 11 + 1 = 80
+Flyout
+Team 1 pitcher (Danny Perry): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-2
+
+Dante Arias: rng1 = 59 + 11 - 12 + 1 = 59
+rng2 = 32 + 8 - 11 + 1 = 30
+Groundout
+Team 1 pitcher (Danny Perry): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-2
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Rodrigo Valerio
+
+Alfredo Encarnacion: rng1 = 44 + 9 - 10 - 1 = 42
+rng2 = 25 + 10 - 9 - 1 = 25
+Groundout
+Team 2 pitcher (Rodrigo Valerio): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-2
+
+Enrique Holmes: rng1 = 43 + 7 - 10 - 1 = 39
+rng2 = 27 + 7 - 9 - 1 = 24
+Groundout
+Team 2 pitcher (Rodrigo Valerio): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-2
+
+Max Chicote: rng1 = 29 + 8 - 10 - 1 = 26
+Strikeout
+Team 2 pitcher (Rodrigo Valerio): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-2
+
+-----------------------
+
+BOTTOM INNING 7
+
+Orlando Cazalla: rng1 = 17 + 3 - 12 + 1 = 9
+Strikeout
+Team 1 pitcher (Danny Perry): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-2
+
+Sean Watson: rng1 = 28 + 6 - 12 + 1 = 23
+Strikeout
+Team 1 pitcher (Danny Perry): 25 batters faced, 2 runs allowed = 25 + 5.0 = 30.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-2
+
+Antonio Santiago: rng1 = 82 + 8 - 12 + 1 = 79
+rng2 = 24 + 3 - 11 + 1 = 17
+Single
+Team 1 pitcher (Danny Perry): 26 batters faced, 2 runs allowed = 26 + 5.0 = 31.0, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-2
+
+Noel Ayers: rng1 = 22 + 3 - 12 + 1 = 14
+rng2 = 12 + 7 - 11 + 1 = 9
+Groundout
+Team 1 pitcher (Danny Perry): 27 batters faced, 2 runs allowed = 27 + 5.0 = 32.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-2
+
+-----------------------
+
+TOP INNING 8
+
+Felix Alarcón: rng1 = 13 + 4 - 10 - 1 = 6
+Strikeout
+Team 2 pitcher (Rodrigo Valerio): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-2
+
+Guillermo Tamayo: rng1 = 79 + 11 - 10 - 1 = 79
+rng2 = 74 + 6 - 9 - 1 = 70
+Double
+Team 2 pitcher (Rodrigo Valerio): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: [0,3], base3: false
+base1: false, base2: true, base3: false
+Score: 7-2
+
+Zachary Hughes: rng1 = 90 + 10 - 10 - 1 = 89
+Walk
+Team 2 pitcher (Rodrigo Valerio): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [1,3], base2: [0,3], base3: false
+base1: true, base2: true, base3: false
+Score: 7-2
+
+Youngwe Park: rng1 = 32 + 10 - 10 - 1 = 31
+rng2 = 10 + 9 - 9 - 1 = 9
+Groundout
+Team 2 pitcher (Rodrigo Valerio): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-2
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Amante Harvey
+
+George Nagle: rng1 = 82 + 15 - 11 + 1 = 87
+Walk
+Team 1 pitcher (Amante Harvey): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-2
+
+Lawrence Randolph: rng1 = 48 + 15 - 11 + 1 = 53
+rng2 = 12 + 14 - 11 + 1 = 16
+Groundout
+Team 1 pitcher (Amante Harvey): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-2
+
+Noah Fontenot: rng1 = 9 + 12 - 11 + 1 = 11
+rng2 = 41 + 7 - 11 + 1 = 38
+Groundout
+Team 1 pitcher (Amante Harvey): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-2
+
+Bautista Saelices: rng1 = 47 + 10 - 11 + 1 = 47
+rng2 = 89 + 9 - 11 + 1 = 88
+Flyout
+Team 1 pitcher (Amante Harvey): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-2
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Macos Alguacil
+
+Hiro Hakayawa: rng1 = 32 + 13 - 15 - 1 = 29
+rng2 = 78 + 13 - 15 - 1 = 75
+Flyout
+Team 2 pitcher (Macos Alguacil): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-2
+
+Micah Zamora: rng1 = 87 + 8 - 15 - 1 = 79
+rng2 = 27 + 12 - 15 - 1 = 23
+Single
+Team 2 pitcher (Macos Alguacil): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [4,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-2
+
+Alfredo Encarnacion: rng1 = 85 + 9 - 15 - 1 = 78
+rng2 = 57 + 10 - 15 - 1 = 51
+Single
+Team 2 pitcher (Macos Alguacil): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [5,4], base2: [4,4], base3: false
+base1: true, base2: true, base3: false
+Score: 7-2
+
+Enrique Holmes: rng1 = 17 + 7 - 15 - 1 = 8
+Strikeout
+Team 2 pitcher (Macos Alguacil): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [5,4], base2: [4,4], base3: false
+base1: true, base2: true, base3: false
+Score: 7-2
+
+Max Chicote: rng1 = 30 + 8 - 15 - 1 = 22
+Strikeout
+Team 2 pitcher (Macos Alguacil): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-2
+
+-----------------------
+
+BOTTOM INNING 9
+
+Dante Arias: rng1 = 95 + 11 - 11 + 1 = 96
+rng2 = 29 + 8 - 11 + 1 = 27
+Single
+Team 1 pitcher (Amante Harvey): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-2
+
+Orlando Cazalla: rng1 = 26 + 3 - 11 + 1 = 19
+Strikeout
+Team 1 pitcher (Amante Harvey): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-2
+
+Sean Watson: rng1 = 28 + 6 - 11 + 1 = 24
+Strikeout
+Team 1 pitcher (Amante Harvey): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-2
+
+Antonio Santiago: rng1 = 16 + 8 - 11 + 1 = 14
+rng2 = 25 + 3 - 11 + 1 = 18
+Groundout
+Team 1 pitcher (Amante Harvey): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-2
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 14
+Team 2 hits: 6
+Team 1 runs: 7
+Team 2 runs: 2
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-06
+Guillermo Tamayo	5	0	2	1	0	0	2	0	3					Colorado
+Zachary Hughes	4	0	3	0	0	0	1	1	1	
+Youngwe Park	5	0	2	0	0	0	3	0	2	
+Hiro Hakayawa	5	0	0	0	0	0	0	0	1	
+Micah Zamora	4	1	1	0	0	0	0	1	1	
+Alfredo Encarnacion	4	2	3	0	0	0	0	1	0	
+Enrique Holmes	5	2	2	0	0	0	1	0	1	
+Max Chicote	4	1	0	0	0	0	0	1	2	
+Felix Alarcón	4	1	1	0	0	0	0	0	3	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Danny Perry	1	0	1	1	0	0	21	5	2	2	1	12	27	
+Amante Harvey	0	0	1	0	0	0	6	1	0	0	1	2	8	
+Lyndon Perell	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Julio Carrera	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Marquis Haynes	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-06
+George Nagle	3	0	0	0	0	0	0	1	2					Las Vegas
+Lawrence Randolph	4	1	1	0	0	1	1	0	0	
+Noah Fontenot	4	0	1	0	0	0	0	0	1	
+Bautista Saelices	4	1	1	0	0	1	1	0	1	
+Dante Arias	4	0	1	0	0	0	0	0	2	
+Orlando Cazalla	4	0	0	0	0	0	0	0	3	
+Sean Watson	4	0	1	0	0	0	0	0	3	
+Antonio Santiago	4	0	1	0	0	0	0	0	1	
+Noel Ayers	2	0	0	0	0	0	0	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Kyushi Morimoto	0	1	1	1	0	0	11	8	6	0	2	8	21	
+Taylor Murphy	0	0	1	0	0	0	4	0	0	0	1	0	5	
+Phil Segee	0	0	1	0	0	0	3	3	1	0	0	2	6	
+Rodrigo Valerio	0	0	1	0	0	0	6	1	0	0	1	2	7	
+Macos Alguacil	0	0	1	0	0	0	3	2	0	0	0	2	5	

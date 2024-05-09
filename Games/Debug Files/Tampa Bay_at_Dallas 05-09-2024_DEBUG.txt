@@ -1,0 +1,746 @@
+TOP INNING 1
+
+Koyama Tsuneo: rng1 = 75 + 15 - 8 - 1 = 81
+rng2 = 32 + 13 - 7 - 1 = 37
+Single
+Team 2 pitcher (Bailey M-M): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Kim Tae-Woo: rng1 = 47 + 14 - 8 - 1 = 52
+rng2 = 92 + 14 - 7 - 1 = 98
+Flyout
+Team 2 pitcher (Bailey M-M): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Justus Pate: rng1 = 90 + 12 - 8 - 1 = 93
+rng2 = 29 + 14 - 7 - 1 = 35
+Single
+Team 2 pitcher (Bailey M-M): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Chris Lane: rng1 = 98 + 11 - 8 - 1 = 100
+rng2 = 48 + 13 - 7 - 1 = 53
+Single
+Team 2 pitcher (Bailey M-M): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [3,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Leonardo Nunez: rng1 = 16 + 11 - 8 - 1 = 18
+Strikeout
+Team 2 pitcher (Bailey M-M): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [3,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Charles Harris: rng1 = 7 + 6 - 8 - 1 = 4
+Strikeout
+Team 2 pitcher (Bailey M-M): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Finnegan Maxwell: rng1 = 27 + 15 - 10 + 1 = 33
+rng2 = 32 + 15 - 10 + 1 = 38
+Groundout
+Team 1 pitcher (Rafael Gomez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Angel Gutiérrez: rng1 = 31 + 15 - 10 + 1 = 37
+rng2 = 33 + 14 - 10 + 1 = 38
+Groundout
+Team 1 pitcher (Rafael Gomez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Bailey Myers-Morgan: rng1 = 93 + 10 - 10 + 1 = 94
+rng2 = 27 + 10 - 10 + 1 = 28
+Single
+Team 1 pitcher (Rafael Gomez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Nick Hamburger: rng1 = 98 + 12 - 10 + 1 = 101
+rng2 = 79 + 13 - 10 + 1 = 83
+Home run
+Team 1 pitcher (Rafael Gomez): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Emiliano Costa: rng1 = 76 + 7 - 10 + 1 = 74
+rng2 = 90 + 8 - 10 + 1 = 89
+Double
+Team 1 pitcher (Rafael Gomez): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-2
+
+Alejandro Munoz: rng1 = 96 + 6 - 10 + 1 = 93
+rng2 = 2 + 8 - 10 + 1 = 1
+Single
+Team 1 pitcher (Rafael Gomez): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Casey Myers-Morgan: rng1 = 100 + 7 - 10 + 1 = 98
+rng2 = 26 + 7 - 10 + 1 = 24
+Single
+Team 1 pitcher (Rafael Gomez): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 2
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-3
+
+Facundo Laguna: rng1 = 64 + 5 - 10 + 1 = 60
+rng2 = 79 + 8 - 10 + 1 = 78
+Flyout
+Team 1 pitcher (Rafael Gomez): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 2
+
+Jeronimo Maldonado: rng1 = 38 + 6 - 8 - 1 = 35
+rng2 = 3 + 9 - 7 - 1 = 4
+Groundout
+Team 2 pitcher (Bailey M-M): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Sam Snyder: rng1 = 97 + 4 - 8 - 1 = 92
+rng2 = 31 + 10 - 7 - 1 = 33
+Single
+Team 2 pitcher (Bailey M-M): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Jerome Goodwin: rng1 = 26 + 7 - 8 - 1 = 24
+Strikeout
+Team 2 pitcher (Bailey M-M): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Koyama Tsuneo: rng1 = 56 + 15 - 8 - 1 = 62
+rng2 = 17 + 13 - 7 - 1 = 22
+Groundout
+Team 2 pitcher (Bailey M-M): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+BOTTOM INNING 2
+
+Santino Alcantara: rng1 = 44 + 7 - 10 + 1 = 42
+rng2 = 27 + 6 - 10 + 1 = 24
+Groundout
+Team 1 pitcher (Rafael Gomez): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Finnegan Maxwell: rng1 = 45 + 15 - 10 + 1 = 51
+rng2 = 47 + 15 - 10 + 1 = 53
+Lineout
+Team 1 pitcher (Rafael Gomez): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Angel Gutiérrez: rng1 = 31 + 15 - 10 + 1 = 37
+rng2 = 78 + 14 - 10 + 1 = 83
+Flyout
+Team 1 pitcher (Rafael Gomez): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 3
+
+Kim Tae-Woo: rng1 = 62 + 14 - 8 - 1 = 67
+rng2 = 75 + 14 - 7 - 1 = 81
+Flyout
+Team 2 pitcher (Bailey M-M): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Justus Pate: rng1 = 37 + 12 - 8 - 1 = 40
+rng2 = 2 + 14 - 7 - 1 = 8
+Groundout
+Team 2 pitcher (Bailey M-M): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Chris Lane: rng1 = 89 + 11 - 8 - 1 = 91
+rng2 = 58 + 13 - 7 - 1 = 63
+Single
+Team 2 pitcher (Bailey M-M): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Leonardo Nunez: rng1 = 68 + 11 - 8 - 1 = 70
+Walk
+Team 2 pitcher (Bailey M-M): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-3
+
+Charles Harris: rng1 = 21 + 6 - 8 - 1 = 18
+Strikeout
+Team 2 pitcher (Bailey M-M): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+BOTTOM INNING 3
+
+Bailey Myers-Morgan: rng1 = 26 + 10 - 10 + 1 = 27
+Strikeout
+Team 1 pitcher (Rafael Gomez): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Nick Hamburger: rng1 = 77 + 12 - 10 + 1 = 80
+rng2 = 48 + 13 - 10 + 1 = 52
+Single
+Team 1 pitcher (Rafael Gomez): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Emiliano Costa: rng1 = 75 + 7 - 10 + 1 = 73
+rng2 = 80 + 8 - 10 + 1 = 79
+Triple
+Team 1 pitcher (Rafael Gomez): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 1
+
+base1: false, base2: false, base3: [4,0]
+base1: false, base2: false, base3: true
+Score: 1-4
+
+Alejandro Munoz: rng1 = 33 + 6 - 10 + 1 = 30
+rng2 = 94 + 8 - 10 + 1 = 93
+Flyout
+Team 1 pitcher (Rafael Gomez): 15 batters faced, 5 runs allowed = 15 + 12.5 = 27.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Casey Myers-Morgan: rng1 = 22 + 7 - 10 + 1 = 20
+Strikeout
+Team 1 pitcher (Rafael Gomez): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+TOP INNING 4
+
+Jeronimo Maldonado: rng1 = 98 + 6 - 8 - 1 = 95
+rng2 = 54 + 9 - 7 - 1 = 55
+Single
+Team 2 pitcher (Bailey M-M): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Sam Snyder: rng1 = 70 + 4 - 8 - 1 = 65
+rng2 = 44 + 10 - 7 - 1 = 46
+Groundout
+Team 2 pitcher (Bailey M-M): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Jerome Goodwin: rng1 = 1 + 7 - 8 - 1 = -1
+Strikeout
+Team 2 pitcher (Bailey M-M): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Koyama Tsuneo: rng1 = 84 + 15 - 8 - 1 = 90
+Walk
+Team 2 pitcher (Bailey M-M): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 2
+
+base1: [0,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-5
+
+Kim Tae-Woo: rng1 = 46 + 14 - 8 - 1 = 51
+rng2 = 33 + 14 - 7 - 1 = 39
+Groundout
+Team 2 pitcher (Bailey M-M): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+BOTTOM INNING 4
+
+Facundo Laguna: rng1 = 28 + 5 - 10 + 1 = 24
+Strikeout
+Team 1 pitcher (Rafael Gomez): 17 batters faced, 5 runs allowed = 17 + 12.5 = 29.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Santino Alcantara: rng1 = 30 + 7 - 10 + 1 = 28
+Strikeout
+Team 1 pitcher (Rafael Gomez): 18 batters faced, 5 runs allowed = 18 + 12.5 = 30.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Finnegan Maxwell: rng1 = 3 + 15 - 10 + 1 = 9
+Strikeout
+Team 1 pitcher (Rafael Gomez): 19 batters faced, 5 runs allowed = 19 + 12.5 = 31.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+TOP INNING 5
+
+Justus Pate: rng1 = 99 + 12 - 8 - 1 = 102
+rng2 = 5 + 14 - 7 - 1 = 11
+Single
+Team 2 pitcher (Bailey M-M): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 0
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Chris Lane: rng1 = 8 + 11 - 8 - 1 = 10
+Strikeout
+Team 2 pitcher (Bailey M-M): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Leonardo Nunez: rng1 = 9 + 11 - 8 - 1 = 11
+rng2 = 33 + 8 - 7 - 1 = 33
+Groundout
+Team 2 pitcher (Bailey M-M): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Charles Harris: rng1 = 50 + 6 - 8 - 1 = 47
+rng2 = 47 + 10 - 7 - 1 = 49
+Lineout
+Team 2 pitcher (Bailey M-M): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Logan Rogers
+
+Angel Gutiérrez: rng1 = 39 + 15 - 9 + 1 = 46
+rng2 = 7 + 14 - 7 + 1 = 15
+Groundout
+Team 1 pitcher (Logan Rogers): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Bailey Myers-Morgan: rng1 = 61 + 10 - 9 + 1 = 63
+rng2 = 10 + 10 - 7 + 1 = 14
+Groundout
+Team 1 pitcher (Logan Rogers): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Nick Hamburger: rng1 = 70 + 12 - 9 + 1 = 74
+rng2 = 88 + 13 - 7 + 1 = 95
+Home run
+Team 1 pitcher (Logan Rogers): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Emiliano Costa: rng1 = 98 + 7 - 9 + 1 = 97
+rng2 = 55 + 8 - 7 + 1 = 57
+Single
+Team 1 pitcher (Logan Rogers): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Alejandro Munoz: rng1 = 40 + 6 - 9 + 1 = 38
+rng2 = 88 + 8 - 7 + 1 = 90
+Flyout
+Team 1 pitcher (Logan Rogers): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Sergio Narvaez
+
+Jeronimo Maldonado: rng1 = 43 + 6 - 12 - 1 = 36
+rng2 = 49 + 9 - 12 - 1 = 45
+Groundout
+Team 2 pitcher (Sergio Narvaez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Sam Snyder: rng1 = 61 + 4 - 12 - 1 = 52
+rng2 = 53 + 10 - 12 - 1 = 50
+Lineout
+Team 2 pitcher (Sergio Narvaez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Jerome Goodwin: rng1 = 43 + 7 - 12 - 1 = 37
+rng2 = 58 + 6 - 12 - 1 = 51
+Lineout
+Team 2 pitcher (Sergio Narvaez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Ignacio Morales
+
+Casey Myers-Morgan: rng1 = 92 + 7 - 8 + 1 = 92
+rng2 = 19 + 7 - 7 + 1 = 20
+Single
+Team 1 pitcher (Ignacio Morales): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Facundo Laguna: rng1 = 10 + 5 - 8 + 1 = 8
+Strikeout
+Team 1 pitcher (Ignacio Morales): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Santino Alcantara: rng1 = 32 + 7 - 8 + 1 = 32
+rng2 = 84 + 6 - 7 + 1 = 84
+Flyout
+Team 1 pitcher (Ignacio Morales): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Finnegan Maxwell: rng1 = 46 + 15 - 8 + 1 = 54
+rng2 = 5 + 15 - 7 + 1 = 14
+Groundout
+Team 1 pitcher (Ignacio Morales): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 7
+
+Koyama Tsuneo: rng1 = 86 + 15 - 12 - 1 = 88
+Walk
+Team 2 pitcher (Sergio Narvaez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Kim Tae-Woo: rng1 = 7 + 14 - 12 - 1 = 8
+Strikeout
+Team 2 pitcher (Sergio Narvaez): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Justus Pate: rng1 = 3 + 12 - 12 - 1 = 2
+Strikeout
+Team 2 pitcher (Sergio Narvaez): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Chris Lane: rng1 = 16 + 11 - 12 - 1 = 14
+rng2 = 71 + 13 - 12 - 1 = 71
+Flyout
+Team 2 pitcher (Sergio Narvaez): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+BOTTOM INNING 7
+
+Angel Gutiérrez: rng1 = 86 + 15 - 8 + 1 = 94
+rng2 = 3 + 14 - 7 + 1 = 11
+Single
+Team 1 pitcher (Ignacio Morales): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Bailey Myers-Morgan: rng1 = 83 + 10 - 8 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Ignacio Morales): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 0
+
+base1: [2,2], base2: [1,2], base3: false
+base1: true, base2: true, base3: false
+Score: 1-6
+
+Nick Hamburger: rng1 = 50 + 12 - 8 + 1 = 55
+rng2 = 9 + 13 - 7 + 1 = 16
+Groundout
+Team 1 pitcher (Ignacio Morales): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: false, base3: [1,2]
+base1: false, base2: false, base3: true
+Score: 1-6
+
+Emiliano Costa: rng1 = 25 + 7 - 8 + 1 = 25
+Strikeout
+Team 1 pitcher (Ignacio Morales): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Abel Vera
+
+Leonardo Nunez: rng1 = 87 + 11 - 9 - 1 = 88
+Walk
+Team 2 pitcher (Abel Vera): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Charles Harris: rng1 = 31 + 6 - 9 - 1 = 27
+Strikeout
+Team 2 pitcher (Abel Vera): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Jeronimo Maldonado: rng1 = 55 + 6 - 9 - 1 = 51
+rng2 = 39 + 9 - 7 - 1 = 40
+Groundout
+Team 2 pitcher (Abel Vera): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Boone Almas
+
+Alejandro Munoz: rng1 = 65 + 6 - 6 + 1 = 66
+rng2 = 12 + 8 - 9 + 1 = 12
+Groundout
+Team 1 pitcher (Boone Almas): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Casey Myers-Morgan: rng1 = 36 + 7 - 6 + 1 = 38
+rng2 = 69 + 7 - 9 + 1 = 68
+Flyout
+Team 1 pitcher (Boone Almas): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Facundo Laguna: rng1 = 65 + 5 - 6 + 1 = 65
+rng2 = 54 + 8 - 9 + 1 = 54
+Lineout
+Team 1 pitcher (Boone Almas): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 9
+
+Sam Snyder: rng1 = 39 + 4 - 9 - 1 = 33
+rng2 = 92 + 10 - 7 - 1 = 94
+Flyout
+Team 2 pitcher (Abel Vera): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Jerome Goodwin: rng1 = 78 + 7 - 9 - 1 = 75
+rng2 = 34 + 6 - 7 - 1 = 32
+Single
+Team 2 pitcher (Abel Vera): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Koyama Tsuneo: rng1 = 99 + 15 - 9 - 1 = 104
+rng2 = 48 + 13 - 7 - 1 = 53
+Single
+Team 2 pitcher (Abel Vera): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [0,2], base2: false, base3: [8,2]
+base1: true, base2: false, base3: true
+Score: 1-6
+
+Kim Tae-Woo: rng1 = 58 + 14 - 9 - 1 = 62
+rng2 = 77 + 14 - 7 - 1 = 83
+Flyout
+Team 2 pitcher (Abel Vera): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: [0,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-6
+
+Justus Pate: rng1 = 18 + 12 - 9 - 1 = 20
+Strikeout
+Team 2 pitcher (Abel Vera): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-6
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 9
+Team 2 hits: 11
+Team 1 runs: 2
+Team 2 runs: 6
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-09
+Koyama Tsuneo	3	1	2	0	0	0	0	2	0					Tampa Bay
+Kim Tae-Woo	5	0	0	0	0	0	1	0	1	
+Justus Pate	5	0	2	0	0	0	0	0	2	
+Chris Lane	4	0	2	0	0	0	1	0	1	
+Leonardo Nunez	2	0	0	0	0	0	0	2	1	
+Charles Harris	4	0	0	0	0	0	0	0	3	
+Jeronimo Maldonado	4	0	1	0	0	0	0	0	0	
+Sam Snyder	4	0	1	0	0	0	0	0	0	
+Jerome Goodwin	4	1	1	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Rafael Gomez	0	1	1	1	0	0	12	7	5	1	0	5	19	
+Logan Rogers	0	0	1	0	0	0	3	2	1	1	0	0	5	
+Ignacio Morales	0	0	1	0	0	0	6	2	0	0	0	2	8	
+Boone Almas	0	0	1	0	0	0	3	0	0	0	0	0	3	
+William Sheppard	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-09
+Finnegan Maxwell	4	0	0	0	0	0	0	0	1					Dallas
+Angel Gutiérrez	4	0	1	0	0	0	0	0	0	
+Bailey Myers-Morgan	3	1	1	0	0	0	0	0	1	
+Nick Hamburger	4	3	3	0	0	2	3	0	0	
+Emiliano Costa	4	2	3	1	1	0	1	0	1	
+Alejandro Munoz	4	0	1	0	0	0	2	0	0	
+Casey Myers-Morgan	4	0	2	0	0	0	0	0	1	
+Facundo Laguna	4	0	0	0	0	0	0	0	2	
+Santino Alcantara	3	0	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Bailey M-M	1	0	1	1	0	0	15	7	1	0	2	6	24	
+Sergio Narvaez	0	0	1	0	0	0	6	0	0	0	1	2	7	
+Abel Vera	0	0	1	0	0	0	6	2	1	0	1	2	8	
+David Juarez	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Seno Mashiro	0	0	0	0	0	0	0	0	0	0	0	0	0	

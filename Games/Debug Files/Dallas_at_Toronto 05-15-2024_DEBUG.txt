@@ -1,0 +1,757 @@
+TOP INNING 1
+
+Finnegan Maxwell: rng1 = 25 + 15 - 13 - 1 = 26
+Strikeout
+Team 2 pitcher (Billy Saunders): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Angel Gutiérrez: rng1 = 13 + 15 - 13 - 1 = 14
+rng2 = 15 + 14 - 14 - 1 = 14
+Groundout
+Team 2 pitcher (Billy Saunders): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Bailey Myers-Morgan: rng1 = 58 + 10 - 13 - 1 = 54
+rng2 = 36 + 10 - 14 - 1 = 31
+Groundout
+Team 2 pitcher (Billy Saunders): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Isaac Morris: rng1 = 27 + 15 - 8 + 1 = 35
+rng2 = 56 + 15 - 7 + 1 = 65
+Flyout
+Team 1 pitcher (Bailey M-M): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Ryuke Watanabe: rng1 = 76 + 14 - 8 + 1 = 83
+rng2 = 62 + 12 - 7 + 1 = 68
+Double
+Team 1 pitcher (Bailey M-M): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Yorell Harmon: rng1 = 81 + 12 - 8 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Bailey M-M): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Angel Semprún: rng1 = 46 + 12 - 8 + 1 = 51
+rng2 = 2 + 10 - 7 + 1 = 6
+Groundout
+Team 1 pitcher (Bailey M-M): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [3,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Trey Walter: rng1 = 42 + 11 - 8 + 1 = 46
+rng2 = 46 + 10 - 7 + 1 = 50
+Lineout
+Team 1 pitcher (Bailey M-M): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Nick Hamburger: rng1 = 16 + 12 - 13 - 1 = 14
+rng2 = 62 + 13 - 14 - 1 = 60
+Flyout
+Team 2 pitcher (Billy Saunders): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Emiliano Costa: rng1 = 2 + 7 - 13 - 1 = -5
+Strikeout
+Team 2 pitcher (Billy Saunders): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Alejandro Munoz: rng1 = 15 + 6 - 13 - 1 = 7
+Strikeout
+Team 2 pitcher (Billy Saunders): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Martin Holland: rng1 = 51 + 12 - 8 + 1 = 56
+rng2 = 33 + 5 - 7 + 1 = 32
+Groundout
+Team 1 pitcher (Bailey M-M): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Parker Dillard: rng1 = 79 + 6 - 8 + 1 = 78
+rng2 = 87 + 6 - 7 + 1 = 87
+Double
+Team 1 pitcher (Bailey M-M): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Romero Hidalgo: rng1 = 18 + 8 - 8 + 1 = 19
+Strikeout
+Team 1 pitcher (Bailey M-M): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Whalen Tate: rng1 = 97 + 2 - 8 + 1 = 92
+rng2 = 75 + 8 - 7 + 1 = 77
+Double
+Team 1 pitcher (Bailey M-M): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Isaac Morris: rng1 = 42 + 15 - 8 + 1 = 50
+rng2 = 73 + 15 - 7 + 1 = 82
+Flyout
+Team 1 pitcher (Bailey M-M): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 3
+
+Casey Myers-Morgan: rng1 = 16 + 7 - 13 - 1 = 9
+Strikeout
+Team 2 pitcher (Billy Saunders): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Facundo Laguna: rng1 = 62 + 5 - 13 - 1 = 53
+rng2 = 18 + 8 - 14 - 1 = 11
+Groundout
+Team 2 pitcher (Billy Saunders): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Santino Alcantara: rng1 = 83 + 7 - 13 - 1 = 76
+rng2 = 34 + 6 - 14 - 1 = 25
+Single
+Team 2 pitcher (Billy Saunders): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Finnegan Maxwell: rng1 = 29 + 15 - 13 - 1 = 30
+rng2 = 56 + 15 - 14 - 1 = 56
+Lineout
+Team 2 pitcher (Billy Saunders): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Ryuke Watanabe: rng1 = 75 + 14 - 8 + 1 = 82
+rng2 = 31 + 12 - 7 + 1 = 37
+Single
+Team 1 pitcher (Bailey M-M): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Yorell Harmon: rng1 = 32 + 12 - 8 + 1 = 37
+rng2 = 17 + 14 - 7 + 1 = 25
+Groundout
+Team 1 pitcher (Bailey M-M): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Angel Semprún: rng1 = 93 + 12 - 8 + 1 = 98
+rng2 = 10 + 10 - 7 + 1 = 14
+Single
+Team 1 pitcher (Bailey M-M): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Trey Walter: rng1 = 25 + 11 - 8 + 1 = 29
+rng2 = 56 + 10 - 7 + 1 = 60
+Flyout
+Team 1 pitcher (Bailey M-M): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Martin Holland: rng1 = 80 + 12 - 8 + 1 = 85
+rng2 = 54 + 5 - 7 + 1 = 53
+Single
+Team 1 pitcher (Bailey M-M): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 2
+
+base1: [5,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-2
+
+Parker Dillard: rng1 = 99 + 6 - 8 + 1 = 98
+rng2 = 56 + 6 - 7 + 1 = 56
+Single
+Team 1 pitcher (Bailey M-M): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 2
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 0-3
+
+Romero Hidalgo: rng1 = 73 + 8 - 8 + 1 = 74
+rng2 = 46 + 3 - 7 + 1 = 43
+Single
+Team 1 pitcher (Bailey M-M): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 2
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-4
+
+Whalen Tate: rng1 = 81 + 2 - 8 + 1 = 76
+rng2 = 5 + 8 - 7 + 1 = 7
+Single
+Team 1 pitcher (Bailey M-M): 18 batters faced, 5 runs allowed = 18 + 12.5 = 30.5, outs: 2
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-5
+
+Isaac Morris: rng1 = 100 + 15 - 8 + 1 = 108
+rng2 = 63 + 15 - 7 + 1 = 72
+Double
+Team 1 pitcher (Bailey M-M): 19 batters faced, 7 runs allowed = 19 + 17.5 = 36.5, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-7
+
+Team 1 pitcher change to Abel Vera
+
+Ryuke Watanabe: rng1 = 28 + 14 - 9 + 1 = 34
+rng2 = 72 + 12 - 7 + 1 = 78
+Flyout
+Team 1 pitcher (Abel Vera): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-7
+
+-----------------------
+
+TOP INNING 4
+
+Angel Gutiérrez: rng1 = 74 + 15 - 13 - 1 = 75
+rng2 = 78 + 14 - 14 - 1 = 77
+Double
+Team 2 pitcher (Billy Saunders): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 0
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-7
+
+Bailey Myers-Morgan: rng1 = 2 + 10 - 13 - 1 = -2
+Strikeout
+Team 2 pitcher (Billy Saunders): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-7
+
+Nick Hamburger: rng1 = 55 + 12 - 13 - 1 = 53
+rng2 = 61 + 13 - 14 - 1 = 59
+Flyout
+Team 2 pitcher (Billy Saunders): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-7
+
+Emiliano Costa: rng1 = 58 + 7 - 13 - 1 = 51
+rng2 = 8 + 8 - 14 - 1 = 1
+Groundout
+Team 2 pitcher (Billy Saunders): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-7
+
+-----------------------
+
+BOTTOM INNING 4
+
+Yorell Harmon: rng1 = 16 + 12 - 9 + 1 = 20
+Strikeout
+Team 1 pitcher (Abel Vera): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-7
+
+Angel Semprún: rng1 = 82 + 12 - 9 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Abel Vera): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-7
+
+Trey Walter: rng1 = 50 + 11 - 9 + 1 = 53
+rng2 = 81 + 10 - 7 + 1 = 85
+Flyout
+Team 1 pitcher (Abel Vera): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-7
+
+Martin Holland: rng1 = 44 + 12 - 9 + 1 = 48
+rng2 = 2 + 5 - 7 + 1 = 1
+Groundout
+Team 1 pitcher (Abel Vera): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-7
+
+-----------------------
+
+TOP INNING 5
+
+Alejandro Munoz: rng1 = 92 + 6 - 13 - 1 = 84
+rng2 = 85 + 8 - 14 - 1 = 78
+Double
+Team 2 pitcher (Billy Saunders): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 0
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-7
+
+Casey Myers-Morgan: rng1 = 90 + 7 - 13 - 1 = 83
+rng2 = 99 + 7 - 14 - 1 = 91
+Double
+Team 2 pitcher (Billy Saunders): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 0
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-7
+
+Facundo Laguna: rng1 = 41 + 5 - 13 - 1 = 32
+rng2 = 33 + 8 - 14 - 1 = 26
+Groundout
+Team 2 pitcher (Billy Saunders): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 1
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-7
+
+Santino Alcantara: rng1 = 6 + 7 - 13 - 1 = -1
+Strikeout
+Team 2 pitcher (Billy Saunders): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 2
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-7
+
+Finnegan Maxwell: rng1 = 21 + 15 - 13 - 1 = 22
+Strikeout
+Team 2 pitcher (Billy Saunders): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-7
+
+-----------------------
+
+BOTTOM INNING 5
+
+Parker Dillard: rng1 = 71 + 6 - 9 + 1 = 69
+rng2 = 25 + 6 - 7 + 1 = 25
+Groundout
+Team 1 pitcher (Abel Vera): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-7
+
+Romero Hidalgo: rng1 = 52 + 8 - 9 + 1 = 52
+rng2 = 91 + 3 - 7 + 1 = 88
+Flyout
+Team 1 pitcher (Abel Vera): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-7
+
+Whalen Tate: rng1 = 42 + 2 - 9 + 1 = 36
+rng2 = 100 + 8 - 7 + 1 = 102
+Flyout
+Team 1 pitcher (Abel Vera): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-7
+
+-----------------------
+
+TOP INNING 6
+
+Angel Gutiérrez: rng1 = 2 + 15 - 13 - 1 = 3
+Strikeout
+Team 2 pitcher (Billy Saunders): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-7
+
+Bailey Myers-Morgan: rng1 = 67 + 10 - 13 - 1 = 63
+rng2 = 27 + 10 - 14 - 1 = 22
+Groundout
+Team 2 pitcher (Billy Saunders): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-7
+
+Nick Hamburger: rng1 = 96 + 12 - 13 - 1 = 94
+rng2 = 21 + 13 - 14 - 1 = 19
+Single
+Team 2 pitcher (Billy Saunders): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-7
+
+Emiliano Costa: rng1 = 74 + 7 - 13 - 1 = 67
+rng2 = 79 + 8 - 14 - 1 = 72
+Flyout
+Team 2 pitcher (Billy Saunders): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-7
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Sergio Narvaez
+
+Isaac Morris: rng1 = 24 + 15 - 12 + 1 = 28
+Strikeout
+Team 1 pitcher (Sergio Narvaez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-7
+
+Ryuke Watanabe: rng1 = 72 + 14 - 12 + 1 = 75
+rng2 = 27 + 12 - 12 + 1 = 28
+Single
+Team 1 pitcher (Sergio Narvaez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-7
+
+Yorell Harmon: rng1 = 9 + 12 - 12 + 1 = 10
+Strikeout
+Team 1 pitcher (Sergio Narvaez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-7
+
+Angel Semprún: rng1 = 3 + 12 - 12 + 1 = 4
+Strikeout
+Team 1 pitcher (Sergio Narvaez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-7
+
+-----------------------
+
+TOP INNING 7
+
+Alejandro Munoz: rng1 = 60 + 6 - 13 - 1 = 52
+rng2 = 77 + 8 - 14 - 1 = 70
+Flyout
+Team 2 pitcher (Billy Saunders): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-7
+
+Casey Myers-Morgan: rng1 = 7 + 7 - 13 - 1 = 0
+Strikeout
+Team 2 pitcher (Billy Saunders): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-7
+
+Facundo Laguna: rng1 = 39 + 5 - 13 - 1 = 30
+rng2 = 99 + 8 - 14 - 1 = 92
+Flyout
+Team 2 pitcher (Billy Saunders): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-7
+
+-----------------------
+
+BOTTOM INNING 7
+
+Trey Walter: rng1 = 39 + 11 - 12 + 1 = 39
+rng2 = 32 + 10 - 12 + 1 = 31
+Groundout
+Team 1 pitcher (Sergio Narvaez): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-7
+
+Martin Holland: rng1 = 45 + 12 - 12 + 1 = 46
+rng2 = 18 + 5 - 12 + 1 = 12
+Groundout
+Team 1 pitcher (Sergio Narvaez): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-7
+
+Parker Dillard: rng1 = 20 + 6 - 12 + 1 = 15
+rng2 = 5 + 6 - 12 + 1 = 0
+Groundout
+Team 1 pitcher (Sergio Narvaez): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-7
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Grover Bercher
+
+Santino Alcantara: rng1 = 23 + 7 - 7 - 1 = 22
+Strikeout
+Team 2 pitcher (Grover Bercher): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-7
+
+Finnegan Maxwell: rng1 = 75 + 15 - 7 - 1 = 82
+rng2 = 74 + 15 - 7 - 1 = 81
+Home run
+Team 2 pitcher (Grover Bercher): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Angel Gutiérrez: rng1 = 12 + 15 - 7 - 1 = 19
+Strikeout
+Team 2 pitcher (Grover Bercher): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Bailey Myers-Morgan: rng1 = 82 + 10 - 7 - 1 = 84
+rng2 = 93 + 10 - 7 - 1 = 95
+Home run
+Team 2 pitcher (Grover Bercher): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Nick Hamburger: rng1 = 91 + 12 - 7 - 1 = 95
+rng2 = 41 + 13 - 7 - 1 = 46
+Single
+Team 2 pitcher (Grover Bercher): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-7
+
+Emiliano Costa: rng1 = 73 + 7 - 7 - 1 = 72
+Walk
+Team 2 pitcher (Grover Bercher): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: [4,1], base2: [3,1], base3: false
+base1: true, base2: true, base3: false
+Score: 3-7
+
+Alejandro Munoz: rng1 = 96 + 6 - 7 - 1 = 94
+rng2 = 5 + 8 - 7 - 1 = 5
+Single
+Team 2 pitcher (Grover Bercher): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 2
+
+base1: [5,1], base2: [4,1], base3: false
+base1: true, base2: true, base3: false
+Score: 4-7
+
+Team 2 pitcher change to Liam Newman
+
+Casey Myers-Morgan: rng1 = 62 + 7 - 10 - 1 = 58
+rng2 = 78 + 7 - 9 - 1 = 75
+Flyout
+Team 2 pitcher (Liam Newman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-7
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to David Juarez
+
+Romero Hidalgo: rng1 = 5 + 8 - 7 + 1 = 7
+Strikeout
+Team 1 pitcher (David Juarez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-7
+
+Whalen Tate: rng1 = 16 + 2 - 7 + 1 = 12
+rng2 = 40 + 8 - 8 + 1 = 41
+Groundout
+Team 1 pitcher (David Juarez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-7
+
+Isaac Morris: rng1 = 2 + 15 - 7 + 1 = 11
+rng2 = 94 + 15 - 8 + 1 = 102
+Flyout
+Team 1 pitcher (David Juarez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-7
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Otis Michael
+
+Facundo Laguna: rng1 = 58 + 5 - 12 - 1 = 50
+rng2 = 29 + 8 - 14 - 1 = 22
+Groundout
+Team 2 pitcher (Otis Michael): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-7
+
+Santino Alcantara: rng1 = 80 + 7 - 12 - 1 = 74
+rng2 = 93 + 6 - 14 - 1 = 84
+Home run
+Team 2 pitcher (Otis Michael): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-7
+
+Finnegan Maxwell: rng1 = 3 + 15 - 12 - 1 = 5
+Strikeout
+Team 2 pitcher (Otis Michael): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-7
+
+Angel Gutiérrez: rng1 = 2 + 15 - 12 - 1 = 4
+Strikeout
+Team 2 pitcher (Otis Michael): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-7
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 10
+Team 2 hits: 11
+Team 1 runs: 5
+Team 2 runs: 7
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-15
+Finnegan Maxwell	5	1	1	0	0	1	1	0	3					Dallas
+Angel Gutiérrez	5	0	1	1	0	0	0	0	3	
+Bailey Myers-Morgan	4	1	1	0	0	1	1	0	1	
+Nick Hamburger	4	1	2	0	0	0	0	0	0	
+Emiliano Costa	3	0	0	0	0	0	0	1	1	
+Alejandro Munoz	4	1	2	1	0	0	1	0	1	
+Casey Myers-Morgan	4	0	1	1	0	0	1	0	2	
+Facundo Laguna	4	0	0	0	0	0	0	0	0	
+Santino Alcantara	4	1	2	0	0	1	1	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Bailey M-M	0	1	1	1	0	0	8	10	7	0	0	1	19	
+Abel Vera	0	0	1	0	0	0	7	0	0	0	0	1	8	
+Sergio Narvaez	0	0	1	0	0	0	6	1	0	0	0	3	7	
+David Juarez	0	0	1	0	0	0	3	0	0	0	0	1	3	
+Seno Mashiro	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-15
+Isaac Morris	5	0	1	1	0	0	2	0	1					Toronto
+Ryuke Watanabe	4	1	3	1	0	0	0	0	0	
+Yorell Harmon	3	0	0	0	0	0	0	0	2	
+Angel Semprún	3	1	1	0	0	0	1	0	1	
+Trey Walter	4	0	0	0	0	0	0	0	0	
+Martin Holland	4	1	1	0	0	0	0	0	0	
+Parker Dillard	4	2	2	1	0	0	1	0	0	
+Romero Hidalgo	4	1	1	0	0	0	1	0	2	
+Whalen Tate	4	1	2	1	0	0	2	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Billy Saunders	1	0	1	1	0	0	21	5	1	0	0	9	26	
+Grover Bercher	0	0	1	0	0	0	2	4	3	2	1	2	7	
+Liam Newman	0	0	1	0	0	0	1	0	0	0	0	0	1	
+Julian Carney	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Otis Michael	0	0	1	0	1	1	3	1	1	1	0	2	4	

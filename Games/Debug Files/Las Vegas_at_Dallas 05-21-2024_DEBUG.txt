@@ -1,0 +1,732 @@
+TOP INNING 1
+
+George Nagle: rng1 = 80 + 15 - 8 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Bailey M-M): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Lawrence Randolph: rng1 = 3 + 15 - 8 - 1 = 9
+Strikeout
+Team 2 pitcher (Bailey M-M): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Noah Fontenot: rng1 = 2 + 12 - 8 - 1 = 5
+Strikeout
+Team 2 pitcher (Bailey M-M): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Bautista Saelices: rng1 = 17 + 10 - 8 - 1 = 18
+Strikeout
+Team 2 pitcher (Bailey M-M): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Finnegan Maxwell: rng1 = 78 + 15 - 7 + 1 = 87
+Walk
+Team 1 pitcher (Emanuel Muñoz): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Angel Gutiérrez: rng1 = 22 + 15 - 7 + 1 = 31
+rng2 = 80 + 14 - 6 + 1 = 89
+Flyout
+Team 1 pitcher (Emanuel Muñoz): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Bailey Myers-Morgan: rng1 = 96 + 10 - 7 + 1 = 100
+rng2 = 62 + 10 - 6 + 1 = 67
+Double
+Team 1 pitcher (Emanuel Muñoz): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Nick Hamburger: rng1 = 17 + 12 - 7 + 1 = 23
+Strikeout
+Team 1 pitcher (Emanuel Muñoz): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Emiliano Costa: rng1 = 49 + 7 - 7 + 1 = 50
+rng2 = 8 + 8 - 6 + 1 = 11
+Groundout
+Team 1 pitcher (Emanuel Muñoz): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 2
+
+Dante Arias: rng1 = 46 + 11 - 8 - 1 = 48
+rng2 = 81 + 8 - 7 - 1 = 81
+Flyout
+Team 2 pitcher (Bailey M-M): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Orlando Cazalla: rng1 = 77 + 3 - 8 - 1 = 71
+Walk
+Team 2 pitcher (Bailey M-M): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Sean Watson: rng1 = 86 + 6 - 8 - 1 = 83
+rng2 = 95 + 5 - 7 - 1 = 92
+Double
+Team 2 pitcher (Bailey M-M): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: false, base2: [6,0], base3: [5,0]
+base1: false, base2: true, base3: true
+Score: 0-1
+
+Antonio Santiago: rng1 = 13 + 8 - 8 - 1 = 12
+rng2 = 100 + 3 - 7 - 1 = 95
+Flyout
+Team 2 pitcher (Bailey M-M): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Noel Ayers: rng1 = 25 + 3 - 8 - 1 = 19
+Strikeout
+Team 2 pitcher (Bailey M-M): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Alejandro Munoz: rng1 = 53 + 6 - 7 + 1 = 53
+rng2 = 7 + 8 - 6 + 1 = 10
+Groundout
+Team 1 pitcher (Emanuel Muñoz): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Casey Myers-Morgan: rng1 = 80 + 7 - 7 + 1 = 81
+rng2 = 12 + 7 - 6 + 1 = 14
+Single
+Team 1 pitcher (Emanuel Muñoz): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Facundo Laguna: rng1 = 39 + 5 - 7 + 1 = 38
+rng2 = 68 + 8 - 6 + 1 = 71
+Flyout
+Team 1 pitcher (Emanuel Muñoz): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Santino Alcantara: rng1 = 72 + 7 - 7 + 1 = 73
+rng2 = 1 + 6 - 6 + 1 = 2
+Single
+Team 1 pitcher (Emanuel Muñoz): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [8,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Finnegan Maxwell: rng1 = 96 + 15 - 7 + 1 = 105
+rng2 = 66 + 15 - 6 + 1 = 76
+Double
+Team 1 pitcher (Emanuel Muñoz): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-3
+
+Angel Gutiérrez: rng1 = 59 + 15 - 7 + 1 = 68
+rng2 = 99 + 14 - 6 + 1 = 108
+Flyout
+Team 1 pitcher (Emanuel Muñoz): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 3
+
+George Nagle: rng1 = 12 + 15 - 8 - 1 = 18
+Strikeout
+Team 2 pitcher (Bailey M-M): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Lawrence Randolph: rng1 = 52 + 15 - 8 - 1 = 58
+rng2 = 63 + 14 - 7 - 1 = 69
+Flyout
+Team 2 pitcher (Bailey M-M): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Noah Fontenot: rng1 = 16 + 12 - 8 - 1 = 19
+Strikeout
+Team 2 pitcher (Bailey M-M): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+BOTTOM INNING 3
+
+Bailey Myers-Morgan: rng1 = 46 + 10 - 7 + 1 = 50
+rng2 = 57 + 10 - 6 + 1 = 62
+Flyout
+Team 1 pitcher (Emanuel Muñoz): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Nick Hamburger: rng1 = 43 + 12 - 7 + 1 = 49
+rng2 = 50 + 13 - 6 + 1 = 58
+Lineout
+Team 1 pitcher (Emanuel Muñoz): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Emiliano Costa: rng1 = 58 + 7 - 7 + 1 = 59
+rng2 = 99 + 8 - 6 + 1 = 102
+Flyout
+Team 1 pitcher (Emanuel Muñoz): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 4
+
+Bautista Saelices: rng1 = 48 + 10 - 8 - 1 = 49
+rng2 = 97 + 9 - 7 - 1 = 98
+Flyout
+Team 2 pitcher (Bailey M-M): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Dante Arias: rng1 = 59 + 11 - 8 - 1 = 61
+rng2 = 84 + 8 - 7 - 1 = 84
+Flyout
+Team 2 pitcher (Bailey M-M): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Orlando Cazalla: rng1 = 90 + 3 - 8 - 1 = 84
+rng2 = 64 + 8 - 7 - 1 = 64
+Single
+Team 2 pitcher (Bailey M-M): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Sean Watson: rng1 = 99 + 6 - 8 - 1 = 96
+rng2 = 3 + 5 - 7 - 1 = 0
+Single
+Team 2 pitcher (Bailey M-M): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 2
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-3
+
+Antonio Santiago: rng1 = 3 + 8 - 8 - 1 = 2
+Strikeout
+Team 2 pitcher (Bailey M-M): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+BOTTOM INNING 4
+
+Alejandro Munoz: rng1 = 81 + 6 - 7 + 1 = 81
+rng2 = 46 + 8 - 6 + 1 = 49
+Single
+Team 1 pitcher (Emanuel Muñoz): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Casey Myers-Morgan: rng1 = 60 + 7 - 7 + 1 = 61
+rng2 = 17 + 7 - 6 + 1 = 19
+Groundout
+Team 1 pitcher (Emanuel Muñoz): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Facundo Laguna: rng1 = 51 + 5 - 7 + 1 = 50
+rng2 = 99 + 8 - 6 + 1 = 102
+Flyout
+Team 1 pitcher (Emanuel Muñoz): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Santino Alcantara: rng1 = 76 + 7 - 7 + 1 = 77
+rng2 = 40 + 6 - 6 + 1 = 41
+Single
+Team 1 pitcher (Emanuel Muñoz): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 2
+
+base1: [8,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 1-3
+
+Finnegan Maxwell: rng1 = 63 + 15 - 7 + 1 = 72
+Walk
+Team 1 pitcher (Emanuel Muñoz): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 2
+
+base1: [0,0], base2: [8,0], base3: [6,0]
+base1: true, base2: true, base3: true
+Score: 1-3
+
+Angel Gutiérrez: rng1 = 97 + 15 - 7 + 1 = 106
+rng2 = 78 + 14 - 6 + 1 = 87
+Double
+Team 1 pitcher (Emanuel Muñoz): 20 batters faced, 6 runs allowed = 20 + 15.0 = 35.0, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-6
+
+Bailey Myers-Morgan: rng1 = 2 + 10 - 7 + 1 = 6
+Strikeout
+Team 1 pitcher (Emanuel Muñoz): 21 batters faced, 6 runs allowed = 21 + 15.0 = 36.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 5
+
+Noel Ayers: rng1 = 19 + 3 - 8 - 1 = 13
+rng2 = 36 + 7 - 7 - 1 = 35
+Groundout
+Team 2 pitcher (Bailey M-M): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+George Nagle: rng1 = 24 + 15 - 8 - 1 = 30
+rng2 = 43 + 15 - 7 - 1 = 50
+Lineout
+Team 2 pitcher (Bailey M-M): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Lawrence Randolph: rng1 = 71 + 15 - 8 - 1 = 77
+rng2 = 62 + 14 - 7 - 1 = 68
+Double
+Team 2 pitcher (Bailey M-M): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-6
+
+Noah Fontenot: rng1 = 21 + 12 - 8 - 1 = 24
+Strikeout
+Team 2 pitcher (Bailey M-M): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Rodrigo Valerio
+
+Nick Hamburger: rng1 = 56 + 12 - 10 + 1 = 59
+rng2 = 34 + 13 - 9 + 1 = 39
+Groundout
+Team 1 pitcher (Rodrigo Valerio): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Emiliano Costa: rng1 = 25 + 7 - 10 + 1 = 23
+Strikeout
+Team 1 pitcher (Rodrigo Valerio): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Alejandro Munoz: rng1 = 3 + 6 - 10 + 1 = 0
+Strikeout
+Team 1 pitcher (Rodrigo Valerio): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 6
+
+Bautista Saelices: rng1 = 28 + 10 - 8 - 1 = 29
+rng2 = 97 + 9 - 7 - 1 = 98
+Flyout
+Team 2 pitcher (Bailey M-M): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Dante Arias: rng1 = 31 + 11 - 8 - 1 = 33
+rng2 = 98 + 8 - 7 - 1 = 98
+Flyout
+Team 2 pitcher (Bailey M-M): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Orlando Cazalla: rng1 = 88 + 3 - 8 - 1 = 82
+rng2 = 34 + 8 - 7 - 1 = 34
+Single
+Team 2 pitcher (Bailey M-M): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Sean Watson: rng1 = 5 + 6 - 8 - 1 = 2
+Strikeout
+Team 2 pitcher (Bailey M-M): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+BOTTOM INNING 6
+
+Casey Myers-Morgan: rng1 = 41 + 7 - 10 + 1 = 39
+rng2 = 23 + 7 - 9 + 1 = 22
+Groundout
+Team 1 pitcher (Rodrigo Valerio): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Facundo Laguna: rng1 = 79 + 5 - 10 + 1 = 75
+rng2 = 49 + 8 - 9 + 1 = 49
+Single
+Team 1 pitcher (Rodrigo Valerio): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Santino Alcantara: rng1 = 18 + 7 - 10 + 1 = 16
+Strikeout
+Team 1 pitcher (Rodrigo Valerio): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Finnegan Maxwell: rng1 = 5 + 15 - 10 + 1 = 11
+rng2 = 97 + 15 - 9 + 1 = 104
+Flyout
+Team 1 pitcher (Rodrigo Valerio): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 7
+
+Antonio Santiago: rng1 = 97 + 8 - 8 - 1 = 96
+rng2 = 70 + 3 - 7 - 1 = 65
+Single
+Team 2 pitcher (Bailey M-M): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Noel Ayers: rng1 = 76 + 3 - 8 - 1 = 70
+Walk
+Team 2 pitcher (Bailey M-M): 27 batters faced, 1 runs allowed = 27 + 2.5 = 29.5, outs: 0
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-6
+
+George Nagle: rng1 = 87 + 15 - 8 - 1 = 93
+rng2 = 95 + 15 - 7 - 1 = 102
+Home run
+Team 2 pitcher (Bailey M-M): 28 batters faced, 4 runs allowed = 28 + 10.0 = 38.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-6
+
+Team 2 pitcher change to David Juarez
+
+Lawrence Randolph: rng1 = 1 + 15 - 7 - 1 = 8
+Strikeout
+Team 2 pitcher (David Juarez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-6
+
+Noah Fontenot: rng1 = 63 + 12 - 7 - 1 = 67
+rng2 = 33 + 7 - 8 - 1 = 31
+Groundout
+Team 2 pitcher (David Juarez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-6
+
+Bautista Saelices: rng1 = 31 + 10 - 7 - 1 = 33
+rng2 = 50 + 9 - 8 - 1 = 50
+Lineout
+Team 2 pitcher (David Juarez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-6
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Taylor Murphy
+
+Angel Gutiérrez: rng1 = 40 + 15 - 15 + 1 = 41
+rng2 = 71 + 14 - 15 + 1 = 71
+Flyout
+Team 1 pitcher (Taylor Murphy): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-6
+
+Bailey Myers-Morgan: rng1 = 56 + 10 - 15 + 1 = 52
+rng2 = 57 + 10 - 15 + 1 = 53
+Lineout
+Team 1 pitcher (Taylor Murphy): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-6
+
+Nick Hamburger: rng1 = 18 + 12 - 15 + 1 = 16
+Strikeout
+Team 1 pitcher (Taylor Murphy): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-6
+
+-----------------------
+
+TOP INNING 8
+
+Dante Arias: rng1 = 67 + 11 - 7 - 1 = 70
+Walk
+Team 2 pitcher (David Juarez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-6
+
+Orlando Cazalla: rng1 = 63 + 3 - 7 - 1 = 58
+rng2 = 37 + 8 - 8 - 1 = 36
+Groundout
+Team 2 pitcher (David Juarez): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-6
+
+Sean Watson: rng1 = 53 + 6 - 7 - 1 = 51
+rng2 = 40 + 5 - 8 - 1 = 36
+Groundout
+Team 2 pitcher (David Juarez): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-6
+
+-----------------------
+
+BOTTOM INNING 8
+
+Emiliano Costa: rng1 = 37 + 7 - 15 + 1 = 30
+rng2 = 19 + 8 - 15 + 1 = 13
+Groundout
+Team 1 pitcher (Taylor Murphy): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-6
+
+Alejandro Munoz: rng1 = 81 + 6 - 15 + 1 = 73
+rng2 = 85 + 8 - 15 + 1 = 79
+Triple
+Team 1 pitcher (Taylor Murphy): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: [5,2]
+base1: false, base2: false, base3: true
+Score: 4-6
+
+Casey Myers-Morgan: rng1 = 8 + 7 - 15 + 1 = 1
+Strikeout
+Team 1 pitcher (Taylor Murphy): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: [5,2]
+base1: false, base2: false, base3: true
+Score: 4-6
+
+Facundo Laguna: rng1 = 16 + 5 - 15 + 1 = 7
+Strikeout
+Team 1 pitcher (Taylor Murphy): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-6
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Seno Mashiro
+
+Antonio Santiago: rng1 = 74 + 8 - 14 - 1 = 67
+rng2 = 27 + 3 - 14 - 1 = 15
+Groundout
+Team 2 pitcher (Seno Mashiro): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-6
+
+Noel Ayers: rng1 = 83 + 3 - 14 - 1 = 71
+Walk
+Team 2 pitcher (Seno Mashiro): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [8,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-6
+
+George Nagle: rng1 = 57 + 15 - 14 - 1 = 57
+rng2 = 54 + 15 - 14 - 1 = 54
+Lineout
+Team 2 pitcher (Seno Mashiro): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [8,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-6
+
+Lawrence Randolph: rng1 = 13 + 15 - 14 - 1 = 13
+rng2 = 67 + 14 - 14 - 1 = 66
+Flyout
+Team 2 pitcher (Seno Mashiro): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-6
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 7
+Team 2 hits: 9
+Team 1 runs: 4
+Team 2 runs: 6
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-21
+George Nagle	4	1	1	0	0	1	3	0	1					Las Vegas
+Lawrence Randolph	5	0	1	1	0	0	0	0	2	
+Noah Fontenot	4	0	0	0	0	0	0	0	3	
+Bautista Saelices	4	0	0	0	0	0	0	0	1	
+Dante Arias	3	0	0	0	0	0	0	1	0	
+Orlando Cazalla	3	1	2	0	0	0	0	1	0	
+Sean Watson	4	0	2	1	0	0	0	0	1	
+Antonio Santiago	4	1	1	0	0	0	1	0	1	
+Noel Ayers	2	1	0	0	0	0	0	2	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Emanuel Muñoz	0	1	1	1	0	0	12	7	6	0	2	2	21	
+Rodrigo Valerio	0	0	1	0	0	0	6	1	0	0	0	3	7	
+Taylor Murphy	0	0	1	0	0	0	6	1	0	0	0	3	7	
+Phil Segee	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Macos Alguacil	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-21
+Finnegan Maxwell	2	2	1	1	0	0	2	2	0					Dallas
+Angel Gutiérrez	4	0	1	1	0	0	3	0	0	
+Bailey Myers-Morgan	4	0	1	1	0	0	1	0	1	
+Nick Hamburger	4	0	0	0	0	0	0	0	2	
+Emiliano Costa	4	0	0	0	0	0	0	0	1	
+Alejandro Munoz	4	0	2	0	1	0	0	0	1	
+Casey Myers-Morgan	4	2	1	0	0	0	0	0	1	
+Facundo Laguna	4	0	1	0	0	0	0	0	1	
+Santino Alcantara	3	2	2	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Bailey M-M	1	0	1	1	0	0	18	7	4	1	2	9	28	
+David Juarez	0	0	1	0	0	0	6	0	0	0	1	1	6	
+Sergio Narvaez	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Abel Vera	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Seno Mashiro	0	0	1	0	1	1	3	0	0	0	1	0	4	

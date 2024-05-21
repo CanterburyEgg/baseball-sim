@@ -70,6 +70,7 @@ public class GameGenerator
 					statCompendium.println("");
 				}
 
+				inputFile.close();
 				statCompendium.close();
 				finalScores.close();
 			}

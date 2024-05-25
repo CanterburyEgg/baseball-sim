@@ -1,0 +1,987 @@
+TOP INNING 1
+
+Byron Bartlett: rng1 = 64 + 15 - 7 - 1 = 71
+Walk
+Team 2 pitcher (Wyatt Heller): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Juan Manzanares: rng1 = 58 + 15 - 7 - 1 = 65
+rng2 = 2 + 14 - 6 - 1 = 9
+Groundout
+Team 2 pitcher (Wyatt Heller): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Arturo Bellamy: rng1 = 69 + 14 - 7 - 1 = 75
+rng2 = 85 + 14 - 6 - 1 = 92
+Double
+Team 2 pitcher (Wyatt Heller): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Edmundo Pousa: rng1 = 74 + 14 - 7 - 1 = 80
+rng2 = 68 + 13 - 6 - 1 = 74
+Double
+Team 2 pitcher (Wyatt Heller): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-0
+
+Noah Key: rng1 = 20 + 6 - 7 - 1 = 18
+Strikeout
+Team 2 pitcher (Wyatt Heller): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-0
+
+Alejandro López: rng1 = 77 + 4 - 7 - 1 = 73
+rng2 = 67 + 7 - 6 - 1 = 67
+Double
+Team 2 pitcher (Wyatt Heller): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-0
+
+Terryl Maxwell: rng1 = 70 + 4 - 7 - 1 = 66
+rng2 = 74 + 7 - 6 - 1 = 74
+Flyout
+Team 2 pitcher (Wyatt Heller): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Blake Welsh: rng1 = 86 + 14 - 14 + 1 = 87
+Walk
+Team 1 pitcher (Freddie Bailey): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Gabe Roberts: rng1 = 28 + 13 - 14 + 1 = 28
+Strikeout
+Team 1 pitcher (Freddie Bailey): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Mahadi Khan: rng1 = 78 + 12 - 14 + 1 = 77
+rng2 = 45 + 10 - 14 + 1 = 42
+Single
+Team 1 pitcher (Freddie Bailey): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 3-0
+
+Tommy Baxter: rng1 = 90 + 8 - 14 + 1 = 85
+rng2 = 93 + 11 - 14 + 1 = 91
+Double
+Team 1 pitcher (Freddie Bailey): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: false, base2: [3,0], base3: [2,0]
+base1: false, base2: true, base3: true
+Score: 3-1
+
+Jaquon Lyons: rng1 = 51 + 10 - 14 + 1 = 48
+rng2 = 58 + 10 - 14 + 1 = 55
+Lineout
+Team 1 pitcher (Freddie Bailey): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: false, base2: [3,0], base3: [2,0]
+base1: false, base2: true, base3: true
+Score: 3-1
+
+Emiel Ware: rng1 = 5 + 8 - 14 + 1 = 0
+Strikeout
+Team 1 pitcher (Freddie Bailey): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+TOP INNING 2
+
+Darren Adams: rng1 = 7 + 5 - 7 - 1 = 4
+Strikeout
+Team 2 pitcher (Wyatt Heller): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Marcos Gilabert: rng1 = 72 + 5 - 7 - 1 = 69
+rng2 = 60 + 6 - 6 - 1 = 59
+Flyout
+Team 2 pitcher (Wyatt Heller): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Byron Bartlett: rng1 = 1 + 15 - 7 - 1 = 8
+Strikeout
+Team 2 pitcher (Wyatt Heller): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Isaac Secada: rng1 = 25 + 7 - 14 + 1 = 19
+Strikeout
+Team 1 pitcher (Freddie Bailey): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Timothy Bentley: rng1 = 20 + 5 - 14 + 1 = 12
+rng2 = 46 + 9 - 14 + 1 = 42
+Groundout
+Team 1 pitcher (Freddie Bailey): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Yoshida Kei: rng1 = 11 + 7 - 14 + 1 = 5
+Strikeout
+Team 1 pitcher (Freddie Bailey): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+TOP INNING 3
+
+Juan Manzanares: rng1 = 29 + 15 - 7 - 1 = 36
+rng2 = 54 + 14 - 6 - 1 = 61
+Flyout
+Team 2 pitcher (Wyatt Heller): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Arturo Bellamy: rng1 = 89 + 14 - 7 - 1 = 95
+rng2 = 2 + 14 - 6 - 1 = 9
+Single
+Team 2 pitcher (Wyatt Heller): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Edmundo Pousa: rng1 = 17 + 14 - 7 - 1 = 23
+Strikeout
+Team 2 pitcher (Wyatt Heller): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Noah Key: rng1 = 50 + 6 - 7 - 1 = 48
+rng2 = 72 + 6 - 6 - 1 = 71
+Flyout
+Team 2 pitcher (Wyatt Heller): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Blake Welsh: rng1 = 47 + 14 - 14 + 1 = 48
+rng2 = 86 + 8 - 14 + 1 = 81
+Flyout
+Team 1 pitcher (Freddie Bailey): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Gabe Roberts: rng1 = 57 + 13 - 14 + 1 = 57
+rng2 = 71 + 14 - 14 + 1 = 72
+Flyout
+Team 1 pitcher (Freddie Bailey): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Mahadi Khan: rng1 = 29 + 12 - 14 + 1 = 28
+Strikeout
+Team 1 pitcher (Freddie Bailey): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+TOP INNING 4
+
+Alejandro López: rng1 = 17 + 4 - 7 - 1 = 13
+rng2 = 52 + 7 - 6 - 1 = 52
+Lineout
+Team 2 pitcher (Wyatt Heller): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Terryl Maxwell: rng1 = 9 + 4 - 7 - 1 = 5
+Strikeout
+Team 2 pitcher (Wyatt Heller): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Darren Adams: rng1 = 93 + 5 - 7 - 1 = 90
+Walk
+Team 2 pitcher (Wyatt Heller): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Marcos Gilabert: rng1 = 29 + 5 - 7 - 1 = 26
+Strikeout
+Team 2 pitcher (Wyatt Heller): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Tommy Baxter: rng1 = 4 + 8 - 14 + 1 = -1
+Strikeout
+Team 1 pitcher (Freddie Bailey): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Jaquon Lyons: rng1 = 76 + 10 - 14 + 1 = 73
+rng2 = 88 + 10 - 14 + 1 = 85
+Home run
+Team 1 pitcher (Freddie Bailey): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Emiel Ware: rng1 = 27 + 8 - 14 + 1 = 22
+Strikeout
+Team 1 pitcher (Freddie Bailey): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Isaac Secada: rng1 = 91 + 7 - 14 + 1 = 85
+rng2 = 84 + 8 - 14 + 1 = 79
+Triple
+Team 1 pitcher (Freddie Bailey): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 2
+
+base1: false, base2: false, base3: [6,0]
+base1: false, base2: false, base3: true
+Score: 3-2
+
+Timothy Bentley: rng1 = 5 + 5 - 14 + 1 = -3
+Strikeout
+Team 1 pitcher (Freddie Bailey): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+TOP INNING 5
+
+Byron Bartlett: rng1 = 47 + 15 - 7 - 1 = 54
+rng2 = 66 + 14 - 6 - 1 = 73
+Flyout
+Team 2 pitcher (Wyatt Heller): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Juan Manzanares: rng1 = 44 + 15 - 7 - 1 = 51
+rng2 = 40 + 14 - 6 - 1 = 47
+Groundout
+Team 2 pitcher (Wyatt Heller): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Arturo Bellamy: rng1 = 51 + 14 - 7 - 1 = 57
+rng2 = 70 + 14 - 6 - 1 = 77
+Flyout
+Team 2 pitcher (Wyatt Heller): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+BOTTOM INNING 5
+
+Yoshida Kei: rng1 = 70 + 7 - 14 + 1 = 64
+rng2 = 100 + 6 - 14 + 1 = 93
+Flyout
+Team 1 pitcher (Freddie Bailey): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Blake Welsh: rng1 = 78 + 14 - 14 + 1 = 79
+rng2 = 78 + 8 - 14 + 1 = 73
+Double
+Team 1 pitcher (Freddie Bailey): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-2
+
+Gabe Roberts: rng1 = 56 + 13 - 14 + 1 = 56
+rng2 = 81 + 14 - 14 + 1 = 82
+Flyout
+Team 1 pitcher (Freddie Bailey): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 2
+
+base1: false, base2: false, base3: [0,0]
+base1: false, base2: false, base3: true
+Score: 3-2
+
+Mahadi Khan: rng1 = 61 + 12 - 14 + 1 = 60
+rng2 = 10 + 10 - 14 + 1 = 7
+Groundout
+Team 1 pitcher (Freddie Bailey): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Emiliano Navarro
+
+Edmundo Pousa: rng1 = 47 + 14 - 8 - 1 = 52
+rng2 = 21 + 13 - 7 - 1 = 26
+Groundout
+Team 2 pitcher (Emiliano Navarro): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Noah Key: rng1 = 42 + 6 - 8 - 1 = 39
+rng2 = 74 + 6 - 7 - 1 = 72
+Flyout
+Team 2 pitcher (Emiliano Navarro): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Alejandro López: rng1 = 80 + 4 - 8 - 1 = 75
+rng2 = 90 + 7 - 7 - 1 = 89
+Double
+Team 2 pitcher (Emiliano Navarro): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [5,1], base3: false
+base1: false, base2: true, base3: false
+Score: 3-2
+
+Terryl Maxwell: rng1 = 33 + 4 - 8 - 1 = 28
+Strikeout
+Team 2 pitcher (Emiliano Navarro): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+BOTTOM INNING 6
+
+Tommy Baxter: rng1 = 68 + 8 - 14 + 1 = 63
+rng2 = 27 + 11 - 14 + 1 = 25
+Groundout
+Team 1 pitcher (Freddie Bailey): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Jaquon Lyons: rng1 = 22 + 10 - 14 + 1 = 19
+Strikeout
+Team 1 pitcher (Freddie Bailey): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Emiel Ware: rng1 = 20 + 8 - 14 + 1 = 15
+rng2 = 3 + 10 - 14 + 1 = 0
+Groundout
+Team 1 pitcher (Freddie Bailey): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+TOP INNING 7
+
+Darren Adams: rng1 = 73 + 5 - 8 - 1 = 69
+rng2 = 58 + 6 - 7 - 1 = 56
+Lineout
+Team 2 pitcher (Emiliano Navarro): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Marcos Gilabert: rng1 = 11 + 5 - 8 - 1 = 7
+Strikeout
+Team 2 pitcher (Emiliano Navarro): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Byron Bartlett: rng1 = 74 + 15 - 8 - 1 = 80
+rng2 = 88 + 14 - 7 - 1 = 94
+Home run
+Team 2 pitcher (Emiliano Navarro): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Juan Manzanares: rng1 = 26 + 15 - 8 - 1 = 32
+rng2 = 26 + 14 - 7 - 1 = 32
+Groundout
+Team 2 pitcher (Emiliano Navarro): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-2
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Edmundo Martínez
+
+Isaac Secada: rng1 = 1 + 7 - 6 + 1 = 3
+Strikeout
+Team 1 pitcher (Edmundo Martínez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Timothy Bentley: rng1 = 32 + 5 - 6 + 1 = 32
+rng2 = 87 + 9 - 7 + 1 = 90
+Flyout
+Team 1 pitcher (Edmundo Martínez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Yoshida Kei: rng1 = 61 + 7 - 6 + 1 = 63
+rng2 = 4 + 6 - 7 + 1 = 4
+Groundout
+Team 1 pitcher (Edmundo Martínez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-2
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Abraham Pace
+
+Arturo Bellamy: rng1 = 13 + 14 - 10 - 1 = 16
+Strikeout
+Team 2 pitcher (Abraham Pace): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Edmundo Pousa: rng1 = 28 + 14 - 10 - 1 = 31
+rng2 = 48 + 13 - 10 - 1 = 50
+Lineout
+Team 2 pitcher (Abraham Pace): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Noah Key: rng1 = 31 + 6 - 10 - 1 = 26
+Strikeout
+Team 2 pitcher (Abraham Pace): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-2
+
+-----------------------
+
+BOTTOM INNING 8
+
+Blake Welsh: rng1 = 44 + 14 - 6 + 1 = 53
+rng2 = 94 + 8 - 7 + 1 = 96
+Flyout
+Team 1 pitcher (Edmundo Martínez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Gabe Roberts: rng1 = 67 + 13 - 6 + 1 = 75
+rng2 = 4 + 14 - 7 + 1 = 12
+Single
+Team 1 pitcher (Edmundo Martínez): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-2
+
+Mahadi Khan: rng1 = 59 + 12 - 6 + 1 = 66
+rng2 = 53 + 10 - 7 + 1 = 57
+Lineout
+Team 1 pitcher (Edmundo Martínez): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-2
+
+Tommy Baxter: rng1 = 76 + 8 - 6 + 1 = 79
+rng2 = 62 + 11 - 7 + 1 = 67
+Double
+Team 1 pitcher (Edmundo Martínez): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: [3,1], base3: false
+base1: false, base2: true, base3: false
+Score: 4-3
+
+Jaquon Lyons: rng1 = 88 + 10 - 6 + 1 = 93
+rng2 = 74 + 10 - 7 + 1 = 78
+Double
+Team 1 pitcher (Edmundo Martínez): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: false, base2: [4,1], base3: false
+base1: false, base2: true, base3: false
+Score: 4-4
+
+Team 1 pitcher change to Rakeem Bradley
+
+Emiel Ware: rng1 = 69 + 8 - 7 + 1 = 71
+Walk
+Team 1 pitcher (Rakeem Bradley): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [5,2], base2: [4,1], base3: false
+base1: true, base2: true, base3: false
+Score: 4-4
+
+Isaac Secada: rng1 = 64 + 7 - 7 + 1 = 65
+rng2 = 61 + 8 - 6 + 1 = 64
+Flyout
+Team 1 pitcher (Rakeem Bradley): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+TOP INNING 9
+
+Alejandro López: rng1 = 9 + 4 - 10 - 1 = 2
+Strikeout
+Team 2 pitcher (Abraham Pace): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Terryl Maxwell: rng1 = 31 + 4 - 10 - 1 = 24
+Strikeout
+Team 2 pitcher (Abraham Pace): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Darren Adams: rng1 = 92 + 5 - 10 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Abraham Pace): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Marcos Gilabert: rng1 = 75 + 5 - 10 - 1 = 69
+rng2 = 99 + 6 - 10 - 1 = 94
+Flyout
+Team 2 pitcher (Abraham Pace): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+BOTTOM INNING 9
+
+Timothy Bentley: rng1 = 9 + 5 - 7 + 1 = 8
+Strikeout
+Team 1 pitcher (Rakeem Bradley): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Yoshida Kei: rng1 = 1 + 7 - 7 + 1 = 2
+Strikeout
+Team 1 pitcher (Rakeem Bradley): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Blake Welsh: rng1 = 46 + 14 - 7 + 1 = 54
+rng2 = 68 + 8 - 6 + 1 = 71
+Flyout
+Team 1 pitcher (Rakeem Bradley): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+TOP INNING 10
+
+Team 2 pitcher change to Isaac Hartman
+
+Byron Bartlett: rng1 = 40 + 15 - 8 - 1 = 46
+rng2 = 71 + 14 - 9 - 1 = 75
+Flyout
+Team 2 pitcher (Isaac Hartman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Juan Manzanares: rng1 = 24 + 15 - 8 - 1 = 30
+rng2 = 23 + 14 - 9 - 1 = 27
+Groundout
+Team 2 pitcher (Isaac Hartman): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Arturo Bellamy: rng1 = 89 + 14 - 8 - 1 = 94
+rng2 = 39 + 14 - 9 - 1 = 43
+Single
+Team 2 pitcher (Isaac Hartman): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Edmundo Pousa: rng1 = 81 + 14 - 8 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Isaac Hartman): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [3,3], base2: [2,3], base3: false
+base1: true, base2: true, base3: false
+Score: 4-4
+
+Noah Key: rng1 = 44 + 6 - 8 - 1 = 41
+rng2 = 45 + 6 - 9 - 1 = 41
+Groundout
+Team 2 pitcher (Isaac Hartman): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+BOTTOM INNING 10
+
+Team 1 pitcher change to Phoenix Deleon
+
+Gabe Roberts: rng1 = 40 + 13 - 15 + 1 = 39
+rng2 = 36 + 14 - 15 + 1 = 36
+Groundout
+Team 1 pitcher (Phoenix Deleon): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Mahadi Khan: rng1 = 32 + 12 - 15 + 1 = 30
+rng2 = 5 + 10 - 15 + 1 = 1
+Groundout
+Team 1 pitcher (Phoenix Deleon): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Tommy Baxter: rng1 = 46 + 8 - 15 + 1 = 40
+rng2 = 29 + 11 - 15 + 1 = 26
+Groundout
+Team 1 pitcher (Phoenix Deleon): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+TOP INNING 11
+
+Alejandro López: rng1 = 42 + 4 - 8 - 1 = 37
+rng2 = 65 + 7 - 9 - 1 = 62
+Flyout
+Team 2 pitcher (Isaac Hartman): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Terryl Maxwell: rng1 = 17 + 4 - 8 - 1 = 12
+rng2 = 75 + 7 - 9 - 1 = 72
+Flyout
+Team 2 pitcher (Isaac Hartman): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Darren Adams: rng1 = 69 + 5 - 8 - 1 = 65
+rng2 = 38 + 6 - 9 - 1 = 34
+Groundout
+Team 2 pitcher (Isaac Hartman): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+BOTTOM INNING 11
+
+Jaquon Lyons: rng1 = 31 + 10 - 15 + 1 = 27
+Strikeout
+Team 1 pitcher (Phoenix Deleon): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Emiel Ware: rng1 = 12 + 8 - 15 + 1 = 6
+Strikeout
+Team 1 pitcher (Phoenix Deleon): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Isaac Secada: rng1 = 17 + 7 - 15 + 1 = 10
+Strikeout
+Team 1 pitcher (Phoenix Deleon): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+TOP INNING 12
+
+Team 2 pitcher change to Kwok Kwang-Seok
+
+Marcos Gilabert: rng1 = 9 + 5 - 11 - 1 = 2
+Strikeout
+Team 2 pitcher (Kwok Kwang-Seok): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Byron Bartlett: rng1 = 46 + 15 - 11 - 1 = 49
+rng2 = 46 + 14 - 13 - 1 = 46
+Groundout
+Team 2 pitcher (Kwok Kwang-Seok): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Juan Manzanares: rng1 = 10 + 15 - 11 - 1 = 13
+rng2 = 18 + 14 - 13 - 1 = 18
+Groundout
+Team 2 pitcher (Kwok Kwang-Seok): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+BOTTOM INNING 12
+
+Team 1 pitcher change to Ryu Shi-Woo
+
+Timothy Bentley: rng1 = 18 + 5 - 7 + 1 = 17
+Strikeout
+Team 1 pitcher (Ryu Shi-Woo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Yoshida Kei: rng1 = 25 + 7 - 7 + 1 = 26
+Strikeout
+Team 1 pitcher (Ryu Shi-Woo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Blake Welsh: rng1 = 16 + 14 - 7 + 1 = 24
+Strikeout
+Team 1 pitcher (Ryu Shi-Woo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+TOP INNING 13
+
+Arturo Bellamy: rng1 = 13 + 14 - 11 - 1 = 15
+rng2 = 40 + 14 - 13 - 1 = 40
+Groundout
+Team 2 pitcher (Kwok Kwang-Seok): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Edmundo Pousa: rng1 = 27 + 14 - 11 - 1 = 29
+rng2 = 66 + 13 - 13 - 1 = 65
+Flyout
+Team 2 pitcher (Kwok Kwang-Seok): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Noah Key: rng1 = 53 + 6 - 11 - 1 = 47
+rng2 = 2 + 6 - 13 - 1 = -6
+Groundout
+Team 2 pitcher (Kwok Kwang-Seok): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+BOTTOM INNING 13
+
+Gabe Roberts: rng1 = 23 + 13 - 7 + 1 = 30
+rng2 = 46 + 14 - 6 + 1 = 55
+Lineout
+Team 1 pitcher (Ryu Shi-Woo): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Mahadi Khan: rng1 = 21 + 12 - 7 + 1 = 27
+Strikeout
+Team 1 pitcher (Ryu Shi-Woo): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Tommy Baxter: rng1 = 97 + 8 - 7 + 1 = 99
+rng2 = 95 + 11 - 6 + 1 = 101
+Home run
+Team 1 pitcher (Ryu Shi-Woo): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-5
+
+Innings: 13
+Team 1 hits: 7
+Team 2 hits: 9
+Team 1 runs: 4
+Team 2 runs: 5
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-25
+Byron Bartlett	5	2	1	0	0	1	1	1	1					New Orleans
+Juan Manzanares	6	0	0	0	0	0	0	0	0	
+Arturo Bellamy	6	1	3	1	0	0	1	0	1	
+Edmundo Pousa	5	1	1	1	0	0	1	0	1	
+Noah Key	6	0	0	0	0	0	0	0	2	
+Alejandro López	5	0	2	2	0	0	1	0	1	
+Terryl Maxwell	5	0	0	0	0	0	0	0	3	
+Darren Adams	3	0	0	0	0	0	0	1	1	
+Marcos Gilabert	5	0	0	0	0	0	0	0	3	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Freddie Bailey	0	0	1	1	0	0	18	5	2	1	1	9	24	
+Edmundo Martínez	0	0	1	0	0	0	5	3	2	0	0	1	8	
+Rakeem Bradley	0	0	1	0	0	0	4	0	0	0	1	2	5	
+Ryu Shi-Woo	0	1	1	0	0	0	5	1	1	1	0	4	6	
+Phoenix Deleon	0	0	1	0	0	0	6	0	0	0	0	3	6	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-25
+Blake Welsh	5	1	1	1	0	0	0	1	1					Miami
+Gabe Roberts	6	1	1	0	0	0	0	0	1	
+Mahadi Khan	6	0	1	0	0	0	0	0	2	
+Tommy Baxter	6	2	3	2	0	1	3	0	1	
+Jaquon Lyons	5	1	2	1	0	1	2	0	2	
+Emiel Ware	4	0	0	0	0	0	0	1	3	
+Isaac Secada	5	0	1	0	1	0	0	0	3	
+Timothy Bentley	5	0	0	0	0	0	0	0	3	
+Yoshida Kei	5	0	0	0	0	0	0	0	3	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Wyatt Heller	0	0	1	1	0	0	15	4	3	0	2	6	21	
+Emiliano Navarro	0	0	1	0	0	0	6	2	1	1	0	2	8	
+Abraham Pace	0	0	1	0	0	0	6	0	0	0	0	4	7	
+Isaac Hartman	0	0	1	0	0	0	6	1	0	0	0	0	8	
+Kwok Kwang-Seok	1	0	1	0	0	0	6	0	0	0	0	1	6	

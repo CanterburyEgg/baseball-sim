@@ -1,0 +1,742 @@
+TOP INNING 1
+
+Ramon Cabrera: rng1 = 21 + 14 - 9 - 1 = 25
+Strikeout
+Team 2 pitcher (Austin Greer): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Valentino Rubio: rng1 = 68 + 9 - 9 - 1 = 67
+rng2 = 35 + 7 - 13 - 1 = 28
+Groundout
+Team 2 pitcher (Austin Greer): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Chaquille Barnett: rng1 = 28 + 9 - 9 - 1 = 27
+Strikeout
+Team 2 pitcher (Austin Greer): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Russell Glover: rng1 = 35 + 14 - 7 + 1 = 43
+rng2 = 55 + 9 - 8 + 1 = 57
+Lineout
+Team 1 pitcher (Elias Betancourt): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Emilio Cordero: rng1 = 32 + 10 - 7 + 1 = 36
+rng2 = 11 + 13 - 8 + 1 = 17
+Groundout
+Team 1 pitcher (Elias Betancourt): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Stuart Barton: rng1 = 19 + 10 - 7 + 1 = 23
+Strikeout
+Team 1 pitcher (Elias Betancourt): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Les Drake: rng1 = 46 + 7 - 9 - 1 = 43
+rng2 = 18 + 12 - 13 - 1 = 16
+Groundout
+Team 2 pitcher (Austin Greer): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Emilio Soto: rng1 = 66 + 8 - 9 - 1 = 64
+rng2 = 78 + 10 - 13 - 1 = 74
+Flyout
+Team 2 pitcher (Austin Greer): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Max Lawrence: rng1 = 11 + 7 - 9 - 1 = 8
+Strikeout
+Team 2 pitcher (Austin Greer): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Oliver Summers: rng1 = 71 + 9 - 7 + 1 = 74
+rng2 = 55 + 14 - 8 + 1 = 62
+Single
+Team 1 pitcher (Elias Betancourt): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Floyd Meyers: rng1 = 78 + 8 - 7 + 1 = 80
+rng2 = 16 + 10 - 8 + 1 = 19
+Single
+Team 1 pitcher (Elias Betancourt): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Tyler May: rng1 = 61 + 6 - 7 + 1 = 61
+rng2 = 24 + 10 - 8 + 1 = 27
+Groundout
+Team 1 pitcher (Elias Betancourt): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Wade Poole: rng1 = 77 + 8 - 7 + 1 = 79
+rng2 = 46 + 9 - 8 + 1 = 48
+Single
+Team 1 pitcher (Elias Betancourt): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-1
+
+Kris Moody: rng1 = 10 + 9 - 7 + 1 = 13
+rng2 = 56 + 8 - 8 + 1 = 57
+Lineout
+Team 1 pitcher (Elias Betancourt): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-1
+
+Francisco Mercado: rng1 = 37 + 5 - 7 + 1 = 36
+rng2 = 49 + 9 - 8 + 1 = 51
+Lineout
+Team 1 pitcher (Elias Betancourt): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 3
+
+Elmer Sparks: rng1 = 97 + 6 - 9 - 1 = 93
+rng2 = 6 + 8 - 13 - 1 = 0
+Single
+Team 2 pitcher (Austin Greer): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Bradley Simon: rng1 = 49 + 8 - 9 - 1 = 47
+rng2 = 85 + 6 - 13 - 1 = 77
+Flyout
+Team 2 pitcher (Austin Greer): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Clarence Carr: rng1 = 34 + 9 - 9 - 1 = 33
+rng2 = 50 + 5 - 13 - 1 = 41
+Groundout
+Team 2 pitcher (Austin Greer): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Ramon Cabrera: rng1 = 96 + 14 - 9 - 1 = 100
+rng2 = 9 + 13 - 13 - 1 = 8
+Single
+Team 2 pitcher (Austin Greer): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Valentino Rubio: rng1 = 73 + 9 - 9 - 1 = 72
+Walk
+Team 2 pitcher (Austin Greer): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Chaquille Barnett: rng1 = 58 + 9 - 9 - 1 = 57
+rng2 = 48 + 6 - 13 - 1 = 40
+Groundout
+Team 2 pitcher (Austin Greer): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Russell Glover: rng1 = 85 + 14 - 7 + 1 = 93
+rng2 = 89 + 9 - 8 + 1 = 91
+Double
+Team 1 pitcher (Elias Betancourt): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 0
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Emilio Cordero: rng1 = 84 + 10 - 7 + 1 = 88
+Walk
+Team 1 pitcher (Elias Betancourt): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 0
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Stuart Barton: rng1 = 39 + 10 - 7 + 1 = 43
+rng2 = 39 + 12 - 8 + 1 = 44
+Groundout
+Team 1 pitcher (Elias Betancourt): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: false, base2: [1,0], base3: [0,0]
+base1: false, base2: true, base3: true
+Score: 1-1
+
+Oliver Summers: rng1 = 9 + 9 - 7 + 1 = 12
+rng2 = 12 + 14 - 8 + 1 = 19
+Groundout
+Team 1 pitcher (Elias Betancourt): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 2
+
+base1: false, base2: false, base3: [1,0]
+base1: false, base2: false, base3: true
+Score: 1-2
+
+Floyd Meyers: rng1 = 83 + 8 - 7 + 1 = 85
+rng2 = 83 + 10 - 8 + 1 = 86
+Double
+Team 1 pitcher (Elias Betancourt): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 2
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-3
+
+Tyler May: rng1 = 18 + 6 - 7 + 1 = 18
+Strikeout
+Team 1 pitcher (Elias Betancourt): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 4
+
+Les Drake: rng1 = 99 + 7 - 9 - 1 = 96
+rng2 = 91 + 12 - 13 - 1 = 89
+Double
+Team 2 pitcher (Austin Greer): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 0
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-3
+
+Emilio Soto: rng1 = 77 + 8 - 9 - 1 = 75
+rng2 = 20 + 10 - 13 - 1 = 16
+Single
+Team 2 pitcher (Austin Greer): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 0
+
+base1: [4,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 1-3
+
+Max Lawrence: rng1 = 66 + 7 - 9 - 1 = 63
+rng2 = 78 + 8 - 13 - 1 = 72
+Flyout
+Team 2 pitcher (Austin Greer): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-3
+
+Elmer Sparks: rng1 = 32 + 6 - 9 - 1 = 28
+Strikeout
+Team 2 pitcher (Austin Greer): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-3
+
+Bradley Simon: rng1 = 59 + 8 - 9 - 1 = 57
+rng2 = 32 + 6 - 13 - 1 = 24
+Groundout
+Team 2 pitcher (Austin Greer): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+BOTTOM INNING 4
+
+Wade Poole: rng1 = 45 + 8 - 7 + 1 = 47
+rng2 = 95 + 9 - 8 + 1 = 97
+Flyout
+Team 1 pitcher (Elias Betancourt): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Kris Moody: rng1 = 21 + 9 - 7 + 1 = 24
+Strikeout
+Team 1 pitcher (Elias Betancourt): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Francisco Mercado: rng1 = 92 + 5 - 7 + 1 = 91
+rng2 = 56 + 9 - 8 + 1 = 58
+Single
+Team 1 pitcher (Elias Betancourt): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-3
+
+Russell Glover: rng1 = 50 + 14 - 7 + 1 = 58
+rng2 = 12 + 9 - 8 + 1 = 14
+Groundout
+Team 1 pitcher (Elias Betancourt): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+TOP INNING 5
+
+Clarence Carr: rng1 = 86 + 9 - 9 - 1 = 85
+rng2 = 59 + 5 - 13 - 1 = 50
+Single
+Team 2 pitcher (Austin Greer): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-3
+
+Ramon Cabrera: rng1 = 65 + 14 - 9 - 1 = 69
+rng2 = 51 + 13 - 13 - 1 = 50
+Lineout
+Team 2 pitcher (Austin Greer): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-3
+
+Valentino Rubio: rng1 = 40 + 9 - 9 - 1 = 39
+rng2 = 17 + 7 - 13 - 1 = 10
+Groundout
+Team 2 pitcher (Austin Greer): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 2
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-3
+
+Chaquille Barnett: rng1 = 85 + 9 - 9 - 1 = 84
+rng2 = 67 + 6 - 13 - 1 = 59
+Single
+Team 2 pitcher (Austin Greer): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 2
+
+base1: [2,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 2-3
+
+Les Drake: rng1 = 43 + 7 - 9 - 1 = 40
+rng2 = 16 + 12 - 13 - 1 = 14
+Groundout
+Team 2 pitcher (Austin Greer): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+BOTTOM INNING 5
+
+Emilio Cordero: rng1 = 26 + 10 - 7 + 1 = 30
+rng2 = 44 + 13 - 8 + 1 = 50
+Lineout
+Team 1 pitcher (Elias Betancourt): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Stuart Barton: rng1 = 32 + 10 - 7 + 1 = 36
+rng2 = 27 + 12 - 8 + 1 = 32
+Groundout
+Team 1 pitcher (Elias Betancourt): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Oliver Summers: rng1 = 72 + 9 - 7 + 1 = 75
+rng2 = 7 + 14 - 8 + 1 = 14
+Single
+Team 1 pitcher (Elias Betancourt): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-3
+
+Floyd Meyers: rng1 = 91 + 8 - 7 + 1 = 93
+rng2 = 79 + 10 - 8 + 1 = 82
+Home run
+Team 1 pitcher (Elias Betancourt): 23 batters faced, 5 runs allowed = 23 + 12.5 = 35.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-5
+
+Team 1 pitcher change to Franklin Hood
+
+Tyler May: rng1 = 7 + 6 - 8 + 1 = 6
+Strikeout
+Team 1 pitcher (Franklin Hood): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-5
+
+-----------------------
+
+TOP INNING 6
+
+Emilio Soto: rng1 = 78 + 8 - 9 - 1 = 76
+rng2 = 30 + 10 - 13 - 1 = 26
+Single
+Team 2 pitcher (Austin Greer): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-5
+
+Max Lawrence: rng1 = 13 + 7 - 9 - 1 = 10
+Strikeout
+Team 2 pitcher (Austin Greer): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-5
+
+Elmer Sparks: rng1 = 37 + 6 - 9 - 1 = 33
+rng2 = 9 + 8 - 13 - 1 = 3
+Groundout
+Team 2 pitcher (Austin Greer): 25 batters faced, 2 runs allowed = 25 + 5.0 = 30.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-5
+
+-----------------------
+
+BOTTOM INNING 6
+
+Wade Poole: rng1 = 61 + 8 - 8 + 1 = 62
+rng2 = 90 + 9 - 11 + 1 = 89
+Flyout
+Team 1 pitcher (Franklin Hood): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-5
+
+Kris Moody: rng1 = 65 + 9 - 8 + 1 = 67
+rng2 = 82 + 8 - 11 + 1 = 80
+Flyout
+Team 1 pitcher (Franklin Hood): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-5
+
+Francisco Mercado: rng1 = 16 + 5 - 8 + 1 = 14
+rng2 = 2 + 9 - 11 + 1 = 1
+Groundout
+Team 1 pitcher (Franklin Hood): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-5
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Diego Guevara
+
+Bradley Simon: rng1 = 13 + 8 - 15 - 1 = 5
+Strikeout
+Team 2 pitcher (Diego Guevara): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-5
+
+Clarence Carr: rng1 = 76 + 9 - 15 - 1 = 69
+rng2 = 12 + 5 - 13 - 1 = 3
+Groundout
+Team 2 pitcher (Diego Guevara): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-5
+
+Ramon Cabrera: rng1 = 44 + 14 - 15 - 1 = 42
+rng2 = 93 + 13 - 13 - 1 = 92
+Flyout
+Team 2 pitcher (Diego Guevara): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-5
+
+-----------------------
+
+BOTTOM INNING 7
+
+Russell Glover: rng1 = 54 + 14 - 8 + 1 = 61
+rng2 = 70 + 9 - 11 + 1 = 69
+Flyout
+Team 1 pitcher (Franklin Hood): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-5
+
+Emilio Cordero: rng1 = 64 + 10 - 8 + 1 = 67
+rng2 = 92 + 13 - 11 + 1 = 95
+Flyout
+Team 1 pitcher (Franklin Hood): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-5
+
+Stuart Barton: rng1 = 88 + 10 - 8 + 1 = 91
+rng2 = 48 + 12 - 11 + 1 = 50
+Single
+Team 1 pitcher (Franklin Hood): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-5
+
+Oliver Summers: rng1 = 19 + 9 - 8 + 1 = 21
+Strikeout
+Team 1 pitcher (Franklin Hood): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-5
+
+-----------------------
+
+TOP INNING 8
+
+Valentino Rubio: rng1 = 74 + 9 - 15 - 1 = 67
+rng2 = 41 + 7 - 13 - 1 = 34
+Groundout
+Team 2 pitcher (Diego Guevara): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-5
+
+Chaquille Barnett: rng1 = 67 + 9 - 15 - 1 = 60
+rng2 = 33 + 6 - 13 - 1 = 25
+Groundout
+Team 2 pitcher (Diego Guevara): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-5
+
+Les Drake: rng1 = 33 + 7 - 15 - 1 = 24
+Strikeout
+Team 2 pitcher (Diego Guevara): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-5
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Julian Underwood
+
+Floyd Meyers: rng1 = 99 + 8 - 11 + 1 = 97
+rng2 = 18 + 10 - 8 + 1 = 21
+Single
+Team 1 pitcher (Julian Underwood): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-5
+
+Tyler May: rng1 = 19 + 6 - 11 + 1 = 15
+rng2 = 5 + 10 - 8 + 1 = 8
+Groundout
+Team 1 pitcher (Julian Underwood): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [4,2], base3: false
+base1: false, base2: true, base3: false
+Score: 2-5
+
+Wade Poole: rng1 = 86 + 8 - 11 + 1 = 84
+rng2 = 35 + 9 - 8 + 1 = 37
+Single
+Team 1 pitcher (Julian Underwood): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-6
+
+Kris Moody: rng1 = 31 + 9 - 11 + 1 = 30
+rng2 = 80 + 8 - 8 + 1 = 81
+Flyout
+Team 1 pitcher (Julian Underwood): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-6
+
+Francisco Mercado: rng1 = 87 + 5 - 11 + 1 = 82
+rng2 = 46 + 9 - 8 + 1 = 48
+Single
+Team 1 pitcher (Julian Underwood): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [8,2], base2: false, base3: [6,2]
+base1: true, base2: false, base3: true
+Score: 2-6
+
+Russell Glover: rng1 = 37 + 14 - 11 + 1 = 41
+rng2 = 34 + 9 - 8 + 1 = 36
+Groundout
+Team 1 pitcher (Julian Underwood): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-6
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Luis Rodriguez
+
+Emilio Soto: rng1 = 94 + 8 - 13 - 1 = 88
+Walk
+Team 2 pitcher (Luis Rodriguez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-6
+
+Max Lawrence: rng1 = 74 + 7 - 13 - 1 = 67
+rng2 = 24 + 8 - 14 - 1 = 17
+Groundout
+Team 2 pitcher (Luis Rodriguez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [4,2], base3: false
+base1: false, base2: true, base3: false
+Score: 2-6
+
+Elmer Sparks: rng1 = 90 + 6 - 13 - 1 = 82
+rng2 = 40 + 8 - 14 - 1 = 33
+Single
+Team 2 pitcher (Luis Rodriguez): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-6
+
+Bradley Simon: rng1 = 73 + 8 - 13 - 1 = 67
+rng2 = 9 + 6 - 14 - 1 = 0
+Groundout
+Team 2 pitcher (Luis Rodriguez): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-6
+
+Clarence Carr: rng1 = 64 + 9 - 13 - 1 = 59
+rng2 = 49 + 5 - 14 - 1 = 39
+Groundout
+Team 2 pitcher (Luis Rodriguez): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-6
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 8
+Team 2 hits: 12
+Team 1 runs: 3
+Team 2 runs: 6
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-29
+Ramon Cabrera	4	0	1	0	0	0	1	0	1					Anaheim
+Valentino Rubio	3	0	0	0	0	0	0	1	0	
+Chaquille Barnett	4	0	1	0	0	0	0	0	1	
+Les Drake	4	1	1	1	0	0	0	0	1	
+Emilio Soto	3	1	2	0	0	0	0	1	0	
+Max Lawrence	4	0	0	0	0	0	1	0	2	
+Elmer Sparks	4	1	2	0	0	0	1	0	1	
+Bradley Simon	4	0	0	0	0	0	0	0	1	
+Clarence Carr	4	0	1	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Elias Betancourt	0	1	1	1	0	0	14	8	5	1	1	3	23	
+Franklin Hood	0	0	1	0	0	0	7	1	0	0	0	2	8	
+Julian Underwood	0	0	1	0	0	0	3	3	1	0	0	0	6	
+Rajah Rice	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Shunji Onishi	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-29
+Russell Glover	5	1	1	1	0	0	0	0	0					Salem
+Emilio Cordero	3	1	0	0	0	0	0	1	0	
+Stuart Barton	4	0	1	0	0	0	0	0	1	
+Oliver Summers	4	2	2	0	0	0	1	0	1	
+Floyd Meyers	4	2	4	1	0	1	3	0	0	
+Tyler May	4	0	0	0	0	0	0	0	2	
+Wade Poole	4	0	2	0	0	0	2	0	0	
+Kris Moody	4	0	0	0	0	0	0	0	1	
+Francisco Mercado	4	0	2	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Austin Greer	1	0	1	1	0	0	18	7	2	0	1	5	25	
+Diego Guevara	0	0	1	0	0	0	6	0	0	0	0	2	6	
+Luis Rodriguez	0	0	1	0	0	0	3	1	1	0	1	0	5	
+Jhon Montilla	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Larry Gibson	0	0	0	0	0	0	0	0	0	0	0	0	0	

@@ -1,0 +1,621 @@
+TOP INNING 1
+
+Ashraf Saad: rng1 = 10 + 13 - 12 - 1 = 10
+Strikeout
+Team 2 pitcher (Clay Carson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Vicente Uribe: rng1 = 85 + 11 - 12 - 1 = 83
+rng2 = 21 + 11 - 6 - 1 = 25
+Single
+Team 2 pitcher (Clay Carson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Travis Nichols: rng1 = 50 + 11 - 12 - 1 = 48
+rng2 = 27 + 11 - 6 - 1 = 31
+Groundout
+Team 2 pitcher (Clay Carson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Jacobi Davis: rng1 = 50 + 16 - 8 + 1 = 59
+rng2 = 56 + 15 - 7 + 1 = 65
+Flyout
+Team 1 pitcher (Ed Wolfe): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Byron Lloyd: rng1 = 81 + 15 - 8 + 1 = 89
+Walk
+Team 1 pitcher (Ed Wolfe): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Kazuhiro Ida: rng1 = 35 + 14 - 8 + 1 = 42
+rng2 = 43 + 16 - 7 + 1 = 53
+Lineout
+Team 1 pitcher (Ed Wolfe): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Guy Nicholson: rng1 = 18 + 12 - 8 + 1 = 23
+Strikeout
+Team 1 pitcher (Ed Wolfe): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+David Hunter: rng1 = 88 + 8 - 12 - 1 = 83
+rng2 = 62 + 9 - 6 - 1 = 64
+Single
+Team 2 pitcher (Clay Carson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Drew Briggs: rng1 = 28 + 11 - 12 - 1 = 26
+Strikeout
+Team 2 pitcher (Clay Carson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Evan Hudson: rng1 = 53 + 7 - 12 - 1 = 47
+rng2 = 14 + 8 - 6 - 1 = 15
+Groundout
+Team 2 pitcher (Clay Carson): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Pierre Moreau: rng1 = 57 + 8 - 12 - 1 = 52
+rng2 = 88 + 7 - 6 - 1 = 88
+Flyout
+Team 2 pitcher (Clay Carson): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Rodney Shaffer: rng1 = 59 + 14 - 8 + 1 = 66
+rng2 = 31 + 11 - 7 + 1 = 36
+Groundout
+Team 1 pitcher (Ed Wolfe): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Arturo Trujillo: rng1 = 36 + 12 - 8 + 1 = 41
+rng2 = 4 + 11 - 7 + 1 = 9
+Groundout
+Team 1 pitcher (Ed Wolfe): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Christian Mendez: rng1 = 17 + 12 - 8 + 1 = 22
+Strikeout
+Team 1 pitcher (Ed Wolfe): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 3
+
+Tyrone Morton: rng1 = 93 + 8 - 12 - 1 = 88
+Walk
+Team 2 pitcher (Clay Carson): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Moises Bolivar: rng1 = 94 + 7 - 12 - 1 = 88
+Walk
+Team 2 pitcher (Clay Carson): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 0
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Ashraf Saad: rng1 = 9 + 13 - 12 - 1 = 9
+Strikeout
+Team 2 pitcher (Clay Carson): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Vicente Uribe: rng1 = 42 + 11 - 12 - 1 = 40
+rng2 = 100 + 11 - 6 - 1 = 104
+Flyout
+Team 2 pitcher (Clay Carson): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 2
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Travis Nichols: rng1 = 36 + 11 - 12 - 1 = 34
+rng2 = 31 + 11 - 6 - 1 = 35
+Groundout
+Team 2 pitcher (Clay Carson): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Tyler Sanders: rng1 = 3 + 10 - 8 + 1 = 6
+Strikeout
+Team 1 pitcher (Ed Wolfe): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Orlando Bradford: rng1 = 62 + 10 - 8 + 1 = 65
+rng2 = 53 + 7 - 7 + 1 = 54
+Lineout
+Team 1 pitcher (Ed Wolfe): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jacobi Davis: rng1 = 57 + 16 - 8 + 1 = 66
+rng2 = 97 + 15 - 7 + 1 = 106
+Flyout
+Team 1 pitcher (Ed Wolfe): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 4
+
+David Hunter: rng1 = 38 + 8 - 12 - 1 = 33
+rng2 = 63 + 9 - 6 - 1 = 65
+Flyout
+Team 2 pitcher (Clay Carson): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Drew Briggs: rng1 = 70 + 11 - 12 - 1 = 68
+rng2 = 12 + 8 - 6 - 1 = 13
+Groundout
+Team 2 pitcher (Clay Carson): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Evan Hudson: rng1 = 84 + 7 - 12 - 1 = 78
+rng2 = 22 + 8 - 6 - 1 = 23
+Single
+Team 2 pitcher (Clay Carson): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Pierre Moreau: rng1 = 51 + 8 - 12 - 1 = 46
+rng2 = 13 + 7 - 6 - 1 = 13
+Groundout
+Team 2 pitcher (Clay Carson): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 4
+
+Byron Lloyd: rng1 = 63 + 15 - 8 + 1 = 71
+Walk
+Team 1 pitcher (Ed Wolfe): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Kazuhiro Ida: rng1 = 31 + 14 - 8 + 1 = 38
+rng2 = 32 + 16 - 7 + 1 = 42
+Groundout
+Team 1 pitcher (Ed Wolfe): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Guy Nicholson: rng1 = 6 + 12 - 8 + 1 = 11
+rng2 = 19 + 12 - 7 + 1 = 25
+Groundout
+Team 1 pitcher (Ed Wolfe): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 5
+
+Tyrone Morton: rng1 = 25 + 8 - 12 - 1 = 20
+Strikeout
+Team 2 pitcher (Clay Carson): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Moises Bolivar: rng1 = 14 + 7 - 12 - 1 = 8
+Strikeout
+Team 2 pitcher (Clay Carson): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Ashraf Saad: rng1 = 1 + 13 - 12 - 1 = 1
+Strikeout
+Team 2 pitcher (Clay Carson): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 5
+
+Rodney Shaffer: rng1 = 42 + 14 - 8 + 1 = 49
+rng2 = 93 + 11 - 7 + 1 = 98
+Flyout
+Team 1 pitcher (Ed Wolfe): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Arturo Trujillo: rng1 = 37 + 12 - 8 + 1 = 42
+rng2 = 6 + 11 - 7 + 1 = 11
+Groundout
+Team 1 pitcher (Ed Wolfe): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Christian Mendez: rng1 = 98 + 12 - 8 + 1 = 103
+rng2 = 85 + 10 - 7 + 1 = 89
+Double
+Team 1 pitcher (Ed Wolfe): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 2
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Tyler Sanders: rng1 = 66 + 10 - 8 + 1 = 69
+rng2 = 94 + 8 - 7 + 1 = 96
+Flyout
+Team 1 pitcher (Ed Wolfe): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 6
+
+Vicente Uribe: rng1 = 4 + 11 - 12 - 1 = 2
+Strikeout
+Team 2 pitcher (Clay Carson): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Travis Nichols: rng1 = 74 + 11 - 12 - 1 = 72
+Walk
+Team 2 pitcher (Clay Carson): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+David Hunter: rng1 = 31 + 8 - 12 - 1 = 26
+Strikeout
+Team 2 pitcher (Clay Carson): 22 batters faced, 0 runs allowed = 22 + 0.0 = 22.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Drew Briggs: rng1 = 79 + 11 - 12 - 1 = 77
+rng2 = 15 + 8 - 6 - 1 = 16
+Single
+Team 2 pitcher (Clay Carson): 23 batters faced, 0 runs allowed = 23 + 0.0 = 23.0, outs: 2
+
+base1: [4,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Evan Hudson: rng1 = 7 + 7 - 12 - 1 = 1
+Strikeout
+Team 2 pitcher (Clay Carson): 24 batters faced, 0 runs allowed = 24 + 0.0 = 24.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 6
+
+Orlando Bradford: rng1 = 5 + 10 - 8 + 1 = 8
+Strikeout
+Team 1 pitcher (Ed Wolfe): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jacobi Davis: rng1 = 36 + 16 - 8 + 1 = 45
+rng2 = 23 + 15 - 7 + 1 = 32
+Groundout
+Team 1 pitcher (Ed Wolfe): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Byron Lloyd: rng1 = 74 + 15 - 8 + 1 = 82
+rng2 = 91 + 14 - 7 + 1 = 99
+Home run
+Team 1 pitcher (Ed Wolfe): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Kazuhiro Ida: rng1 = 48 + 14 - 8 + 1 = 55
+rng2 = 72 + 16 - 7 + 1 = 82
+Flyout
+Team 1 pitcher (Ed Wolfe): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 7
+
+Pierre Moreau: rng1 = 38 + 8 - 12 - 1 = 33
+rng2 = 37 + 7 - 6 - 1 = 37
+Groundout
+Team 2 pitcher (Clay Carson): 25 batters faced, 0 runs allowed = 25 + 0.0 = 25.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Tyrone Morton: rng1 = 90 + 8 - 12 - 1 = 85
+rng2 = 70 + 7 - 6 - 1 = 70
+Double
+Team 2 pitcher (Clay Carson): 26 batters faced, 0 runs allowed = 26 + 0.0 = 26.0, outs: 1
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Moises Bolivar: rng1 = 2 + 7 - 12 - 1 = -4
+Strikeout
+Team 2 pitcher (Clay Carson): 27 batters faced, 0 runs allowed = 27 + 0.0 = 27.0, outs: 2
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Ashraf Saad: rng1 = 4 + 13 - 12 - 1 = 4
+Strikeout
+Team 2 pitcher (Clay Carson): 28 batters faced, 0 runs allowed = 28 + 0.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 7
+
+Guy Nicholson: rng1 = 59 + 12 - 8 + 1 = 64
+rng2 = 13 + 12 - 7 + 1 = 19
+Groundout
+Team 1 pitcher (Ed Wolfe): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Rodney Shaffer: rng1 = 6 + 14 - 8 + 1 = 13
+rng2 = 9 + 11 - 7 + 1 = 14
+Groundout
+Team 1 pitcher (Ed Wolfe): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Arturo Trujillo: rng1 = 5 + 12 - 8 + 1 = 10
+Strikeout
+Team 1 pitcher (Ed Wolfe): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Major Ortiz
+
+Vicente Uribe: rng1 = 43 + 11 - 10 - 1 = 43
+rng2 = 31 + 11 - 8 - 1 = 33
+Groundout
+Team 2 pitcher (Major Ortiz): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Travis Nichols: rng1 = 27 + 11 - 10 - 1 = 27
+Strikeout
+Team 2 pitcher (Major Ortiz): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+David Hunter: rng1 = 11 + 8 - 10 - 1 = 8
+Strikeout
+Team 2 pitcher (Major Ortiz): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 8
+
+Christian Mendez: rng1 = 27 + 12 - 8 + 1 = 32
+rng2 = 7 + 10 - 7 + 1 = 11
+Groundout
+Team 1 pitcher (Ed Wolfe): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Tyler Sanders: rng1 = 28 + 10 - 8 + 1 = 31
+rng2 = 94 + 8 - 7 + 1 = 96
+Flyout
+Team 1 pitcher (Ed Wolfe): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Orlando Bradford: rng1 = 51 + 10 - 8 + 1 = 54
+rng2 = 42 + 7 - 7 + 1 = 43
+Groundout
+Team 1 pitcher (Ed Wolfe): 27 batters faced, 1 runs allowed = 27 + 2.5 = 29.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Tim Brooks
+
+Drew Briggs: rng1 = 60 + 11 - 12 - 1 = 58
+rng2 = 60 + 8 - 12 - 1 = 55
+Lineout
+Team 2 pitcher (Tim Brooks): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Evan Hudson: rng1 = 10 + 7 - 12 - 1 = 4
+Strikeout
+Team 2 pitcher (Tim Brooks): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Pierre Moreau: rng1 = 38 + 8 - 12 - 1 = 33
+rng2 = 35 + 7 - 12 - 1 = 29
+Groundout
+Team 2 pitcher (Tim Brooks): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 5
+Team 2 hits: 2
+Team 1 runs: 0
+Team 2 runs: 1
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-29
+Ashraf Saad	4	0	0	0	0	0	0	0	4					NewHaven
+Vicente Uribe	4	0	1	0	0	0	0	0	1	
+Travis Nichols	3	0	0	0	0	0	0	1	1	
+David Hunter	4	0	1	0	0	0	0	0	2	
+Drew Briggs	4	0	1	0	0	0	0	0	1	
+Evan Hudson	4	0	1	0	0	0	0	0	2	
+Pierre Moreau	4	0	0	0	0	0	0	0	0	
+Tyrone Morton	2	0	1	1	0	0	0	1	1	
+Moises Bolivar	2	0	0	0	0	0	0	1	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Ed Wolfe	0	1	1	1	0	0	24	2	1	1	2	5	27	
+Rob Bowman	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Lance Kirby	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Alfonso Juarez	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rex Burnett	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-29
+Jacobi Davis	3	0	0	0	0	0	0	0	0					Nashville
+Byron Lloyd	1	1	1	0	0	1	1	2	0	
+Kazuhiro Ida	3	0	0	0	0	0	0	0	0	
+Guy Nicholson	3	0	0	0	0	0	0	0	1	
+Rodney Shaffer	3	0	0	0	0	0	0	0	0	
+Arturo Trujillo	3	0	0	0	0	0	0	0	1	
+Christian Mendez	3	0	1	1	0	0	0	0	1	
+Tyler Sanders	3	0	0	0	0	0	0	0	1	
+Orlando Bradford	3	0	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Clay Carson	1	0	1	1	0	0	21	5	0	0	3	11	28	
+Major Ortiz	0	0	1	0	0	0	3	0	0	0	0	2	3	
+Bradley Weaver	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Curtis Holmes	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Tim Brooks	0	0	1	0	1	1	3	0	0	0	0	1	3	

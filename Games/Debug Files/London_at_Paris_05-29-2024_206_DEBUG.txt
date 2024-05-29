@@ -1,0 +1,796 @@
+TOP INNING 1
+
+Toshio Hayashi: rng1 = 43 + 14 - 9 - 1 = 47
+rng2 = 48 + 9 - 7 - 1 = 49
+Lineout
+Team 2 pitcher (Conor Randall): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Alex Diaz: rng1 = 65 + 13 - 9 - 1 = 68
+rng2 = 20 + 10 - 7 - 1 = 22
+Groundout
+Team 2 pitcher (Conor Randall): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Phil Hill: rng1 = 99 + 10 - 9 - 1 = 99
+rng2 = 47 + 7 - 7 - 1 = 46
+Single
+Team 2 pitcher (Conor Randall): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Joseph Porter: rng1 = 30 + 6 - 9 - 1 = 26
+Strikeout
+Team 2 pitcher (Conor Randall): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Nelson Gates: rng1 = 90 + 12 - 9 + 1 = 94
+rng2 = 78 + 10 - 8 + 1 = 81
+Home run
+Team 1 pitcher (Endo Shinzo): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Joshua Cooper: rng1 = 10 + 12 - 9 + 1 = 14
+rng2 = 56 + 3 - 8 + 1 = 52
+Lineout
+Team 1 pitcher (Endo Shinzo): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Leigh Copeland: rng1 = 43 + 11 - 9 + 1 = 46
+rng2 = 94 + 12 - 8 + 1 = 99
+Flyout
+Team 1 pitcher (Endo Shinzo): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Chris Lay: rng1 = 63 + 4 - 9 + 1 = 59
+rng2 = 43 + 10 - 8 + 1 = 46
+Groundout
+Team 1 pitcher (Endo Shinzo): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 2
+
+Jeffery Sims: rng1 = 2 + 8 - 9 - 1 = 0
+Strikeout
+Team 2 pitcher (Conor Randall): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Estefania Espina: rng1 = 81 + 8 - 9 - 1 = 79
+rng2 = 14 + 8 - 7 - 1 = 14
+Single
+Team 2 pitcher (Conor Randall): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Juan Reyes: rng1 = 95 + 8 - 9 - 1 = 93
+rng2 = 46 + 8 - 7 - 1 = 46
+Single
+Team 2 pitcher (Conor Randall): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-1
+
+Agustin Torres: rng1 = 6 + 6 - 9 - 1 = 2
+Strikeout
+Team 2 pitcher (Conor Randall): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-1
+
+Dwayne Wilkinson: rng1 = 28 + 9 - 9 - 1 = 27
+Strikeout
+Team 2 pitcher (Conor Randall): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Jonatan Abreu: rng1 = 89 + 7 - 9 + 1 = 88
+Walk
+Team 1 pitcher (Endo Shinzo): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Cesar Mejia: rng1 = 90 + 11 - 9 + 1 = 93
+rng2 = 46 + 7 - 8 + 1 = 46
+Single
+Team 1 pitcher (Endo Shinzo): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 0
+
+base1: [5,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 0-1
+
+Joey Crawford: rng1 = 77 + 8 - 9 + 1 = 77
+rng2 = 38 + 7 - 8 + 1 = 38
+Single
+Team 1 pitcher (Endo Shinzo): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 0
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 0-2
+
+Stanley Mueller: rng1 = 71 + 11 - 9 + 1 = 74
+rng2 = 81 + 4 - 8 + 1 = 78
+Double
+Team 1 pitcher (Endo Shinzo): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 0
+
+base1: false, base2: [7,0], base3: [6,0]
+base1: false, base2: true, base3: true
+Score: 0-3
+
+Mark Mullins: rng1 = 8 + 7 - 9 + 1 = 7
+Strikeout
+Team 1 pitcher (Endo Shinzo): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 1
+
+base1: false, base2: [7,0], base3: [6,0]
+base1: false, base2: true, base3: true
+Score: 0-3
+
+Nelson Gates: rng1 = 77 + 12 - 9 + 1 = 81
+rng2 = 57 + 10 - 8 + 1 = 60
+Single
+Team 1 pitcher (Endo Shinzo): 10 batters faced, 4 runs allowed = 10 + 10.0 = 20.0, outs: 1
+
+base1: [0,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 0-4
+
+Joshua Cooper: rng1 = 29 + 12 - 9 + 1 = 33
+rng2 = 70 + 3 - 8 + 1 = 66
+Flyout
+Team 1 pitcher (Endo Shinzo): 11 batters faced, 5 runs allowed = 11 + 12.5 = 23.5, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Leigh Copeland: rng1 = 73 + 11 - 9 + 1 = 76
+rng2 = 60 + 12 - 8 + 1 = 65
+Single
+Team 1 pitcher (Endo Shinzo): 12 batters faced, 5 runs allowed = 12 + 12.5 = 24.5, outs: 2
+
+base1: [2,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 0-5
+
+Chris Lay: rng1 = 27 + 4 - 9 + 1 = 23
+Strikeout
+Team 1 pitcher (Endo Shinzo): 13 batters faced, 5 runs allowed = 13 + 12.5 = 25.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+TOP INNING 3
+
+Toshio Hayashi: rng1 = 46 + 14 - 9 - 1 = 50
+rng2 = 59 + 9 - 7 - 1 = 60
+Flyout
+Team 2 pitcher (Conor Randall): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Alex Diaz: rng1 = 34 + 13 - 9 - 1 = 37
+rng2 = 48 + 10 - 7 - 1 = 50
+Lineout
+Team 2 pitcher (Conor Randall): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Phil Hill: rng1 = 42 + 10 - 9 - 1 = 42
+rng2 = 24 + 7 - 7 - 1 = 23
+Groundout
+Team 2 pitcher (Conor Randall): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+BOTTOM INNING 3
+
+Jonatan Abreu: rng1 = 45 + 7 - 9 + 1 = 44
+rng2 = 49 + 8 - 8 + 1 = 50
+Lineout
+Team 1 pitcher (Endo Shinzo): 14 batters faced, 5 runs allowed = 14 + 12.5 = 26.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Cesar Mejia: rng1 = 29 + 11 - 9 + 1 = 32
+rng2 = 77 + 7 - 8 + 1 = 77
+Flyout
+Team 1 pitcher (Endo Shinzo): 15 batters faced, 5 runs allowed = 15 + 12.5 = 27.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Joey Crawford: rng1 = 77 + 8 - 9 + 1 = 77
+rng2 = 37 + 7 - 8 + 1 = 37
+Single
+Team 1 pitcher (Endo Shinzo): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Stanley Mueller: rng1 = 71 + 11 - 9 + 1 = 74
+rng2 = 47 + 4 - 8 + 1 = 44
+Single
+Team 1 pitcher (Endo Shinzo): 17 batters faced, 5 runs allowed = 17 + 12.5 = 29.5, outs: 2
+
+base1: [7,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 0-5
+
+Mark Mullins: rng1 = 77 + 7 - 9 + 1 = 76
+rng2 = 80 + 7 - 8 + 1 = 80
+Home run
+Team 1 pitcher (Endo Shinzo): 18 batters faced, 8 runs allowed = 18 + 20.0 = 38.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-8
+
+Team 1 pitcher change to Nate Tucker
+
+Nelson Gates: rng1 = 89 + 12 - 8 + 1 = 94
+rng2 = 13 + 10 - 7 + 1 = 17
+Single
+Team 1 pitcher (Nate Tucker): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-8
+
+Joshua Cooper: rng1 = 89 + 12 - 8 + 1 = 94
+rng2 = 70 + 3 - 7 + 1 = 67
+Double
+Team 1 pitcher (Nate Tucker): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: [1,1], base3: [0,1]
+base1: false, base2: true, base3: true
+Score: 0-8
+
+Leigh Copeland: rng1 = 54 + 11 - 8 + 1 = 58
+rng2 = 81 + 12 - 7 + 1 = 87
+Flyout
+Team 1 pitcher (Nate Tucker): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-8
+
+-----------------------
+
+TOP INNING 4
+
+Joseph Porter: rng1 = 100 + 6 - 9 - 1 = 96
+rng2 = 46 + 9 - 7 - 1 = 47
+Single
+Team 2 pitcher (Conor Randall): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-8
+
+Jeffery Sims: rng1 = 32 + 8 - 9 - 1 = 30
+rng2 = 99 + 8 - 7 - 1 = 99
+Flyout
+Team 2 pitcher (Conor Randall): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-8
+
+Estefania Espina: rng1 = 50 + 8 - 9 - 1 = 48
+rng2 = 9 + 8 - 7 - 1 = 9
+Groundout
+Team 2 pitcher (Conor Randall): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 2
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-8
+
+Juan Reyes: rng1 = 83 + 8 - 9 - 1 = 81
+rng2 = 51 + 8 - 7 - 1 = 51
+Single
+Team 2 pitcher (Conor Randall): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-8
+
+Agustin Torres: rng1 = 20 + 6 - 9 - 1 = 16
+Strikeout
+Team 2 pitcher (Conor Randall): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-8
+
+-----------------------
+
+BOTTOM INNING 4
+
+Chris Lay: rng1 = 38 + 4 - 8 + 1 = 35
+rng2 = 4 + 10 - 7 + 1 = 8
+Groundout
+Team 1 pitcher (Nate Tucker): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-8
+
+Jonatan Abreu: rng1 = 32 + 7 - 8 + 1 = 32
+rng2 = 53 + 8 - 7 + 1 = 55
+Lineout
+Team 1 pitcher (Nate Tucker): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-8
+
+Cesar Mejia: rng1 = 57 + 11 - 8 + 1 = 61
+rng2 = 73 + 7 - 7 + 1 = 74
+Flyout
+Team 1 pitcher (Nate Tucker): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-8
+
+-----------------------
+
+TOP INNING 5
+
+Dwayne Wilkinson: rng1 = 50 + 9 - 9 - 1 = 49
+rng2 = 62 + 5 - 7 - 1 = 59
+Flyout
+Team 2 pitcher (Conor Randall): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-8
+
+Toshio Hayashi: rng1 = 54 + 14 - 9 - 1 = 58
+rng2 = 68 + 9 - 7 - 1 = 69
+Flyout
+Team 2 pitcher (Conor Randall): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-8
+
+Alex Diaz: rng1 = 89 + 13 - 9 - 1 = 92
+rng2 = 46 + 10 - 7 - 1 = 48
+Single
+Team 2 pitcher (Conor Randall): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-8
+
+Phil Hill: rng1 = 87 + 10 - 9 - 1 = 87
+Walk
+Team 2 pitcher (Conor Randall): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 2
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-8
+
+Joseph Porter: rng1 = 93 + 6 - 9 - 1 = 89
+Walk
+Team 2 pitcher (Conor Randall): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 2
+
+base1: [3,0], base2: [2,0], base3: [1,0]
+base1: true, base2: true, base3: true
+Score: 1-8
+
+Jeffery Sims: rng1 = 17 + 8 - 9 - 1 = 15
+rng2 = 24 + 8 - 7 - 1 = 24
+Groundout
+Team 2 pitcher (Conor Randall): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-8
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Finn Sachse
+
+Joey Crawford: rng1 = 11 + 8 - 9 + 1 = 11
+rng2 = 83 + 7 - 8 + 1 = 83
+Flyout
+Team 1 pitcher (Finn Sachse): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-8
+
+Stanley Mueller: rng1 = 22 + 11 - 9 + 1 = 25
+Strikeout
+Team 1 pitcher (Finn Sachse): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-8
+
+Mark Mullins: rng1 = 50 + 7 - 9 + 1 = 49
+rng2 = 89 + 7 - 8 + 1 = 89
+Flyout
+Team 1 pitcher (Finn Sachse): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-8
+
+-----------------------
+
+TOP INNING 6
+
+Estefania Espina: rng1 = 71 + 8 - 9 - 1 = 69
+rng2 = 42 + 8 - 7 - 1 = 42
+Groundout
+Team 2 pitcher (Conor Randall): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-8
+
+Juan Reyes: rng1 = 21 + 8 - 9 - 1 = 19
+Strikeout
+Team 2 pitcher (Conor Randall): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-8
+
+Agustin Torres: rng1 = 85 + 6 - 9 - 1 = 81
+rng2 = 51 + 8 - 7 - 1 = 51
+Single
+Team 2 pitcher (Conor Randall): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-8
+
+Dwayne Wilkinson: rng1 = 64 + 9 - 9 - 1 = 63
+rng2 = 3 + 5 - 7 - 1 = 0
+Groundout
+Team 2 pitcher (Conor Randall): 27 batters faced, 1 runs allowed = 27 + 2.5 = 29.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-8
+
+-----------------------
+
+BOTTOM INNING 6
+
+Nelson Gates: rng1 = 44 + 12 - 9 + 1 = 48
+rng2 = 71 + 10 - 8 + 1 = 74
+Flyout
+Team 1 pitcher (Finn Sachse): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-8
+
+Joshua Cooper: rng1 = 85 + 12 - 9 + 1 = 89
+Walk
+Team 1 pitcher (Finn Sachse): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-8
+
+Leigh Copeland: rng1 = 5 + 11 - 9 + 1 = 8
+Strikeout
+Team 1 pitcher (Finn Sachse): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-8
+
+Chris Lay: rng1 = 69 + 4 - 9 + 1 = 65
+rng2 = 50 + 10 - 8 + 1 = 53
+Lineout
+Team 1 pitcher (Finn Sachse): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-8
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Pablo Quintana
+
+Toshio Hayashi: rng1 = 17 + 14 - 9 - 1 = 21
+Strikeout
+Team 2 pitcher (Pablo Quintana): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-8
+
+Alex Diaz: rng1 = 20 + 13 - 9 - 1 = 23
+Strikeout
+Team 2 pitcher (Pablo Quintana): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-8
+
+Phil Hill: rng1 = 96 + 10 - 9 - 1 = 96
+rng2 = 61 + 7 - 8 - 1 = 59
+Single
+Team 2 pitcher (Pablo Quintana): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-8
+
+Joseph Porter: rng1 = 28 + 6 - 9 - 1 = 24
+Strikeout
+Team 2 pitcher (Pablo Quintana): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-8
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Jorge Pozo
+
+Jonatan Abreu: rng1 = 32 + 7 - 9 + 1 = 31
+rng2 = 64 + 8 - 6 + 1 = 67
+Flyout
+Team 1 pitcher (Jorge Pozo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-8
+
+Cesar Mejia: rng1 = 40 + 11 - 9 + 1 = 43
+rng2 = 32 + 7 - 6 + 1 = 34
+Groundout
+Team 1 pitcher (Jorge Pozo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-8
+
+Joey Crawford: rng1 = 100 + 8 - 9 + 1 = 100
+rng2 = 7 + 7 - 6 + 1 = 9
+Single
+Team 1 pitcher (Jorge Pozo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [6,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-8
+
+Stanley Mueller: rng1 = 58 + 11 - 9 + 1 = 61
+rng2 = 69 + 4 - 6 + 1 = 68
+Flyout
+Team 1 pitcher (Jorge Pozo): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-8
+
+-----------------------
+
+TOP INNING 8
+
+Jeffery Sims: rng1 = 95 + 8 - 9 - 1 = 93
+rng2 = 53 + 8 - 8 - 1 = 52
+Single
+Team 2 pitcher (Pablo Quintana): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-8
+
+Estefania Espina: rng1 = 97 + 8 - 9 - 1 = 95
+rng2 = 99 + 8 - 8 - 1 = 98
+Home run
+Team 2 pitcher (Pablo Quintana): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Juan Reyes: rng1 = 13 + 8 - 9 - 1 = 11
+rng2 = 86 + 8 - 8 - 1 = 85
+Flyout
+Team 2 pitcher (Pablo Quintana): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Agustin Torres: rng1 = 89 + 6 - 9 - 1 = 85
+rng2 = 16 + 8 - 8 - 1 = 15
+Single
+Team 2 pitcher (Pablo Quintana): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 1
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-8
+
+Team 2 pitcher change to Drew Burns
+
+Dwayne Wilkinson: rng1 = 32 + 9 - 7 - 1 = 33
+rng2 = 86 + 5 - 8 - 1 = 82
+Flyout
+Team 2 pitcher (Drew Burns): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-8
+
+Toshio Hayashi: rng1 = 40 + 14 - 7 - 1 = 46
+rng2 = 68 + 9 - 8 - 1 = 68
+Flyout
+Team 2 pitcher (Drew Burns): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-8
+
+-----------------------
+
+BOTTOM INNING 8
+
+Mark Mullins: rng1 = 63 + 7 - 9 + 1 = 62
+rng2 = 19 + 7 - 6 + 1 = 21
+Groundout
+Team 1 pitcher (Jorge Pozo): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Nelson Gates: rng1 = 35 + 12 - 9 + 1 = 39
+rng2 = 10 + 10 - 6 + 1 = 15
+Groundout
+Team 1 pitcher (Jorge Pozo): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Joshua Cooper: rng1 = 44 + 12 - 9 + 1 = 48
+rng2 = 32 + 3 - 6 + 1 = 30
+Groundout
+Team 1 pitcher (Jorge Pozo): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-8
+
+-----------------------
+
+TOP INNING 9
+
+Alex Diaz: rng1 = 42 + 13 - 7 - 1 = 47
+rng2 = 79 + 10 - 8 - 1 = 80
+Flyout
+Team 2 pitcher (Drew Burns): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Phil Hill: rng1 = 98 + 10 - 7 - 1 = 100
+rng2 = 75 + 7 - 8 - 1 = 73
+Double
+Team 2 pitcher (Drew Burns): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: [2,2], base3: false
+base1: false, base2: true, base3: false
+Score: 3-8
+
+Joseph Porter: rng1 = 63 + 6 - 7 - 1 = 61
+rng2 = 68 + 9 - 8 - 1 = 68
+Flyout
+Team 2 pitcher (Drew Burns): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: [2,2], base3: false
+base1: false, base2: true, base3: false
+Score: 3-8
+
+Jeffery Sims: rng1 = 54 + 8 - 7 - 1 = 54
+rng2 = 43 + 8 - 8 - 1 = 42
+Groundout
+Team 2 pitcher (Drew Burns): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-8
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 12
+Team 2 hits: 12
+Team 1 runs: 3
+Team 2 runs: 8
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-29
+Toshio Hayashi	5	0	0	0	0	0	0	0	1					London
+Alex Diaz	5	0	1	0	0	0	0	0	1	
+Phil Hill	4	0	3	1	0	0	0	1	0	
+Joseph Porter	4	1	1	0	0	0	0	1	2	
+Jeffery Sims	5	1	1	0	0	0	0	0	1	
+Estefania Espina	4	1	2	0	0	1	2	0	0	
+Juan Reyes	4	0	2	0	0	0	1	0	1	
+Agustin Torres	4	0	2	0	0	0	0	0	2	
+Dwayne Wilkinson	4	0	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Endo Shinzo	0	1	1	1	0	0	8	9	8	2	1	2	18	
+Nate Tucker	0	0	1	0	0	0	4	2	0	0	0	0	6	
+Finn Sachse	0	0	1	0	0	0	6	0	0	0	1	2	7	
+Jorge Pozo	0	0	1	0	0	0	6	1	0	0	0	0	7	
+Legend Brooks	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-29
+Nelson Gates	5	1	3	0	0	1	2	0	0					Paris
+Joshua Cooper	4	0	1	1	0	0	1	1	0	
+Leigh Copeland	4	0	1	0	0	0	0	0	1	
+Chris Lay	4	0	0	0	0	0	0	0	1	
+Jonatan Abreu	3	1	0	0	0	0	0	1	0	
+Cesar Mejia	4	1	1	0	0	0	0	0	0	
+Joey Crawford	4	2	3	0	0	0	1	0	0	
+Stanley Mueller	4	2	2	1	0	0	1	0	1	
+Mark Mullins	4	1	1	0	0	1	3	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Conor Randall	1	0	1	1	0	0	18	7	1	0	2	6	27	
+Pablo Quintana	0	0	1	0	0	0	4	4	2	1	0	3	8	
+Drew Burns	0	0	1	0	0	0	5	1	0	0	0	0	6	
+Hershel Easom	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Robb Tremblay	0	0	0	0	0	0	0	0	0	0	0	0	0	

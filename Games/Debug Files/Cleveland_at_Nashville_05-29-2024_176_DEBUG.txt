@@ -1,0 +1,858 @@
+TOP INNING 1
+
+Rafael Figueroa: rng1 = 52 + 17 - 12 - 1 = 56
+rng2 = 47 + 13 - 6 - 1 = 53
+Lineout
+Team 2 pitcher (Clay Carson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Hernan Pereira: rng1 = 79 + 14 - 12 - 1 = 80
+rng2 = 63 + 16 - 6 - 1 = 72
+Double
+Team 2 pitcher (Clay Carson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Federico Taveras: rng1 = 95 + 13 - 12 - 1 = 95
+rng2 = 78 + 10 - 6 - 1 = 81
+Home run
+Team 2 pitcher (Clay Carson): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Omar Shah: rng1 = 78 + 7 - 12 - 1 = 72
+Walk
+Team 2 pitcher (Clay Carson): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Francisco Illescas: rng1 = 97 + 8 - 12 - 1 = 92
+rng2 = 64 + 8 - 6 - 1 = 65
+Single
+Team 2 pitcher (Clay Carson): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 1
+
+base1: [4,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 2-0
+
+Chwa Jung-Su: rng1 = 98 + 8 - 12 - 1 = 93
+rng2 = 82 + 7 - 6 - 1 = 82
+Home run
+Team 2 pitcher (Clay Carson): 6 batters faced, 5 runs allowed = 6 + 12.5 = 18.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Gerardo Deleon: rng1 = 96 + 9 - 12 - 1 = 92
+rng2 = 94 + 6 - 6 - 1 = 93
+Triple
+Team 2 pitcher (Clay Carson): 7 batters faced, 5 runs allowed = 7 + 12.5 = 19.5, outs: 1
+
+base1: false, base2: false, base3: [6,0]
+base1: false, base2: false, base3: true
+Score: 5-0
+
+Guillermo Richard: rng1 = 58 + 7 - 12 - 1 = 52
+rng2 = 9 + 7 - 6 - 1 = 9
+Groundout
+Team 2 pitcher (Clay Carson): 8 batters faced, 5 runs allowed = 8 + 12.5 = 20.5, outs: 2
+
+base1: false, base2: false, base3: [6,0]
+base1: false, base2: false, base3: true
+Score: 5-0
+
+Jerónimo Palomar: rng1 = 37 + 6 - 12 - 1 = 30
+rng2 = 9 + 7 - 6 - 1 = 9
+Groundout
+Team 2 pitcher (Clay Carson): 9 batters faced, 5 runs allowed = 9 + 12.5 = 21.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Jacobi Davis: rng1 = 5 + 16 - 8 + 1 = 14
+rng2 = 15 + 15 - 6 + 1 = 25
+Groundout
+Team 1 pitcher (Keenan Elliott): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Byron Lloyd: rng1 = 72 + 15 - 8 + 1 = 80
+rng2 = 33 + 14 - 6 + 1 = 42
+Single
+Team 1 pitcher (Keenan Elliott): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-0
+
+Kazuhiro Ida: rng1 = 3 + 14 - 8 + 1 = 10
+Strikeout
+Team 1 pitcher (Keenan Elliott): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-0
+
+Guy Nicholson: rng1 = 77 + 12 - 8 + 1 = 82
+rng2 = 60 + 12 - 6 + 1 = 67
+Double
+Team 1 pitcher (Keenan Elliott): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: [3,0], base3: [1,0]
+base1: false, base2: true, base3: true
+Score: 5-0
+
+Rodney Shaffer: rng1 = 61 + 14 - 8 + 1 = 68
+rng2 = 61 + 11 - 6 + 1 = 67
+Flyout
+Team 1 pitcher (Keenan Elliott): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-0
+
+-----------------------
+
+TOP INNING 2
+
+Rafael Figueroa: rng1 = 1 + 17 - 12 - 1 = 5
+Strikeout
+Team 2 pitcher (Clay Carson): 10 batters faced, 5 runs allowed = 10 + 12.5 = 22.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Hernan Pereira: rng1 = 52 + 14 - 12 - 1 = 53
+rng2 = 56 + 16 - 6 - 1 = 65
+Flyout
+Team 2 pitcher (Clay Carson): 11 batters faced, 5 runs allowed = 11 + 12.5 = 23.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Federico Taveras: rng1 = 2 + 13 - 12 - 1 = 2
+Strikeout
+Team 2 pitcher (Clay Carson): 12 batters faced, 5 runs allowed = 12 + 12.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Arturo Trujillo: rng1 = 9 + 12 - 8 + 1 = 14
+rng2 = 52 + 11 - 6 + 1 = 58
+Lineout
+Team 1 pitcher (Keenan Elliott): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Christian Mendez: rng1 = 19 + 12 - 8 + 1 = 24
+Strikeout
+Team 1 pitcher (Keenan Elliott): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Tyler Sanders: rng1 = 2 + 10 - 8 + 1 = 5
+Strikeout
+Team 1 pitcher (Keenan Elliott): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-0
+
+-----------------------
+
+TOP INNING 3
+
+Omar Shah: rng1 = 65 + 7 - 12 - 1 = 59
+rng2 = 26 + 14 - 6 - 1 = 33
+Groundout
+Team 2 pitcher (Clay Carson): 13 batters faced, 5 runs allowed = 13 + 12.5 = 25.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Francisco Illescas: rng1 = 6 + 8 - 12 - 1 = 1
+Strikeout
+Team 2 pitcher (Clay Carson): 14 batters faced, 5 runs allowed = 14 + 12.5 = 26.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Chwa Jung-Su: rng1 = 91 + 8 - 12 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Clay Carson): 15 batters faced, 5 runs allowed = 15 + 12.5 = 27.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-0
+
+Gerardo Deleon: rng1 = 98 + 9 - 12 - 1 = 94
+rng2 = 51 + 6 - 6 - 1 = 50
+Single
+Team 2 pitcher (Clay Carson): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 2
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 5-0
+
+Guillermo Richard: rng1 = 85 + 7 - 12 - 1 = 79
+rng2 = 53 + 7 - 6 - 1 = 53
+Single
+Team 2 pitcher (Clay Carson): 17 batters faced, 6 runs allowed = 17 + 15.0 = 32.0, outs: 2
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 6-0
+
+Jerónimo Palomar: rng1 = 93 + 6 - 12 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Clay Carson): 18 batters faced, 6 runs allowed = 18 + 15.0 = 33.0, outs: 2
+
+base1: [8,0], base2: [7,0], base3: [6,0]
+base1: true, base2: true, base3: true
+Score: 6-0
+
+Rafael Figueroa: rng1 = 40 + 17 - 12 - 1 = 44
+rng2 = 22 + 13 - 6 - 1 = 28
+Groundout
+Team 2 pitcher (Clay Carson): 19 batters faced, 6 runs allowed = 19 + 15.0 = 34.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Orlando Bradford: rng1 = 48 + 10 - 8 + 1 = 51
+rng2 = 8 + 7 - 6 + 1 = 10
+Groundout
+Team 1 pitcher (Keenan Elliott): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-0
+
+Jacobi Davis: rng1 = 61 + 16 - 8 + 1 = 70
+Walk
+Team 1 pitcher (Keenan Elliott): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-0
+
+Byron Lloyd: rng1 = 14 + 15 - 8 + 1 = 22
+Strikeout
+Team 1 pitcher (Keenan Elliott): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-0
+
+Kazuhiro Ida: rng1 = 96 + 14 - 8 + 1 = 103
+rng2 = 98 + 16 - 6 + 1 = 109
+Home run
+Team 1 pitcher (Keenan Elliott): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-2
+
+Guy Nicholson: rng1 = 45 + 12 - 8 + 1 = 50
+rng2 = 93 + 12 - 6 + 1 = 100
+Flyout
+Team 1 pitcher (Keenan Elliott): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-2
+
+-----------------------
+
+TOP INNING 4
+
+Team 2 pitcher change to Curtis Holmes
+
+Hernan Pereira: rng1 = 23 + 14 - 11 - 1 = 25
+Strikeout
+Team 2 pitcher (Curtis Holmes): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-2
+
+Federico Taveras: rng1 = 6 + 13 - 11 - 1 = 7
+Strikeout
+Team 2 pitcher (Curtis Holmes): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-2
+
+Omar Shah: rng1 = 93 + 7 - 11 - 1 = 88
+Walk
+Team 2 pitcher (Curtis Holmes): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-2
+
+Francisco Illescas: rng1 = 68 + 8 - 11 - 1 = 64
+rng2 = 70 + 8 - 11 - 1 = 66
+Flyout
+Team 2 pitcher (Curtis Holmes): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-2
+
+-----------------------
+
+BOTTOM INNING 4
+
+Rodney Shaffer: rng1 = 2 + 14 - 8 + 1 = 9
+Strikeout
+Team 1 pitcher (Keenan Elliott): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-2
+
+Arturo Trujillo: rng1 = 58 + 12 - 8 + 1 = 63
+rng2 = 62 + 11 - 6 + 1 = 68
+Flyout
+Team 1 pitcher (Keenan Elliott): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-2
+
+Christian Mendez: rng1 = 83 + 12 - 8 + 1 = 88
+Walk
+Team 1 pitcher (Keenan Elliott): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-2
+
+Tyler Sanders: rng1 = 31 + 10 - 8 + 1 = 34
+rng2 = 79 + 8 - 6 + 1 = 82
+Flyout
+Team 1 pitcher (Keenan Elliott): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-2
+
+-----------------------
+
+TOP INNING 5
+
+Chwa Jung-Su: rng1 = 49 + 8 - 11 - 1 = 45
+rng2 = 24 + 7 - 11 - 1 = 19
+Groundout
+Team 2 pitcher (Curtis Holmes): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-2
+
+Gerardo Deleon: rng1 = 45 + 9 - 11 - 1 = 42
+rng2 = 38 + 6 - 11 - 1 = 32
+Groundout
+Team 2 pitcher (Curtis Holmes): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-2
+
+Guillermo Richard: rng1 = 66 + 7 - 11 - 1 = 61
+rng2 = 29 + 7 - 11 - 1 = 24
+Groundout
+Team 2 pitcher (Curtis Holmes): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-2
+
+-----------------------
+
+BOTTOM INNING 5
+
+Orlando Bradford: rng1 = 91 + 10 - 8 + 1 = 94
+rng2 = 27 + 7 - 6 + 1 = 29
+Single
+Team 1 pitcher (Keenan Elliott): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-2
+
+Jacobi Davis: rng1 = 54 + 16 - 8 + 1 = 63
+rng2 = 19 + 15 - 6 + 1 = 29
+Groundout
+Team 1 pitcher (Keenan Elliott): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-2
+
+Byron Lloyd: rng1 = 62 + 15 - 8 + 1 = 70
+Walk
+Team 1 pitcher (Keenan Elliott): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 1
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 6-2
+
+Kazuhiro Ida: rng1 = 24 + 14 - 8 + 1 = 31
+rng2 = 78 + 16 - 6 + 1 = 89
+Flyout
+Team 1 pitcher (Keenan Elliott): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 2
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 6-2
+
+Guy Nicholson: rng1 = 50 + 12 - 8 + 1 = 55
+rng2 = 27 + 12 - 6 + 1 = 34
+Groundout
+Team 1 pitcher (Keenan Elliott): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-2
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Major Ortiz
+
+Jerónimo Palomar: rng1 = 100 + 6 - 10 - 1 = 95
+rng2 = 72 + 7 - 8 - 1 = 70
+Double
+Team 2 pitcher (Major Ortiz): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [8,2], base3: false
+base1: false, base2: true, base3: false
+Score: 6-2
+
+Rafael Figueroa: rng1 = 84 + 17 - 10 - 1 = 90
+Walk
+Team 2 pitcher (Major Ortiz): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [0,2], base2: [8,2], base3: false
+base1: true, base2: true, base3: false
+Score: 6-2
+
+Hernan Pereira: rng1 = 81 + 14 - 10 - 1 = 84
+rng2 = 39 + 16 - 8 - 1 = 46
+Single
+Team 2 pitcher (Major Ortiz): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 0
+
+base1: [1,2], base2: false, base3: [0,2]
+base1: true, base2: false, base3: true
+Score: 7-2
+
+Federico Taveras: rng1 = 85 + 13 - 10 - 1 = 87
+Walk
+Team 2 pitcher (Major Ortiz): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 0
+
+base1: [2,2], base2: [1,2], base3: [0,2]
+base1: true, base2: true, base3: true
+Score: 7-2
+
+Omar Shah: rng1 = 70 + 7 - 10 - 1 = 66
+rng2 = 59 + 14 - 8 - 1 = 64
+Flyout
+Team 2 pitcher (Major Ortiz): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: [2,2], base2: [1,2], base3: [0,2]
+base1: true, base2: true, base3: true
+Score: 7-2
+
+Francisco Illescas: rng1 = 34 + 8 - 10 - 1 = 31
+rng2 = 81 + 8 - 8 - 1 = 80
+Flyout
+Team 2 pitcher (Major Ortiz): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: [2,2], base2: [1,2], base3: false
+base1: true, base2: true, base3: false
+Score: 8-2
+
+Chwa Jung-Su: rng1 = 80 + 8 - 10 - 1 = 77
+rng2 = 36 + 7 - 8 - 1 = 34
+Single
+Team 2 pitcher (Major Ortiz): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 2
+
+base1: [5,2], base2: [2,2], base3: [1,2]
+base1: true, base2: true, base3: true
+Score: 8-2
+
+Team 2 pitcher change to Bradley Weaver
+
+Gerardo Deleon: rng1 = 97 + 9 - 10 - 1 = 95
+rng2 = 66 + 6 - 13 - 1 = 58
+Single
+Team 2 pitcher (Bradley Weaver): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [6,3], base2: [5,2], base3: [2,2]
+base1: true, base2: true, base3: true
+Score: 9-2
+
+Guillermo Richard: rng1 = 86 + 7 - 10 - 1 = 82
+rng2 = 85 + 7 - 13 - 1 = 78
+Double
+Team 2 pitcher (Bradley Weaver): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: [7,3], base3: [6,3]
+base1: false, base2: true, base3: true
+Score: 11-2
+
+Jerónimo Palomar: rng1 = 16 + 6 - 10 - 1 = 11
+rng2 = 10 + 7 - 13 - 1 = 3
+Groundout
+Team 2 pitcher (Bradley Weaver): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 11-2
+
+-----------------------
+
+BOTTOM INNING 6
+
+Rodney Shaffer: rng1 = 41 + 14 - 8 + 1 = 48
+rng2 = 33 + 11 - 6 + 1 = 39
+Groundout
+Team 1 pitcher (Keenan Elliott): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 11-2
+
+Arturo Trujillo: rng1 = 88 + 12 - 8 + 1 = 93
+rng2 = 11 + 11 - 6 + 1 = 17
+Single
+Team 1 pitcher (Keenan Elliott): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 11-2
+
+Christian Mendez: rng1 = 96 + 12 - 8 + 1 = 101
+rng2 = 23 + 10 - 6 + 1 = 28
+Single
+Team 1 pitcher (Keenan Elliott): 25 batters faced, 2 runs allowed = 25 + 5.0 = 30.0, outs: 1
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 11-2
+
+Tyler Sanders: rng1 = 70 + 10 - 8 + 1 = 73
+rng2 = 85 + 8 - 6 + 1 = 88
+Double
+Team 1 pitcher (Keenan Elliott): 26 batters faced, 4 runs allowed = 26 + 10.0 = 36.0, outs: 1
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 11-4
+
+Team 1 pitcher change to Sidney Petersen
+
+Orlando Bradford: rng1 = 69 + 10 - 8 + 1 = 72
+Walk
+Team 1 pitcher (Sidney Petersen): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: [8,1], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 11-4
+
+Jacobi Davis: rng1 = 19 + 16 - 8 + 1 = 28
+Strikeout
+Team 1 pitcher (Sidney Petersen): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: [8,1], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 11-4
+
+Byron Lloyd: rng1 = 2 + 15 - 8 + 1 = 10
+Strikeout
+Team 1 pitcher (Sidney Petersen): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 11-4
+
+-----------------------
+
+TOP INNING 7
+
+Rafael Figueroa: rng1 = 16 + 17 - 10 - 1 = 22
+Strikeout
+Team 2 pitcher (Bradley Weaver): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 11-4
+
+Hernan Pereira: rng1 = 43 + 14 - 10 - 1 = 46
+rng2 = 80 + 16 - 13 - 1 = 82
+Flyout
+Team 2 pitcher (Bradley Weaver): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 11-4
+
+Federico Taveras: rng1 = 59 + 13 - 10 - 1 = 61
+rng2 = 58 + 10 - 13 - 1 = 54
+Lineout
+Team 2 pitcher (Bradley Weaver): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 11-4
+
+-----------------------
+
+BOTTOM INNING 7
+
+Kazuhiro Ida: rng1 = 43 + 14 - 8 + 1 = 50
+rng2 = 100 + 16 - 7 + 1 = 110
+Flyout
+Team 1 pitcher (Sidney Petersen): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 11-4
+
+Guy Nicholson: rng1 = 23 + 12 - 8 + 1 = 28
+Strikeout
+Team 1 pitcher (Sidney Petersen): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 11-4
+
+Rodney Shaffer: rng1 = 100 + 14 - 8 + 1 = 107
+rng2 = 89 + 11 - 7 + 1 = 94
+Home run
+Team 1 pitcher (Sidney Petersen): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 11-5
+
+Arturo Trujillo: rng1 = 52 + 12 - 8 + 1 = 57
+rng2 = 50 + 11 - 7 + 1 = 55
+Lineout
+Team 1 pitcher (Sidney Petersen): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 11-5
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Tim Brooks
+
+Omar Shah: rng1 = 95 + 7 - 12 - 1 = 89
+Walk
+Team 2 pitcher (Tim Brooks): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [3,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 11-5
+
+Francisco Illescas: rng1 = 3 + 8 - 12 - 1 = -2
+Strikeout
+Team 2 pitcher (Tim Brooks): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [3,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 11-5
+
+Chwa Jung-Su: rng1 = 36 + 8 - 12 - 1 = 31
+rng2 = 71 + 7 - 12 - 1 = 65
+Flyout
+Team 2 pitcher (Tim Brooks): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [3,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 11-5
+
+Gerardo Deleon: rng1 = 97 + 9 - 12 - 1 = 93
+rng2 = 40 + 6 - 12 - 1 = 33
+Single
+Team 2 pitcher (Tim Brooks): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [6,4], base2: false, base3: [3,4]
+base1: true, base2: false, base3: true
+Score: 11-5
+
+Guillermo Richard: rng1 = 30 + 7 - 12 - 1 = 24
+Strikeout
+Team 2 pitcher (Tim Brooks): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 11-5
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Jaime Espinosa
+
+Christian Mendez: rng1 = 73 + 12 - 9 + 1 = 77
+rng2 = 87 + 10 - 5 + 1 = 93
+Triple
+Team 1 pitcher (Jaime Espinosa): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: false, base3: [6,2]
+base1: false, base2: false, base3: true
+Score: 11-5
+
+Tyler Sanders: rng1 = 7 + 10 - 9 + 1 = 9
+Strikeout
+Team 1 pitcher (Jaime Espinosa): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: [6,2]
+base1: false, base2: false, base3: true
+Score: 11-5
+
+Orlando Bradford: rng1 = 23 + 10 - 9 + 1 = 25
+Strikeout
+Team 1 pitcher (Jaime Espinosa): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: [6,2]
+base1: false, base2: false, base3: true
+Score: 11-5
+
+Jacobi Davis: rng1 = 54 + 16 - 9 + 1 = 62
+rng2 = 40 + 15 - 5 + 1 = 51
+Lineout
+Team 1 pitcher (Jaime Espinosa): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 11-5
+
+-----------------------
+
+TOP INNING 9
+
+Jerónimo Palomar: rng1 = 33 + 6 - 12 - 1 = 26
+Strikeout
+Team 2 pitcher (Tim Brooks): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 11-5
+
+Rafael Figueroa: rng1 = 53 + 17 - 12 - 1 = 57
+rng2 = 89 + 13 - 12 - 1 = 89
+Flyout
+Team 2 pitcher (Tim Brooks): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 11-5
+
+Hernan Pereira: rng1 = 2 + 14 - 12 - 1 = 3
+Strikeout
+Team 2 pitcher (Tim Brooks): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 11-5
+
+-----------------------
+
+BOTTOM INNING 9
+
+Byron Lloyd: rng1 = 13 + 15 - 9 + 1 = 20
+Strikeout
+Team 1 pitcher (Jaime Espinosa): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 11-5
+
+Kazuhiro Ida: rng1 = 29 + 14 - 9 + 1 = 35
+rng2 = 53 + 16 - 5 + 1 = 65
+Flyout
+Team 1 pitcher (Jaime Espinosa): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 11-5
+
+Guy Nicholson: rng1 = 33 + 12 - 9 + 1 = 37
+rng2 = 86 + 12 - 5 + 1 = 94
+Flyout
+Team 1 pitcher (Jaime Espinosa): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 11-5
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 13
+Team 2 hits: 9
+Team 1 runs: 11
+Team 2 runs: 5
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-29
+Rafael Figueroa	5	1	0	0	0	0	0	1	2					Cleveland
+Hernan Pereira	6	2	2	1	0	0	1	0	2	
+Federico Taveras	4	2	1	0	0	1	2	1	2	
+Omar Shah	2	1	0	0	0	0	0	3	0	
+Francisco Illescas	5	1	1	0	0	0	1	0	2	
+Chwa Jung-Su	4	3	2	0	0	1	3	0	0	
+Gerardo Deleon	5	0	4	0	1	0	1	0	0	
+Guillermo Richard	5	0	2	1	0	0	3	0	1	
+Jerónimo Palomar	4	1	1	1	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Keenan Elliott	1	0	1	1	0	0	16	7	4	1	3	5	26	
+Sidney Petersen	0	0	1	0	0	0	5	1	1	1	1	3	7	
+Jaime Espinosa	0	0	1	0	0	0	6	1	0	0	0	3	7	
+Ernesto Salazar	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Dario Peralta	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-29
+Jacobi Davis	4	1	0	0	0	0	0	1	1					Nashville
+Byron Lloyd	4	0	1	0	0	0	0	1	3	
+Kazuhiro Ida	5	1	1	0	0	1	2	0	1	
+Guy Nicholson	5	0	1	1	0	0	0	0	1	
+Rodney Shaffer	4	1	1	0	0	1	1	0	1	
+Arturo Trujillo	4	1	1	0	0	0	0	0	0	
+Christian Mendez	3	1	2	0	1	0	0	1	1	
+Tyler Sanders	4	0	1	1	0	0	2	0	2	
+Orlando Bradford	3	0	1	0	0	0	0	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Clay Carson	0	1	1	1	0	0	9	7	6	2	1	3	19	
+Curtis Holmes	0	0	1	0	0	0	6	0	0	0	1	2	7	
+Major Ortiz	0	0	1	0	0	0	2	3	5	0	2	0	7	
+Bradley Weaver	0	0	1	0	0	0	4	2	0	0	0	1	6	
+Tim Brooks	0	0	1	0	0	0	6	1	0	0	1	4	8	

@@ -1,0 +1,682 @@
+TOP INNING 1
+
+Guillermo Tamayo: rng1 = 22 + 11 - 12 - 1 = 20
+Strikeout
+Team 2 pitcher (Carmelo Beldad): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Zachary Hughes: rng1 = 73 + 10 - 12 - 1 = 70
+Walk
+Team 2 pitcher (Carmelo Beldad): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Youngwe Park: rng1 = 9 + 10 - 12 - 1 = 6
+Strikeout
+Team 2 pitcher (Carmelo Beldad): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Hiro Hakayawa: rng1 = 39 + 13 - 12 - 1 = 39
+rng2 = 75 + 13 - 12 - 1 = 75
+Flyout
+Team 2 pitcher (Carmelo Beldad): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Logan Chambers: rng1 = 2 + 13 - 15 + 1 = 1
+Strikeout
+Team 1 pitcher (Angel Chavez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Nicolás Moruga: rng1 = 70 + 12 - 15 + 1 = 68
+rng2 = 74 + 14 - 15 + 1 = 74
+Flyout
+Team 1 pitcher (Angel Chavez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Edward Cox: rng1 = 96 + 12 - 15 + 1 = 94
+rng2 = 39 + 7 - 15 + 1 = 32
+Single
+Team 1 pitcher (Angel Chavez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Tristian Love: rng1 = 44 + 11 - 15 + 1 = 41
+rng2 = 77 + 12 - 15 + 1 = 75
+Flyout
+Team 1 pitcher (Angel Chavez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Micah Zamora: rng1 = 41 + 8 - 12 - 1 = 36
+rng2 = 24 + 12 - 12 - 1 = 23
+Groundout
+Team 2 pitcher (Carmelo Beldad): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Alfredo Encarnacion: rng1 = 79 + 9 - 12 - 1 = 75
+rng2 = 40 + 10 - 12 - 1 = 37
+Single
+Team 2 pitcher (Carmelo Beldad): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Enrique Holmes: rng1 = 18 + 7 - 12 - 1 = 12
+rng2 = 68 + 7 - 12 - 1 = 62
+Flyout
+Team 2 pitcher (Carmelo Beldad): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Max Chicote: rng1 = 80 + 8 - 12 - 1 = 75
+rng2 = 40 + 5 - 12 - 1 = 32
+Single
+Team 2 pitcher (Carmelo Beldad): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [7,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Felix Alarcón: rng1 = 23 + 4 - 12 - 1 = 14
+rng2 = 42 + 5 - 12 - 1 = 34
+Groundout
+Team 2 pitcher (Carmelo Beldad): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Aldo Gilmore: rng1 = 52 + 9 - 15 + 1 = 47
+rng2 = 31 + 11 - 15 + 1 = 28
+Groundout
+Team 1 pitcher (Angel Chavez): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Alexis Shultz: rng1 = 40 + 8 - 15 + 1 = 34
+rng2 = 28 + 8 - 15 + 1 = 22
+Groundout
+Team 1 pitcher (Angel Chavez): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Lucián Chicote: rng1 = 40 + 8 - 15 + 1 = 34
+rng2 = 54 + 8 - 15 + 1 = 48
+Lineout
+Team 1 pitcher (Angel Chavez): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 3
+
+Guillermo Tamayo: rng1 = 54 + 11 - 12 - 1 = 52
+rng2 = 42 + 6 - 12 - 1 = 35
+Groundout
+Team 2 pitcher (Carmelo Beldad): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Zachary Hughes: rng1 = 83 + 10 - 12 - 1 = 80
+rng2 = 17 + 12 - 12 - 1 = 16
+Single
+Team 2 pitcher (Carmelo Beldad): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Youngwe Park: rng1 = 49 + 10 - 12 - 1 = 46
+rng2 = 47 + 9 - 12 - 1 = 43
+Groundout
+Team 2 pitcher (Carmelo Beldad): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Hiro Hakayawa: rng1 = 41 + 13 - 12 - 1 = 41
+rng2 = 46 + 13 - 12 - 1 = 46
+Groundout
+Team 2 pitcher (Carmelo Beldad): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Cevonte Riley: rng1 = 45 + 7 - 15 + 1 = 38
+rng2 = 64 + 7 - 15 + 1 = 57
+Lineout
+Team 1 pitcher (Angel Chavez): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Zahir Burgos: rng1 = 17 + 4 - 15 + 1 = 7
+Strikeout
+Team 1 pitcher (Angel Chavez): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Logan Chambers: rng1 = 16 + 13 - 15 + 1 = 15
+rng2 = 72 + 8 - 15 + 1 = 66
+Flyout
+Team 1 pitcher (Angel Chavez): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 4
+
+Micah Zamora: rng1 = 36 + 8 - 12 - 1 = 31
+rng2 = 23 + 12 - 12 - 1 = 22
+Groundout
+Team 2 pitcher (Carmelo Beldad): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Alfredo Encarnacion: rng1 = 90 + 9 - 12 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Carmelo Beldad): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Enrique Holmes: rng1 = 87 + 7 - 12 - 1 = 81
+rng2 = 64 + 7 - 12 - 1 = 58
+Single
+Team 2 pitcher (Carmelo Beldad): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 1
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Max Chicote: rng1 = 94 + 8 - 12 - 1 = 89
+Walk
+Team 2 pitcher (Carmelo Beldad): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 1
+
+base1: [7,0], base2: [6,0], base3: [5,0]
+base1: true, base2: true, base3: true
+Score: 0-0
+
+Felix Alarcón: rng1 = 38 + 4 - 12 - 1 = 29
+rng2 = 15 + 5 - 12 - 1 = 7
+Groundout
+Team 2 pitcher (Carmelo Beldad): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 4
+
+Nicolás Moruga: rng1 = 38 + 12 - 15 + 1 = 36
+rng2 = 59 + 14 - 15 + 1 = 59
+Flyout
+Team 1 pitcher (Angel Chavez): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Edward Cox: rng1 = 42 + 12 - 15 + 1 = 40
+rng2 = 23 + 7 - 15 + 1 = 16
+Groundout
+Team 1 pitcher (Angel Chavez): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Tristian Love: rng1 = 35 + 11 - 15 + 1 = 32
+rng2 = 16 + 12 - 15 + 1 = 14
+Groundout
+Team 1 pitcher (Angel Chavez): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 5
+
+Guillermo Tamayo: rng1 = 28 + 11 - 12 - 1 = 26
+Strikeout
+Team 2 pitcher (Carmelo Beldad): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Zachary Hughes: rng1 = 42 + 10 - 12 - 1 = 39
+rng2 = 40 + 12 - 12 - 1 = 39
+Groundout
+Team 2 pitcher (Carmelo Beldad): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Youngwe Park: rng1 = 40 + 10 - 12 - 1 = 37
+rng2 = 3 + 9 - 12 - 1 = -1
+Groundout
+Team 2 pitcher (Carmelo Beldad): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 5
+
+Aldo Gilmore: rng1 = 68 + 9 - 15 + 1 = 63
+rng2 = 44 + 11 - 15 + 1 = 41
+Groundout
+Team 1 pitcher (Angel Chavez): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Alexis Shultz: rng1 = 22 + 8 - 15 + 1 = 16
+Strikeout
+Team 1 pitcher (Angel Chavez): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Lucián Chicote: rng1 = 46 + 8 - 15 + 1 = 40
+rng2 = 36 + 8 - 15 + 1 = 30
+Groundout
+Team 1 pitcher (Angel Chavez): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 6
+
+Hiro Hakayawa: rng1 = 89 + 13 - 12 - 1 = 89
+Walk
+Team 2 pitcher (Carmelo Beldad): 22 batters faced, 0 runs allowed = 22 + 0.0 = 22.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Micah Zamora: rng1 = 14 + 8 - 12 - 1 = 9
+Strikeout
+Team 2 pitcher (Carmelo Beldad): 23 batters faced, 0 runs allowed = 23 + 0.0 = 23.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Alfredo Encarnacion: rng1 = 54 + 9 - 12 - 1 = 50
+rng2 = 2 + 10 - 12 - 1 = -1
+Groundout
+Team 2 pitcher (Carmelo Beldad): 24 batters faced, 0 runs allowed = 24 + 0.0 = 24.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 6
+
+Cevonte Riley: rng1 = 51 + 7 - 15 + 1 = 44
+rng2 = 63 + 7 - 15 + 1 = 56
+Lineout
+Team 1 pitcher (Angel Chavez): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Zahir Burgos: rng1 = 22 + 4 - 15 + 1 = 12
+rng2 = 82 + 8 - 15 + 1 = 76
+Flyout
+Team 1 pitcher (Angel Chavez): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Logan Chambers: rng1 = 79 + 13 - 15 + 1 = 78
+rng2 = 39 + 8 - 15 + 1 = 33
+Single
+Team 1 pitcher (Angel Chavez): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Nicolás Moruga: rng1 = 70 + 12 - 15 + 1 = 68
+rng2 = 66 + 14 - 15 + 1 = 66
+Flyout
+Team 1 pitcher (Angel Chavez): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 7
+
+Enrique Holmes: rng1 = 56 + 7 - 12 - 1 = 50
+rng2 = 4 + 7 - 12 - 1 = -2
+Groundout
+Team 2 pitcher (Carmelo Beldad): 25 batters faced, 0 runs allowed = 25 + 0.0 = 25.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Max Chicote: rng1 = 65 + 8 - 12 - 1 = 60
+rng2 = 92 + 5 - 12 - 1 = 84
+Flyout
+Team 2 pitcher (Carmelo Beldad): 26 batters faced, 0 runs allowed = 26 + 0.0 = 26.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Felix Alarcón: rng1 = 47 + 4 - 12 - 1 = 38
+rng2 = 98 + 5 - 12 - 1 = 90
+Flyout
+Team 2 pitcher (Carmelo Beldad): 27 batters faced, 0 runs allowed = 27 + 0.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 7
+
+Edward Cox: rng1 = 97 + 12 - 15 + 1 = 95
+rng2 = 71 + 7 - 15 + 1 = 64
+Single
+Team 1 pitcher (Angel Chavez): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 0
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Tristian Love: rng1 = 75 + 11 - 15 + 1 = 72
+Walk
+Team 1 pitcher (Angel Chavez): 22 batters faced, 0 runs allowed = 22 + 0.0 = 22.0, outs: 0
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Aldo Gilmore: rng1 = 94 + 9 - 15 + 1 = 89
+Walk
+Team 1 pitcher (Angel Chavez): 23 batters faced, 0 runs allowed = 23 + 0.0 = 23.0, outs: 0
+
+base1: [4,0], base2: [3,0], base3: [2,0]
+base1: true, base2: true, base3: true
+Score: 0-0
+
+Alexis Shultz: rng1 = 15 + 8 - 15 + 1 = 9
+Strikeout
+Team 1 pitcher (Angel Chavez): 24 batters faced, 0 runs allowed = 24 + 0.0 = 24.0, outs: 1
+
+base1: [4,0], base2: [3,0], base3: [2,0]
+base1: true, base2: true, base3: true
+Score: 0-0
+
+Lucián Chicote: rng1 = 24 + 8 - 15 + 1 = 18
+Strikeout
+Team 1 pitcher (Angel Chavez): 25 batters faced, 0 runs allowed = 25 + 0.0 = 25.0, outs: 2
+
+base1: [4,0], base2: [3,0], base3: [2,0]
+base1: true, base2: true, base3: true
+Score: 0-0
+
+Cevonte Riley: rng1 = 66 + 7 - 15 + 1 = 59
+rng2 = 87 + 7 - 15 + 1 = 80
+Flyout
+Team 1 pitcher (Angel Chavez): 26 batters faced, 0 runs allowed = 26 + 0.0 = 26.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Trey Hendrickson
+
+Guillermo Tamayo: rng1 = 2 + 11 - 14 - 1 = -2
+Strikeout
+Team 2 pitcher (Trey Hendrickson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Zachary Hughes: rng1 = 91 + 10 - 14 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Trey Hendrickson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Youngwe Park: rng1 = 68 + 10 - 14 - 1 = 63
+rng2 = 46 + 9 - 14 - 1 = 40
+Groundout
+Team 2 pitcher (Trey Hendrickson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 8
+
+Zahir Burgos: rng1 = 1 + 4 - 15 + 1 = -9
+Strikeout
+Team 1 pitcher (Angel Chavez): 27 batters faced, 0 runs allowed = 27 + 0.0 = 27.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Logan Chambers: rng1 = 31 + 13 - 15 + 1 = 30
+rng2 = 43 + 8 - 15 + 1 = 37
+Groundout
+Team 1 pitcher (Angel Chavez): 28 batters faced, 0 runs allowed = 28 + 0.0 = 28.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Nicolás Moruga: rng1 = 15 + 12 - 15 + 1 = 13
+rng2 = 51 + 14 - 15 + 1 = 51
+Lineout
+Team 1 pitcher (Angel Chavez): 29 batters faced, 0 runs allowed = 29 + 0.0 = 29.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 9
+
+Hiro Hakayawa: rng1 = 24 + 13 - 14 - 1 = 22
+Strikeout
+Team 2 pitcher (Trey Hendrickson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Micah Zamora: rng1 = 73 + 8 - 14 - 1 = 66
+rng2 = 26 + 12 - 14 - 1 = 23
+Groundout
+Team 2 pitcher (Trey Hendrickson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Alfredo Encarnacion: rng1 = 86 + 9 - 14 - 1 = 80
+rng2 = 66 + 10 - 14 - 1 = 61
+Single
+Team 2 pitcher (Trey Hendrickson): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Enrique Holmes: rng1 = 81 + 7 - 14 - 1 = 73
+rng2 = 20 + 7 - 14 - 1 = 12
+Single
+Team 2 pitcher (Trey Hendrickson): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [6,1], base2: false, base3: [5,1]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Max Chicote: rng1 = 44 + 8 - 14 - 1 = 37
+rng2 = 17 + 5 - 14 - 1 = 7
+Groundout
+Team 2 pitcher (Trey Hendrickson): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Julio Carrera
+
+Edward Cox: rng1 = 75 + 12 - 10 + 1 = 78
+rng2 = 49 + 7 - 11 + 1 = 46
+Single
+Team 1 pitcher (Julio Carrera): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Tristian Love: rng1 = 90 + 11 - 10 + 1 = 92
+rng2 = 72 + 12 - 11 + 1 = 74
+Double
+Team 1 pitcher (Julio Carrera): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: false, base2: [3,1], base3: [2,1]
+base1: false, base2: true, base3: true
+Score: 0-0
+
+Aldo Gilmore: rng1 = 49 + 9 - 10 + 1 = 49
+rng2 = 19 + 11 - 11 + 1 = 20
+Groundout
+Team 1 pitcher (Julio Carrera): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [3,1], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Innings: 9
+Team 1 hits: 6
+Team 2 hits: 5
+Team 1 runs: 0
+Team 2 runs: 1
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-29
+Guillermo Tamayo	4	0	0	0	0	0	0	0	3					Colorado
+Zachary Hughes	2	0	1	0	0	0	0	1	0	
+Youngwe Park	4	0	0	0	0	0	0	0	1	
+Hiro Hakayawa	3	0	0	0	0	0	0	1	1	
+Micah Zamora	4	0	0	0	0	0	0	0	1	
+Alfredo Encarnacion	3	0	2	0	0	0	0	0	0	
+Enrique Holmes	4	0	2	0	0	0	0	0	0	
+Max Chicote	3	0	1	0	0	0	0	1	0	
+Felix Alarcón	3	0	0	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Angel Chavez	0	0	1	1	0	0	24	3	0	0	2	6	29	
+Julio Carrera	0	1	1	0	0	0	1	2	1	0	0	0	3	
+Amante Harvey	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Lyndon Perell	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Marquis Haynes	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-29
+Logan Chambers	4	0	1	0	0	0	0	0	1					New York
+Nicolás Moruga	4	0	0	0	0	0	0	0	0	
+Edward Cox	4	1	3	0	0	0	0	0	0	
+Tristian Love	3	0	1	1	0	0	0	1	0	
+Aldo Gilmore	3	0	0	0	0	0	1	1	0	
+Alexis Shultz	3	0	0	0	0	0	0	0	2	
+Lucián Chicote	3	0	0	0	0	0	0	0	1	
+Cevonte Riley	3	0	0	0	0	0	0	0	0	
+Zahir Burgos	3	0	0	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Carmelo Beldad	0	0	1	1	0	0	21	4	0	0	3	4	27	
+Trey Hendrickson	1	0	1	0	0	0	6	2	0	0	0	2	8	
+Johan Cortez	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Shane Moran	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Christopher Jones	0	0	0	0	0	0	0	0	0	0	0	0	0	

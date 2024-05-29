@@ -1,0 +1,733 @@
+TOP INNING 1
+
+Lawrence Webb: rng1 = 56 + 16 - 6 - 1 = 65
+rng2 = 91 + 13 - 7 - 1 = 96
+Flyout
+Team 2 pitcher (Jessie Alston): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Mateo Estrada: rng1 = 91 + 15 - 6 - 1 = 99
+rng2 = 89 + 17 - 7 - 1 = 98
+Home run
+Team 2 pitcher (Jessie Alston): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Ernesto Fuentes: rng1 = 35 + 15 - 6 - 1 = 43
+rng2 = 45 + 14 - 7 - 1 = 51
+Lineout
+Team 2 pitcher (Jessie Alston): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Rafael Guzman: rng1 = 8 + 14 - 6 - 1 = 15
+rng2 = 14 + 16 - 7 - 1 = 22
+Groundout
+Team 2 pitcher (Jessie Alston): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Ivan Guerra: rng1 = 47 + 11 - 11 + 1 = 48
+rng2 = 85 + 13 - 11 + 1 = 88
+Flyout
+Team 1 pitcher (Ted Spencer): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Erik Lowe: rng1 = 80 + 10 - 11 + 1 = 80
+rng2 = 42 + 9 - 11 + 1 = 41
+Single
+Team 1 pitcher (Ted Spencer): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Derrick Hammond: rng1 = 83 + 10 - 11 + 1 = 83
+rng2 = 91 + 8 - 11 + 1 = 89
+Double
+Team 1 pitcher (Ted Spencer): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Alex Murphy: rng1 = 95 + 9 - 11 + 1 = 94
+rng2 = 9 + 13 - 11 + 1 = 12
+Single
+Team 1 pitcher (Ted Spencer): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Danilo Villanueva: rng1 = 29 + 8 - 11 + 1 = 27
+Strikeout
+Team 1 pitcher (Ted Spencer): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Arturo Yang: rng1 = 20 + 5 - 11 + 1 = 15
+rng2 = 65 + 9 - 11 + 1 = 64
+Flyout
+Team 1 pitcher (Ted Spencer): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 2
+
+Miguel Castillo: rng1 = 37 + 13 - 6 - 1 = 43
+rng2 = 92 + 12 - 7 - 1 = 96
+Flyout
+Team 2 pitcher (Jessie Alston): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Jorge Perez: rng1 = 9 + 13 - 6 - 1 = 15
+rng2 = 57 + 11 - 7 - 1 = 60
+Flyout
+Team 2 pitcher (Jessie Alston): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Logan Zimmerman: rng1 = 62 + 11 - 6 - 1 = 66
+rng2 = 34 + 10 - 7 - 1 = 36
+Groundout
+Team 2 pitcher (Jessie Alston): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 2
+
+Jake Weaver: rng1 = 84 + 9 - 11 + 1 = 83
+rng2 = 12 + 8 - 11 + 1 = 10
+Single
+Team 1 pitcher (Ted Spencer): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Kyrie Anderson: rng1 = 95 + 7 - 11 + 1 = 92
+rng2 = 20 + 7 - 11 + 1 = 17
+Single
+Team 1 pitcher (Ted Spencer): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 0
+
+base1: [7,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 1-2
+
+Keylon Wilkins: rng1 = 91 + 4 - 11 + 1 = 85
+rng2 = 72 + 9 - 11 + 1 = 71
+Double
+Team 1 pitcher (Ted Spencer): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 0
+
+base1: false, base2: [8,0], base3: [7,0]
+base1: false, base2: true, base3: true
+Score: 1-3
+
+Ivan Guerra: rng1 = 73 + 11 - 11 + 1 = 74
+rng2 = 34 + 13 - 11 + 1 = 37
+Single
+Team 1 pitcher (Ted Spencer): 10 batters faced, 4 runs allowed = 10 + 10.0 = 20.0, outs: 0
+
+base1: [0,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 1-4
+
+Erik Lowe: rng1 = 93 + 10 - 11 + 1 = 93
+rng2 = 1 + 9 - 11 + 1 = 0
+Single
+Team 1 pitcher (Ted Spencer): 11 batters faced, 5 runs allowed = 11 + 12.5 = 23.5, outs: 0
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 1-5
+
+Derrick Hammond: rng1 = 18 + 10 - 11 + 1 = 18
+Strikeout
+Team 1 pitcher (Ted Spencer): 12 batters faced, 5 runs allowed = 12 + 12.5 = 24.5, outs: 1
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 1-5
+
+Alex Murphy: rng1 = 9 + 9 - 11 + 1 = 8
+Strikeout
+Team 1 pitcher (Ted Spencer): 13 batters faced, 5 runs allowed = 13 + 12.5 = 25.5, outs: 2
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 1-5
+
+Danilo Villanueva: rng1 = 44 + 8 - 11 + 1 = 42
+rng2 = 31 + 10 - 11 + 1 = 31
+Groundout
+Team 1 pitcher (Ted Spencer): 14 batters faced, 5 runs allowed = 14 + 12.5 = 26.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+TOP INNING 3
+
+Domingo Matias: rng1 = 55 + 8 - 6 - 1 = 56
+rng2 = 51 + 9 - 7 - 1 = 52
+Lineout
+Team 2 pitcher (Jessie Alston): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Sean Stevens: rng1 = 11 + 6 - 6 - 1 = 10
+Strikeout
+Team 2 pitcher (Jessie Alston): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Lawrence Webb: rng1 = 79 + 16 - 6 - 1 = 88
+Walk
+Team 2 pitcher (Jessie Alston): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Mateo Estrada: rng1 = 81 + 15 - 6 - 1 = 89
+Walk
+Team 2 pitcher (Jessie Alston): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-5
+
+Ernesto Fuentes: rng1 = 48 + 15 - 6 - 1 = 56
+rng2 = 35 + 14 - 7 - 1 = 41
+Groundout
+Team 2 pitcher (Jessie Alston): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+BOTTOM INNING 3
+
+Arturo Yang: rng1 = 38 + 5 - 11 + 1 = 33
+rng2 = 6 + 9 - 11 + 1 = 5
+Groundout
+Team 1 pitcher (Ted Spencer): 15 batters faced, 5 runs allowed = 15 + 12.5 = 27.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Jake Weaver: rng1 = 24 + 9 - 11 + 1 = 23
+Strikeout
+Team 1 pitcher (Ted Spencer): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Kyrie Anderson: rng1 = 69 + 7 - 11 + 1 = 66
+rng2 = 15 + 7 - 11 + 1 = 12
+Groundout
+Team 1 pitcher (Ted Spencer): 17 batters faced, 5 runs allowed = 17 + 12.5 = 29.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+TOP INNING 4
+
+Rafael Guzman: rng1 = 47 + 14 - 6 - 1 = 54
+rng2 = 31 + 16 - 7 - 1 = 39
+Groundout
+Team 2 pitcher (Jessie Alston): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Miguel Castillo: rng1 = 3 + 13 - 6 - 1 = 9
+Strikeout
+Team 2 pitcher (Jessie Alston): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Jorge Perez: rng1 = 36 + 13 - 6 - 1 = 42
+rng2 = 27 + 11 - 7 - 1 = 30
+Groundout
+Team 2 pitcher (Jessie Alston): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+BOTTOM INNING 4
+
+Team 1 pitcher change to Henry Wright
+
+Keylon Wilkins: rng1 = 56 + 4 - 12 + 1 = 49
+rng2 = 94 + 9 - 9 + 1 = 95
+Flyout
+Team 1 pitcher (Henry Wright): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Ivan Guerra: rng1 = 10 + 11 - 12 + 1 = 10
+Strikeout
+Team 1 pitcher (Henry Wright): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Erik Lowe: rng1 = 35 + 10 - 12 + 1 = 34
+rng2 = 51 + 9 - 9 + 1 = 52
+Lineout
+Team 1 pitcher (Henry Wright): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+TOP INNING 5
+
+Logan Zimmerman: rng1 = 75 + 11 - 6 - 1 = 79
+rng2 = 83 + 10 - 7 - 1 = 85
+Home run
+Team 2 pitcher (Jessie Alston): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-5
+
+Domingo Matias: rng1 = 46 + 8 - 6 - 1 = 47
+rng2 = 48 + 9 - 7 - 1 = 49
+Lineout
+Team 2 pitcher (Jessie Alston): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-5
+
+Sean Stevens: rng1 = 45 + 6 - 6 - 1 = 44
+rng2 = 79 + 9 - 7 - 1 = 80
+Flyout
+Team 2 pitcher (Jessie Alston): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-5
+
+Lawrence Webb: rng1 = 37 + 16 - 6 - 1 = 46
+rng2 = 53 + 13 - 7 - 1 = 58
+Lineout
+Team 2 pitcher (Jessie Alston): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-5
+
+-----------------------
+
+BOTTOM INNING 5
+
+Derrick Hammond: rng1 = 39 + 10 - 12 + 1 = 38
+rng2 = 28 + 8 - 9 + 1 = 28
+Groundout
+Team 1 pitcher (Henry Wright): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-5
+
+Alex Murphy: rng1 = 53 + 9 - 12 + 1 = 51
+rng2 = 73 + 13 - 9 + 1 = 78
+Flyout
+Team 1 pitcher (Henry Wright): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-5
+
+Danilo Villanueva: rng1 = 22 + 8 - 12 + 1 = 19
+Strikeout
+Team 1 pitcher (Henry Wright): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-5
+
+-----------------------
+
+TOP INNING 6
+
+Mateo Estrada: rng1 = 78 + 15 - 6 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Jessie Alston): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-5
+
+Ernesto Fuentes: rng1 = 42 + 15 - 6 - 1 = 50
+rng2 = 99 + 14 - 7 - 1 = 105
+Flyout
+Team 2 pitcher (Jessie Alston): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-5
+
+Rafael Guzman: rng1 = 39 + 14 - 6 - 1 = 46
+rng2 = 41 + 16 - 7 - 1 = 49
+Lineout
+Team 2 pitcher (Jessie Alston): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-5
+
+Miguel Castillo: rng1 = 55 + 13 - 6 - 1 = 61
+rng2 = 26 + 12 - 7 - 1 = 30
+Groundout
+Team 2 pitcher (Jessie Alston): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-5
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Junior Acosta
+
+Arturo Yang: rng1 = 28 + 5 - 11 + 1 = 23
+Strikeout
+Team 1 pitcher (Junior Acosta): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-5
+
+Jake Weaver: rng1 = 83 + 9 - 11 + 1 = 82
+rng2 = 28 + 8 - 9 + 1 = 28
+Single
+Team 1 pitcher (Junior Acosta): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-5
+
+Kyrie Anderson: rng1 = 88 + 7 - 11 + 1 = 85
+rng2 = 63 + 7 - 9 + 1 = 62
+Single
+Team 1 pitcher (Junior Acosta): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [7,2], base2: false, base3: [6,2]
+base1: true, base2: false, base3: true
+Score: 2-5
+
+Keylon Wilkins: rng1 = 22 + 4 - 11 + 1 = 16
+Strikeout
+Team 1 pitcher (Junior Acosta): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [7,2], base2: false, base3: [6,2]
+base1: true, base2: false, base3: true
+Score: 2-5
+
+Ivan Guerra: rng1 = 81 + 11 - 11 + 1 = 82
+rng2 = 11 + 13 - 9 + 1 = 16
+Single
+Team 1 pitcher (Junior Acosta): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [0,2], base2: [7,2], base3: false
+base1: true, base2: true, base3: false
+Score: 2-6
+
+Erik Lowe: rng1 = 16 + 10 - 11 + 1 = 16
+Strikeout
+Team 1 pitcher (Junior Acosta): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-6
+
+-----------------------
+
+TOP INNING 7
+
+Jorge Perez: rng1 = 58 + 13 - 6 - 1 = 64
+rng2 = 37 + 11 - 7 - 1 = 40
+Groundout
+Team 2 pitcher (Jessie Alston): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-6
+
+Logan Zimmerman: rng1 = 4 + 11 - 6 - 1 = 8
+Strikeout
+Team 2 pitcher (Jessie Alston): 25 batters faced, 2 runs allowed = 25 + 5.0 = 30.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-6
+
+Domingo Matias: rng1 = 38 + 8 - 6 - 1 = 39
+rng2 = 73 + 9 - 7 - 1 = 74
+Flyout
+Team 2 pitcher (Jessie Alston): 26 batters faced, 2 runs allowed = 26 + 5.0 = 31.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-6
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Sergio Marmolejos
+
+Derrick Hammond: rng1 = 97 + 10 - 6 + 1 = 102
+rng2 = 11 + 8 - 8 + 1 = 12
+Single
+Team 1 pitcher (Sergio Marmolejos): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [2,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-6
+
+Alex Murphy: rng1 = 24 + 9 - 6 + 1 = 28
+Strikeout
+Team 1 pitcher (Sergio Marmolejos): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [2,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-6
+
+Danilo Villanueva: rng1 = 57 + 8 - 6 + 1 = 60
+rng2 = 61 + 10 - 8 + 1 = 64
+Flyout
+Team 1 pitcher (Sergio Marmolejos): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-6
+
+Arturo Yang: rng1 = 96 + 5 - 6 + 1 = 96
+rng2 = 100 + 9 - 8 + 1 = 102
+Home run
+Team 1 pitcher (Sergio Marmolejos): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-8
+
+Jake Weaver: rng1 = 35 + 9 - 6 + 1 = 39
+rng2 = 68 + 8 - 8 + 1 = 69
+Flyout
+Team 1 pitcher (Sergio Marmolejos): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-8
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Lance Haynes
+
+Sean Stevens: rng1 = 37 + 6 - 12 - 1 = 30
+rng2 = 86 + 9 - 7 - 1 = 87
+Flyout
+Team 2 pitcher (Lance Haynes): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-8
+
+Lawrence Webb: rng1 = 64 + 16 - 12 - 1 = 67
+rng2 = 55 + 13 - 7 - 1 = 60
+Flyout
+Team 2 pitcher (Lance Haynes): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-8
+
+Mateo Estrada: rng1 = 82 + 15 - 12 - 1 = 84
+rng2 = 45 + 17 - 7 - 1 = 54
+Single
+Team 2 pitcher (Lance Haynes): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-8
+
+Ernesto Fuentes: rng1 = 62 + 15 - 12 - 1 = 64
+rng2 = 70 + 14 - 7 - 1 = 76
+Flyout
+Team 2 pitcher (Lance Haynes): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-8
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Santiago Rivero
+
+Kyrie Anderson: rng1 = 7 + 7 - 9 + 1 = 6
+Strikeout
+Team 1 pitcher (Santiago Rivero): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-8
+
+Keylon Wilkins: rng1 = 100 + 4 - 9 + 1 = 96
+rng2 = 9 + 9 - 14 + 1 = 5
+Single
+Team 1 pitcher (Santiago Rivero): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [8,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-8
+
+Ivan Guerra: rng1 = 97 + 11 - 9 + 1 = 100
+rng2 = 89 + 13 - 14 + 1 = 89
+Double
+Team 1 pitcher (Santiago Rivero): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [0,4], base3: false
+base1: false, base2: true, base3: false
+Score: 2-9
+
+Erik Lowe: rng1 = 65 + 10 - 9 + 1 = 67
+rng2 = 35 + 9 - 14 + 1 = 31
+Groundout
+Team 1 pitcher (Santiago Rivero): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [0,4], base3: false
+base1: false, base2: true, base3: false
+Score: 2-9
+
+Derrick Hammond: rng1 = 29 + 10 - 9 + 1 = 31
+rng2 = 98 + 8 - 14 + 1 = 93
+Flyout
+Team 1 pitcher (Santiago Rivero): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-9
+
+-----------------------
+
+TOP INNING 9
+
+Rafael Guzman: rng1 = 64 + 14 - 12 - 1 = 65
+rng2 = 11 + 16 - 7 - 1 = 19
+Groundout
+Team 2 pitcher (Lance Haynes): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-9
+
+Miguel Castillo: rng1 = 45 + 13 - 12 - 1 = 45
+rng2 = 47 + 12 - 7 - 1 = 51
+Lineout
+Team 2 pitcher (Lance Haynes): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-9
+
+Jorge Perez: rng1 = 58 + 13 - 12 - 1 = 58
+rng2 = 92 + 11 - 7 - 1 = 95
+Flyout
+Team 2 pitcher (Lance Haynes): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-9
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 3
+Team 2 hits: 15
+Team 1 runs: 2
+Team 2 runs: 9
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-29
+Lawrence Webb	3	0	0	0	0	0	0	1	0					StLouis
+Mateo Estrada	2	1	2	0	0	1	1	1	0	
+Ernesto Fuentes	4	0	0	0	0	0	0	0	0	
+Rafael Guzman	4	0	0	0	0	0	0	0	0	
+Miguel Castillo	4	0	0	0	0	0	0	0	1	
+Jorge Perez	4	0	0	0	0	0	0	0	0	
+Logan Zimmerman	3	1	1	0	0	1	1	0	1	
+Domingo Matias	3	0	0	0	0	0	0	0	0	
+Sean Stevens	3	0	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Ted Spencer	0	1	1	1	0	0	9	8	5	0	0	4	17	
+Henry Wright	0	0	1	0	0	0	6	0	0	0	0	2	6	
+Junior Acosta	0	0	1	0	0	0	3	3	1	0	0	3	6	
+Sergio Marmolejos	0	0	1	0	0	0	3	2	2	1	0	1	5	
+Santiago Rivero	0	0	1	0	0	0	3	2	1	0	0	1	5	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-29
+Ivan Guerra	5	0	3	1	0	0	3	0	1					Austin
+Erik Lowe	5	1	2	0	0	0	1	0	1	
+Derrick Hammond	5	2	2	1	0	0	1	0	1	
+Alex Murphy	4	0	1	0	0	0	1	0	2	
+Danilo Villanueva	4	0	0	0	0	0	0	0	2	
+Arturo Yang	4	1	1	0	0	1	2	0	1	
+Jake Weaver	4	2	2	0	0	0	0	0	1	
+Kyrie Anderson	4	1	2	0	0	0	0	0	1	
+Keylon Wilkins	4	2	2	1	0	0	1	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Jessie Alston	1	0	1	1	0	0	21	2	2	2	2	3	26	
+Lance Haynes	0	0	1	0	0	0	6	1	0	0	0	0	7	
+Carmelo Dávalos	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Tommy Greene	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Damon Houston	0	0	0	0	0	0	0	0	0	0	0	0	0	

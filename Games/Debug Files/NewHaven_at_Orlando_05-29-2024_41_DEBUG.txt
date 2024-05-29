@@ -1,0 +1,816 @@
+TOP INNING 1
+
+Ashraf Saad: rng1 = 91 + 13 - 12 - 1 = 91
+rng2 = 20 + 11 - 11 - 1 = 19
+Single
+Team 2 pitcher (Chang Kwan): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Vicente Uribe: rng1 = 12 + 11 - 12 - 1 = 10
+Strikeout
+Team 2 pitcher (Chang Kwan): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Travis Nichols: rng1 = 75 + 11 - 12 - 1 = 73
+rng2 = 9 + 11 - 11 - 1 = 8
+Single
+Team 2 pitcher (Chang Kwan): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+David Hunter: rng1 = 70 + 8 - 12 - 1 = 65
+rng2 = 17 + 9 - 11 - 1 = 14
+Groundout
+Team 2 pitcher (Chang Kwan): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: [2,0], base3: [0,0]
+base1: false, base2: true, base3: true
+Score: 0-0
+
+Drew Briggs: rng1 = 73 + 11 - 12 - 1 = 71
+Walk
+Team 2 pitcher (Chang Kwan): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: [4,0], base2: [2,0], base3: [0,0]
+base1: true, base2: true, base3: true
+Score: 0-0
+
+Evan Hudson: rng1 = 83 + 7 - 12 - 1 = 77
+rng2 = 97 + 8 - 11 - 1 = 93
+Triple
+Team 2 pitcher (Chang Kwan): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: false, base2: false, base3: [5,0]
+base1: false, base2: false, base3: true
+Score: 3-0
+
+Pierre Moreau: rng1 = 49 + 8 - 12 - 1 = 44
+rng2 = 84 + 7 - 11 - 1 = 79
+Flyout
+Team 2 pitcher (Chang Kwan): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Alexis Rojas: rng1 = 30 + 13 - 9 + 1 = 35
+rng2 = 71 + 14 - 7 + 1 = 79
+Flyout
+Team 1 pitcher (Estefania Tejedor): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Darrell Williams: rng1 = 82 + 13 - 9 + 1 = 87
+Walk
+Team 1 pitcher (Estefania Tejedor): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Grant Sheppard: rng1 = 70 + 12 - 9 + 1 = 74
+rng2 = 35 + 8 - 7 + 1 = 37
+Single
+Team 1 pitcher (Estefania Tejedor): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-0
+
+Angelo Contreras: rng1 = 88 + 11 - 9 + 1 = 91
+rng2 = 77 + 12 - 7 + 1 = 83
+Home run
+Team 1 pitcher (Estefania Tejedor): 4 batters faced, 3 runs allowed = 4 + 7.5 = 11.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Domingo Jimenez: rng1 = 33 + 10 - 9 + 1 = 35
+rng2 = 27 + 10 - 7 + 1 = 31
+Groundout
+Team 1 pitcher (Estefania Tejedor): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Ken McKinney: rng1 = 61 + 9 - 9 + 1 = 62
+rng2 = 23 + 9 - 7 + 1 = 26
+Groundout
+Team 1 pitcher (Estefania Tejedor): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+TOP INNING 2
+
+Tyrone Morton: rng1 = 46 + 8 - 12 - 1 = 41
+rng2 = 42 + 7 - 11 - 1 = 37
+Groundout
+Team 2 pitcher (Chang Kwan): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Moises Bolivar: rng1 = 89 + 7 - 12 - 1 = 83
+rng2 = 37 + 7 - 11 - 1 = 32
+Single
+Team 2 pitcher (Chang Kwan): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Ashraf Saad: rng1 = 71 + 13 - 12 - 1 = 71
+Walk
+Team 2 pitcher (Chang Kwan): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 1
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-3
+
+Vicente Uribe: rng1 = 59 + 11 - 12 - 1 = 57
+rng2 = 61 + 11 - 11 - 1 = 60
+Flyout
+Team 2 pitcher (Chang Kwan): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 2
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-3
+
+Travis Nichols: rng1 = 26 + 11 - 12 - 1 = 24
+Strikeout
+Team 2 pitcher (Chang Kwan): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+BOTTOM INNING 2
+
+Aaron Garcia: rng1 = 60 + 12 - 9 + 1 = 64
+rng2 = 12 + 7 - 7 + 1 = 13
+Groundout
+Team 1 pitcher (Estefania Tejedor): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Marty Horn: rng1 = 26 + 7 - 9 + 1 = 25
+Strikeout
+Team 1 pitcher (Estefania Tejedor): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Varrien Cannon: rng1 = 38 + 6 - 9 + 1 = 36
+rng2 = 21 + 8 - 7 + 1 = 23
+Groundout
+Team 1 pitcher (Estefania Tejedor): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+TOP INNING 3
+
+David Hunter: rng1 = 80 + 8 - 12 - 1 = 75
+rng2 = 64 + 9 - 11 - 1 = 61
+Single
+Team 2 pitcher (Chang Kwan): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Drew Briggs: rng1 = 24 + 11 - 12 - 1 = 22
+Strikeout
+Team 2 pitcher (Chang Kwan): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Evan Hudson: rng1 = 85 + 7 - 12 - 1 = 79
+rng2 = 12 + 8 - 11 - 1 = 8
+Single
+Team 2 pitcher (Chang Kwan): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 1
+
+base1: [5,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-3
+
+Pierre Moreau: rng1 = 32 + 8 - 12 - 1 = 27
+Strikeout
+Team 2 pitcher (Chang Kwan): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 2
+
+base1: [5,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-3
+
+Tyrone Morton: rng1 = 74 + 8 - 12 - 1 = 69
+rng2 = 63 + 7 - 11 - 1 = 58
+Lineout
+Team 2 pitcher (Chang Kwan): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+BOTTOM INNING 3
+
+Alexis Rojas: rng1 = 95 + 13 - 9 + 1 = 100
+rng2 = 98 + 14 - 7 + 1 = 106
+Home run
+Team 1 pitcher (Estefania Tejedor): 10 batters faced, 4 runs allowed = 10 + 10.0 = 20.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Darrell Williams: rng1 = 46 + 13 - 9 + 1 = 51
+rng2 = 9 + 11 - 7 + 1 = 14
+Groundout
+Team 1 pitcher (Estefania Tejedor): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Grant Sheppard: rng1 = 73 + 12 - 9 + 1 = 77
+rng2 = 91 + 8 - 7 + 1 = 93
+Triple
+Team 1 pitcher (Estefania Tejedor): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 1
+
+base1: false, base2: false, base3: [2,0]
+base1: false, base2: false, base3: true
+Score: 3-4
+
+Angelo Contreras: rng1 = 9 + 11 - 9 + 1 = 12
+rng2 = 2 + 12 - 7 + 1 = 8
+Groundout
+Team 1 pitcher (Estefania Tejedor): 13 batters faced, 5 runs allowed = 13 + 12.5 = 25.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Domingo Jimenez: rng1 = 24 + 10 - 9 + 1 = 26
+Strikeout
+Team 1 pitcher (Estefania Tejedor): 14 batters faced, 5 runs allowed = 14 + 12.5 = 26.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+TOP INNING 4
+
+Moises Bolivar: rng1 = 92 + 7 - 12 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Chang Kwan): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-5
+
+Ashraf Saad: rng1 = 82 + 13 - 12 - 1 = 82
+rng2 = 38 + 11 - 11 - 1 = 37
+Single
+Team 2 pitcher (Chang Kwan): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 0
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-5
+
+Vicente Uribe: rng1 = 40 + 11 - 12 - 1 = 38
+rng2 = 75 + 11 - 11 - 1 = 74
+Flyout
+Team 2 pitcher (Chang Kwan): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 1
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-5
+
+Travis Nichols: rng1 = 9 + 11 - 12 - 1 = 7
+Strikeout
+Team 2 pitcher (Chang Kwan): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 2
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-5
+
+David Hunter: rng1 = 45 + 8 - 12 - 1 = 40
+rng2 = 85 + 9 - 11 - 1 = 82
+Flyout
+Team 2 pitcher (Chang Kwan): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+BOTTOM INNING 4
+
+Ken McKinney: rng1 = 66 + 9 - 9 + 1 = 67
+rng2 = 73 + 9 - 7 + 1 = 76
+Flyout
+Team 1 pitcher (Estefania Tejedor): 15 batters faced, 5 runs allowed = 15 + 12.5 = 27.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Aaron Garcia: rng1 = 44 + 12 - 9 + 1 = 48
+rng2 = 36 + 7 - 7 + 1 = 37
+Groundout
+Team 1 pitcher (Estefania Tejedor): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Marty Horn: rng1 = 48 + 7 - 9 + 1 = 47
+rng2 = 22 + 9 - 7 + 1 = 25
+Groundout
+Team 1 pitcher (Estefania Tejedor): 17 batters faced, 5 runs allowed = 17 + 12.5 = 29.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+TOP INNING 5
+
+Team 2 pitcher change to Vicente Castillo
+
+Drew Briggs: rng1 = 10 + 11 - 12 - 1 = 8
+Strikeout
+Team 2 pitcher (Vicente Castillo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Evan Hudson: rng1 = 83 + 7 - 12 - 1 = 77
+rng2 = 56 + 8 - 10 - 1 = 53
+Single
+Team 2 pitcher (Vicente Castillo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-5
+
+Pierre Moreau: rng1 = 20 + 8 - 12 - 1 = 15
+rng2 = 63 + 7 - 10 - 1 = 59
+Flyout
+Team 2 pitcher (Vicente Castillo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-5
+
+Tyrone Morton: rng1 = 67 + 8 - 12 - 1 = 62
+rng2 = 12 + 7 - 10 - 1 = 8
+Groundout
+Team 2 pitcher (Vicente Castillo): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+BOTTOM INNING 5
+
+Varrien Cannon: rng1 = 78 + 6 - 9 + 1 = 76
+rng2 = 48 + 8 - 7 + 1 = 50
+Single
+Team 1 pitcher (Estefania Tejedor): 18 batters faced, 5 runs allowed = 18 + 12.5 = 30.5, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-5
+
+Alexis Rojas: rng1 = 65 + 13 - 9 + 1 = 70
+Walk
+Team 1 pitcher (Estefania Tejedor): 19 batters faced, 5 runs allowed = 19 + 12.5 = 31.5, outs: 0
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-5
+
+Darrell Williams: rng1 = 26 + 13 - 9 + 1 = 31
+rng2 = 53 + 11 - 7 + 1 = 58
+Lineout
+Team 1 pitcher (Estefania Tejedor): 20 batters faced, 5 runs allowed = 20 + 12.5 = 32.5, outs: 1
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-5
+
+Grant Sheppard: rng1 = 96 + 12 - 9 + 1 = 100
+rng2 = 55 + 8 - 7 + 1 = 57
+Single
+Team 1 pitcher (Estefania Tejedor): 21 batters faced, 6 runs allowed = 21 + 15.0 = 36.0, outs: 1
+
+base1: [2,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-6
+
+Team 1 pitcher change to Rob Bowman
+
+Angelo Contreras: rng1 = 20 + 11 - 11 + 1 = 21
+Strikeout
+Team 1 pitcher (Rob Bowman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [2,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-6
+
+Domingo Jimenez: rng1 = 78 + 10 - 11 + 1 = 78
+rng2 = 78 + 10 - 14 + 1 = 75
+Double
+Team 1 pitcher (Rob Bowman): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: [4,1], base3: [2,0]
+base1: false, base2: true, base3: true
+Score: 3-7
+
+Ken McKinney: rng1 = 100 + 9 - 11 + 1 = 99
+rng2 = 48 + 9 - 14 + 1 = 44
+Single
+Team 1 pitcher (Rob Bowman): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-9
+
+Aaron Garcia: rng1 = 6 + 12 - 11 + 1 = 8
+Strikeout
+Team 1 pitcher (Rob Bowman): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-9
+
+-----------------------
+
+TOP INNING 6
+
+Moises Bolivar: rng1 = 99 + 7 - 12 - 1 = 93
+rng2 = 67 + 7 - 10 - 1 = 63
+Single
+Team 2 pitcher (Vicente Castillo): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-9
+
+Ashraf Saad: rng1 = 86 + 13 - 12 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Vicente Castillo): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 0
+
+base1: [0,1], base2: [8,1], base3: false
+base1: true, base2: true, base3: false
+Score: 3-9
+
+Vicente Uribe: rng1 = 58 + 11 - 12 - 1 = 56
+rng2 = 9 + 11 - 10 - 1 = 9
+Groundout
+Team 2 pitcher (Vicente Castillo): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [1,1], base2: [0,1], base3: false
+base1: true, base2: true, base3: false
+Score: 3-9
+
+Travis Nichols: rng1 = 12 + 11 - 12 - 1 = 10
+Strikeout
+Team 2 pitcher (Vicente Castillo): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [1,1], base2: [0,1], base3: false
+base1: true, base2: true, base3: false
+Score: 3-9
+
+David Hunter: rng1 = 55 + 8 - 12 - 1 = 50
+rng2 = 34 + 9 - 10 - 1 = 32
+Groundout
+Team 2 pitcher (Vicente Castillo): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-9
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Lance Kirby
+
+Marty Horn: rng1 = 15 + 7 - 12 + 1 = 11
+rng2 = 54 + 9 - 12 + 1 = 52
+Lineout
+Team 1 pitcher (Lance Kirby): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-9
+
+Varrien Cannon: rng1 = 80 + 6 - 12 + 1 = 75
+rng2 = 72 + 8 - 12 + 1 = 69
+Double
+Team 1 pitcher (Lance Kirby): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [8,2], base3: false
+base1: false, base2: true, base3: false
+Score: 3-9
+
+Alexis Rojas: rng1 = 6 + 13 - 12 + 1 = 8
+Strikeout
+Team 1 pitcher (Lance Kirby): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [8,2], base3: false
+base1: false, base2: true, base3: false
+Score: 3-9
+
+Darrell Williams: rng1 = 36 + 13 - 12 + 1 = 38
+rng2 = 44 + 11 - 12 + 1 = 44
+Groundout
+Team 1 pitcher (Lance Kirby): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-9
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Brent Knight
+
+Drew Briggs: rng1 = 14 + 11 - 10 - 1 = 14
+rng2 = 47 + 8 - 13 - 1 = 41
+Groundout
+Team 2 pitcher (Brent Knight): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-9
+
+Evan Hudson: rng1 = 5 + 7 - 10 - 1 = 1
+Strikeout
+Team 2 pitcher (Brent Knight): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-9
+
+Pierre Moreau: rng1 = 85 + 8 - 10 - 1 = 82
+rng2 = 27 + 7 - 13 - 1 = 20
+Single
+Team 2 pitcher (Brent Knight): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-9
+
+Tyrone Morton: rng1 = 93 + 8 - 10 - 1 = 90
+Walk
+Team 2 pitcher (Brent Knight): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [7,2], base2: [6,2], base3: false
+base1: true, base2: true, base3: false
+Score: 3-9
+
+Moises Bolivar: rng1 = 81 + 7 - 10 - 1 = 77
+rng2 = 2 + 7 - 13 - 1 = -5
+Single
+Team 2 pitcher (Brent Knight): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [8,2], base2: false, base3: [7,2]
+base1: true, base2: false, base3: true
+Score: 4-9
+
+Ashraf Saad: rng1 = 69 + 13 - 10 - 1 = 71
+Walk
+Team 2 pitcher (Brent Knight): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: [0,2], base2: [8,2], base3: [7,2]
+base1: true, base2: true, base3: true
+Score: 4-9
+
+Vicente Uribe: rng1 = 4 + 11 - 10 - 1 = 4
+Strikeout
+Team 2 pitcher (Brent Knight): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-9
+
+-----------------------
+
+BOTTOM INNING 7
+
+Grant Sheppard: rng1 = 51 + 12 - 12 + 1 = 52
+rng2 = 2 + 8 - 12 + 1 = -1
+Groundout
+Team 1 pitcher (Lance Kirby): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-9
+
+Angelo Contreras: rng1 = 34 + 11 - 12 + 1 = 34
+rng2 = 91 + 12 - 12 + 1 = 92
+Flyout
+Team 1 pitcher (Lance Kirby): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-9
+
+Domingo Jimenez: rng1 = 23 + 10 - 12 + 1 = 22
+Strikeout
+Team 1 pitcher (Lance Kirby): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-9
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Gabriel Clark
+
+Travis Nichols: rng1 = 88 + 11 - 8 - 1 = 90
+Walk
+Team 2 pitcher (Gabriel Clark): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [2,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-9
+
+David Hunter: rng1 = 52 + 8 - 8 - 1 = 51
+rng2 = 65 + 9 - 9 - 1 = 64
+Flyout
+Team 2 pitcher (Gabriel Clark): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [2,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-9
+
+Drew Briggs: rng1 = 56 + 11 - 8 - 1 = 58
+rng2 = 2 + 8 - 9 - 1 = 0
+Groundout
+Team 2 pitcher (Gabriel Clark): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [4,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-9
+
+Evan Hudson: rng1 = 73 + 7 - 8 - 1 = 71
+Walk
+Team 2 pitcher (Gabriel Clark): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [5,3], base2: [4,3], base3: false
+base1: true, base2: true, base3: false
+Score: 4-9
+
+Pierre Moreau: rng1 = 68 + 8 - 8 - 1 = 67
+rng2 = 81 + 7 - 9 - 1 = 78
+Flyout
+Team 2 pitcher (Gabriel Clark): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-9
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Alfonso Juarez
+
+Ken McKinney: rng1 = 47 + 9 - 9 + 1 = 48
+rng2 = 88 + 9 - 12 + 1 = 86
+Flyout
+Team 1 pitcher (Alfonso Juarez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-9
+
+Aaron Garcia: rng1 = 84 + 12 - 9 + 1 = 88
+Walk
+Team 1 pitcher (Alfonso Juarez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [6,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-9
+
+Marty Horn: rng1 = 48 + 7 - 9 + 1 = 47
+rng2 = 91 + 9 - 12 + 1 = 89
+Flyout
+Team 1 pitcher (Alfonso Juarez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [6,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-9
+
+Varrien Cannon: rng1 = 21 + 6 - 9 + 1 = 19
+Strikeout
+Team 1 pitcher (Alfonso Juarez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-9
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Pierre Leblanc
+
+Tyrone Morton: rng1 = 26 + 8 - 12 - 1 = 21
+Strikeout
+Team 2 pitcher (Pierre Leblanc): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-9
+
+Moises Bolivar: rng1 = 35 + 7 - 12 - 1 = 29
+rng2 = 58 + 7 - 11 - 1 = 53
+Lineout
+Team 2 pitcher (Pierre Leblanc): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-9
+
+Ashraf Saad: rng1 = 69 + 13 - 12 - 1 = 69
+rng2 = 84 + 11 - 11 - 1 = 83
+Flyout
+Team 2 pitcher (Pierre Leblanc): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-9
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 11
+Team 2 hits: 9
+Team 1 runs: 4
+Team 2 runs: 9
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-29
+Ashraf Saad	3	1	2	0	0	0	0	2	0					NewHaven
+Vicente Uribe	5	0	0	0	0	0	0	0	2	
+Travis Nichols	4	1	1	0	0	0	0	1	3	
+David Hunter	5	0	1	0	0	0	0	0	0	
+Drew Briggs	4	1	0	0	0	0	0	1	2	
+Evan Hudson	4	0	3	0	1	0	3	1	1	
+Pierre Moreau	5	1	1	0	0	0	0	0	1	
+Tyrone Morton	4	0	0	0	0	0	0	1	1	
+Moises Bolivar	4	0	3	0	0	0	1	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Estefania Tejedor	0	1	1	1	0	0	13	6	8	2	2	2	21	
+Rob Bowman	0	0	1	0	0	0	2	2	1	0	0	2	4	
+Lance Kirby	0	0	1	0	0	0	6	1	0	0	0	2	7	
+Alfonso Juarez	0	0	1	0	0	0	3	0	0	0	1	1	4	
+Rex Burnett	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-29
+Alexis Rojas	3	2	1	0	0	1	1	1	1					Orlando
+Darrell Williams	3	1	0	0	0	0	0	1	0	
+Grant Sheppard	4	3	3	0	1	0	1	0	0	
+Angelo Contreras	4	1	1	0	0	1	4	0	1	
+Domingo Jimenez	4	1	1	1	0	0	1	0	2	
+Ken McKinney	4	0	1	0	0	0	2	0	0	
+Aaron Garcia	3	0	0	0	0	0	0	1	1	
+Marty Horn	4	0	0	0	0	0	0	0	1	
+Varrien Cannon	4	1	2	1	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Chang Kwan	1	0	1	1	0	0	12	7	3	0	2	5	22	
+Vicente Castillo	0	0	1	0	0	0	6	2	0	0	0	2	9	
+Brent Knight	0	0	1	0	0	0	3	2	1	0	2	2	7	
+Gabriel Clark	0	0	1	0	0	0	3	0	0	0	2	0	5	
+Pierre Leblanc	0	0	1	0	0	0	3	0	0	0	0	1	3	

@@ -1,0 +1,810 @@
+TOP INNING 1
+
+Diego Vargas: rng1 = 80 + 17 - 4 - 1 = 92
+rng2 = 57 + 16 - 9 - 1 = 63
+Single
+Team 2 pitcher (Zack Huff): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Trevor Holloway: rng1 = 86 + 11 - 4 - 1 = 92
+rng2 = 43 + 11 - 9 - 1 = 44
+Single
+Team 2 pitcher (Zack Huff): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Quentin Farmer: rng1 = 61 + 11 - 4 - 1 = 67
+rng2 = 64 + 4 - 9 - 1 = 58
+Lineout
+Team 2 pitcher (Zack Huff): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Chester Hubbard: rng1 = 27 + 8 - 4 - 1 = 30
+rng2 = 47 + 11 - 9 - 1 = 48
+Lineout
+Team 2 pitcher (Zack Huff): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Art Whitaker: rng1 = 80 + 9 - 4 - 1 = 84
+rng2 = 51 + 10 - 9 - 1 = 51
+Single
+Team 2 pitcher (Zack Huff): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [4,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Bobby King: rng1 = 26 + 5 - 4 - 1 = 26
+Strikeout
+Team 2 pitcher (Zack Huff): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Ivan Guerra: rng1 = 62 + 11 - 9 + 1 = 65
+rng2 = 23 + 13 - 8 + 1 = 29
+Groundout
+Team 1 pitcher (Kim Jae-Yong): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Erik Lowe: rng1 = 39 + 10 - 9 + 1 = 41
+rng2 = 34 + 9 - 8 + 1 = 36
+Groundout
+Team 1 pitcher (Kim Jae-Yong): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Derrick Hammond: rng1 = 5 + 10 - 9 + 1 = 7
+Strikeout
+Team 1 pitcher (Kim Jae-Yong): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 2
+
+Joey Greer: rng1 = 78 + 8 - 4 - 1 = 81
+rng2 = 49 + 8 - 9 - 1 = 47
+Single
+Team 2 pitcher (Zack Huff): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Melvin Carlson: rng1 = 5 + 9 - 4 - 1 = 9
+Strikeout
+Team 2 pitcher (Zack Huff): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Dídac Laguna: rng1 = 62 + 8 - 4 - 1 = 65
+rng2 = 77 + 6 - 9 - 1 = 73
+Flyout
+Team 2 pitcher (Zack Huff): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Diego Vargas: rng1 = 96 + 17 - 4 - 1 = 108
+rng2 = 98 + 16 - 9 - 1 = 104
+Home run
+Team 2 pitcher (Zack Huff): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Trevor Holloway: rng1 = 15 + 11 - 4 - 1 = 21
+Strikeout
+Team 2 pitcher (Zack Huff): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Alex Murphy: rng1 = 93 + 9 - 9 + 1 = 94
+rng2 = 54 + 13 - 8 + 1 = 60
+Single
+Team 1 pitcher (Kim Jae-Yong): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Danilo Villanueva: rng1 = 41 + 8 - 9 + 1 = 41
+rng2 = 10 + 10 - 8 + 1 = 13
+Groundout
+Team 1 pitcher (Kim Jae-Yong): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Arturo Yang: rng1 = 91 + 5 - 9 + 1 = 88
+Walk
+Team 1 pitcher (Kim Jae-Yong): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-0
+
+Jake Weaver: rng1 = 87 + 9 - 9 + 1 = 88
+Walk
+Team 1 pitcher (Kim Jae-Yong): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [6,0], base2: [5,0], base3: [4,0]
+base1: true, base2: true, base3: true
+Score: 3-0
+
+Kyrie Anderson: rng1 = 7 + 7 - 9 + 1 = 6
+Strikeout
+Team 1 pitcher (Kim Jae-Yong): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [6,0], base2: [5,0], base3: [4,0]
+base1: true, base2: true, base3: true
+Score: 3-0
+
+Keylon Wilkins: rng1 = 27 + 4 - 9 + 1 = 23
+Strikeout
+Team 1 pitcher (Kim Jae-Yong): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+TOP INNING 3
+
+Quentin Farmer: rng1 = 66 + 11 - 4 - 1 = 72
+Walk
+Team 2 pitcher (Zack Huff): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 0
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Chester Hubbard: rng1 = 43 + 8 - 4 - 1 = 46
+rng2 = 10 + 11 - 9 - 1 = 11
+Groundout
+Team 2 pitcher (Zack Huff): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-0
+
+Art Whitaker: rng1 = 21 + 9 - 4 - 1 = 25
+Strikeout
+Team 2 pitcher (Zack Huff): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-0
+
+Bobby King: rng1 = 76 + 5 - 4 - 1 = 76
+rng2 = 46 + 9 - 9 - 1 = 45
+Single
+Team 2 pitcher (Zack Huff): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 2
+
+base1: [5,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 3-0
+
+Joey Greer: rng1 = 65 + 8 - 4 - 1 = 68
+rng2 = 53 + 8 - 9 - 1 = 51
+Lineout
+Team 2 pitcher (Zack Huff): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Ivan Guerra: rng1 = 7 + 11 - 9 + 1 = 10
+Strikeout
+Team 1 pitcher (Kim Jae-Yong): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Erik Lowe: rng1 = 72 + 10 - 9 + 1 = 74
+rng2 = 23 + 9 - 8 + 1 = 25
+Single
+Team 1 pitcher (Kim Jae-Yong): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Derrick Hammond: rng1 = 48 + 10 - 9 + 1 = 50
+rng2 = 74 + 8 - 8 + 1 = 75
+Flyout
+Team 1 pitcher (Kim Jae-Yong): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Alex Murphy: rng1 = 49 + 9 - 9 + 1 = 50
+rng2 = 30 + 13 - 8 + 1 = 36
+Groundout
+Team 1 pitcher (Kim Jae-Yong): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+TOP INNING 4
+
+Melvin Carlson: rng1 = 96 + 9 - 4 - 1 = 100
+rng2 = 5 + 7 - 9 - 1 = 2
+Single
+Team 2 pitcher (Zack Huff): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Dídac Laguna: rng1 = 74 + 8 - 4 - 1 = 77
+rng2 = 93 + 6 - 9 - 1 = 89
+Double
+Team 2 pitcher (Zack Huff): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 0
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-0
+
+Diego Vargas: rng1 = 42 + 17 - 4 - 1 = 54
+rng2 = 45 + 16 - 9 - 1 = 51
+Lineout
+Team 2 pitcher (Zack Huff): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 1
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-0
+
+Trevor Holloway: rng1 = 71 + 11 - 4 - 1 = 77
+rng2 = 63 + 11 - 9 - 1 = 64
+Single
+Team 2 pitcher (Zack Huff): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 1
+
+base1: [1,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 4-0
+
+Quentin Farmer: rng1 = 17 + 11 - 4 - 1 = 23
+Strikeout
+Team 2 pitcher (Zack Huff): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 2
+
+base1: [1,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 4-0
+
+Chester Hubbard: rng1 = 43 + 8 - 4 - 1 = 46
+rng2 = 94 + 11 - 9 - 1 = 95
+Flyout
+Team 2 pitcher (Zack Huff): 22 batters faced, 4 runs allowed = 22 + 10.0 = 32.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+BOTTOM INNING 4
+
+Danilo Villanueva: rng1 = 91 + 8 - 9 + 1 = 91
+rng2 = 39 + 10 - 8 + 1 = 42
+Single
+Team 1 pitcher (Kim Jae-Yong): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Arturo Yang: rng1 = 43 + 5 - 9 + 1 = 40
+rng2 = 4 + 9 - 8 + 1 = 6
+Groundout
+Team 1 pitcher (Kim Jae-Yong): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Jake Weaver: rng1 = 20 + 9 - 9 + 1 = 21
+Strikeout
+Team 1 pitcher (Kim Jae-Yong): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+TOP INNING 5
+
+Team 2 pitcher change to Lance Haynes
+
+Art Whitaker: rng1 = 58 + 9 - 12 - 1 = 54
+rng2 = 93 + 10 - 7 - 1 = 95
+Flyout
+Team 2 pitcher (Lance Haynes): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Bobby King: rng1 = 88 + 5 - 12 - 1 = 80
+rng2 = 59 + 9 - 7 - 1 = 60
+Single
+Team 2 pitcher (Lance Haynes): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Joey Greer: rng1 = 5 + 8 - 12 - 1 = 0
+Strikeout
+Team 2 pitcher (Lance Haynes): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Melvin Carlson: rng1 = 23 + 9 - 12 - 1 = 19
+Strikeout
+Team 2 pitcher (Lance Haynes): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+BOTTOM INNING 5
+
+Kyrie Anderson: rng1 = 89 + 7 - 9 + 1 = 88
+Walk
+Team 1 pitcher (Kim Jae-Yong): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Keylon Wilkins: rng1 = 19 + 4 - 9 + 1 = 15
+rng2 = 57 + 9 - 8 + 1 = 59
+Flyout
+Team 1 pitcher (Kim Jae-Yong): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Ivan Guerra: rng1 = 26 + 11 - 9 + 1 = 29
+rng2 = 85 + 13 - 8 + 1 = 91
+Flyout
+Team 1 pitcher (Kim Jae-Yong): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Erik Lowe: rng1 = 81 + 10 - 9 + 1 = 83
+rng2 = 40 + 9 - 8 + 1 = 42
+Single
+Team 1 pitcher (Kim Jae-Yong): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 2
+
+base1: [1,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 4-0
+
+Derrick Hammond: rng1 = 85 + 10 - 9 + 1 = 87
+Walk
+Team 1 pitcher (Kim Jae-Yong): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 2
+
+base1: [2,0], base2: [1,0], base3: [7,0]
+base1: true, base2: true, base3: true
+Score: 4-0
+
+Alex Murphy: rng1 = 52 + 9 - 9 + 1 = 53
+rng2 = 83 + 13 - 8 + 1 = 89
+Flyout
+Team 1 pitcher (Kim Jae-Yong): 22 batters faced, 0 runs allowed = 22 + 0.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+TOP INNING 6
+
+Dídac Laguna: rng1 = 1 + 8 - 12 - 1 = -4
+Strikeout
+Team 2 pitcher (Lance Haynes): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Diego Vargas: rng1 = 75 + 17 - 12 - 1 = 79
+rng2 = 80 + 16 - 7 - 1 = 88
+Double
+Team 2 pitcher (Lance Haynes): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: [0,1], base3: false
+base1: false, base2: true, base3: false
+Score: 4-0
+
+Trevor Holloway: rng1 = 68 + 11 - 12 - 1 = 66
+rng2 = 84 + 11 - 7 - 1 = 87
+Flyout
+Team 2 pitcher (Lance Haynes): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: [0,1], base3: false
+base1: false, base2: true, base3: false
+Score: 4-0
+
+Quentin Farmer: rng1 = 48 + 11 - 12 - 1 = 46
+rng2 = 59 + 4 - 7 - 1 = 55
+Lineout
+Team 2 pitcher (Lance Haynes): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+BOTTOM INNING 6
+
+Danilo Villanueva: rng1 = 49 + 8 - 9 + 1 = 49
+rng2 = 47 + 10 - 8 + 1 = 50
+Lineout
+Team 1 pitcher (Kim Jae-Yong): 23 batters faced, 0 runs allowed = 23 + 0.0 = 23.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Arturo Yang: rng1 = 45 + 5 - 9 + 1 = 42
+rng2 = 19 + 9 - 8 + 1 = 21
+Groundout
+Team 1 pitcher (Kim Jae-Yong): 24 batters faced, 0 runs allowed = 24 + 0.0 = 24.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Jake Weaver: rng1 = 15 + 9 - 9 + 1 = 16
+Strikeout
+Team 1 pitcher (Kim Jae-Yong): 25 batters faced, 0 runs allowed = 25 + 0.0 = 25.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Carmelo Dávalos
+
+Chester Hubbard: rng1 = 92 + 8 - 12 - 1 = 87
+Walk
+Team 2 pitcher (Carmelo Dávalos): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [3,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Art Whitaker: rng1 = 87 + 9 - 12 - 1 = 83
+rng2 = 95 + 10 - 6 - 1 = 98
+Home run
+Team 2 pitcher (Carmelo Dávalos): 2 batters faced, 2 runs allowed = 2 + 5.0 = 7.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-0
+
+Bobby King: rng1 = 59 + 5 - 12 - 1 = 51
+rng2 = 68 + 9 - 6 - 1 = 70
+Flyout
+Team 2 pitcher (Carmelo Dávalos): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-0
+
+Joey Greer: rng1 = 39 + 8 - 12 - 1 = 34
+rng2 = 46 + 8 - 6 - 1 = 47
+Groundout
+Team 2 pitcher (Carmelo Dávalos): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-0
+
+Melvin Carlson: rng1 = 15 + 9 - 12 - 1 = 11
+rng2 = 43 + 7 - 6 - 1 = 43
+Groundout
+Team 2 pitcher (Carmelo Dávalos): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-0
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Hanley Harper
+
+Kyrie Anderson: rng1 = 42 + 7 - 9 + 1 = 41
+rng2 = 30 + 7 - 8 + 1 = 30
+Groundout
+Team 1 pitcher (Hanley Harper): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-0
+
+Keylon Wilkins: rng1 = 49 + 4 - 9 + 1 = 45
+rng2 = 55 + 9 - 8 + 1 = 57
+Lineout
+Team 1 pitcher (Hanley Harper): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-0
+
+Ivan Guerra: rng1 = 33 + 11 - 9 + 1 = 36
+rng2 = 80 + 13 - 8 + 1 = 86
+Flyout
+Team 1 pitcher (Hanley Harper): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-0
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Tommy Greene
+
+Dídac Laguna: rng1 = 40 + 8 - 8 - 1 = 39
+rng2 = 60 + 6 - 6 - 1 = 59
+Flyout
+Team 2 pitcher (Tommy Greene): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-0
+
+Diego Vargas: rng1 = 37 + 17 - 8 - 1 = 45
+rng2 = 41 + 16 - 6 - 1 = 50
+Lineout
+Team 2 pitcher (Tommy Greene): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-0
+
+Trevor Holloway: rng1 = 26 + 11 - 8 - 1 = 28
+Strikeout
+Team 2 pitcher (Tommy Greene): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-0
+
+-----------------------
+
+BOTTOM INNING 8
+
+Erik Lowe: rng1 = 96 + 10 - 9 + 1 = 98
+rng2 = 52 + 9 - 8 + 1 = 54
+Single
+Team 1 pitcher (Hanley Harper): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-0
+
+Derrick Hammond: rng1 = 77 + 10 - 9 + 1 = 79
+rng2 = 46 + 8 - 8 + 1 = 47
+Single
+Team 1 pitcher (Hanley Harper): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [2,1], base2: false, base3: [1,1]
+base1: true, base2: false, base3: true
+Score: 6-0
+
+Alex Murphy: rng1 = 80 + 9 - 9 + 1 = 81
+rng2 = 66 + 13 - 8 + 1 = 72
+Double
+Team 1 pitcher (Hanley Harper): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 0
+
+base1: false, base2: [3,1], base3: false
+base1: false, base2: true, base3: false
+Score: 6-2
+
+Danilo Villanueva: rng1 = 47 + 8 - 9 + 1 = 47
+rng2 = 8 + 10 - 8 + 1 = 11
+Groundout
+Team 1 pitcher (Hanley Harper): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 1
+
+base1: false, base2: [3,1], base3: false
+base1: false, base2: true, base3: false
+Score: 6-2
+
+Arturo Yang: rng1 = 64 + 5 - 9 + 1 = 61
+rng2 = 31 + 9 - 8 + 1 = 33
+Groundout
+Team 1 pitcher (Hanley Harper): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: false, base2: [3,1], base3: false
+base1: false, base2: true, base3: false
+Score: 6-2
+
+Team 1 pitcher change to Mitch Boyd
+
+Jake Weaver: rng1 = 8 + 9 - 14 + 1 = 4
+Strikeout
+Team 1 pitcher (Mitch Boyd): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-2
+
+-----------------------
+
+TOP INNING 9
+
+Quentin Farmer: rng1 = 77 + 11 - 8 - 1 = 79
+rng2 = 16 + 4 - 6 - 1 = 13
+Single
+Team 2 pitcher (Tommy Greene): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [2,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-2
+
+Chester Hubbard: rng1 = 10 + 8 - 8 - 1 = 9
+Strikeout
+Team 2 pitcher (Tommy Greene): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [2,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-2
+
+Art Whitaker: rng1 = 80 + 9 - 8 - 1 = 80
+rng2 = 82 + 10 - 6 - 1 = 85
+Home run
+Team 2 pitcher (Tommy Greene): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-2
+
+Bobby King: rng1 = 67 + 5 - 8 - 1 = 63
+rng2 = 100 + 9 - 6 - 1 = 102
+Flyout
+Team 2 pitcher (Tommy Greene): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-2
+
+Joey Greer: rng1 = 16 + 8 - 8 - 1 = 15
+rng2 = 22 + 8 - 6 - 1 = 23
+Groundout
+Team 2 pitcher (Tommy Greene): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-2
+
+-----------------------
+
+BOTTOM INNING 9
+
+Kyrie Anderson: rng1 = 94 + 7 - 14 + 1 = 88
+Walk
+Team 1 pitcher (Mitch Boyd): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-2
+
+Keylon Wilkins: rng1 = 68 + 4 - 14 + 1 = 59
+rng2 = 84 + 9 - 10 + 1 = 84
+Flyout
+Team 1 pitcher (Mitch Boyd): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-2
+
+Ivan Guerra: rng1 = 59 + 11 - 14 + 1 = 57
+rng2 = 68 + 13 - 10 + 1 = 72
+Flyout
+Team 1 pitcher (Mitch Boyd): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-2
+
+Erik Lowe: rng1 = 68 + 10 - 14 + 1 = 65
+rng2 = 77 + 9 - 10 + 1 = 77
+Flyout
+Team 1 pitcher (Mitch Boyd): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-2
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 14
+Team 2 hits: 7
+Team 1 runs: 8
+Team 2 runs: 2
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-29
+Diego Vargas	5	2	3	1	0	1	2	0	0					Milwaukee
+Trevor Holloway	5	0	2	0	0	0	0	0	2	
+Quentin Farmer	4	1	1	0	0	0	0	1	1	
+Chester Hubbard	4	1	0	0	0	0	0	1	1	
+Art Whitaker	5	2	3	0	0	2	5	0	1	
+Bobby King	5	0	2	0	0	0	0	0	1	
+Joey Greer	5	1	1	0	0	0	0	0	1	
+Melvin Carlson	4	1	1	0	0	0	0	0	2	
+Dídac Laguna	4	0	1	1	0	0	1	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Kim Jae-Yong	1	0	1	1	0	0	18	4	0	0	4	6	25	
+Hanley Harper	0	0	1	0	0	0	5	3	2	0	0	0	8	
+Mitch Boyd	0	0	1	0	0	0	4	0	0	0	1	1	5	
+Jacob Wallace	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Arturo Espinoza	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-29
+Ivan Guerra	5	0	0	0	0	0	0	0	1					Austin
+Erik Lowe	5	1	3	0	0	0	0	0	0	
+Derrick Hammond	3	1	1	0	0	0	0	1	1	
+Alex Murphy	4	0	2	1	0	0	2	0	0	
+Danilo Villanueva	4	0	1	0	0	0	0	0	0	
+Arturo Yang	3	0	0	0	0	0	0	1	0	
+Jake Weaver	3	0	0	0	0	0	0	1	3	
+Kyrie Anderson	2	0	0	0	0	0	0	2	1	
+Keylon Wilkins	4	0	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Zack Huff	0	1	1	1	0	0	12	9	4	1	1	5	22	
+Lance Haynes	0	0	1	0	0	0	6	2	0	0	0	3	8	
+Carmelo Dávalos	0	0	1	0	0	0	3	1	2	1	1	0	5	
+Tommy Greene	0	0	1	0	0	0	6	2	2	1	0	2	8	
+Damon Houston	0	0	0	0	0	0	0	0	0	0	0	0	0	

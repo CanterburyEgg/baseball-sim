@@ -1,0 +1,741 @@
+TOP INNING 1
+
+Jacobi Davis: rng1 = 11 + 16 - 10 - 1 = 16
+Strikeout
+Team 2 pitcher (Enrique Robles): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Byron Lloyd: rng1 = 54 + 15 - 10 - 1 = 58
+rng2 = 65 + 14 - 15 - 1 = 63
+Flyout
+Team 2 pitcher (Enrique Robles): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Kazuhiro Ida: rng1 = 91 + 14 - 10 - 1 = 94
+rng2 = 74 + 16 - 15 - 1 = 74
+Double
+Team 2 pitcher (Enrique Robles): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Guy Nicholson: rng1 = 16 + 12 - 10 - 1 = 17
+Strikeout
+Team 2 pitcher (Enrique Robles): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Alexis Rojas: rng1 = 79 + 13 - 12 + 1 = 81
+rng2 = 95 + 14 - 12 + 1 = 98
+Home run
+Team 1 pitcher (Milton Gibbs): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Darrell Williams: rng1 = 26 + 13 - 12 + 1 = 28
+Strikeout
+Team 1 pitcher (Milton Gibbs): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Grant Sheppard: rng1 = 42 + 12 - 12 + 1 = 43
+rng2 = 14 + 8 - 12 + 1 = 11
+Groundout
+Team 1 pitcher (Milton Gibbs): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Angelo Contreras: rng1 = 88 + 11 - 12 + 1 = 88
+Walk
+Team 1 pitcher (Milton Gibbs): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Domingo Jimenez: rng1 = 12 + 10 - 12 + 1 = 11
+rng2 = 35 + 10 - 12 + 1 = 34
+Groundout
+Team 1 pitcher (Milton Gibbs): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 2
+
+Rodney Shaffer: rng1 = 15 + 14 - 10 - 1 = 18
+Strikeout
+Team 2 pitcher (Enrique Robles): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Arturo Trujillo: rng1 = 39 + 12 - 10 - 1 = 40
+rng2 = 40 + 11 - 15 - 1 = 35
+Groundout
+Team 2 pitcher (Enrique Robles): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Christian Mendez: rng1 = 43 + 12 - 10 - 1 = 44
+rng2 = 23 + 10 - 15 - 1 = 17
+Groundout
+Team 2 pitcher (Enrique Robles): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Ken McKinney: rng1 = 82 + 9 - 12 + 1 = 80
+rng2 = 67 + 9 - 12 + 1 = 65
+Single
+Team 1 pitcher (Milton Gibbs): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Aaron Garcia: rng1 = 95 + 12 - 12 + 1 = 96
+rng2 = 78 + 7 - 12 + 1 = 74
+Double
+Team 1 pitcher (Milton Gibbs): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 0
+
+base1: false, base2: [6,0], base3: [5,0]
+base1: false, base2: true, base3: true
+Score: 0-1
+
+Marty Horn: rng1 = 37 + 7 - 12 + 1 = 33
+rng2 = 76 + 9 - 12 + 1 = 74
+Flyout
+Team 1 pitcher (Milton Gibbs): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 1
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-2
+
+Varrien Cannon: rng1 = 67 + 6 - 12 + 1 = 62
+rng2 = 19 + 8 - 12 + 1 = 16
+Groundout
+Team 1 pitcher (Milton Gibbs): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 2
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-2
+
+Alexis Rojas: rng1 = 40 + 13 - 12 + 1 = 42
+rng2 = 64 + 14 - 12 + 1 = 67
+Flyout
+Team 1 pitcher (Milton Gibbs): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 3
+
+Tyler Sanders: rng1 = 1 + 10 - 10 - 1 = 0
+Strikeout
+Team 2 pitcher (Enrique Robles): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Orlando Bradford: rng1 = 47 + 10 - 10 - 1 = 46
+rng2 = 36 + 7 - 15 - 1 = 27
+Groundout
+Team 2 pitcher (Enrique Robles): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Jacobi Davis: rng1 = 50 + 16 - 10 - 1 = 55
+rng2 = 27 + 15 - 15 - 1 = 26
+Groundout
+Team 2 pitcher (Enrique Robles): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+BOTTOM INNING 3
+
+Darrell Williams: rng1 = 10 + 13 - 12 + 1 = 12
+rng2 = 38 + 11 - 12 + 1 = 38
+Groundout
+Team 1 pitcher (Milton Gibbs): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Grant Sheppard: rng1 = 37 + 12 - 12 + 1 = 38
+rng2 = 44 + 8 - 12 + 1 = 41
+Groundout
+Team 1 pitcher (Milton Gibbs): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Angelo Contreras: rng1 = 27 + 11 - 12 + 1 = 27
+Strikeout
+Team 1 pitcher (Milton Gibbs): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 4
+
+Byron Lloyd: rng1 = 29 + 15 - 10 - 1 = 33
+rng2 = 33 + 14 - 15 - 1 = 31
+Groundout
+Team 2 pitcher (Enrique Robles): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Kazuhiro Ida: rng1 = 94 + 14 - 10 - 1 = 97
+rng2 = 6 + 16 - 15 - 1 = 6
+Single
+Team 2 pitcher (Enrique Robles): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Guy Nicholson: rng1 = 73 + 12 - 10 - 1 = 74
+rng2 = 95 + 12 - 15 - 1 = 91
+Double
+Team 2 pitcher (Enrique Robles): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-2
+
+Rodney Shaffer: rng1 = 39 + 14 - 10 - 1 = 42
+rng2 = 34 + 11 - 15 - 1 = 29
+Groundout
+Team 2 pitcher (Enrique Robles): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-2
+
+Arturo Trujillo: rng1 = 89 + 12 - 10 - 1 = 90
+Walk
+Team 2 pitcher (Enrique Robles): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 2
+
+base1: [5,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-2
+
+Christian Mendez: rng1 = 63 + 12 - 10 - 1 = 64
+rng2 = 44 + 10 - 15 - 1 = 38
+Groundout
+Team 2 pitcher (Enrique Robles): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 4
+
+Domingo Jimenez: rng1 = 36 + 10 - 12 + 1 = 35
+rng2 = 93 + 10 - 12 + 1 = 92
+Flyout
+Team 1 pitcher (Milton Gibbs): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Ken McKinney: rng1 = 81 + 9 - 12 + 1 = 79
+rng2 = 18 + 9 - 12 + 1 = 16
+Single
+Team 1 pitcher (Milton Gibbs): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Aaron Garcia: rng1 = 69 + 12 - 12 + 1 = 70
+Walk
+Team 1 pitcher (Milton Gibbs): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 1
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-2
+
+Marty Horn: rng1 = 46 + 7 - 12 + 1 = 42
+rng2 = 9 + 9 - 12 + 1 = 7
+Groundout
+Team 1 pitcher (Milton Gibbs): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 2
+
+base1: false, base2: [6,0], base3: [5,0]
+base1: false, base2: true, base3: true
+Score: 1-2
+
+Varrien Cannon: rng1 = 100 + 6 - 12 + 1 = 95
+rng2 = 57 + 8 - 12 + 1 = 54
+Single
+Team 1 pitcher (Milton Gibbs): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 2
+
+base1: [8,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 1-3
+
+Alexis Rojas: rng1 = 36 + 13 - 12 + 1 = 38
+rng2 = 43 + 14 - 12 + 1 = 46
+Groundout
+Team 1 pitcher (Milton Gibbs): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 5
+
+Tyler Sanders: rng1 = 90 + 10 - 10 - 1 = 89
+Walk
+Team 2 pitcher (Enrique Robles): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Orlando Bradford: rng1 = 63 + 10 - 10 - 1 = 62
+rng2 = 17 + 7 - 15 - 1 = 8
+Groundout
+Team 2 pitcher (Enrique Robles): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Jacobi Davis: rng1 = 25 + 16 - 10 - 1 = 30
+rng2 = 26 + 15 - 15 - 1 = 25
+Groundout
+Team 2 pitcher (Enrique Robles): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+BOTTOM INNING 5
+
+Darrell Williams: rng1 = 92 + 13 - 12 + 1 = 94
+rng2 = 88 + 11 - 12 + 1 = 88
+Double
+Team 1 pitcher (Milton Gibbs): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 0
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-3
+
+Grant Sheppard: rng1 = 79 + 12 - 12 + 1 = 80
+rng2 = 81 + 8 - 12 + 1 = 78
+Double
+Team 1 pitcher (Milton Gibbs): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 0
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-4
+
+Angelo Contreras: rng1 = 64 + 11 - 12 + 1 = 64
+rng2 = 33 + 12 - 12 + 1 = 34
+Groundout
+Team 1 pitcher (Milton Gibbs): 22 batters faced, 4 runs allowed = 22 + 10.0 = 32.0, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-4
+
+Domingo Jimenez: rng1 = 95 + 10 - 12 + 1 = 94
+rng2 = 89 + 10 - 12 + 1 = 88
+Double
+Team 1 pitcher (Milton Gibbs): 23 batters faced, 5 runs allowed = 23 + 12.5 = 35.5, outs: 1
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-5
+
+Team 1 pitcher change to Bradley Weaver
+
+Ken McKinney: rng1 = 23 + 9 - 10 + 1 = 23
+Strikeout
+Team 1 pitcher (Bradley Weaver): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-5
+
+Aaron Garcia: rng1 = 90 + 12 - 10 + 1 = 93
+rng2 = 62 + 7 - 13 + 1 = 57
+Single
+Team 1 pitcher (Bradley Weaver): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Marty Horn: rng1 = 25 + 7 - 10 + 1 = 23
+Strikeout
+Team 1 pitcher (Bradley Weaver): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 6
+
+Byron Lloyd: rng1 = 10 + 15 - 10 - 1 = 14
+rng2 = 40 + 14 - 15 - 1 = 38
+Groundout
+Team 2 pitcher (Enrique Robles): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Kazuhiro Ida: rng1 = 36 + 14 - 10 - 1 = 39
+rng2 = 20 + 16 - 15 - 1 = 20
+Groundout
+Team 2 pitcher (Enrique Robles): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Guy Nicholson: rng1 = 93 + 12 - 10 - 1 = 94
+rng2 = 42 + 12 - 15 - 1 = 38
+Single
+Team 2 pitcher (Enrique Robles): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Rodney Shaffer: rng1 = 75 + 14 - 10 - 1 = 78
+rng2 = 12 + 11 - 15 - 1 = 7
+Single
+Team 2 pitcher (Enrique Robles): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 2
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-6
+
+Arturo Trujillo: rng1 = 80 + 12 - 10 - 1 = 81
+rng2 = 44 + 11 - 15 - 1 = 39
+Single
+Team 2 pitcher (Enrique Robles): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 2
+
+base1: [5,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 2-6
+
+Christian Mendez: rng1 = 99 + 12 - 10 - 1 = 100
+rng2 = 64 + 10 - 15 - 1 = 58
+Single
+Team 2 pitcher (Enrique Robles): 25 batters faced, 3 runs allowed = 25 + 7.5 = 32.5, outs: 2
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 3-6
+
+Team 2 pitcher change to Gabriel Clark
+
+Tyler Sanders: rng1 = 62 + 10 - 8 - 1 = 63
+rng2 = 52 + 8 - 9 - 1 = 50
+Lineout
+Team 2 pitcher (Gabriel Clark): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-6
+
+-----------------------
+
+BOTTOM INNING 6
+
+Varrien Cannon: rng1 = 45 + 6 - 10 + 1 = 42
+rng2 = 8 + 8 - 13 + 1 = 4
+Groundout
+Team 1 pitcher (Bradley Weaver): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-6
+
+Alexis Rojas: rng1 = 30 + 13 - 10 + 1 = 34
+rng2 = 41 + 14 - 13 + 1 = 43
+Groundout
+Team 1 pitcher (Bradley Weaver): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-6
+
+Darrell Williams: rng1 = 70 + 13 - 10 + 1 = 74
+rng2 = 85 + 11 - 13 + 1 = 84
+Home run
+Team 1 pitcher (Bradley Weaver): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Grant Sheppard: rng1 = 5 + 12 - 10 + 1 = 8
+Strikeout
+Team 1 pitcher (Bradley Weaver): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+TOP INNING 7
+
+Orlando Bradford: rng1 = 7 + 10 - 8 - 1 = 8
+Strikeout
+Team 2 pitcher (Gabriel Clark): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Jacobi Davis: rng1 = 19 + 16 - 8 - 1 = 26
+Strikeout
+Team 2 pitcher (Gabriel Clark): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Byron Lloyd: rng1 = 16 + 15 - 8 - 1 = 22
+Strikeout
+Team 2 pitcher (Gabriel Clark): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Curtis Holmes
+
+Angelo Contreras: rng1 = 25 + 11 - 11 + 1 = 26
+Strikeout
+Team 1 pitcher (Curtis Holmes): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Domingo Jimenez: rng1 = 24 + 10 - 11 + 1 = 24
+Strikeout
+Team 1 pitcher (Curtis Holmes): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Ken McKinney: rng1 = 54 + 9 - 11 + 1 = 53
+rng2 = 46 + 9 - 11 + 1 = 45
+Groundout
+Team 1 pitcher (Curtis Holmes): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+TOP INNING 8
+
+Kazuhiro Ida: rng1 = 72 + 14 - 8 - 1 = 77
+rng2 = 65 + 16 - 9 - 1 = 71
+Double
+Team 2 pitcher (Gabriel Clark): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: false, base2: [2,1], base3: false
+base1: false, base2: true, base3: false
+Score: 3-7
+
+Guy Nicholson: rng1 = 4 + 12 - 8 - 1 = 7
+Strikeout
+Team 2 pitcher (Gabriel Clark): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: [2,1], base3: false
+base1: false, base2: true, base3: false
+Score: 3-7
+
+Rodney Shaffer: rng1 = 49 + 14 - 8 - 1 = 54
+rng2 = 41 + 11 - 9 - 1 = 42
+Groundout
+Team 2 pitcher (Gabriel Clark): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: [2,1], base3: false
+base1: false, base2: true, base3: false
+Score: 3-7
+
+Arturo Trujillo: rng1 = 13 + 12 - 8 - 1 = 16
+Strikeout
+Team 2 pitcher (Gabriel Clark): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+BOTTOM INNING 8
+
+Aaron Garcia: rng1 = 98 + 12 - 11 + 1 = 100
+rng2 = 24 + 7 - 11 + 1 = 21
+Single
+Team 1 pitcher (Curtis Holmes): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-7
+
+Marty Horn: rng1 = 1 + 7 - 11 + 1 = -2
+Strikeout
+Team 1 pitcher (Curtis Holmes): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-7
+
+Varrien Cannon: rng1 = 71 + 6 - 11 + 1 = 67
+rng2 = 78 + 8 - 11 + 1 = 76
+Flyout
+Team 1 pitcher (Curtis Holmes): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-7
+
+Alexis Rojas: rng1 = 14 + 13 - 11 + 1 = 17
+Strikeout
+Team 1 pitcher (Curtis Holmes): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Brent Knight
+
+Christian Mendez: rng1 = 18 + 12 - 10 - 1 = 19
+Strikeout
+Team 2 pitcher (Brent Knight): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Tyler Sanders: rng1 = 19 + 10 - 10 - 1 = 18
+Strikeout
+Team 2 pitcher (Brent Knight): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Orlando Bradford: rng1 = 88 + 10 - 10 - 1 = 87
+Walk
+Team 2 pitcher (Brent Knight): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-7
+
+Jacobi Davis: rng1 = 26 + 16 - 10 - 1 = 31
+rng2 = 25 + 15 - 13 - 1 = 26
+Groundout
+Team 2 pitcher (Brent Knight): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 8
+Team 2 hits: 11
+Team 1 runs: 3
+Team 2 runs: 7
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-29
+Jacobi Davis	5	0	0	0	0	0	0	0	2					Nashville
+Byron Lloyd	4	0	0	0	0	0	0	0	1	
+Kazuhiro Ida	4	1	3	2	0	0	0	0	0	
+Guy Nicholson	4	1	2	1	0	0	1	0	2	
+Rodney Shaffer	4	1	1	0	0	0	0	0	1	
+Arturo Trujillo	3	0	1	0	0	0	1	1	1	
+Christian Mendez	4	0	1	0	0	0	1	0	1	
+Tyler Sanders	3	0	0	0	0	0	0	1	2	
+Orlando Bradford	3	0	0	0	0	0	0	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Milton Gibbs	0	1	1	1	0	0	13	8	6	1	2	2	23	
+Bradley Weaver	0	0	1	0	0	0	5	2	1	1	0	3	7	
+Curtis Holmes	0	0	1	0	0	0	6	1	0	0	0	4	7	
+Major Ortiz	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Tim Brooks	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-29
+Alexis Rojas	5	1	1	0	0	1	1	0	1					Orlando
+Darrell Williams	4	2	2	1	0	1	1	0	1	
+Grant Sheppard	4	1	1	1	0	0	1	0	1	
+Angelo Contreras	3	0	0	0	0	0	0	1	2	
+Domingo Jimenez	4	1	1	1	0	0	1	0	1	
+Ken McKinney	4	2	2	0	0	0	0	0	1	
+Aaron Garcia	3	0	3	1	0	0	1	1	0	
+Marty Horn	4	0	0	0	0	0	1	0	2	
+Varrien Cannon	4	0	1	0	0	0	1	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Enrique Robles	1	0	1	1	0	0	17	7	3	0	2	4	25	
+Gabriel Clark	0	0	1	0	0	0	7	1	0	0	0	5	8	
+Brent Knight	0	0	1	0	0	0	3	0	0	0	1	2	4	
+Vicente Castillo	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Pierre Leblanc	0	0	0	0	0	0	0	0	0	0	0	0	0	

@@ -1,0 +1,767 @@
+TOP INNING 1
+
+Marcus Byrd: rng1 = 24 + 11 - 11 - 1 = 23
+Strikeout
+Team 2 pitcher (Randy Barrett): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Mario Chavez: rng1 = 34 + 10 - 11 - 1 = 32
+rng2 = 66 + 9 - 12 - 1 = 62
+Flyout
+Team 2 pitcher (Randy Barrett): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Claudio Tolentino: rng1 = 53 + 8 - 11 - 1 = 49
+rng2 = 86 + 13 - 12 - 1 = 86
+Flyout
+Team 2 pitcher (Randy Barrett): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Russell Glover: rng1 = 47 + 14 - 10 + 1 = 52
+rng2 = 35 + 9 - 7 + 1 = 38
+Groundout
+Team 1 pitcher (Clévon Fuller): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Emilio Cordero: rng1 = 27 + 10 - 10 + 1 = 28
+Strikeout
+Team 1 pitcher (Clévon Fuller): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Stuart Barton: rng1 = 83 + 10 - 10 + 1 = 84
+rng2 = 15 + 12 - 7 + 1 = 21
+Single
+Team 1 pitcher (Clévon Fuller): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Oliver Summers: rng1 = 83 + 9 - 10 + 1 = 83
+rng2 = 54 + 14 - 7 + 1 = 62
+Single
+Team 1 pitcher (Clévon Fuller): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [3,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Floyd Meyers: rng1 = 94 + 8 - 10 + 1 = 93
+rng2 = 25 + 10 - 7 + 1 = 29
+Single
+Team 1 pitcher (Clévon Fuller): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [4,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 0-1
+
+Tyler May: rng1 = 91 + 6 - 10 + 1 = 88
+Walk
+Team 1 pitcher (Clévon Fuller): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: [5,0], base2: [4,0], base3: [3,0]
+base1: true, base2: true, base3: true
+Score: 0-1
+
+Wade Poole: rng1 = 83 + 8 - 10 + 1 = 82
+rng2 = 58 + 9 - 7 + 1 = 61
+Single
+Team 1 pitcher (Clévon Fuller): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 2
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-3
+
+Kris Moody: rng1 = 55 + 9 - 10 + 1 = 55
+rng2 = 8 + 8 - 7 + 1 = 10
+Groundout
+Team 1 pitcher (Clévon Fuller): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+TOP INNING 2
+
+Noel Phelps: rng1 = 94 + 6 - 11 - 1 = 88
+Walk
+Team 2 pitcher (Randy Barrett): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Pablo Hernandez: rng1 = 28 + 5 - 11 - 1 = 21
+Strikeout
+Team 2 pitcher (Randy Barrett): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Reilly Carter: rng1 = 94 + 7 - 11 - 1 = 89
+Walk
+Team 2 pitcher (Randy Barrett): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-3
+
+Gregory Cooper: rng1 = 87 + 6 - 11 - 1 = 81
+rng2 = 29 + 8 - 12 - 1 = 24
+Single
+Team 2 pitcher (Randy Barrett): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 1-3
+
+Hayden Ross: rng1 = 98 + 7 - 11 - 1 = 93
+rng2 = 38 + 7 - 12 - 1 = 32
+Single
+Team 2 pitcher (Randy Barrett): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 1
+
+base1: [7,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 2-3
+
+Elvis Asencio: rng1 = 63 + 8 - 11 - 1 = 59
+rng2 = 41 + 6 - 12 - 1 = 34
+Groundout
+Team 2 pitcher (Randy Barrett): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 2
+
+base1: [8,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 2-3
+
+Marcus Byrd: rng1 = 19 + 11 - 11 - 1 = 18
+Strikeout
+Team 2 pitcher (Randy Barrett): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+BOTTOM INNING 2
+
+Francisco Mercado: rng1 = 74 + 5 - 10 + 1 = 70
+Walk
+Team 1 pitcher (Clévon Fuller): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-3
+
+Russell Glover: rng1 = 99 + 14 - 10 + 1 = 104
+rng2 = 46 + 9 - 7 + 1 = 49
+Single
+Team 1 pitcher (Clévon Fuller): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 0
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-3
+
+Emilio Cordero: rng1 = 98 + 10 - 10 + 1 = 99
+rng2 = 66 + 13 - 7 + 1 = 73
+Double
+Team 1 pitcher (Clévon Fuller): 11 batters faced, 5 runs allowed = 11 + 12.5 = 23.5, outs: 0
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-5
+
+Stuart Barton: rng1 = 51 + 10 - 10 + 1 = 52
+rng2 = 15 + 12 - 7 + 1 = 21
+Groundout
+Team 1 pitcher (Clévon Fuller): 12 batters faced, 5 runs allowed = 12 + 12.5 = 24.5, outs: 1
+
+base1: false, base2: false, base3: [1,0]
+base1: false, base2: false, base3: true
+Score: 2-5
+
+Oliver Summers: rng1 = 15 + 9 - 10 + 1 = 15
+rng2 = 81 + 14 - 7 + 1 = 89
+Flyout
+Team 1 pitcher (Clévon Fuller): 13 batters faced, 6 runs allowed = 13 + 15.0 = 28.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-6
+
+Floyd Meyers: rng1 = 16 + 8 - 10 + 1 = 15
+rng2 = 46 + 10 - 7 + 1 = 50
+Lineout
+Team 1 pitcher (Clévon Fuller): 14 batters faced, 6 runs allowed = 14 + 15.0 = 29.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-6
+
+-----------------------
+
+TOP INNING 3
+
+Mario Chavez: rng1 = 33 + 10 - 11 - 1 = 31
+rng2 = 75 + 9 - 12 - 1 = 71
+Flyout
+Team 2 pitcher (Randy Barrett): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-6
+
+Claudio Tolentino: rng1 = 81 + 8 - 11 - 1 = 77
+rng2 = 49 + 13 - 12 - 1 = 49
+Single
+Team 2 pitcher (Randy Barrett): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-6
+
+Noel Phelps: rng1 = 48 + 6 - 11 - 1 = 42
+rng2 = 17 + 9 - 12 - 1 = 13
+Groundout
+Team 2 pitcher (Randy Barrett): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-6
+
+Pablo Hernandez: rng1 = 83 + 5 - 11 - 1 = 76
+rng2 = 60 + 9 - 12 - 1 = 56
+Single
+Team 2 pitcher (Randy Barrett): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-6
+
+Reilly Carter: rng1 = 4 + 7 - 11 - 1 = -1
+Strikeout
+Team 2 pitcher (Randy Barrett): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-6
+
+-----------------------
+
+BOTTOM INNING 3
+
+Tyler May: rng1 = 71 + 6 - 10 + 1 = 68
+rng2 = 11 + 10 - 7 + 1 = 15
+Groundout
+Team 1 pitcher (Clévon Fuller): 15 batters faced, 6 runs allowed = 15 + 15.0 = 30.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-6
+
+Wade Poole: rng1 = 38 + 8 - 10 + 1 = 37
+rng2 = 56 + 9 - 7 + 1 = 59
+Flyout
+Team 1 pitcher (Clévon Fuller): 16 batters faced, 6 runs allowed = 16 + 15.0 = 31.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-6
+
+Kris Moody: rng1 = 14 + 9 - 10 + 1 = 14
+rng2 = 23 + 8 - 7 + 1 = 25
+Groundout
+Team 1 pitcher (Clévon Fuller): 17 batters faced, 6 runs allowed = 17 + 15.0 = 32.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-6
+
+-----------------------
+
+TOP INNING 4
+
+Gregory Cooper: rng1 = 17 + 6 - 11 - 1 = 11
+rng2 = 16 + 8 - 12 - 1 = 11
+Groundout
+Team 2 pitcher (Randy Barrett): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-6
+
+Hayden Ross: rng1 = 5 + 7 - 11 - 1 = 0
+Strikeout
+Team 2 pitcher (Randy Barrett): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-6
+
+Elvis Asencio: rng1 = 79 + 8 - 11 - 1 = 75
+rng2 = 35 + 6 - 12 - 1 = 28
+Single
+Team 2 pitcher (Randy Barrett): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-6
+
+Marcus Byrd: rng1 = 50 + 11 - 11 - 1 = 49
+rng2 = 67 + 8 - 12 - 1 = 62
+Flyout
+Team 2 pitcher (Randy Barrett): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-6
+
+-----------------------
+
+BOTTOM INNING 4
+
+Team 1 pitcher change to Fernando Rosario
+
+Francisco Mercado: rng1 = 10 + 5 - 7 + 1 = 9
+Strikeout
+Team 1 pitcher (Fernando Rosario): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-6
+
+Russell Glover: rng1 = 53 + 14 - 7 + 1 = 61
+rng2 = 74 + 9 - 7 + 1 = 77
+Flyout
+Team 1 pitcher (Fernando Rosario): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-6
+
+Emilio Cordero: rng1 = 74 + 10 - 7 + 1 = 78
+rng2 = 75 + 13 - 7 + 1 = 82
+Home run
+Team 1 pitcher (Fernando Rosario): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Stuart Barton: rng1 = 92 + 10 - 7 + 1 = 96
+rng2 = 56 + 12 - 7 + 1 = 62
+Single
+Team 1 pitcher (Fernando Rosario): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-7
+
+Oliver Summers: rng1 = 84 + 9 - 7 + 1 = 87
+Walk
+Team 1 pitcher (Fernando Rosario): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [3,1], base2: [2,1], base3: false
+base1: true, base2: true, base3: false
+Score: 3-7
+
+Floyd Meyers: rng1 = 55 + 8 - 7 + 1 = 57
+rng2 = 54 + 10 - 7 + 1 = 58
+Lineout
+Team 1 pitcher (Fernando Rosario): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+TOP INNING 5
+
+Mario Chavez: rng1 = 63 + 10 - 11 - 1 = 61
+rng2 = 51 + 9 - 12 - 1 = 47
+Groundout
+Team 2 pitcher (Randy Barrett): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Claudio Tolentino: rng1 = 28 + 8 - 11 - 1 = 24
+Strikeout
+Team 2 pitcher (Randy Barrett): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Noel Phelps: rng1 = 28 + 6 - 11 - 1 = 22
+Strikeout
+Team 2 pitcher (Randy Barrett): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Park Seo-Jun
+
+Tyler May: rng1 = 48 + 6 - 9 + 1 = 46
+rng2 = 75 + 10 - 7 + 1 = 79
+Flyout
+Team 1 pitcher (Park Seo-Jun): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Wade Poole: rng1 = 56 + 8 - 9 + 1 = 56
+rng2 = 11 + 9 - 7 + 1 = 14
+Groundout
+Team 1 pitcher (Park Seo-Jun): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Kris Moody: rng1 = 42 + 9 - 9 + 1 = 43
+rng2 = 68 + 8 - 7 + 1 = 70
+Flyout
+Team 1 pitcher (Park Seo-Jun): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Diego Guevara
+
+Pablo Hernandez: rng1 = 32 + 5 - 15 - 1 = 21
+Strikeout
+Team 2 pitcher (Diego Guevara): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Reilly Carter: rng1 = 22 + 7 - 15 - 1 = 13
+rng2 = 37 + 8 - 13 - 1 = 31
+Groundout
+Team 2 pitcher (Diego Guevara): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Gregory Cooper: rng1 = 27 + 6 - 15 - 1 = 17
+Strikeout
+Team 2 pitcher (Diego Guevara): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+BOTTOM INNING 6
+
+Francisco Mercado: rng1 = 70 + 5 - 9 + 1 = 67
+rng2 = 2 + 9 - 7 + 1 = 5
+Groundout
+Team 1 pitcher (Park Seo-Jun): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Russell Glover: rng1 = 40 + 14 - 9 + 1 = 46
+rng2 = 39 + 9 - 7 + 1 = 42
+Groundout
+Team 1 pitcher (Park Seo-Jun): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Emilio Cordero: rng1 = 65 + 10 - 9 + 1 = 67
+rng2 = 27 + 13 - 7 + 1 = 34
+Groundout
+Team 1 pitcher (Park Seo-Jun): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+TOP INNING 7
+
+Hayden Ross: rng1 = 39 + 7 - 15 - 1 = 30
+rng2 = 33 + 7 - 13 - 1 = 26
+Groundout
+Team 2 pitcher (Diego Guevara): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Elvis Asencio: rng1 = 67 + 8 - 15 - 1 = 59
+rng2 = 8 + 6 - 13 - 1 = 0
+Groundout
+Team 2 pitcher (Diego Guevara): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Marcus Byrd: rng1 = 37 + 11 - 15 - 1 = 32
+rng2 = 72 + 8 - 13 - 1 = 66
+Flyout
+Team 2 pitcher (Diego Guevara): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Dwight Cameron
+
+Stuart Barton: rng1 = 93 + 10 - 7 + 1 = 97
+rng2 = 79 + 12 - 7 + 1 = 85
+Home run
+Team 1 pitcher (Dwight Cameron): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Oliver Summers: rng1 = 80 + 9 - 7 + 1 = 83
+rng2 = 39 + 14 - 7 + 1 = 47
+Single
+Team 1 pitcher (Dwight Cameron): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: [3,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-8
+
+Floyd Meyers: rng1 = 87 + 8 - 7 + 1 = 89
+Walk
+Team 1 pitcher (Dwight Cameron): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 0
+
+base1: [4,3], base2: [3,3], base3: false
+base1: true, base2: true, base3: false
+Score: 3-8
+
+Tyler May: rng1 = 30 + 6 - 7 + 1 = 30
+rng2 = 36 + 10 - 7 + 1 = 40
+Groundout
+Team 1 pitcher (Dwight Cameron): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: false, base3: [3,3]
+base1: false, base2: false, base3: true
+Score: 3-8
+
+Wade Poole: rng1 = 84 + 8 - 7 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Dwight Cameron): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [6,3], base2: false, base3: [3,3]
+base1: true, base2: false, base3: true
+Score: 3-8
+
+Kris Moody: rng1 = 79 + 9 - 7 + 1 = 82
+rng2 = 29 + 8 - 7 + 1 = 31
+Single
+Team 1 pitcher (Dwight Cameron): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: [7,3], base2: [6,3], base3: false
+base1: true, base2: true, base3: false
+Score: 3-9
+
+Francisco Mercado: rng1 = 39 + 5 - 7 + 1 = 38
+rng2 = 27 + 9 - 7 + 1 = 30
+Groundout
+Team 1 pitcher (Dwight Cameron): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-9
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Jhon Montilla
+
+Mario Chavez: rng1 = 19 + 10 - 12 - 1 = 16
+Strikeout
+Team 2 pitcher (Jhon Montilla): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-9
+
+Claudio Tolentino: rng1 = 74 + 8 - 12 - 1 = 69
+rng2 = 23 + 13 - 9 - 1 = 26
+Groundout
+Team 2 pitcher (Jhon Montilla): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-9
+
+Noel Phelps: rng1 = 2 + 6 - 12 - 1 = -5
+Strikeout
+Team 2 pitcher (Jhon Montilla): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-9
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Julio Ventura
+
+Russell Glover: rng1 = 94 + 14 - 10 + 1 = 99
+rng2 = 62 + 9 - 8 + 1 = 64
+Single
+Team 1 pitcher (Julio Ventura): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-9
+
+Emilio Cordero: rng1 = 37 + 10 - 10 + 1 = 38
+rng2 = 32 + 13 - 8 + 1 = 38
+Groundout
+Team 1 pitcher (Julio Ventura): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [0,4], base3: false
+base1: false, base2: true, base3: false
+Score: 3-9
+
+Stuart Barton: rng1 = 91 + 10 - 10 + 1 = 92
+rng2 = 86 + 12 - 8 + 1 = 91
+Double
+Team 1 pitcher (Julio Ventura): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [2,4], base3: false
+base1: false, base2: true, base3: false
+Score: 3-10
+
+Oliver Summers: rng1 = 82 + 9 - 10 + 1 = 82
+rng2 = 16 + 14 - 8 + 1 = 23
+Single
+Team 1 pitcher (Julio Ventura): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [3,4], base2: false, base3: [2,4]
+base1: true, base2: false, base3: true
+Score: 3-10
+
+Floyd Meyers: rng1 = 58 + 8 - 10 + 1 = 57
+rng2 = 3 + 10 - 8 + 1 = 6
+Groundout
+Team 1 pitcher (Julio Ventura): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-10
+
+-----------------------
+
+TOP INNING 9
+
+Pablo Hernandez: rng1 = 76 + 5 - 12 - 1 = 68
+rng2 = 19 + 9 - 9 - 1 = 18
+Groundout
+Team 2 pitcher (Jhon Montilla): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-10
+
+Reilly Carter: rng1 = 56 + 7 - 12 - 1 = 50
+rng2 = 40 + 8 - 9 - 1 = 38
+Groundout
+Team 2 pitcher (Jhon Montilla): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-10
+
+Gregory Cooper: rng1 = 77 + 6 - 12 - 1 = 70
+Walk
+Team 2 pitcher (Jhon Montilla): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-10
+
+Hayden Ross: rng1 = 69 + 7 - 12 - 1 = 63
+rng2 = 3 + 7 - 9 - 1 = 0
+Groundout
+Team 2 pitcher (Jhon Montilla): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-10
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 5
+Team 2 hits: 14
+Team 1 runs: 3
+Team 2 runs: 10
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-29
+Marcus Byrd	4	0	0	0	0	0	0	0	2					Victoria
+Mario Chavez	4	0	0	0	0	0	0	0	1	
+Claudio Tolentino	4	1	1	0	0	0	0	0	1	
+Noel Phelps	3	1	0	0	0	0	0	1	2	
+Pablo Hernandez	4	0	1	0	0	0	1	0	2	
+Reilly Carter	3	1	0	0	0	0	0	1	1	
+Gregory Cooper	3	0	1	0	0	0	1	1	1	
+Hayden Ross	4	0	1	0	0	0	1	0	1	
+Elvis Asencio	3	0	1	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Clévon Fuller	0	1	1	1	0	0	9	6	6	0	2	1	17	
+Fernando Rosario	0	0	1	0	0	0	3	2	1	1	1	1	6	
+Park Seo-Jun	0	0	1	0	0	0	6	0	0	0	0	0	6	
+Dwight Cameron	0	0	1	0	0	0	3	3	2	1	1	0	7	
+Julio Ventura	0	0	1	0	0	0	3	3	1	0	0	0	5	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-29
+Russell Glover	5	2	2	0	0	0	0	0	0					Salem
+Emilio Cordero	5	2	2	1	0	1	3	0	1	
+Stuart Barton	5	2	4	1	0	1	2	0	0	
+Oliver Summers	4	2	3	0	0	0	1	1	0	
+Floyd Meyers	4	1	1	0	0	0	1	1	0	
+Tyler May	3	0	0	0	0	0	0	1	0	
+Wade Poole	3	0	1	0	0	0	2	0	0	
+Kris Moody	4	0	1	0	0	0	1	0	0	
+Francisco Mercado	3	1	0	0	0	0	0	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Randy Barrett	1	0	1	1	0	0	15	5	3	0	2	7	22	
+Diego Guevara	0	0	1	0	0	0	6	0	0	0	0	2	6	
+Jhon Montilla	0	0	1	0	0	0	6	0	0	0	1	2	7	
+Luis Rodriguez	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Larry Gibson	0	0	0	0	0	0	0	0	0	0	0	0	0	

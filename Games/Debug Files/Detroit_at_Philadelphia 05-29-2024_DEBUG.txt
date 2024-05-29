@@ -1,0 +1,827 @@
+TOP INNING 1
+
+Randall Hodge: rng1 = 72 + 14 - 13 - 1 = 72
+Walk
+Team 2 pitcher (Pedro Diaz): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Cody McCarthy: rng1 = 98 + 12 - 13 - 1 = 96
+rng2 = 88 + 14 - 13 - 1 = 88
+Double
+Team 2 pitcher (Pedro Diaz): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Randy Carson: rng1 = 20 + 10 - 13 - 1 = 16
+Strikeout
+Team 2 pitcher (Pedro Diaz): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Reuben Sutton: rng1 = 7 + 9 - 13 - 1 = 2
+Strikeout
+Team 2 pitcher (Pedro Diaz): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Joseph Thayer: rng1 = 100 + 10 - 13 - 1 = 96
+rng2 = 77 + 8 - 13 - 1 = 71
+Double
+Team 2 pitcher (Pedro Diaz): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-0
+
+Caden Bryan: rng1 = 99 + 7 - 13 - 1 = 92
+rng2 = 32 + 9 - 13 - 1 = 27
+Single
+Team 2 pitcher (Pedro Diaz): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Kugo Tadayuki: rng1 = 91 + 10 - 13 - 1 = 87
+Walk
+Team 2 pitcher (Pedro Diaz): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 2
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-0
+
+Marvin Calvert: rng1 = 65 + 4 - 13 - 1 = 55
+rng2 = 52 + 9 - 13 - 1 = 47
+Groundout
+Team 2 pitcher (Pedro Diaz): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Tomas Canto: rng1 = 74 + 14 - 6 + 1 = 83
+rng2 = 81 + 15 - 7 + 1 = 90
+Double
+Team 1 pitcher (Finley Carr): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-0
+
+Keli Alohilani: rng1 = 61 + 13 - 6 + 1 = 69
+rng2 = 39 + 11 - 7 + 1 = 44
+Groundout
+Team 1 pitcher (Finley Carr): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-0
+
+Caleb Harrington: rng1 = 80 + 12 - 6 + 1 = 87
+Walk
+Team 1 pitcher (Finley Carr): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-0
+
+Jong Jung-Hwa: rng1 = 32 + 9 - 6 + 1 = 36
+rng2 = 77 + 12 - 7 + 1 = 83
+Flyout
+Team 1 pitcher (Finley Carr): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [2,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 3-0
+
+Andres Fortune: rng1 = 64 + 9 - 6 + 1 = 68
+rng2 = 40 + 11 - 7 + 1 = 45
+Groundout
+Team 1 pitcher (Finley Carr): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+TOP INNING 2
+
+Terry Schroeder: rng1 = 76 + 8 - 13 - 1 = 70
+Walk
+Team 2 pitcher (Pedro Diaz): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Randall Hodge: rng1 = 62 + 14 - 13 - 1 = 62
+rng2 = 77 + 10 - 13 - 1 = 73
+Flyout
+Team 2 pitcher (Pedro Diaz): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Cody McCarthy: rng1 = 61 + 12 - 13 - 1 = 59
+rng2 = 86 + 14 - 13 - 1 = 86
+Flyout
+Team 2 pitcher (Pedro Diaz): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Randy Carson: rng1 = 76 + 10 - 13 - 1 = 72
+Walk
+Team 2 pitcher (Pedro Diaz): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 2
+
+base1: [2,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-0
+
+Reuben Sutton: rng1 = 29 + 9 - 13 - 1 = 24
+Strikeout
+Team 2 pitcher (Pedro Diaz): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Ricky Bowers: rng1 = 21 + 10 - 6 + 1 = 26
+Strikeout
+Team 1 pitcher (Finley Carr): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Konner Knight: rng1 = 7 + 11 - 6 + 1 = 13
+rng2 = 74 + 7 - 7 + 1 = 75
+Flyout
+Team 1 pitcher (Finley Carr): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Javier Guillén: rng1 = 45 + 7 - 6 + 1 = 47
+rng2 = 98 + 10 - 7 + 1 = 102
+Flyout
+Team 1 pitcher (Finley Carr): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+TOP INNING 3
+
+Joseph Thayer: rng1 = 12 + 10 - 13 - 1 = 8
+Strikeout
+Team 2 pitcher (Pedro Diaz): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Caden Bryan: rng1 = 71 + 7 - 13 - 1 = 64
+rng2 = 91 + 9 - 13 - 1 = 86
+Flyout
+Team 2 pitcher (Pedro Diaz): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Kugo Tadayuki: rng1 = 37 + 10 - 13 - 1 = 33
+rng2 = 1 + 4 - 13 - 1 = -9
+Groundout
+Team 2 pitcher (Pedro Diaz): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Alonso Medina: rng1 = 74 + 10 - 6 + 1 = 79
+rng2 = 41 + 7 - 7 + 1 = 42
+Single
+Team 1 pitcher (Finley Carr): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Tomas Canto: rng1 = 28 + 14 - 6 + 1 = 37
+rng2 = 94 + 15 - 7 + 1 = 103
+Flyout
+Team 1 pitcher (Finley Carr): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Keli Alohilani: rng1 = 98 + 13 - 6 + 1 = 106
+rng2 = 3 + 11 - 7 + 1 = 8
+Single
+Team 1 pitcher (Finley Carr): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 1
+
+base1: [1,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-0
+
+Caleb Harrington: rng1 = 4 + 12 - 6 + 1 = 11
+rng2 = 39 + 9 - 7 + 1 = 42
+Groundout
+Team 1 pitcher (Finley Carr): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 2
+
+base1: [2,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 3-0
+
+Jong Jung-Hwa: rng1 = 60 + 9 - 6 + 1 = 64
+rng2 = 48 + 12 - 7 + 1 = 54
+Lineout
+Team 1 pitcher (Finley Carr): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+TOP INNING 4
+
+Marvin Calvert: rng1 = 52 + 4 - 13 - 1 = 42
+rng2 = 12 + 9 - 13 - 1 = 7
+Groundout
+Team 2 pitcher (Pedro Diaz): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Terry Schroeder: rng1 = 60 + 8 - 13 - 1 = 54
+rng2 = 46 + 5 - 13 - 1 = 37
+Groundout
+Team 2 pitcher (Pedro Diaz): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Randall Hodge: rng1 = 41 + 14 - 13 - 1 = 41
+rng2 = 97 + 10 - 13 - 1 = 93
+Flyout
+Team 2 pitcher (Pedro Diaz): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 4
+
+Andres Fortune: rng1 = 24 + 9 - 6 + 1 = 28
+Strikeout
+Team 1 pitcher (Finley Carr): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Ricky Bowers: rng1 = 9 + 10 - 6 + 1 = 14
+rng2 = 31 + 8 - 7 + 1 = 33
+Groundout
+Team 1 pitcher (Finley Carr): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Konner Knight: rng1 = 63 + 11 - 6 + 1 = 69
+rng2 = 79 + 7 - 7 + 1 = 80
+Flyout
+Team 1 pitcher (Finley Carr): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+TOP INNING 5
+
+Cody McCarthy: rng1 = 26 + 12 - 13 - 1 = 24
+Strikeout
+Team 2 pitcher (Pedro Diaz): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Randy Carson: rng1 = 22 + 10 - 13 - 1 = 18
+Strikeout
+Team 2 pitcher (Pedro Diaz): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Reuben Sutton: rng1 = 52 + 9 - 13 - 1 = 47
+rng2 = 36 + 10 - 13 - 1 = 32
+Groundout
+Team 2 pitcher (Pedro Diaz): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 5
+
+Javier Guillén: rng1 = 88 + 7 - 6 + 1 = 90
+Walk
+Team 1 pitcher (Finley Carr): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Alonso Medina: rng1 = 5 + 10 - 6 + 1 = 10
+Strikeout
+Team 1 pitcher (Finley Carr): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Tomas Canto: rng1 = 81 + 14 - 6 + 1 = 90
+Walk
+Team 1 pitcher (Finley Carr): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 1
+
+base1: [0,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-0
+
+Keli Alohilani: rng1 = 35 + 13 - 6 + 1 = 43
+rng2 = 16 + 11 - 7 + 1 = 21
+Groundout
+Team 1 pitcher (Finley Carr): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 2
+
+base1: [1,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 3-0
+
+Caleb Harrington: rng1 = 61 + 12 - 6 + 1 = 68
+rng2 = 15 + 9 - 7 + 1 = 18
+Groundout
+Team 1 pitcher (Finley Carr): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Steve Randles
+
+Joseph Thayer: rng1 = 8 + 10 - 12 - 1 = 5
+Strikeout
+Team 2 pitcher (Steve Randles): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Caden Bryan: rng1 = 100 + 7 - 12 - 1 = 94
+rng2 = 6 + 9 - 11 - 1 = 3
+Single
+Team 2 pitcher (Steve Randles): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Kugo Tadayuki: rng1 = 6 + 10 - 12 - 1 = 3
+Strikeout
+Team 2 pitcher (Steve Randles): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Marvin Calvert: rng1 = 37 + 4 - 12 - 1 = 28
+Strikeout
+Team 2 pitcher (Steve Randles): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 6
+
+Jong Jung-Hwa: rng1 = 35 + 9 - 6 + 1 = 39
+rng2 = 92 + 12 - 7 + 1 = 98
+Flyout
+Team 1 pitcher (Finley Carr): 22 batters faced, 0 runs allowed = 22 + 0.0 = 22.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Andres Fortune: rng1 = 84 + 9 - 6 + 1 = 88
+Walk
+Team 1 pitcher (Finley Carr): 23 batters faced, 0 runs allowed = 23 + 0.0 = 23.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Ricky Bowers: rng1 = 84 + 10 - 6 + 1 = 89
+Walk
+Team 1 pitcher (Finley Carr): 24 batters faced, 0 runs allowed = 24 + 0.0 = 24.0, outs: 1
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-0
+
+Konner Knight: rng1 = 70 + 11 - 6 + 1 = 76
+rng2 = 49 + 7 - 7 + 1 = 50
+Single
+Team 1 pitcher (Finley Carr): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 1
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 3-1
+
+Javier Guillén: rng1 = 28 + 7 - 6 + 1 = 30
+rng2 = 36 + 10 - 7 + 1 = 40
+Groundout
+Team 1 pitcher (Finley Carr): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 2
+
+base1: [7,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 3-1
+
+Alonso Medina: rng1 = 83 + 10 - 6 + 1 = 88
+Walk
+Team 1 pitcher (Finley Carr): 27 batters faced, 1 runs allowed = 27 + 2.5 = 29.5, outs: 2
+
+base1: [8,0], base2: [7,0], base3: [5,0]
+base1: true, base2: true, base3: true
+Score: 3-1
+
+Tomas Canto: rng1 = 69 + 14 - 6 + 1 = 78
+rng2 = 41 + 15 - 7 + 1 = 50
+Single
+Team 1 pitcher (Finley Carr): 28 batters faced, 2 runs allowed = 28 + 5.0 = 33.0, outs: 2
+
+base1: [0,0], base2: [8,0], base3: [7,0]
+base1: true, base2: true, base3: true
+Score: 3-2
+
+Team 1 pitcher change to Armando Negron
+
+Keli Alohilani: rng1 = 3 + 13 - 8 + 1 = 9
+Strikeout
+Team 1 pitcher (Armando Negron): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+TOP INNING 7
+
+Terry Schroeder: rng1 = 98 + 8 - 12 - 1 = 93
+rng2 = 56 + 5 - 11 - 1 = 49
+Single
+Team 2 pitcher (Steve Randles): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Randall Hodge: rng1 = 2 + 14 - 12 - 1 = 3
+Strikeout
+Team 2 pitcher (Steve Randles): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Cody McCarthy: rng1 = 64 + 12 - 12 - 1 = 63
+rng2 = 85 + 14 - 11 - 1 = 87
+Flyout
+Team 2 pitcher (Steve Randles): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Randy Carson: rng1 = 65 + 10 - 12 - 1 = 62
+rng2 = 60 + 10 - 11 - 1 = 58
+Lineout
+Team 2 pitcher (Steve Randles): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+BOTTOM INNING 7
+
+Caleb Harrington: rng1 = 69 + 12 - 8 + 1 = 74
+rng2 = 26 + 9 - 6 + 1 = 30
+Single
+Team 1 pitcher (Armando Negron): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Jong Jung-Hwa: rng1 = 75 + 9 - 8 + 1 = 77
+rng2 = 97 + 12 - 6 + 1 = 104
+Home run
+Team 1 pitcher (Armando Negron): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Andres Fortune: rng1 = 67 + 9 - 8 + 1 = 69
+rng2 = 9 + 11 - 6 + 1 = 15
+Groundout
+Team 1 pitcher (Armando Negron): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Ricky Bowers: rng1 = 23 + 10 - 8 + 1 = 26
+Strikeout
+Team 1 pitcher (Armando Negron): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Konner Knight: rng1 = 98 + 11 - 8 + 1 = 102
+rng2 = 51 + 7 - 6 + 1 = 53
+Single
+Team 1 pitcher (Armando Negron): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-4
+
+Javier Guillén: rng1 = 76 + 7 - 8 + 1 = 76
+rng2 = 30 + 10 - 6 + 1 = 35
+Single
+Team 1 pitcher (Armando Negron): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 2
+
+base1: [7,1], base2: false, base3: [6,1]
+base1: true, base2: false, base3: true
+Score: 3-4
+
+Team 1 pitcher change to Luciano Garrido
+
+Alonso Medina: rng1 = 73 + 10 - 7 + 1 = 77
+rng2 = 79 + 7 - 6 + 1 = 81
+Home run
+Team 1 pitcher (Luciano Garrido): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Tomas Canto: rng1 = 49 + 14 - 7 + 1 = 57
+rng2 = 14 + 15 - 6 + 1 = 24
+Groundout
+Team 1 pitcher (Luciano Garrido): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Ige Shukishi
+
+Reuben Sutton: rng1 = 1 + 9 - 8 - 1 = 1
+Strikeout
+Team 2 pitcher (Ige Shukishi): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Joseph Thayer: rng1 = 6 + 10 - 8 - 1 = 7
+Strikeout
+Team 2 pitcher (Ige Shukishi): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Caden Bryan: rng1 = 13 + 7 - 8 - 1 = 11
+rng2 = 52 + 9 - 13 - 1 = 47
+Groundout
+Team 2 pitcher (Ige Shukishi): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+BOTTOM INNING 8
+
+Keli Alohilani: rng1 = 99 + 13 - 7 + 1 = 106
+rng2 = 46 + 11 - 6 + 1 = 52
+Single
+Team 1 pitcher (Luciano Garrido): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 0
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-7
+
+Caleb Harrington: rng1 = 72 + 12 - 7 + 1 = 78
+rng2 = 16 + 9 - 6 + 1 = 20
+Single
+Team 1 pitcher (Luciano Garrido): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 0
+
+base1: [2,2], base2: false, base3: [1,2]
+base1: true, base2: false, base3: true
+Score: 3-7
+
+Jong Jung-Hwa: rng1 = 7 + 9 - 7 + 1 = 10
+Strikeout
+Team 1 pitcher (Luciano Garrido): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: [2,2], base2: false, base3: [1,2]
+base1: true, base2: false, base3: true
+Score: 3-7
+
+Andres Fortune: rng1 = 88 + 9 - 7 + 1 = 91
+rng2 = 62 + 11 - 6 + 1 = 68
+Double
+Team 1 pitcher (Luciano Garrido): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 1
+
+base1: false, base2: [4,2], base3: false
+base1: false, base2: true, base3: false
+Score: 3-9
+
+Team 1 pitcher change to Jesus Perez
+
+Ricky Bowers: rng1 = 88 + 10 - 6 + 1 = 93
+rng2 = 7 + 8 - 8 + 1 = 8
+Single
+Team 1 pitcher (Jesus Perez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: [5,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-10
+
+Konner Knight: rng1 = 90 + 11 - 6 + 1 = 96
+rng2 = 11 + 7 - 8 + 1 = 11
+Single
+Team 1 pitcher (Jesus Perez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [6,3], base2: false, base3: [5,3]
+base1: true, base2: false, base3: true
+Score: 3-10
+
+Javier Guillén: rng1 = 21 + 7 - 6 + 1 = 23
+Strikeout
+Team 1 pitcher (Jesus Perez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [6,3], base2: false, base3: [5,3]
+base1: true, base2: false, base3: true
+Score: 3-10
+
+Alonso Medina: rng1 = 71 + 10 - 6 + 1 = 76
+rng2 = 47 + 7 - 8 + 1 = 47
+Single
+Team 1 pitcher (Jesus Perez): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [8,3], base2: [6,3], base3: false
+base1: true, base2: true, base3: false
+Score: 3-11
+
+Tomas Canto: rng1 = 10 + 14 - 6 + 1 = 19
+Strikeout
+Team 1 pitcher (Jesus Perez): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-11
+
+-----------------------
+
+TOP INNING 9
+
+Kugo Tadayuki: rng1 = 95 + 10 - 8 - 1 = 96
+rng2 = 32 + 4 - 13 - 1 = 22
+Single
+Team 2 pitcher (Ige Shukishi): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-11
+
+Marvin Calvert: rng1 = 7 + 4 - 8 - 1 = 2
+Strikeout
+Team 2 pitcher (Ige Shukishi): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-11
+
+Terry Schroeder: rng1 = 58 + 8 - 8 - 1 = 57
+rng2 = 68 + 5 - 13 - 1 = 59
+Flyout
+Team 2 pitcher (Ige Shukishi): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-11
+
+Randall Hodge: rng1 = 77 + 14 - 8 - 1 = 82
+rng2 = 4 + 10 - 13 - 1 = 0
+Single
+Team 2 pitcher (Ige Shukishi): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [0,2], base2: [6,2], base3: false
+base1: true, base2: true, base3: false
+Score: 3-11
+
+Cody McCarthy: rng1 = 64 + 12 - 8 - 1 = 67
+rng2 = 43 + 14 - 13 - 1 = 43
+Groundout
+Team 2 pitcher (Ige Shukishi): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-11
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 7
+Team 2 hits: 16
+Team 1 runs: 3
+Team 2 runs: 11
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-29
+Randall Hodge	4	1	1	0	0	0	0	1	1					Detroit
+Cody McCarthy	5	1	1	1	0	0	1	0	1	
+Randy Carson	3	0	0	0	0	0	0	1	2	
+Reuben Sutton	4	0	0	0	0	0	0	0	3	
+Joseph Thayer	4	1	1	1	0	0	1	0	3	
+Caden Bryan	4	0	2	0	0	0	1	0	0	
+Kugo Tadayuki	3	0	1	0	0	0	0	1	1	
+Marvin Calvert	4	0	0	0	0	0	0	0	2	
+Terry Schroeder	3	0	1	0	0	0	0	1	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Finley Carr	0	0	1	1	0	0	17	5	2	0	6	3	28	
+Armando Negron	0	1	1	0	0	0	3	4	4	1	0	2	7	
+Luciano Garrido	0	0	1	0	0	0	2	4	4	1	0	1	6	
+Jesus Perez	0	0	1	0	0	0	2	3	1	0	0	2	5	
+Brentley Dickson	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-29
+Tomas Canto	5	0	2	1	0	0	1	1	1					Philadelphia
+Keli Alohilani	5	1	2	0	0	0	0	0	1	
+Caleb Harrington	4	2	2	0	0	0	0	1	0	
+Jong Jung-Hwa	5	1	1	0	0	1	2	0	1	
+Andres Fortune	4	2	1	1	0	0	2	1	1	
+Ricky Bowers	4	2	1	0	0	0	1	1	2	
+Konner Knight	5	1	3	0	0	0	1	0	0	
+Javier Guillén	4	1	1	0	0	0	0	1	1	
+Alonso Medina	4	1	3	0	0	1	4	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Pedro Diaz	0	0	1	1	0	0	15	3	3	0	4	6	22	
+Steve Randles	1	0	1	0	0	0	6	2	0	0	0	4	8	
+Ige Shukishi	0	0	1	0	0	0	6	2	0	0	0	3	8	
+Rolando Maroto	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Eduardo Elvira	0	0	0	0	0	0	0	0	0	0	0	0	0	

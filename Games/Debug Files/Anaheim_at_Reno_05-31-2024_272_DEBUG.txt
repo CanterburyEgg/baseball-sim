@@ -1,0 +1,773 @@
+TOP INNING 1
+
+Ramon Cabrera: rng1 = 98 + 14 - 13 - 1 = 98
+rng2 = 34 + 13 - 10 - 1 = 36
+Single
+Team 2 pitcher (Davey Bishop): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Emilio Soto: rng1 = 48 + 9 - 13 - 1 = 43
+rng2 = 49 + 11 - 10 - 1 = 49
+Lineout
+Team 2 pitcher (Davey Bishop): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Valentino Rubio: rng1 = 98 + 9 - 13 - 1 = 93
+rng2 = 94 + 7 - 10 - 1 = 90
+Double
+Team 2 pitcher (Davey Bishop): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: [2,0], base3: [0,0]
+base1: false, base2: true, base3: true
+Score: 0-0
+
+Les Drake: rng1 = 80 + 8 - 13 - 1 = 74
+rng2 = 25 + 13 - 10 - 1 = 27
+Single
+Team 2 pitcher (Davey Bishop): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [3,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Elmer Sparks: rng1 = 1 + 7 - 13 - 1 = -6
+Strikeout
+Team 2 pitcher (Davey Bishop): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [3,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Max Lawrence: rng1 = 68 + 7 - 13 - 1 = 61
+rng2 = 41 + 8 - 10 - 1 = 38
+Groundout
+Team 2 pitcher (Davey Bishop): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Victor Harris: rng1 = 73 + 16 - 7 + 1 = 83
+rng2 = 19 + 15 - 8 + 1 = 27
+Single
+Team 1 pitcher (Elias Betancourt): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Shaun Conley: rng1 = 88 + 15 - 7 + 1 = 97
+rng2 = 95 + 16 - 8 + 1 = 104
+Home run
+Team 1 pitcher (Elias Betancourt): 2 batters faced, 2 runs allowed = 2 + 5.0 = 7.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Joaquin Alba: rng1 = 57 + 15 - 7 + 1 = 66
+rng2 = 38 + 14 - 8 + 1 = 45
+Groundout
+Team 1 pitcher (Elias Betancourt): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Jerome Fields: rng1 = 67 + 13 - 7 + 1 = 74
+rng2 = 53 + 14 - 8 + 1 = 60
+Single
+Team 1 pitcher (Elias Betancourt): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Ali Monroe: rng1 = 64 + 15 - 7 + 1 = 73
+rng2 = 36 + 13 - 8 + 1 = 42
+Single
+Team 1 pitcher (Elias Betancourt): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 1
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-2
+
+Simon Taylor: rng1 = 66 + 13 - 7 + 1 = 73
+rng2 = 45 + 12 - 8 + 1 = 50
+Single
+Team 1 pitcher (Elias Betancourt): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 1
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-3
+
+Nate Clarke: rng1 = 23 + 15 - 7 + 1 = 32
+rng2 = 80 + 11 - 8 + 1 = 84
+Flyout
+Team 1 pitcher (Elias Betancourt): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 2
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-3
+
+Ivan Rondon: rng1 = 52 + 14 - 7 + 1 = 60
+rng2 = 93 + 11 - 8 + 1 = 97
+Flyout
+Team 1 pitcher (Elias Betancourt): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 2
+
+Chaquille Barnett: rng1 = 19 + 9 - 13 - 1 = 14
+rng2 = 33 + 6 - 10 - 1 = 28
+Groundout
+Team 2 pitcher (Davey Bishop): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Bradley Simon: rng1 = 91 + 8 - 13 - 1 = 85
+rng2 = 29 + 6 - 10 - 1 = 24
+Single
+Team 2 pitcher (Davey Bishop): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Clarence Carr: rng1 = 64 + 9 - 13 - 1 = 59
+rng2 = 28 + 5 - 10 - 1 = 22
+Groundout
+Team 2 pitcher (Davey Bishop): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Ramon Cabrera: rng1 = 34 + 14 - 13 - 1 = 34
+rng2 = 83 + 13 - 10 - 1 = 85
+Flyout
+Team 2 pitcher (Davey Bishop): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+BOTTOM INNING 2
+
+Jeff Murray: rng1 = 29 + 15 - 7 + 1 = 38
+rng2 = 75 + 10 - 8 + 1 = 78
+Flyout
+Team 1 pitcher (Elias Betancourt): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Victor Harris: rng1 = 29 + 16 - 7 + 1 = 39
+rng2 = 64 + 15 - 8 + 1 = 72
+Flyout
+Team 1 pitcher (Elias Betancourt): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Shaun Conley: rng1 = 75 + 15 - 7 + 1 = 84
+rng2 = 83 + 16 - 8 + 1 = 92
+Double
+Team 1 pitcher (Elias Betancourt): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-3
+
+Joaquin Alba: rng1 = 6 + 15 - 7 + 1 = 15
+rng2 = 64 + 14 - 8 + 1 = 71
+Flyout
+Team 1 pitcher (Elias Betancourt): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 3
+
+Emilio Soto: rng1 = 31 + 9 - 13 - 1 = 26
+Strikeout
+Team 2 pitcher (Davey Bishop): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Valentino Rubio: rng1 = 88 + 9 - 13 - 1 = 83
+rng2 = 76 + 7 - 10 - 1 = 72
+Double
+Team 2 pitcher (Davey Bishop): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-3
+
+Les Drake: rng1 = 53 + 8 - 13 - 1 = 47
+rng2 = 53 + 13 - 10 - 1 = 55
+Lineout
+Team 2 pitcher (Davey Bishop): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-3
+
+Elmer Sparks: rng1 = 53 + 7 - 13 - 1 = 46
+rng2 = 63 + 9 - 10 - 1 = 61
+Flyout
+Team 2 pitcher (Davey Bishop): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+BOTTOM INNING 3
+
+Jerome Fields: rng1 = 16 + 13 - 7 + 1 = 23
+Strikeout
+Team 1 pitcher (Elias Betancourt): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Ali Monroe: rng1 = 9 + 15 - 7 + 1 = 18
+Strikeout
+Team 1 pitcher (Elias Betancourt): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Simon Taylor: rng1 = 80 + 13 - 7 + 1 = 87
+Walk
+Team 1 pitcher (Elias Betancourt): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Nate Clarke: rng1 = 1 + 15 - 7 + 1 = 10
+Strikeout
+Team 1 pitcher (Elias Betancourt): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 4
+
+Max Lawrence: rng1 = 69 + 7 - 13 - 1 = 62
+rng2 = 25 + 8 - 10 - 1 = 22
+Groundout
+Team 2 pitcher (Davey Bishop): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Chaquille Barnett: rng1 = 80 + 9 - 13 - 1 = 75
+rng2 = 84 + 6 - 10 - 1 = 79
+Triple
+Team 2 pitcher (Davey Bishop): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 1
+
+base1: false, base2: false, base3: [6,0]
+base1: false, base2: false, base3: true
+Score: 1-3
+
+Bradley Simon: rng1 = 97 + 8 - 13 - 1 = 91
+rng2 = 97 + 6 - 10 - 1 = 92
+Double
+Team 2 pitcher (Davey Bishop): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 1
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-3
+
+Clarence Carr: rng1 = 1 + 9 - 13 - 1 = -4
+Strikeout
+Team 2 pitcher (Davey Bishop): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 2
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-3
+
+Ramon Cabrera: rng1 = 90 + 14 - 13 - 1 = 90
+Walk
+Team 2 pitcher (Davey Bishop): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 2
+
+base1: [0,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-3
+
+Emilio Soto: rng1 = 55 + 9 - 13 - 1 = 50
+rng2 = 41 + 11 - 10 - 1 = 41
+Groundout
+Team 2 pitcher (Davey Bishop): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+BOTTOM INNING 4
+
+Ivan Rondon: rng1 = 12 + 14 - 7 + 1 = 20
+Strikeout
+Team 1 pitcher (Elias Betancourt): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Jeff Murray: rng1 = 14 + 15 - 7 + 1 = 23
+Strikeout
+Team 1 pitcher (Elias Betancourt): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Victor Harris: rng1 = 5 + 16 - 7 + 1 = 15
+rng2 = 62 + 15 - 8 + 1 = 70
+Flyout
+Team 1 pitcher (Elias Betancourt): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+TOP INNING 5
+
+Valentino Rubio: rng1 = 38 + 9 - 13 - 1 = 33
+rng2 = 6 + 7 - 10 - 1 = 2
+Groundout
+Team 2 pitcher (Davey Bishop): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Les Drake: rng1 = 14 + 8 - 13 - 1 = 8
+Strikeout
+Team 2 pitcher (Davey Bishop): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Elmer Sparks: rng1 = 50 + 7 - 13 - 1 = 43
+rng2 = 6 + 9 - 10 - 1 = 4
+Groundout
+Team 2 pitcher (Davey Bishop): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+BOTTOM INNING 5
+
+Shaun Conley: rng1 = 72 + 15 - 7 + 1 = 81
+rng2 = 92 + 16 - 8 + 1 = 101
+Home run
+Team 1 pitcher (Elias Betancourt): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Joaquin Alba: rng1 = 50 + 15 - 7 + 1 = 59
+rng2 = 76 + 14 - 8 + 1 = 83
+Flyout
+Team 1 pitcher (Elias Betancourt): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Jerome Fields: rng1 = 98 + 13 - 7 + 1 = 105
+rng2 = 69 + 14 - 8 + 1 = 76
+Double
+Team 1 pitcher (Elias Betancourt): 22 batters faced, 4 runs allowed = 22 + 10.0 = 32.0, outs: 1
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-4
+
+Ali Monroe: rng1 = 38 + 15 - 7 + 1 = 47
+rng2 = 77 + 13 - 8 + 1 = 83
+Flyout
+Team 1 pitcher (Elias Betancourt): 23 batters faced, 4 runs allowed = 23 + 10.0 = 33.0, outs: 2
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-4
+
+Simon Taylor: rng1 = 97 + 13 - 7 + 1 = 104
+rng2 = 35 + 12 - 8 + 1 = 40
+Single
+Team 1 pitcher (Elias Betancourt): 24 batters faced, 4 runs allowed = 24 + 10.0 = 34.0, outs: 2
+
+base1: [5,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 2-4
+
+Team 1 pitcher change to Rajah Rice
+
+Nate Clarke: rng1 = 91 + 15 - 7 + 1 = 100
+rng2 = 97 + 11 - 9 + 1 = 100
+Home run
+Team 1 pitcher (Rajah Rice): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Ivan Rondon: rng1 = 42 + 14 - 7 + 1 = 50
+rng2 = 10 + 11 - 9 + 1 = 13
+Groundout
+Team 1 pitcher (Rajah Rice): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-7
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Walt Lewis
+
+Max Lawrence: rng1 = 76 + 7 - 13 - 1 = 69
+rng2 = 38 + 8 - 13 - 1 = 32
+Groundout
+Team 2 pitcher (Walt Lewis): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Chaquille Barnett: rng1 = 12 + 9 - 13 - 1 = 7
+Strikeout
+Team 2 pitcher (Walt Lewis): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Bradley Simon: rng1 = 63 + 8 - 13 - 1 = 57
+rng2 = 37 + 6 - 13 - 1 = 29
+Groundout
+Team 2 pitcher (Walt Lewis): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-7
+
+-----------------------
+
+BOTTOM INNING 6
+
+Jeff Murray: rng1 = 90 + 15 - 7 + 1 = 99
+rng2 = 99 + 10 - 9 + 1 = 101
+Home run
+Team 1 pitcher (Rajah Rice): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-8
+
+Victor Harris: rng1 = 8 + 16 - 7 + 1 = 18
+Strikeout
+Team 1 pitcher (Rajah Rice): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-8
+
+Shaun Conley: rng1 = 88 + 15 - 7 + 1 = 97
+rng2 = 68 + 16 - 9 + 1 = 76
+Double
+Team 1 pitcher (Rajah Rice): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 1
+
+base1: false, base2: [1,1], base3: false
+base1: false, base2: true, base3: false
+Score: 2-8
+
+Joaquin Alba: rng1 = 14 + 15 - 7 + 1 = 23
+Strikeout
+Team 1 pitcher (Rajah Rice): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: false, base2: [1,1], base3: false
+base1: false, base2: true, base3: false
+Score: 2-8
+
+Jerome Fields: rng1 = 51 + 13 - 7 + 1 = 58
+rng2 = 87 + 14 - 9 + 1 = 93
+Flyout
+Team 1 pitcher (Rajah Rice): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-8
+
+-----------------------
+
+TOP INNING 7
+
+Clarence Carr: rng1 = 43 + 9 - 13 - 1 = 38
+rng2 = 97 + 5 - 13 - 1 = 88
+Flyout
+Team 2 pitcher (Walt Lewis): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-8
+
+Ramon Cabrera: rng1 = 76 + 14 - 13 - 1 = 76
+rng2 = 31 + 13 - 13 - 1 = 30
+Single
+Team 2 pitcher (Walt Lewis): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-8
+
+Emilio Soto: rng1 = 77 + 9 - 13 - 1 = 72
+Walk
+Team 2 pitcher (Walt Lewis): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [1,1], base2: [0,1], base3: false
+base1: true, base2: true, base3: false
+Score: 2-8
+
+Valentino Rubio: rng1 = 40 + 9 - 13 - 1 = 35
+rng2 = 17 + 7 - 13 - 1 = 10
+Groundout
+Team 2 pitcher (Walt Lewis): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [2,1], base2: [1,1], base3: false
+base1: true, base2: true, base3: false
+Score: 2-8
+
+Les Drake: rng1 = 91 + 8 - 13 - 1 = 85
+rng2 = 64 + 13 - 13 - 1 = 63
+Single
+Team 2 pitcher (Walt Lewis): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [3,1], base2: false, base3: [2,1]
+base1: true, base2: false, base3: true
+Score: 3-8
+
+Elmer Sparks: rng1 = 55 + 7 - 13 - 1 = 48
+rng2 = 94 + 9 - 13 - 1 = 89
+Flyout
+Team 2 pitcher (Walt Lewis): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-8
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Franklin Hood
+
+Ali Monroe: rng1 = 24 + 15 - 9 + 1 = 31
+rng2 = 55 + 13 - 12 + 1 = 57
+Lineout
+Team 1 pitcher (Franklin Hood): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Simon Taylor: rng1 = 39 + 13 - 9 + 1 = 44
+rng2 = 29 + 12 - 12 + 1 = 30
+Groundout
+Team 1 pitcher (Franklin Hood): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Nate Clarke: rng1 = 10 + 15 - 9 + 1 = 17
+Strikeout
+Team 1 pitcher (Franklin Hood): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-8
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Jake Booth
+
+Max Lawrence: rng1 = 11 + 7 - 10 - 1 = 7
+Strikeout
+Team 2 pitcher (Jake Booth): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Chaquille Barnett: rng1 = 11 + 9 - 10 - 1 = 9
+Strikeout
+Team 2 pitcher (Jake Booth): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Bradley Simon: rng1 = 25 + 8 - 10 - 1 = 22
+Strikeout
+Team 2 pitcher (Jake Booth): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-8
+
+-----------------------
+
+BOTTOM INNING 8
+
+Ivan Rondon: rng1 = 95 + 14 - 9 + 1 = 101
+rng2 = 48 + 11 - 12 + 1 = 48
+Single
+Team 1 pitcher (Franklin Hood): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-8
+
+Jeff Murray: rng1 = 91 + 15 - 9 + 1 = 98
+rng2 = 95 + 10 - 12 + 1 = 94
+Home run
+Team 1 pitcher (Franklin Hood): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-10
+
+Victor Harris: rng1 = 87 + 16 - 9 + 1 = 95
+rng2 = 6 + 15 - 12 + 1 = 10
+Single
+Team 1 pitcher (Franklin Hood): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 0
+
+base1: [0,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-10
+
+Shaun Conley: rng1 = 50 + 15 - 9 + 1 = 57
+rng2 = 28 + 16 - 12 + 1 = 33
+Groundout
+Team 1 pitcher (Franklin Hood): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 1
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-10
+
+Joaquin Alba: rng1 = 8 + 15 - 9 + 1 = 15
+rng2 = 8 + 14 - 12 + 1 = 11
+Groundout
+Team 1 pitcher (Franklin Hood): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-10
+
+-----------------------
+
+TOP INNING 9
+
+Clarence Carr: rng1 = 56 + 9 - 10 - 1 = 54
+rng2 = 92 + 5 - 9 - 1 = 87
+Flyout
+Team 2 pitcher (Jake Booth): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-10
+
+Ramon Cabrera: rng1 = 17 + 14 - 10 - 1 = 20
+Strikeout
+Team 2 pitcher (Jake Booth): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-10
+
+Emilio Soto: rng1 = 14 + 9 - 10 - 1 = 12
+rng2 = 16 + 11 - 9 - 1 = 17
+Groundout
+Team 2 pitcher (Jake Booth): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-10
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 9
+Team 2 hits: 15
+Team 1 runs: 3
+Team 2 runs: 10
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-31
+Ramon Cabrera	4	1	2	0	0	0	0	1	1					Anaheim
+Emilio Soto	4	1	0	0	0	0	0	1	1	
+Valentino Rubio	4	0	2	2	0	0	0	0	0	
+Les Drake	4	0	2	0	0	0	2	0	1	
+Elmer Sparks	4	0	0	0	0	0	0	0	1	
+Max Lawrence	4	0	0	0	0	0	0	0	1	
+Chaquille Barnett	4	1	1	0	1	0	0	0	2	
+Bradley Simon	4	0	2	1	0	0	1	0	1	
+Clarence Carr	4	0	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Elias Betancourt	0	1	1	1	0	0	14	9	6	2	1	5	24	
+Rajah Rice	0	0	1	0	0	0	4	3	2	2	0	2	7	
+Franklin Hood	0	0	1	0	0	0	6	3	2	1	0	1	8	
+Julian Underwood	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Shunji Onishi	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-31
+Victor Harris	5	1	2	0	0	0	0	0	1					Reno
+Shaun Conley	5	2	4	2	0	2	3	0	0	
+Joaquin Alba	5	0	0	0	0	0	0	0	1	
+Jerome Fields	4	2	2	1	0	0	0	0	1	
+Ali Monroe	4	0	1	0	0	0	0	0	1	
+Simon Taylor	3	1	2	0	0	0	1	1	0	
+Nate Clarke	4	1	1	0	0	1	3	0	2	
+Ivan Rondon	4	1	1	0	0	0	0	0	1	
+Jeff Murray	4	2	2	0	0	2	3	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Davey Bishop	1	0	1	1	0	0	15	7	2	0	1	4	23	
+Walt Lewis	0	0	1	0	0	0	6	2	1	0	1	1	9	
+Jake Booth	0	0	1	0	0	0	6	0	0	0	0	4	6	
+Johnny Farmer	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Josh Harris	0	0	0	0	0	0	0	0	0	0	0	0	0	

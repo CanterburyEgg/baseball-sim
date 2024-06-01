@@ -1,0 +1,716 @@
+TOP INNING 1
+
+Terrence Wise: rng1 = 70 + 15 - 11 - 1 = 73
+rng2 = 14 + 9 - 5 - 1 = 17
+Single
+Team 2 pitcher (Alberto Berganza): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Clayton Massey: rng1 = 47 + 13 - 11 - 1 = 48
+rng2 = 11 + 8 - 5 - 1 = 13
+Groundout
+Team 2 pitcher (Alberto Berganza): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Ellis Lindsey: rng1 = 15 + 9 - 11 - 1 = 12
+rng2 = 37 + 16 - 5 - 1 = 47
+Groundout
+Team 2 pitcher (Alberto Berganza): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Nelson Gates: rng1 = 96 + 13 - 10 + 1 = 100
+rng2 = 16 + 11 - 8 + 1 = 20
+Single
+Team 1 pitcher (Mostafa Samir): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Leigh Copeland: rng1 = 90 + 12 - 10 + 1 = 93
+rng2 = 27 + 13 - 8 + 1 = 33
+Single
+Team 1 pitcher (Mostafa Samir): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Cesar Mejia: rng1 = 80 + 12 - 10 + 1 = 83
+rng2 = 57 + 8 - 8 + 1 = 58
+Single
+Team 1 pitcher (Mostafa Samir): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 0
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-1
+
+Chris Lay: rng1 = 98 + 4 - 10 + 1 = 93
+rng2 = 95 + 10 - 8 + 1 = 98
+Home run
+Team 1 pitcher (Mostafa Samir): 4 batters faced, 4 runs allowed = 4 + 10.0 = 14.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Jonatan Abreu: rng1 = 11 + 7 - 10 + 1 = 9
+Strikeout
+Team 1 pitcher (Mostafa Samir): 5 batters faced, 4 runs allowed = 5 + 10.0 = 15.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Joey Crawford: rng1 = 78 + 8 - 10 + 1 = 77
+rng2 = 97 + 7 - 8 + 1 = 97
+Home run
+Team 1 pitcher (Mostafa Samir): 6 batters faced, 5 runs allowed = 6 + 12.5 = 18.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Stanley Mueller: rng1 = 65 + 12 - 10 + 1 = 68
+rng2 = 20 + 5 - 8 + 1 = 18
+Groundout
+Team 1 pitcher (Mostafa Samir): 7 batters faced, 5 runs allowed = 7 + 12.5 = 19.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Joshua Cooper: rng1 = 4 + 12 - 10 + 1 = 7
+Strikeout
+Team 1 pitcher (Mostafa Samir): 8 batters faced, 5 runs allowed = 8 + 12.5 = 20.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+TOP INNING 2
+
+Brian Woods: rng1 = 83 + 5 - 11 - 1 = 76
+rng2 = 93 + 11 - 5 - 1 = 98
+Home run
+Team 2 pitcher (Alberto Berganza): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Joaquín Laguna: rng1 = 22 + 7 - 11 - 1 = 17
+Strikeout
+Team 2 pitcher (Alberto Berganza): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Alex Carpenter: rng1 = 1 + 7 - 11 - 1 = -4
+Strikeout
+Team 2 pitcher (Alberto Berganza): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Adalberto Smith: rng1 = 69 + 6 - 11 - 1 = 63
+rng2 = 50 + 9 - 5 - 1 = 53
+Lineout
+Team 2 pitcher (Alberto Berganza): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+BOTTOM INNING 2
+
+Mark Mullins: rng1 = 30 + 7 - 10 + 1 = 28
+Strikeout
+Team 1 pitcher (Mostafa Samir): 9 batters faced, 5 runs allowed = 9 + 12.5 = 21.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Nelson Gates: rng1 = 3 + 13 - 10 + 1 = 7
+Strikeout
+Team 1 pitcher (Mostafa Samir): 10 batters faced, 5 runs allowed = 10 + 12.5 = 22.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Leigh Copeland: rng1 = 97 + 12 - 10 + 1 = 100
+rng2 = 48 + 13 - 8 + 1 = 54
+Single
+Team 1 pitcher (Mostafa Samir): 11 batters faced, 5 runs allowed = 11 + 12.5 = 23.5, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Cesar Mejia: rng1 = 52 + 12 - 10 + 1 = 55
+rng2 = 40 + 8 - 8 + 1 = 41
+Groundout
+Team 1 pitcher (Mostafa Samir): 12 batters faced, 5 runs allowed = 12 + 12.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+TOP INNING 3
+
+Agustín Molina: rng1 = 39 + 7 - 11 - 1 = 34
+rng2 = 89 + 8 - 5 - 1 = 91
+Flyout
+Team 2 pitcher (Alberto Berganza): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Santino Reyes: rng1 = 93 + 7 - 11 - 1 = 88
+Walk
+Team 2 pitcher (Alberto Berganza): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Terrence Wise: rng1 = 8 + 15 - 11 - 1 = 11
+rng2 = 78 + 9 - 5 - 1 = 81
+Flyout
+Team 2 pitcher (Alberto Berganza): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Clayton Massey: rng1 = 82 + 13 - 11 - 1 = 83
+rng2 = 81 + 8 - 5 - 1 = 83
+Home run
+Team 2 pitcher (Alberto Berganza): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Ellis Lindsey: rng1 = 74 + 9 - 11 - 1 = 71
+Walk
+Team 2 pitcher (Alberto Berganza): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-5
+
+Brian Woods: rng1 = 48 + 5 - 11 - 1 = 41
+rng2 = 93 + 11 - 5 - 1 = 98
+Flyout
+Team 2 pitcher (Alberto Berganza): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+BOTTOM INNING 3
+
+Chris Lay: rng1 = 68 + 4 - 10 + 1 = 63
+rng2 = 73 + 10 - 8 + 1 = 76
+Flyout
+Team 1 pitcher (Mostafa Samir): 13 batters faced, 5 runs allowed = 13 + 12.5 = 25.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Jonatan Abreu: rng1 = 35 + 7 - 10 + 1 = 33
+rng2 = 3 + 8 - 8 + 1 = 4
+Groundout
+Team 1 pitcher (Mostafa Samir): 14 batters faced, 5 runs allowed = 14 + 12.5 = 26.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Joey Crawford: rng1 = 26 + 8 - 10 + 1 = 25
+Strikeout
+Team 1 pitcher (Mostafa Samir): 15 batters faced, 5 runs allowed = 15 + 12.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+TOP INNING 4
+
+Joaquín Laguna: rng1 = 70 + 7 - 11 - 1 = 65
+rng2 = 86 + 9 - 5 - 1 = 89
+Flyout
+Team 2 pitcher (Alberto Berganza): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Alex Carpenter: rng1 = 44 + 7 - 11 - 1 = 39
+rng2 = 38 + 9 - 5 - 1 = 41
+Groundout
+Team 2 pitcher (Alberto Berganza): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Adalberto Smith: rng1 = 49 + 6 - 11 - 1 = 43
+rng2 = 37 + 9 - 5 - 1 = 40
+Groundout
+Team 2 pitcher (Alberto Berganza): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+BOTTOM INNING 4
+
+Stanley Mueller: rng1 = 96 + 12 - 10 + 1 = 99
+rng2 = 35 + 5 - 8 + 1 = 33
+Single
+Team 1 pitcher (Mostafa Samir): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-5
+
+Joshua Cooper: rng1 = 49 + 12 - 10 + 1 = 52
+rng2 = 65 + 3 - 8 + 1 = 61
+Flyout
+Team 1 pitcher (Mostafa Samir): 17 batters faced, 5 runs allowed = 17 + 12.5 = 29.5, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-5
+
+Mark Mullins: rng1 = 20 + 7 - 10 + 1 = 18
+Strikeout
+Team 1 pitcher (Mostafa Samir): 18 batters faced, 5 runs allowed = 18 + 12.5 = 30.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-5
+
+Nelson Gates: rng1 = 44 + 13 - 10 + 1 = 48
+rng2 = 54 + 11 - 8 + 1 = 58
+Lineout
+Team 1 pitcher (Mostafa Samir): 19 batters faced, 5 runs allowed = 19 + 12.5 = 31.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+TOP INNING 5
+
+Agustín Molina: rng1 = 6 + 7 - 11 - 1 = 1
+Strikeout
+Team 2 pitcher (Alberto Berganza): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Santino Reyes: rng1 = 25 + 7 - 11 - 1 = 20
+Strikeout
+Team 2 pitcher (Alberto Berganza): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Terrence Wise: rng1 = 12 + 15 - 11 - 1 = 15
+rng2 = 81 + 9 - 5 - 1 = 84
+Flyout
+Team 2 pitcher (Alberto Berganza): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Teagan Molina
+
+Leigh Copeland: rng1 = 12 + 12 - 9 + 1 = 16
+Strikeout
+Team 1 pitcher (Teagan Molina): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Cesar Mejia: rng1 = 77 + 12 - 9 + 1 = 81
+rng2 = 59 + 8 - 6 + 1 = 62
+Single
+Team 1 pitcher (Teagan Molina): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-5
+
+Chris Lay: rng1 = 39 + 4 - 9 + 1 = 35
+rng2 = 37 + 10 - 6 + 1 = 42
+Groundout
+Team 1 pitcher (Teagan Molina): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-5
+
+Jonatan Abreu: rng1 = 72 + 7 - 9 + 1 = 71
+Walk
+Team 1 pitcher (Teagan Molina): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [4,1], base2: [3,1], base3: false
+base1: true, base2: true, base3: false
+Score: 3-5
+
+Joey Crawford: rng1 = 64 + 8 - 9 + 1 = 64
+rng2 = 4 + 7 - 6 + 1 = 6
+Groundout
+Team 1 pitcher (Teagan Molina): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+TOP INNING 6
+
+Clayton Massey: rng1 = 22 + 13 - 11 - 1 = 23
+Strikeout
+Team 2 pitcher (Alberto Berganza): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Ellis Lindsey: rng1 = 72 + 9 - 11 - 1 = 69
+rng2 = 63 + 16 - 5 - 1 = 73
+Flyout
+Team 2 pitcher (Alberto Berganza): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Brian Woods: rng1 = 93 + 5 - 11 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Alberto Berganza): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-5
+
+Joaquín Laguna: rng1 = 1 + 7 - 11 - 1 = -4
+Strikeout
+Team 2 pitcher (Alberto Berganza): 23 batters faced, 3 runs allowed = 23 + 7.5 = 30.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Kione Andrews
+
+Stanley Mueller: rng1 = 21 + 12 - 8 + 1 = 26
+Strikeout
+Team 1 pitcher (Kione Andrews): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Joshua Cooper: rng1 = 41 + 12 - 8 + 1 = 46
+rng2 = 12 + 3 - 6 + 1 = 10
+Groundout
+Team 1 pitcher (Kione Andrews): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Mark Mullins: rng1 = 71 + 7 - 8 + 1 = 71
+Walk
+Team 1 pitcher (Kione Andrews): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-5
+
+Nelson Gates: rng1 = 18 + 13 - 8 + 1 = 24
+Strikeout
+Team 1 pitcher (Kione Andrews): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Pablo Quintana
+
+Alex Carpenter: rng1 = 10 + 7 - 9 - 1 = 7
+Strikeout
+Team 2 pitcher (Pablo Quintana): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Adalberto Smith: rng1 = 40 + 6 - 9 - 1 = 36
+rng2 = 92 + 9 - 8 - 1 = 92
+Flyout
+Team 2 pitcher (Pablo Quintana): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Agustín Molina: rng1 = 94 + 7 - 9 - 1 = 91
+rng2 = 66 + 8 - 8 - 1 = 65
+Single
+Team 2 pitcher (Pablo Quintana): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-5
+
+Santino Reyes: rng1 = 33 + 7 - 9 - 1 = 30
+rng2 = 65 + 8 - 8 - 1 = 64
+Flyout
+Team 2 pitcher (Pablo Quintana): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+BOTTOM INNING 7
+
+Leigh Copeland: rng1 = 89 + 12 - 8 + 1 = 94
+rng2 = 1 + 13 - 6 + 1 = 9
+Single
+Team 1 pitcher (Kione Andrews): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-5
+
+Cesar Mejia: rng1 = 34 + 12 - 8 + 1 = 39
+rng2 = 11 + 8 - 6 + 1 = 14
+Groundout
+Team 1 pitcher (Kione Andrews): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-5
+
+Chris Lay: rng1 = 24 + 4 - 8 + 1 = 21
+Strikeout
+Team 1 pitcher (Kione Andrews): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-5
+
+Jonatan Abreu: rng1 = 30 + 7 - 8 + 1 = 30
+rng2 = 2 + 8 - 6 + 1 = 5
+Groundout
+Team 1 pitcher (Kione Andrews): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+TOP INNING 8
+
+Terrence Wise: rng1 = 82 + 15 - 9 - 1 = 87
+Walk
+Team 2 pitcher (Pablo Quintana): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-5
+
+Clayton Massey: rng1 = 84 + 13 - 9 - 1 = 87
+Walk
+Team 2 pitcher (Pablo Quintana): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 0
+
+base1: [1,1], base2: [0,1], base3: false
+base1: true, base2: true, base3: false
+Score: 3-5
+
+Ellis Lindsey: rng1 = 66 + 9 - 9 - 1 = 65
+rng2 = 10 + 16 - 8 - 1 = 17
+Groundout
+Team 2 pitcher (Pablo Quintana): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: false, base2: [1,1], base3: [0,1]
+base1: false, base2: true, base3: true
+Score: 3-5
+
+Brian Woods: rng1 = 58 + 5 - 9 - 1 = 53
+rng2 = 100 + 11 - 8 - 1 = 102
+Flyout
+Team 2 pitcher (Pablo Quintana): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: [1,1], base3: false
+base1: false, base2: true, base3: false
+Score: 4-5
+
+Joaquín Laguna: rng1 = 90 + 7 - 9 - 1 = 87
+Walk
+Team 2 pitcher (Pablo Quintana): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [4,1], base2: [1,1], base3: false
+base1: true, base2: true, base3: false
+Score: 4-5
+
+Alex Carpenter: rng1 = 18 + 7 - 9 - 1 = 15
+rng2 = 23 + 9 - 8 - 1 = 23
+Groundout
+Team 2 pitcher (Pablo Quintana): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-5
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Harris Derickson
+
+Joey Crawford: rng1 = 38 + 8 - 9 + 1 = 38
+rng2 = 76 + 7 - 8 + 1 = 76
+Flyout
+Team 1 pitcher (Harris Derickson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-5
+
+Stanley Mueller: rng1 = 63 + 12 - 9 + 1 = 67
+rng2 = 48 + 5 - 8 + 1 = 46
+Groundout
+Team 1 pitcher (Harris Derickson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-5
+
+Joshua Cooper: rng1 = 32 + 12 - 9 + 1 = 36
+rng2 = 39 + 3 - 8 + 1 = 35
+Groundout
+Team 1 pitcher (Harris Derickson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-5
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Robb Tremblay
+
+Adalberto Smith: rng1 = 52 + 6 - 11 - 1 = 46
+rng2 = 37 + 9 - 8 - 1 = 37
+Groundout
+Team 2 pitcher (Robb Tremblay): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-5
+
+Agustín Molina: rng1 = 55 + 7 - 11 - 1 = 50
+rng2 = 4 + 8 - 8 - 1 = 3
+Groundout
+Team 2 pitcher (Robb Tremblay): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-5
+
+Santino Reyes: rng1 = 56 + 7 - 11 - 1 = 51
+rng2 = 25 + 8 - 8 - 1 = 24
+Groundout
+Team 2 pitcher (Robb Tremblay): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-5
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 4
+Team 2 hits: 9
+Team 1 runs: 4
+Team 2 runs: 5
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-31
+Terrence Wise	3	1	1	0	0	0	0	1	0					Tokyo
+Clayton Massey	3	1	1	0	0	1	2	1	1	
+Ellis Lindsey	3	0	0	0	0	0	0	1	0	
+Brian Woods	3	1	1	0	0	1	2	0	0	
+Joaquín Laguna	3	0	0	0	0	0	0	1	2	
+Alex Carpenter	4	0	0	0	0	0	0	0	2	
+Adalberto Smith	4	0	0	0	0	0	0	0	0	
+Agustín Molina	4	0	1	0	0	0	0	0	1	
+Santino Reyes	3	1	0	0	0	0	0	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Mostafa Samir	0	1	1	1	0	0	12	7	5	2	0	6	19	
+Teagan Molina	0	0	1	0	0	0	3	1	0	0	1	1	5	
+Kione Andrews	0	0	1	0	0	0	6	1	0	0	1	3	8	
+Harris Derickson	0	0	1	0	0	0	3	0	0	0	0	0	3	
+Zion Wright	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-31
+Nelson Gates	4	1	1	0	0	0	0	0	2					Paris
+Leigh Copeland	4	1	3	0	0	0	0	0	1	
+Cesar Mejia	4	1	2	0	0	0	1	0	0	
+Chris Lay	4	1	1	0	0	1	3	0	1	
+Jonatan Abreu	3	0	0	0	0	0	0	1	1	
+Joey Crawford	4	1	1	0	0	1	1	0	1	
+Stanley Mueller	4	0	1	0	0	0	0	0	1	
+Joshua Cooper	4	0	0	0	0	0	0	0	1	
+Mark Mullins	2	0	0	0	0	0	0	1	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Alberto Berganza	1	0	1	1	0	0	18	3	3	2	2	6	23	
+Pablo Quintana	0	0	1	0	0	0	6	1	1	0	3	1	10	
+Hershel Easom	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Drew Burns	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Robb Tremblay	0	0	1	0	1	1	3	0	0	0	0	0	3	

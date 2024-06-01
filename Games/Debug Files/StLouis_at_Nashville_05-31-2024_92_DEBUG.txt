@@ -1,0 +1,729 @@
+TOP INNING 1
+
+Ernesto Fuentes: rng1 = 89 + 16 - 8 - 1 = 96
+rng2 = 95 + 15 - 8 - 1 = 101
+Home run
+Team 2 pitcher (Marcus Washington): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Lawrence Webb: rng1 = 48 + 16 - 8 - 1 = 55
+rng2 = 51 + 13 - 8 - 1 = 55
+Lineout
+Team 2 pitcher (Marcus Washington): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Mateo Estrada: rng1 = 79 + 15 - 8 - 1 = 85
+rng2 = 1 + 17 - 8 - 1 = 9
+Single
+Team 2 pitcher (Marcus Washington): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Rafael Guzman: rng1 = 92 + 14 - 8 - 1 = 97
+rng2 = 12 + 16 - 8 - 1 = 19
+Single
+Team 2 pitcher (Marcus Washington): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [3,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Miguel Castillo: rng1 = 43 + 13 - 8 - 1 = 47
+rng2 = 1 + 12 - 8 - 1 = 4
+Groundout
+Team 2 pitcher (Marcus Washington): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: false, base2: [3,0], base3: [2,0]
+base1: false, base2: true, base3: true
+Score: 1-0
+
+Jorge Perez: rng1 = 42 + 13 - 8 - 1 = 46
+rng2 = 87 + 11 - 8 - 1 = 89
+Flyout
+Team 2 pitcher (Marcus Washington): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Jacobi Davis: rng1 = 77 + 16 - 9 + 1 = 85
+rng2 = 49 + 15 - 8 + 1 = 57
+Single
+Team 1 pitcher (Rishard Gibson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Byron Lloyd: rng1 = 97 + 16 - 9 + 1 = 105
+rng2 = 2 + 15 - 8 + 1 = 10
+Single
+Team 1 pitcher (Rishard Gibson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Rodney Shaffer: rng1 = 88 + 15 - 9 + 1 = 95
+rng2 = 95 + 12 - 8 + 1 = 100
+Home run
+Team 1 pitcher (Rishard Gibson): 3 batters faced, 3 runs allowed = 3 + 7.5 = 10.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Kazuhiro Ida: rng1 = 19 + 14 - 9 + 1 = 25
+Strikeout
+Team 1 pitcher (Rishard Gibson): 4 batters faced, 3 runs allowed = 4 + 7.5 = 11.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Guy Nicholson: rng1 = 24 + 13 - 9 + 1 = 29
+rng2 = 19 + 13 - 8 + 1 = 25
+Groundout
+Team 1 pitcher (Rishard Gibson): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Arturo Trujillo: rng1 = 31 + 13 - 9 + 1 = 36
+rng2 = 40 + 12 - 8 + 1 = 45
+Groundout
+Team 1 pitcher (Rishard Gibson): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 2
+
+Logan Zimmerman: rng1 = 22 + 11 - 8 - 1 = 24
+Strikeout
+Team 2 pitcher (Marcus Washington): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Domingo Matias: rng1 = 56 + 9 - 8 - 1 = 56
+rng2 = 33 + 10 - 8 - 1 = 34
+Groundout
+Team 2 pitcher (Marcus Washington): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Sean Stevens: rng1 = 91 + 6 - 8 - 1 = 88
+Walk
+Team 2 pitcher (Marcus Washington): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Ernesto Fuentes: rng1 = 98 + 16 - 8 - 1 = 105
+rng2 = 83 + 15 - 8 - 1 = 89
+Double
+Team 2 pitcher (Marcus Washington): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-3
+
+Lawrence Webb: rng1 = 73 + 16 - 8 - 1 = 80
+rng2 = 40 + 13 - 8 - 1 = 44
+Single
+Team 2 pitcher (Marcus Washington): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Mateo Estrada: rng1 = 47 + 15 - 8 - 1 = 53
+rng2 = 43 + 17 - 8 - 1 = 51
+Lineout
+Team 2 pitcher (Marcus Washington): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+BOTTOM INNING 2
+
+Christian Mendez: rng1 = 79 + 12 - 9 + 1 = 83
+rng2 = 16 + 10 - 8 + 1 = 19
+Single
+Team 1 pitcher (Rishard Gibson): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Orlando Bradford: rng1 = 94 + 11 - 9 + 1 = 97
+rng2 = 13 + 8 - 8 + 1 = 14
+Single
+Team 1 pitcher (Rishard Gibson): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 0
+
+base1: [7,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 3-3
+
+Tyler Sanders: rng1 = 25 + 10 - 9 + 1 = 27
+Strikeout
+Team 1 pitcher (Rishard Gibson): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 1
+
+base1: [7,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 3-3
+
+Jacobi Davis: rng1 = 77 + 16 - 9 + 1 = 85
+rng2 = 33 + 15 - 8 + 1 = 41
+Single
+Team 1 pitcher (Rishard Gibson): 10 batters faced, 4 runs allowed = 10 + 10.0 = 20.0, outs: 1
+
+base1: [0,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 3-4
+
+Byron Lloyd: rng1 = 96 + 16 - 9 + 1 = 104
+rng2 = 71 + 15 - 8 + 1 = 79
+Triple
+Team 1 pitcher (Rishard Gibson): 11 batters faced, 6 runs allowed = 11 + 15.0 = 26.0, outs: 1
+
+base1: false, base2: false, base3: [1,0]
+base1: false, base2: false, base3: true
+Score: 3-6
+
+Rodney Shaffer: rng1 = 88 + 15 - 9 + 1 = 95
+rng2 = 6 + 12 - 8 + 1 = 11
+Single
+Team 1 pitcher (Rishard Gibson): 12 batters faced, 7 runs allowed = 12 + 17.5 = 29.5, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-7
+
+Kazuhiro Ida: rng1 = 84 + 14 - 9 + 1 = 90
+Walk
+Team 1 pitcher (Rishard Gibson): 13 batters faced, 7 runs allowed = 13 + 17.5 = 30.5, outs: 1
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-7
+
+Guy Nicholson: rng1 = 35 + 13 - 9 + 1 = 40
+rng2 = 37 + 13 - 8 + 1 = 43
+Groundout
+Team 1 pitcher (Rishard Gibson): 14 batters faced, 7 runs allowed = 14 + 17.5 = 31.5, outs: 2
+
+base1: [4,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 3-7
+
+Arturo Trujillo: rng1 = 72 + 13 - 9 + 1 = 77
+rng2 = 28 + 12 - 8 + 1 = 33
+Single
+Team 1 pitcher (Rishard Gibson): 15 batters faced, 8 runs allowed = 15 + 20.0 = 35.0, outs: 2
+
+base1: [5,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 3-8
+
+Christian Mendez: rng1 = 3 + 12 - 9 + 1 = 7
+Strikeout
+Team 1 pitcher (Rishard Gibson): 16 batters faced, 8 runs allowed = 16 + 20.0 = 36.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-8
+
+-----------------------
+
+TOP INNING 3
+
+Rafael Guzman: rng1 = 89 + 14 - 8 - 1 = 94
+rng2 = 84 + 16 - 8 - 1 = 91
+Double
+Team 2 pitcher (Marcus Washington): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 0
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-8
+
+Miguel Castillo: rng1 = 10 + 13 - 8 - 1 = 14
+rng2 = 33 + 12 - 8 - 1 = 36
+Groundout
+Team 2 pitcher (Marcus Washington): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 1
+
+base1: false, base2: false, base3: [3,0]
+base1: false, base2: false, base3: true
+Score: 3-8
+
+Jorge Perez: rng1 = 45 + 13 - 8 - 1 = 49
+rng2 = 14 + 11 - 8 - 1 = 16
+Groundout
+Team 2 pitcher (Marcus Washington): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 2
+
+base1: false, base2: false, base3: [3,0]
+base1: false, base2: false, base3: true
+Score: 3-8
+
+Logan Zimmerman: rng1 = 49 + 11 - 8 - 1 = 51
+rng2 = 95 + 10 - 8 - 1 = 96
+Flyout
+Team 2 pitcher (Marcus Washington): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-8
+
+-----------------------
+
+BOTTOM INNING 3
+
+Team 1 pitcher change to Henry Wright
+
+Orlando Bradford: rng1 = 6 + 11 - 12 + 1 = 6
+Strikeout
+Team 1 pitcher (Henry Wright): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Tyler Sanders: rng1 = 62 + 10 - 12 + 1 = 61
+rng2 = 75 + 8 - 9 + 1 = 75
+Flyout
+Team 1 pitcher (Henry Wright): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Jacobi Davis: rng1 = 58 + 16 - 12 + 1 = 63
+rng2 = 12 + 15 - 9 + 1 = 19
+Groundout
+Team 1 pitcher (Henry Wright): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-8
+
+-----------------------
+
+TOP INNING 4
+
+Domingo Matias: rng1 = 80 + 9 - 8 - 1 = 80
+rng2 = 50 + 10 - 8 - 1 = 51
+Single
+Team 2 pitcher (Marcus Washington): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-8
+
+Sean Stevens: rng1 = 24 + 6 - 8 - 1 = 21
+Strikeout
+Team 2 pitcher (Marcus Washington): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-8
+
+Ernesto Fuentes: rng1 = 58 + 16 - 8 - 1 = 65
+rng2 = 29 + 15 - 8 - 1 = 35
+Groundout
+Team 2 pitcher (Marcus Washington): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 2
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-8
+
+Lawrence Webb: rng1 = 39 + 16 - 8 - 1 = 46
+rng2 = 27 + 13 - 8 - 1 = 31
+Groundout
+Team 2 pitcher (Marcus Washington): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-8
+
+-----------------------
+
+BOTTOM INNING 4
+
+Byron Lloyd: rng1 = 1 + 16 - 12 + 1 = 6
+Strikeout
+Team 1 pitcher (Henry Wright): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Rodney Shaffer: rng1 = 32 + 15 - 12 + 1 = 36
+rng2 = 62 + 12 - 9 + 1 = 66
+Flyout
+Team 1 pitcher (Henry Wright): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Kazuhiro Ida: rng1 = 41 + 14 - 12 + 1 = 44
+rng2 = 30 + 16 - 9 + 1 = 38
+Groundout
+Team 1 pitcher (Henry Wright): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-8
+
+-----------------------
+
+TOP INNING 5
+
+Team 2 pitcher change to Major Ortiz
+
+Mateo Estrada: rng1 = 39 + 15 - 10 - 1 = 43
+rng2 = 99 + 17 - 8 - 1 = 107
+Flyout
+Team 2 pitcher (Major Ortiz): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Rafael Guzman: rng1 = 5 + 14 - 10 - 1 = 8
+Strikeout
+Team 2 pitcher (Major Ortiz): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Miguel Castillo: rng1 = 22 + 13 - 10 - 1 = 24
+Strikeout
+Team 2 pitcher (Major Ortiz): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-8
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Junior Acosta
+
+Guy Nicholson: rng1 = 63 + 13 - 11 + 1 = 66
+rng2 = 72 + 13 - 9 + 1 = 77
+Flyout
+Team 1 pitcher (Junior Acosta): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Arturo Trujillo: rng1 = 93 + 13 - 11 + 1 = 96
+rng2 = 82 + 12 - 9 + 1 = 86
+Double
+Team 1 pitcher (Junior Acosta): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [5,2], base3: false
+base1: false, base2: true, base3: false
+Score: 3-8
+
+Christian Mendez: rng1 = 31 + 12 - 11 + 1 = 33
+rng2 = 26 + 10 - 9 + 1 = 28
+Groundout
+Team 1 pitcher (Junior Acosta): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [5,2], base3: false
+base1: false, base2: true, base3: false
+Score: 3-8
+
+Orlando Bradford: rng1 = 54 + 11 - 11 + 1 = 55
+rng2 = 64 + 8 - 9 + 1 = 64
+Flyout
+Team 1 pitcher (Junior Acosta): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-8
+
+-----------------------
+
+TOP INNING 6
+
+Jorge Perez: rng1 = 2 + 13 - 10 - 1 = 4
+Strikeout
+Team 2 pitcher (Major Ortiz): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Logan Zimmerman: rng1 = 59 + 11 - 10 - 1 = 59
+rng2 = 57 + 10 - 8 - 1 = 58
+Lineout
+Team 2 pitcher (Major Ortiz): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Domingo Matias: rng1 = 60 + 9 - 10 - 1 = 58
+rng2 = 71 + 10 - 8 - 1 = 72
+Flyout
+Team 2 pitcher (Major Ortiz): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-8
+
+-----------------------
+
+BOTTOM INNING 6
+
+Tyler Sanders: rng1 = 51 + 10 - 11 + 1 = 51
+rng2 = 93 + 8 - 9 + 1 = 93
+Flyout
+Team 1 pitcher (Junior Acosta): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Jacobi Davis: rng1 = 2 + 16 - 11 + 1 = 8
+Strikeout
+Team 1 pitcher (Junior Acosta): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Byron Lloyd: rng1 = 40 + 16 - 11 + 1 = 46
+rng2 = 73 + 15 - 9 + 1 = 80
+Flyout
+Team 1 pitcher (Junior Acosta): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-8
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Bradley Weaver
+
+Sean Stevens: rng1 = 36 + 6 - 10 - 1 = 31
+rng2 = 42 + 9 - 13 - 1 = 37
+Groundout
+Team 2 pitcher (Bradley Weaver): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Ernesto Fuentes: rng1 = 51 + 16 - 10 - 1 = 56
+rng2 = 92 + 15 - 13 - 1 = 93
+Flyout
+Team 2 pitcher (Bradley Weaver): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Lawrence Webb: rng1 = 53 + 16 - 10 - 1 = 58
+rng2 = 75 + 13 - 13 - 1 = 74
+Flyout
+Team 2 pitcher (Bradley Weaver): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-8
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Sergio Marmolejos
+
+Rodney Shaffer: rng1 = 58 + 15 - 7 + 1 = 67
+rng2 = 7 + 12 - 9 + 1 = 11
+Groundout
+Team 1 pitcher (Sergio Marmolejos): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Kazuhiro Ida: rng1 = 3 + 14 - 7 + 1 = 11
+rng2 = 88 + 16 - 9 + 1 = 96
+Flyout
+Team 1 pitcher (Sergio Marmolejos): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Guy Nicholson: rng1 = 41 + 13 - 7 + 1 = 48
+rng2 = 58 + 13 - 9 + 1 = 63
+Flyout
+Team 1 pitcher (Sergio Marmolejos): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-8
+
+-----------------------
+
+TOP INNING 8
+
+Mateo Estrada: rng1 = 59 + 15 - 10 - 1 = 63
+rng2 = 32 + 17 - 13 - 1 = 35
+Groundout
+Team 2 pitcher (Bradley Weaver): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Rafael Guzman: rng1 = 46 + 14 - 10 - 1 = 49
+rng2 = 44 + 16 - 13 - 1 = 46
+Groundout
+Team 2 pitcher (Bradley Weaver): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Miguel Castillo: rng1 = 34 + 13 - 10 - 1 = 36
+rng2 = 42 + 12 - 13 - 1 = 40
+Groundout
+Team 2 pitcher (Bradley Weaver): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-8
+
+-----------------------
+
+BOTTOM INNING 8
+
+Arturo Trujillo: rng1 = 53 + 13 - 7 + 1 = 60
+rng2 = 28 + 12 - 9 + 1 = 32
+Groundout
+Team 1 pitcher (Sergio Marmolejos): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Christian Mendez: rng1 = 71 + 12 - 7 + 1 = 77
+rng2 = 6 + 10 - 9 + 1 = 8
+Single
+Team 1 pitcher (Sergio Marmolejos): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [6,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-8
+
+Orlando Bradford: rng1 = 55 + 11 - 7 + 1 = 60
+rng2 = 59 + 8 - 9 + 1 = 59
+Flyout
+Team 1 pitcher (Sergio Marmolejos): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [6,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-8
+
+Tyler Sanders: rng1 = 40 + 10 - 7 + 1 = 44
+rng2 = 60 + 8 - 9 + 1 = 60
+Flyout
+Team 1 pitcher (Sergio Marmolejos): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-8
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Curtis Holmes
+
+Jorge Perez: rng1 = 44 + 13 - 11 - 1 = 45
+rng2 = 61 + 11 - 11 - 1 = 60
+Flyout
+Team 2 pitcher (Curtis Holmes): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Logan Zimmerman: rng1 = 4 + 11 - 11 - 1 = 3
+Strikeout
+Team 2 pitcher (Curtis Holmes): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Domingo Matias: rng1 = 69 + 9 - 11 - 1 = 66
+rng2 = 74 + 10 - 11 - 1 = 72
+Flyout
+Team 2 pitcher (Curtis Holmes): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-8
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 7
+Team 2 hits: 11
+Team 1 runs: 3
+Team 2 runs: 8
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-31
+Ernesto Fuentes	4	2	2	1	0	1	2	0	0					StLouis
+Lawrence Webb	4	0	1	0	0	0	1	0	0	
+Mateo Estrada	4	0	1	0	0	0	0	0	0	
+Rafael Guzman	4	0	2	1	0	0	0	0	1	
+Miguel Castillo	4	0	0	0	0	0	0	0	1	
+Jorge Perez	4	0	0	0	0	0	0	0	1	
+Logan Zimmerman	4	0	0	0	0	0	0	0	2	
+Domingo Matias	4	0	1	0	0	0	0	0	0	
+Sean Stevens	2	1	0	0	0	0	0	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Rishard Gibson	0	1	1	1	0	0	6	9	8	1	1	3	16	
+Henry Wright	0	0	1	0	0	0	6	0	0	0	0	2	6	
+Junior Acosta	0	0	1	0	0	0	6	1	0	0	0	1	7	
+Sergio Marmolejos	0	0	1	0	0	0	6	1	0	0	0	0	7	
+Santiago Rivero	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-31
+Jacobi Davis	4	2	2	0	0	0	1	0	1					Nashville
+Byron Lloyd	4	2	2	0	1	0	2	0	1	
+Rodney Shaffer	4	2	2	0	0	1	4	0	0	
+Kazuhiro Ida	3	0	0	0	0	0	0	1	1	
+Guy Nicholson	4	0	0	0	0	0	0	0	0	
+Arturo Trujillo	4	0	2	1	0	0	1	0	0	
+Christian Mendez	4	1	2	0	0	0	0	0	1	
+Orlando Bradford	4	1	1	0	0	0	0	0	1	
+Tyler Sanders	4	0	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Marcus Washington	1	0	1	1	0	0	12	7	3	1	1	2	20	
+Major Ortiz	0	0	1	0	0	0	6	0	0	0	0	3	6	
+Bradley Weaver	0	0	1	0	0	0	6	0	0	0	0	0	6	
+Curtis Holmes	0	0	1	0	0	0	3	0	0	0	0	1	3	
+Tim Brooks	0	0	0	0	0	0	0	0	0	0	0	0	0	

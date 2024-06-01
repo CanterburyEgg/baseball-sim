@@ -1,0 +1,728 @@
+TOP INNING 1
+
+Diego Vargas: rng1 = 80 + 17 - 8 - 1 = 88
+Walk
+Team 2 pitcher (Aleksandr Petrov): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Trevor Holloway: rng1 = 2 + 12 - 8 - 1 = 5
+Strikeout
+Team 2 pitcher (Aleksandr Petrov): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Quentin Farmer: rng1 = 9 + 11 - 8 - 1 = 11
+rng2 = 60 + 4 - 6 - 1 = 57
+Lineout
+Team 2 pitcher (Aleksandr Petrov): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Chester Hubbard: rng1 = 75 + 9 - 8 - 1 = 75
+rng2 = 58 + 12 - 6 - 1 = 63
+Single
+Team 2 pitcher (Aleksandr Petrov): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [3,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Art Whitaker: rng1 = 54 + 10 - 8 - 1 = 55
+rng2 = 47 + 11 - 6 - 1 = 51
+Lineout
+Team 2 pitcher (Aleksandr Petrov): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Rafael Figueroa: rng1 = 58 + 17 - 9 + 1 = 67
+rng2 = 79 + 13 - 7 + 1 = 86
+Flyout
+Team 1 pitcher (Solomon McCarthy): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Hernan Pereira: rng1 = 69 + 14 - 9 + 1 = 75
+rng2 = 74 + 16 - 7 + 1 = 84
+Home run
+Team 1 pitcher (Solomon McCarthy): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Federico Taveras: rng1 = 50 + 13 - 9 + 1 = 55
+rng2 = 68 + 10 - 7 + 1 = 72
+Flyout
+Team 1 pitcher (Solomon McCarthy): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Omar Shah: rng1 = 64 + 8 - 9 + 1 = 64
+rng2 = 37 + 15 - 7 + 1 = 46
+Groundout
+Team 1 pitcher (Solomon McCarthy): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 2
+
+Bobby King: rng1 = 26 + 5 - 8 - 1 = 22
+Strikeout
+Team 2 pitcher (Aleksandr Petrov): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Joey Greer: rng1 = 45 + 8 - 8 - 1 = 44
+rng2 = 7 + 8 - 6 - 1 = 8
+Groundout
+Team 2 pitcher (Aleksandr Petrov): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Melvin Carlson: rng1 = 10 + 9 - 8 - 1 = 10
+Strikeout
+Team 2 pitcher (Aleksandr Petrov): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Rogelio Rojas: rng1 = 82 + 7 - 9 + 1 = 81
+rng2 = 78 + 9 - 7 + 1 = 81
+Home run
+Team 1 pitcher (Solomon McCarthy): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Francisco Illescas: rng1 = 37 + 8 - 9 + 1 = 37
+rng2 = 37 + 8 - 7 + 1 = 39
+Groundout
+Team 1 pitcher (Solomon McCarthy): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Gerardo Deleon: rng1 = 86 + 10 - 9 + 1 = 88
+Walk
+Team 1 pitcher (Solomon McCarthy): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Chwa Jung-Su: rng1 = 59 + 8 - 9 + 1 = 59
+rng2 = 37 + 7 - 7 + 1 = 38
+Groundout
+Team 1 pitcher (Solomon McCarthy): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-2
+
+Jerónimo Palomar: rng1 = 77 + 6 - 9 + 1 = 75
+rng2 = 42 + 7 - 7 + 1 = 43
+Single
+Team 1 pitcher (Solomon McCarthy): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Rafael Figueroa: rng1 = 57 + 17 - 9 + 1 = 66
+rng2 = 41 + 13 - 7 + 1 = 48
+Lineout
+Team 1 pitcher (Solomon McCarthy): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+TOP INNING 3
+
+Dídac Laguna: rng1 = 99 + 8 - 8 - 1 = 98
+rng2 = 31 + 6 - 6 - 1 = 30
+Single
+Team 2 pitcher (Aleksandr Petrov): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Diego Vargas: rng1 = 10 + 17 - 8 - 1 = 18
+Strikeout
+Team 2 pitcher (Aleksandr Petrov): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Trevor Holloway: rng1 = 39 + 12 - 8 - 1 = 42
+rng2 = 57 + 12 - 6 - 1 = 62
+Flyout
+Team 2 pitcher (Aleksandr Petrov): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Quentin Farmer: rng1 = 2 + 11 - 8 - 1 = 4
+Strikeout
+Team 2 pitcher (Aleksandr Petrov): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+BOTTOM INNING 3
+
+Hernan Pereira: rng1 = 8 + 14 - 9 + 1 = 14
+rng2 = 16 + 16 - 7 + 1 = 26
+Groundout
+Team 1 pitcher (Solomon McCarthy): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Federico Taveras: rng1 = 17 + 13 - 9 + 1 = 22
+Strikeout
+Team 1 pitcher (Solomon McCarthy): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Omar Shah: rng1 = 95 + 8 - 9 + 1 = 95
+rng2 = 96 + 15 - 7 + 1 = 105
+Home run
+Team 1 pitcher (Solomon McCarthy): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Rogelio Rojas: rng1 = 60 + 7 - 9 + 1 = 59
+rng2 = 25 + 9 - 7 + 1 = 28
+Groundout
+Team 1 pitcher (Solomon McCarthy): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+TOP INNING 4
+
+Chester Hubbard: rng1 = 39 + 9 - 8 - 1 = 39
+rng2 = 26 + 12 - 6 - 1 = 31
+Groundout
+Team 2 pitcher (Aleksandr Petrov): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Art Whitaker: rng1 = 18 + 10 - 8 - 1 = 19
+Strikeout
+Team 2 pitcher (Aleksandr Petrov): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Bobby King: rng1 = 52 + 5 - 8 - 1 = 48
+rng2 = 94 + 9 - 6 - 1 = 96
+Flyout
+Team 2 pitcher (Aleksandr Petrov): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+BOTTOM INNING 4
+
+Francisco Illescas: rng1 = 31 + 8 - 9 + 1 = 31
+rng2 = 31 + 8 - 7 + 1 = 33
+Groundout
+Team 1 pitcher (Solomon McCarthy): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Gerardo Deleon: rng1 = 11 + 10 - 9 + 1 = 13
+rng2 = 71 + 7 - 7 + 1 = 72
+Flyout
+Team 1 pitcher (Solomon McCarthy): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Chwa Jung-Su: rng1 = 17 + 8 - 9 + 1 = 17
+Strikeout
+Team 1 pitcher (Solomon McCarthy): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+TOP INNING 5
+
+Joey Greer: rng1 = 5 + 8 - 8 - 1 = 4
+Strikeout
+Team 2 pitcher (Aleksandr Petrov): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Melvin Carlson: rng1 = 29 + 9 - 8 - 1 = 29
+rng2 = 24 + 7 - 6 - 1 = 24
+Groundout
+Team 2 pitcher (Aleksandr Petrov): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Dídac Laguna: rng1 = 11 + 8 - 8 - 1 = 10
+Strikeout
+Team 2 pitcher (Aleksandr Petrov): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+BOTTOM INNING 5
+
+Jerónimo Palomar: rng1 = 94 + 6 - 9 + 1 = 92
+rng2 = 52 + 7 - 7 + 1 = 53
+Single
+Team 1 pitcher (Solomon McCarthy): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Rafael Figueroa: rng1 = 82 + 17 - 9 + 1 = 91
+rng2 = 5 + 13 - 7 + 1 = 12
+Single
+Team 1 pitcher (Solomon McCarthy): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 0
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-4
+
+Hernan Pereira: rng1 = 96 + 14 - 9 + 1 = 102
+rng2 = 84 + 16 - 7 + 1 = 94
+Home run
+Team 1 pitcher (Solomon McCarthy): 20 batters faced, 7 runs allowed = 20 + 17.5 = 37.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-7
+
+Team 1 pitcher change to Hanley Harper
+
+Federico Taveras: rng1 = 21 + 13 - 9 + 1 = 26
+Strikeout
+Team 1 pitcher (Hanley Harper): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-7
+
+Omar Shah: rng1 = 30 + 8 - 9 + 1 = 30
+rng2 = 82 + 15 - 8 + 1 = 90
+Flyout
+Team 1 pitcher (Hanley Harper): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-7
+
+Rogelio Rojas: rng1 = 10 + 7 - 9 + 1 = 9
+Strikeout
+Team 1 pitcher (Hanley Harper): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-7
+
+-----------------------
+
+TOP INNING 6
+
+Diego Vargas: rng1 = 10 + 17 - 8 - 1 = 18
+Strikeout
+Team 2 pitcher (Aleksandr Petrov): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-7
+
+Trevor Holloway: rng1 = 72 + 12 - 8 - 1 = 75
+rng2 = 64 + 12 - 6 - 1 = 69
+Double
+Team 2 pitcher (Aleksandr Petrov): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-7
+
+Quentin Farmer: rng1 = 53 + 11 - 8 - 1 = 55
+rng2 = 19 + 4 - 6 - 1 = 16
+Groundout
+Team 2 pitcher (Aleksandr Petrov): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-7
+
+Chester Hubbard: rng1 = 66 + 9 - 8 - 1 = 66
+rng2 = 54 + 12 - 6 - 1 = 59
+Flyout
+Team 2 pitcher (Aleksandr Petrov): 22 batters faced, 0 runs allowed = 22 + 0.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-7
+
+-----------------------
+
+BOTTOM INNING 6
+
+Francisco Illescas: rng1 = 89 + 8 - 9 + 1 = 89
+Walk
+Team 1 pitcher (Hanley Harper): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-7
+
+Gerardo Deleon: rng1 = 2 + 10 - 9 + 1 = 4
+Strikeout
+Team 1 pitcher (Hanley Harper): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-7
+
+Chwa Jung-Su: rng1 = 55 + 8 - 9 + 1 = 55
+rng2 = 61 + 7 - 8 + 1 = 61
+Flyout
+Team 1 pitcher (Hanley Harper): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-7
+
+Jerónimo Palomar: rng1 = 74 + 6 - 9 + 1 = 72
+Walk
+Team 1 pitcher (Hanley Harper): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [8,1], base2: [5,1], base3: false
+base1: true, base2: true, base3: false
+Score: 0-7
+
+Rafael Figueroa: rng1 = 1 + 17 - 9 + 1 = 10
+Strikeout
+Team 1 pitcher (Hanley Harper): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-7
+
+-----------------------
+
+TOP INNING 7
+
+Art Whitaker: rng1 = 40 + 10 - 8 - 1 = 41
+rng2 = 33 + 11 - 6 - 1 = 37
+Groundout
+Team 2 pitcher (Aleksandr Petrov): 23 batters faced, 0 runs allowed = 23 + 0.0 = 23.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-7
+
+Bobby King: rng1 = 2 + 5 - 8 - 1 = -2
+Strikeout
+Team 2 pitcher (Aleksandr Petrov): 24 batters faced, 0 runs allowed = 24 + 0.0 = 24.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-7
+
+Joey Greer: rng1 = 7 + 8 - 8 - 1 = 6
+Strikeout
+Team 2 pitcher (Aleksandr Petrov): 25 batters faced, 0 runs allowed = 25 + 0.0 = 25.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-7
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Jacob Wallace
+
+Hernan Pereira: rng1 = 72 + 14 - 10 + 1 = 77
+rng2 = 19 + 16 - 7 + 1 = 29
+Single
+Team 1 pitcher (Jacob Wallace): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-7
+
+Federico Taveras: rng1 = 17 + 13 - 10 + 1 = 21
+Strikeout
+Team 1 pitcher (Jacob Wallace): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-7
+
+Omar Shah: rng1 = 15 + 8 - 10 + 1 = 14
+rng2 = 3 + 15 - 7 + 1 = 12
+Groundout
+Team 1 pitcher (Jacob Wallace): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [1,2], base3: false
+base1: false, base2: true, base3: false
+Score: 0-7
+
+Rogelio Rojas: rng1 = 11 + 7 - 10 + 1 = 9
+Strikeout
+Team 1 pitcher (Jacob Wallace): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-7
+
+-----------------------
+
+TOP INNING 8
+
+Melvin Carlson: rng1 = 34 + 9 - 8 - 1 = 34
+rng2 = 49 + 7 - 6 - 1 = 49
+Lineout
+Team 2 pitcher (Aleksandr Petrov): 26 batters faced, 0 runs allowed = 26 + 0.0 = 26.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-7
+
+Dídac Laguna: rng1 = 44 + 8 - 8 - 1 = 43
+rng2 = 32 + 6 - 6 - 1 = 31
+Groundout
+Team 2 pitcher (Aleksandr Petrov): 27 batters faced, 0 runs allowed = 27 + 0.0 = 27.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-7
+
+Diego Vargas: rng1 = 12 + 17 - 8 - 1 = 20
+Strikeout
+Team 2 pitcher (Aleksandr Petrov): 28 batters faced, 0 runs allowed = 28 + 0.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-7
+
+-----------------------
+
+BOTTOM INNING 8
+
+Francisco Illescas: rng1 = 10 + 8 - 10 + 1 = 9
+Strikeout
+Team 1 pitcher (Jacob Wallace): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-7
+
+Gerardo Deleon: rng1 = 60 + 10 - 10 + 1 = 61
+rng2 = 6 + 7 - 7 + 1 = 7
+Groundout
+Team 1 pitcher (Jacob Wallace): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-7
+
+Chwa Jung-Su: rng1 = 97 + 8 - 10 + 1 = 96
+rng2 = 41 + 7 - 7 + 1 = 42
+Single
+Team 1 pitcher (Jacob Wallace): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-7
+
+Jerónimo Palomar: rng1 = 92 + 6 - 10 + 1 = 89
+Walk
+Team 1 pitcher (Jacob Wallace): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [8,2], base2: [7,2], base3: false
+base1: true, base2: true, base3: false
+Score: 0-7
+
+Rafael Figueroa: rng1 = 88 + 17 - 10 + 1 = 96
+rng2 = 14 + 13 - 7 + 1 = 21
+Single
+Team 1 pitcher (Jacob Wallace): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [0,2], base2: false, base3: [8,2]
+base1: true, base2: false, base3: true
+Score: 0-8
+
+Team 1 pitcher change to Mitch Boyd
+
+Hernan Pereira: rng1 = 99 + 14 - 15 + 1 = 99
+rng2 = 22 + 16 - 11 + 1 = 28
+Single
+Team 1 pitcher (Mitch Boyd): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [1,3], base2: [0,2], base3: false
+base1: true, base2: true, base3: false
+Score: 0-9
+
+Federico Taveras: rng1 = 61 + 13 - 15 + 1 = 60
+rng2 = 87 + 10 - 11 + 1 = 87
+Flyout
+Team 1 pitcher (Mitch Boyd): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-9
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Dario Peralta
+
+Trevor Holloway: rng1 = 93 + 12 - 10 - 1 = 94
+rng2 = 91 + 12 - 11 - 1 = 91
+Double
+Team 2 pitcher (Dario Peralta): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [1,1], base3: false
+base1: false, base2: true, base3: false
+Score: 0-9
+
+Quentin Farmer: rng1 = 98 + 11 - 10 - 1 = 98
+rng2 = 62 + 4 - 11 - 1 = 54
+Single
+Team 2 pitcher (Dario Peralta): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-9
+
+Chester Hubbard: rng1 = 96 + 9 - 10 - 1 = 94
+rng2 = 78 + 12 - 11 - 1 = 78
+Double
+Team 2 pitcher (Dario Peralta): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 0
+
+base1: false, base2: [3,1], base3: [2,1]
+base1: false, base2: true, base3: true
+Score: 1-9
+
+Art Whitaker: rng1 = 25 + 10 - 10 - 1 = 24
+Strikeout
+Team 2 pitcher (Dario Peralta): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: false, base2: [3,1], base3: [2,1]
+base1: false, base2: true, base3: true
+Score: 1-9
+
+Bobby King: rng1 = 11 + 5 - 10 - 1 = 5
+Strikeout
+Team 2 pitcher (Dario Peralta): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: false, base2: [3,1], base3: [2,1]
+base1: false, base2: true, base3: true
+Score: 1-9
+
+Joey Greer: rng1 = 11 + 8 - 10 - 1 = 8
+Strikeout
+Team 2 pitcher (Dario Peralta): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-9
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 6
+Team 2 hits: 11
+Team 1 runs: 1
+Team 2 runs: 9
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-31
+Diego Vargas	3	0	0	0	0	0	0	1	3					Milwaukee
+Trevor Holloway	4	1	2	2	0	0	0	0	1	
+Quentin Farmer	4	0	1	0	0	0	1	0	1	
+Chester Hubbard	4	0	2	1	0	0	0	0	0	
+Art Whitaker	4	0	0	0	0	0	0	0	2	
+Bobby King	4	0	0	0	0	0	0	0	3	
+Joey Greer	4	0	0	0	0	0	0	0	3	
+Melvin Carlson	3	0	0	0	0	0	0	0	1	
+Dídac Laguna	3	0	1	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Solomon McCarthy	0	1	1	1	0	0	12	7	7	4	1	2	20	
+Hanley Harper	0	0	1	0	0	0	6	0	0	0	2	4	8	
+Jacob Wallace	0	0	1	0	0	0	5	3	2	0	1	3	9	
+Mitch Boyd	0	0	1	0	0	0	1	1	0	0	0	0	2	
+Arturo Espinoza	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-31
+Rafael Figueroa	5	1	2	0	0	0	1	0	1					Cleveland
+Hernan Pereira	5	2	4	0	0	2	5	0	0	
+Federico Taveras	5	0	0	0	0	0	0	0	3	
+Omar Shah	4	1	1	0	0	1	1	0	0	
+Rogelio Rojas	4	1	1	0	0	1	1	0	2	
+Francisco Illescas	3	0	0	0	0	0	0	1	1	
+Gerardo Deleon	3	1	0	0	0	0	0	1	1	
+Chwa Jung-Su	4	1	1	0	0	0	0	0	1	
+Jerónimo Palomar	2	2	2	0	0	0	1	2	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Aleksandr Petrov	1	0	1	1	0	0	24	3	0	0	1	12	28	
+Dario Peralta	0	0	1	0	0	0	3	3	1	0	0	3	6	
+Sidney Petersen	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Jaime Espinosa	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Ernesto Salazar	0	0	0	0	0	0	0	0	0	0	0	0	0	

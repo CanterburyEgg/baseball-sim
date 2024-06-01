@@ -1,0 +1,807 @@
+TOP INNING 1
+
+Rafael Figueroa: rng1 = 94 + 17 - 8 - 1 = 102
+rng2 = 17 + 13 - 7 - 1 = 22
+Single
+Team 2 pitcher (Ed WoOFe): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Hernan Pereira: rng1 = 96 + 14 - 8 - 1 = 101
+rng2 = 40 + 16 - 7 - 1 = 48
+Single
+Team 2 pitcher (Ed WoOFe): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Federico Taveras: rng1 = 72 + 13 - 8 - 1 = 76
+rng2 = 89 + 10 - 7 - 1 = 91
+Double
+Team 2 pitcher (Ed WoOFe): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 0
+
+base1: false, base2: [2,0], base3: [1,0]
+base1: false, base2: true, base3: true
+Score: 1-0
+
+Omar Shah: rng1 = 40 + 8 - 8 - 1 = 39
+rng2 = 51 + 15 - 7 - 1 = 58
+Lineout
+Team 2 pitcher (Ed WoOFe): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: false, base2: [2,0], base3: [1,0]
+base1: false, base2: true, base3: true
+Score: 1-0
+
+Rogelio Rojas: rng1 = 98 + 7 - 8 - 1 = 96
+rng2 = 55 + 9 - 7 - 1 = 56
+Single
+Team 2 pitcher (Ed WoOFe): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Francisco Illescas: rng1 = 75 + 8 - 8 - 1 = 74
+rng2 = 20 + 8 - 7 - 1 = 20
+Single
+Team 2 pitcher (Ed WoOFe): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 1
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-0
+
+Gerardo Deleon: rng1 = 33 + 10 - 8 - 1 = 34
+rng2 = 67 + 7 - 7 - 1 = 66
+Flyout
+Team 2 pitcher (Ed WoOFe): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 2
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-0
+
+Chwa Jung-Su: rng1 = 61 + 8 - 8 - 1 = 60
+rng2 = 64 + 7 - 7 - 1 = 63
+Flyout
+Team 2 pitcher (Ed WoOFe): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Ashraf Saad: rng1 = 94 + 14 - 8 + 1 = 101
+rng2 = 48 + 12 - 6 + 1 = 55
+Single
+Team 1 pitcher (Aleksandr Petrov): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Vicente Uribe: rng1 = 34 + 12 - 8 + 1 = 39
+rng2 = 52 + 12 - 6 + 1 = 59
+Flyout
+Team 1 pitcher (Aleksandr Petrov): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Drew Briggs: rng1 = 20 + 12 - 8 + 1 = 25
+Strikeout
+Team 1 pitcher (Aleksandr Petrov): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Travis Nichols: rng1 = 74 + 11 - 8 + 1 = 78
+rng2 = 73 + 11 - 6 + 1 = 79
+Triple
+Team 1 pitcher (Aleksandr Petrov): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: false, base3: [3,0]
+base1: false, base2: false, base3: true
+Score: 3-1
+
+David Hunter: rng1 = 4 + 8 - 8 + 1 = 5
+Strikeout
+Team 1 pitcher (Aleksandr Petrov): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+TOP INNING 2
+
+Jerónimo Palomar: rng1 = 98 + 6 - 8 - 1 = 95
+rng2 = 41 + 7 - 7 - 1 = 40
+Single
+Team 2 pitcher (Ed WoOFe): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Rafael Figueroa: rng1 = 19 + 17 - 8 - 1 = 27
+Strikeout
+Team 2 pitcher (Ed WoOFe): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Hernan Pereira: rng1 = 68 + 14 - 8 - 1 = 73
+rng2 = 54 + 16 - 7 - 1 = 62
+Single
+Team 2 pitcher (Ed WoOFe): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 1
+
+base1: [1,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-1
+
+Federico Taveras: rng1 = 29 + 13 - 8 - 1 = 33
+rng2 = 32 + 10 - 7 - 1 = 34
+Groundout
+Team 2 pitcher (Ed WoOFe): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 2
+
+base1: [2,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 3-1
+
+Omar Shah: rng1 = 76 + 8 - 8 - 1 = 75
+rng2 = 45 + 15 - 7 - 1 = 52
+Single
+Team 2 pitcher (Ed WoOFe): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 2
+
+base1: [3,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 4-1
+
+Rogelio Rojas: rng1 = 14 + 7 - 8 - 1 = 12
+rng2 = 13 + 9 - 7 - 1 = 14
+Groundout
+Team 2 pitcher (Ed WoOFe): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Pierre Moreau: rng1 = 30 + 9 - 8 + 1 = 32
+rng2 = 50 + 8 - 6 + 1 = 53
+Lineout
+Team 1 pitcher (Aleksandr Petrov): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Tyrone Morton: rng1 = 98 + 9 - 8 + 1 = 100
+rng2 = 75 + 8 - 6 + 1 = 78
+Double
+Team 1 pitcher (Aleksandr Petrov): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-1
+
+Moises Bolivar: rng1 = 76 + 8 - 8 + 1 = 77
+rng2 = 57 + 8 - 6 + 1 = 60
+Single
+Team 1 pitcher (Aleksandr Petrov): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-2
+
+Evan Hudson: rng1 = 75 + 7 - 8 + 1 = 75
+rng2 = 71 + 8 - 6 + 1 = 74
+Double
+Team 1 pitcher (Aleksandr Petrov): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 1
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-3
+
+Ashraf Saad: rng1 = 83 + 14 - 8 + 1 = 90
+Walk
+Team 1 pitcher (Aleksandr Petrov): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 1
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 4-3
+
+Vicente Uribe: rng1 = 87 + 12 - 8 + 1 = 92
+rng2 = 9 + 12 - 6 + 1 = 16
+Single
+Team 1 pitcher (Aleksandr Petrov): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 1
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 4-4
+
+Drew Briggs: rng1 = 94 + 12 - 8 + 1 = 99
+rng2 = 36 + 9 - 6 + 1 = 40
+Single
+Team 1 pitcher (Aleksandr Petrov): 12 batters faced, 5 runs allowed = 12 + 12.5 = 24.5, outs: 1
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 4-5
+
+Travis Nichols: rng1 = 23 + 11 - 8 + 1 = 27
+Strikeout
+Team 1 pitcher (Aleksandr Petrov): 13 batters faced, 5 runs allowed = 13 + 12.5 = 25.5, outs: 2
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 4-5
+
+David Hunter: rng1 = 3 + 8 - 8 + 1 = 4
+Strikeout
+Team 1 pitcher (Aleksandr Petrov): 14 batters faced, 5 runs allowed = 14 + 12.5 = 26.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-5
+
+-----------------------
+
+TOP INNING 3
+
+Francisco Illescas: rng1 = 51 + 8 - 8 - 1 = 50
+rng2 = 65 + 8 - 7 - 1 = 65
+Flyout
+Team 2 pitcher (Ed WoOFe): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-5
+
+Gerardo Deleon: rng1 = 68 + 10 - 8 - 1 = 69
+rng2 = 34 + 7 - 7 - 1 = 33
+Groundout
+Team 2 pitcher (Ed WoOFe): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-5
+
+Chwa Jung-Su: rng1 = 32 + 8 - 8 - 1 = 31
+rng2 = 90 + 7 - 7 - 1 = 89
+Flyout
+Team 2 pitcher (Ed WoOFe): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-5
+
+-----------------------
+
+BOTTOM INNING 3
+
+Pierre Moreau: rng1 = 86 + 9 - 8 + 1 = 88
+Walk
+Team 1 pitcher (Aleksandr Petrov): 15 batters faced, 5 runs allowed = 15 + 12.5 = 27.5, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-5
+
+Tyrone Morton: rng1 = 55 + 9 - 8 + 1 = 57
+rng2 = 38 + 8 - 6 + 1 = 41
+Groundout
+Team 1 pitcher (Aleksandr Petrov): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 1
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-5
+
+Moises Bolivar: rng1 = 83 + 8 - 8 + 1 = 84
+rng2 = 77 + 8 - 6 + 1 = 80
+Home run
+Team 1 pitcher (Aleksandr Petrov): 17 batters faced, 7 runs allowed = 17 + 17.5 = 34.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-7
+
+Evan Hudson: rng1 = 93 + 7 - 8 + 1 = 93
+rng2 = 26 + 8 - 6 + 1 = 29
+Single
+Team 1 pitcher (Aleksandr Petrov): 18 batters faced, 7 runs allowed = 18 + 17.5 = 35.5, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-7
+
+Team 1 pitcher change to Sidney Petersen
+
+Ashraf Saad: rng1 = 68 + 14 - 9 + 1 = 74
+rng2 = 41 + 12 - 8 + 1 = 46
+Single
+Team 1 pitcher (Sidney Petersen): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: [0,1], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 4-7
+
+Vicente Uribe: rng1 = 33 + 12 - 9 + 1 = 37
+rng2 = 78 + 12 - 8 + 1 = 83
+Flyout
+Team 1 pitcher (Sidney Petersen): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-8
+
+Drew Briggs: rng1 = 5 + 12 - 9 + 1 = 9
+Strikeout
+Team 1 pitcher (Sidney Petersen): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-8
+
+-----------------------
+
+TOP INNING 4
+
+Jerónimo Palomar: rng1 = 71 + 6 - 8 - 1 = 68
+rng2 = 46 + 7 - 7 - 1 = 45
+Groundout
+Team 2 pitcher (Ed WoOFe): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-8
+
+Rafael Figueroa: rng1 = 30 + 17 - 8 - 1 = 38
+rng2 = 71 + 13 - 7 - 1 = 76
+Flyout
+Team 2 pitcher (Ed WoOFe): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-8
+
+Hernan Pereira: rng1 = 3 + 14 - 8 - 1 = 8
+Strikeout
+Team 2 pitcher (Ed WoOFe): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-8
+
+-----------------------
+
+BOTTOM INNING 4
+
+Travis Nichols: rng1 = 8 + 11 - 9 + 1 = 11
+rng2 = 52 + 11 - 8 + 1 = 56
+Lineout
+Team 1 pitcher (Sidney Petersen): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-8
+
+David Hunter: rng1 = 25 + 8 - 9 + 1 = 25
+Strikeout
+Team 1 pitcher (Sidney Petersen): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-8
+
+Pierre Moreau: rng1 = 47 + 9 - 9 + 1 = 48
+rng2 = 55 + 8 - 8 + 1 = 56
+Lineout
+Team 1 pitcher (Sidney Petersen): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-8
+
+-----------------------
+
+TOP INNING 5
+
+Team 2 pitcher change to Lance Kirby
+
+Federico Taveras: rng1 = 57 + 13 - 13 - 1 = 56
+rng2 = 75 + 10 - 13 - 1 = 71
+Flyout
+Team 2 pitcher (Lance Kirby): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-8
+
+Omar Shah: rng1 = 42 + 8 - 13 - 1 = 36
+rng2 = 32 + 15 - 13 - 1 = 33
+Groundout
+Team 2 pitcher (Lance Kirby): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-8
+
+Rogelio Rojas: rng1 = 6 + 7 - 13 - 1 = -1
+Strikeout
+Team 2 pitcher (Lance Kirby): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-8
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Dario Peralta
+
+Tyrone Morton: rng1 = 1 + 9 - 10 + 1 = 1
+Strikeout
+Team 1 pitcher (Dario Peralta): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-8
+
+Moises Bolivar: rng1 = 35 + 8 - 10 + 1 = 34
+rng2 = 43 + 8 - 11 + 1 = 41
+Groundout
+Team 1 pitcher (Dario Peralta): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-8
+
+Evan Hudson: rng1 = 62 + 7 - 10 + 1 = 60
+rng2 = 25 + 8 - 11 + 1 = 23
+Groundout
+Team 1 pitcher (Dario Peralta): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-8
+
+-----------------------
+
+TOP INNING 6
+
+Francisco Illescas: rng1 = 44 + 8 - 13 - 1 = 38
+rng2 = 87 + 8 - 13 - 1 = 81
+Flyout
+Team 2 pitcher (Lance Kirby): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-8
+
+Gerardo Deleon: rng1 = 36 + 10 - 13 - 1 = 32
+rng2 = 26 + 7 - 13 - 1 = 19
+Groundout
+Team 2 pitcher (Lance Kirby): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-8
+
+Chwa Jung-Su: rng1 = 1 + 8 - 13 - 1 = -5
+Strikeout
+Team 2 pitcher (Lance Kirby): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-8
+
+-----------------------
+
+BOTTOM INNING 6
+
+Ashraf Saad: rng1 = 66 + 14 - 10 + 1 = 71
+Walk
+Team 1 pitcher (Dario Peralta): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [0,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-8
+
+Vicente Uribe: rng1 = 85 + 12 - 10 + 1 = 88
+Walk
+Team 1 pitcher (Dario Peralta): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [1,2], base2: [0,2], base3: false
+base1: true, base2: true, base3: false
+Score: 4-8
+
+Drew Briggs: rng1 = 22 + 12 - 10 + 1 = 25
+Strikeout
+Team 1 pitcher (Dario Peralta): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [1,2], base2: [0,2], base3: false
+base1: true, base2: true, base3: false
+Score: 4-8
+
+Travis Nichols: rng1 = 12 + 11 - 10 + 1 = 14
+rng2 = 18 + 11 - 11 + 1 = 19
+Groundout
+Team 1 pitcher (Dario Peralta): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-8
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Rob Bowman
+
+Jerónimo Palomar: rng1 = 8 + 6 - 11 - 1 = 2
+Strikeout
+Team 2 pitcher (Rob Bowman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-8
+
+Rafael Figueroa: rng1 = 12 + 17 - 11 - 1 = 17
+Strikeout
+Team 2 pitcher (Rob Bowman): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-8
+
+Hernan Pereira: rng1 = 93 + 14 - 11 - 1 = 95
+rng2 = 63 + 16 - 14 - 1 = 64
+Single
+Team 2 pitcher (Rob Bowman): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-8
+
+Federico Taveras: rng1 = 94 + 13 - 11 - 1 = 95
+rng2 = 44 + 10 - 14 - 1 = 39
+Single
+Team 2 pitcher (Rob Bowman): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [2,2], base2: false, base3: [1,2]
+base1: true, base2: false, base3: true
+Score: 4-8
+
+Omar Shah: rng1 = 98 + 8 - 11 - 1 = 94
+rng2 = 45 + 15 - 14 - 1 = 45
+Single
+Team 2 pitcher (Rob Bowman): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [3,2], base2: [2,2], base3: false
+base1: true, base2: true, base3: false
+Score: 5-8
+
+Rogelio Rojas: rng1 = 15 + 7 - 11 - 1 = 10
+Strikeout
+Team 2 pitcher (Rob Bowman): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-8
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Jaime Espinosa
+
+David Hunter: rng1 = 98 + 8 - 10 + 1 = 97
+rng2 = 27 + 9 - 6 + 1 = 31
+Single
+Team 1 pitcher (Jaime Espinosa): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [4,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-8
+
+Pierre Moreau: rng1 = 98 + 9 - 10 + 1 = 98
+rng2 = 1 + 8 - 6 + 1 = 4
+Single
+Team 1 pitcher (Jaime Espinosa): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [5,3], base2: [4,3], base3: false
+base1: true, base2: true, base3: false
+Score: 5-8
+
+Tyrone Morton: rng1 = 42 + 9 - 10 + 1 = 42
+rng2 = 66 + 8 - 6 + 1 = 69
+Flyout
+Team 1 pitcher (Jaime Espinosa): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [5,3], base2: false, base3: [4,3]
+base1: true, base2: false, base3: true
+Score: 5-8
+
+Moises Bolivar: rng1 = 81 + 8 - 10 + 1 = 80
+rng2 = 52 + 8 - 6 + 1 = 55
+Single
+Team 1 pitcher (Jaime Espinosa): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [7,3], base2: [5,3], base3: false
+base1: true, base2: true, base3: false
+Score: 5-9
+
+Evan Hudson: rng1 = 64 + 7 - 10 + 1 = 62
+rng2 = 21 + 8 - 6 + 1 = 24
+Groundout
+Team 1 pitcher (Jaime Espinosa): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-9
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Alfonso Juarez
+
+Francisco Illescas: rng1 = 80 + 8 - 10 - 1 = 77
+rng2 = 82 + 8 - 13 - 1 = 76
+Double
+Team 2 pitcher (Alfonso Juarez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [5,3], base3: false
+base1: false, base2: true, base3: false
+Score: 5-9
+
+Gerardo Deleon: rng1 = 10 + 10 - 10 - 1 = 9
+Strikeout
+Team 2 pitcher (Alfonso Juarez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [5,3], base3: false
+base1: false, base2: true, base3: false
+Score: 5-9
+
+Chwa Jung-Su: rng1 = 96 + 8 - 10 - 1 = 93
+rng2 = 77 + 7 - 13 - 1 = 70
+Double
+Team 2 pitcher (Alfonso Juarez): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [7,3], base3: false
+base1: false, base2: true, base3: false
+Score: 6-9
+
+Jerónimo Palomar: rng1 = 73 + 6 - 10 - 1 = 68
+rng2 = 81 + 7 - 13 - 1 = 74
+Flyout
+Team 2 pitcher (Alfonso Juarez): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: false, base3: [7,3]
+base1: false, base2: false, base3: true
+Score: 6-9
+
+Rafael Figueroa: rng1 = 33 + 17 - 10 - 1 = 39
+rng2 = 99 + 13 - 13 - 1 = 98
+Flyout
+Team 2 pitcher (Alfonso Juarez): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-9
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Ernesto Salazar
+
+Ashraf Saad: rng1 = 30 + 14 - 14 + 1 = 31
+rng2 = 22 + 12 - 8 + 1 = 27
+Groundout
+Team 1 pitcher (Ernesto Salazar): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-9
+
+Vicente Uribe: rng1 = 38 + 12 - 14 + 1 = 37
+rng2 = 93 + 12 - 8 + 1 = 98
+Flyout
+Team 1 pitcher (Ernesto Salazar): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-9
+
+Drew Briggs: rng1 = 35 + 12 - 14 + 1 = 34
+rng2 = 48 + 9 - 8 + 1 = 50
+Lineout
+Team 1 pitcher (Ernesto Salazar): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-9
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Rex Burnett
+
+Hernan Pereira: rng1 = 78 + 14 - 13 - 1 = 78
+rng2 = 88 + 16 - 15 - 1 = 88
+Double
+Team 2 pitcher (Rex Burnett): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [1,4], base3: false
+base1: false, base2: true, base3: false
+Score: 6-9
+
+Federico Taveras: rng1 = 65 + 13 - 13 - 1 = 64
+rng2 = 33 + 10 - 15 - 1 = 27
+Groundout
+Team 2 pitcher (Rex Burnett): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: [1,4]
+base1: false, base2: false, base3: true
+Score: 6-9
+
+Omar Shah: rng1 = 67 + 8 - 13 - 1 = 61
+rng2 = 65 + 15 - 15 - 1 = 64
+Flyout
+Team 2 pitcher (Rex Burnett): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-9
+
+Rogelio Rojas: rng1 = 23 + 7 - 13 - 1 = 16
+Strikeout
+Team 2 pitcher (Rex Burnett): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-9
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 14
+Team 2 hits: 13
+Team 1 runs: 7
+Team 2 runs: 9
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-31
+Rafael Figueroa	5	1	1	0	0	0	0	0	2					Cleveland
+Hernan Pereira	5	3	4	1	0	0	0	0	1	
+Federico Taveras	5	1	2	1	0	0	1	0	0	
+Omar Shah	5	0	2	0	0	0	3	0	0	
+Rogelio Rojas	5	0	1	0	0	0	2	0	3	
+Francisco Illescas	4	1	2	1	0	0	0	0	0	
+Gerardo Deleon	4	0	0	0	0	0	0	0	1	
+Chwa Jung-Su	4	0	1	1	0	0	1	0	1	
+Jerónimo Palomar	4	1	1	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Aleksandr Petrov	0	1	1	1	0	0	7	9	8	1	2	4	18	
+Sidney Petersen	0	0	1	0	0	0	5	1	0	0	0	2	6	
+Dario Peralta	0	0	1	0	0	0	6	0	0	0	2	2	7	
+Jaime Espinosa	0	0	1	0	0	0	3	3	1	0	0	0	5	
+Ernesto Salazar	0	0	1	0	0	0	3	0	0	0	0	0	3	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-31
+Ashraf Saad	3	2	2	0	0	0	0	2	0					NewHaven
+Vicente Uribe	4	0	1	0	0	0	2	1	0	
+Drew Briggs	5	0	1	0	0	0	1	0	3	
+Travis Nichols	4	0	1	0	1	0	1	0	1	
+David Hunter	4	1	1	0	0	0	0	0	3	
+Pierre Moreau	3	1	1	0	0	0	0	1	0	
+Tyrone Morton	4	1	1	1	0	0	0	0	1	
+Moises Bolivar	4	2	3	0	0	1	4	0	0	
+Evan Hudson	4	2	2	1	0	0	1	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Ed WoOFe	1	0	1	1	0	0	12	8	4	0	0	2	20	
+Lance Kirby	0	0	1	0	0	0	6	0	0	0	0	2	6	
+Rob Bowman	0	0	1	0	0	0	3	3	1	0	0	3	6	
+Alfonso Juarez	0	0	1	0	0	0	3	2	1	0	0	1	5	
+Rex Burnett	0	0	1	0	1	1	3	1	1	0	0	1	4	

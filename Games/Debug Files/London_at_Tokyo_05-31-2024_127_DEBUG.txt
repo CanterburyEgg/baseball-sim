@@ -1,0 +1,974 @@
+TOP INNING 1
+
+Toshio Hayashi: rng1 = 74 + 15 - 9 - 1 = 79
+rng2 = 90 + 10 - 6 - 1 = 93
+Triple
+Team 2 pitcher (Marco Bravo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: false, base3: [0,0]
+base1: false, base2: false, base3: true
+Score: 0-0
+
+Alex Diaz: rng1 = 65 + 13 - 9 - 1 = 68
+rng2 = 77 + 10 - 6 - 1 = 80
+Flyout
+Team 2 pitcher (Marco Bravo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: [0,0]
+base1: false, base2: false, base3: true
+Score: 0-0
+
+Phil Hill: rng1 = 74 + 10 - 9 - 1 = 74
+rng2 = 19 + 7 - 6 - 1 = 19
+Single
+Team 2 pitcher (Marco Bravo): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Joseph Porter: rng1 = 48 + 6 - 9 - 1 = 44
+rng2 = 67 + 9 - 6 - 1 = 69
+Flyout
+Team 2 pitcher (Marco Bravo): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Juan Reyes: rng1 = 10 + 8 - 9 - 1 = 8
+Strikeout
+Team 2 pitcher (Marco Bravo): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Terrence Wise: rng1 = 73 + 15 - 8 + 1 = 81
+rng2 = 7 + 9 - 7 + 1 = 10
+Single
+Team 1 pitcher (Jose Cruz): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Clayton Massey: rng1 = 96 + 13 - 8 + 1 = 102
+rng2 = 97 + 8 - 7 + 1 = 99
+Home run
+Team 1 pitcher (Jose Cruz): 2 batters faced, 2 runs allowed = 2 + 5.0 = 7.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Ellis Lindsey: rng1 = 27 + 9 - 8 + 1 = 29
+rng2 = 4 + 16 - 7 + 1 = 14
+Groundout
+Team 1 pitcher (Jose Cruz): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Brian Woods: rng1 = 47 + 5 - 8 + 1 = 45
+rng2 = 26 + 11 - 7 + 1 = 31
+Groundout
+Team 1 pitcher (Jose Cruz): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Joaquín Laguna: rng1 = 48 + 7 - 8 + 1 = 48
+rng2 = 71 + 9 - 7 + 1 = 74
+Flyout
+Team 1 pitcher (Jose Cruz): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 2
+
+Jeffery Sims: rng1 = 99 + 8 - 9 - 1 = 97
+rng2 = 61 + 8 - 6 - 1 = 62
+Single
+Team 2 pitcher (Marco Bravo): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Estefania Espina: rng1 = 51 + 8 - 9 - 1 = 49
+rng2 = 64 + 8 - 6 - 1 = 65
+Flyout
+Team 2 pitcher (Marco Bravo): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Dwayne Wilkinson: rng1 = 43 + 10 - 9 - 1 = 43
+rng2 = 98 + 6 - 6 - 1 = 97
+Flyout
+Team 2 pitcher (Marco Bravo): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Agustin Torres: rng1 = 88 + 6 - 9 - 1 = 84
+rng2 = 72 + 8 - 6 - 1 = 73
+Double
+Team 2 pitcher (Marco Bravo): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: false, base2: [8,0], base3: [5,0]
+base1: false, base2: true, base3: true
+Score: 1-2
+
+Toshio Hayashi: rng1 = 54 + 15 - 9 - 1 = 59
+rng2 = 70 + 10 - 6 - 1 = 73
+Flyout
+Team 2 pitcher (Marco Bravo): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 2
+
+Alex Carpenter: rng1 = 55 + 7 - 8 + 1 = 55
+rng2 = 39 + 9 - 7 + 1 = 42
+Groundout
+Team 1 pitcher (Jose Cruz): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Adalberto Smith: rng1 = 23 + 6 - 8 + 1 = 22
+Strikeout
+Team 1 pitcher (Jose Cruz): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Agustín Molina: rng1 = 81 + 7 - 8 + 1 = 81
+rng2 = 41 + 8 - 7 + 1 = 43
+Single
+Team 1 pitcher (Jose Cruz): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Santino Reyes: rng1 = 45 + 7 - 8 + 1 = 45
+rng2 = 30 + 8 - 7 + 1 = 32
+Groundout
+Team 1 pitcher (Jose Cruz): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 3
+
+Alex Diaz: rng1 = 67 + 13 - 9 - 1 = 70
+Walk
+Team 2 pitcher (Marco Bravo): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Phil Hill: rng1 = 97 + 10 - 9 - 1 = 97
+rng2 = 43 + 7 - 6 - 1 = 43
+Single
+Team 2 pitcher (Marco Bravo): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 0
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-2
+
+Joseph Porter: rng1 = 23 + 6 - 9 - 1 = 19
+Strikeout
+Team 2 pitcher (Marco Bravo): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-2
+
+Juan Reyes: rng1 = 91 + 8 - 9 - 1 = 89
+Walk
+Team 2 pitcher (Marco Bravo): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 1
+
+base1: [4,0], base2: [2,0], base3: [1,0]
+base1: true, base2: true, base3: true
+Score: 1-2
+
+Jeffery Sims: rng1 = 74 + 8 - 9 - 1 = 72
+Walk
+Team 2 pitcher (Marco Bravo): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 1
+
+base1: [5,0], base2: [4,0], base3: [2,0]
+base1: true, base2: true, base3: true
+Score: 2-2
+
+Estefania Espina: rng1 = 48 + 8 - 9 - 1 = 46
+rng2 = 9 + 8 - 6 - 1 = 10
+Groundout
+Team 2 pitcher (Marco Bravo): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 2
+
+base1: false, base2: [5,0], base3: [4,0]
+base1: false, base2: true, base3: true
+Score: 3-2
+
+Dwayne Wilkinson: rng1 = 54 + 10 - 9 - 1 = 54
+rng2 = 47 + 6 - 6 - 1 = 46
+Groundout
+Team 2 pitcher (Marco Bravo): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+BOTTOM INNING 3
+
+Terrence Wise: rng1 = 81 + 15 - 8 + 1 = 89
+Walk
+Team 1 pitcher (Jose Cruz): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Clayton Massey: rng1 = 25 + 13 - 8 + 1 = 31
+rng2 = 99 + 8 - 7 + 1 = 101
+Flyout
+Team 1 pitcher (Jose Cruz): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Ellis Lindsey: rng1 = 16 + 9 - 8 + 1 = 18
+Strikeout
+Team 1 pitcher (Jose Cruz): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Brian Woods: rng1 = 58 + 5 - 8 + 1 = 56
+rng2 = 11 + 11 - 7 + 1 = 16
+Groundout
+Team 1 pitcher (Jose Cruz): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+TOP INNING 4
+
+Agustin Torres: rng1 = 43 + 6 - 9 - 1 = 39
+rng2 = 93 + 8 - 6 - 1 = 94
+Flyout
+Team 2 pitcher (Marco Bravo): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Toshio Hayashi: rng1 = 63 + 15 - 9 - 1 = 68
+rng2 = 86 + 10 - 6 - 1 = 89
+Flyout
+Team 2 pitcher (Marco Bravo): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Alex Diaz: rng1 = 55 + 13 - 9 - 1 = 58
+rng2 = 56 + 10 - 6 - 1 = 59
+Flyout
+Team 2 pitcher (Marco Bravo): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+BOTTOM INNING 4
+
+Joaquín Laguna: rng1 = 74 + 7 - 8 + 1 = 74
+rng2 = 99 + 9 - 7 + 1 = 102
+Home run
+Team 1 pitcher (Jose Cruz): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Alex Carpenter: rng1 = 49 + 7 - 8 + 1 = 49
+rng2 = 7 + 9 - 7 + 1 = 10
+Groundout
+Team 1 pitcher (Jose Cruz): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Adalberto Smith: rng1 = 82 + 6 - 8 + 1 = 81
+rng2 = 41 + 9 - 7 + 1 = 44
+Single
+Team 1 pitcher (Jose Cruz): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Agustín Molina: rng1 = 71 + 7 - 8 + 1 = 71
+Walk
+Team 1 pitcher (Jose Cruz): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 1
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-3
+
+Santino Reyes: rng1 = 69 + 7 - 8 + 1 = 69
+rng2 = 19 + 8 - 7 + 1 = 21
+Groundout
+Team 1 pitcher (Jose Cruz): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 2
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-3
+
+Terrence Wise: rng1 = 81 + 15 - 8 + 1 = 89
+Walk
+Team 1 pitcher (Jose Cruz): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 2
+
+base1: [0,0], base2: [8,0], base3: [7,0]
+base1: true, base2: true, base3: true
+Score: 3-3
+
+Clayton Massey: rng1 = 3 + 13 - 8 + 1 = 9
+Strikeout
+Team 1 pitcher (Jose Cruz): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+TOP INNING 5
+
+Team 2 pitcher change to Harris Derickson
+
+Phil Hill: rng1 = 25 + 10 - 9 - 1 = 25
+Strikeout
+Team 2 pitcher (Harris Derickson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Joseph Porter: rng1 = 35 + 6 - 9 - 1 = 31
+rng2 = 98 + 9 - 8 - 1 = 98
+Flyout
+Team 2 pitcher (Harris Derickson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Juan Reyes: rng1 = 48 + 8 - 9 - 1 = 46
+rng2 = 69 + 8 - 8 - 1 = 68
+Flyout
+Team 2 pitcher (Harris Derickson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Finn Sachse
+
+Ellis Lindsey: rng1 = 90 + 9 - 9 + 1 = 91
+rng2 = 65 + 16 - 8 + 1 = 74
+Double
+Team 1 pitcher (Finn Sachse): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [2,1], base3: false
+base1: false, base2: true, base3: false
+Score: 3-3
+
+Brian Woods: rng1 = 40 + 5 - 9 + 1 = 37
+rng2 = 55 + 11 - 8 + 1 = 59
+Flyout
+Team 1 pitcher (Finn Sachse): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [2,1], base3: false
+base1: false, base2: true, base3: false
+Score: 3-3
+
+Joaquín Laguna: rng1 = 89 + 7 - 9 + 1 = 88
+Walk
+Team 1 pitcher (Finn Sachse): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [4,1], base2: [2,1], base3: false
+base1: true, base2: true, base3: false
+Score: 3-3
+
+Alex Carpenter: rng1 = 87 + 7 - 9 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Finn Sachse): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [5,1], base2: [4,1], base3: [2,1]
+base1: true, base2: true, base3: true
+Score: 3-3
+
+Adalberto Smith: rng1 = 1 + 6 - 9 + 1 = -1
+Strikeout
+Team 1 pitcher (Finn Sachse): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: [5,1], base2: [4,1], base3: [2,1]
+base1: true, base2: true, base3: true
+Score: 3-3
+
+Agustín Molina: rng1 = 74 + 7 - 9 + 1 = 73
+rng2 = 70 + 8 - 8 + 1 = 71
+Double
+Team 1 pitcher (Finn Sachse): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: false, base2: [7,1], base3: [5,1]
+base1: false, base2: true, base3: true
+Score: 3-5
+
+Santino Reyes: rng1 = 15 + 7 - 9 + 1 = 14
+rng2 = 66 + 8 - 8 + 1 = 67
+Flyout
+Team 1 pitcher (Finn Sachse): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+TOP INNING 6
+
+Jeffery Sims: rng1 = 74 + 8 - 9 - 1 = 72
+Walk
+Team 2 pitcher (Harris Derickson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-5
+
+Estefania Espina: rng1 = 76 + 8 - 9 - 1 = 74
+rng2 = 9 + 8 - 8 - 1 = 8
+Single
+Team 2 pitcher (Harris Derickson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [6,1], base2: false, base3: [5,1]
+base1: true, base2: false, base3: true
+Score: 3-5
+
+Dwayne Wilkinson: rng1 = 31 + 10 - 9 - 1 = 31
+rng2 = 6 + 6 - 8 - 1 = 3
+Groundout
+Team 2 pitcher (Harris Derickson): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [7,1], base2: false, base3: [5,1]
+base1: true, base2: false, base3: true
+Score: 3-5
+
+Agustin Torres: rng1 = 99 + 6 - 9 - 1 = 95
+rng2 = 38 + 8 - 8 - 1 = 37
+Single
+Team 2 pitcher (Harris Derickson): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: [8,1], base2: false, base3: [7,1]
+base1: true, base2: false, base3: true
+Score: 4-5
+
+Toshio Hayashi: rng1 = 55 + 15 - 9 - 1 = 60
+rng2 = 11 + 10 - 8 - 1 = 12
+Groundout
+Team 2 pitcher (Harris Derickson): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [0,1], base2: false, base3: [7,1]
+base1: true, base2: false, base3: true
+Score: 4-5
+
+Alex Diaz: rng1 = 39 + 13 - 9 - 1 = 42
+rng2 = 84 + 10 - 8 - 1 = 85
+Flyout
+Team 2 pitcher (Harris Derickson): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-5
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Jorge Pozo
+
+Terrence Wise: rng1 = 60 + 15 - 9 + 1 = 67
+rng2 = 96 + 9 - 6 + 1 = 100
+Flyout
+Team 1 pitcher (Jorge Pozo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-5
+
+Clayton Massey: rng1 = 20 + 13 - 9 + 1 = 25
+Strikeout
+Team 1 pitcher (Jorge Pozo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-5
+
+Ellis Lindsey: rng1 = 81 + 9 - 9 + 1 = 82
+rng2 = 32 + 16 - 6 + 1 = 43
+Single
+Team 1 pitcher (Jorge Pozo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-5
+
+Brian Woods: rng1 = 99 + 5 - 9 + 1 = 96
+rng2 = 54 + 11 - 6 + 1 = 60
+Single
+Team 1 pitcher (Jorge Pozo): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [3,2], base2: [2,2], base3: false
+base1: true, base2: true, base3: false
+Score: 4-5
+
+Joaquín Laguna: rng1 = 83 + 7 - 9 + 1 = 82
+rng2 = 43 + 9 - 6 + 1 = 47
+Single
+Team 1 pitcher (Jorge Pozo): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [4,2], base2: false, base3: [3,2]
+base1: true, base2: false, base3: true
+Score: 4-6
+
+Alex Carpenter: rng1 = 18 + 7 - 9 + 1 = 17
+Strikeout
+Team 1 pitcher (Jorge Pozo): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-6
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Teagan Molina
+
+Phil Hill: rng1 = 73 + 10 - 9 - 1 = 73
+rng2 = 48 + 7 - 6 - 1 = 48
+Single
+Team 2 pitcher (Teagan Molina): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-6
+
+Joseph Porter: rng1 = 17 + 6 - 9 - 1 = 13
+rng2 = 56 + 9 - 6 - 1 = 58
+Lineout
+Team 2 pitcher (Teagan Molina): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-6
+
+Juan Reyes: rng1 = 87 + 8 - 9 - 1 = 85
+rng2 = 91 + 8 - 6 - 1 = 92
+Double
+Team 2 pitcher (Teagan Molina): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: [4,2], base3: [2,2]
+base1: false, base2: true, base3: true
+Score: 4-6
+
+Jeffery Sims: rng1 = 75 + 8 - 9 - 1 = 73
+rng2 = 87 + 8 - 6 - 1 = 88
+Double
+Team 2 pitcher (Teagan Molina): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: false, base2: [5,2], base3: false
+base1: false, base2: true, base3: false
+Score: 6-6
+
+Estefania Espina: rng1 = 49 + 8 - 9 - 1 = 47
+rng2 = 99 + 8 - 6 - 1 = 100
+Flyout
+Team 2 pitcher (Teagan Molina): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: false, base2: [5,2], base3: false
+base1: false, base2: true, base3: false
+Score: 6-6
+
+Dwayne Wilkinson: rng1 = 84 + 10 - 9 - 1 = 84
+rng2 = 46 + 6 - 6 - 1 = 45
+Single
+Team 2 pitcher (Teagan Molina): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-6
+
+Team 2 pitcher change to Kione Andrews
+
+Agustin Torres: rng1 = 97 + 6 - 8 - 1 = 94
+rng2 = 90 + 8 - 6 - 1 = 91
+Double
+Team 2 pitcher (Kione Andrews): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: false, base2: [8,3], base3: false
+base1: false, base2: true, base3: false
+Score: 8-6
+
+Toshio Hayashi: rng1 = 100 + 15 - 8 - 1 = 106
+rng2 = 46 + 10 - 6 - 1 = 49
+Single
+Team 2 pitcher (Kione Andrews): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 2
+
+base1: [0,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-6
+
+Alex Diaz: rng1 = 81 + 13 - 8 - 1 = 85
+rng2 = 27 + 10 - 6 - 1 = 30
+Single
+Team 2 pitcher (Kione Andrews): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: [1,3], base2: [0,3], base3: false
+base1: true, base2: true, base3: false
+Score: 9-6
+
+Phil Hill: rng1 = 67 + 10 - 8 - 1 = 68
+rng2 = 17 + 7 - 6 - 1 = 17
+Groundout
+Team 2 pitcher (Kione Andrews): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-6
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Nate Tucker
+
+Adalberto Smith: rng1 = 73 + 6 - 8 + 1 = 72
+Walk
+Team 1 pitcher (Nate Tucker): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [6,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-6
+
+Agustín Molina: rng1 = 83 + 7 - 8 + 1 = 83
+rng2 = 26 + 8 - 7 + 1 = 28
+Single
+Team 1 pitcher (Nate Tucker): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [7,3], base2: [6,3], base3: false
+base1: true, base2: true, base3: false
+Score: 9-6
+
+Santino Reyes: rng1 = 75 + 7 - 8 + 1 = 75
+rng2 = 93 + 8 - 7 + 1 = 95
+Home run
+Team 1 pitcher (Nate Tucker): 3 batters faced, 3 runs allowed = 3 + 7.5 = 10.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-9
+
+Terrence Wise: rng1 = 96 + 15 - 8 + 1 = 104
+rng2 = 85 + 9 - 7 + 1 = 88
+Double
+Team 1 pitcher (Nate Tucker): 4 batters faced, 3 runs allowed = 4 + 7.5 = 11.5, outs: 0
+
+base1: false, base2: [0,3], base3: false
+base1: false, base2: true, base3: false
+Score: 9-9
+
+Clayton Massey: rng1 = 8 + 13 - 8 + 1 = 14
+rng2 = 48 + 8 - 7 + 1 = 50
+Lineout
+Team 1 pitcher (Nate Tucker): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 1
+
+base1: false, base2: [0,3], base3: false
+base1: false, base2: true, base3: false
+Score: 9-9
+
+Ellis Lindsey: rng1 = 79 + 9 - 8 + 1 = 81
+rng2 = 31 + 16 - 7 + 1 = 41
+Single
+Team 1 pitcher (Nate Tucker): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 1
+
+base1: [2,3], base2: false, base3: [0,3]
+base1: true, base2: false, base3: true
+Score: 9-9
+
+Team 1 pitcher change to Legend Brooks
+
+Brian Woods: rng1 = 36 + 5 - 10 + 1 = 32
+rng2 = 83 + 11 - 9 + 1 = 86
+Flyout
+Team 1 pitcher (Legend Brooks): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [2,3], base2: false, base3: [0,3]
+base1: true, base2: false, base3: true
+Score: 9-9
+
+Joaquín Laguna: rng1 = 82 + 7 - 10 + 1 = 80
+rng2 = 12 + 9 - 9 + 1 = 13
+Single
+Team 1 pitcher (Legend Brooks): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: [4,4], base2: [2,3], base3: false
+base1: true, base2: true, base3: false
+Score: 9-10
+
+Alex Carpenter: rng1 = 98 + 7 - 10 + 1 = 96
+rng2 = 25 + 9 - 9 + 1 = 26
+Single
+Team 1 pitcher (Legend Brooks): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [5,4], base2: [4,4], base3: false
+base1: true, base2: true, base3: false
+Score: 9-11
+
+Adalberto Smith: rng1 = 38 + 6 - 10 + 1 = 35
+rng2 = 95 + 9 - 9 + 1 = 96
+Flyout
+Team 1 pitcher (Legend Brooks): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-11
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Zion Wright
+
+Joseph Porter: rng1 = 78 + 6 - 9 - 1 = 74
+rng2 = 23 + 9 - 9 - 1 = 22
+Single
+Team 2 pitcher (Zion Wright): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [3,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-11
+
+Juan Reyes: rng1 = 98 + 8 - 9 - 1 = 96
+rng2 = 7 + 8 - 9 - 1 = 5
+Single
+Team 2 pitcher (Zion Wright): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [4,4], base2: [3,4], base3: false
+base1: true, base2: true, base3: false
+Score: 9-11
+
+Jeffery Sims: rng1 = 10 + 8 - 9 - 1 = 8
+Strikeout
+Team 2 pitcher (Zion Wright): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [4,4], base2: [3,4], base3: false
+base1: true, base2: true, base3: false
+Score: 9-11
+
+Estefania Espina: rng1 = 5 + 8 - 9 - 1 = 3
+Strikeout
+Team 2 pitcher (Zion Wright): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [4,4], base2: [3,4], base3: false
+base1: true, base2: true, base3: false
+Score: 9-11
+
+Dwayne Wilkinson: rng1 = 30 + 10 - 9 - 1 = 30
+rng2 = 38 + 6 - 9 - 1 = 34
+Groundout
+Team 2 pitcher (Zion Wright): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-11
+
+-----------------------
+
+BOTTOM INNING 8
+
+Agustín Molina: rng1 = 76 + 7 - 10 + 1 = 74
+rng2 = 38 + 8 - 9 + 1 = 38
+Single
+Team 1 pitcher (Legend Brooks): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [7,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-11
+
+Santino Reyes: rng1 = 55 + 7 - 10 + 1 = 53
+rng2 = 66 + 8 - 9 + 1 = 66
+Flyout
+Team 1 pitcher (Legend Brooks): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [7,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-11
+
+Terrence Wise: rng1 = 85 + 15 - 10 + 1 = 91
+rng2 = 20 + 9 - 9 + 1 = 21
+Single
+Team 1 pitcher (Legend Brooks): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [0,4], base2: [7,4], base3: false
+base1: true, base2: true, base3: false
+Score: 9-11
+
+Clayton Massey: rng1 = 95 + 13 - 10 + 1 = 99
+rng2 = 42 + 8 - 9 + 1 = 42
+Single
+Team 1 pitcher (Legend Brooks): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: [1,4], base2: false, base3: [0,4]
+base1: true, base2: false, base3: true
+Score: 9-12
+
+Ellis Lindsey: rng1 = 99 + 9 - 10 + 1 = 99
+rng2 = 47 + 16 - 9 + 1 = 55
+Single
+Team 1 pitcher (Legend Brooks): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 1
+
+base1: [2,4], base2: false, base3: [1,4]
+base1: true, base2: false, base3: true
+Score: 9-13
+
+Brian Woods: rng1 = 95 + 5 - 10 + 1 = 91
+rng2 = 91 + 11 - 9 + 1 = 94
+Home run
+Team 1 pitcher (Legend Brooks): 10 batters faced, 5 runs allowed = 10 + 12.5 = 22.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-16
+
+Joaquín Laguna: rng1 = 2 + 7 - 10 + 1 = 0
+Strikeout
+Team 1 pitcher (Legend Brooks): 11 batters faced, 5 runs allowed = 11 + 12.5 = 23.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-16
+
+Alex Carpenter: rng1 = 54 + 7 - 10 + 1 = 52
+rng2 = 2 + 9 - 9 + 1 = 3
+Groundout
+Team 1 pitcher (Legend Brooks): 12 batters faced, 5 runs allowed = 12 + 12.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-16
+
+-----------------------
+
+TOP INNING 9
+
+Agustin Torres: rng1 = 78 + 6 - 9 - 1 = 74
+rng2 = 98 + 8 - 9 - 1 = 96
+Home run
+Team 2 pitcher (Zion Wright): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-16
+
+Toshio Hayashi: rng1 = 15 + 15 - 9 - 1 = 20
+Strikeout
+Team 2 pitcher (Zion Wright): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-16
+
+Alex Diaz: rng1 = 21 + 13 - 9 - 1 = 24
+Strikeout
+Team 2 pitcher (Zion Wright): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-16
+
+Phil Hill: rng1 = 5 + 10 - 9 - 1 = 5
+Strikeout
+Team 2 pitcher (Zion Wright): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 10-16
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 17
+Team 2 hits: 21
+Team 1 runs: 10
+Team 2 runs: 16
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-31
+Toshio Hayashi	6	1	2	0	1	0	1	0	1					London
+Alex Diaz	5	1	1	0	0	0	0	1	1	
+Phil Hill	6	2	3	0	0	0	1	0	2	
+Joseph Porter	5	0	1	0	0	0	0	0	1	
+Juan Reyes	4	1	2	1	0	0	0	1	1	
+Jeffery Sims	3	2	2	1	0	0	3	2	1	
+Estefania Espina	5	0	1	0	0	0	1	0	1	
+Dwayne Wilkinson	5	1	1	0	0	0	1	0	0	
+Agustin Torres	5	2	4	2	0	1	3	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Jose Cruz	0	0	1	1	0	0	12	5	3	2	3	3	20	
+Finn Sachse	0	0	1	0	0	0	3	2	2	0	1	1	7	
+Jorge Pozo	0	0	1	0	0	0	3	3	1	0	0	2	6	
+Nate Tucker	0	0	1	0	0	0	1	4	5	1	1	0	6	
+Legend Brooks	0	1	1	0	0	0	5	7	5	1	0	1	12	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-31
+Terrence Wise	4	3	3	1	0	0	0	2	0					Tokyo
+Clayton Massey	6	2	2	0	0	1	3	0	2	
+Ellis Lindsey	6	4	4	1	0	0	1	0	1	
+Brian Woods	6	1	2	0	0	1	3	0	0	
+Joaquín Laguna	5	2	3	0	0	1	3	1	1	
+Alex Carpenter	5	0	1	0	0	0	1	0	1	
+Adalberto Smith	4	1	1	0	0	0	0	1	2	
+Agustín Molina	4	2	4	1	0	0	2	1	0	
+Santino Reyes	5	1	1	0	0	1	3	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Marco Bravo	0	0	1	1	0	0	12	5	3	0	3	2	20	
+Harris Derickson	0	0	1	0	0	0	6	2	1	0	1	1	9	
+Teagan Molina	0	0	1	0	0	0	2	4	4	0	0	0	6	
+Kione Andrews	1	0	1	0	0	0	1	3	1	0	0	0	4	
+Zion Wright	0	0	1	0	0	0	6	3	1	1	0	5	9	

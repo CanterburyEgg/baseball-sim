@@ -1,0 +1,902 @@
+TOP INNING 1
+
+Ernesto Fuentes: rng1 = 42 + 16 - 9 - 1 = 48
+rng2 = 64 + 15 - 7 - 1 = 71
+Flyout
+Team 2 pitcher (Shane Gilbert): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Lawrence Webb: rng1 = 78 + 16 - 9 - 1 = 84
+rng2 = 80 + 13 - 7 - 1 = 85
+Home run
+Team 2 pitcher (Shane Gilbert): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Mateo Estrada: rng1 = 97 + 15 - 9 - 1 = 102
+rng2 = 13 + 17 - 7 - 1 = 22
+Single
+Team 2 pitcher (Shane Gilbert): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Rafael Guzman: rng1 = 90 + 14 - 9 - 1 = 94
+rng2 = 36 + 16 - 7 - 1 = 44
+Single
+Team 2 pitcher (Shane Gilbert): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [3,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Miguel Castillo: rng1 = 96 + 13 - 9 - 1 = 99
+rng2 = 28 + 12 - 7 - 1 = 32
+Single
+Team 2 pitcher (Shane Gilbert): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 1
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-0
+
+Jorge Perez: rng1 = 95 + 13 - 9 - 1 = 98
+rng2 = 15 + 11 - 7 - 1 = 18
+Single
+Team 2 pitcher (Shane Gilbert): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 1
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-0
+
+Logan Zimmerman: rng1 = 75 + 11 - 9 - 1 = 76
+rng2 = 85 + 10 - 7 - 1 = 87
+Double
+Team 2 pitcher (Shane Gilbert): 7 batters faced, 5 runs allowed = 7 + 12.5 = 19.5, outs: 1
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 5-0
+
+Domingo Matias: rng1 = 46 + 9 - 9 - 1 = 45
+rng2 = 4 + 10 - 7 - 1 = 6
+Groundout
+Team 2 pitcher (Shane Gilbert): 8 batters faced, 5 runs allowed = 8 + 12.5 = 20.5, outs: 2
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 5-0
+
+Sean Stevens: rng1 = 68 + 6 - 9 - 1 = 64
+rng2 = 15 + 9 - 7 - 1 = 16
+Groundout
+Team 2 pitcher (Shane Gilbert): 9 batters faced, 5 runs allowed = 9 + 12.5 = 21.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Jan DeGraaf: rng1 = 22 + 12 - 10 + 1 = 25
+Strikeout
+Team 1 pitcher (Max WoOFe): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Chon Il-Seong: rng1 = 24 + 9 - 10 + 1 = 24
+Strikeout
+Team 1 pitcher (Max WoOFe): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Mike Rowe: rng1 = 27 + 9 - 10 + 1 = 27
+Strikeout
+Team 1 pitcher (Max WoOFe): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-0
+
+-----------------------
+
+TOP INNING 2
+
+Ernesto Fuentes: rng1 = 6 + 16 - 9 - 1 = 12
+rng2 = 4 + 15 - 7 - 1 = 11
+Groundout
+Team 2 pitcher (Shane Gilbert): 10 batters faced, 5 runs allowed = 10 + 12.5 = 22.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Lawrence Webb: rng1 = 77 + 16 - 9 - 1 = 83
+rng2 = 70 + 13 - 7 - 1 = 75
+Double
+Team 2 pitcher (Shane Gilbert): 11 batters faced, 5 runs allowed = 11 + 12.5 = 23.5, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 5-0
+
+Mateo Estrada: rng1 = 95 + 15 - 9 - 1 = 100
+rng2 = 31 + 17 - 7 - 1 = 40
+Single
+Team 2 pitcher (Shane Gilbert): 12 batters faced, 6 runs allowed = 12 + 15.0 = 27.0, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-0
+
+Rafael Guzman: rng1 = 81 + 14 - 9 - 1 = 85
+rng2 = 67 + 16 - 7 - 1 = 75
+Double
+Team 2 pitcher (Shane Gilbert): 13 batters faced, 7 runs allowed = 13 + 17.5 = 30.5, outs: 1
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 7-0
+
+Miguel Castillo: rng1 = 98 + 13 - 9 - 1 = 101
+rng2 = 26 + 12 - 7 - 1 = 30
+Single
+Team 2 pitcher (Shane Gilbert): 14 batters faced, 7 runs allowed = 14 + 17.5 = 31.5, outs: 1
+
+base1: [4,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 7-0
+
+Jorge Perez: rng1 = 76 + 13 - 9 - 1 = 79
+rng2 = 54 + 11 - 7 - 1 = 57
+Single
+Team 2 pitcher (Shane Gilbert): 15 batters faced, 8 runs allowed = 15 + 20.0 = 35.0, outs: 1
+
+base1: [5,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 8-0
+
+Logan Zimmerman: rng1 = 16 + 11 - 9 - 1 = 17
+Strikeout
+Team 2 pitcher (Shane Gilbert): 16 batters faced, 8 runs allowed = 16 + 20.0 = 36.0, outs: 2
+
+base1: [5,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 8-0
+
+Team 2 pitcher change to Kangjon Kwang-Hyun
+
+Domingo Matias: rng1 = 14 + 9 - 8 - 1 = 14
+rng2 = 62 + 10 - 8 - 1 = 63
+Flyout
+Team 2 pitcher (Kangjon Kwang-Hyun): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Joshua Fontina: rng1 = 46 + 6 - 10 + 1 = 43
+rng2 = 79 + 9 - 9 + 1 = 80
+Flyout
+Team 1 pitcher (Max WoOFe): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-0
+
+Cameron Collier: rng1 = 26 + 8 - 10 + 1 = 25
+Strikeout
+Team 1 pitcher (Max WoOFe): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-0
+
+Demarcus Warner: rng1 = 90 + 6 - 10 + 1 = 87
+Walk
+Team 1 pitcher (Max WoOFe): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-0
+
+Simon Bowers: rng1 = 72 + 8 - 10 + 1 = 71
+Walk
+Team 1 pitcher (Max WoOFe): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 8-0
+
+Yu Minjun: rng1 = 89 + 7 - 10 + 1 = 87
+Walk
+Team 1 pitcher (Max WoOFe): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [7,0], base2: [6,0], base3: [5,0]
+base1: true, base2: true, base3: true
+Score: 8-0
+
+Chris Ruiz: rng1 = 40 + 7 - 10 + 1 = 38
+rng2 = 54 + 7 - 9 + 1 = 53
+Lineout
+Team 1 pitcher (Max WoOFe): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-0
+
+-----------------------
+
+TOP INNING 3
+
+Sean Stevens: rng1 = 99 + 6 - 8 - 1 = 96
+rng2 = 37 + 9 - 8 - 1 = 37
+Single
+Team 2 pitcher (Kangjon Kwang-Hyun): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-0
+
+Ernesto Fuentes: rng1 = 98 + 16 - 8 - 1 = 105
+rng2 = 1 + 15 - 8 - 1 = 7
+Single
+Team 2 pitcher (Kangjon Kwang-Hyun): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 0
+
+base1: [0,1], base2: [8,1], base3: false
+base1: true, base2: true, base3: false
+Score: 8-0
+
+Lawrence Webb: rng1 = 50 + 16 - 8 - 1 = 57
+rng2 = 38 + 13 - 8 - 1 = 42
+Groundout
+Team 2 pitcher (Kangjon Kwang-Hyun): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [1,1], base2: false, base3: [8,1]
+base1: true, base2: false, base3: true
+Score: 8-0
+
+Mateo Estrada: rng1 = 79 + 15 - 8 - 1 = 85
+rng2 = 79 + 17 - 8 - 1 = 87
+Double
+Team 2 pitcher (Kangjon Kwang-Hyun): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 1
+
+base1: false, base2: [2,1], base3: false
+base1: false, base2: true, base3: false
+Score: 10-0
+
+Rafael Guzman: rng1 = 47 + 14 - 8 - 1 = 52
+rng2 = 97 + 16 - 8 - 1 = 104
+Flyout
+Team 2 pitcher (Kangjon Kwang-Hyun): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: false, base2: [2,1], base3: false
+base1: false, base2: true, base3: false
+Score: 10-0
+
+Miguel Castillo: rng1 = 78 + 13 - 8 - 1 = 82
+rng2 = 94 + 12 - 8 - 1 = 97
+Home run
+Team 2 pitcher (Kangjon Kwang-Hyun): 7 batters faced, 4 runs allowed = 7 + 10.0 = 17.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 12-0
+
+Team 2 pitcher change to Tamashiro Genjo
+
+Jorge Perez: rng1 = 37 + 13 - 7 - 1 = 42
+rng2 = 33 + 11 - 9 - 1 = 34
+Groundout
+Team 2 pitcher (Tamashiro Genjo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 12-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Jan DeGraaf: rng1 = 17 + 12 - 10 + 1 = 20
+Strikeout
+Team 1 pitcher (Max WoOFe): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 12-0
+
+Chon Il-Seong: rng1 = 36 + 9 - 10 + 1 = 36
+rng2 = 9 + 7 - 9 + 1 = 8
+Groundout
+Team 1 pitcher (Max WoOFe): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 12-0
+
+Mike Rowe: rng1 = 83 + 9 - 10 + 1 = 83
+rng2 = 32 + 7 - 9 + 1 = 31
+Single
+Team 1 pitcher (Max WoOFe): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 12-0
+
+Joshua Fontina: rng1 = 21 + 6 - 10 + 1 = 18
+Strikeout
+Team 1 pitcher (Max WoOFe): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 12-0
+
+-----------------------
+
+TOP INNING 4
+
+Logan Zimmerman: rng1 = 74 + 11 - 7 - 1 = 77
+rng2 = 79 + 10 - 9 - 1 = 79
+Triple
+Team 2 pitcher (Tamashiro Genjo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: false, base2: false, base3: [6,2]
+base1: false, base2: false, base3: true
+Score: 12-0
+
+Domingo Matias: rng1 = 3 + 9 - 7 - 1 = 4
+Strikeout
+Team 2 pitcher (Tamashiro Genjo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: false, base3: [6,2]
+base1: false, base2: false, base3: true
+Score: 12-0
+
+Sean Stevens: rng1 = 3 + 6 - 7 - 1 = 1
+Strikeout
+Team 2 pitcher (Tamashiro Genjo): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: false, base3: [6,2]
+base1: false, base2: false, base3: true
+Score: 12-0
+
+Ernesto Fuentes: rng1 = 33 + 16 - 7 - 1 = 41
+rng2 = 54 + 15 - 9 - 1 = 59
+Flyout
+Team 2 pitcher (Tamashiro Genjo): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 12-0
+
+-----------------------
+
+BOTTOM INNING 4
+
+Cameron Collier: rng1 = 93 + 8 - 10 + 1 = 92
+rng2 = 37 + 8 - 9 + 1 = 37
+Single
+Team 1 pitcher (Max WoOFe): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 12-0
+
+Demarcus Warner: rng1 = 11 + 6 - 10 + 1 = 8
+Strikeout
+Team 1 pitcher (Max WoOFe): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 12-0
+
+Simon Bowers: rng1 = 94 + 8 - 10 + 1 = 93
+rng2 = 94 + 7 - 9 + 1 = 93
+Triple
+Team 1 pitcher (Max WoOFe): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 1
+
+base1: false, base2: false, base3: [6,0]
+base1: false, base2: false, base3: true
+Score: 12-1
+
+Yu Minjun: rng1 = 14 + 7 - 10 + 1 = 12
+rng2 = 31 + 7 - 9 + 1 = 30
+Groundout
+Team 1 pitcher (Max WoOFe): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 12-2
+
+Chris Ruiz: rng1 = 92 + 7 - 10 + 1 = 90
+Walk
+Team 1 pitcher (Max WoOFe): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 12-2
+
+Jan DeGraaf: rng1 = 24 + 12 - 10 + 1 = 27
+Strikeout
+Team 1 pitcher (Max WoOFe): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 12-2
+
+-----------------------
+
+TOP INNING 5
+
+Team 2 pitcher change to Daigo Eishi
+
+Lawrence Webb: rng1 = 79 + 16 - 8 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Daigo Eishi): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [1,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 12-2
+
+Mateo Estrada: rng1 = 11 + 15 - 8 - 1 = 17
+Strikeout
+Team 2 pitcher (Daigo Eishi): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 12-2
+
+Rafael Guzman: rng1 = 97 + 14 - 8 - 1 = 102
+rng2 = 95 + 16 - 7 - 1 = 103
+Home run
+Team 2 pitcher (Daigo Eishi): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 14-2
+
+Miguel Castillo: rng1 = 68 + 13 - 8 - 1 = 72
+Walk
+Team 2 pitcher (Daigo Eishi): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: [4,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 14-2
+
+Jorge Perez: rng1 = 85 + 13 - 8 - 1 = 89
+Walk
+Team 2 pitcher (Daigo Eishi): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 1
+
+base1: [5,3], base2: [4,3], base3: false
+base1: true, base2: true, base3: false
+Score: 14-2
+
+Logan Zimmerman: rng1 = 45 + 11 - 8 - 1 = 47
+rng2 = 3 + 10 - 7 - 1 = 5
+Groundout
+Team 2 pitcher (Daigo Eishi): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 14-2
+
+-----------------------
+
+BOTTOM INNING 5
+
+Chon Il-Seong: rng1 = 41 + 9 - 10 + 1 = 41
+rng2 = 55 + 7 - 9 + 1 = 54
+Lineout
+Team 1 pitcher (Max WoOFe): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 14-2
+
+Mike Rowe: rng1 = 46 + 9 - 10 + 1 = 46
+rng2 = 21 + 7 - 9 + 1 = 20
+Groundout
+Team 1 pitcher (Max WoOFe): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 14-2
+
+Joshua Fontina: rng1 = 44 + 6 - 10 + 1 = 41
+rng2 = 29 + 9 - 9 + 1 = 30
+Groundout
+Team 1 pitcher (Max WoOFe): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 14-2
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Orlando Echavarria
+
+Domingo Matias: rng1 = 17 + 9 - 10 - 1 = 15
+rng2 = 99 + 10 - 8 - 1 = 100
+Flyout
+Team 2 pitcher (Orlando Echavarria): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 14-2
+
+Sean Stevens: rng1 = 99 + 6 - 10 - 1 = 94
+rng2 = 23 + 9 - 8 - 1 = 23
+Single
+Team 2 pitcher (Orlando Echavarria): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [8,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 14-2
+
+Ernesto Fuentes: rng1 = 87 + 16 - 10 - 1 = 92
+rng2 = 72 + 15 - 8 - 1 = 78
+Double
+Team 2 pitcher (Orlando Echavarria): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [0,4], base3: false
+base1: false, base2: true, base3: false
+Score: 15-2
+
+Lawrence Webb: rng1 = 90 + 16 - 10 - 1 = 95
+rng2 = 13 + 13 - 8 - 1 = 17
+Single
+Team 2 pitcher (Orlando Echavarria): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [1,4], base2: false, base3: [0,4]
+base1: true, base2: false, base3: true
+Score: 15-2
+
+Mateo Estrada: rng1 = 26 + 15 - 10 - 1 = 30
+rng2 = 84 + 17 - 8 - 1 = 92
+Flyout
+Team 2 pitcher (Orlando Echavarria): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [1,4], base2: false, base3: [0,4]
+base1: true, base2: false, base3: true
+Score: 15-2
+
+Rafael Guzman: rng1 = 5 + 14 - 10 - 1 = 8
+Strikeout
+Team 2 pitcher (Orlando Echavarria): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 15-2
+
+-----------------------
+
+BOTTOM INNING 6
+
+Cameron Collier: rng1 = 4 + 8 - 10 + 1 = 3
+Strikeout
+Team 1 pitcher (Max WoOFe): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 15-2
+
+Demarcus Warner: rng1 = 28 + 6 - 10 + 1 = 25
+Strikeout
+Team 1 pitcher (Max WoOFe): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 15-2
+
+Simon Bowers: rng1 = 27 + 8 - 10 + 1 = 26
+Strikeout
+Team 1 pitcher (Max WoOFe): 25 batters faced, 2 runs allowed = 25 + 5.0 = 30.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 15-2
+
+-----------------------
+
+TOP INNING 7
+
+Miguel Castillo: rng1 = 98 + 13 - 10 - 1 = 100
+rng2 = 19 + 12 - 8 - 1 = 22
+Single
+Team 2 pitcher (Orlando Echavarria): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 0
+
+base1: [4,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 15-2
+
+Jorge Perez: rng1 = 19 + 13 - 10 - 1 = 21
+Strikeout
+Team 2 pitcher (Orlando Echavarria): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: [4,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 15-2
+
+Logan Zimmerman: rng1 = 46 + 11 - 10 - 1 = 46
+rng2 = 67 + 10 - 8 - 1 = 68
+Flyout
+Team 2 pitcher (Orlando Echavarria): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [4,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 15-2
+
+Domingo Matias: rng1 = 50 + 9 - 10 - 1 = 48
+rng2 = 98 + 10 - 8 - 1 = 99
+Flyout
+Team 2 pitcher (Orlando Echavarria): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 15-2
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Henry Wright
+
+Yu Minjun: rng1 = 96 + 7 - 12 + 1 = 92
+rng2 = 23 + 7 - 9 + 1 = 22
+Single
+Team 1 pitcher (Henry Wright): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 15-2
+
+Chris Ruiz: rng1 = 76 + 7 - 12 + 1 = 72
+Walk
+Team 1 pitcher (Henry Wright): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [8,1], base2: [7,1], base3: false
+base1: true, base2: true, base3: false
+Score: 15-2
+
+Jan DeGraaf: rng1 = 40 + 12 - 12 + 1 = 41
+rng2 = 36 + 9 - 9 + 1 = 37
+Groundout
+Team 1 pitcher (Henry Wright): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [0,1], base2: false, base3: [7,1]
+base1: true, base2: false, base3: true
+Score: 15-2
+
+Chon Il-Seong: rng1 = 2 + 9 - 12 + 1 = 0
+Strikeout
+Team 1 pitcher (Henry Wright): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [0,1], base2: false, base3: [7,1]
+base1: true, base2: false, base3: true
+Score: 15-2
+
+Mike Rowe: rng1 = 42 + 9 - 12 + 1 = 40
+rng2 = 45 + 7 - 9 + 1 = 44
+Groundout
+Team 1 pitcher (Henry Wright): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 15-2
+
+-----------------------
+
+TOP INNING 8
+
+Sean Stevens: rng1 = 36 + 6 - 10 - 1 = 31
+rng2 = 48 + 9 - 8 - 1 = 48
+Lineout
+Team 2 pitcher (Orlando Echavarria): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 15-2
+
+Ernesto Fuentes: rng1 = 43 + 16 - 10 - 1 = 48
+rng2 = 53 + 15 - 8 - 1 = 59
+Flyout
+Team 2 pitcher (Orlando Echavarria): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 15-2
+
+Lawrence Webb: rng1 = 42 + 16 - 10 - 1 = 47
+rng2 = 52 + 13 - 8 - 1 = 56
+Lineout
+Team 2 pitcher (Orlando Echavarria): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 15-2
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Sergio Marmolejos
+
+Joshua Fontina: rng1 = 27 + 6 - 7 + 1 = 27
+Strikeout
+Team 1 pitcher (Sergio Marmolejos): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 15-2
+
+Cameron Collier: rng1 = 35 + 8 - 7 + 1 = 37
+rng2 = 17 + 8 - 9 + 1 = 17
+Groundout
+Team 1 pitcher (Sergio Marmolejos): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 15-2
+
+Demarcus Warner: rng1 = 47 + 6 - 7 + 1 = 47
+rng2 = 44 + 8 - 9 + 1 = 44
+Groundout
+Team 1 pitcher (Sergio Marmolejos): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 15-2
+
+-----------------------
+
+TOP INNING 9
+
+Mateo Estrada: rng1 = 97 + 15 - 10 - 1 = 101
+rng2 = 32 + 17 - 8 - 1 = 40
+Single
+Team 2 pitcher (Orlando Echavarria): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 0
+
+base1: [2,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 15-2
+
+Rafael Guzman: rng1 = 18 + 14 - 10 - 1 = 21
+Strikeout
+Team 2 pitcher (Orlando Echavarria): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 1
+
+base1: [2,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 15-2
+
+Miguel Castillo: rng1 = 61 + 13 - 10 - 1 = 63
+rng2 = 59 + 12 - 8 - 1 = 62
+Flyout
+Team 2 pitcher (Orlando Echavarria): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 2
+
+base1: [2,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 15-2
+
+Jorge Perez: rng1 = 98 + 13 - 10 - 1 = 100
+rng2 = 37 + 11 - 8 - 1 = 39
+Single
+Team 2 pitcher (Orlando Echavarria): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 2
+
+base1: [5,4], base2: [2,4], base3: false
+base1: true, base2: true, base3: false
+Score: 15-2
+
+Logan Zimmerman: rng1 = 88 + 11 - 10 - 1 = 88
+Walk
+Team 2 pitcher (Orlando Echavarria): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 2
+
+base1: [6,4], base2: [5,4], base3: [2,4]
+base1: true, base2: true, base3: true
+Score: 15-2
+
+Domingo Matias: rng1 = 72 + 9 - 10 - 1 = 70
+Walk
+Team 2 pitcher (Orlando Echavarria): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 2
+
+base1: [7,4], base2: [6,4], base3: [5,4]
+base1: true, base2: true, base3: true
+Score: 16-2
+
+Sean Stevens: rng1 = 15 + 6 - 10 - 1 = 10
+Strikeout
+Team 2 pitcher (Orlando Echavarria): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 16-2
+
+-----------------------
+
+BOTTOM INNING 9
+
+Simon Bowers: rng1 = 5 + 8 - 7 + 1 = 7
+Strikeout
+Team 1 pitcher (Sergio Marmolejos): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 16-2
+
+Yu Minjun: rng1 = 17 + 7 - 7 + 1 = 18
+Strikeout
+Team 1 pitcher (Sergio Marmolejos): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 16-2
+
+Chris Ruiz: rng1 = 78 + 7 - 7 + 1 = 79
+rng2 = 32 + 7 - 9 + 1 = 31
+Single
+Team 1 pitcher (Sergio Marmolejos): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 16-2
+
+Jan DeGraaf: rng1 = 78 + 12 - 7 + 1 = 84
+rng2 = 20 + 9 - 9 + 1 = 21
+Single
+Team 1 pitcher (Sergio Marmolejos): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [0,2], base2: [8,2], base3: false
+base1: true, base2: true, base3: false
+Score: 16-2
+
+Chon Il-Seong: rng1 = 40 + 9 - 7 + 1 = 43
+rng2 = 17 + 7 - 9 + 1 = 16
+Groundout
+Team 1 pitcher (Sergio Marmolejos): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 16-2
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 23
+Team 2 hits: 6
+Team 1 runs: 16
+Team 2 runs: 2
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-31
+Ernesto Fuentes	6	0	2	1	0	0	1	0	0					StLouis
+Lawrence Webb	5	4	3	1	0	1	1	0	0	
+Mateo Estrada	6	4	4	1	0	0	3	0	1	
+Rafael Guzman	6	3	3	1	0	1	3	0	2	
+Miguel Castillo	5	2	4	0	0	1	3	1	0	
+Jorge Perez	5	1	3	0	0	0	2	1	1	
+Logan Zimmerman	5	0	2	1	1	0	2	1	1	
+Domingo Matias	5	0	0	0	0	0	1	1	1	
+Sean Stevens	6	2	2	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Max WoOFe	1	0	1	1	0	0	18	3	2	0	4	11	25	
+Henry Wright	0	0	1	0	0	0	3	1	0	0	1	1	5	
+Sergio Marmolejos	0	0	1	0	0	0	6	2	0	0	0	3	8	
+Junior Acosta	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Santiago Rivero	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-31
+Jan DeGraaf	5	0	1	0	0	0	0	0	3					Lafayette
+Chon Il-Seong	5	0	0	0	0	0	0	0	2	
+Mike Rowe	4	0	1	0	0	0	0	0	1	
+Joshua Fontina	4	0	0	0	0	0	0	0	2	
+Cameron Collier	4	1	1	0	0	0	0	0	2	
+Demarcus Warner	3	0	0	0	0	0	0	1	2	
+Simon Bowers	3	1	1	0	1	0	1	1	2	
+Yu Minjun	3	0	1	0	0	0	1	1	1	
+Chris Ruiz	2	0	1	0	0	0	0	2	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Shane Gilbert	0	1	1	1	0	0	5	11	8	1	0	1	16	
+Kangjon Kwang-Hyun	0	0	1	0	0	0	3	4	4	1	0	0	7	
+Tamashiro Genjo	0	0	1	0	0	0	4	1	0	0	0	2	5	
+Daigo Eishi	0	0	1	0	0	0	3	1	2	1	2	1	6	
+Orlando Echavarria	0	0	1	0	0	0	12	6	2	0	2	4	20	

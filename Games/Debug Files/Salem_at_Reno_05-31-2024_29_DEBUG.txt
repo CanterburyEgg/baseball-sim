@@ -1,0 +1,731 @@
+TOP INNING 1
+
+Russell Glover: rng1 = 25 + 14 - 14 - 1 = 24
+Strikeout
+Team 2 pitcher (Luciano Silva): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Stuart Barton: rng1 = 12 + 11 - 14 - 1 = 8
+Strikeout
+Team 2 pitcher (Luciano Silva): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Oliver Summers: rng1 = 96 + 10 - 14 - 1 = 91
+rng2 = 90 + 15 - 14 - 1 = 90
+Double
+Team 2 pitcher (Luciano Silva): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Emilio Cordero: rng1 = 90 + 10 - 14 - 1 = 85
+rng2 = 51 + 13 - 14 - 1 = 49
+Single
+Team 2 pitcher (Luciano Silva): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Floyd Meyers: rng1 = 52 + 9 - 14 - 1 = 46
+rng2 = 46 + 11 - 14 - 1 = 42
+Groundout
+Team 2 pitcher (Luciano Silva): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Victor Harris: rng1 = 5 + 16 - 14 + 1 = 8
+Strikeout
+Team 1 pitcher (Ryan Nash): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Shaun Conley: rng1 = 55 + 15 - 14 + 1 = 57
+rng2 = 50 + 16 - 14 + 1 = 53
+Lineout
+Team 1 pitcher (Ryan Nash): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Joaquin Alba: rng1 = 11 + 15 - 14 + 1 = 13
+rng2 = 64 + 14 - 14 + 1 = 65
+Flyout
+Team 1 pitcher (Ryan Nash): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 2
+
+Wade Poole: rng1 = 53 + 9 - 14 - 1 = 47
+rng2 = 65 + 10 - 14 - 1 = 60
+Flyout
+Team 2 pitcher (Luciano Silva): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Kris Moody: rng1 = 70 + 10 - 14 - 1 = 65
+rng2 = 54 + 9 - 14 - 1 = 48
+Lineout
+Team 2 pitcher (Luciano Silva): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Francisco Mercado: rng1 = 68 + 6 - 14 - 1 = 59
+rng2 = 99 + 10 - 14 - 1 = 94
+Flyout
+Team 2 pitcher (Luciano Silva): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Jerome Fields: rng1 = 12 + 13 - 14 + 1 = 12
+rng2 = 3 + 14 - 14 + 1 = 4
+Groundout
+Team 1 pitcher (Ryan Nash): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Ali Monroe: rng1 = 45 + 15 - 14 + 1 = 47
+rng2 = 55 + 13 - 14 + 1 = 55
+Lineout
+Team 1 pitcher (Ryan Nash): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Simon Taylor: rng1 = 77 + 13 - 14 + 1 = 77
+rng2 = 65 + 12 - 14 + 1 = 64
+Single
+Team 1 pitcher (Ryan Nash): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Nate Clarke: rng1 = 19 + 15 - 14 + 1 = 21
+Strikeout
+Team 1 pitcher (Ryan Nash): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 3
+
+Tyler May: rng1 = 37 + 6 - 14 - 1 = 28
+Strikeout
+Team 2 pitcher (Luciano Silva): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Russell Glover: rng1 = 63 + 14 - 14 - 1 = 62
+rng2 = 91 + 9 - 14 - 1 = 85
+Flyout
+Team 2 pitcher (Luciano Silva): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Stuart Barton: rng1 = 44 + 11 - 14 - 1 = 40
+rng2 = 87 + 13 - 14 - 1 = 85
+Flyout
+Team 2 pitcher (Luciano Silva): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Ivan Rondon: rng1 = 51 + 14 - 14 + 1 = 52
+rng2 = 48 + 11 - 14 + 1 = 46
+Groundout
+Team 1 pitcher (Ryan Nash): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Jeff Murray: rng1 = 78 + 15 - 14 + 1 = 80
+rng2 = 23 + 10 - 14 + 1 = 20
+Single
+Team 1 pitcher (Ryan Nash): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Victor Harris: rng1 = 47 + 16 - 14 + 1 = 50
+rng2 = 64 + 15 - 14 + 1 = 66
+Flyout
+Team 1 pitcher (Ryan Nash): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Shaun Conley: rng1 = 83 + 15 - 14 + 1 = 85
+rng2 = 86 + 16 - 14 + 1 = 89
+Double
+Team 1 pitcher (Ryan Nash): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Joaquin Alba: rng1 = 44 + 15 - 14 + 1 = 46
+rng2 = 70 + 14 - 14 + 1 = 71
+Flyout
+Team 1 pitcher (Ryan Nash): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 4
+
+Oliver Summers: rng1 = 32 + 10 - 14 - 1 = 27
+Strikeout
+Team 2 pitcher (Luciano Silva): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Emilio Cordero: rng1 = 47 + 10 - 14 - 1 = 42
+rng2 = 40 + 13 - 14 - 1 = 38
+Groundout
+Team 2 pitcher (Luciano Silva): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Floyd Meyers: rng1 = 7 + 9 - 14 - 1 = 1
+Strikeout
+Team 2 pitcher (Luciano Silva): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Jerome Fields: rng1 = 68 + 13 - 14 + 1 = 68
+rng2 = 55 + 14 - 14 + 1 = 56
+Lineout
+Team 1 pitcher (Ryan Nash): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Ali Monroe: rng1 = 81 + 15 - 14 + 1 = 83
+rng2 = 61 + 13 - 14 + 1 = 61
+Single
+Team 1 pitcher (Ryan Nash): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Simon Taylor: rng1 = 34 + 13 - 14 + 1 = 34
+rng2 = 87 + 12 - 14 + 1 = 86
+Flyout
+Team 1 pitcher (Ryan Nash): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Nate Clarke: rng1 = 61 + 15 - 14 + 1 = 63
+rng2 = 57 + 11 - 14 + 1 = 55
+Lineout
+Team 1 pitcher (Ryan Nash): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 5
+
+Wade Poole: rng1 = 44 + 9 - 14 - 1 = 38
+rng2 = 4 + 10 - 14 - 1 = -1
+Groundout
+Team 2 pitcher (Luciano Silva): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Kris Moody: rng1 = 56 + 10 - 14 - 1 = 51
+rng2 = 94 + 9 - 14 - 1 = 88
+Flyout
+Team 2 pitcher (Luciano Silva): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Francisco Mercado: rng1 = 74 + 6 - 14 - 1 = 65
+rng2 = 74 + 10 - 14 - 1 = 69
+Flyout
+Team 2 pitcher (Luciano Silva): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 5
+
+Ivan Rondon: rng1 = 13 + 14 - 14 + 1 = 14
+rng2 = 78 + 11 - 14 + 1 = 76
+Flyout
+Team 1 pitcher (Ryan Nash): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Jeff Murray: rng1 = 37 + 15 - 14 + 1 = 39
+rng2 = 100 + 10 - 14 + 1 = 97
+Flyout
+Team 1 pitcher (Ryan Nash): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Victor Harris: rng1 = 54 + 16 - 14 + 1 = 57
+rng2 = 89 + 15 - 14 + 1 = 91
+Flyout
+Team 1 pitcher (Ryan Nash): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 6
+
+Tyler May: rng1 = 12 + 6 - 14 - 1 = 3
+Strikeout
+Team 2 pitcher (Luciano Silva): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Russell Glover: rng1 = 78 + 14 - 14 - 1 = 77
+rng2 = 73 + 9 - 14 - 1 = 67
+Double
+Team 2 pitcher (Luciano Silva): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Stuart Barton: rng1 = 19 + 11 - 14 - 1 = 15
+rng2 = 26 + 13 - 14 - 1 = 24
+Groundout
+Team 2 pitcher (Luciano Silva): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 2
+
+base1: false, base2: false, base3: [0,0]
+base1: false, base2: false, base3: true
+Score: 1-1
+
+Oliver Summers: rng1 = 80 + 10 - 14 - 1 = 75
+rng2 = 2 + 15 - 14 - 1 = 2
+Single
+Team 2 pitcher (Luciano Silva): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Emilio Cordero: rng1 = 43 + 10 - 14 - 1 = 38
+rng2 = 3 + 13 - 14 - 1 = 1
+Groundout
+Team 2 pitcher (Luciano Silva): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+BOTTOM INNING 6
+
+Shaun Conley: rng1 = 22 + 15 - 14 + 1 = 24
+Strikeout
+Team 1 pitcher (Ryan Nash): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Joaquin Alba: rng1 = 78 + 15 - 14 + 1 = 80
+rng2 = 21 + 14 - 14 + 1 = 22
+Single
+Team 1 pitcher (Ryan Nash): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Jerome Fields: rng1 = 2 + 13 - 14 + 1 = 2
+Strikeout
+Team 1 pitcher (Ryan Nash): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Ali Monroe: rng1 = 35 + 15 - 14 + 1 = 37
+rng2 = 95 + 13 - 14 + 1 = 95
+Flyout
+Team 1 pitcher (Ryan Nash): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+TOP INNING 7
+
+Floyd Meyers: rng1 = 9 + 9 - 14 - 1 = 3
+Strikeout
+Team 2 pitcher (Luciano Silva): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Wade Poole: rng1 = 73 + 9 - 14 - 1 = 67
+rng2 = 28 + 10 - 14 - 1 = 23
+Groundout
+Team 2 pitcher (Luciano Silva): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Kris Moody: rng1 = 18 + 10 - 14 - 1 = 13
+rng2 = 7 + 9 - 14 - 1 = 1
+Groundout
+Team 2 pitcher (Luciano Silva): 25 batters faced, 2 runs allowed = 25 + 5.0 = 30.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+BOTTOM INNING 7
+
+Simon Taylor: rng1 = 98 + 13 - 14 + 1 = 98
+rng2 = 75 + 12 - 14 + 1 = 74
+Double
+Team 1 pitcher (Ryan Nash): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 0
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-1
+
+Nate Clarke: rng1 = 62 + 15 - 14 + 1 = 64
+rng2 = 78 + 11 - 14 + 1 = 76
+Flyout
+Team 1 pitcher (Ryan Nash): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 1
+
+base1: false, base2: false, base3: [5,0]
+base1: false, base2: false, base3: true
+Score: 2-1
+
+Ivan Rondon: rng1 = 98 + 14 - 14 + 1 = 99
+rng2 = 49 + 11 - 14 + 1 = 47
+Single
+Team 1 pitcher (Ryan Nash): 26 batters faced, 2 runs allowed = 26 + 5.0 = 31.0, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Jeff Murray: rng1 = 38 + 15 - 14 + 1 = 40
+rng2 = 95 + 10 - 14 + 1 = 92
+Flyout
+Team 1 pitcher (Ryan Nash): 27 batters faced, 2 runs allowed = 27 + 5.0 = 32.0, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Victor Harris: rng1 = 44 + 16 - 14 + 1 = 47
+rng2 = 22 + 15 - 14 + 1 = 24
+Groundout
+Team 1 pitcher (Ryan Nash): 28 batters faced, 2 runs allowed = 28 + 5.0 = 33.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Walt Lewis
+
+Francisco Mercado: rng1 = 39 + 6 - 13 - 1 = 31
+rng2 = 46 + 10 - 13 - 1 = 42
+Groundout
+Team 2 pitcher (Walt Lewis): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Tyler May: rng1 = 34 + 6 - 13 - 1 = 26
+Strikeout
+Team 2 pitcher (Walt Lewis): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Russell Glover: rng1 = 59 + 14 - 13 - 1 = 59
+rng2 = 54 + 9 - 13 - 1 = 49
+Lineout
+Team 2 pitcher (Walt Lewis): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Jhon Montilla
+
+Shaun Conley: rng1 = 2 + 15 - 13 + 1 = 5
+Strikeout
+Team 1 pitcher (Jhon Montilla): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Joaquin Alba: rng1 = 41 + 15 - 13 + 1 = 44
+rng2 = 66 + 14 - 10 + 1 = 71
+Flyout
+Team 1 pitcher (Jhon Montilla): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Jerome Fields: rng1 = 50 + 13 - 13 + 1 = 51
+rng2 = 7 + 14 - 10 + 1 = 12
+Groundout
+Team 1 pitcher (Jhon Montilla): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+TOP INNING 9
+
+Stuart Barton: rng1 = 60 + 11 - 13 - 1 = 57
+rng2 = 39 + 13 - 13 - 1 = 38
+Groundout
+Team 2 pitcher (Walt Lewis): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Oliver Summers: rng1 = 50 + 10 - 13 - 1 = 46
+rng2 = 56 + 15 - 13 - 1 = 57
+Lineout
+Team 2 pitcher (Walt Lewis): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Emilio Cordero: rng1 = 1 + 10 - 13 - 1 = -3
+Strikeout
+Team 2 pitcher (Walt Lewis): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+BOTTOM INNING 9
+
+Ali Monroe: rng1 = 23 + 15 - 13 + 1 = 26
+Strikeout
+Team 1 pitcher (Jhon Montilla): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Simon Taylor: rng1 = 40 + 13 - 13 + 1 = 41
+rng2 = 27 + 12 - 10 + 1 = 30
+Groundout
+Team 1 pitcher (Jhon Montilla): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Nate Clarke: rng1 = 92 + 15 - 13 + 1 = 95
+rng2 = 26 + 11 - 10 + 1 = 28
+Single
+Team 1 pitcher (Jhon Montilla): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Ivan Rondon: rng1 = 33 + 14 - 13 + 1 = 35
+rng2 = 62 + 11 - 10 + 1 = 64
+Flyout
+Team 1 pitcher (Jhon Montilla): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+TOP INNING 10
+
+Team 2 pitcher change to Jake Booth
+
+Floyd Meyers: rng1 = 68 + 9 - 10 - 1 = 66
+rng2 = 81 + 11 - 9 - 1 = 82
+Flyout
+Team 2 pitcher (Jake Booth): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Wade Poole: rng1 = 33 + 9 - 10 - 1 = 31
+rng2 = 51 + 10 - 9 - 1 = 51
+Lineout
+Team 2 pitcher (Jake Booth): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Kris Moody: rng1 = 82 + 10 - 10 - 1 = 81
+rng2 = 79 + 9 - 9 - 1 = 78
+Double
+Team 2 pitcher (Jake Booth): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [6,2], base3: false
+base1: false, base2: true, base3: false
+Score: 2-2
+
+Francisco Mercado: rng1 = 31 + 6 - 10 - 1 = 26
+Strikeout
+Team 2 pitcher (Jake Booth): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+BOTTOM INNING 10
+
+Team 1 pitcher change to Larry Gibson
+
+Jeff Murray: rng1 = 78 + 15 - 16 + 1 = 78
+rng2 = 99 + 10 - 14 + 1 = 96
+Home run
+Team 1 pitcher (Larry Gibson): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Innings: 10
+Team 1 hits: 5
+Team 2 hits: 9
+Team 1 runs: 2
+Team 2 runs: 3
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-31
+Russell Glover	4	1	1	1	0	0	0	0	1					Salem
+Stuart Barton	4	0	0	0	0	0	0	0	1	
+Oliver Summers	4	1	2	1	0	0	1	0	1	
+Emilio Cordero	4	0	1	0	0	0	1	0	1	
+Floyd Meyers	4	0	0	0	0	0	0	0	2	
+Wade Poole	4	0	0	0	0	0	0	0	0	
+Kris Moody	4	0	1	1	0	0	0	0	0	
+Francisco Mercado	4	0	0	0	0	0	0	0	1	
+Tyler May	3	0	0	0	0	0	0	0	3	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Ryan Nash	0	0	1	1	0	0	21	7	2	0	0	4	28	
+Jhon Montilla	0	0	1	0	0	0	6	1	0	0	0	2	7	
+Diego Guevara	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Luis Rodriguez	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Larry Gibson	0	1	1	0	0	0	0	1	1	1	0	0	1	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-31
+Victor Harris	4	0	0	0	0	0	0	0	1					Reno
+Shaun Conley	4	0	1	1	0	0	1	0	2	
+Joaquin Alba	4	0	1	0	0	0	0	0	0	
+Jerome Fields	4	0	0	0	0	0	0	0	1	
+Ali Monroe	4	0	1	0	0	0	0	0	1	
+Simon Taylor	4	1	2	1	0	0	0	0	0	
+Nate Clarke	4	0	1	0	0	0	0	0	1	
+Ivan Rondon	4	0	1	0	0	0	1	0	0	
+Jeff Murray	4	2	2	0	0	1	1	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Luciano Silva	0	0	1	1	0	0	21	4	2	0	0	7	25	
+Walt Lewis	0	0	1	0	0	0	6	0	0	0	0	2	6	
+Jake Booth	1	0	1	0	0	0	3	1	0	0	0	1	4	
+Johnny Farmer	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Josh Harris	0	0	0	0	0	0	0	0	0	0	0	0	0	

@@ -1,0 +1,707 @@
+TOP INNING 1
+
+Rafael Figueroa: rng1 = 35 + 17 - 8 - 1 = 43
+rng2 = 50 + 13 - 9 - 1 = 53
+Lineout
+Team 2 pitcher (Ethan Scott): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Hernan Pereira: rng1 = 15 + 14 - 8 - 1 = 20
+Strikeout
+Team 2 pitcher (Ethan Scott): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Federico Taveras: rng1 = 7 + 13 - 8 - 1 = 11
+rng2 = 11 + 10 - 9 - 1 = 11
+Groundout
+Team 2 pitcher (Ethan Scott): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Terrence Wise: rng1 = 86 + 15 - 8 + 1 = 94
+rng2 = 52 + 9 - 6 + 1 = 56
+Single
+Team 1 pitcher (Aleksandr Petrov): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Clayton Massey: rng1 = 14 + 13 - 8 + 1 = 20
+Strikeout
+Team 1 pitcher (Aleksandr Petrov): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Ellis Lindsey: rng1 = 65 + 9 - 8 + 1 = 67
+rng2 = 78 + 16 - 6 + 1 = 89
+Flyout
+Team 1 pitcher (Aleksandr Petrov): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Brian Woods: rng1 = 61 + 5 - 8 + 1 = 59
+rng2 = 79 + 11 - 6 + 1 = 85
+Flyout
+Team 1 pitcher (Aleksandr Petrov): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Omar Shah: rng1 = 72 + 8 - 8 - 1 = 71
+Walk
+Team 2 pitcher (Ethan Scott): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Rogelio Rojas: rng1 = 53 + 7 - 8 - 1 = 51
+rng2 = 89 + 9 - 9 - 1 = 88
+Flyout
+Team 2 pitcher (Ethan Scott): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Francisco Illescas: rng1 = 79 + 8 - 8 - 1 = 78
+rng2 = 56 + 8 - 9 - 1 = 54
+Single
+Team 2 pitcher (Ethan Scott): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Gerardo Deleon: rng1 = 46 + 10 - 8 - 1 = 47
+rng2 = 25 + 7 - 9 - 1 = 22
+Groundout
+Team 2 pitcher (Ethan Scott): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Alex Carpenter: rng1 = 48 + 7 - 8 + 1 = 48
+rng2 = 61 + 9 - 6 + 1 = 65
+Flyout
+Team 1 pitcher (Aleksandr Petrov): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Joaquín Laguna: rng1 = 2 + 7 - 8 + 1 = 2
+Strikeout
+Team 1 pitcher (Aleksandr Petrov): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Adalberto Smith: rng1 = 75 + 6 - 8 + 1 = 74
+rng2 = 89 + 9 - 6 + 1 = 93
+Triple
+Team 1 pitcher (Aleksandr Petrov): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: false, base3: [6,0]
+base1: false, base2: false, base3: true
+Score: 0-0
+
+Santino Reyes: rng1 = 14 + 7 - 8 + 1 = 14
+rng2 = 19 + 8 - 6 + 1 = 22
+Groundout
+Team 1 pitcher (Aleksandr Petrov): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 3
+
+Chwa Jung-Su: rng1 = 44 + 8 - 8 - 1 = 43
+rng2 = 21 + 7 - 9 - 1 = 18
+Groundout
+Team 2 pitcher (Ethan Scott): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jerónimo Palomar: rng1 = 71 + 6 - 8 - 1 = 68
+rng2 = 41 + 7 - 9 - 1 = 38
+Groundout
+Team 2 pitcher (Ethan Scott): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Rafael Figueroa: rng1 = 50 + 17 - 8 - 1 = 58
+rng2 = 75 + 13 - 9 - 1 = 78
+Flyout
+Team 2 pitcher (Ethan Scott): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Agustín Molina: rng1 = 79 + 7 - 8 + 1 = 79
+rng2 = 3 + 8 - 6 + 1 = 6
+Single
+Team 1 pitcher (Aleksandr Petrov): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Terrence Wise: rng1 = 34 + 15 - 8 + 1 = 42
+rng2 = 89 + 9 - 6 + 1 = 93
+Flyout
+Team 1 pitcher (Aleksandr Petrov): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Clayton Massey: rng1 = 17 + 13 - 8 + 1 = 23
+Strikeout
+Team 1 pitcher (Aleksandr Petrov): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Ellis Lindsey: rng1 = 60 + 9 - 8 + 1 = 62
+rng2 = 97 + 16 - 6 + 1 = 108
+Flyout
+Team 1 pitcher (Aleksandr Petrov): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 4
+
+Hernan Pereira: rng1 = 58 + 14 - 8 - 1 = 63
+rng2 = 1 + 16 - 9 - 1 = 7
+Groundout
+Team 2 pitcher (Ethan Scott): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Federico Taveras: rng1 = 5 + 13 - 8 - 1 = 9
+Strikeout
+Team 2 pitcher (Ethan Scott): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Omar Shah: rng1 = 35 + 8 - 8 - 1 = 34
+rng2 = 99 + 15 - 9 - 1 = 104
+Flyout
+Team 2 pitcher (Ethan Scott): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 4
+
+Brian Woods: rng1 = 96 + 5 - 8 + 1 = 94
+rng2 = 100 + 11 - 6 + 1 = 106
+Home run
+Team 1 pitcher (Aleksandr Petrov): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Alex Carpenter: rng1 = 70 + 7 - 8 + 1 = 70
+Walk
+Team 1 pitcher (Aleksandr Petrov): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Joaquín Laguna: rng1 = 80 + 7 - 8 + 1 = 80
+rng2 = 12 + 9 - 6 + 1 = 16
+Single
+Team 1 pitcher (Aleksandr Petrov): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 0
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-1
+
+Adalberto Smith: rng1 = 40 + 6 - 8 + 1 = 39
+rng2 = 93 + 9 - 6 + 1 = 97
+Flyout
+Team 1 pitcher (Aleksandr Petrov): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 1
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-1
+
+Santino Reyes: rng1 = 42 + 7 - 8 + 1 = 42
+rng2 = 16 + 8 - 6 + 1 = 19
+Groundout
+Team 1 pitcher (Aleksandr Petrov): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 2
+
+base1: false, base2: [5,0], base3: [4,0]
+base1: false, base2: true, base3: true
+Score: 0-1
+
+Agustín Molina: rng1 = 1 + 7 - 8 + 1 = 1
+Strikeout
+Team 1 pitcher (Aleksandr Petrov): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 5
+
+Rogelio Rojas: rng1 = 42 + 7 - 8 - 1 = 40
+rng2 = 72 + 9 - 9 - 1 = 71
+Flyout
+Team 2 pitcher (Ethan Scott): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Francisco Illescas: rng1 = 5 + 8 - 8 - 1 = 4
+Strikeout
+Team 2 pitcher (Ethan Scott): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Gerardo Deleon: rng1 = 88 + 10 - 8 - 1 = 89
+Walk
+Team 2 pitcher (Ethan Scott): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Chwa Jung-Su: rng1 = 38 + 8 - 8 - 1 = 37
+rng2 = 41 + 7 - 9 - 1 = 38
+Groundout
+Team 2 pitcher (Ethan Scott): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 5
+
+Terrence Wise: rng1 = 2 + 15 - 8 + 1 = 10
+Strikeout
+Team 1 pitcher (Aleksandr Petrov): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Clayton Massey: rng1 = 47 + 13 - 8 + 1 = 53
+rng2 = 21 + 8 - 6 + 1 = 24
+Groundout
+Team 1 pitcher (Aleksandr Petrov): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Ellis Lindsey: rng1 = 43 + 9 - 8 + 1 = 45
+rng2 = 59 + 16 - 6 + 1 = 70
+Flyout
+Team 1 pitcher (Aleksandr Petrov): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 6
+
+Jerónimo Palomar: rng1 = 99 + 6 - 8 - 1 = 96
+rng2 = 28 + 7 - 9 - 1 = 25
+Single
+Team 2 pitcher (Ethan Scott): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Rafael Figueroa: rng1 = 99 + 17 - 8 - 1 = 107
+rng2 = 100 + 13 - 9 - 1 = 103
+Home run
+Team 2 pitcher (Ethan Scott): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Hernan Pereira: rng1 = 31 + 14 - 8 - 1 = 36
+rng2 = 96 + 16 - 9 - 1 = 102
+Flyout
+Team 2 pitcher (Ethan Scott): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Federico Taveras: rng1 = 91 + 13 - 8 - 1 = 95
+rng2 = 29 + 10 - 9 - 1 = 29
+Single
+Team 2 pitcher (Ethan Scott): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Omar Shah: rng1 = 64 + 8 - 8 - 1 = 63
+rng2 = 75 + 15 - 9 - 1 = 80
+Flyout
+Team 2 pitcher (Ethan Scott): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Rogelio Rojas: rng1 = 70 + 7 - 8 - 1 = 68
+rng2 = 29 + 9 - 9 - 1 = 28
+Groundout
+Team 2 pitcher (Ethan Scott): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+BOTTOM INNING 6
+
+Brian Woods: rng1 = 2 + 5 - 8 + 1 = 0
+Strikeout
+Team 1 pitcher (Aleksandr Petrov): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Alex Carpenter: rng1 = 26 + 7 - 8 + 1 = 26
+Strikeout
+Team 1 pitcher (Aleksandr Petrov): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Joaquín Laguna: rng1 = 62 + 7 - 8 + 1 = 62
+rng2 = 71 + 9 - 6 + 1 = 75
+Flyout
+Team 1 pitcher (Aleksandr Petrov): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Kione Andrews
+
+Francisco Illescas: rng1 = 74 + 8 - 8 - 1 = 73
+rng2 = 72 + 8 - 6 - 1 = 73
+Double
+Team 2 pitcher (Kione Andrews): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [5,1], base3: false
+base1: false, base2: true, base3: false
+Score: 2-1
+
+Gerardo Deleon: rng1 = 85 + 10 - 8 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Kione Andrews): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [6,1], base2: [5,1], base3: false
+base1: true, base2: true, base3: false
+Score: 2-1
+
+Chwa Jung-Su: rng1 = 49 + 8 - 8 - 1 = 48
+rng2 = 57 + 7 - 6 - 1 = 57
+Lineout
+Team 2 pitcher (Kione Andrews): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [6,1], base2: [5,1], base3: false
+base1: true, base2: true, base3: false
+Score: 2-1
+
+Jerónimo Palomar: rng1 = 6 + 6 - 8 - 1 = 3
+Strikeout
+Team 2 pitcher (Kione Andrews): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [6,1], base2: [5,1], base3: false
+base1: true, base2: true, base3: false
+Score: 2-1
+
+Rafael Figueroa: rng1 = 14 + 17 - 8 - 1 = 22
+Strikeout
+Team 2 pitcher (Kione Andrews): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+BOTTOM INNING 7
+
+Adalberto Smith: rng1 = 57 + 6 - 8 + 1 = 56
+rng2 = 42 + 9 - 6 + 1 = 46
+Groundout
+Team 1 pitcher (Aleksandr Petrov): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Santino Reyes: rng1 = 18 + 7 - 8 + 1 = 18
+Strikeout
+Team 1 pitcher (Aleksandr Petrov): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Agustín Molina: rng1 = 23 + 7 - 8 + 1 = 23
+Strikeout
+Team 1 pitcher (Aleksandr Petrov): 27 batters faced, 1 runs allowed = 27 + 2.5 = 29.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+TOP INNING 8
+
+Hernan Pereira: rng1 = 83 + 14 - 8 - 1 = 88
+Walk
+Team 2 pitcher (Kione Andrews): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 0
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Federico Taveras: rng1 = 50 + 13 - 8 - 1 = 54
+rng2 = 57 + 10 - 6 - 1 = 60
+Flyout
+Team 2 pitcher (Kione Andrews): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Omar Shah: rng1 = 70 + 8 - 8 - 1 = 69
+rng2 = 66 + 15 - 6 - 1 = 74
+Flyout
+Team 2 pitcher (Kione Andrews): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Rogelio Rojas: rng1 = 10 + 7 - 8 - 1 = 8
+Strikeout
+Team 2 pitcher (Kione Andrews): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Dario Peralta
+
+Terrence Wise: rng1 = 60 + 15 - 10 + 1 = 66
+rng2 = 71 + 9 - 11 + 1 = 70
+Flyout
+Team 1 pitcher (Dario Peralta): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Clayton Massey: rng1 = 77 + 13 - 10 + 1 = 81
+rng2 = 70 + 8 - 11 + 1 = 68
+Double
+Team 1 pitcher (Dario Peralta): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [1,1], base3: false
+base1: false, base2: true, base3: false
+Score: 2-1
+
+Ellis Lindsey: rng1 = 11 + 9 - 10 + 1 = 11
+rng2 = 44 + 16 - 11 + 1 = 50
+Lineout
+Team 1 pitcher (Dario Peralta): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [1,1], base3: false
+base1: false, base2: true, base3: false
+Score: 2-1
+
+Brian Woods: rng1 = 4 + 5 - 10 + 1 = 0
+Strikeout
+Team 1 pitcher (Dario Peralta): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Harris Derickson
+
+Francisco Illescas: rng1 = 2 + 8 - 9 - 1 = 0
+Strikeout
+Team 2 pitcher (Harris Derickson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Gerardo Deleon: rng1 = 44 + 10 - 9 - 1 = 44
+rng2 = 33 + 7 - 8 - 1 = 31
+Groundout
+Team 2 pitcher (Harris Derickson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Chwa Jung-Su: rng1 = 88 + 8 - 9 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Harris Derickson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Jerónimo Palomar: rng1 = 29 + 6 - 9 - 1 = 25
+Strikeout
+Team 2 pitcher (Harris Derickson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Ernesto Salazar
+
+Alex Carpenter: rng1 = 14 + 7 - 14 + 1 = 8
+Strikeout
+Team 1 pitcher (Ernesto Salazar): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Joaquín Laguna: rng1 = 13 + 7 - 14 + 1 = 7
+Strikeout
+Team 1 pitcher (Ernesto Salazar): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Adalberto Smith: rng1 = 59 + 6 - 14 + 1 = 52
+rng2 = 21 + 9 - 8 + 1 = 23
+Groundout
+Team 1 pitcher (Ernesto Salazar): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 5
+Team 2 hits: 6
+Team 1 runs: 2
+Team 2 runs: 1
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-31
+Rafael Figueroa	4	1	1	0	0	1	2	0	1					Cleveland
+Hernan Pereira	3	0	0	0	0	0	0	1	1	
+Federico Taveras	4	0	1	0	0	0	0	0	1	
+Omar Shah	3	0	0	0	0	0	0	1	0	
+Rogelio Rojas	4	0	0	0	0	0	0	0	1	
+Francisco Illescas	4	0	2	1	0	0	0	0	2	
+Gerardo Deleon	2	0	0	0	0	0	0	1	0	
+Chwa Jung-Su	3	0	0	0	0	0	0	0	0	
+Jerónimo Palomar	4	1	1	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Aleksandr Petrov	1	0	1	1	0	0	21	5	1	1	1	9	27	
+Dario Peralta	0	0	1	0	0	0	3	1	0	0	0	1	4	
+Sidney Petersen	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Jaime Espinosa	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Ernesto Salazar	0	0	1	0	1	1	3	0	0	0	0	2	3	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-31
+Terrence Wise	4	0	1	0	0	0	0	0	1					Tokyo
+Clayton Massey	4	0	1	1	0	0	0	0	2	
+Ellis Lindsey	4	0	0	0	0	0	0	0	0	
+Brian Woods	4	1	1	0	0	1	1	0	2	
+Alex Carpenter	3	0	0	0	0	0	0	1	2	
+Joaquín Laguna	4	0	1	0	0	0	0	0	2	
+Adalberto Smith	4	0	1	0	1	0	0	0	0	
+Santino Reyes	3	0	0	0	0	0	0	0	1	
+Agustín Molina	3	0	1	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Ethan Scott	0	1	1	1	0	0	18	4	2	1	2	3	23	
+Kione Andrews	0	0	1	0	0	0	6	1	0	0	1	3	9	
+Harris Derickson	0	0	1	0	0	0	3	0	0	0	0	2	4	
+Teagan Molina	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Zion Wright	0	0	0	0	0	0	0	0	0	0	0	0	0	

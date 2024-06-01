@@ -1,0 +1,839 @@
+TOP INNING 1
+
+Ramon Cabrera: rng1 = 20 + 14 - 10 - 1 = 23
+Strikeout
+Team 2 pitcher (Pete McBride): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Emilio Soto: rng1 = 55 + 9 - 10 - 1 = 53
+rng2 = 10 + 11 - 11 - 1 = 9
+Groundout
+Team 2 pitcher (Pete McBride): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Valentino Rubio: rng1 = 92 + 9 - 10 - 1 = 90
+Walk
+Team 2 pitcher (Pete McBride): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Les Drake: rng1 = 6 + 8 - 10 - 1 = 3
+Strikeout
+Team 2 pitcher (Pete McBride): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Ernesto Fuentes: rng1 = 81 + 16 - 9 + 1 = 89
+Walk
+Team 1 pitcher (Spencer Atkinson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Lawrence Webb: rng1 = 35 + 16 - 9 + 1 = 43
+rng2 = 13 + 13 - 8 + 1 = 19
+Groundout
+Team 1 pitcher (Spencer Atkinson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Mateo Estrada: rng1 = 15 + 15 - 9 + 1 = 22
+Strikeout
+Team 1 pitcher (Spencer Atkinson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Rafael Guzman: rng1 = 76 + 14 - 9 + 1 = 82
+rng2 = 64 + 16 - 8 + 1 = 73
+Double
+Team 1 pitcher (Spencer Atkinson): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Miguel Castillo: rng1 = 80 + 13 - 9 + 1 = 85
+rng2 = 11 + 12 - 8 + 1 = 16
+Single
+Team 1 pitcher (Spencer Atkinson): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Jorge Perez: rng1 = 15 + 13 - 9 + 1 = 20
+Strikeout
+Team 1 pitcher (Spencer Atkinson): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 2
+
+Elmer Sparks: rng1 = 68 + 7 - 10 - 1 = 64
+rng2 = 78 + 9 - 11 - 1 = 75
+Flyout
+Team 2 pitcher (Pete McBride): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Max Lawrence: rng1 = 86 + 7 - 10 - 1 = 82
+rng2 = 56 + 8 - 11 - 1 = 52
+Single
+Team 2 pitcher (Pete McBride): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Chaquille Barnett: rng1 = 91 + 9 - 10 - 1 = 89
+Walk
+Team 2 pitcher (Pete McBride): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-2
+
+Bradley Simon: rng1 = 34 + 8 - 10 - 1 = 31
+rng2 = 81 + 6 - 11 - 1 = 75
+Flyout
+Team 2 pitcher (Pete McBride): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 0-2
+
+Clarence Carr: rng1 = 91 + 9 - 10 - 1 = 89
+Walk
+Team 2 pitcher (Pete McBride): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: [8,0], base2: [6,0], base3: [5,0]
+base1: true, base2: true, base3: true
+Score: 0-2
+
+Ramon Cabrera: rng1 = 65 + 14 - 10 - 1 = 68
+rng2 = 2 + 13 - 11 - 1 = 3
+Groundout
+Team 2 pitcher (Pete McBride): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+BOTTOM INNING 2
+
+Logan Zimmerman: rng1 = 25 + 11 - 9 + 1 = 28
+Strikeout
+Team 1 pitcher (Spencer Atkinson): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Domingo Matias: rng1 = 33 + 9 - 9 + 1 = 34
+rng2 = 54 + 10 - 8 + 1 = 57
+Lineout
+Team 1 pitcher (Spencer Atkinson): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Sean Stevens: rng1 = 63 + 6 - 9 + 1 = 61
+rng2 = 85 + 9 - 8 + 1 = 87
+Flyout
+Team 1 pitcher (Spencer Atkinson): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 3
+
+Emilio Soto: rng1 = 30 + 9 - 10 - 1 = 28
+Strikeout
+Team 2 pitcher (Pete McBride): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Valentino Rubio: rng1 = 82 + 9 - 10 - 1 = 80
+rng2 = 18 + 7 - 11 - 1 = 13
+Single
+Team 2 pitcher (Pete McBride): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Les Drake: rng1 = 44 + 8 - 10 - 1 = 41
+rng2 = 29 + 13 - 11 - 1 = 30
+Groundout
+Team 2 pitcher (Pete McBride): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+BOTTOM INNING 3
+
+Ernesto Fuentes: rng1 = 80 + 16 - 9 + 1 = 88
+Walk
+Team 1 pitcher (Spencer Atkinson): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Lawrence Webb: rng1 = 73 + 16 - 9 + 1 = 81
+rng2 = 28 + 13 - 8 + 1 = 34
+Single
+Team 1 pitcher (Spencer Atkinson): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 0
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 0-2
+
+Mateo Estrada: rng1 = 31 + 15 - 9 + 1 = 38
+rng2 = 50 + 17 - 8 + 1 = 60
+Flyout
+Team 1 pitcher (Spencer Atkinson): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Rafael Guzman: rng1 = 97 + 14 - 9 + 1 = 103
+rng2 = 89 + 16 - 8 + 1 = 98
+Home run
+Team 1 pitcher (Spencer Atkinson): 13 batters faced, 5 runs allowed = 13 + 12.5 = 25.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Miguel Castillo: rng1 = 86 + 13 - 9 + 1 = 91
+rng2 = 16 + 12 - 8 + 1 = 21
+Single
+Team 1 pitcher (Spencer Atkinson): 14 batters faced, 5 runs allowed = 14 + 12.5 = 26.5, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Jorge Perez: rng1 = 72 + 13 - 9 + 1 = 77
+rng2 = 27 + 11 - 8 + 1 = 31
+Single
+Team 1 pitcher (Spencer Atkinson): 15 batters faced, 5 runs allowed = 15 + 12.5 = 27.5, outs: 1
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-5
+
+Logan Zimmerman: rng1 = 34 + 11 - 9 + 1 = 37
+rng2 = 38 + 10 - 8 + 1 = 41
+Groundout
+Team 1 pitcher (Spencer Atkinson): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 2
+
+base1: false, base2: [5,0], base3: [4,0]
+base1: false, base2: true, base3: true
+Score: 0-5
+
+Domingo Matias: rng1 = 96 + 9 - 9 + 1 = 97
+rng2 = 62 + 10 - 8 + 1 = 65
+Single
+Team 1 pitcher (Spencer Atkinson): 17 batters faced, 7 runs allowed = 17 + 17.5 = 34.5, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-7
+
+Sean Stevens: rng1 = 80 + 6 - 9 + 1 = 78
+rng2 = 23 + 9 - 8 + 1 = 25
+Single
+Team 1 pitcher (Spencer Atkinson): 18 batters faced, 7 runs allowed = 18 + 17.5 = 35.5, outs: 2
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-7
+
+Team 1 pitcher change to Julian Underwood
+
+Ernesto Fuentes: rng1 = 52 + 16 - 11 + 1 = 58
+rng2 = 71 + 15 - 8 + 1 = 79
+Flyout
+Team 1 pitcher (Julian Underwood): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-7
+
+-----------------------
+
+TOP INNING 4
+
+Elmer Sparks: rng1 = 41 + 7 - 10 - 1 = 37
+rng2 = 13 + 9 - 11 - 1 = 10
+Groundout
+Team 2 pitcher (Pete McBride): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-7
+
+Max Lawrence: rng1 = 59 + 7 - 10 - 1 = 55
+rng2 = 1 + 8 - 11 - 1 = -3
+Groundout
+Team 2 pitcher (Pete McBride): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-7
+
+Chaquille Barnett: rng1 = 5 + 9 - 10 - 1 = 3
+Strikeout
+Team 2 pitcher (Pete McBride): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-7
+
+-----------------------
+
+BOTTOM INNING 4
+
+Lawrence Webb: rng1 = 32 + 16 - 11 + 1 = 38
+rng2 = 80 + 13 - 8 + 1 = 86
+Flyout
+Team 1 pitcher (Julian Underwood): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-7
+
+Mateo Estrada: rng1 = 87 + 15 - 11 + 1 = 92
+rng2 = 92 + 17 - 8 + 1 = 102
+Home run
+Team 1 pitcher (Julian Underwood): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-8
+
+Rafael Guzman: rng1 = 87 + 14 - 11 + 1 = 91
+rng2 = 76 + 16 - 8 + 1 = 85
+Home run
+Team 1 pitcher (Julian Underwood): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-9
+
+Miguel Castillo: rng1 = 80 + 13 - 11 + 1 = 83
+rng2 = 13 + 12 - 8 + 1 = 18
+Single
+Team 1 pitcher (Julian Underwood): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 1
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-9
+
+Jorge Perez: rng1 = 31 + 13 - 11 + 1 = 34
+rng2 = 82 + 11 - 8 + 1 = 86
+Flyout
+Team 1 pitcher (Julian Underwood): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-9
+
+Logan Zimmerman: rng1 = 28 + 11 - 11 + 1 = 29
+rng2 = 3 + 10 - 8 + 1 = 6
+Groundout
+Team 1 pitcher (Julian Underwood): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-9
+
+-----------------------
+
+TOP INNING 5
+
+Bradley Simon: rng1 = 83 + 8 - 10 - 1 = 80
+rng2 = 81 + 6 - 11 - 1 = 75
+Double
+Team 2 pitcher (Pete McBride): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 0
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-9
+
+Clarence Carr: rng1 = 89 + 9 - 10 - 1 = 87
+Walk
+Team 2 pitcher (Pete McBride): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 0
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-9
+
+Ramon Cabrera: rng1 = 56 + 14 - 10 - 1 = 59
+rng2 = 84 + 13 - 11 - 1 = 85
+Flyout
+Team 2 pitcher (Pete McBride): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 1
+
+base1: [8,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 0-9
+
+Emilio Soto: rng1 = 80 + 9 - 10 - 1 = 78
+rng2 = 73 + 11 - 11 - 1 = 72
+Double
+Team 2 pitcher (Pete McBride): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 1
+
+base1: false, base2: [1,0], base3: [8,0]
+base1: false, base2: true, base3: true
+Score: 1-9
+
+Valentino Rubio: rng1 = 76 + 9 - 10 - 1 = 74
+rng2 = 66 + 7 - 11 - 1 = 61
+Single
+Team 2 pitcher (Pete McBride): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-9
+
+Les Drake: rng1 = 87 + 8 - 10 - 1 = 84
+rng2 = 17 + 13 - 11 - 1 = 18
+Single
+Team 2 pitcher (Pete McBride): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 1
+
+base1: [3,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 3-9
+
+Elmer Sparks: rng1 = 81 + 7 - 10 - 1 = 77
+rng2 = 95 + 9 - 11 - 1 = 92
+Double
+Team 2 pitcher (Pete McBride): 23 batters faced, 4 runs allowed = 23 + 10.0 = 33.0, outs: 1
+
+base1: false, base2: [4,0], base3: [3,0]
+base1: false, base2: true, base3: true
+Score: 4-9
+
+Team 2 pitcher change to Sergio Marmolejos
+
+Max Lawrence: rng1 = 88 + 7 - 7 - 1 = 87
+Walk
+Team 2 pitcher (Sergio Marmolejos): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: [5,1], base2: [4,0], base3: [3,0]
+base1: true, base2: true, base3: true
+Score: 4-9
+
+Chaquille Barnett: rng1 = 71 + 9 - 7 - 1 = 72
+Walk
+Team 2 pitcher (Sergio Marmolejos): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [6,1], base2: [5,1], base3: [4,0]
+base1: true, base2: true, base3: true
+Score: 5-9
+
+Bradley Simon: rng1 = 62 + 8 - 7 - 1 = 62
+rng2 = 2 + 6 - 9 - 1 = -2
+Groundout
+Team 2 pitcher (Sergio Marmolejos): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-9
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Rajah Rice
+
+Domingo Matias: rng1 = 59 + 9 - 7 + 1 = 62
+rng2 = 87 + 10 - 9 + 1 = 89
+Flyout
+Team 1 pitcher (Rajah Rice): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-9
+
+Sean Stevens: rng1 = 83 + 6 - 7 + 1 = 83
+rng2 = 86 + 9 - 9 + 1 = 87
+Double
+Team 1 pitcher (Rajah Rice): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [8,2], base3: false
+base1: false, base2: true, base3: false
+Score: 5-9
+
+Ernesto Fuentes: rng1 = 1 + 16 - 7 + 1 = 11
+rng2 = 70 + 15 - 9 + 1 = 77
+Flyout
+Team 1 pitcher (Rajah Rice): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: [8,2]
+base1: false, base2: false, base3: true
+Score: 5-9
+
+Lawrence Webb: rng1 = 56 + 16 - 7 + 1 = 66
+rng2 = 17 + 13 - 9 + 1 = 22
+Groundout
+Team 1 pitcher (Rajah Rice): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-9
+
+-----------------------
+
+TOP INNING 6
+
+Clarence Carr: rng1 = 47 + 9 - 7 - 1 = 48
+rng2 = 10 + 5 - 9 - 1 = 5
+Groundout
+Team 2 pitcher (Sergio Marmolejos): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-9
+
+Ramon Cabrera: rng1 = 88 + 14 - 7 - 1 = 94
+rng2 = 43 + 13 - 9 - 1 = 46
+Single
+Team 2 pitcher (Sergio Marmolejos): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-9
+
+Emilio Soto: rng1 = 30 + 9 - 7 - 1 = 31
+rng2 = 58 + 11 - 9 - 1 = 59
+Flyout
+Team 2 pitcher (Sergio Marmolejos): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-9
+
+Valentino Rubio: rng1 = 99 + 9 - 7 - 1 = 100
+rng2 = 50 + 7 - 9 - 1 = 47
+Single
+Team 2 pitcher (Sergio Marmolejos): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [2,1], base2: false, base3: [0,1]
+base1: true, base2: false, base3: true
+Score: 5-9
+
+Les Drake: rng1 = 46 + 8 - 7 - 1 = 46
+rng2 = 79 + 13 - 9 - 1 = 82
+Flyout
+Team 2 pitcher (Sergio Marmolejos): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-9
+
+-----------------------
+
+BOTTOM INNING 6
+
+Mateo Estrada: rng1 = 74 + 15 - 7 + 1 = 83
+rng2 = 60 + 17 - 9 + 1 = 69
+Double
+Team 1 pitcher (Rajah Rice): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: false, base2: [2,2], base3: false
+base1: false, base2: true, base3: false
+Score: 5-9
+
+Rafael Guzman: rng1 = 55 + 14 - 7 + 1 = 63
+rng2 = 33 + 16 - 9 + 1 = 41
+Groundout
+Team 1 pitcher (Rajah Rice): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: false, base3: [2,2]
+base1: false, base2: false, base3: true
+Score: 5-9
+
+Miguel Castillo: rng1 = 33 + 13 - 7 + 1 = 40
+rng2 = 59 + 12 - 9 + 1 = 63
+Flyout
+Team 1 pitcher (Rajah Rice): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: false, base3: [2,2]
+base1: false, base2: false, base3: true
+Score: 5-9
+
+Jorge Perez: rng1 = 37 + 13 - 7 + 1 = 44
+rng2 = 74 + 11 - 9 + 1 = 77
+Flyout
+Team 1 pitcher (Rajah Rice): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-9
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Henry Wright
+
+Elmer Sparks: rng1 = 100 + 7 - 12 - 1 = 94
+rng2 = 18 + 9 - 9 - 1 = 17
+Single
+Team 2 pitcher (Henry Wright): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-9
+
+Max Lawrence: rng1 = 27 + 7 - 12 - 1 = 21
+Strikeout
+Team 2 pitcher (Henry Wright): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-9
+
+Chaquille Barnett: rng1 = 72 + 9 - 12 - 1 = 68
+rng2 = 80 + 6 - 9 - 1 = 76
+Flyout
+Team 2 pitcher (Henry Wright): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-9
+
+Bradley Simon: rng1 = 84 + 8 - 12 - 1 = 79
+rng2 = 72 + 6 - 9 - 1 = 68
+Double
+Team 2 pitcher (Henry Wright): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [7,2], base3: false
+base1: false, base2: true, base3: false
+Score: 6-9
+
+Clarence Carr: rng1 = 71 + 9 - 12 - 1 = 67
+rng2 = 44 + 5 - 9 - 1 = 39
+Groundout
+Team 2 pitcher (Henry Wright): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-9
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Franklin Hood
+
+Logan Zimmerman: rng1 = 16 + 11 - 9 + 1 = 19
+Strikeout
+Team 1 pitcher (Franklin Hood): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-9
+
+Domingo Matias: rng1 = 99 + 9 - 9 + 1 = 100
+rng2 = 32 + 10 - 12 + 1 = 31
+Single
+Team 1 pitcher (Franklin Hood): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [7,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-9
+
+Sean Stevens: rng1 = 69 + 6 - 9 + 1 = 67
+rng2 = 25 + 9 - 12 + 1 = 23
+Groundout
+Team 1 pitcher (Franklin Hood): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [7,3], base3: false
+base1: false, base2: true, base3: false
+Score: 6-9
+
+Ernesto Fuentes: rng1 = 57 + 16 - 9 + 1 = 65
+rng2 = 73 + 15 - 12 + 1 = 77
+Flyout
+Team 1 pitcher (Franklin Hood): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-9
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Junior Acosta
+
+Ramon Cabrera: rng1 = 20 + 14 - 11 - 1 = 22
+Strikeout
+Team 2 pitcher (Junior Acosta): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-9
+
+Emilio Soto: rng1 = 2 + 9 - 11 - 1 = -1
+Strikeout
+Team 2 pitcher (Junior Acosta): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-9
+
+Valentino Rubio: rng1 = 1 + 9 - 11 - 1 = -2
+Strikeout
+Team 2 pitcher (Junior Acosta): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-9
+
+-----------------------
+
+BOTTOM INNING 8
+
+Lawrence Webb: rng1 = 12 + 16 - 9 + 1 = 20
+Strikeout
+Team 1 pitcher (Franklin Hood): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-9
+
+Mateo Estrada: rng1 = 75 + 15 - 9 + 1 = 82
+rng2 = 29 + 17 - 12 + 1 = 35
+Single
+Team 1 pitcher (Franklin Hood): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [2,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-9
+
+Rafael Guzman: rng1 = 20 + 14 - 9 + 1 = 26
+Strikeout
+Team 1 pitcher (Franklin Hood): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [2,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-9
+
+Miguel Castillo: rng1 = 25 + 13 - 9 + 1 = 30
+rng2 = 31 + 12 - 12 + 1 = 32
+Groundout
+Team 1 pitcher (Franklin Hood): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-9
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Santiago Rivero
+
+Les Drake: rng1 = 44 + 8 - 10 - 1 = 41
+rng2 = 75 + 13 - 15 - 1 = 72
+Flyout
+Team 2 pitcher (Santiago Rivero): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-9
+
+Elmer Sparks: rng1 = 99 + 7 - 10 - 1 = 95
+rng2 = 35 + 9 - 15 - 1 = 28
+Single
+Team 2 pitcher (Santiago Rivero): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [4,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-9
+
+Max Lawrence: rng1 = 44 + 7 - 10 - 1 = 40
+rng2 = 42 + 8 - 15 - 1 = 34
+Groundout
+Team 2 pitcher (Santiago Rivero): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [5,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-9
+
+Chaquille Barnett: rng1 = 7 + 9 - 10 - 1 = 5
+Strikeout
+Team 2 pitcher (Santiago Rivero): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-9
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 12
+Team 2 hits: 15
+Team 1 runs: 6
+Team 2 runs: 9
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-31
+Ramon Cabrera	5	0	1	0	0	0	0	0	2					Anaheim
+Emilio Soto	5	1	1	1	0	0	1	0	2	
+Valentino Rubio	4	1	3	0	0	0	2	1	1	
+Les Drake	5	1	1	0	0	0	0	0	1	
+Elmer Sparks	5	1	3	1	0	0	1	0	0	
+Max Lawrence	4	0	1	0	0	0	0	1	1	
+Chaquille Barnett	3	0	0	0	0	0	1	2	2	
+Bradley Simon	4	1	2	2	0	0	1	0	0	
+Clarence Carr	2	1	0	0	0	0	0	2	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Spencer Atkinson	0	1	1	1	0	0	8	8	7	1	2	3	18	
+Julian Underwood	0	0	1	0	0	0	4	3	2	2	0	0	7	
+Rajah Rice	0	0	1	0	0	0	6	2	0	0	0	0	8	
+Franklin Hood	0	0	1	0	0	0	6	2	0	0	0	3	8	
+Shunji Onishi	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-31
+Ernesto Fuentes	3	2	0	0	0	0	0	2	0					StLouis
+Lawrence Webb	5	1	1	0	0	0	0	0	1	
+Mateo Estrada	5	1	3	1	0	1	2	0	1	
+Rafael Guzman	5	3	3	1	0	2	4	0	1	
+Miguel Castillo	5	1	3	0	0	0	1	0	0	
+Jorge Perez	4	1	1	0	0	0	0	0	1	
+Logan Zimmerman	4	0	0	0	0	0	0	0	2	
+Domingo Matias	4	0	2	0	0	0	2	0	0	
+Sean Stevens	4	0	2	1	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Pete McBride	1	0	1	1	0	0	13	7	5	0	4	4	23	
+Sergio Marmolejos	0	0	1	0	0	0	5	2	0	0	2	0	8	
+Henry Wright	0	0	1	0	0	0	3	2	1	0	0	1	5	
+Junior Acosta	0	0	1	0	0	0	3	0	0	0	0	3	3	
+Santiago Rivero	0	0	1	0	1	1	3	1	0	0	0	1	4	

@@ -1,0 +1,830 @@
+TOP INNING 1
+
+Diego Vargas: rng1 = 83 + 17 - 10 - 1 = 89
+Walk
+Team 2 pitcher (Pete McBride): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Trevor Holloway: rng1 = 85 + 12 - 10 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Pete McBride): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Quentin Farmer: rng1 = 80 + 11 - 10 - 1 = 80
+rng2 = 24 + 4 - 11 - 1 = 16
+Single
+Team 2 pitcher (Pete McBride): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 0
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Chester Hubbard: rng1 = 66 + 9 - 10 - 1 = 64
+rng2 = 56 + 12 - 11 - 1 = 56
+Lineout
+Team 2 pitcher (Pete McBride): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Art Whitaker: rng1 = 53 + 10 - 10 - 1 = 52
+rng2 = 10 + 11 - 11 - 1 = 9
+Groundout
+Team 2 pitcher (Pete McBride): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [4,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Bobby King: rng1 = 43 + 5 - 10 - 1 = 37
+rng2 = 88 + 9 - 11 - 1 = 85
+Flyout
+Team 2 pitcher (Pete McBride): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Ernesto Fuentes: rng1 = 96 + 16 - 9 + 1 = 104
+rng2 = 32 + 15 - 7 + 1 = 41
+Single
+Team 1 pitcher (Solomon McCarthy): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Lawrence Webb: rng1 = 71 + 16 - 9 + 1 = 79
+rng2 = 49 + 13 - 7 + 1 = 56
+Single
+Team 1 pitcher (Solomon McCarthy): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Mateo Estrada: rng1 = 3 + 15 - 9 + 1 = 10
+Strikeout
+Team 1 pitcher (Solomon McCarthy): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Rafael Guzman: rng1 = 69 + 14 - 9 + 1 = 75
+rng2 = 70 + 16 - 7 + 1 = 80
+Home run
+Team 1 pitcher (Solomon McCarthy): 4 batters faced, 3 runs allowed = 4 + 7.5 = 11.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Miguel Castillo: rng1 = 77 + 13 - 9 + 1 = 82
+rng2 = 7 + 12 - 7 + 1 = 13
+Single
+Team 1 pitcher (Solomon McCarthy): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Jorge Perez: rng1 = 21 + 13 - 9 + 1 = 26
+Strikeout
+Team 1 pitcher (Solomon McCarthy): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Logan Zimmerman: rng1 = 10 + 11 - 9 + 1 = 13
+rng2 = 41 + 10 - 7 + 1 = 45
+Groundout
+Team 1 pitcher (Solomon McCarthy): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 2
+
+Joey Greer: rng1 = 76 + 8 - 10 - 1 = 73
+rng2 = 2 + 8 - 11 - 1 = -2
+Single
+Team 2 pitcher (Pete McBride): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Melvin Carlson: rng1 = 71 + 9 - 10 - 1 = 69
+rng2 = 82 + 7 - 11 - 1 = 77
+Flyout
+Team 2 pitcher (Pete McBride): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Dídac Laguna: rng1 = 75 + 8 - 10 - 1 = 72
+Walk
+Team 2 pitcher (Pete McBride): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: [8,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-3
+
+Diego Vargas: rng1 = 63 + 17 - 10 - 1 = 69
+rng2 = 50 + 16 - 11 - 1 = 54
+Lineout
+Team 2 pitcher (Pete McBride): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: [8,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-3
+
+Trevor Holloway: rng1 = 44 + 12 - 10 - 1 = 45
+rng2 = 96 + 12 - 11 - 1 = 96
+Flyout
+Team 2 pitcher (Pete McBride): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+BOTTOM INNING 2
+
+Domingo Matias: rng1 = 15 + 9 - 9 + 1 = 16
+Strikeout
+Team 1 pitcher (Solomon McCarthy): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Sean Stevens: rng1 = 59 + 6 - 9 + 1 = 57
+rng2 = 4 + 9 - 7 + 1 = 7
+Groundout
+Team 1 pitcher (Solomon McCarthy): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Ernesto Fuentes: rng1 = 36 + 16 - 9 + 1 = 44
+rng2 = 41 + 15 - 7 + 1 = 50
+Lineout
+Team 1 pitcher (Solomon McCarthy): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 3
+
+Quentin Farmer: rng1 = 95 + 11 - 10 - 1 = 95
+rng2 = 35 + 4 - 11 - 1 = 27
+Single
+Team 2 pitcher (Pete McBride): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 0
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Chester Hubbard: rng1 = 62 + 9 - 10 - 1 = 60
+rng2 = 4 + 12 - 11 - 1 = 4
+Groundout
+Team 2 pitcher (Pete McBride): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-3
+
+Art Whitaker: rng1 = 8 + 10 - 10 - 1 = 7
+Strikeout
+Team 2 pitcher (Pete McBride): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-3
+
+Bobby King: rng1 = 49 + 5 - 10 - 1 = 43
+rng2 = 40 + 9 - 11 - 1 = 37
+Groundout
+Team 2 pitcher (Pete McBride): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+BOTTOM INNING 3
+
+Lawrence Webb: rng1 = 35 + 16 - 9 + 1 = 43
+rng2 = 43 + 13 - 7 + 1 = 50
+Lineout
+Team 1 pitcher (Solomon McCarthy): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Mateo Estrada: rng1 = 13 + 15 - 9 + 1 = 20
+Strikeout
+Team 1 pitcher (Solomon McCarthy): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Rafael Guzman: rng1 = 49 + 14 - 9 + 1 = 55
+rng2 = 41 + 16 - 7 + 1 = 51
+Lineout
+Team 1 pitcher (Solomon McCarthy): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 4
+
+Joey Greer: rng1 = 53 + 8 - 10 - 1 = 50
+rng2 = 11 + 8 - 11 - 1 = 7
+Groundout
+Team 2 pitcher (Pete McBride): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Melvin Carlson: rng1 = 47 + 9 - 10 - 1 = 45
+rng2 = 23 + 7 - 11 - 1 = 18
+Groundout
+Team 2 pitcher (Pete McBride): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Dídac Laguna: rng1 = 100 + 8 - 10 - 1 = 97
+rng2 = 54 + 6 - 11 - 1 = 48
+Single
+Team 2 pitcher (Pete McBride): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Diego Vargas: rng1 = 39 + 17 - 10 - 1 = 45
+rng2 = 1 + 16 - 11 - 1 = 5
+Groundout
+Team 2 pitcher (Pete McBride): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+BOTTOM INNING 4
+
+Miguel Castillo: rng1 = 46 + 13 - 9 + 1 = 51
+rng2 = 5 + 12 - 7 + 1 = 11
+Groundout
+Team 1 pitcher (Solomon McCarthy): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Jorge Perez: rng1 = 69 + 13 - 9 + 1 = 74
+rng2 = 26 + 11 - 7 + 1 = 31
+Single
+Team 1 pitcher (Solomon McCarthy): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Logan Zimmerman: rng1 = 4 + 11 - 9 + 1 = 7
+Strikeout
+Team 1 pitcher (Solomon McCarthy): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Domingo Matias: rng1 = 32 + 9 - 9 + 1 = 33
+rng2 = 55 + 10 - 7 + 1 = 59
+Flyout
+Team 1 pitcher (Solomon McCarthy): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 5
+
+Trevor Holloway: rng1 = 60 + 12 - 10 - 1 = 61
+rng2 = 50 + 12 - 11 - 1 = 50
+Lineout
+Team 2 pitcher (Pete McBride): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Quentin Farmer: rng1 = 23 + 11 - 10 - 1 = 23
+Strikeout
+Team 2 pitcher (Pete McBride): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Chester Hubbard: rng1 = 92 + 9 - 10 - 1 = 90
+Walk
+Team 2 pitcher (Pete McBride): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Art Whitaker: rng1 = 75 + 10 - 10 - 1 = 74
+rng2 = 100 + 11 - 11 - 1 = 99
+Home run
+Team 2 pitcher (Pete McBride): 23 batters faced, 3 runs allowed = 23 + 7.5 = 30.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Bobby King: rng1 = 51 + 5 - 10 - 1 = 45
+rng2 = 73 + 9 - 11 - 1 = 70
+Flyout
+Team 2 pitcher (Pete McBride): 24 batters faced, 3 runs allowed = 24 + 7.5 = 31.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+BOTTOM INNING 5
+
+Sean Stevens: rng1 = 29 + 6 - 9 + 1 = 27
+Strikeout
+Team 1 pitcher (Solomon McCarthy): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Ernesto Fuentes: rng1 = 79 + 16 - 9 + 1 = 87
+Walk
+Team 1 pitcher (Solomon McCarthy): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Lawrence Webb: rng1 = 53 + 16 - 9 + 1 = 61
+rng2 = 58 + 13 - 7 + 1 = 65
+Flyout
+Team 1 pitcher (Solomon McCarthy): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Mateo Estrada: rng1 = 67 + 15 - 9 + 1 = 74
+rng2 = 30 + 17 - 7 + 1 = 41
+Single
+Team 1 pitcher (Solomon McCarthy): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 2
+
+base1: [2,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-3
+
+Rafael Guzman: rng1 = 1 + 14 - 9 + 1 = 7
+Strikeout
+Team 1 pitcher (Solomon McCarthy): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Junior Acosta
+
+Joey Greer: rng1 = 26 + 8 - 11 - 1 = 22
+Strikeout
+Team 2 pitcher (Junior Acosta): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Melvin Carlson: rng1 = 47 + 9 - 11 - 1 = 44
+rng2 = 71 + 7 - 9 - 1 = 68
+Flyout
+Team 2 pitcher (Junior Acosta): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Dídac Laguna: rng1 = 3 + 8 - 11 - 1 = -1
+Strikeout
+Team 2 pitcher (Junior Acosta): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Mitch Boyd
+
+Miguel Castillo: rng1 = 21 + 13 - 15 + 1 = 20
+Strikeout
+Team 1 pitcher (Mitch Boyd): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Jorge Perez: rng1 = 34 + 13 - 15 + 1 = 33
+rng2 = 37 + 11 - 11 + 1 = 38
+Groundout
+Team 1 pitcher (Mitch Boyd): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Logan Zimmerman: rng1 = 100 + 11 - 15 + 1 = 97
+rng2 = 27 + 10 - 11 + 1 = 27
+Single
+Team 1 pitcher (Mitch Boyd): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Domingo Matias: rng1 = 68 + 9 - 15 + 1 = 63
+rng2 = 91 + 10 - 11 + 1 = 91
+Flyout
+Team 1 pitcher (Mitch Boyd): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+TOP INNING 7
+
+Diego Vargas: rng1 = 88 + 17 - 11 - 1 = 93
+rng2 = 76 + 16 - 9 - 1 = 82
+Home run
+Team 2 pitcher (Junior Acosta): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Trevor Holloway: rng1 = 2 + 12 - 11 - 1 = 2
+Strikeout
+Team 2 pitcher (Junior Acosta): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Quentin Farmer: rng1 = 18 + 11 - 11 - 1 = 17
+Strikeout
+Team 2 pitcher (Junior Acosta): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Chester Hubbard: rng1 = 20 + 9 - 11 - 1 = 17
+Strikeout
+Team 2 pitcher (Junior Acosta): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+BOTTOM INNING 7
+
+Sean Stevens: rng1 = 29 + 6 - 15 + 1 = 21
+Strikeout
+Team 1 pitcher (Mitch Boyd): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Ernesto Fuentes: rng1 = 17 + 16 - 15 + 1 = 19
+Strikeout
+Team 1 pitcher (Mitch Boyd): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Lawrence Webb: rng1 = 50 + 16 - 15 + 1 = 52
+rng2 = 3 + 13 - 11 + 1 = 6
+Groundout
+Team 1 pitcher (Mitch Boyd): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Sergio Marmolejos
+
+Art Whitaker: rng1 = 8 + 10 - 7 - 1 = 10
+Strikeout
+Team 2 pitcher (Sergio Marmolejos): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Bobby King: rng1 = 3 + 5 - 7 - 1 = 0
+Strikeout
+Team 2 pitcher (Sergio Marmolejos): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Joey Greer: rng1 = 23 + 8 - 7 - 1 = 23
+Strikeout
+Team 2 pitcher (Sergio Marmolejos): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Hanley Harper
+
+Mateo Estrada: rng1 = 72 + 15 - 9 + 1 = 79
+rng2 = 98 + 17 - 8 + 1 = 108
+Home run
+Team 1 pitcher (Hanley Harper): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Rafael Guzman: rng1 = 97 + 14 - 9 + 1 = 103
+rng2 = 53 + 16 - 8 + 1 = 62
+Single
+Team 1 pitcher (Hanley Harper): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: [3,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Miguel Castillo: rng1 = 38 + 13 - 9 + 1 = 43
+rng2 = 78 + 12 - 8 + 1 = 83
+Flyout
+Team 1 pitcher (Hanley Harper): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [3,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Jorge Perez: rng1 = 52 + 13 - 9 + 1 = 57
+rng2 = 43 + 11 - 8 + 1 = 47
+Groundout
+Team 1 pitcher (Hanley Harper): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+TOP INNING 9
+
+Melvin Carlson: rng1 = 54 + 9 - 7 - 1 = 55
+rng2 = 72 + 7 - 9 - 1 = 69
+Flyout
+Team 2 pitcher (Sergio Marmolejos): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Dídac Laguna: rng1 = 80 + 8 - 7 - 1 = 80
+rng2 = 47 + 6 - 9 - 1 = 43
+Single
+Team 2 pitcher (Sergio Marmolejos): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Diego Vargas: rng1 = 54 + 17 - 7 - 1 = 63
+rng2 = 90 + 16 - 9 - 1 = 96
+Flyout
+Team 2 pitcher (Sergio Marmolejos): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Trevor Holloway: rng1 = 48 + 12 - 7 - 1 = 52
+rng2 = 67 + 12 - 9 - 1 = 69
+Flyout
+Team 2 pitcher (Sergio Marmolejos): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Arturo Espinoza
+
+Logan Zimmerman: rng1 = 22 + 11 - 14 + 1 = 20
+Strikeout
+Team 1 pitcher (Arturo Espinoza): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Domingo Matias: rng1 = 66 + 9 - 14 + 1 = 62
+rng2 = 42 + 10 - 15 + 1 = 38
+Groundout
+Team 1 pitcher (Arturo Espinoza): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Sean Stevens: rng1 = 48 + 6 - 14 + 1 = 41
+rng2 = 71 + 9 - 15 + 1 = 66
+Flyout
+Team 1 pitcher (Arturo Espinoza): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+TOP INNING 10
+
+Team 2 pitcher change to Henry Wright
+
+Quentin Farmer: rng1 = 76 + 11 - 12 - 1 = 74
+rng2 = 9 + 4 - 9 - 1 = 3
+Single
+Team 2 pitcher (Henry Wright): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [2,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Chester Hubbard: rng1 = 61 + 9 - 12 - 1 = 57
+rng2 = 40 + 12 - 9 - 1 = 42
+Groundout
+Team 2 pitcher (Henry Wright): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [2,3], base3: false
+base1: false, base2: true, base3: false
+Score: 4-4
+
+Art Whitaker: rng1 = 46 + 10 - 12 - 1 = 43
+rng2 = 33 + 11 - 9 - 1 = 34
+Groundout
+Team 2 pitcher (Henry Wright): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [2,3], base3: false
+base1: false, base2: true, base3: false
+Score: 4-4
+
+Bobby King: rng1 = 27 + 5 - 12 - 1 = 19
+Strikeout
+Team 2 pitcher (Henry Wright): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+BOTTOM INNING 10
+
+Ernesto Fuentes: rng1 = 8 + 16 - 14 + 1 = 11
+rng2 = 32 + 15 - 15 + 1 = 33
+Groundout
+Team 1 pitcher (Arturo Espinoza): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Lawrence Webb: rng1 = 10 + 16 - 14 + 1 = 13
+rng2 = 61 + 13 - 15 + 1 = 60
+Flyout
+Team 1 pitcher (Arturo Espinoza): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Mateo Estrada: rng1 = 87 + 15 - 14 + 1 = 89
+Walk
+Team 1 pitcher (Arturo Espinoza): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [2,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Rafael Guzman: rng1 = 85 + 14 - 14 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Arturo Espinoza): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [3,4], base2: [2,4], base3: false
+base1: true, base2: true, base3: false
+Score: 4-4
+
+Miguel Castillo: rng1 = 85 + 13 - 14 + 1 = 85
+rng2 = 54 + 12 - 15 + 1 = 52
+Single
+Team 1 pitcher (Arturo Espinoza): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [4,4], base2: false, base3: [3,4]
+base1: true, base2: false, base3: true
+Score: 4-5
+
+Innings: 10
+Team 1 hits: 8
+Team 2 hits: 10
+Team 1 runs: 4
+Team 2 runs: 5
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-31
+Diego Vargas	4	2	1	0	0	1	1	1	0					Milwaukee
+Trevor Holloway	4	0	0	0	0	0	0	0	1	
+Quentin Farmer	5	0	3	0	0	0	1	0	2	
+Chester Hubbard	4	1	0	0	0	0	0	1	1	
+Art Whitaker	5	1	1	0	0	1	2	0	2	
+Bobby King	5	0	0	0	0	0	0	0	2	
+Joey Greer	4	0	1	0	0	0	0	0	2	
+Melvin Carlson	4	0	0	0	0	0	0	0	0	
+Dídac Laguna	3	0	2	0	0	0	0	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Solomon McCarthy	0	0	1	1	0	0	15	6	3	1	1	7	22	
+Mitch Boyd	0	0	1	0	0	0	6	1	0	0	0	3	7	
+Hanley Harper	0	0	1	0	0	0	3	2	1	1	0	0	4	
+Jacob Wallace	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Arturo Espinoza	0	1	1	0	0	0	5	1	1	0	1	1	8	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-31
+Ernesto Fuentes	4	1	1	0	0	0	0	1	1					StLouis
+Lawrence Webb	5	1	1	0	0	0	0	0	0	
+Mateo Estrada	4	2	2	0	0	1	1	1	2	
+Rafael Guzman	4	1	2	0	0	1	3	0	1	
+Miguel Castillo	5	0	2	0	0	0	1	0	1	
+Jorge Perez	4	0	1	0	0	0	0	0	1	
+Logan Zimmerman	4	0	1	0	0	0	0	0	2	
+Domingo Matias	4	0	0	0	0	0	0	0	1	
+Sean Stevens	4	0	0	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Pete McBride	0	0	1	1	0	0	15	5	3	1	3	2	24	
+Junior Acosta	0	0	1	0	0	0	6	1	1	1	0	5	7	
+Sergio Marmolejos	0	0	1	0	0	0	6	1	0	0	0	3	7	
+Henry Wright	1	0	1	0	0	0	3	1	0	0	0	1	4	
+Santiago Rivero	0	0	0	0	0	0	0	0	0	0	0	0	0	

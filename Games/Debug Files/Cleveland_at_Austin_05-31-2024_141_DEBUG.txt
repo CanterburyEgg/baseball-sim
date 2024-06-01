@@ -1,0 +1,820 @@
+TOP INNING 1
+
+Rafael Figueroa: rng1 = 92 + 17 - 5 - 1 = 103
+rng2 = 28 + 13 - 10 - 1 = 30
+Single
+Team 2 pitcher (Zack Huff): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Hernan Pereira: rng1 = 28 + 14 - 5 - 1 = 36
+rng2 = 40 + 16 - 10 - 1 = 45
+Groundout
+Team 2 pitcher (Zack Huff): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Federico Taveras: rng1 = 25 + 13 - 5 - 1 = 32
+rng2 = 31 + 10 - 10 - 1 = 30
+Groundout
+Team 2 pitcher (Zack Huff): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Ivan Guerra: rng1 = 28 + 12 - 8 + 1 = 33
+rng2 = 71 + 14 - 6 + 1 = 80
+Flyout
+Team 1 pitcher (Keenan Elliott): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Derrick Hammond: rng1 = 97 + 11 - 8 + 1 = 101
+rng2 = 8 + 9 - 6 + 1 = 12
+Single
+Team 1 pitcher (Keenan Elliott): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Erik Lowe: rng1 = 88 + 10 - 8 + 1 = 91
+rng2 = 1 + 9 - 6 + 1 = 5
+Single
+Team 1 pitcher (Keenan Elliott): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Alex Murphy: rng1 = 9 + 9 - 8 + 1 = 11
+rng2 = 27 + 13 - 6 + 1 = 35
+Groundout
+Team 1 pitcher (Keenan Elliott): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: [2,0], base3: [1,0]
+base1: false, base2: true, base3: true
+Score: 0-0
+
+Danilo Villanueva: rng1 = 70 + 9 - 8 + 1 = 72
+Walk
+Team 1 pitcher (Keenan Elliott): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: [4,0], base2: [2,0], base3: [1,0]
+base1: true, base2: true, base3: true
+Score: 0-0
+
+Arturo Yang: rng1 = 78 + 5 - 8 + 1 = 76
+rng2 = 75 + 9 - 6 + 1 = 79
+Triple
+Team 1 pitcher (Keenan Elliott): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: false, base2: false, base3: [5,0]
+base1: false, base2: false, base3: true
+Score: 0-3
+
+Jake Weaver: rng1 = 93 + 9 - 8 + 1 = 95
+rng2 = 93 + 8 - 6 + 1 = 96
+Home run
+Team 1 pitcher (Keenan Elliott): 7 batters faced, 5 runs allowed = 7 + 12.5 = 19.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Kyrie Anderson: rng1 = 31 + 7 - 8 + 1 = 31
+rng2 = 49 + 7 - 6 + 1 = 51
+Lineout
+Team 1 pitcher (Keenan Elliott): 8 batters faced, 5 runs allowed = 8 + 12.5 = 20.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+TOP INNING 2
+
+Omar Shah: rng1 = 27 + 8 - 5 - 1 = 29
+rng2 = 19 + 15 - 10 - 1 = 23
+Groundout
+Team 2 pitcher (Zack Huff): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Rogelio Rojas: rng1 = 9 + 7 - 5 - 1 = 10
+Strikeout
+Team 2 pitcher (Zack Huff): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Francisco Illescas: rng1 = 49 + 8 - 5 - 1 = 51
+rng2 = 64 + 8 - 10 - 1 = 61
+Flyout
+Team 2 pitcher (Zack Huff): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+BOTTOM INNING 2
+
+Keylon Wilkins: rng1 = 63 + 4 - 8 + 1 = 60
+rng2 = 27 + 9 - 6 + 1 = 31
+Groundout
+Team 1 pitcher (Keenan Elliott): 9 batters faced, 5 runs allowed = 9 + 12.5 = 21.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Ivan Guerra: rng1 = 79 + 12 - 8 + 1 = 84
+rng2 = 95 + 14 - 6 + 1 = 104
+Home run
+Team 1 pitcher (Keenan Elliott): 10 batters faced, 6 runs allowed = 10 + 15.0 = 25.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Derrick Hammond: rng1 = 21 + 11 - 8 + 1 = 25
+Strikeout
+Team 1 pitcher (Keenan Elliott): 11 batters faced, 6 runs allowed = 11 + 15.0 = 26.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Erik Lowe: rng1 = 74 + 10 - 8 + 1 = 77
+rng2 = 86 + 9 - 6 + 1 = 90
+Double
+Team 1 pitcher (Keenan Elliott): 12 batters faced, 6 runs allowed = 12 + 15.0 = 27.0, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-6
+
+Alex Murphy: rng1 = 70 + 9 - 8 + 1 = 72
+Walk
+Team 1 pitcher (Keenan Elliott): 13 batters faced, 6 runs allowed = 13 + 15.0 = 28.0, outs: 2
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-6
+
+Danilo Villanueva: rng1 = 48 + 9 - 8 + 1 = 50
+rng2 = 62 + 11 - 6 + 1 = 68
+Flyout
+Team 1 pitcher (Keenan Elliott): 14 batters faced, 6 runs allowed = 14 + 15.0 = 29.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+TOP INNING 3
+
+Gerardo Deleon: rng1 = 100 + 10 - 5 - 1 = 104
+rng2 = 47 + 7 - 10 - 1 = 43
+Single
+Team 2 pitcher (Zack Huff): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-6
+
+Chwa Jung-Su: rng1 = 1 + 8 - 5 - 1 = 3
+Strikeout
+Team 2 pitcher (Zack Huff): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-6
+
+Jerónimo Palomar: rng1 = 56 + 6 - 5 - 1 = 56
+rng2 = 14 + 7 - 10 - 1 = 10
+Groundout
+Team 2 pitcher (Zack Huff): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+BOTTOM INNING 3
+
+Arturo Yang: rng1 = 48 + 5 - 8 + 1 = 46
+rng2 = 9 + 9 - 6 + 1 = 13
+Groundout
+Team 1 pitcher (Keenan Elliott): 15 batters faced, 6 runs allowed = 15 + 15.0 = 30.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Jake Weaver: rng1 = 16 + 9 - 8 + 1 = 18
+Strikeout
+Team 1 pitcher (Keenan Elliott): 16 batters faced, 6 runs allowed = 16 + 15.0 = 31.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Kyrie Anderson: rng1 = 28 + 7 - 8 + 1 = 28
+Strikeout
+Team 1 pitcher (Keenan Elliott): 17 batters faced, 6 runs allowed = 17 + 15.0 = 32.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+TOP INNING 4
+
+Rafael Figueroa: rng1 = 84 + 17 - 5 - 1 = 95
+rng2 = 27 + 13 - 10 - 1 = 29
+Single
+Team 2 pitcher (Zack Huff): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-6
+
+Hernan Pereira: rng1 = 80 + 14 - 5 - 1 = 88
+Walk
+Team 2 pitcher (Zack Huff): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 0
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-6
+
+Federico Taveras: rng1 = 86 + 13 - 5 - 1 = 93
+rng2 = 89 + 10 - 10 - 1 = 88
+Double
+Team 2 pitcher (Zack Huff): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 0
+
+base1: false, base2: [2,0], base3: [1,0]
+base1: false, base2: true, base3: true
+Score: 1-6
+
+Omar Shah: rng1 = 76 + 8 - 5 - 1 = 78
+rng2 = 7 + 15 - 10 - 1 = 11
+Single
+Team 2 pitcher (Zack Huff): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 0
+
+base1: [3,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 2-6
+
+Rogelio Rojas: rng1 = 90 + 7 - 5 - 1 = 91
+rng2 = 73 + 9 - 10 - 1 = 71
+Double
+Team 2 pitcher (Zack Huff): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 0
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-6
+
+Francisco Illescas: rng1 = 79 + 8 - 5 - 1 = 81
+rng2 = 99 + 8 - 10 - 1 = 96
+Home run
+Team 2 pitcher (Zack Huff): 15 batters faced, 6 runs allowed = 15 + 15.0 = 30.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-6
+
+Gerardo Deleon: rng1 = 68 + 10 - 5 - 1 = 72
+Walk
+Team 2 pitcher (Zack Huff): 16 batters faced, 6 runs allowed = 16 + 15.0 = 31.0, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-6
+
+Chwa Jung-Su: rng1 = 55 + 8 - 5 - 1 = 57
+rng2 = 49 + 7 - 10 - 1 = 45
+Groundout
+Team 2 pitcher (Zack Huff): 17 batters faced, 6 runs allowed = 17 + 15.0 = 32.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-6
+
+Jerónimo Palomar: rng1 = 86 + 6 - 5 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Zack Huff): 18 batters faced, 6 runs allowed = 18 + 15.0 = 33.0, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-6
+
+Rafael Figueroa: rng1 = 10 + 17 - 5 - 1 = 21
+Strikeout
+Team 2 pitcher (Zack Huff): 19 batters faced, 6 runs allowed = 19 + 15.0 = 34.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-6
+
+-----------------------
+
+BOTTOM INNING 4
+
+Team 1 pitcher change to Dario Peralta
+
+Keylon Wilkins: rng1 = 43 + 4 - 10 + 1 = 38
+rng2 = 64 + 9 - 11 + 1 = 63
+Flyout
+Team 1 pitcher (Dario Peralta): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-6
+
+Ivan Guerra: rng1 = 74 + 12 - 10 + 1 = 77
+rng2 = 12 + 14 - 11 + 1 = 16
+Single
+Team 1 pitcher (Dario Peralta): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-6
+
+Derrick Hammond: rng1 = 36 + 11 - 10 + 1 = 38
+rng2 = 99 + 9 - 11 + 1 = 98
+Flyout
+Team 1 pitcher (Dario Peralta): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-6
+
+Erik Lowe: rng1 = 18 + 10 - 10 + 1 = 19
+Strikeout
+Team 1 pitcher (Dario Peralta): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-6
+
+-----------------------
+
+TOP INNING 5
+
+Team 2 pitcher change to Lance Haynes
+
+Hernan Pereira: rng1 = 87 + 14 - 12 - 1 = 88
+Walk
+Team 2 pitcher (Lance Haynes): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-6
+
+Federico Taveras: rng1 = 32 + 13 - 12 - 1 = 32
+rng2 = 17 + 10 - 7 - 1 = 19
+Groundout
+Team 2 pitcher (Lance Haynes): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-6
+
+Omar Shah: rng1 = 48 + 8 - 12 - 1 = 43
+rng2 = 41 + 15 - 7 - 1 = 48
+Lineout
+Team 2 pitcher (Lance Haynes): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-6
+
+-----------------------
+
+BOTTOM INNING 5
+
+Alex Murphy: rng1 = 97 + 9 - 10 + 1 = 97
+rng2 = 54 + 13 - 11 + 1 = 57
+Single
+Team 1 pitcher (Dario Peralta): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-6
+
+Danilo Villanueva: rng1 = 34 + 9 - 10 + 1 = 34
+rng2 = 51 + 11 - 11 + 1 = 52
+Lineout
+Team 1 pitcher (Dario Peralta): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-6
+
+Arturo Yang: rng1 = 33 + 5 - 10 + 1 = 29
+rng2 = 63 + 9 - 11 + 1 = 62
+Flyout
+Team 1 pitcher (Dario Peralta): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-6
+
+Jake Weaver: rng1 = 64 + 9 - 10 + 1 = 64
+rng2 = 36 + 8 - 11 + 1 = 34
+Groundout
+Team 1 pitcher (Dario Peralta): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-6
+
+-----------------------
+
+TOP INNING 6
+
+Rogelio Rojas: rng1 = 76 + 7 - 12 - 1 = 70
+Walk
+Team 2 pitcher (Lance Haynes): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-6
+
+Francisco Illescas: rng1 = 81 + 8 - 12 - 1 = 76
+rng2 = 91 + 8 - 7 - 1 = 91
+Double
+Team 2 pitcher (Lance Haynes): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 0
+
+base1: false, base2: [5,1], base3: false
+base1: false, base2: true, base3: false
+Score: 7-6
+
+Gerardo Deleon: rng1 = 10 + 10 - 12 - 1 = 7
+Strikeout
+Team 2 pitcher (Lance Haynes): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: [5,1], base3: false
+base1: false, base2: true, base3: false
+Score: 7-6
+
+Chwa Jung-Su: rng1 = 1 + 8 - 12 - 1 = -4
+Strikeout
+Team 2 pitcher (Lance Haynes): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: [5,1], base3: false
+base1: false, base2: true, base3: false
+Score: 7-6
+
+Jerónimo Palomar: rng1 = 81 + 6 - 12 - 1 = 74
+rng2 = 14 + 7 - 7 - 1 = 13
+Single
+Team 2 pitcher (Lance Haynes): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-6
+
+Team 2 pitcher change to Carmelo Dávalos
+
+Rafael Figueroa: rng1 = 5 + 17 - 12 - 1 = 9
+Strikeout
+Team 2 pitcher (Carmelo Dávalos): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-6
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Sidney Petersen
+
+Kyrie Anderson: rng1 = 31 + 7 - 9 + 1 = 30
+rng2 = 9 + 7 - 8 + 1 = 9
+Groundout
+Team 1 pitcher (Sidney Petersen): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-6
+
+Keylon Wilkins: rng1 = 6 + 4 - 9 + 1 = 2
+Strikeout
+Team 1 pitcher (Sidney Petersen): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-6
+
+Ivan Guerra: rng1 = 67 + 12 - 9 + 1 = 71
+Walk
+Team 1 pitcher (Sidney Petersen): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-6
+
+Derrick Hammond: rng1 = 6 + 11 - 9 + 1 = 9
+Strikeout
+Team 1 pitcher (Sidney Petersen): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-6
+
+-----------------------
+
+TOP INNING 7
+
+Hernan Pereira: rng1 = 94 + 14 - 12 - 1 = 95
+rng2 = 74 + 16 - 6 - 1 = 83
+Home run
+Team 2 pitcher (Carmelo Dávalos): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-6
+
+Federico Taveras: rng1 = 7 + 13 - 12 - 1 = 7
+Strikeout
+Team 2 pitcher (Carmelo Dávalos): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-6
+
+Omar Shah: rng1 = 29 + 8 - 12 - 1 = 24
+Strikeout
+Team 2 pitcher (Carmelo Dávalos): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-6
+
+Rogelio Rojas: rng1 = 88 + 7 - 12 - 1 = 82
+rng2 = 86 + 9 - 6 - 1 = 88
+Double
+Team 2 pitcher (Carmelo Dávalos): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: false, base2: [4,2], base3: false
+base1: false, base2: true, base3: false
+Score: 9-6
+
+Francisco Illescas: rng1 = 54 + 8 - 12 - 1 = 49
+rng2 = 89 + 8 - 6 - 1 = 90
+Flyout
+Team 2 pitcher (Carmelo Dávalos): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-6
+
+-----------------------
+
+BOTTOM INNING 7
+
+Erik Lowe: rng1 = 48 + 10 - 9 + 1 = 50
+rng2 = 79 + 9 - 8 + 1 = 81
+Flyout
+Team 1 pitcher (Sidney Petersen): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-6
+
+Alex Murphy: rng1 = 33 + 9 - 9 + 1 = 34
+rng2 = 33 + 13 - 8 + 1 = 39
+Groundout
+Team 1 pitcher (Sidney Petersen): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-6
+
+Danilo Villanueva: rng1 = 20 + 9 - 9 + 1 = 21
+Strikeout
+Team 1 pitcher (Sidney Petersen): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-6
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Tommy Greene
+
+Gerardo Deleon: rng1 = 75 + 10 - 8 - 1 = 76
+rng2 = 13 + 7 - 6 - 1 = 13
+Single
+Team 2 pitcher (Tommy Greene): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [6,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-6
+
+Chwa Jung-Su: rng1 = 97 + 8 - 8 - 1 = 96
+rng2 = 1 + 7 - 6 - 1 = 1
+Single
+Team 2 pitcher (Tommy Greene): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [7,3], base2: false, base3: [6,3]
+base1: true, base2: false, base3: true
+Score: 9-6
+
+Jerónimo Palomar: rng1 = 3 + 6 - 8 - 1 = 0
+Strikeout
+Team 2 pitcher (Tommy Greene): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [7,3], base2: false, base3: [6,3]
+base1: true, base2: false, base3: true
+Score: 9-6
+
+Rafael Figueroa: rng1 = 87 + 17 - 8 - 1 = 95
+rng2 = 73 + 13 - 6 - 1 = 79
+Triple
+Team 2 pitcher (Tommy Greene): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: false, base2: false, base3: [0,3]
+base1: false, base2: false, base3: true
+Score: 11-6
+
+Hernan Pereira: rng1 = 8 + 14 - 8 - 1 = 13
+rng2 = 76 + 16 - 6 - 1 = 85
+Flyout
+Team 2 pitcher (Tommy Greene): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 12-6
+
+Federico Taveras: rng1 = 87 + 13 - 8 - 1 = 91
+rng2 = 82 + 10 - 6 - 1 = 85
+Home run
+Team 2 pitcher (Tommy Greene): 6 batters faced, 4 runs allowed = 6 + 10.0 = 16.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 13-6
+
+Team 2 pitcher change to Damon Houston
+
+Omar Shah: rng1 = 10 + 8 - 13 - 1 = 4
+Strikeout
+Team 2 pitcher (Damon Houston): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 13-6
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Jaime Espinosa
+
+Arturo Yang: rng1 = 72 + 5 - 10 + 1 = 68
+rng2 = 4 + 9 - 6 + 1 = 8
+Groundout
+Team 1 pitcher (Jaime Espinosa): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 13-6
+
+Jake Weaver: rng1 = 15 + 9 - 10 + 1 = 15
+rng2 = 100 + 8 - 6 + 1 = 103
+Flyout
+Team 1 pitcher (Jaime Espinosa): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 13-6
+
+Kyrie Anderson: rng1 = 69 + 7 - 10 + 1 = 67
+rng2 = 41 + 7 - 6 + 1 = 43
+Groundout
+Team 1 pitcher (Jaime Espinosa): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 13-6
+
+-----------------------
+
+TOP INNING 9
+
+Rogelio Rojas: rng1 = 29 + 7 - 13 - 1 = 22
+Strikeout
+Team 2 pitcher (Damon Houston): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 13-6
+
+Francisco Illescas: rng1 = 12 + 8 - 13 - 1 = 6
+Strikeout
+Team 2 pitcher (Damon Houston): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 13-6
+
+Gerardo Deleon: rng1 = 67 + 10 - 13 - 1 = 63
+rng2 = 80 + 7 - 9 - 1 = 77
+Flyout
+Team 2 pitcher (Damon Houston): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 13-6
+
+-----------------------
+
+BOTTOM INNING 9
+
+Keylon Wilkins: rng1 = 86 + 4 - 10 + 1 = 81
+rng2 = 43 + 9 - 6 + 1 = 47
+Single
+Team 1 pitcher (Jaime Espinosa): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [8,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 13-6
+
+Ivan Guerra: rng1 = 28 + 12 - 10 + 1 = 31
+rng2 = 79 + 14 - 6 + 1 = 88
+Flyout
+Team 1 pitcher (Jaime Espinosa): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [8,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 13-6
+
+Derrick Hammond: rng1 = 38 + 11 - 10 + 1 = 40
+rng2 = 52 + 9 - 6 + 1 = 56
+Lineout
+Team 1 pitcher (Jaime Espinosa): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [8,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 13-6
+
+Erik Lowe: rng1 = 48 + 10 - 10 + 1 = 49
+rng2 = 19 + 9 - 6 + 1 = 23
+Groundout
+Team 1 pitcher (Jaime Espinosa): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 13-6
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 15
+Team 2 hits: 9
+Team 1 runs: 13
+Team 2 runs: 6
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-31
+Rafael Figueroa	5	2	3	0	1	0	2	0	2					Cleveland
+Hernan Pereira	3	2	1	0	0	1	2	2	0	
+Federico Taveras	5	2	2	1	0	1	2	0	1	
+Omar Shah	5	1	1	0	0	0	1	0	2	
+Rogelio Rojas	4	2	2	2	0	0	2	1	2	
+Francisco Illescas	5	2	2	1	0	1	3	0	1	
+Gerardo Deleon	4	1	2	0	0	0	0	1	1	
+Chwa Jung-Su	4	1	1	0	0	0	0	0	2	
+Jerónimo Palomar	3	0	1	0	0	0	1	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Keenan Elliott	0	0	1	1	0	0	9	6	6	2	2	3	17	
+Dario Peralta	1	0	1	0	0	0	6	2	0	0	0	1	8	
+Sidney Petersen	0	0	1	0	0	0	6	0	0	0	1	3	7	
+Jaime Espinosa	0	0	1	0	0	0	6	1	0	0	0	0	7	
+Ernesto Salazar	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-31
+Ivan Guerra	4	1	2	0	0	1	1	1	0					Austin
+Derrick Hammond	5	1	1	0	0	0	0	0	2	
+Erik Lowe	5	1	2	1	0	0	0	0	1	
+Alex Murphy	3	0	1	0	0	0	0	1	0	
+Danilo Villanueva	3	1	0	0	0	0	0	1	1	
+Arturo Yang	4	1	1	0	1	0	3	0	0	
+Jake Weaver	4	1	1	0	0	1	2	0	1	
+Kyrie Anderson	4	0	0	0	0	0	0	0	1	
+Keylon Wilkins	4	0	1	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Zack Huff	0	0	1	1	0	0	12	7	6	1	2	3	19	
+Lance Haynes	0	1	1	0	0	0	5	2	2	0	2	2	8	
+Carmelo Dávalos	0	0	1	0	0	0	4	2	1	1	0	3	6	
+Tommy Greene	0	0	1	0	0	0	2	4	4	1	0	1	6	
+Damon Houston	0	0	1	0	0	0	4	0	0	0	0	3	4	

@@ -1,0 +1,750 @@
+TOP INNING 1
+
+Mario Chavez: rng1 = 5 + 11 - 10 - 1 = 5
+Strikeout
+Team 2 pitcher (Walter Burnett): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Marcus Byrd: rng1 = 60 + 11 - 10 - 1 = 60
+rng2 = 59 + 8 - 10 - 1 = 56
+Lineout
+Team 2 pitcher (Walter Burnett): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Claudio Tolentino: rng1 = 67 + 9 - 10 - 1 = 65
+rng2 = 48 + 14 - 10 - 1 = 51
+Lineout
+Team 2 pitcher (Walter Burnett): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Victor Harris: rng1 = 2 + 16 - 12 + 1 = 7
+Strikeout
+Team 1 pitcher (Wallace Sweeney): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Shaun Conley: rng1 = 13 + 15 - 12 + 1 = 17
+Strikeout
+Team 1 pitcher (Wallace Sweeney): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Joaquin Alba: rng1 = 8 + 15 - 12 + 1 = 12
+rng2 = 87 + 14 - 12 + 1 = 90
+Flyout
+Team 1 pitcher (Wallace Sweeney): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Noel Phelps: rng1 = 95 + 7 - 10 - 1 = 91
+rng2 = 86 + 10 - 10 - 1 = 85
+Home run
+Team 2 pitcher (Walter Burnett): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Pablo Hernandez: rng1 = 29 + 5 - 10 - 1 = 23
+Strikeout
+Team 2 pitcher (Walter Burnett): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Reilly Carter: rng1 = 44 + 7 - 10 - 1 = 40
+rng2 = 4 + 8 - 10 - 1 = 1
+Groundout
+Team 2 pitcher (Walter Burnett): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Felix Pratt: rng1 = 19 + 9 - 10 - 1 = 17
+Strikeout
+Team 2 pitcher (Walter Burnett): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Jerome Fields: rng1 = 82 + 13 - 12 + 1 = 84
+rng2 = 59 + 14 - 12 + 1 = 62
+Single
+Team 1 pitcher (Wallace Sweeney): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Ali Monroe: rng1 = 40 + 15 - 12 + 1 = 44
+rng2 = 51 + 13 - 12 + 1 = 53
+Lineout
+Team 1 pitcher (Wallace Sweeney): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Simon Taylor: rng1 = 92 + 13 - 12 + 1 = 94
+rng2 = 1 + 12 - 12 + 1 = 2
+Single
+Team 1 pitcher (Wallace Sweeney): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Nate Clarke: rng1 = 13 + 15 - 12 + 1 = 17
+Strikeout
+Team 1 pitcher (Wallace Sweeney): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [5,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Ivan Rondon: rng1 = 29 + 14 - 12 + 1 = 32
+rng2 = 51 + 11 - 12 + 1 = 51
+Lineout
+Team 1 pitcher (Wallace Sweeney): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 3
+
+Elvis Asencio: rng1 = 31 + 9 - 10 - 1 = 29
+rng2 = 15 + 7 - 10 - 1 = 11
+Groundout
+Team 2 pitcher (Walter Burnett): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Hayden Ross: rng1 = 33 + 7 - 10 - 1 = 29
+rng2 = 21 + 7 - 10 - 1 = 17
+Groundout
+Team 2 pitcher (Walter Burnett): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Mario Chavez: rng1 = 44 + 11 - 10 - 1 = 44
+rng2 = 63 + 10 - 10 - 1 = 62
+Flyout
+Team 2 pitcher (Walter Burnett): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Jeff Murray: rng1 = 46 + 15 - 12 + 1 = 50
+rng2 = 50 + 10 - 12 + 1 = 49
+Lineout
+Team 1 pitcher (Wallace Sweeney): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Victor Harris: rng1 = 77 + 16 - 12 + 1 = 82
+rng2 = 54 + 15 - 12 + 1 = 58
+Single
+Team 1 pitcher (Wallace Sweeney): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Shaun Conley: rng1 = 69 + 15 - 12 + 1 = 73
+rng2 = 59 + 16 - 12 + 1 = 64
+Single
+Team 1 pitcher (Wallace Sweeney): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 1
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Joaquin Alba: rng1 = 5 + 15 - 12 + 1 = 9
+Strikeout
+Team 1 pitcher (Wallace Sweeney): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 2
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Jerome Fields: rng1 = 100 + 13 - 12 + 1 = 102
+rng2 = 40 + 14 - 12 + 1 = 43
+Single
+Team 1 pitcher (Wallace Sweeney): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 2
+
+base1: [3,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 1-1
+
+Ali Monroe: rng1 = 98 + 15 - 12 + 1 = 102
+rng2 = 23 + 13 - 12 + 1 = 25
+Single
+Team 1 pitcher (Wallace Sweeney): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 2
+
+base1: [4,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 1-2
+
+Simon Taylor: rng1 = 46 + 13 - 12 + 1 = 48
+rng2 = 32 + 12 - 12 + 1 = 33
+Groundout
+Team 1 pitcher (Wallace Sweeney): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 4
+
+Marcus Byrd: rng1 = 25 + 11 - 10 - 1 = 25
+Strikeout
+Team 2 pitcher (Walter Burnett): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Claudio Tolentino: rng1 = 18 + 9 - 10 - 1 = 16
+Strikeout
+Team 2 pitcher (Walter Burnett): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Noel Phelps: rng1 = 6 + 7 - 10 - 1 = 2
+Strikeout
+Team 2 pitcher (Walter Burnett): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 4
+
+Nate Clarke: rng1 = 12 + 15 - 12 + 1 = 16
+Strikeout
+Team 1 pitcher (Wallace Sweeney): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Ivan Rondon: rng1 = 45 + 14 - 12 + 1 = 48
+rng2 = 19 + 11 - 12 + 1 = 19
+Groundout
+Team 1 pitcher (Wallace Sweeney): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Jeff Murray: rng1 = 93 + 15 - 12 + 1 = 97
+rng2 = 4 + 10 - 12 + 1 = 3
+Single
+Team 1 pitcher (Wallace Sweeney): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Victor Harris: rng1 = 84 + 16 - 12 + 1 = 89
+Walk
+Team 1 pitcher (Wallace Sweeney): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 2
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-2
+
+Shaun Conley: rng1 = 90 + 15 - 12 + 1 = 94
+rng2 = 69 + 16 - 12 + 1 = 74
+Double
+Team 1 pitcher (Wallace Sweeney): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-4
+
+Joaquin Alba: rng1 = 33 + 15 - 12 + 1 = 37
+rng2 = 89 + 14 - 12 + 1 = 92
+Flyout
+Team 1 pitcher (Wallace Sweeney): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+TOP INNING 5
+
+Pablo Hernandez: rng1 = 87 + 5 - 10 - 1 = 81
+rng2 = 42 + 9 - 10 - 1 = 40
+Single
+Team 2 pitcher (Walter Burnett): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Reilly Carter: rng1 = 9 + 7 - 10 - 1 = 5
+Strikeout
+Team 2 pitcher (Walter Burnett): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Felix Pratt: rng1 = 75 + 9 - 10 - 1 = 73
+rng2 = 67 + 7 - 10 - 1 = 63
+Single
+Team 2 pitcher (Walter Burnett): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 1
+
+base1: [6,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-4
+
+Elvis Asencio: rng1 = 4 + 9 - 10 - 1 = 2
+Strikeout
+Team 2 pitcher (Walter Burnett): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 2
+
+base1: [6,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-4
+
+Hayden Ross: rng1 = 33 + 7 - 10 - 1 = 29
+rng2 = 23 + 7 - 10 - 1 = 19
+Groundout
+Team 2 pitcher (Walter Burnett): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Park Seo-Jun
+
+Jerome Fields: rng1 = 23 + 13 - 10 + 1 = 27
+Strikeout
+Team 1 pitcher (Park Seo-Jun): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Ali Monroe: rng1 = 25 + 15 - 10 + 1 = 31
+rng2 = 99 + 13 - 8 + 1 = 105
+Flyout
+Team 1 pitcher (Park Seo-Jun): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Simon Taylor: rng1 = 58 + 13 - 10 + 1 = 62
+rng2 = 9 + 12 - 8 + 1 = 14
+Groundout
+Team 1 pitcher (Park Seo-Jun): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+TOP INNING 6
+
+Mario Chavez: rng1 = 100 + 11 - 10 - 1 = 100
+rng2 = 42 + 10 - 10 - 1 = 41
+Single
+Team 2 pitcher (Walter Burnett): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Marcus Byrd: rng1 = 80 + 11 - 10 - 1 = 80
+rng2 = 97 + 8 - 10 - 1 = 94
+Home run
+Team 2 pitcher (Walter Burnett): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Claudio Tolentino: rng1 = 15 + 9 - 10 - 1 = 13
+rng2 = 32 + 14 - 10 - 1 = 35
+Groundout
+Team 2 pitcher (Walter Burnett): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Noel Phelps: rng1 = 34 + 7 - 10 - 1 = 30
+rng2 = 88 + 10 - 10 - 1 = 87
+Flyout
+Team 2 pitcher (Walter Burnett): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Pablo Hernandez: rng1 = 36 + 5 - 10 - 1 = 30
+rng2 = 22 + 9 - 10 - 1 = 20
+Groundout
+Team 2 pitcher (Walter Burnett): 23 batters faced, 3 runs allowed = 23 + 7.5 = 30.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+BOTTOM INNING 6
+
+Nate Clarke: rng1 = 68 + 15 - 10 + 1 = 74
+rng2 = 81 + 11 - 8 + 1 = 85
+Home run
+Team 1 pitcher (Park Seo-Jun): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Ivan Rondon: rng1 = 82 + 14 - 10 + 1 = 87
+Walk
+Team 1 pitcher (Park Seo-Jun): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 0
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-5
+
+Jeff Murray: rng1 = 13 + 15 - 10 + 1 = 19
+Strikeout
+Team 1 pitcher (Park Seo-Jun): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-5
+
+Victor Harris: rng1 = 92 + 16 - 10 + 1 = 99
+rng2 = 79 + 15 - 8 + 1 = 87
+Double
+Team 1 pitcher (Park Seo-Jun): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: false, base2: [0,1], base3: [7,1]
+base1: false, base2: true, base3: true
+Score: 3-5
+
+Shaun Conley: rng1 = 6 + 15 - 10 + 1 = 12
+rng2 = 39 + 16 - 8 + 1 = 48
+Lineout
+Team 1 pitcher (Park Seo-Jun): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: [0,1], base3: [7,1]
+base1: false, base2: true, base3: true
+Score: 3-5
+
+Joaquin Alba: rng1 = 16 + 15 - 10 + 1 = 22
+Strikeout
+Team 1 pitcher (Park Seo-Jun): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Walt Lewis
+
+Reilly Carter: rng1 = 15 + 7 - 13 - 1 = 8
+Strikeout
+Team 2 pitcher (Walt Lewis): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Felix Pratt: rng1 = 61 + 9 - 13 - 1 = 56
+rng2 = 73 + 7 - 13 - 1 = 66
+Flyout
+Team 2 pitcher (Walt Lewis): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Elvis Asencio: rng1 = 44 + 9 - 13 - 1 = 39
+rng2 = 89 + 7 - 13 - 1 = 82
+Flyout
+Team 2 pitcher (Walt Lewis): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Dwight Cameron
+
+Jerome Fields: rng1 = 48 + 13 - 8 + 1 = 54
+rng2 = 29 + 14 - 8 + 1 = 36
+Groundout
+Team 1 pitcher (Dwight Cameron): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Ali Monroe: rng1 = 71 + 15 - 8 + 1 = 79
+rng2 = 63 + 13 - 8 + 1 = 69
+Double
+Team 1 pitcher (Dwight Cameron): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [4,2], base3: false
+base1: false, base2: true, base3: false
+Score: 3-5
+
+Simon Taylor: rng1 = 71 + 13 - 8 + 1 = 77
+rng2 = 51 + 12 - 8 + 1 = 56
+Single
+Team 1 pitcher (Dwight Cameron): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-6
+
+Nate Clarke: rng1 = 96 + 15 - 8 + 1 = 104
+rng2 = 71 + 11 - 8 + 1 = 75
+Double
+Team 1 pitcher (Dwight Cameron): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: false, base2: [6,2], base3: [5,2]
+base1: false, base2: true, base3: true
+Score: 3-6
+
+Ivan Rondon: rng1 = 48 + 14 - 8 + 1 = 55
+rng2 = 81 + 11 - 8 + 1 = 85
+Flyout
+Team 1 pitcher (Dwight Cameron): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: false, base2: [6,2], base3: false
+base1: false, base2: true, base3: false
+Score: 3-7
+
+Jeff Murray: rng1 = 60 + 15 - 8 + 1 = 68
+rng2 = 85 + 10 - 8 + 1 = 88
+Flyout
+Team 1 pitcher (Dwight Cameron): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+TOP INNING 8
+
+Hayden Ross: rng1 = 55 + 7 - 13 - 1 = 48
+rng2 = 66 + 7 - 13 - 1 = 59
+Flyout
+Team 2 pitcher (Walt Lewis): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Mario Chavez: rng1 = 74 + 11 - 13 - 1 = 71
+Walk
+Team 2 pitcher (Walt Lewis): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-7
+
+Marcus Byrd: rng1 = 23 + 11 - 13 - 1 = 20
+Strikeout
+Team 2 pitcher (Walt Lewis): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-7
+
+Claudio Tolentino: rng1 = 93 + 9 - 13 - 1 = 88
+Walk
+Team 2 pitcher (Walt Lewis): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [2,1], base2: [0,1], base3: false
+base1: true, base2: true, base3: false
+Score: 3-7
+
+Noel Phelps: rng1 = 59 + 7 - 13 - 1 = 52
+rng2 = 96 + 10 - 13 - 1 = 92
+Flyout
+Team 2 pitcher (Walt Lewis): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Evan McKenzie
+
+Victor Harris: rng1 = 20 + 16 - 6 + 1 = 31
+rng2 = 83 + 15 - 9 + 1 = 90
+Flyout
+Team 1 pitcher (Evan McKenzie): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Shaun Conley: rng1 = 64 + 15 - 6 + 1 = 74
+rng2 = 96 + 16 - 9 + 1 = 104
+Home run
+Team 1 pitcher (Evan McKenzie): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Joaquin Alba: rng1 = 3 + 15 - 6 + 1 = 13
+rng2 = 95 + 14 - 9 + 1 = 101
+Flyout
+Team 1 pitcher (Evan McKenzie): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Jerome Fields: rng1 = 17 + 13 - 6 + 1 = 25
+Strikeout
+Team 1 pitcher (Evan McKenzie): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-8
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Jake Booth
+
+Pablo Hernandez: rng1 = 33 + 5 - 10 - 1 = 27
+Strikeout
+Team 2 pitcher (Jake Booth): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Reilly Carter: rng1 = 75 + 7 - 10 - 1 = 71
+Walk
+Team 2 pitcher (Jake Booth): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-8
+
+Felix Pratt: rng1 = 24 + 9 - 10 - 1 = 22
+Strikeout
+Team 2 pitcher (Jake Booth): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-8
+
+Elvis Asencio: rng1 = 30 + 9 - 10 - 1 = 28
+Strikeout
+Team 2 pitcher (Jake Booth): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-8
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 5
+Team 2 hits: 14
+Team 1 runs: 3
+Team 2 runs: 8
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-31
+Mario Chavez	3	1	1	0	0	0	0	1	1					Victoria
+Marcus Byrd	4	1	1	0	0	1	2	0	2	
+Claudio Tolentino	3	0	0	0	0	0	0	1	1	
+Noel Phelps	4	1	1	0	0	1	1	0	1	
+Pablo Hernandez	4	0	1	0	0	0	0	0	2	
+Reilly Carter	3	0	0	0	0	0	0	1	2	
+Felix Pratt	4	0	1	0	0	0	0	0	2	
+Elvis Asencio	4	0	0	0	0	0	0	0	2	
+Hayden Ross	3	0	0	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Wallace Sweeney	0	1	1	1	0	0	12	8	4	0	1	5	21	
+Park Seo-Jun	0	0	1	0	0	0	6	2	1	1	1	3	9	
+Dwight Cameron	0	0	1	0	0	0	3	3	2	0	0	0	6	
+Evan McKenzie	0	0	1	0	0	0	3	1	1	1	0	1	4	
+Julio Ventura	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-31
+Victor Harris	4	2	2	1	0	0	0	1	1					Reno
+Shaun Conley	5	2	3	1	0	1	3	0	1	
+Joaquin Alba	5	0	0	0	0	0	0	0	2	
+Jerome Fields	5	0	2	0	0	0	1	0	2	
+Ali Monroe	4	1	2	1	0	0	1	0	0	
+Simon Taylor	4	1	2	0	0	0	1	0	0	
+Nate Clarke	4	1	2	1	0	1	1	0	2	
+Ivan Rondon	3	0	0	0	0	0	1	1	0	
+Jeff Murray	4	1	1	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Walter Burnett	1	0	1	1	0	0	18	5	3	2	0	8	23	
+Walt Lewis	0	0	1	0	0	0	6	0	0	0	2	2	8	
+Jake Booth	0	0	1	0	0	0	3	0	0	0	1	3	4	
+Johnny Farmer	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Josh Harris	0	0	0	0	0	0	0	0	0	0	0	0	0	

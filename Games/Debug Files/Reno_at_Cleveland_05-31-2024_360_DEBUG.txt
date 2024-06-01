@@ -1,0 +1,715 @@
+TOP INNING 1
+
+Victor Harris: rng1 = 65 + 16 - 8 - 1 = 72
+Walk
+Team 2 pitcher (Keenan Elliott): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Shaun Conley: rng1 = 25 + 15 - 8 - 1 = 31
+rng2 = 89 + 16 - 6 - 1 = 98
+Flyout
+Team 2 pitcher (Keenan Elliott): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Joaquin Alba: rng1 = 30 + 15 - 8 - 1 = 36
+rng2 = 42 + 14 - 6 - 1 = 49
+Lineout
+Team 2 pitcher (Keenan Elliott): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Jerome Fields: rng1 = 13 + 13 - 8 - 1 = 17
+Strikeout
+Team 2 pitcher (Keenan Elliott): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Rafael Figueroa: rng1 = 78 + 17 - 10 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Vernon Patrick): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Hernan Pereira: rng1 = 10 + 14 - 10 + 1 = 15
+rng2 = 91 + 16 - 15 + 1 = 93
+Flyout
+Team 1 pitcher (Vernon Patrick): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Federico Taveras: rng1 = 55 + 13 - 10 + 1 = 59
+rng2 = 43 + 10 - 15 + 1 = 39
+Groundout
+Team 1 pitcher (Vernon Patrick): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Omar Shah: rng1 = 4 + 8 - 10 + 1 = 3
+Strikeout
+Team 1 pitcher (Vernon Patrick): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Ali Monroe: rng1 = 4 + 15 - 8 - 1 = 10
+Strikeout
+Team 2 pitcher (Keenan Elliott): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Simon Taylor: rng1 = 78 + 13 - 8 - 1 = 82
+rng2 = 31 + 12 - 6 - 1 = 36
+Single
+Team 2 pitcher (Keenan Elliott): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Nate Clarke: rng1 = 34 + 15 - 8 - 1 = 40
+rng2 = 86 + 11 - 6 - 1 = 90
+Flyout
+Team 2 pitcher (Keenan Elliott): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Ivan Rondon: rng1 = 60 + 14 - 8 - 1 = 65
+rng2 = 86 + 11 - 6 - 1 = 90
+Flyout
+Team 2 pitcher (Keenan Elliott): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Rogelio Rojas: rng1 = 21 + 7 - 10 + 1 = 19
+Strikeout
+Team 1 pitcher (Vernon Patrick): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Francisco Illescas: rng1 = 81 + 8 - 10 + 1 = 80
+rng2 = 99 + 8 - 15 + 1 = 93
+Triple
+Team 1 pitcher (Vernon Patrick): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: false, base3: [5,0]
+base1: false, base2: false, base3: true
+Score: 0-0
+
+Gerardo Deleon: rng1 = 94 + 10 - 10 + 1 = 95
+rng2 = 60 + 7 - 15 + 1 = 53
+Single
+Team 1 pitcher (Vernon Patrick): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Chwa Jung-Su: rng1 = 61 + 8 - 10 + 1 = 60
+rng2 = 82 + 7 - 15 + 1 = 75
+Flyout
+Team 1 pitcher (Vernon Patrick): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Jerónimo Palomar: rng1 = 32 + 6 - 10 + 1 = 29
+rng2 = 88 + 7 - 15 + 1 = 81
+Flyout
+Team 1 pitcher (Vernon Patrick): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 3
+
+Jeff Murray: rng1 = 58 + 15 - 8 - 1 = 64
+rng2 = 98 + 10 - 6 - 1 = 101
+Flyout
+Team 2 pitcher (Keenan Elliott): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Victor Harris: rng1 = 90 + 16 - 8 - 1 = 97
+rng2 = 62 + 15 - 6 - 1 = 70
+Double
+Team 2 pitcher (Keenan Elliott): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Shaun Conley: rng1 = 11 + 15 - 8 - 1 = 17
+Strikeout
+Team 2 pitcher (Keenan Elliott): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Joaquin Alba: rng1 = 71 + 15 - 8 - 1 = 77
+rng2 = 17 + 14 - 6 - 1 = 24
+Single
+Team 2 pitcher (Keenan Elliott): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 2
+
+base1: [2,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 0-1
+
+Jerome Fields: rng1 = 34 + 13 - 8 - 1 = 38
+rng2 = 16 + 14 - 6 - 1 = 23
+Groundout
+Team 2 pitcher (Keenan Elliott): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Rafael Figueroa: rng1 = 99 + 17 - 10 + 1 = 107
+rng2 = 71 + 13 - 15 + 1 = 70
+Double
+Team 1 pitcher (Vernon Patrick): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 0
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Hernan Pereira: rng1 = 16 + 14 - 10 + 1 = 21
+Strikeout
+Team 1 pitcher (Vernon Patrick): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Federico Taveras: rng1 = 26 + 13 - 10 + 1 = 30
+rng2 = 96 + 10 - 15 + 1 = 92
+Flyout
+Team 1 pitcher (Vernon Patrick): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 2
+
+base1: false, base2: false, base3: [0,0]
+base1: false, base2: false, base3: true
+Score: 0-1
+
+Omar Shah: rng1 = 5 + 8 - 10 + 1 = 4
+Strikeout
+Team 1 pitcher (Vernon Patrick): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 4
+
+Ali Monroe: rng1 = 66 + 15 - 8 - 1 = 72
+Walk
+Team 2 pitcher (Keenan Elliott): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Simon Taylor: rng1 = 31 + 13 - 8 - 1 = 35
+rng2 = 91 + 12 - 6 - 1 = 96
+Flyout
+Team 2 pitcher (Keenan Elliott): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Nate Clarke: rng1 = 72 + 15 - 8 - 1 = 78
+rng2 = 60 + 11 - 6 - 1 = 64
+Single
+Team 2 pitcher (Keenan Elliott): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 1
+
+base1: [6,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-1
+
+Ivan Rondon: rng1 = 19 + 14 - 8 - 1 = 24
+Strikeout
+Team 2 pitcher (Keenan Elliott): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 2
+
+base1: [6,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-1
+
+Jeff Murray: rng1 = 91 + 15 - 8 - 1 = 97
+rng2 = 31 + 10 - 6 - 1 = 34
+Single
+Team 2 pitcher (Keenan Elliott): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 2
+
+base1: [8,0], base2: [6,0], base3: [4,0]
+base1: true, base2: true, base3: true
+Score: 0-1
+
+Victor Harris: rng1 = 47 + 16 - 8 - 1 = 54
+rng2 = 58 + 15 - 6 - 1 = 66
+Flyout
+Team 2 pitcher (Keenan Elliott): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Rogelio Rojas: rng1 = 64 + 7 - 10 + 1 = 62
+rng2 = 85 + 9 - 15 + 1 = 80
+Flyout
+Team 1 pitcher (Vernon Patrick): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Francisco Illescas: rng1 = 70 + 8 - 10 + 1 = 69
+rng2 = 84 + 8 - 15 + 1 = 78
+Flyout
+Team 1 pitcher (Vernon Patrick): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Gerardo Deleon: rng1 = 38 + 10 - 10 + 1 = 39
+rng2 = 75 + 7 - 15 + 1 = 68
+Flyout
+Team 1 pitcher (Vernon Patrick): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 5
+
+Shaun Conley: rng1 = 36 + 15 - 8 - 1 = 42
+rng2 = 2 + 16 - 6 - 1 = 11
+Groundout
+Team 2 pitcher (Keenan Elliott): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Joaquin Alba: rng1 = 24 + 15 - 8 - 1 = 30
+rng2 = 56 + 14 - 6 - 1 = 63
+Flyout
+Team 2 pitcher (Keenan Elliott): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Jerome Fields: rng1 = 22 + 13 - 8 - 1 = 26
+Strikeout
+Team 2 pitcher (Keenan Elliott): 22 batters faced, 0 runs allowed = 22 + 0.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 5
+
+Chwa Jung-Su: rng1 = 50 + 8 - 10 + 1 = 49
+rng2 = 58 + 7 - 15 + 1 = 51
+Lineout
+Team 1 pitcher (Vernon Patrick): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Jerónimo Palomar: rng1 = 21 + 6 - 10 + 1 = 18
+Strikeout
+Team 1 pitcher (Vernon Patrick): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Rafael Figueroa: rng1 = 5 + 17 - 10 + 1 = 13
+rng2 = 100 + 13 - 15 + 1 = 99
+Flyout
+Team 1 pitcher (Vernon Patrick): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 6
+
+Ali Monroe: rng1 = 54 + 15 - 8 - 1 = 60
+rng2 = 7 + 13 - 6 - 1 = 13
+Groundout
+Team 2 pitcher (Keenan Elliott): 23 batters faced, 0 runs allowed = 23 + 0.0 = 23.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Simon Taylor: rng1 = 34 + 13 - 8 - 1 = 38
+rng2 = 26 + 12 - 6 - 1 = 31
+Groundout
+Team 2 pitcher (Keenan Elliott): 24 batters faced, 0 runs allowed = 24 + 0.0 = 24.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Nate Clarke: rng1 = 29 + 15 - 8 - 1 = 35
+rng2 = 87 + 11 - 6 - 1 = 91
+Flyout
+Team 2 pitcher (Keenan Elliott): 25 batters faced, 0 runs allowed = 25 + 0.0 = 25.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 6
+
+Hernan Pereira: rng1 = 2 + 14 - 10 + 1 = 7
+Strikeout
+Team 1 pitcher (Vernon Patrick): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Federico Taveras: rng1 = 34 + 13 - 10 + 1 = 38
+rng2 = 66 + 10 - 15 + 1 = 62
+Flyout
+Team 1 pitcher (Vernon Patrick): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Omar Shah: rng1 = 51 + 8 - 10 + 1 = 50
+rng2 = 7 + 15 - 15 + 1 = 8
+Groundout
+Team 1 pitcher (Vernon Patrick): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 7
+
+Ivan Rondon: rng1 = 88 + 14 - 8 - 1 = 93
+rng2 = 14 + 11 - 6 - 1 = 18
+Single
+Team 2 pitcher (Keenan Elliott): 26 batters faced, 0 runs allowed = 26 + 0.0 = 26.0, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Jeff Murray: rng1 = 35 + 15 - 8 - 1 = 41
+rng2 = 71 + 10 - 6 - 1 = 74
+Flyout
+Team 2 pitcher (Keenan Elliott): 27 batters faced, 0 runs allowed = 27 + 0.0 = 27.0, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Victor Harris: rng1 = 99 + 16 - 8 - 1 = 106
+rng2 = 80 + 15 - 6 - 1 = 88
+Double
+Team 2 pitcher (Keenan Elliott): 28 batters faced, 0 runs allowed = 28 + 0.0 = 28.0, outs: 1
+
+base1: false, base2: [0,0], base3: [7,0]
+base1: false, base2: true, base3: true
+Score: 0-1
+
+Shaun Conley: rng1 = 27 + 15 - 8 - 1 = 33
+rng2 = 1 + 16 - 6 - 1 = 10
+Groundout
+Team 2 pitcher (Keenan Elliott): 29 batters faced, 1 runs allowed = 29 + 2.5 = 31.5, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Team 2 pitcher change to Dario Peralta
+
+Joaquin Alba: rng1 = 6 + 15 - 10 - 1 = 10
+Strikeout
+Team 2 pitcher (Dario Peralta): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 7
+
+Rogelio Rojas: rng1 = 96 + 7 - 10 + 1 = 94
+rng2 = 23 + 9 - 15 + 1 = 18
+Single
+Team 1 pitcher (Vernon Patrick): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Francisco Illescas: rng1 = 57 + 8 - 10 + 1 = 56
+rng2 = 63 + 8 - 15 + 1 = 57
+Lineout
+Team 1 pitcher (Vernon Patrick): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Gerardo Deleon: rng1 = 14 + 10 - 10 + 1 = 15
+rng2 = 60 + 7 - 15 + 1 = 53
+Lineout
+Team 1 pitcher (Vernon Patrick): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Chwa Jung-Su: rng1 = 12 + 8 - 10 + 1 = 11
+rng2 = 53 + 7 - 15 + 1 = 46
+Groundout
+Team 1 pitcher (Vernon Patrick): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 8
+
+Jerome Fields: rng1 = 3 + 13 - 10 - 1 = 5
+Strikeout
+Team 2 pitcher (Dario Peralta): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Ali Monroe: rng1 = 45 + 15 - 10 - 1 = 49
+rng2 = 16 + 13 - 11 - 1 = 17
+Groundout
+Team 2 pitcher (Dario Peralta): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Simon Taylor: rng1 = 3 + 13 - 10 - 1 = 5
+Strikeout
+Team 2 pitcher (Dario Peralta): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 8
+
+Jerónimo Palomar: rng1 = 94 + 6 - 10 + 1 = 91
+rng2 = 87 + 7 - 15 + 1 = 80
+Home run
+Team 1 pitcher (Vernon Patrick): 27 batters faced, 2 runs allowed = 27 + 5.0 = 32.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Rafael Figueroa: rng1 = 70 + 17 - 10 + 1 = 78
+rng2 = 69 + 13 - 15 + 1 = 68
+Double
+Team 1 pitcher (Vernon Patrick): 28 batters faced, 2 runs allowed = 28 + 5.0 = 33.0, outs: 0
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-2
+
+Hernan Pereira: rng1 = 82 + 14 - 10 + 1 = 87
+Walk
+Team 1 pitcher (Vernon Patrick): 29 batters faced, 2 runs allowed = 29 + 5.0 = 34.0, outs: 0
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-2
+
+Federico Taveras: rng1 = 99 + 13 - 10 + 1 = 103
+rng2 = 36 + 10 - 15 + 1 = 32
+Single
+Team 1 pitcher (Vernon Patrick): 30 batters faced, 3 runs allowed = 30 + 7.5 = 37.5, outs: 0
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 1-3
+
+Team 1 pitcher change to Jake Booth
+
+Omar Shah: rng1 = 83 + 8 - 10 + 1 = 82
+rng2 = 51 + 15 - 9 + 1 = 58
+Single
+Team 1 pitcher (Jake Booth): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [3,1], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-4
+
+Rogelio Rojas: rng1 = 17 + 7 - 10 + 1 = 15
+rng2 = 88 + 9 - 9 + 1 = 89
+Flyout
+Team 1 pitcher (Jake Booth): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [3,1], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-4
+
+Francisco Illescas: rng1 = 84 + 8 - 10 + 1 = 83
+rng2 = 5 + 8 - 9 + 1 = 5
+Single
+Team 1 pitcher (Jake Booth): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [5,1], base2: [3,1], base3: false
+base1: true, base2: true, base3: false
+Score: 1-5
+
+Gerardo Deleon: rng1 = 10 + 10 - 10 + 1 = 11
+rng2 = 11 + 7 - 9 + 1 = 10
+Groundout
+Team 1 pitcher (Jake Booth): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [6,1], base2: false, base3: [3,1]
+base1: true, base2: false, base3: true
+Score: 1-5
+
+Chwa Jung-Su: rng1 = 29 + 8 - 10 + 1 = 28
+Strikeout
+Team 1 pitcher (Jake Booth): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+TOP INNING 9
+
+Nate Clarke: rng1 = 11 + 15 - 10 - 1 = 15
+rng2 = 15 + 11 - 11 - 1 = 14
+Groundout
+Team 2 pitcher (Dario Peralta): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Ivan Rondon: rng1 = 52 + 14 - 10 - 1 = 55
+rng2 = 97 + 11 - 11 - 1 = 96
+Flyout
+Team 2 pitcher (Dario Peralta): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Jeff Murray: rng1 = 15 + 15 - 10 - 1 = 19
+Strikeout
+Team 2 pitcher (Dario Peralta): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 7
+Team 2 hits: 9
+Team 1 runs: 1
+Team 2 runs: 5
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-31
+Victor Harris	3	0	2	2	0	0	0	1	0					Reno
+Shaun Conley	4	0	0	0	0	0	1	0	1	
+Joaquin Alba	4	0	1	0	0	0	0	0	1	
+Jerome Fields	4	0	0	0	0	0	0	0	3	
+Ali Monroe	3	0	0	0	0	0	0	1	1	
+Simon Taylor	4	0	1	0	0	0	0	0	1	
+Nate Clarke	4	0	1	0	0	0	0	0	0	
+Ivan Rondon	4	1	1	0	0	0	0	0	1	
+Jeff Murray	4	0	1	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Vernon Patrick	0	1	1	1	0	0	21	7	5	1	1	6	30	
+Jake Booth	0	0	1	0	0	0	3	2	0	0	0	1	5	
+Johnny Farmer	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Walt Lewis	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Josh Harris	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-31
+Rafael Figueroa	3	1	2	2	0	0	0	0	0					Cleveland
+Hernan Pereira	3	1	0	0	0	0	0	1	2	
+Federico Taveras	4	1	1	0	0	0	1	0	0	
+Omar Shah	4	0	1	0	0	0	1	0	2	
+Rogelio Rojas	4	0	1	0	0	0	0	0	1	
+Francisco Illescas	4	1	2	0	1	0	1	0	0	
+Gerardo Deleon	4	0	1	0	0	0	1	0	0	
+Chwa Jung-Su	4	0	0	0	0	0	0	0	1	
+Jerónimo Palomar	3	1	1	0	0	1	1	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Keenan Elliott	0	0	1	1	0	0	20	7	1	0	2	5	29	
+Dario Peralta	1	0	1	0	0	0	7	0	0	0	0	4	7	
+Sidney Petersen	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Jaime Espinosa	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Ernesto Salazar	0	0	0	0	0	0	0	0	0	0	0	0	0	

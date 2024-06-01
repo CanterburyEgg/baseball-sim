@@ -1,0 +1,656 @@
+TOP INNING 1
+
+Ramon Cabrera: rng1 = 11 + 14 - 12 - 1 = 12
+rng2 = 70 + 13 - 12 - 1 = 70
+Flyout
+Team 2 pitcher (Wallace Sweeney): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Emilio Soto: rng1 = 81 + 9 - 12 - 1 = 77
+rng2 = 81 + 11 - 12 - 1 = 79
+Triple
+Team 2 pitcher (Wallace Sweeney): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: [1,0]
+base1: false, base2: false, base3: true
+Score: 0-0
+
+Valentino Rubio: rng1 = 79 + 9 - 12 - 1 = 75
+rng2 = 95 + 7 - 12 - 1 = 89
+Double
+Team 2 pitcher (Wallace Sweeney): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Les Drake: rng1 = 82 + 8 - 12 - 1 = 77
+rng2 = 22 + 13 - 12 - 1 = 22
+Single
+Team 2 pitcher (Wallace Sweeney): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [3,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Elmer Sparks: rng1 = 60 + 7 - 12 - 1 = 54
+rng2 = 98 + 9 - 12 - 1 = 94
+Flyout
+Team 2 pitcher (Wallace Sweeney): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Max Lawrence: rng1 = 71 + 7 - 12 - 1 = 65
+rng2 = 45 + 8 - 12 - 1 = 40
+Groundout
+Team 2 pitcher (Wallace Sweeney): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Mario Chavez: rng1 = 33 + 11 - 16 + 1 = 29
+rng2 = 38 + 10 - 13 + 1 = 36
+Groundout
+Team 1 pitcher (Dustin Steele): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Marcus Byrd: rng1 = 36 + 11 - 16 + 1 = 32
+rng2 = 20 + 8 - 13 + 1 = 16
+Groundout
+Team 1 pitcher (Dustin Steele): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Claudio Tolentino: rng1 = 9 + 9 - 16 + 1 = 3
+Strikeout
+Team 1 pitcher (Dustin Steele): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+TOP INNING 2
+
+Chaquille Barnett: rng1 = 75 + 9 - 12 - 1 = 71
+Walk
+Team 2 pitcher (Wallace Sweeney): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Bradley Simon: rng1 = 8 + 8 - 12 - 1 = 3
+Strikeout
+Team 2 pitcher (Wallace Sweeney): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Clarence Carr: rng1 = 17 + 9 - 12 - 1 = 13
+rng2 = 18 + 5 - 12 - 1 = 10
+Groundout
+Team 2 pitcher (Wallace Sweeney): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Ramon Cabrera: rng1 = 27 + 14 - 12 - 1 = 28
+Strikeout
+Team 2 pitcher (Wallace Sweeney): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Noel Phelps: rng1 = 96 + 7 - 16 + 1 = 88
+Walk
+Team 1 pitcher (Dustin Steele): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Pablo Hernandez: rng1 = 3 + 5 - 16 + 1 = -7
+Strikeout
+Team 1 pitcher (Dustin Steele): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Reilly Carter: rng1 = 2 + 7 - 16 + 1 = -6
+Strikeout
+Team 1 pitcher (Dustin Steele): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Elvis Asencio: rng1 = 75 + 9 - 16 + 1 = 69
+rng2 = 100 + 7 - 13 + 1 = 95
+Flyout
+Team 1 pitcher (Dustin Steele): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+TOP INNING 3
+
+Emilio Soto: rng1 = 55 + 9 - 12 - 1 = 51
+rng2 = 2 + 11 - 12 - 1 = 0
+Groundout
+Team 2 pitcher (Wallace Sweeney): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Valentino Rubio: rng1 = 23 + 9 - 12 - 1 = 19
+Strikeout
+Team 2 pitcher (Wallace Sweeney): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Les Drake: rng1 = 22 + 8 - 12 - 1 = 17
+Strikeout
+Team 2 pitcher (Wallace Sweeney): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Felix Pratt: rng1 = 18 + 9 - 16 + 1 = 12
+rng2 = 34 + 7 - 13 + 1 = 29
+Groundout
+Team 1 pitcher (Dustin Steele): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Hayden Ross: rng1 = 86 + 7 - 16 + 1 = 78
+rng2 = 85 + 7 - 13 + 1 = 80
+Home run
+Team 1 pitcher (Dustin Steele): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Mario Chavez: rng1 = 50 + 11 - 16 + 1 = 46
+rng2 = 45 + 10 - 13 + 1 = 43
+Groundout
+Team 1 pitcher (Dustin Steele): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Marcus Byrd: rng1 = 8 + 11 - 16 + 1 = 4
+Strikeout
+Team 1 pitcher (Dustin Steele): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+TOP INNING 4
+
+Elmer Sparks: rng1 = 70 + 7 - 12 - 1 = 64
+rng2 = 71 + 9 - 12 - 1 = 67
+Flyout
+Team 2 pitcher (Wallace Sweeney): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Max Lawrence: rng1 = 50 + 7 - 12 - 1 = 44
+rng2 = 80 + 8 - 12 - 1 = 75
+Flyout
+Team 2 pitcher (Wallace Sweeney): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Chaquille Barnett: rng1 = 6 + 9 - 12 - 1 = 2
+Strikeout
+Team 2 pitcher (Wallace Sweeney): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Claudio Tolentino: rng1 = 23 + 9 - 16 + 1 = 17
+Strikeout
+Team 1 pitcher (Dustin Steele): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Noel Phelps: rng1 = 21 + 7 - 16 + 1 = 13
+rng2 = 75 + 10 - 13 + 1 = 73
+Flyout
+Team 1 pitcher (Dustin Steele): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Pablo Hernandez: rng1 = 95 + 5 - 16 + 1 = 85
+rng2 = 41 + 9 - 13 + 1 = 38
+Single
+Team 1 pitcher (Dustin Steele): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Reilly Carter: rng1 = 8 + 7 - 16 + 1 = 0
+Strikeout
+Team 1 pitcher (Dustin Steele): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+TOP INNING 5
+
+Bradley Simon: rng1 = 29 + 8 - 12 - 1 = 24
+Strikeout
+Team 2 pitcher (Wallace Sweeney): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Clarence Carr: rng1 = 93 + 9 - 12 - 1 = 89
+Walk
+Team 2 pitcher (Wallace Sweeney): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Ramon Cabrera: rng1 = 36 + 14 - 12 - 1 = 37
+rng2 = 94 + 13 - 12 - 1 = 94
+Flyout
+Team 2 pitcher (Wallace Sweeney): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Emilio Soto: rng1 = 24 + 9 - 12 - 1 = 20
+Strikeout
+Team 2 pitcher (Wallace Sweeney): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+BOTTOM INNING 5
+
+Elvis Asencio: rng1 = 97 + 9 - 16 + 1 = 91
+rng2 = 72 + 7 - 13 + 1 = 67
+Double
+Team 1 pitcher (Dustin Steele): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 0
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-1
+
+Felix Pratt: rng1 = 97 + 9 - 16 + 1 = 91
+rng2 = 59 + 7 - 13 + 1 = 54
+Single
+Team 1 pitcher (Dustin Steele): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Hayden Ross: rng1 = 29 + 7 - 16 + 1 = 21
+Strikeout
+Team 1 pitcher (Dustin Steele): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Mario Chavez: rng1 = 78 + 11 - 16 + 1 = 74
+rng2 = 18 + 10 - 13 + 1 = 16
+Single
+Team 1 pitcher (Dustin Steele): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 1
+
+base1: [0,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 2-2
+
+Marcus Byrd: rng1 = 28 + 11 - 16 + 1 = 24
+Strikeout
+Team 1 pitcher (Dustin Steele): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 2
+
+base1: [0,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 2-2
+
+Claudio Tolentino: rng1 = 21 + 9 - 16 + 1 = 15
+rng2 = 18 + 14 - 13 + 1 = 20
+Groundout
+Team 1 pitcher (Dustin Steele): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+TOP INNING 6
+
+Valentino Rubio: rng1 = 19 + 9 - 12 - 1 = 15
+rng2 = 9 + 7 - 12 - 1 = 3
+Groundout
+Team 2 pitcher (Wallace Sweeney): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Les Drake: rng1 = 12 + 8 - 12 - 1 = 7
+Strikeout
+Team 2 pitcher (Wallace Sweeney): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Elmer Sparks: rng1 = 15 + 7 - 12 - 1 = 9
+Strikeout
+Team 2 pitcher (Wallace Sweeney): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+BOTTOM INNING 6
+
+Noel Phelps: rng1 = 70 + 7 - 16 + 1 = 62
+rng2 = 51 + 10 - 13 + 1 = 49
+Lineout
+Team 1 pitcher (Dustin Steele): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Pablo Hernandez: rng1 = 28 + 5 - 16 + 1 = 18
+Strikeout
+Team 1 pitcher (Dustin Steele): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Reilly Carter: rng1 = 28 + 7 - 16 + 1 = 20
+Strikeout
+Team 1 pitcher (Dustin Steele): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+TOP INNING 7
+
+Max Lawrence: rng1 = 75 + 7 - 12 - 1 = 69
+rng2 = 36 + 8 - 12 - 1 = 31
+Groundout
+Team 2 pitcher (Wallace Sweeney): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Chaquille Barnett: rng1 = 62 + 9 - 12 - 1 = 58
+rng2 = 65 + 6 - 12 - 1 = 58
+Lineout
+Team 2 pitcher (Wallace Sweeney): 25 batters faced, 2 runs allowed = 25 + 5.0 = 30.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Bradley Simon: rng1 = 4 + 8 - 12 - 1 = -1
+Strikeout
+Team 2 pitcher (Wallace Sweeney): 26 batters faced, 2 runs allowed = 26 + 5.0 = 31.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Julian Underwood
+
+Elvis Asencio: rng1 = 71 + 9 - 11 + 1 = 70
+Walk
+Team 1 pitcher (Julian Underwood): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Felix Pratt: rng1 = 48 + 9 - 11 + 1 = 47
+rng2 = 6 + 7 - 8 + 1 = 6
+Groundout
+Team 1 pitcher (Julian Underwood): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [6,1], base3: false
+base1: false, base2: true, base3: false
+Score: 2-2
+
+Hayden Ross: rng1 = 88 + 7 - 11 + 1 = 85
+rng2 = 21 + 7 - 8 + 1 = 21
+Single
+Team 1 pitcher (Julian Underwood): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [8,1], base2: false, base3: [6,1]
+base1: true, base2: false, base3: true
+Score: 2-2
+
+Mario Chavez: rng1 = 29 + 11 - 11 + 1 = 30
+rng2 = 78 + 10 - 8 + 1 = 81
+Flyout
+Team 1 pitcher (Julian Underwood): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-3
+
+Marcus Byrd: rng1 = 50 + 11 - 11 + 1 = 51
+rng2 = 9 + 8 - 8 + 1 = 10
+Groundout
+Team 1 pitcher (Julian Underwood): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Dwight Cameron
+
+Clarence Carr: rng1 = 17 + 9 - 8 - 1 = 17
+Strikeout
+Team 2 pitcher (Dwight Cameron): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Ramon Cabrera: rng1 = 11 + 14 - 8 - 1 = 16
+Strikeout
+Team 2 pitcher (Dwight Cameron): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Emilio Soto: rng1 = 66 + 9 - 8 - 1 = 66
+rng2 = 40 + 11 - 8 - 1 = 42
+Groundout
+Team 2 pitcher (Dwight Cameron): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Rajah Rice
+
+Claudio Tolentino: rng1 = 75 + 9 - 7 + 1 = 78
+rng2 = 5 + 14 - 9 + 1 = 11
+Single
+Team 1 pitcher (Rajah Rice): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-3
+
+Noel Phelps: rng1 = 19 + 7 - 7 + 1 = 20
+Strikeout
+Team 1 pitcher (Rajah Rice): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-3
+
+Pablo Hernandez: rng1 = 73 + 5 - 7 + 1 = 72
+Walk
+Team 1 pitcher (Rajah Rice): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [4,2], base2: [2,2], base3: false
+base1: true, base2: true, base3: false
+Score: 2-3
+
+Reilly Carter: rng1 = 33 + 7 - 7 + 1 = 34
+rng2 = 2 + 8 - 9 + 1 = 2
+Groundout
+Team 1 pitcher (Rajah Rice): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Julio Ventura
+
+Valentino Rubio: rng1 = 58 + 9 - 10 - 1 = 56
+rng2 = 48 + 7 - 8 - 1 = 46
+Groundout
+Team 2 pitcher (Julio Ventura): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Les Drake: rng1 = 25 + 8 - 10 - 1 = 22
+Strikeout
+Team 2 pitcher (Julio Ventura): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Elmer Sparks: rng1 = 52 + 7 - 10 - 1 = 48
+rng2 = 41 + 9 - 8 - 1 = 41
+Groundout
+Team 2 pitcher (Julio Ventura): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 3
+Team 2 hits: 7
+Team 1 runs: 2
+Team 2 runs: 3
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-31
+Ramon Cabrera	4	0	0	0	0	0	0	0	2					Anaheim
+Emilio Soto	4	1	1	0	1	0	0	0	1	
+Valentino Rubio	4	1	1	1	0	0	1	0	1	
+Les Drake	4	0	1	0	0	0	0	0	3	
+Elmer Sparks	4	0	0	0	0	0	1	0	1	
+Max Lawrence	3	0	0	0	0	0	0	0	0	
+Chaquille Barnett	2	0	0	0	0	0	0	1	1	
+Bradley Simon	3	0	0	0	0	0	0	0	3	
+Clarence Carr	2	0	0	0	0	0	0	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Dustin Steele	0	0	1	1	0	0	18	5	2	1	1	10	24	
+Julian Underwood	0	1	1	0	0	0	3	1	1	0	1	0	5	
+Rajah Rice	0	0	1	0	0	0	3	1	0	0	1	1	4	
+Franklin Hood	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Shunji Onishi	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-31
+Mario Chavez	4	0	1	0	0	0	1	0	0					Victoria
+Marcus Byrd	4	0	0	0	0	0	0	0	2	
+Claudio Tolentino	4	0	1	0	0	0	0	0	2	
+Noel Phelps	3	0	0	0	0	0	0	1	1	
+Pablo Hernandez	3	0	1	0	0	0	0	1	2	
+Reilly Carter	4	0	0	0	0	0	0	0	3	
+Elvis Asencio	2	2	1	1	0	0	0	1	0	
+Felix Pratt	3	0	1	0	0	0	1	0	0	
+Hayden Ross	3	1	2	0	0	1	1	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Wallace Sweeney	1	0	1	1	0	0	21	3	2	0	2	10	26	
+Dwight Cameron	0	0	1	0	0	0	3	0	0	0	0	2	3	
+Evan McKenzie	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Park Seo-Jun	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Julio Ventura	0	0	1	0	1	1	3	0	0	0	0	1	3	

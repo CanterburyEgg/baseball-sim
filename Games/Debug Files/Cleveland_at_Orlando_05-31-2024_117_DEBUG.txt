@@ -1,0 +1,788 @@
+TOP INNING 1
+
+Rafael Figueroa: rng1 = 59 + 17 - 10 - 1 = 65
+rng2 = 25 + 13 - 11 - 1 = 26
+Groundout
+Team 2 pitcher (Al Klein): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Hernan Pereira: rng1 = 12 + 14 - 10 - 1 = 15
+rng2 = 34 + 16 - 11 - 1 = 38
+Groundout
+Team 2 pitcher (Al Klein): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Federico Taveras: rng1 = 74 + 13 - 10 - 1 = 76
+rng2 = 1 + 10 - 11 - 1 = -1
+Single
+Team 2 pitcher (Al Klein): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Omar Shah: rng1 = 67 + 8 - 10 - 1 = 64
+rng2 = 55 + 15 - 11 - 1 = 58
+Lineout
+Team 2 pitcher (Al Klein): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Alexis Rojas: rng1 = 82 + 13 - 8 + 1 = 88
+Walk
+Team 1 pitcher (Aleksandr Petrov): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Darrell Williams: rng1 = 3 + 13 - 8 + 1 = 9
+Strikeout
+Team 1 pitcher (Aleksandr Petrov): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Grant Sheppard: rng1 = 92 + 13 - 8 + 1 = 98
+rng2 = 28 + 9 - 6 + 1 = 32
+Single
+Team 1 pitcher (Aleksandr Petrov): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Angelo Contreras: rng1 = 64 + 12 - 8 + 1 = 69
+rng2 = 62 + 13 - 6 + 1 = 70
+Flyout
+Team 1 pitcher (Aleksandr Petrov): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [2,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Domingo Jimenez: rng1 = 56 + 10 - 8 + 1 = 59
+rng2 = 29 + 10 - 6 + 1 = 34
+Groundout
+Team 1 pitcher (Aleksandr Petrov): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Rogelio Rojas: rng1 = 84 + 7 - 10 - 1 = 80
+rng2 = 97 + 9 - 11 - 1 = 94
+Home run
+Team 2 pitcher (Al Klein): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Francisco Illescas: rng1 = 70 + 8 - 10 - 1 = 67
+rng2 = 73 + 8 - 11 - 1 = 69
+Flyout
+Team 2 pitcher (Al Klein): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Gerardo Deleon: rng1 = 82 + 10 - 10 - 1 = 81
+rng2 = 39 + 7 - 11 - 1 = 34
+Single
+Team 2 pitcher (Al Klein): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Chwa Jung-Su: rng1 = 50 + 8 - 10 - 1 = 47
+rng2 = 85 + 7 - 11 - 1 = 80
+Flyout
+Team 2 pitcher (Al Klein): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Jerónimo Palomar: rng1 = 67 + 6 - 10 - 1 = 62
+rng2 = 39 + 7 - 11 - 1 = 34
+Groundout
+Team 2 pitcher (Al Klein): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Marty Horn: rng1 = 83 + 8 - 8 + 1 = 84
+rng2 = 72 + 10 - 6 + 1 = 77
+Double
+Team 1 pitcher (Aleksandr Petrov): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 0
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Aaron Garcia: rng1 = 58 + 12 - 8 + 1 = 63
+rng2 = 70 + 7 - 6 + 1 = 72
+Flyout
+Team 1 pitcher (Aleksandr Petrov): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Ken McKinney: rng1 = 32 + 9 - 8 + 1 = 34
+rng2 = 54 + 9 - 6 + 1 = 58
+Lineout
+Team 1 pitcher (Aleksandr Petrov): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Varrien Cannon: rng1 = 27 + 6 - 8 + 1 = 26
+Strikeout
+Team 1 pitcher (Aleksandr Petrov): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 3
+
+Rafael Figueroa: rng1 = 7 + 17 - 10 - 1 = 13
+rng2 = 9 + 13 - 11 - 1 = 10
+Groundout
+Team 2 pitcher (Al Klein): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Hernan Pereira: rng1 = 68 + 14 - 10 - 1 = 71
+Walk
+Team 2 pitcher (Al Klein): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Federico Taveras: rng1 = 53 + 13 - 10 - 1 = 55
+rng2 = 34 + 10 - 11 - 1 = 32
+Groundout
+Team 2 pitcher (Al Klein): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Omar Shah: rng1 = 99 + 8 - 10 - 1 = 96
+rng2 = 54 + 15 - 11 - 1 = 57
+Single
+Team 2 pitcher (Al Klein): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 2
+
+base1: [3,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Rogelio Rojas: rng1 = 18 + 7 - 10 - 1 = 14
+rng2 = 89 + 9 - 11 - 1 = 86
+Flyout
+Team 2 pitcher (Al Klein): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Alexis Rojas: rng1 = 48 + 13 - 8 + 1 = 54
+rng2 = 82 + 14 - 6 + 1 = 91
+Flyout
+Team 1 pitcher (Aleksandr Petrov): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Darrell Williams: rng1 = 22 + 13 - 8 + 1 = 28
+Strikeout
+Team 1 pitcher (Aleksandr Petrov): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Grant Sheppard: rng1 = 67 + 13 - 8 + 1 = 73
+rng2 = 66 + 9 - 6 + 1 = 70
+Double
+Team 1 pitcher (Aleksandr Petrov): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Angelo Contreras: rng1 = 79 + 12 - 8 + 1 = 84
+rng2 = 38 + 13 - 6 + 1 = 46
+Single
+Team 1 pitcher (Aleksandr Petrov): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Domingo Jimenez: rng1 = 73 + 10 - 8 + 1 = 76
+rng2 = 11 + 10 - 6 + 1 = 16
+Single
+Team 1 pitcher (Aleksandr Petrov): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: [4,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 1-1
+
+Marty Horn: rng1 = 74 + 8 - 8 + 1 = 75
+rng2 = 47 + 10 - 6 + 1 = 52
+Single
+Team 1 pitcher (Aleksandr Petrov): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 2
+
+base1: [5,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 1-2
+
+Aaron Garcia: rng1 = 57 + 12 - 8 + 1 = 62
+rng2 = 71 + 7 - 6 + 1 = 73
+Flyout
+Team 1 pitcher (Aleksandr Petrov): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 4
+
+Francisco Illescas: rng1 = 27 + 8 - 10 - 1 = 24
+Strikeout
+Team 2 pitcher (Al Klein): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Gerardo Deleon: rng1 = 4 + 10 - 10 - 1 = 3
+Strikeout
+Team 2 pitcher (Al Klein): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Chwa Jung-Su: rng1 = 85 + 8 - 10 - 1 = 82
+rng2 = 55 + 7 - 11 - 1 = 50
+Single
+Team 2 pitcher (Al Klein): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Jerónimo Palomar: rng1 = 21 + 6 - 10 - 1 = 16
+Strikeout
+Team 2 pitcher (Al Klein): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 4
+
+Ken McKinney: rng1 = 9 + 9 - 8 + 1 = 11
+rng2 = 15 + 9 - 6 + 1 = 19
+Groundout
+Team 1 pitcher (Aleksandr Petrov): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Varrien Cannon: rng1 = 29 + 6 - 8 + 1 = 28
+Strikeout
+Team 1 pitcher (Aleksandr Petrov): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Alexis Rojas: rng1 = 35 + 13 - 8 + 1 = 41
+rng2 = 3 + 14 - 6 + 1 = 12
+Groundout
+Team 1 pitcher (Aleksandr Petrov): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 5
+
+Rafael Figueroa: rng1 = 42 + 17 - 10 - 1 = 48
+rng2 = 40 + 13 - 11 - 1 = 41
+Groundout
+Team 2 pitcher (Al Klein): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Hernan Pereira: rng1 = 68 + 14 - 10 - 1 = 71
+Walk
+Team 2 pitcher (Al Klein): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Federico Taveras: rng1 = 26 + 13 - 10 - 1 = 28
+Strikeout
+Team 2 pitcher (Al Klein): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Omar Shah: rng1 = 18 + 8 - 10 - 1 = 15
+rng2 = 46 + 15 - 11 - 1 = 49
+Lineout
+Team 2 pitcher (Al Klein): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 5
+
+Darrell Williams: rng1 = 95 + 13 - 8 + 1 = 101
+rng2 = 60 + 11 - 6 + 1 = 66
+Double
+Team 1 pitcher (Aleksandr Petrov): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 0
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-2
+
+Grant Sheppard: rng1 = 12 + 13 - 8 + 1 = 18
+Strikeout
+Team 1 pitcher (Aleksandr Petrov): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-2
+
+Angelo Contreras: rng1 = 47 + 12 - 8 + 1 = 52
+rng2 = 63 + 13 - 6 + 1 = 71
+Flyout
+Team 1 pitcher (Aleksandr Petrov): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-2
+
+Domingo Jimenez: rng1 = 35 + 10 - 8 + 1 = 38
+rng2 = 15 + 10 - 6 + 1 = 20
+Groundout
+Team 1 pitcher (Aleksandr Petrov): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 6
+
+Rogelio Rojas: rng1 = 96 + 7 - 10 - 1 = 92
+rng2 = 63 + 9 - 11 - 1 = 60
+Single
+Team 2 pitcher (Al Klein): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Francisco Illescas: rng1 = 26 + 8 - 10 - 1 = 23
+Strikeout
+Team 2 pitcher (Al Klein): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Gerardo Deleon: rng1 = 5 + 10 - 10 - 1 = 4
+Strikeout
+Team 2 pitcher (Al Klein): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Chwa Jung-Su: rng1 = 9 + 8 - 10 - 1 = 6
+Strikeout
+Team 2 pitcher (Al Klein): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Dario Peralta
+
+Marty Horn: rng1 = 23 + 8 - 10 + 1 = 22
+Strikeout
+Team 1 pitcher (Dario Peralta): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Aaron Garcia: rng1 = 69 + 12 - 10 + 1 = 72
+Walk
+Team 1 pitcher (Dario Peralta): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Ken McKinney: rng1 = 21 + 9 - 10 + 1 = 21
+Strikeout
+Team 1 pitcher (Dario Peralta): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Varrien Cannon: rng1 = 21 + 6 - 10 + 1 = 18
+Strikeout
+Team 1 pitcher (Dario Peralta): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Vicente Castillo
+
+Jerónimo Palomar: rng1 = 42 + 6 - 12 - 1 = 35
+rng2 = 85 + 7 - 10 - 1 = 81
+Flyout
+Team 2 pitcher (Vicente Castillo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Rafael Figueroa: rng1 = 80 + 17 - 12 - 1 = 84
+rng2 = 80 + 13 - 10 - 1 = 82
+Home run
+Team 2 pitcher (Vicente Castillo): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Hernan Pereira: rng1 = 97 + 14 - 12 - 1 = 98
+rng2 = 55 + 16 - 10 - 1 = 60
+Single
+Team 2 pitcher (Vicente Castillo): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Federico Taveras: rng1 = 89 + 13 - 12 - 1 = 89
+Walk
+Team 2 pitcher (Vicente Castillo): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [2,1], base2: [1,1], base3: false
+base1: true, base2: true, base3: false
+Score: 2-2
+
+Omar Shah: rng1 = 55 + 8 - 12 - 1 = 50
+rng2 = 80 + 15 - 10 - 1 = 84
+Flyout
+Team 2 pitcher (Vicente Castillo): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [2,1], base2: false, base3: [1,1]
+base1: true, base2: false, base3: true
+Score: 2-2
+
+Rogelio Rojas: rng1 = 66 + 7 - 12 - 1 = 60
+rng2 = 45 + 9 - 10 - 1 = 43
+Groundout
+Team 2 pitcher (Vicente Castillo): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+BOTTOM INNING 7
+
+Alexis Rojas: rng1 = 1 + 13 - 10 + 1 = 5
+Strikeout
+Team 1 pitcher (Dario Peralta): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Darrell Williams: rng1 = 98 + 13 - 10 + 1 = 102
+rng2 = 50 + 11 - 11 + 1 = 51
+Single
+Team 1 pitcher (Dario Peralta): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Grant Sheppard: rng1 = 70 + 13 - 10 + 1 = 74
+rng2 = 63 + 9 - 11 + 1 = 62
+Single
+Team 1 pitcher (Dario Peralta): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [2,1], base2: false, base3: [1,1]
+base1: true, base2: false, base3: true
+Score: 2-2
+
+Angelo Contreras: rng1 = 55 + 12 - 10 + 1 = 58
+rng2 = 7 + 13 - 11 + 1 = 10
+Groundout
+Team 1 pitcher (Dario Peralta): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: false, base2: [2,1], base3: [1,1]
+base1: false, base2: true, base3: true
+Score: 2-2
+
+Domingo Jimenez: rng1 = 59 + 10 - 10 + 1 = 60
+rng2 = 45 + 10 - 11 + 1 = 45
+Groundout
+Team 1 pitcher (Dario Peralta): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Brent Knight
+
+Francisco Illescas: rng1 = 62 + 8 - 10 - 1 = 59
+rng2 = 57 + 8 - 13 - 1 = 51
+Lineout
+Team 2 pitcher (Brent Knight): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Gerardo Deleon: rng1 = 20 + 10 - 10 - 1 = 19
+Strikeout
+Team 2 pitcher (Brent Knight): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Chwa Jung-Su: rng1 = 11 + 8 - 10 - 1 = 8
+Strikeout
+Team 2 pitcher (Brent Knight): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Sidney Petersen
+
+Marty Horn: rng1 = 82 + 8 - 9 + 1 = 82
+rng2 = 61 + 10 - 8 + 1 = 64
+Single
+Team 1 pitcher (Sidney Petersen): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Aaron Garcia: rng1 = 73 + 12 - 9 + 1 = 77
+rng2 = 3 + 7 - 8 + 1 = 3
+Single
+Team 1 pitcher (Sidney Petersen): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [6,2], base2: [5,2], base3: false
+base1: true, base2: true, base3: false
+Score: 2-2
+
+Ken McKinney: rng1 = 94 + 9 - 9 + 1 = 95
+rng2 = 78 + 9 - 8 + 1 = 80
+Home run
+Team 1 pitcher (Sidney Petersen): 3 batters faced, 3 runs allowed = 3 + 7.5 = 10.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-5
+
+Varrien Cannon: rng1 = 99 + 6 - 9 + 1 = 97
+rng2 = 11 + 8 - 8 + 1 = 12
+Single
+Team 1 pitcher (Sidney Petersen): 4 batters faced, 3 runs allowed = 4 + 7.5 = 11.5, outs: 0
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-5
+
+Alexis Rojas: rng1 = 91 + 13 - 9 + 1 = 96
+rng2 = 20 + 14 - 8 + 1 = 27
+Single
+Team 1 pitcher (Sidney Petersen): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 0
+
+base1: [0,2], base2: false, base3: [8,2]
+base1: true, base2: false, base3: true
+Score: 2-5
+
+Team 1 pitcher change to Jaime Espinosa
+
+Darrell Williams: rng1 = 97 + 13 - 10 + 1 = 101
+rng2 = 4 + 11 - 6 + 1 = 10
+Single
+Team 1 pitcher (Jaime Espinosa): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [1,3], base2: false, base3: [0,2]
+base1: true, base2: false, base3: true
+Score: 2-6
+
+Grant Sheppard: rng1 = 52 + 13 - 10 + 1 = 56
+rng2 = 76 + 9 - 6 + 1 = 80
+Flyout
+Team 1 pitcher (Jaime Espinosa): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-7
+
+Angelo Contreras: rng1 = 22 + 12 - 10 + 1 = 25
+Strikeout
+Team 1 pitcher (Jaime Espinosa): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-7
+
+Domingo Jimenez: rng1 = 66 + 10 - 10 + 1 = 67
+rng2 = 65 + 10 - 6 + 1 = 70
+Flyout
+Team 1 pitcher (Jaime Espinosa): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-7
+
+-----------------------
+
+TOP INNING 9
+
+Jerónimo Palomar: rng1 = 31 + 6 - 10 - 1 = 26
+Strikeout
+Team 2 pitcher (Brent Knight): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Rafael Figueroa: rng1 = 7 + 17 - 10 - 1 = 13
+rng2 = 75 + 13 - 13 - 1 = 74
+Flyout
+Team 2 pitcher (Brent Knight): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Hernan Pereira: rng1 = 59 + 14 - 10 - 1 = 62
+rng2 = 9 + 16 - 13 - 1 = 11
+Groundout
+Team 2 pitcher (Brent Knight): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-7
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 8
+Team 2 hits: 15
+Team 1 runs: 2
+Team 2 runs: 7
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-31
+Rafael Figueroa	5	1	1	0	0	1	1	0	0					Cleveland
+Hernan Pereira	3	0	1	0	0	0	0	2	0	
+Federico Taveras	3	0	1	0	0	0	0	1	1	
+Omar Shah	4	0	1	0	0	0	0	0	0	
+Rogelio Rojas	4	1	2	0	0	1	1	0	0	
+Francisco Illescas	4	0	0	0	0	0	0	0	2	
+Gerardo Deleon	4	0	1	0	0	0	0	0	3	
+Chwa Jung-Su	4	0	1	0	0	0	0	0	2	
+Jerónimo Palomar	4	0	0	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Aleksandr Petrov	0	0	1	1	0	0	15	7	2	0	1	5	23	
+Dario Peralta	0	0	1	0	0	0	6	2	0	0	1	4	9	
+Sidney Petersen	0	1	1	0	0	0	0	5	5	1	0	0	5	
+Jaime Espinosa	0	0	1	0	0	0	3	1	0	0	0	1	4	
+Ernesto Salazar	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-31
+Alexis Rojas	4	1	1	0	0	0	0	1	1					Orlando
+Darrell Williams	5	0	3	1	0	0	1	0	2	
+Grant Sheppard	5	1	3	1	0	0	1	0	1	
+Angelo Contreras	5	1	1	0	0	0	1	0	1	
+Domingo Jimenez	5	0	1	0	0	0	0	0	0	
+Marty Horn	4	1	3	1	0	0	1	0	1	
+Aaron Garcia	3	1	1	0	0	0	0	1	0	
+Ken McKinney	4	1	1	0	0	1	3	0	1	
+Varrien Cannon	4	1	1	0	0	0	0	0	3	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Al Klein	0	0	1	1	0	0	18	6	1	1	2	7	26	
+Vicente Castillo	0	0	1	0	0	0	3	2	1	1	1	0	6	
+Brent Knight	1	0	1	0	0	0	6	0	0	0	0	3	6	
+Gabriel Clark	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Pierre Leblanc	0	0	0	0	0	0	0	0	0	0	0	0	0	

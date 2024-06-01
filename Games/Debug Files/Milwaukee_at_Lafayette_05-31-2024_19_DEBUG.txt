@@ -1,0 +1,711 @@
+TOP INNING 1
+
+Diego Vargas: rng1 = 85 + 17 - 9 - 1 = 92
+rng2 = 95 + 16 - 7 - 1 = 103
+Home run
+Team 2 pitcher (Shane Gilbert): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Trevor Holloway: rng1 = 72 + 12 - 9 - 1 = 74
+rng2 = 65 + 12 - 7 - 1 = 69
+Double
+Team 2 pitcher (Shane Gilbert): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Quentin Farmer: rng1 = 10 + 11 - 9 - 1 = 11
+rng2 = 22 + 4 - 7 - 1 = 18
+Groundout
+Team 2 pitcher (Shane Gilbert): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Chester Hubbard: rng1 = 69 + 9 - 9 - 1 = 68
+rng2 = 39 + 12 - 7 - 1 = 43
+Groundout
+Team 2 pitcher (Shane Gilbert): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Art Whitaker: rng1 = 26 + 10 - 9 - 1 = 26
+Strikeout
+Team 2 pitcher (Shane Gilbert): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Jan DeGraaf: rng1 = 10 + 12 - 9 + 1 = 14
+rng2 = 29 + 9 - 7 + 1 = 32
+Groundout
+Team 1 pitcher (Solomon McCarthy): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Chon Il-Seong: rng1 = 22 + 9 - 9 + 1 = 23
+Strikeout
+Team 1 pitcher (Solomon McCarthy): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Mike Rowe: rng1 = 21 + 9 - 9 + 1 = 22
+Strikeout
+Team 1 pitcher (Solomon McCarthy): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 2
+
+Bobby King: rng1 = 34 + 5 - 9 - 1 = 29
+rng2 = 10 + 9 - 7 - 1 = 11
+Groundout
+Team 2 pitcher (Shane Gilbert): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Joey Greer: rng1 = 54 + 8 - 9 - 1 = 52
+rng2 = 37 + 8 - 7 - 1 = 37
+Groundout
+Team 2 pitcher (Shane Gilbert): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Melvin Carlson: rng1 = 46 + 9 - 9 - 1 = 45
+rng2 = 91 + 7 - 7 - 1 = 90
+Flyout
+Team 2 pitcher (Shane Gilbert): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Joshua Fontina: rng1 = 26 + 6 - 9 + 1 = 24
+Strikeout
+Team 1 pitcher (Solomon McCarthy): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Cameron Collier: rng1 = 86 + 8 - 9 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Solomon McCarthy): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Demarcus Warner: rng1 = 80 + 6 - 9 + 1 = 78
+rng2 = 64 + 8 - 7 + 1 = 66
+Double
+Team 1 pitcher (Solomon McCarthy): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: [5,0], base3: [4,0]
+base1: false, base2: true, base3: true
+Score: 1-0
+
+Simon Bowers: rng1 = 99 + 8 - 9 + 1 = 99
+rng2 = 11 + 7 - 7 + 1 = 12
+Single
+Team 1 pitcher (Solomon McCarthy): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 1-1
+
+Yu Minjun: rng1 = 65 + 7 - 9 + 1 = 64
+rng2 = 33 + 7 - 7 + 1 = 34
+Groundout
+Team 1 pitcher (Solomon McCarthy): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 3
+
+Dídac Laguna: rng1 = 21 + 8 - 9 - 1 = 19
+Strikeout
+Team 2 pitcher (Shane Gilbert): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Diego Vargas: rng1 = 56 + 17 - 9 - 1 = 63
+rng2 = 28 + 16 - 7 - 1 = 36
+Groundout
+Team 2 pitcher (Shane Gilbert): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Trevor Holloway: rng1 = 62 + 12 - 9 - 1 = 64
+rng2 = 47 + 12 - 7 - 1 = 51
+Lineout
+Team 2 pitcher (Shane Gilbert): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Chris Ruiz: rng1 = 61 + 7 - 9 + 1 = 60
+rng2 = 24 + 7 - 7 + 1 = 25
+Groundout
+Team 1 pitcher (Solomon McCarthy): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Jan DeGraaf: rng1 = 49 + 12 - 9 + 1 = 53
+rng2 = 53 + 9 - 7 + 1 = 56
+Lineout
+Team 1 pitcher (Solomon McCarthy): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Chon Il-Seong: rng1 = 90 + 9 - 9 + 1 = 91
+rng2 = 70 + 7 - 7 + 1 = 71
+Double
+Team 1 pitcher (Solomon McCarthy): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Mike Rowe: rng1 = 30 + 9 - 9 + 1 = 31
+rng2 = 64 + 7 - 7 + 1 = 65
+Flyout
+Team 1 pitcher (Solomon McCarthy): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 4
+
+Quentin Farmer: rng1 = 10 + 11 - 9 - 1 = 11
+rng2 = 91 + 4 - 7 - 1 = 87
+Flyout
+Team 2 pitcher (Shane Gilbert): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Chester Hubbard: rng1 = 99 + 9 - 9 - 1 = 98
+rng2 = 62 + 12 - 7 - 1 = 66
+Double
+Team 2 pitcher (Shane Gilbert): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Art Whitaker: rng1 = 56 + 10 - 9 - 1 = 56
+rng2 = 2 + 11 - 7 - 1 = 5
+Groundout
+Team 2 pitcher (Shane Gilbert): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Bobby King: rng1 = 21 + 5 - 9 - 1 = 16
+Strikeout
+Team 2 pitcher (Shane Gilbert): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Joshua Fontina: rng1 = 91 + 6 - 9 + 1 = 89
+Walk
+Team 1 pitcher (Solomon McCarthy): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Cameron Collier: rng1 = 96 + 8 - 9 + 1 = 96
+rng2 = 98 + 8 - 7 + 1 = 100
+Home run
+Team 1 pitcher (Solomon McCarthy): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Demarcus Warner: rng1 = 45 + 6 - 9 + 1 = 43
+rng2 = 65 + 8 - 7 + 1 = 67
+Flyout
+Team 1 pitcher (Solomon McCarthy): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Simon Bowers: rng1 = 79 + 8 - 9 + 1 = 79
+rng2 = 83 + 7 - 7 + 1 = 84
+Home run
+Team 1 pitcher (Solomon McCarthy): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Yu Minjun: rng1 = 17 + 7 - 9 + 1 = 16
+Strikeout
+Team 1 pitcher (Solomon McCarthy): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Chris Ruiz: rng1 = 12 + 7 - 9 + 1 = 11
+rng2 = 60 + 7 - 7 + 1 = 61
+Flyout
+Team 1 pitcher (Solomon McCarthy): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+TOP INNING 5
+
+Joey Greer: rng1 = 59 + 8 - 9 - 1 = 57
+rng2 = 90 + 8 - 7 - 1 = 90
+Flyout
+Team 2 pitcher (Shane Gilbert): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Melvin Carlson: rng1 = 66 + 9 - 9 - 1 = 65
+rng2 = 44 + 7 - 7 - 1 = 43
+Groundout
+Team 2 pitcher (Shane Gilbert): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Dídac Laguna: rng1 = 32 + 8 - 9 - 1 = 30
+rng2 = 48 + 6 - 7 - 1 = 46
+Groundout
+Team 2 pitcher (Shane Gilbert): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+BOTTOM INNING 5
+
+Jan DeGraaf: rng1 = 56 + 12 - 9 + 1 = 60
+rng2 = 38 + 9 - 7 + 1 = 41
+Groundout
+Team 1 pitcher (Solomon McCarthy): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Chon Il-Seong: rng1 = 98 + 9 - 9 + 1 = 99
+rng2 = 87 + 7 - 7 + 1 = 88
+Double
+Team 1 pitcher (Solomon McCarthy): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-4
+
+Mike Rowe: rng1 = 89 + 9 - 9 + 1 = 90
+Walk
+Team 1 pitcher (Solomon McCarthy): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 1
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-4
+
+Joshua Fontina: rng1 = 11 + 6 - 9 + 1 = 9
+Strikeout
+Team 1 pitcher (Solomon McCarthy): 22 batters faced, 4 runs allowed = 22 + 10.0 = 32.0, outs: 2
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-4
+
+Cameron Collier: rng1 = 91 + 8 - 9 + 1 = 91
+rng2 = 64 + 8 - 7 + 1 = 66
+Double
+Team 1 pitcher (Solomon McCarthy): 23 batters faced, 6 runs allowed = 23 + 15.0 = 38.0, outs: 2
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-6
+
+Team 1 pitcher change to Mitch Boyd
+
+Demarcus Warner: rng1 = 25 + 6 - 15 + 1 = 17
+Strikeout
+Team 1 pitcher (Mitch Boyd): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 6
+
+Diego Vargas: rng1 = 74 + 17 - 9 - 1 = 81
+rng2 = 22 + 16 - 7 - 1 = 30
+Single
+Team 2 pitcher (Shane Gilbert): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Trevor Holloway: rng1 = 52 + 12 - 9 - 1 = 54
+rng2 = 94 + 12 - 7 - 1 = 98
+Flyout
+Team 2 pitcher (Shane Gilbert): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Quentin Farmer: rng1 = 42 + 11 - 9 - 1 = 43
+rng2 = 44 + 4 - 7 - 1 = 40
+Groundout
+Team 2 pitcher (Shane Gilbert): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Chester Hubbard: rng1 = 97 + 9 - 9 - 1 = 96
+rng2 = 87 + 12 - 7 - 1 = 91
+Double
+Team 2 pitcher (Shane Gilbert): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 2
+
+base1: false, base2: [3,0], base3: [2,0]
+base1: false, base2: true, base3: true
+Score: 1-6
+
+Art Whitaker: rng1 = 36 + 10 - 9 - 1 = 36
+rng2 = 26 + 11 - 7 - 1 = 29
+Groundout
+Team 2 pitcher (Shane Gilbert): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+BOTTOM INNING 6
+
+Simon Bowers: rng1 = 69 + 8 - 15 + 1 = 63
+rng2 = 47 + 7 - 11 + 1 = 44
+Groundout
+Team 1 pitcher (Mitch Boyd): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Yu Minjun: rng1 = 64 + 7 - 15 + 1 = 57
+rng2 = 37 + 7 - 11 + 1 = 34
+Groundout
+Team 1 pitcher (Mitch Boyd): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Chris Ruiz: rng1 = 7 + 7 - 15 + 1 = 0
+Strikeout
+Team 1 pitcher (Mitch Boyd): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 7
+
+Bobby King: rng1 = 53 + 5 - 9 - 1 = 48
+rng2 = 68 + 9 - 7 - 1 = 69
+Flyout
+Team 2 pitcher (Shane Gilbert): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Joey Greer: rng1 = 4 + 8 - 9 - 1 = 2
+Strikeout
+Team 2 pitcher (Shane Gilbert): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Melvin Carlson: rng1 = 97 + 9 - 9 - 1 = 96
+rng2 = 69 + 7 - 7 - 1 = 68
+Double
+Team 2 pitcher (Shane Gilbert): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 2
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-6
+
+Dídac Laguna: rng1 = 34 + 8 - 9 - 1 = 32
+rng2 = 100 + 6 - 7 - 1 = 98
+Flyout
+Team 2 pitcher (Shane Gilbert): 27 batters faced, 1 runs allowed = 27 + 2.5 = 29.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+BOTTOM INNING 7
+
+Jan DeGraaf: rng1 = 39 + 12 - 15 + 1 = 37
+rng2 = 88 + 9 - 11 + 1 = 87
+Flyout
+Team 1 pitcher (Mitch Boyd): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Chon Il-Seong: rng1 = 71 + 9 - 15 + 1 = 66
+rng2 = 48 + 7 - 11 + 1 = 45
+Groundout
+Team 1 pitcher (Mitch Boyd): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Mike Rowe: rng1 = 86 + 9 - 15 + 1 = 81
+rng2 = 5 + 7 - 11 + 1 = 2
+Single
+Team 1 pitcher (Mitch Boyd): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Joshua Fontina: rng1 = 99 + 6 - 15 + 1 = 91
+rng2 = 13 + 9 - 11 + 1 = 12
+Single
+Team 1 pitcher (Mitch Boyd): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [3,1], base2: false, base3: [2,1]
+base1: true, base2: false, base3: true
+Score: 1-6
+
+Cameron Collier: rng1 = 89 + 8 - 15 + 1 = 83
+rng2 = 65 + 8 - 11 + 1 = 63
+Single
+Team 1 pitcher (Mitch Boyd): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [4,1], base2: false, base3: [3,1]
+base1: true, base2: false, base3: true
+Score: 1-7
+
+Team 1 pitcher change to Jacob Wallace
+
+Demarcus Warner: rng1 = 18 + 6 - 10 + 1 = 15
+rng2 = 21 + 8 - 7 + 1 = 23
+Groundout
+Team 1 pitcher (Jacob Wallace): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-7
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Kangjon Kwang-Hyun
+
+Diego Vargas: rng1 = 86 + 17 - 8 - 1 = 94
+rng2 = 8 + 16 - 8 - 1 = 15
+Single
+Team 2 pitcher (Kangjon Kwang-Hyun): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-7
+
+Trevor Holloway: rng1 = 36 + 12 - 8 - 1 = 39
+rng2 = 70 + 12 - 8 - 1 = 73
+Flyout
+Team 2 pitcher (Kangjon Kwang-Hyun): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-7
+
+Quentin Farmer: rng1 = 24 + 11 - 8 - 1 = 26
+Strikeout
+Team 2 pitcher (Kangjon Kwang-Hyun): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-7
+
+Chester Hubbard: rng1 = 40 + 9 - 8 - 1 = 40
+rng2 = 26 + 12 - 8 - 1 = 29
+Groundout
+Team 2 pitcher (Kangjon Kwang-Hyun): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-7
+
+-----------------------
+
+BOTTOM INNING 8
+
+Simon Bowers: rng1 = 53 + 8 - 10 + 1 = 52
+rng2 = 77 + 7 - 7 + 1 = 78
+Flyout
+Team 1 pitcher (Jacob Wallace): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-7
+
+Yu Minjun: rng1 = 50 + 7 - 10 + 1 = 48
+rng2 = 33 + 7 - 7 + 1 = 34
+Groundout
+Team 1 pitcher (Jacob Wallace): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-7
+
+Chris Ruiz: rng1 = 45 + 7 - 10 + 1 = 43
+rng2 = 37 + 7 - 7 + 1 = 38
+Groundout
+Team 1 pitcher (Jacob Wallace): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-7
+
+-----------------------
+
+TOP INNING 9
+
+Art Whitaker: rng1 = 40 + 10 - 8 - 1 = 41
+rng2 = 77 + 11 - 8 - 1 = 79
+Flyout
+Team 2 pitcher (Kangjon Kwang-Hyun): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-7
+
+Bobby King: rng1 = 13 + 5 - 8 - 1 = 9
+Strikeout
+Team 2 pitcher (Kangjon Kwang-Hyun): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-7
+
+Joey Greer: rng1 = 1 + 8 - 8 - 1 = 0
+Strikeout
+Team 2 pitcher (Kangjon Kwang-Hyun): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-7
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 7
+Team 2 hits: 10
+Team 1 runs: 1
+Team 2 runs: 7
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-31
+Diego Vargas	4	1	3	0	0	1	1	0	0					Milwaukee
+Trevor Holloway	4	0	1	1	0	0	0	0	0	
+Quentin Farmer	4	0	0	0	0	0	0	0	1	
+Chester Hubbard	4	0	2	2	0	0	0	0	0	
+Art Whitaker	4	0	0	0	0	0	0	0	1	
+Bobby King	4	0	0	0	0	0	0	0	2	
+Joey Greer	4	0	0	0	0	0	0	0	2	
+Melvin Carlson	3	0	1	1	0	0	0	0	0	
+Dídac Laguna	3	0	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Solomon McCarthy	0	1	1	1	0	0	14	7	6	2	2	5	23	
+Mitch Boyd	0	0	1	0	0	0	6	3	1	0	0	2	9	
+Jacob Wallace	0	0	1	0	0	0	4	0	0	0	0	0	4	
+Hanley Harper	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Arturo Espinoza	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-31
+Jan DeGraaf	4	0	0	0	0	0	0	0	0					Lafayette
+Chon Il-Seong	4	1	2	2	0	0	0	0	1	
+Mike Rowe	3	2	1	0	0	0	0	1	1	
+Joshua Fontina	3	1	1	0	0	0	0	1	2	
+Cameron Collier	3	2	3	1	0	1	5	0	0	
+Demarcus Warner	4	0	1	1	0	0	0	0	1	
+Simon Bowers	4	1	2	0	0	1	2	0	0	
+Yu Minjun	4	0	0	0	0	0	0	0	1	
+Chris Ruiz	4	0	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Shane Gilbert	1	0	1	1	0	0	21	6	1	1	0	4	27	
+Kangjon Kwang-Hyun	0	0	1	0	0	0	6	1	0	0	0	3	7	
+Tamashiro Genjo	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Daigo Eishi	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Orlando Echavarria	0	0	0	0	0	0	0	0	0	0	0	0	0	

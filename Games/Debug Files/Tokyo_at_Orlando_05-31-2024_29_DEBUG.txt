@@ -1,0 +1,773 @@
+TOP INNING 1
+
+Terrence Wise: rng1 = 100 + 15 - 9 - 1 = 105
+rng2 = 77 + 9 - 11 - 1 = 74
+Double
+Team 2 pitcher (Jaime Morales): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Clayton Massey: rng1 = 8 + 13 - 9 - 1 = 11
+rng2 = 27 + 8 - 11 - 1 = 23
+Groundout
+Team 2 pitcher (Jaime Morales): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: [0,0]
+base1: false, base2: false, base3: true
+Score: 0-0
+
+Ellis Lindsey: rng1 = 68 + 9 - 9 - 1 = 67
+rng2 = 41 + 16 - 11 - 1 = 45
+Groundout
+Team 2 pitcher (Jaime Morales): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Brian Woods: rng1 = 95 + 5 - 9 - 1 = 90
+Walk
+Team 2 pitcher (Jaime Morales): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Alex Carpenter: rng1 = 20 + 7 - 9 - 1 = 17
+Strikeout
+Team 2 pitcher (Jaime Morales): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Alexis Rojas: rng1 = 83 + 13 - 9 + 1 = 88
+Walk
+Team 1 pitcher (Marco Bravo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Darrell Williams: rng1 = 17 + 13 - 9 + 1 = 22
+Strikeout
+Team 1 pitcher (Marco Bravo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Grant Sheppard: rng1 = 5 + 13 - 9 + 1 = 10
+Strikeout
+Team 1 pitcher (Marco Bravo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Angelo Contreras: rng1 = 67 + 12 - 9 + 1 = 71
+Walk
+Team 1 pitcher (Marco Bravo): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [3,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Domingo Jimenez: rng1 = 70 + 10 - 9 + 1 = 72
+Walk
+Team 1 pitcher (Marco Bravo): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: [4,0], base2: [3,0], base3: [0,0]
+base1: true, base2: true, base3: true
+Score: 1-0
+
+Marty Horn: rng1 = 9 + 8 - 9 + 1 = 9
+Strikeout
+Team 1 pitcher (Marco Bravo): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 2
+
+Joaquín Laguna: rng1 = 79 + 7 - 9 - 1 = 76
+rng2 = 14 + 9 - 11 - 1 = 11
+Single
+Team 2 pitcher (Jaime Morales): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Adalberto Smith: rng1 = 88 + 6 - 9 - 1 = 84
+rng2 = 44 + 9 - 11 - 1 = 41
+Single
+Team 2 pitcher (Jaime Morales): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 0
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Santino Reyes: rng1 = 28 + 7 - 9 - 1 = 25
+Strikeout
+Team 2 pitcher (Jaime Morales): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Agustín Molina: rng1 = 77 + 7 - 9 - 1 = 74
+rng2 = 44 + 8 - 11 - 1 = 40
+Single
+Team 2 pitcher (Jaime Morales): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 1
+
+base1: [8,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-0
+
+Terrence Wise: rng1 = 37 + 15 - 9 - 1 = 42
+rng2 = 28 + 9 - 11 - 1 = 25
+Groundout
+Team 2 pitcher (Jaime Morales): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 2
+
+base1: false, base2: [8,0], base3: [6,0]
+base1: false, base2: true, base3: true
+Score: 2-0
+
+Clayton Massey: rng1 = 96 + 13 - 9 - 1 = 99
+rng2 = 71 + 8 - 11 - 1 = 67
+Double
+Team 2 pitcher (Jaime Morales): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-0
+
+Ellis Lindsey: rng1 = 43 + 9 - 9 - 1 = 42
+rng2 = 60 + 16 - 11 - 1 = 64
+Flyout
+Team 2 pitcher (Jaime Morales): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Aaron Garcia: rng1 = 53 + 12 - 9 + 1 = 57
+rng2 = 22 + 7 - 6 + 1 = 24
+Groundout
+Team 1 pitcher (Marco Bravo): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Ken McKinney: rng1 = 37 + 9 - 9 + 1 = 38
+rng2 = 57 + 9 - 6 + 1 = 61
+Flyout
+Team 1 pitcher (Marco Bravo): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Varrien Cannon: rng1 = 33 + 6 - 9 + 1 = 31
+rng2 = 31 + 8 - 6 + 1 = 34
+Groundout
+Team 1 pitcher (Marco Bravo): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+TOP INNING 3
+
+Brian Woods: rng1 = 56 + 5 - 9 - 1 = 51
+rng2 = 9 + 11 - 11 - 1 = 8
+Groundout
+Team 2 pitcher (Jaime Morales): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Alex Carpenter: rng1 = 48 + 7 - 9 - 1 = 45
+rng2 = 16 + 9 - 11 - 1 = 13
+Groundout
+Team 2 pitcher (Jaime Morales): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Joaquín Laguna: rng1 = 23 + 7 - 9 - 1 = 20
+Strikeout
+Team 2 pitcher (Jaime Morales): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Alexis Rojas: rng1 = 57 + 13 - 9 + 1 = 62
+rng2 = 35 + 14 - 6 + 1 = 44
+Groundout
+Team 1 pitcher (Marco Bravo): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Darrell Williams: rng1 = 48 + 13 - 9 + 1 = 53
+rng2 = 3 + 11 - 6 + 1 = 9
+Groundout
+Team 1 pitcher (Marco Bravo): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Grant Sheppard: rng1 = 69 + 13 - 9 + 1 = 74
+rng2 = 56 + 9 - 6 + 1 = 60
+Single
+Team 1 pitcher (Marco Bravo): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Angelo Contreras: rng1 = 51 + 12 - 9 + 1 = 55
+rng2 = 52 + 13 - 6 + 1 = 60
+Flyout
+Team 1 pitcher (Marco Bravo): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+TOP INNING 4
+
+Adalberto Smith: rng1 = 66 + 6 - 9 - 1 = 62
+rng2 = 90 + 9 - 11 - 1 = 87
+Flyout
+Team 2 pitcher (Jaime Morales): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Santino Reyes: rng1 = 6 + 7 - 9 - 1 = 3
+Strikeout
+Team 2 pitcher (Jaime Morales): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Agustín Molina: rng1 = 50 + 7 - 9 - 1 = 47
+rng2 = 93 + 8 - 11 - 1 = 89
+Flyout
+Team 2 pitcher (Jaime Morales): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+BOTTOM INNING 4
+
+Domingo Jimenez: rng1 = 50 + 10 - 9 + 1 = 52
+rng2 = 48 + 10 - 6 + 1 = 53
+Lineout
+Team 1 pitcher (Marco Bravo): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Marty Horn: rng1 = 76 + 8 - 9 + 1 = 76
+rng2 = 11 + 10 - 6 + 1 = 16
+Single
+Team 1 pitcher (Marco Bravo): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Aaron Garcia: rng1 = 65 + 12 - 9 + 1 = 69
+rng2 = 20 + 7 - 6 + 1 = 22
+Groundout
+Team 1 pitcher (Marco Bravo): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+TOP INNING 5
+
+Terrence Wise: rng1 = 48 + 15 - 9 - 1 = 53
+rng2 = 87 + 9 - 11 - 1 = 84
+Flyout
+Team 2 pitcher (Jaime Morales): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Clayton Massey: rng1 = 63 + 13 - 9 - 1 = 66
+rng2 = 32 + 8 - 11 - 1 = 28
+Groundout
+Team 2 pitcher (Jaime Morales): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Ellis Lindsey: rng1 = 58 + 9 - 9 - 1 = 57
+rng2 = 35 + 16 - 11 - 1 = 39
+Groundout
+Team 2 pitcher (Jaime Morales): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+BOTTOM INNING 5
+
+Ken McKinney: rng1 = 37 + 9 - 9 + 1 = 38
+rng2 = 36 + 9 - 6 + 1 = 40
+Groundout
+Team 1 pitcher (Marco Bravo): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Varrien Cannon: rng1 = 22 + 6 - 9 + 1 = 20
+Strikeout
+Team 1 pitcher (Marco Bravo): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Alexis Rojas: rng1 = 98 + 13 - 9 + 1 = 103
+rng2 = 50 + 14 - 6 + 1 = 59
+Single
+Team 1 pitcher (Marco Bravo): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Darrell Williams: rng1 = 45 + 13 - 9 + 1 = 50
+rng2 = 41 + 11 - 6 + 1 = 47
+Groundout
+Team 1 pitcher (Marco Bravo): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Brent Knight
+
+Brian Woods: rng1 = 1 + 5 - 10 - 1 = -5
+Strikeout
+Team 2 pitcher (Brent Knight): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Alex Carpenter: rng1 = 8 + 7 - 10 - 1 = 4
+Strikeout
+Team 2 pitcher (Brent Knight): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Joaquín Laguna: rng1 = 87 + 7 - 10 - 1 = 83
+rng2 = 34 + 9 - 13 - 1 = 29
+Single
+Team 2 pitcher (Brent Knight): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Adalberto Smith: rng1 = 18 + 6 - 10 - 1 = 13
+rng2 = 13 + 9 - 13 - 1 = 8
+Groundout
+Team 2 pitcher (Brent Knight): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+BOTTOM INNING 6
+
+Grant Sheppard: rng1 = 24 + 13 - 9 + 1 = 29
+rng2 = 2 + 9 - 6 + 1 = 6
+Groundout
+Team 1 pitcher (Marco Bravo): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Angelo Contreras: rng1 = 33 + 12 - 9 + 1 = 37
+rng2 = 22 + 13 - 6 + 1 = 30
+Groundout
+Team 1 pitcher (Marco Bravo): 22 batters faced, 0 runs allowed = 22 + 0.0 = 22.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Domingo Jimenez: rng1 = 74 + 10 - 9 + 1 = 76
+rng2 = 91 + 10 - 6 + 1 = 96
+Home run
+Team 1 pitcher (Marco Bravo): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Marty Horn: rng1 = 24 + 8 - 9 + 1 = 24
+Strikeout
+Team 1 pitcher (Marco Bravo): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+TOP INNING 7
+
+Santino Reyes: rng1 = 58 + 7 - 10 - 1 = 54
+rng2 = 37 + 8 - 13 - 1 = 31
+Groundout
+Team 2 pitcher (Brent Knight): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Agustín Molina: rng1 = 29 + 7 - 10 - 1 = 25
+Strikeout
+Team 2 pitcher (Brent Knight): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Terrence Wise: rng1 = 82 + 15 - 10 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Brent Knight): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-1
+
+Clayton Massey: rng1 = 28 + 13 - 10 - 1 = 30
+rng2 = 66 + 8 - 13 - 1 = 60
+Flyout
+Team 2 pitcher (Brent Knight): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Teagan Molina
+
+Aaron Garcia: rng1 = 82 + 12 - 9 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Teagan Molina): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-1
+
+Ken McKinney: rng1 = 21 + 9 - 9 + 1 = 22
+Strikeout
+Team 1 pitcher (Teagan Molina): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-1
+
+Varrien Cannon: rng1 = 75 + 6 - 9 + 1 = 73
+rng2 = 88 + 8 - 6 + 1 = 91
+Double
+Team 1 pitcher (Teagan Molina): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [8,1], base3: false
+base1: false, base2: true, base3: false
+Score: 4-2
+
+Alexis Rojas: rng1 = 43 + 13 - 9 + 1 = 48
+rng2 = 95 + 14 - 6 + 1 = 104
+Flyout
+Team 1 pitcher (Teagan Molina): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: false, base3: [8,1]
+base1: false, base2: false, base3: true
+Score: 4-2
+
+Darrell Williams: rng1 = 79 + 13 - 9 + 1 = 84
+rng2 = 83 + 11 - 6 + 1 = 89
+Double
+Team 1 pitcher (Teagan Molina): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: false, base2: [1,1], base3: false
+base1: false, base2: true, base3: false
+Score: 4-3
+
+Grant Sheppard: rng1 = 5 + 13 - 9 + 1 = 10
+Strikeout
+Team 1 pitcher (Teagan Molina): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Vicente Castillo
+
+Ellis Lindsey: rng1 = 53 + 9 - 12 - 1 = 49
+rng2 = 37 + 16 - 10 - 1 = 42
+Groundout
+Team 2 pitcher (Vicente Castillo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Brian Woods: rng1 = 76 + 5 - 12 - 1 = 68
+rng2 = 59 + 11 - 10 - 1 = 59
+Flyout
+Team 2 pitcher (Vicente Castillo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Alex Carpenter: rng1 = 86 + 7 - 12 - 1 = 80
+rng2 = 12 + 9 - 10 - 1 = 10
+Single
+Team 2 pitcher (Vicente Castillo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Joaquín Laguna: rng1 = 59 + 7 - 12 - 1 = 53
+rng2 = 78 + 9 - 10 - 1 = 76
+Flyout
+Team 2 pitcher (Vicente Castillo): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Harris Derickson
+
+Angelo Contreras: rng1 = 31 + 12 - 9 + 1 = 35
+rng2 = 3 + 13 - 8 + 1 = 9
+Groundout
+Team 1 pitcher (Harris Derickson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Domingo Jimenez: rng1 = 12 + 10 - 9 + 1 = 14
+rng2 = 74 + 10 - 8 + 1 = 77
+Flyout
+Team 1 pitcher (Harris Derickson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Marty Horn: rng1 = 43 + 8 - 9 + 1 = 43
+rng2 = 29 + 10 - 8 + 1 = 32
+Groundout
+Team 1 pitcher (Harris Derickson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+TOP INNING 9
+
+Adalberto Smith: rng1 = 88 + 6 - 12 - 1 = 81
+rng2 = 24 + 9 - 10 - 1 = 22
+Single
+Team 2 pitcher (Vicente Castillo): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Santino Reyes: rng1 = 25 + 7 - 12 - 1 = 19
+Strikeout
+Team 2 pitcher (Vicente Castillo): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Agustín Molina: rng1 = 19 + 7 - 12 - 1 = 13
+rng2 = 89 + 8 - 10 - 1 = 86
+Flyout
+Team 2 pitcher (Vicente Castillo): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Terrence Wise: rng1 = 69 + 15 - 12 - 1 = 71
+Walk
+Team 2 pitcher (Vicente Castillo): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [0,2], base2: [6,2], base3: false
+base1: true, base2: true, base3: false
+Score: 4-3
+
+Clayton Massey: rng1 = 76 + 13 - 12 - 1 = 76
+rng2 = 46 + 8 - 10 - 1 = 43
+Single
+Team 2 pitcher (Vicente Castillo): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [1,2], base2: false, base3: [0,2]
+base1: true, base2: false, base3: true
+Score: 5-3
+
+Team 2 pitcher change to Gabriel Clark
+
+Ellis Lindsey: rng1 = 92 + 9 - 8 - 1 = 92
+rng2 = 60 + 16 - 9 - 1 = 66
+Double
+Team 2 pitcher (Gabriel Clark): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: false, base2: [2,3], base3: false
+base1: false, base2: true, base3: false
+Score: 7-3
+
+Brian Woods: rng1 = 10 + 5 - 8 - 1 = 6
+Strikeout
+Team 2 pitcher (Gabriel Clark): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-3
+
+-----------------------
+
+BOTTOM INNING 9
+
+Aaron Garcia: rng1 = 66 + 12 - 9 + 1 = 70
+Walk
+Team 1 pitcher (Harris Derickson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-3
+
+Ken McKinney: rng1 = 17 + 9 - 9 + 1 = 18
+Strikeout
+Team 1 pitcher (Harris Derickson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-3
+
+Varrien Cannon: rng1 = 61 + 6 - 9 + 1 = 59
+rng2 = 90 + 8 - 8 + 1 = 91
+Flyout
+Team 1 pitcher (Harris Derickson): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-3
+
+Alexis Rojas: rng1 = 31 + 13 - 9 + 1 = 36
+rng2 = 97 + 14 - 8 + 1 = 104
+Flyout
+Team 1 pitcher (Harris Derickson): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-3
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 10
+Team 2 hits: 6
+Team 1 runs: 7
+Team 2 runs: 3
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-31
+Terrence Wise	3	2	1	1	0	0	0	1	0					Tokyo
+Clayton Massey	5	1	2	1	0	0	3	0	0	
+Ellis Lindsey	5	0	1	1	0	0	3	0	0	
+Brian Woods	4	0	0	0	0	0	0	1	2	
+Alex Carpenter	4	0	1	0	0	0	0	0	2	
+Joaquín Laguna	4	1	2	0	0	0	0	0	1	
+Adalberto Smith	4	2	2	0	0	0	0	0	0	
+Santino Reyes	4	0	0	0	0	0	0	0	3	
+Agustín Molina	4	1	1	0	0	0	1	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Marco Bravo	1	0	1	1	0	0	18	4	1	1	3	5	24	
+Teagan Molina	0	0	1	0	0	0	3	2	2	0	0	2	6	
+Harris Derickson	0	0	1	0	0	0	6	0	0	0	1	1	7	
+Kione Andrews	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Zion Wright	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-31
+Alexis Rojas	4	0	1	0	0	0	0	1	0					Orlando
+Darrell Williams	4	0	1	1	0	0	1	0	1	
+Grant Sheppard	4	0	1	0	0	0	0	0	2	
+Angelo Contreras	3	0	0	0	0	0	0	1	0	
+Domingo Jimenez	3	1	1	0	0	1	1	1	0	
+Marty Horn	4	0	1	0	0	0	0	0	2	
+Aaron Garcia	2	1	0	0	0	0	0	1	0	
+Ken McKinney	4	0	0	0	0	0	0	0	2	
+Varrien Cannon	4	1	1	1	0	0	1	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Jaime Morales	0	1	1	1	0	0	15	5	4	0	1	4	21	
+Brent Knight	0	0	1	0	0	0	6	1	0	0	0	3	8	
+Vicente Castillo	0	0	1	0	0	0	5	3	3	0	1	1	9	
+Gabriel Clark	0	0	1	0	0	0	1	1	0	0	0	1	2	
+Pierre Leblanc	0	0	0	0	0	0	0	0	0	0	0	0	0	

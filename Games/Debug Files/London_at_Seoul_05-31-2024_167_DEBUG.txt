@@ -1,0 +1,820 @@
+TOP INNING 1
+
+Toshio Hayashi: rng1 = 70 + 15 - 9 - 1 = 75
+rng2 = 24 + 10 - 9 - 1 = 24
+Single
+Team 2 pitcher (Callum Rees): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Alex Diaz: rng1 = 35 + 13 - 9 - 1 = 38
+rng2 = 21 + 10 - 9 - 1 = 21
+Groundout
+Team 2 pitcher (Callum Rees): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Phil Hill: rng1 = 70 + 10 - 9 - 1 = 70
+Walk
+Team 2 pitcher (Callum Rees): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Joseph Porter: rng1 = 70 + 6 - 9 - 1 = 66
+rng2 = 42 + 9 - 9 - 1 = 41
+Groundout
+Team 2 pitcher (Callum Rees): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Andres Pacheco: rng1 = 72 + 14 - 11 + 1 = 76
+rng2 = 65 + 10 - 8 + 1 = 68
+Double
+Team 1 pitcher (Sebastian Soto): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Jesus Montes: rng1 = 8 + 9 - 11 + 1 = 7
+Strikeout
+Team 1 pitcher (Sebastian Soto): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Daryl Washington: rng1 = 11 + 8 - 11 + 1 = 9
+Strikeout
+Team 1 pitcher (Sebastian Soto): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Duante Jones: rng1 = 29 + 6 - 11 + 1 = 25
+Strikeout
+Team 1 pitcher (Sebastian Soto): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Jeffery Sims: rng1 = 81 + 8 - 9 - 1 = 79
+rng2 = 69 + 8 - 9 - 1 = 67
+Double
+Team 2 pitcher (Callum Rees): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Juan Reyes: rng1 = 49 + 8 - 9 - 1 = 47
+rng2 = 61 + 8 - 9 - 1 = 59
+Flyout
+Team 2 pitcher (Callum Rees): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Estefania Espina: rng1 = 85 + 8 - 9 - 1 = 83
+rng2 = 37 + 8 - 9 - 1 = 35
+Single
+Team 2 pitcher (Callum Rees): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [6,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Dwayne Wilkinson: rng1 = 69 + 10 - 9 - 1 = 69
+rng2 = 90 + 6 - 9 - 1 = 86
+Flyout
+Team 2 pitcher (Callum Rees): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Agustin Torres: rng1 = 44 + 6 - 9 - 1 = 40
+rng2 = 98 + 8 - 9 - 1 = 96
+Flyout
+Team 2 pitcher (Callum Rees): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Kojima Kunio: rng1 = 43 + 5 - 11 + 1 = 38
+rng2 = 26 + 10 - 8 + 1 = 29
+Groundout
+Team 1 pitcher (Sebastian Soto): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Patrick Marshall: rng1 = 91 + 7 - 11 + 1 = 88
+Walk
+Team 1 pitcher (Sebastian Soto): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Joshua Marsh: rng1 = 43 + 6 - 11 + 1 = 39
+rng2 = 26 + 9 - 8 + 1 = 28
+Groundout
+Team 1 pitcher (Sebastian Soto): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Readale Roberson: rng1 = 97 + 7 - 11 + 1 = 94
+rng2 = 95 + 8 - 8 + 1 = 96
+Home run
+Team 1 pitcher (Sebastian Soto): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Ronan Abbott: rng1 = 47 + 7 - 11 + 1 = 44
+rng2 = 47 + 8 - 8 + 1 = 48
+Lineout
+Team 1 pitcher (Sebastian Soto): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 3
+
+Toshio Hayashi: rng1 = 1 + 15 - 9 - 1 = 6
+Strikeout
+Team 2 pitcher (Callum Rees): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Alex Diaz: rng1 = 17 + 13 - 9 - 1 = 20
+Strikeout
+Team 2 pitcher (Callum Rees): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Phil Hill: rng1 = 59 + 10 - 9 - 1 = 59
+rng2 = 100 + 7 - 9 - 1 = 97
+Flyout
+Team 2 pitcher (Callum Rees): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 3
+
+Andres Pacheco: rng1 = 49 + 14 - 11 + 1 = 53
+rng2 = 26 + 10 - 8 + 1 = 29
+Groundout
+Team 1 pitcher (Sebastian Soto): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Jesus Montes: rng1 = 28 + 9 - 11 + 1 = 27
+Strikeout
+Team 1 pitcher (Sebastian Soto): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Daryl Washington: rng1 = 20 + 8 - 11 + 1 = 18
+Strikeout
+Team 1 pitcher (Sebastian Soto): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 4
+
+Joseph Porter: rng1 = 46 + 6 - 9 - 1 = 42
+rng2 = 27 + 9 - 9 - 1 = 26
+Groundout
+Team 2 pitcher (Callum Rees): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Jeffery Sims: rng1 = 3 + 8 - 9 - 1 = 1
+Strikeout
+Team 2 pitcher (Callum Rees): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Juan Reyes: rng1 = 34 + 8 - 9 - 1 = 32
+rng2 = 69 + 8 - 9 - 1 = 67
+Flyout
+Team 2 pitcher (Callum Rees): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 4
+
+Duante Jones: rng1 = 58 + 6 - 11 + 1 = 54
+rng2 = 10 + 11 - 8 + 1 = 14
+Groundout
+Team 1 pitcher (Sebastian Soto): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Kojima Kunio: rng1 = 84 + 5 - 11 + 1 = 79
+rng2 = 9 + 10 - 8 + 1 = 12
+Single
+Team 1 pitcher (Sebastian Soto): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Patrick Marshall: rng1 = 72 + 7 - 11 + 1 = 69
+rng2 = 47 + 9 - 8 + 1 = 49
+Lineout
+Team 1 pitcher (Sebastian Soto): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Joshua Marsh: rng1 = 82 + 6 - 11 + 1 = 78
+rng2 = 89 + 9 - 8 + 1 = 91
+Double
+Team 1 pitcher (Sebastian Soto): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 2
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-3
+
+Readale Roberson: rng1 = 55 + 7 - 11 + 1 = 52
+rng2 = 87 + 8 - 8 + 1 = 88
+Flyout
+Team 1 pitcher (Sebastian Soto): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 5
+
+Estefania Espina: rng1 = 91 + 8 - 9 - 1 = 89
+Walk
+Team 2 pitcher (Callum Rees): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Dwayne Wilkinson: rng1 = 1 + 10 - 9 - 1 = 1
+Strikeout
+Team 2 pitcher (Callum Rees): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Agustin Torres: rng1 = 51 + 6 - 9 - 1 = 47
+rng2 = 81 + 8 - 9 - 1 = 79
+Flyout
+Team 2 pitcher (Callum Rees): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Toshio Hayashi: rng1 = 10 + 15 - 9 - 1 = 15
+rng2 = 62 + 10 - 9 - 1 = 62
+Flyout
+Team 2 pitcher (Callum Rees): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+BOTTOM INNING 5
+
+Ronan Abbott: rng1 = 60 + 7 - 11 + 1 = 57
+rng2 = 17 + 8 - 8 + 1 = 18
+Groundout
+Team 1 pitcher (Sebastian Soto): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Andres Pacheco: rng1 = 25 + 14 - 11 + 1 = 29
+rng2 = 18 + 10 - 8 + 1 = 21
+Groundout
+Team 1 pitcher (Sebastian Soto): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Jesus Montes: rng1 = 73 + 9 - 11 + 1 = 72
+Walk
+Team 1 pitcher (Sebastian Soto): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Daryl Washington: rng1 = 38 + 8 - 11 + 1 = 36
+rng2 = 87 + 12 - 8 + 1 = 92
+Flyout
+Team 1 pitcher (Sebastian Soto): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 6
+
+Alex Diaz: rng1 = 42 + 13 - 9 - 1 = 45
+rng2 = 14 + 10 - 9 - 1 = 14
+Groundout
+Team 2 pitcher (Callum Rees): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Phil Hill: rng1 = 86 + 10 - 9 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Callum Rees): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Joseph Porter: rng1 = 1 + 6 - 9 - 1 = -3
+Strikeout
+Team 2 pitcher (Callum Rees): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Jeffery Sims: rng1 = 86 + 8 - 9 - 1 = 84
+rng2 = 27 + 8 - 9 - 1 = 25
+Single
+Team 2 pitcher (Callum Rees): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 2
+
+base1: [4,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-3
+
+Juan Reyes: rng1 = 88 + 8 - 9 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Callum Rees): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 2
+
+base1: [5,0], base2: [4,0], base3: [2,0]
+base1: true, base2: true, base3: true
+Score: 1-3
+
+Estefania Espina: rng1 = 93 + 8 - 9 - 1 = 91
+rng2 = 11 + 8 - 9 - 1 = 9
+Single
+Team 2 pitcher (Callum Rees): 25 batters faced, 3 runs allowed = 25 + 7.5 = 32.5, outs: 2
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-3
+
+Dwayne Wilkinson: rng1 = 96 + 10 - 9 - 1 = 96
+rng2 = 29 + 6 - 9 - 1 = 25
+Single
+Team 2 pitcher (Callum Rees): 26 batters faced, 4 runs allowed = 26 + 10.0 = 36.0, outs: 2
+
+base1: [7,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 4-3
+
+Team 2 pitcher change to Ron Moore
+
+Agustin Torres: rng1 = 12 + 6 - 8 - 1 = 9
+Strikeout
+Team 2 pitcher (Ron Moore): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Finn Sachse
+
+Duante Jones: rng1 = 61 + 6 - 9 + 1 = 59
+rng2 = 40 + 11 - 8 + 1 = 44
+Groundout
+Team 1 pitcher (Finn Sachse): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Kojima Kunio: rng1 = 78 + 5 - 9 + 1 = 75
+rng2 = 38 + 10 - 8 + 1 = 41
+Single
+Team 1 pitcher (Finn Sachse): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Patrick Marshall: rng1 = 71 + 7 - 9 + 1 = 70
+Walk
+Team 1 pitcher (Finn Sachse): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [5,1], base2: [4,1], base3: false
+base1: true, base2: true, base3: false
+Score: 4-3
+
+Joshua Marsh: rng1 = 89 + 6 - 9 + 1 = 87
+Walk
+Team 1 pitcher (Finn Sachse): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [6,1], base2: [5,1], base3: [4,1]
+base1: true, base2: true, base3: true
+Score: 4-3
+
+Readale Roberson: rng1 = 61 + 7 - 9 + 1 = 60
+rng2 = 47 + 8 - 8 + 1 = 48
+Lineout
+Team 1 pitcher (Finn Sachse): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: [6,1], base2: [5,1], base3: [4,1]
+base1: true, base2: true, base3: true
+Score: 4-3
+
+Ronan Abbott: rng1 = 74 + 7 - 9 + 1 = 73
+rng2 = 64 + 8 - 8 + 1 = 65
+Single
+Team 1 pitcher (Finn Sachse): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: [8,1], base2: [6,1], base3: false
+base1: true, base2: true, base3: false
+Score: 4-5
+
+Andres Pacheco: rng1 = 83 + 14 - 9 + 1 = 89
+Walk
+Team 1 pitcher (Finn Sachse): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 2
+
+base1: [0,1], base2: [8,1], base3: [6,1]
+base1: true, base2: true, base3: true
+Score: 4-5
+
+Team 1 pitcher change to Nate Tucker
+
+Jesus Montes: rng1 = 93 + 9 - 8 + 1 = 95
+rng2 = 76 + 9 - 7 + 1 = 79
+Triple
+Team 1 pitcher (Nate Tucker): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: false, base2: false, base3: [1,2]
+base1: false, base2: false, base3: true
+Score: 4-8
+
+Daryl Washington: rng1 = 82 + 8 - 8 + 1 = 83
+rng2 = 42 + 12 - 7 + 1 = 48
+Single
+Team 1 pitcher (Nate Tucker): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 2
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-9
+
+Duante Jones: rng1 = 100 + 6 - 8 + 1 = 99
+rng2 = 36 + 11 - 7 + 1 = 41
+Single
+Team 1 pitcher (Nate Tucker): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: [3,2], base2: false, base3: [2,2]
+base1: true, base2: false, base3: true
+Score: 4-9
+
+Kojima Kunio: rng1 = 5 + 5 - 8 + 1 = 3
+Strikeout
+Team 1 pitcher (Nate Tucker): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-9
+
+-----------------------
+
+TOP INNING 7
+
+Toshio Hayashi: rng1 = 80 + 15 - 8 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Ron Moore): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-9
+
+Alex Diaz: rng1 = 9 + 13 - 8 - 1 = 13
+rng2 = 4 + 10 - 8 - 1 = 5
+Groundout
+Team 2 pitcher (Ron Moore): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-9
+
+Phil Hill: rng1 = 49 + 10 - 8 - 1 = 50
+rng2 = 41 + 7 - 8 - 1 = 39
+Groundout
+Team 2 pitcher (Ron Moore): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-9
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Jorge Pozo
+
+Patrick Marshall: rng1 = 82 + 7 - 9 + 1 = 81
+rng2 = 97 + 9 - 6 + 1 = 101
+Home run
+Team 1 pitcher (Jorge Pozo): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-10
+
+Joshua Marsh: rng1 = 52 + 6 - 9 + 1 = 50
+rng2 = 33 + 9 - 6 + 1 = 37
+Groundout
+Team 1 pitcher (Jorge Pozo): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-10
+
+Readale Roberson: rng1 = 54 + 7 - 9 + 1 = 53
+rng2 = 1 + 8 - 6 + 1 = 4
+Groundout
+Team 1 pitcher (Jorge Pozo): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-10
+
+Ronan Abbott: rng1 = 11 + 7 - 9 + 1 = 10
+Strikeout
+Team 1 pitcher (Jorge Pozo): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-10
+
+-----------------------
+
+TOP INNING 8
+
+Joseph Porter: rng1 = 25 + 6 - 8 - 1 = 22
+Strikeout
+Team 2 pitcher (Ron Moore): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-10
+
+Jeffery Sims: rng1 = 91 + 8 - 8 - 1 = 90
+Walk
+Team 2 pitcher (Ron Moore): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-10
+
+Juan Reyes: rng1 = 21 + 8 - 8 - 1 = 20
+Strikeout
+Team 2 pitcher (Ron Moore): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-10
+
+Estefania Espina: rng1 = 83 + 8 - 8 - 1 = 82
+rng2 = 92 + 8 - 8 - 1 = 91
+Double
+Team 2 pitcher (Ron Moore): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: [6,1], base3: false
+base1: false, base2: true, base3: false
+Score: 5-10
+
+Dwayne Wilkinson: rng1 = 72 + 10 - 8 - 1 = 73
+rng2 = 16 + 6 - 8 - 1 = 13
+Single
+Team 2 pitcher (Ron Moore): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 2
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-10
+
+Team 2 pitcher change to Ezequiel Santangelo
+
+Agustin Torres: rng1 = 28 + 6 - 7 - 1 = 26
+Strikeout
+Team 2 pitcher (Ezequiel Santangelo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-10
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Legend Brooks
+
+Andres Pacheco: rng1 = 84 + 14 - 10 + 1 = 89
+Walk
+Team 1 pitcher (Legend Brooks): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-10
+
+Jesus Montes: rng1 = 51 + 9 - 10 + 1 = 51
+rng2 = 98 + 9 - 9 + 1 = 99
+Flyout
+Team 1 pitcher (Legend Brooks): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-10
+
+Daryl Washington: rng1 = 38 + 8 - 10 + 1 = 37
+rng2 = 5 + 12 - 9 + 1 = 9
+Groundout
+Team 1 pitcher (Legend Brooks): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-10
+
+Duante Jones: rng1 = 87 + 6 - 10 + 1 = 84
+rng2 = 20 + 11 - 9 + 1 = 23
+Single
+Team 1 pitcher (Legend Brooks): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [3,4], base2: [2,4], base3: false
+base1: true, base2: true, base3: false
+Score: 6-10
+
+Kojima Kunio: rng1 = 13 + 5 - 10 + 1 = 9
+Strikeout
+Team 1 pitcher (Legend Brooks): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-10
+
+-----------------------
+
+TOP INNING 9
+
+Toshio Hayashi: rng1 = 82 + 15 - 7 - 1 = 89
+Walk
+Team 2 pitcher (Ezequiel Santangelo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [0,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-10
+
+Alex Diaz: rng1 = 72 + 13 - 7 - 1 = 77
+rng2 = 97 + 10 - 8 - 1 = 98
+Home run
+Team 2 pitcher (Ezequiel Santangelo): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-10
+
+Phil Hill: rng1 = 72 + 10 - 7 - 1 = 74
+rng2 = 26 + 7 - 8 - 1 = 24
+Single
+Team 2 pitcher (Ezequiel Santangelo): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 0
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-10
+
+Joseph Porter: rng1 = 71 + 6 - 7 - 1 = 69
+rng2 = 45 + 9 - 8 - 1 = 45
+Groundout
+Team 2 pitcher (Ezequiel Santangelo): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 1
+
+base1: false, base2: [2,2], base3: false
+base1: false, base2: true, base3: false
+Score: 8-10
+
+Jeffery Sims: rng1 = 60 + 8 - 7 - 1 = 60
+rng2 = 19 + 8 - 8 - 1 = 18
+Groundout
+Team 2 pitcher (Ezequiel Santangelo): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: false, base2: false, base3: [2,2]
+base1: false, base2: false, base3: true
+Score: 8-10
+
+Juan Reyes: rng1 = 19 + 8 - 7 - 1 = 19
+Strikeout
+Team 2 pitcher (Ezequiel Santangelo): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-10
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 10
+Team 2 hits: 11
+Team 1 runs: 8
+Team 2 runs: 10
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-31
+Toshio Hayashi	3	1	1	0	0	0	0	1	1					London
+Alex Diaz	5	1	1	0	0	1	2	0	1	
+Phil Hill	3	1	1	0	0	0	0	1	0	
+Joseph Porter	5	0	0	0	0	0	0	0	2	
+Jeffery Sims	4	3	2	1	0	0	0	1	1	
+Juan Reyes	4	1	0	0	0	0	0	0	2	
+Estefania Espina	3	1	3	1	0	0	3	1	0	
+Dwayne Wilkinson	4	0	2	0	0	0	3	0	1	
+Agustin Torres	4	0	0	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Sebastian Soto	0	0	1	1	0	0	15	4	3	1	2	5	21	
+Finn Sachse	0	1	1	0	0	0	2	2	5	0	3	0	7	
+Nate Tucker	0	0	1	0	0	0	1	3	1	0	0	1	4	
+Jorge Pozo	0	0	1	0	0	0	3	1	1	1	0	1	4	
+Legend Brooks	0	0	1	0	0	0	3	1	0	0	1	1	5	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-31
+Andres Pacheco	3	1	1	1	0	0	0	2	0					Seoul
+Jesus Montes	4	1	1	0	1	0	3	1	2	
+Daryl Washington	5	0	1	0	0	0	1	0	2	
+Duante Jones	5	0	2	0	0	0	0	0	1	
+Kojima Kunio	5	2	2	0	0	0	0	0	2	
+Patrick Marshall	2	2	1	0	0	1	1	2	0	
+Joshua Marsh	3	2	1	1	0	0	1	1	0	
+Readale Roberson	4	1	1	0	0	1	2	0	0	
+Ronan Abbott	4	1	1	0	0	0	2	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Callum Rees	0	0	1	1	0	0	17	6	4	0	2	5	26	
+Ron Moore	1	0	1	0	0	0	6	2	2	0	1	3	9	
+Ezequiel Santangelo	0	0	1	0	0	0	4	2	2	1	1	2	7	
+Dante Berry	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Moises Alvarado	0	0	0	0	0	0	0	0	0	0	0	0	0	

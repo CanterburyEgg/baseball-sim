@@ -1,0 +1,834 @@
+TOP INNING 1
+
+Ivan Guerra: rng1 = 48 + 12 - 9 - 1 = 50
+rng2 = 51 + 14 - 9 - 1 = 55
+Lineout
+Team 2 pitcher (Salvador Prats): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Derrick Hammond: rng1 = 52 + 11 - 9 - 1 = 53
+rng2 = 73 + 9 - 9 - 1 = 72
+Flyout
+Team 2 pitcher (Salvador Prats): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Erik Lowe: rng1 = 61 + 10 - 9 - 1 = 61
+rng2 = 99 + 9 - 9 - 1 = 98
+Flyout
+Team 2 pitcher (Salvador Prats): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Andres Pacheco: rng1 = 20 + 14 - 5 + 1 = 30
+rng2 = 67 + 10 - 10 + 1 = 68
+Flyout
+Team 1 pitcher (Zack Huff): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jesus Montes: rng1 = 78 + 9 - 5 + 1 = 83
+rng2 = 56 + 9 - 10 + 1 = 56
+Single
+Team 1 pitcher (Zack Huff): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Daryl Washington: rng1 = 5 + 8 - 5 + 1 = 9
+Strikeout
+Team 1 pitcher (Zack Huff): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Duante Jones: rng1 = 31 + 6 - 5 + 1 = 33
+rng2 = 89 + 11 - 10 + 1 = 91
+Flyout
+Team 1 pitcher (Zack Huff): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Alex Murphy: rng1 = 45 + 9 - 9 - 1 = 44
+rng2 = 67 + 13 - 9 - 1 = 70
+Flyout
+Team 2 pitcher (Salvador Prats): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Danilo Villanueva: rng1 = 79 + 9 - 9 - 1 = 78
+rng2 = 82 + 11 - 9 - 1 = 83
+Home run
+Team 2 pitcher (Salvador Prats): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Arturo Yang: rng1 = 7 + 5 - 9 - 1 = 2
+Strikeout
+Team 2 pitcher (Salvador Prats): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Jake Weaver: rng1 = 35 + 9 - 9 - 1 = 34
+rng2 = 22 + 8 - 9 - 1 = 20
+Groundout
+Team 2 pitcher (Salvador Prats): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Kojima Kunio: rng1 = 80 + 5 - 5 + 1 = 81
+rng2 = 60 + 10 - 10 + 1 = 61
+Single
+Team 1 pitcher (Zack Huff): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Patrick Marshall: rng1 = 19 + 7 - 5 + 1 = 22
+Strikeout
+Team 1 pitcher (Zack Huff): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Joshua Marsh: rng1 = 86 + 6 - 5 + 1 = 88
+Walk
+Team 1 pitcher (Zack Huff): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [6,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Readale Roberson: rng1 = 99 + 7 - 5 + 1 = 102
+rng2 = 65 + 8 - 10 + 1 = 64
+Single
+Team 1 pitcher (Zack Huff): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Ronan Abbott: rng1 = 24 + 7 - 5 + 1 = 27
+Strikeout
+Team 1 pitcher (Zack Huff): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Andres Pacheco: rng1 = 13 + 14 - 5 + 1 = 23
+Strikeout
+Team 1 pitcher (Zack Huff): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 3
+
+Kyrie Anderson: rng1 = 90 + 7 - 9 - 1 = 87
+Walk
+Team 2 pitcher (Salvador Prats): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Keylon Wilkins: rng1 = 79 + 4 - 9 - 1 = 73
+rng2 = 43 + 9 - 9 - 1 = 42
+Single
+Team 2 pitcher (Salvador Prats): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 0
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Ivan Guerra: rng1 = 42 + 12 - 9 - 1 = 44
+rng2 = 5 + 14 - 9 - 1 = 9
+Groundout
+Team 2 pitcher (Salvador Prats): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Derrick Hammond: rng1 = 98 + 11 - 9 - 1 = 99
+rng2 = 86 + 9 - 9 - 1 = 85
+Home run
+Team 2 pitcher (Salvador Prats): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Erik Lowe: rng1 = 92 + 10 - 9 - 1 = 92
+rng2 = 50 + 9 - 9 - 1 = 49
+Single
+Team 2 pitcher (Salvador Prats): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-1
+
+Alex Murphy: rng1 = 26 + 9 - 9 - 1 = 25
+Strikeout
+Team 2 pitcher (Salvador Prats): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-1
+
+Danilo Villanueva: rng1 = 50 + 9 - 9 - 1 = 49
+rng2 = 11 + 11 - 9 - 1 = 12
+Groundout
+Team 2 pitcher (Salvador Prats): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Jesus Montes: rng1 = 97 + 9 - 5 + 1 = 102
+rng2 = 77 + 9 - 10 + 1 = 77
+Double
+Team 1 pitcher (Zack Huff): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 0
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-1
+
+Daryl Washington: rng1 = 54 + 8 - 5 + 1 = 58
+rng2 = 10 + 12 - 10 + 1 = 13
+Groundout
+Team 1 pitcher (Zack Huff): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: false, base2: false, base3: [1,0]
+base1: false, base2: false, base3: true
+Score: 4-1
+
+Duante Jones: rng1 = 57 + 6 - 5 + 1 = 59
+rng2 = 91 + 11 - 10 + 1 = 93
+Flyout
+Team 1 pitcher (Zack Huff): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Kojima Kunio: rng1 = 14 + 5 - 5 + 1 = 15
+rng2 = 55 + 10 - 10 + 1 = 56
+Lineout
+Team 1 pitcher (Zack Huff): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-2
+
+-----------------------
+
+TOP INNING 4
+
+Arturo Yang: rng1 = 66 + 5 - 9 - 1 = 61
+rng2 = 2 + 9 - 9 - 1 = 1
+Groundout
+Team 2 pitcher (Salvador Prats): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Jake Weaver: rng1 = 92 + 9 - 9 - 1 = 91
+rng2 = 54 + 8 - 9 - 1 = 52
+Single
+Team 2 pitcher (Salvador Prats): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-2
+
+Kyrie Anderson: rng1 = 47 + 7 - 9 - 1 = 44
+rng2 = 60 + 7 - 9 - 1 = 57
+Lineout
+Team 2 pitcher (Salvador Prats): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-2
+
+Keylon Wilkins: rng1 = 30 + 4 - 9 - 1 = 24
+Strikeout
+Team 2 pitcher (Salvador Prats): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-2
+
+-----------------------
+
+BOTTOM INNING 4
+
+Patrick Marshall: rng1 = 39 + 7 - 5 + 1 = 42
+rng2 = 92 + 9 - 10 + 1 = 92
+Flyout
+Team 1 pitcher (Zack Huff): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Joshua Marsh: rng1 = 14 + 6 - 5 + 1 = 16
+Strikeout
+Team 1 pitcher (Zack Huff): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Readale Roberson: rng1 = 79 + 7 - 5 + 1 = 82
+rng2 = 63 + 8 - 10 + 1 = 62
+Single
+Team 1 pitcher (Zack Huff): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-2
+
+Ronan Abbott: rng1 = 84 + 7 - 5 + 1 = 87
+Walk
+Team 1 pitcher (Zack Huff): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 2
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 4-2
+
+Andres Pacheco: rng1 = 7 + 14 - 5 + 1 = 17
+Strikeout
+Team 1 pitcher (Zack Huff): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-2
+
+-----------------------
+
+TOP INNING 5
+
+Ivan Guerra: rng1 = 99 + 12 - 9 - 1 = 101
+rng2 = 76 + 14 - 9 - 1 = 80
+Home run
+Team 2 pitcher (Salvador Prats): 19 batters faced, 5 runs allowed = 19 + 12.5 = 31.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-2
+
+Derrick Hammond: rng1 = 78 + 11 - 9 - 1 = 79
+rng2 = 60 + 9 - 9 - 1 = 59
+Single
+Team 2 pitcher (Salvador Prats): 20 batters faced, 5 runs allowed = 20 + 12.5 = 32.5, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-2
+
+Erik Lowe: rng1 = 15 + 10 - 9 - 1 = 15
+rng2 = 27 + 9 - 9 - 1 = 26
+Groundout
+Team 2 pitcher (Salvador Prats): 21 batters faced, 5 runs allowed = 21 + 12.5 = 33.5, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-2
+
+Alex Murphy: rng1 = 98 + 9 - 9 - 1 = 97
+rng2 = 90 + 13 - 9 - 1 = 93
+Triple
+Team 2 pitcher (Salvador Prats): 22 batters faced, 6 runs allowed = 22 + 15.0 = 37.0, outs: 1
+
+base1: false, base2: false, base3: [3,0]
+base1: false, base2: false, base3: true
+Score: 6-2
+
+Team 2 pitcher change to Ezequiel Santangelo
+
+Danilo Villanueva: rng1 = 20 + 9 - 7 - 1 = 21
+Strikeout
+Team 2 pitcher (Ezequiel Santangelo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: false, base2: false, base3: [3,0]
+base1: false, base2: false, base3: true
+Score: 6-2
+
+Arturo Yang: rng1 = 2 + 5 - 7 - 1 = -1
+Strikeout
+Team 2 pitcher (Ezequiel Santangelo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-2
+
+-----------------------
+
+BOTTOM INNING 5
+
+Jesus Montes: rng1 = 2 + 9 - 5 + 1 = 7
+Strikeout
+Team 1 pitcher (Zack Huff): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-2
+
+Daryl Washington: rng1 = 94 + 8 - 5 + 1 = 98
+rng2 = 73 + 12 - 10 + 1 = 76
+Double
+Team 1 pitcher (Zack Huff): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 6-2
+
+Duante Jones: rng1 = 93 + 6 - 5 + 1 = 95
+rng2 = 76 + 11 - 10 + 1 = 78
+Double
+Team 1 pitcher (Zack Huff): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 1
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 6-3
+
+Kojima Kunio: rng1 = 27 + 5 - 5 + 1 = 28
+Strikeout
+Team 1 pitcher (Zack Huff): 23 batters faced, 3 runs allowed = 23 + 7.5 = 30.5, outs: 2
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 6-3
+
+Patrick Marshall: rng1 = 66 + 7 - 5 + 1 = 69
+rng2 = 78 + 9 - 10 + 1 = 78
+Flyout
+Team 1 pitcher (Zack Huff): 24 batters faced, 3 runs allowed = 24 + 7.5 = 31.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-3
+
+-----------------------
+
+TOP INNING 6
+
+Jake Weaver: rng1 = 38 + 9 - 7 - 1 = 39
+rng2 = 92 + 8 - 8 - 1 = 91
+Flyout
+Team 2 pitcher (Ezequiel Santangelo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Kyrie Anderson: rng1 = 65 + 7 - 7 - 1 = 64
+rng2 = 44 + 7 - 8 - 1 = 42
+Groundout
+Team 2 pitcher (Ezequiel Santangelo): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Keylon Wilkins: rng1 = 11 + 4 - 7 - 1 = 7
+Strikeout
+Team 2 pitcher (Ezequiel Santangelo): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-3
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Carmelo Dávalos
+
+Joshua Marsh: rng1 = 6 + 6 - 12 + 1 = 1
+Strikeout
+Team 1 pitcher (Carmelo Dávalos): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Readale Roberson: rng1 = 36 + 7 - 12 + 1 = 32
+rng2 = 89 + 8 - 6 + 1 = 92
+Flyout
+Team 1 pitcher (Carmelo Dávalos): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Ronan Abbott: rng1 = 10 + 7 - 12 + 1 = 6
+Strikeout
+Team 1 pitcher (Carmelo Dávalos): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-3
+
+-----------------------
+
+TOP INNING 7
+
+Ivan Guerra: rng1 = 80 + 12 - 7 - 1 = 84
+rng2 = 91 + 14 - 8 - 1 = 96
+Home run
+Team 2 pitcher (Ezequiel Santangelo): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-3
+
+Derrick Hammond: rng1 = 54 + 11 - 7 - 1 = 57
+rng2 = 78 + 9 - 8 - 1 = 78
+Flyout
+Team 2 pitcher (Ezequiel Santangelo): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-3
+
+Erik Lowe: rng1 = 88 + 10 - 7 - 1 = 90
+Walk
+Team 2 pitcher (Ezequiel Santangelo): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-3
+
+Alex Murphy: rng1 = 100 + 9 - 7 - 1 = 101
+rng2 = 67 + 13 - 8 - 1 = 71
+Double
+Team 2 pitcher (Ezequiel Santangelo): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 1
+
+base1: false, base2: [3,1], base3: false
+base1: false, base2: true, base3: false
+Score: 8-3
+
+Team 2 pitcher change to Ron Moore
+
+Danilo Villanueva: rng1 = 9 + 9 - 8 - 1 = 9
+Strikeout
+Team 2 pitcher (Ron Moore): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: false, base2: [3,1], base3: false
+base1: false, base2: true, base3: false
+Score: 8-3
+
+Arturo Yang: rng1 = 1 + 5 - 8 - 1 = -3
+Strikeout
+Team 2 pitcher (Ron Moore): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-3
+
+-----------------------
+
+BOTTOM INNING 7
+
+Andres Pacheco: rng1 = 25 + 14 - 12 + 1 = 28
+Strikeout
+Team 1 pitcher (Carmelo Dávalos): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-3
+
+Jesus Montes: rng1 = 12 + 9 - 12 + 1 = 10
+Strikeout
+Team 1 pitcher (Carmelo Dávalos): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-3
+
+Daryl Washington: rng1 = 11 + 8 - 12 + 1 = 8
+Strikeout
+Team 1 pitcher (Carmelo Dávalos): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-3
+
+-----------------------
+
+TOP INNING 8
+
+Jake Weaver: rng1 = 63 + 9 - 8 - 1 = 63
+rng2 = 53 + 8 - 8 - 1 = 52
+Lineout
+Team 2 pitcher (Ron Moore): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-3
+
+Kyrie Anderson: rng1 = 88 + 7 - 8 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Ron Moore): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-3
+
+Keylon Wilkins: rng1 = 14 + 4 - 8 - 1 = 9
+Strikeout
+Team 2 pitcher (Ron Moore): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-3
+
+Ivan Guerra: rng1 = 32 + 12 - 8 - 1 = 35
+rng2 = 8 + 14 - 8 - 1 = 13
+Groundout
+Team 2 pitcher (Ron Moore): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-3
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Lance Haynes
+
+Duante Jones: rng1 = 13 + 6 - 12 + 1 = 8
+Strikeout
+Team 1 pitcher (Lance Haynes): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-3
+
+Kojima Kunio: rng1 = 75 + 5 - 12 + 1 = 69
+rng2 = 63 + 10 - 7 + 1 = 67
+Flyout
+Team 1 pitcher (Lance Haynes): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-3
+
+Patrick Marshall: rng1 = 3 + 7 - 12 + 1 = -1
+Strikeout
+Team 1 pitcher (Lance Haynes): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-3
+
+-----------------------
+
+TOP INNING 9
+
+Derrick Hammond: rng1 = 68 + 11 - 8 - 1 = 70
+Walk
+Team 2 pitcher (Ron Moore): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 0
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 8-3
+
+Erik Lowe: rng1 = 95 + 10 - 8 - 1 = 96
+rng2 = 71 + 9 - 8 - 1 = 71
+Double
+Team 2 pitcher (Ron Moore): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 0
+
+base1: false, base2: [2,2], base3: false
+base1: false, base2: true, base3: false
+Score: 9-3
+
+Alex Murphy: rng1 = 41 + 9 - 8 - 1 = 41
+rng2 = 73 + 13 - 8 - 1 = 77
+Flyout
+Team 2 pitcher (Ron Moore): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: false, base2: [2,2], base3: false
+base1: false, base2: true, base3: false
+Score: 9-3
+
+Danilo Villanueva: rng1 = 29 + 9 - 8 - 1 = 29
+rng2 = 66 + 11 - 8 - 1 = 68
+Flyout
+Team 2 pitcher (Ron Moore): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: false, base2: [2,2], base3: false
+base1: false, base2: true, base3: false
+Score: 9-3
+
+Arturo Yang: rng1 = 58 + 5 - 8 - 1 = 54
+rng2 = 14 + 9 - 8 - 1 = 14
+Groundout
+Team 2 pitcher (Ron Moore): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-3
+
+-----------------------
+
+BOTTOM INNING 9
+
+Joshua Marsh: rng1 = 12 + 6 - 12 + 1 = 7
+Strikeout
+Team 1 pitcher (Lance Haynes): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-3
+
+Readale Roberson: rng1 = 90 + 7 - 12 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Lance Haynes): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-3
+
+Ronan Abbott: rng1 = 74 + 7 - 12 + 1 = 70
+Walk
+Team 1 pitcher (Lance Haynes): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [8,2], base2: [7,2], base3: false
+base1: true, base2: true, base3: false
+Score: 9-3
+
+Andres Pacheco: rng1 = 84 + 14 - 12 + 1 = 87
+Walk
+Team 1 pitcher (Lance Haynes): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [0,2], base2: [8,2], base3: [7,2]
+base1: true, base2: true, base3: true
+Score: 9-3
+
+Jesus Montes: rng1 = 97 + 9 - 12 + 1 = 95
+rng2 = 95 + 9 - 7 + 1 = 98
+Home run
+Team 1 pitcher (Lance Haynes): 8 batters faced, 4 runs allowed = 8 + 10.0 = 18.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-7
+
+Team 1 pitcher change to Tommy Greene
+
+Daryl Washington: rng1 = 13 + 8 - 8 + 1 = 14
+rng2 = 35 + 12 - 6 + 1 = 42
+Groundout
+Team 1 pitcher (Tommy Greene): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-7
+
+Duante Jones: rng1 = 89 + 6 - 8 + 1 = 88
+Walk
+Team 1 pitcher (Tommy Greene): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: [3,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-7
+
+Kojima Kunio: rng1 = 88 + 5 - 8 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Tommy Greene): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [4,3], base2: [3,3], base3: false
+base1: true, base2: true, base3: false
+Score: 9-7
+
+Patrick Marshall: rng1 = 98 + 7 - 8 + 1 = 98
+rng2 = 36 + 9 - 6 + 1 = 40
+Single
+Team 1 pitcher (Tommy Greene): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [5,3], base2: [4,3], base3: false
+base1: true, base2: true, base3: false
+Score: 9-8
+
+Joshua Marsh: rng1 = 43 + 6 - 8 + 1 = 42
+rng2 = 52 + 9 - 6 + 1 = 56
+Lineout
+Team 1 pitcher (Tommy Greene): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-8
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 11
+Team 2 hits: 9
+Team 1 runs: 9
+Team 2 runs: 8
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-31
+Ivan Guerra	5	3	2	0	0	2	2	0	0					Austin
+Derrick Hammond	4	2	2	0	0	1	3	1	0	
+Erik Lowe	4	2	2	1	0	0	1	1	0	
+Alex Murphy	5	0	2	1	1	0	2	0	1	
+Danilo Villanueva	5	1	1	0	0	1	1	0	2	
+Arturo Yang	5	0	0	0	0	0	0	0	3	
+Jake Weaver	4	0	1	0	0	0	0	0	0	
+Kyrie Anderson	2	0	0	0	0	0	0	1	0	
+Keylon Wilkins	4	1	1	0	0	0	0	0	3	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Zack Huff	1	0	1	1	0	0	15	7	3	0	2	8	24	
+Carmelo Dávalos	0	0	1	0	0	0	6	0	0	0	0	5	6	
+Lance Haynes	0	0	1	0	0	0	4	1	4	1	2	3	8	
+Tommy Greene	0	0	1	0	0	0	2	1	1	0	1	0	5	
+Damon Houston	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-05-31
+Andres Pacheco	4	1	0	0	0	0	0	1	3					Seoul
+Jesus Montes	5	2	3	1	0	1	4	0	2	
+Daryl Washington	5	1	1	1	0	0	0	0	2	
+Duante Jones	4	1	1	1	0	0	2	1	1	
+Kojima Kunio	4	1	1	0	0	0	0	0	1	
+Patrick Marshall	5	0	1	0	0	0	1	0	2	
+Joshua Marsh	4	0	0	0	0	0	0	1	3	
+Readale Roberson	3	1	2	0	0	0	1	0	0	
+Ronan Abbott	2	1	0	0	0	0	0	2	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Salvador Prats	0	1	1	1	0	0	13	8	6	3	1	3	22	
+Ezequiel Santangelo	0	0	1	0	0	0	6	2	2	1	1	3	9	
+Ron Moore	0	0	1	0	0	0	8	1	1	0	1	3	11	
+Dante Berry	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Moises Alvarado	0	0	0	0	0	0	0	0	0	0	0	0	0	

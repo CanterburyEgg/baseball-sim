@@ -1,0 +1,784 @@
+TOP INNING 1
+
+Isaías Juderías: rng1 = 11 + 13 - 7 - 1 = 16
+Strikeout
+Team 2 pitcher (Wayne Mann): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jaz Eaton: rng1 = 72 + 12 - 7 - 1 = 76
+rng2 = 96 + 12 - 5 - 1 = 102
+Home run
+Team 2 pitcher (Wayne Mann): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Efraim Agramonte: rng1 = 73 + 11 - 7 - 1 = 76
+rng2 = 21 + 9 - 5 - 1 = 24
+Single
+Team 2 pitcher (Wayne Mann): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Sean Lee: rng1 = 64 + 11 - 7 - 1 = 67
+rng2 = 29 + 10 - 5 - 1 = 33
+Groundout
+Team 2 pitcher (Wayne Mann): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Anthony Davila: rng1 = 10 + 7 - 7 - 1 = 9
+Strikeout
+Team 2 pitcher (Wayne Mann): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Wakasugi Norogumi: rng1 = 75 + 15 - 12 + 1 = 79
+rng2 = 22 + 14 - 13 + 1 = 24
+Single
+Team 1 pitcher (A'lamar Rogers): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Desharious Roberson: rng1 = 99 + 13 - 12 + 1 = 101
+rng2 = 57 + 7 - 13 + 1 = 52
+Single
+Team 1 pitcher (A'lamar Rogers): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Lawson Haney: rng1 = 67 + 13 - 12 + 1 = 69
+rng2 = 67 + 12 - 13 + 1 = 67
+Flyout
+Team 1 pitcher (A'lamar Rogers): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Ethan Spencer: rng1 = 85 + 11 - 12 + 1 = 85
+rng2 = 22 + 15 - 13 + 1 = 25
+Single
+Team 1 pitcher (A'lamar Rogers): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [3,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 1-1
+
+Xavier Cabrera: rng1 = 98 + 13 - 12 + 1 = 100
+rng2 = 61 + 12 - 13 + 1 = 61
+Single
+Team 1 pitcher (A'lamar Rogers): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 1
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-2
+
+Alfonso Stafford: rng1 = 89 + 12 - 12 + 1 = 90
+Walk
+Team 1 pitcher (A'lamar Rogers): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 1
+
+base1: [5,0], base2: [4,0], base3: [3,0]
+base1: true, base2: true, base3: true
+Score: 1-2
+
+Ike Nicholson: rng1 = 44 + 6 - 12 + 1 = 39
+rng2 = 26 + 11 - 13 + 1 = 25
+Groundout
+Team 1 pitcher (A'lamar Rogers): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 2
+
+base1: [6,0], base2: [5,0], base3: [4,0]
+base1: true, base2: true, base3: true
+Score: 1-2
+
+Hayden Wright: rng1 = 53 + 7 - 12 + 1 = 49
+rng2 = 25 + 7 - 13 + 1 = 20
+Groundout
+Team 1 pitcher (A'lamar Rogers): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 2
+
+John Gibson: rng1 = 1 + 9 - 7 - 1 = 2
+Strikeout
+Team 2 pitcher (Wayne Mann): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Adrián Noboa: rng1 = 28 + 6 - 7 - 1 = 26
+Strikeout
+Team 2 pitcher (Wayne Mann): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+César Botín: rng1 = 27 + 8 - 7 - 1 = 27
+Strikeout
+Team 2 pitcher (Wayne Mann): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 2
+
+Joel Arboleda: rng1 = 53 + 6 - 12 + 1 = 48
+rng2 = 88 + 5 - 13 + 1 = 81
+Flyout
+Team 1 pitcher (A'lamar Rogers): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Wakasugi Norogumi: rng1 = 94 + 15 - 12 + 1 = 98
+rng2 = 61 + 14 - 13 + 1 = 63
+Single
+Team 1 pitcher (A'lamar Rogers): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Desharious Roberson: rng1 = 47 + 13 - 12 + 1 = 49
+rng2 = 1 + 7 - 13 + 1 = -4
+Groundout
+Team 1 pitcher (A'lamar Rogers): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-2
+
+Lawson Haney: rng1 = 11 + 13 - 12 + 1 = 13
+rng2 = 6 + 12 - 13 + 1 = 6
+Groundout
+Team 1 pitcher (A'lamar Rogers): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 3
+
+Jesús Alarcón: rng1 = 25 + 4 - 7 - 1 = 21
+Strikeout
+Team 2 pitcher (Wayne Mann): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Isaías Juderías: rng1 = 78 + 13 - 7 - 1 = 83
+rng2 = 47 + 12 - 5 - 1 = 53
+Single
+Team 2 pitcher (Wayne Mann): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Jaz Eaton: rng1 = 70 + 12 - 7 - 1 = 74
+rng2 = 82 + 12 - 5 - 1 = 88
+Double
+Team 2 pitcher (Wayne Mann): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-2
+
+Efraim Agramonte: rng1 = 60 + 11 - 7 - 1 = 63
+rng2 = 78 + 9 - 5 - 1 = 81
+Flyout
+Team 2 pitcher (Wayne Mann): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-2
+
+Sean Lee: rng1 = 35 + 11 - 7 - 1 = 38
+rng2 = 88 + 10 - 5 - 1 = 92
+Flyout
+Team 2 pitcher (Wayne Mann): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+BOTTOM INNING 3
+
+Ethan Spencer: rng1 = 45 + 11 - 12 + 1 = 45
+rng2 = 89 + 15 - 13 + 1 = 92
+Flyout
+Team 1 pitcher (A'lamar Rogers): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Xavier Cabrera: rng1 = 32 + 13 - 12 + 1 = 34
+rng2 = 5 + 12 - 13 + 1 = 5
+Groundout
+Team 1 pitcher (A'lamar Rogers): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Alfonso Stafford: rng1 = 96 + 12 - 12 + 1 = 97
+rng2 = 97 + 10 - 13 + 1 = 95
+Home run
+Team 1 pitcher (A'lamar Rogers): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Ike Nicholson: rng1 = 37 + 6 - 12 + 1 = 32
+rng2 = 95 + 11 - 13 + 1 = 94
+Flyout
+Team 1 pitcher (A'lamar Rogers): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+TOP INNING 4
+
+Anthony Davila: rng1 = 60 + 7 - 7 - 1 = 59
+rng2 = 22 + 9 - 5 - 1 = 25
+Groundout
+Team 2 pitcher (Wayne Mann): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+John Gibson: rng1 = 73 + 9 - 7 - 1 = 74
+rng2 = 34 + 6 - 5 - 1 = 34
+Single
+Team 2 pitcher (Wayne Mann): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-3
+
+Adrián Noboa: rng1 = 18 + 6 - 7 - 1 = 16
+Strikeout
+Team 2 pitcher (Wayne Mann): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-3
+
+César Botín: rng1 = 54 + 8 - 7 - 1 = 54
+rng2 = 65 + 5 - 5 - 1 = 64
+Flyout
+Team 2 pitcher (Wayne Mann): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+BOTTOM INNING 4
+
+Hayden Wright: rng1 = 79 + 7 - 12 + 1 = 75
+rng2 = 90 + 7 - 13 + 1 = 85
+Home run
+Team 1 pitcher (A'lamar Rogers): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Joel Arboleda: rng1 = 95 + 6 - 12 + 1 = 90
+Walk
+Team 1 pitcher (A'lamar Rogers): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-4
+
+Wakasugi Norogumi: rng1 = 9 + 15 - 12 + 1 = 13
+rng2 = 19 + 14 - 13 + 1 = 21
+Groundout
+Team 1 pitcher (A'lamar Rogers): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Desharious Roberson: rng1 = 30 + 13 - 12 + 1 = 32
+rng2 = 56 + 7 - 13 + 1 = 51
+Lineout
+Team 1 pitcher (A'lamar Rogers): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-4
+
+-----------------------
+
+TOP INNING 5
+
+Jesús Alarcón: rng1 = 63 + 4 - 7 - 1 = 59
+rng2 = 25 + 7 - 5 - 1 = 26
+Groundout
+Team 2 pitcher (Wayne Mann): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Isaías Juderías: rng1 = 25 + 13 - 7 - 1 = 30
+rng2 = 80 + 12 - 5 - 1 = 86
+Flyout
+Team 2 pitcher (Wayne Mann): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Jaz Eaton: rng1 = 35 + 12 - 7 - 1 = 39
+rng2 = 5 + 12 - 5 - 1 = 11
+Groundout
+Team 2 pitcher (Wayne Mann): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-4
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Kirk Johns
+
+Lawson Haney: rng1 = 72 + 13 - 10 + 1 = 76
+rng2 = 84 + 12 - 10 + 1 = 87
+Double
+Team 1 pitcher (Kirk Johns): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [2,1], base3: false
+base1: false, base2: true, base3: false
+Score: 2-4
+
+Ethan Spencer: rng1 = 85 + 11 - 10 + 1 = 87
+Walk
+Team 1 pitcher (Kirk Johns): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [3,1], base2: [2,1], base3: false
+base1: true, base2: true, base3: false
+Score: 2-4
+
+Xavier Cabrera: rng1 = 38 + 13 - 10 + 1 = 42
+rng2 = 76 + 12 - 10 + 1 = 79
+Flyout
+Team 1 pitcher (Kirk Johns): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [3,1], base2: [2,1], base3: false
+base1: true, base2: true, base3: false
+Score: 2-4
+
+Alfonso Stafford: rng1 = 91 + 12 - 10 + 1 = 94
+rng2 = 62 + 10 - 10 + 1 = 63
+Single
+Team 1 pitcher (Kirk Johns): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [5,1], base2: [3,1], base3: false
+base1: true, base2: true, base3: false
+Score: 2-5
+
+Ike Nicholson: rng1 = 20 + 6 - 10 + 1 = 17
+Strikeout
+Team 1 pitcher (Kirk Johns): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [5,1], base2: [3,1], base3: false
+base1: true, base2: true, base3: false
+Score: 2-5
+
+Hayden Wright: rng1 = 99 + 7 - 10 + 1 = 97
+rng2 = 62 + 7 - 10 + 1 = 60
+Single
+Team 1 pitcher (Kirk Johns): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: [7,1], base2: false, base3: [5,1]
+base1: true, base2: false, base3: true
+Score: 2-6
+
+Joel Arboleda: rng1 = 82 + 6 - 10 + 1 = 79
+rng2 = 20 + 5 - 10 + 1 = 16
+Single
+Team 1 pitcher (Kirk Johns): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 2
+
+base1: [8,1], base2: false, base3: [7,1]
+base1: true, base2: false, base3: true
+Score: 2-7
+
+Team 1 pitcher change to Pae Kwang-Min
+
+Wakasugi Norogumi: rng1 = 22 + 15 - 8 + 1 = 30
+rng2 = 95 + 14 - 7 + 1 = 103
+Flyout
+Team 1 pitcher (Pae Kwang-Min): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-7
+
+-----------------------
+
+TOP INNING 6
+
+Efraim Agramonte: rng1 = 54 + 11 - 7 - 1 = 57
+rng2 = 89 + 9 - 5 - 1 = 92
+Flyout
+Team 2 pitcher (Wayne Mann): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Sean Lee: rng1 = 85 + 11 - 7 - 1 = 88
+Walk
+Team 2 pitcher (Wayne Mann): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-7
+
+Anthony Davila: rng1 = 89 + 7 - 7 - 1 = 88
+Walk
+Team 2 pitcher (Wayne Mann): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 1
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-7
+
+John Gibson: rng1 = 21 + 9 - 7 - 1 = 22
+Strikeout
+Team 2 pitcher (Wayne Mann): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 2
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-7
+
+Adrián Noboa: rng1 = 35 + 6 - 7 - 1 = 33
+rng2 = 22 + 7 - 5 - 1 = 23
+Groundout
+Team 2 pitcher (Wayne Mann): 25 batters faced, 2 runs allowed = 25 + 5.0 = 30.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-7
+
+-----------------------
+
+BOTTOM INNING 6
+
+Desharious Roberson: rng1 = 61 + 13 - 8 + 1 = 67
+rng2 = 33 + 7 - 7 + 1 = 34
+Groundout
+Team 1 pitcher (Pae Kwang-Min): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Lawson Haney: rng1 = 14 + 13 - 8 + 1 = 20
+Strikeout
+Team 1 pitcher (Pae Kwang-Min): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Ethan Spencer: rng1 = 97 + 11 - 8 + 1 = 101
+rng2 = 45 + 15 - 7 + 1 = 54
+Single
+Team 1 pitcher (Pae Kwang-Min): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [3,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-7
+
+Xavier Cabrera: rng1 = 26 + 13 - 8 + 1 = 32
+rng2 = 31 + 12 - 7 + 1 = 37
+Groundout
+Team 1 pitcher (Pae Kwang-Min): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-7
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Thomas Dillard
+
+César Botín: rng1 = 27 + 8 - 12 - 1 = 22
+Strikeout
+Team 2 pitcher (Thomas Dillard): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Jesús Alarcón: rng1 = 25 + 4 - 12 - 1 = 16
+Strikeout
+Team 2 pitcher (Thomas Dillard): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Isaías Juderías: rng1 = 70 + 13 - 12 - 1 = 70
+Walk
+Team 2 pitcher (Thomas Dillard): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-7
+
+Jaz Eaton: rng1 = 75 + 12 - 12 - 1 = 74
+rng2 = 17 + 12 - 10 - 1 = 18
+Single
+Team 2 pitcher (Thomas Dillard): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [1,1], base2: false, base3: [0,1]
+base1: true, base2: false, base3: true
+Score: 2-7
+
+Efraim Agramonte: rng1 = 43 + 11 - 12 - 1 = 41
+rng2 = 78 + 9 - 10 - 1 = 76
+Flyout
+Team 2 pitcher (Thomas Dillard): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-7
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Ghalen Fisher
+
+Alfonso Stafford: rng1 = 92 + 12 - 6 + 1 = 99
+rng2 = 95 + 10 - 8 + 1 = 98
+Home run
+Team 1 pitcher (Ghalen Fisher): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-8
+
+Ike Nicholson: rng1 = 73 + 6 - 6 + 1 = 74
+rng2 = 79 + 11 - 8 + 1 = 83
+Home run
+Team 1 pitcher (Ghalen Fisher): 2 batters faced, 2 runs allowed = 2 + 5.0 = 7.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-9
+
+Hayden Wright: rng1 = 32 + 7 - 6 + 1 = 34
+rng2 = 18 + 7 - 8 + 1 = 18
+Groundout
+Team 1 pitcher (Ghalen Fisher): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-9
+
+Joel Arboleda: rng1 = 11 + 6 - 6 + 1 = 12
+rng2 = 6 + 5 - 8 + 1 = 4
+Groundout
+Team 1 pitcher (Ghalen Fisher): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-9
+
+Wakasugi Norogumi: rng1 = 24 + 15 - 6 + 1 = 34
+rng2 = 83 + 14 - 8 + 1 = 90
+Flyout
+Team 1 pitcher (Ghalen Fisher): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-9
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Saiki Iwane
+
+Sean Lee: rng1 = 32 + 11 - 11 - 1 = 31
+rng2 = 98 + 10 - 10 - 1 = 97
+Flyout
+Team 2 pitcher (Saiki Iwane): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-9
+
+Anthony Davila: rng1 = 55 + 7 - 11 - 1 = 50
+rng2 = 8 + 9 - 10 - 1 = 6
+Groundout
+Team 2 pitcher (Saiki Iwane): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-9
+
+John Gibson: rng1 = 43 + 9 - 11 - 1 = 40
+rng2 = 47 + 6 - 10 - 1 = 42
+Groundout
+Team 2 pitcher (Saiki Iwane): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-9
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Iván Curbelo
+
+Desharious Roberson: rng1 = 84 + 13 - 13 + 1 = 85
+rng2 = 23 + 7 - 14 + 1 = 17
+Single
+Team 1 pitcher (Iván Curbelo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [1,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-9
+
+Lawson Haney: rng1 = 75 + 13 - 13 + 1 = 76
+rng2 = 89 + 12 - 14 + 1 = 88
+Double
+Team 1 pitcher (Iván Curbelo): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: false, base2: [2,4], base3: false
+base1: false, base2: true, base3: false
+Score: 2-10
+
+Ethan Spencer: rng1 = 15 + 11 - 13 + 1 = 14
+rng2 = 65 + 15 - 14 + 1 = 67
+Flyout
+Team 1 pitcher (Iván Curbelo): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: false, base3: [2,4]
+base1: false, base2: false, base3: true
+Score: 2-10
+
+Xavier Cabrera: rng1 = 4 + 13 - 13 + 1 = 5
+Strikeout
+Team 1 pitcher (Iván Curbelo): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: false, base3: [2,4]
+base1: false, base2: false, base3: true
+Score: 2-10
+
+Alfonso Stafford: rng1 = 24 + 12 - 13 + 1 = 24
+Strikeout
+Team 1 pitcher (Iván Curbelo): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-10
+
+-----------------------
+
+TOP INNING 9
+
+Adrián Noboa: rng1 = 16 + 6 - 11 - 1 = 10
+Strikeout
+Team 2 pitcher (Saiki Iwane): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-10
+
+César Botín: rng1 = 66 + 8 - 11 - 1 = 62
+rng2 = 48 + 5 - 10 - 1 = 42
+Groundout
+Team 2 pitcher (Saiki Iwane): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-10
+
+Jesús Alarcón: rng1 = 17 + 4 - 11 - 1 = 9
+Strikeout
+Team 2 pitcher (Saiki Iwane): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-10
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 6
+Team 2 hits: 16
+Team 1 runs: 2
+Team 2 runs: 10
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-06-03
+Isaías Juderías	3	1	1	0	0	0	0	1	1					San Francisco
+Jaz Eaton	4	1	3	1	0	1	2	0	0	
+Efraim Agramonte	4	0	1	0	0	0	0	0	0	
+Sean Lee	3	0	0	0	0	0	0	1	0	
+Anthony Davila	3	0	0	0	0	0	0	1	1	
+John Gibson	4	0	1	0	0	0	0	0	2	
+Adrián Noboa	4	0	0	0	0	0	0	0	3	
+César Botín	4	0	0	0	0	0	0	0	2	
+Jesús Alarcón	4	0	0	0	0	0	0	0	3	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+A'lamar Rogers	0	1	1	1	0	0	12	7	4	2	2	0	20	
+Kirk Johns	0	0	1	0	0	0	2	4	3	0	1	1	7	
+Pae Kwang-Min	0	0	1	0	0	0	4	1	0	0	0	1	5	
+Ghalen Fisher	0	0	1	0	0	0	3	2	2	2	0	0	5	
+Iván Curbelo	0	0	1	0	0	0	3	2	1	0	0	2	5	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-06-03
+Wakasugi Norogumi	5	1	2	0	0	0	0	0	0					Atlanta
+Desharious Roberson	5	2	2	0	0	0	0	0	0	
+Lawson Haney	5	1	2	2	0	0	1	0	1	
+Ethan Spencer	4	1	2	0	0	0	1	1	0	
+Xavier Cabrera	5	0	1	0	0	0	1	0	1	
+Alfonso Stafford	4	3	3	0	0	2	3	1	1	
+Ike Nicholson	4	1	1	0	0	1	1	0	1	
+Hayden Wright	4	1	2	0	0	1	2	0	0	
+Joel Arboleda	3	0	1	0	0	0	1	1	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Wayne Mann	1	0	1	1	0	0	18	5	2	1	2	8	25	
+Thomas Dillard	0	0	1	0	0	0	3	1	0	0	1	2	5	
+Saiki Iwane	0	0	1	0	0	0	6	0	0	0	0	2	6	
+Evan Veselka	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Juancarlo Pinto	0	0	0	0	0	0	0	0	0	0	0	0	0	

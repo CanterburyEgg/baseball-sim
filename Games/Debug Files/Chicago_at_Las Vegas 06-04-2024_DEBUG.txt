@@ -1,0 +1,765 @@
+TOP INNING 1
+
+Diego Vargas: rng1 = 47 + 13 - 12 - 1 = 47
+rng2 = 87 + 12 - 11 - 1 = 87
+Flyout
+Team 2 pitcher (Kyushi Morimoto): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Bradley Murphy: rng1 = 85 + 10 - 12 - 1 = 82
+rng2 = 28 + 10 - 11 - 1 = 26
+Single
+Team 2 pitcher (Kyushi Morimoto): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Robert Bailey: rng1 = 23 + 8 - 12 - 1 = 18
+Strikeout
+Team 2 pitcher (Kyushi Morimoto): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Nicolas Sanchez: rng1 = 87 + 3 - 12 - 1 = 77
+rng2 = 89 + 10 - 11 - 1 = 87
+Double
+Team 2 pitcher (Kyushi Morimoto): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Leonardo Pinto: rng1 = 71 + 8 - 12 - 1 = 66
+rng2 = 68 + 6 - 11 - 1 = 62
+Flyout
+Team 2 pitcher (Kyushi Morimoto): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Lawrence Randolph: rng1 = 11 + 15 - 14 + 1 = 13
+rng2 = 39 + 12 - 14 + 1 = 38
+Groundout
+Team 1 pitcher (Jumon Patterson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+George Nagle: rng1 = 93 + 13 - 14 + 1 = 93
+rng2 = 73 + 14 - 14 + 1 = 74
+Double
+Team 1 pitcher (Jumon Patterson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Dante Arias: rng1 = 87 + 11 - 14 + 1 = 85
+rng2 = 28 + 8 - 14 + 1 = 23
+Single
+Team 1 pitcher (Jumon Patterson): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Bautista Saelices: rng1 = 13 + 8 - 14 + 1 = 8
+Strikeout
+Team 1 pitcher (Jumon Patterson): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Noah Fontenot: rng1 = 82 + 12 - 14 + 1 = 81
+rng2 = 54 + 6 - 14 + 1 = 47
+Single
+Team 1 pitcher (Jumon Patterson): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [4,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 1-1
+
+Orlando Cazalla: rng1 = 86 + 4 - 14 + 1 = 77
+rng2 = 45 + 9 - 14 + 1 = 41
+Single
+Team 1 pitcher (Jumon Patterson): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-2
+
+Sean Watson: rng1 = 96 + 7 - 14 + 1 = 90
+Walk
+Team 1 pitcher (Jumon Patterson): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 2
+
+base1: [6,0], base2: [5,0], base3: [4,0]
+base1: true, base2: true, base3: true
+Score: 1-2
+
+Noel Ayers: rng1 = 52 + 4 - 14 + 1 = 43
+rng2 = 95 + 7 - 14 + 1 = 89
+Flyout
+Team 1 pitcher (Jumon Patterson): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 2
+
+Edward Lowe: rng1 = 87 + 4 - 12 - 1 = 78
+rng2 = 58 + 8 - 11 - 1 = 54
+Single
+Team 2 pitcher (Kyushi Morimoto): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Trent Cline: rng1 = 89 + 6 - 12 - 1 = 82
+rng2 = 7 + 6 - 11 - 1 = 1
+Single
+Team 2 pitcher (Kyushi Morimoto): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 0
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 1-2
+
+Estefania Espina: rng1 = 54 + 6 - 12 - 1 = 47
+rng2 = 28 + 6 - 11 - 1 = 22
+Groundout
+Team 2 pitcher (Kyushi Morimoto): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Leon Fraser: rng1 = 77 + 7 - 12 - 1 = 71
+Walk
+Team 2 pitcher (Kyushi Morimoto): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Diego Vargas: rng1 = 84 + 13 - 12 - 1 = 84
+rng2 = 30 + 12 - 11 - 1 = 30
+Single
+Team 2 pitcher (Kyushi Morimoto): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 2
+
+base1: [0,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 2-2
+
+Bradley Murphy: rng1 = 50 + 10 - 12 - 1 = 47
+rng2 = 5 + 10 - 11 - 1 = 3
+Groundout
+Team 2 pitcher (Kyushi Morimoto): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+BOTTOM INNING 2
+
+Antonio Santiago: rng1 = 36 + 7 - 14 + 1 = 30
+rng2 = 63 + 2 - 14 + 1 = 52
+Lineout
+Team 1 pitcher (Jumon Patterson): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Lawrence Randolph: rng1 = 14 + 15 - 14 + 1 = 16
+Strikeout
+Team 1 pitcher (Jumon Patterson): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+George Nagle: rng1 = 32 + 13 - 14 + 1 = 32
+rng2 = 88 + 14 - 14 + 1 = 89
+Flyout
+Team 1 pitcher (Jumon Patterson): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+TOP INNING 3
+
+Robert Bailey: rng1 = 8 + 8 - 12 - 1 = 3
+Strikeout
+Team 2 pitcher (Kyushi Morimoto): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Nicolas Sanchez: rng1 = 48 + 3 - 12 - 1 = 38
+rng2 = 22 + 10 - 11 - 1 = 20
+Groundout
+Team 2 pitcher (Kyushi Morimoto): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Leonardo Pinto: rng1 = 39 + 8 - 12 - 1 = 34
+rng2 = 51 + 6 - 11 - 1 = 45
+Groundout
+Team 2 pitcher (Kyushi Morimoto): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+BOTTOM INNING 3
+
+Dante Arias: rng1 = 60 + 11 - 14 + 1 = 58
+rng2 = 3 + 8 - 14 + 1 = -2
+Groundout
+Team 1 pitcher (Jumon Patterson): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Bautista Saelices: rng1 = 24 + 8 - 14 + 1 = 19
+Strikeout
+Team 1 pitcher (Jumon Patterson): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Noah Fontenot: rng1 = 18 + 12 - 14 + 1 = 17
+Strikeout
+Team 1 pitcher (Jumon Patterson): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+TOP INNING 4
+
+Edward Lowe: rng1 = 82 + 4 - 12 - 1 = 73
+rng2 = 33 + 8 - 11 - 1 = 29
+Single
+Team 2 pitcher (Kyushi Morimoto): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Trent Cline: rng1 = 77 + 6 - 12 - 1 = 70
+Walk
+Team 2 pitcher (Kyushi Morimoto): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 0
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-2
+
+Estefania Espina: rng1 = 20 + 6 - 12 - 1 = 13
+rng2 = 17 + 6 - 11 - 1 = 11
+Groundout
+Team 2 pitcher (Kyushi Morimoto): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 1
+
+base1: false, base2: [6,0], base3: [5,0]
+base1: false, base2: true, base3: true
+Score: 2-2
+
+Leon Fraser: rng1 = 7 + 7 - 12 - 1 = 1
+Strikeout
+Team 2 pitcher (Kyushi Morimoto): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 2
+
+base1: false, base2: [6,0], base3: [5,0]
+base1: false, base2: true, base3: true
+Score: 2-2
+
+Diego Vargas: rng1 = 45 + 13 - 12 - 1 = 45
+rng2 = 90 + 12 - 11 - 1 = 90
+Flyout
+Team 2 pitcher (Kyushi Morimoto): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+BOTTOM INNING 4
+
+Orlando Cazalla: rng1 = 29 + 4 - 14 + 1 = 20
+Strikeout
+Team 1 pitcher (Jumon Patterson): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Sean Watson: rng1 = 46 + 7 - 14 + 1 = 40
+rng2 = 72 + 5 - 14 + 1 = 64
+Flyout
+Team 1 pitcher (Jumon Patterson): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Noel Ayers: rng1 = 48 + 4 - 14 + 1 = 39
+rng2 = 55 + 7 - 14 + 1 = 49
+Lineout
+Team 1 pitcher (Jumon Patterson): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+TOP INNING 5
+
+Bradley Murphy: rng1 = 72 + 10 - 12 - 1 = 69
+rng2 = 8 + 10 - 11 - 1 = 6
+Groundout
+Team 2 pitcher (Kyushi Morimoto): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Robert Bailey: rng1 = 89 + 8 - 12 - 1 = 84
+rng2 = 93 + 11 - 11 - 1 = 92
+Double
+Team 2 pitcher (Kyushi Morimoto): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-2
+
+Nicolas Sanchez: rng1 = 15 + 3 - 12 - 1 = 5
+Strikeout
+Team 2 pitcher (Kyushi Morimoto): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-2
+
+Leonardo Pinto: rng1 = 21 + 8 - 12 - 1 = 16
+Strikeout
+Team 2 pitcher (Kyushi Morimoto): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+BOTTOM INNING 5
+
+Antonio Santiago: rng1 = 57 + 7 - 14 + 1 = 51
+rng2 = 23 + 2 - 14 + 1 = 12
+Groundout
+Team 1 pitcher (Jumon Patterson): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Lawrence Randolph: rng1 = 20 + 15 - 14 + 1 = 22
+Strikeout
+Team 1 pitcher (Jumon Patterson): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+George Nagle: rng1 = 60 + 13 - 14 + 1 = 60
+rng2 = 71 + 14 - 14 + 1 = 72
+Flyout
+Team 1 pitcher (Jumon Patterson): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Phil Segee
+
+Edward Lowe: rng1 = 87 + 4 - 9 - 1 = 81
+rng2 = 15 + 8 - 10 - 1 = 12
+Single
+Team 2 pitcher (Phil Segee): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Trent Cline: rng1 = 80 + 6 - 9 - 1 = 76
+rng2 = 81 + 6 - 10 - 1 = 76
+Double
+Team 2 pitcher (Phil Segee): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: false, base2: [6,1], base3: [5,1]
+base1: false, base2: true, base3: true
+Score: 2-2
+
+Estefania Espina: rng1 = 84 + 6 - 9 - 1 = 80
+rng2 = 92 + 6 - 10 - 1 = 87
+Double
+Team 2 pitcher (Phil Segee): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 0
+
+base1: false, base2: [7,1], base3: false
+base1: false, base2: true, base3: false
+Score: 4-2
+
+Leon Fraser: rng1 = 76 + 7 - 9 - 1 = 73
+rng2 = 6 + 4 - 10 - 1 = -1
+Single
+Team 2 pitcher (Phil Segee): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 0
+
+base1: [8,1], base2: false, base3: [7,1]
+base1: true, base2: false, base3: true
+Score: 4-2
+
+Diego Vargas: rng1 = 52 + 13 - 9 - 1 = 55
+rng2 = 52 + 12 - 10 - 1 = 53
+Lineout
+Team 2 pitcher (Phil Segee): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 1
+
+base1: [8,1], base2: false, base3: [7,1]
+base1: true, base2: false, base3: true
+Score: 4-2
+
+Bradley Murphy: rng1 = 21 + 10 - 9 - 1 = 21
+Strikeout
+Team 2 pitcher (Phil Segee): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: [8,1], base2: false, base3: [7,1]
+base1: true, base2: false, base3: true
+Score: 4-2
+
+Robert Bailey: rng1 = 95 + 8 - 9 - 1 = 93
+rng2 = 41 + 11 - 10 - 1 = 41
+Single
+Team 2 pitcher (Phil Segee): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 2
+
+base1: [2,1], base2: false, base3: [8,1]
+base1: true, base2: false, base3: true
+Score: 5-2
+
+Team 2 pitcher change to Taylor Murphy
+
+Nicolas Sanchez: rng1 = 70 + 3 - 15 - 1 = 57
+rng2 = 46 + 10 - 14 - 1 = 41
+Groundout
+Team 2 pitcher (Taylor Murphy): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-2
+
+-----------------------
+
+BOTTOM INNING 6
+
+Dante Arias: rng1 = 80 + 11 - 14 + 1 = 78
+rng2 = 29 + 8 - 14 + 1 = 24
+Single
+Team 1 pitcher (Jumon Patterson): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 0
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-2
+
+Bautista Saelices: rng1 = 22 + 8 - 14 + 1 = 17
+Strikeout
+Team 1 pitcher (Jumon Patterson): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-2
+
+Noah Fontenot: rng1 = 46 + 12 - 14 + 1 = 45
+rng2 = 26 + 6 - 14 + 1 = 19
+Groundout
+Team 1 pitcher (Jumon Patterson): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-2
+
+Orlando Cazalla: rng1 = 37 + 4 - 14 + 1 = 28
+Strikeout
+Team 1 pitcher (Jumon Patterson): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-2
+
+-----------------------
+
+TOP INNING 7
+
+Leonardo Pinto: rng1 = 10 + 8 - 15 - 1 = 2
+Strikeout
+Team 2 pitcher (Taylor Murphy): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-2
+
+Edward Lowe: rng1 = 95 + 4 - 15 - 1 = 83
+rng2 = 18 + 8 - 14 - 1 = 11
+Single
+Team 2 pitcher (Taylor Murphy): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-2
+
+Trent Cline: rng1 = 25 + 6 - 15 - 1 = 15
+rng2 = 32 + 6 - 14 - 1 = 23
+Groundout
+Team 2 pitcher (Taylor Murphy): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-2
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Reuben Simmons
+
+Sean Watson: rng1 = 19 + 7 - 11 + 1 = 16
+Strikeout
+Team 1 pitcher (Reuben Simmons): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-2
+
+Noel Ayers: rng1 = 36 + 4 - 11 + 1 = 30
+rng2 = 85 + 7 - 11 + 1 = 82
+Flyout
+Team 1 pitcher (Reuben Simmons): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-2
+
+Antonio Santiago: rng1 = 93 + 7 - 11 + 1 = 90
+Walk
+Team 1 pitcher (Reuben Simmons): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-2
+
+Lawrence Randolph: rng1 = 10 + 15 - 11 + 1 = 15
+rng2 = 54 + 12 - 11 + 1 = 56
+Lineout
+Team 1 pitcher (Reuben Simmons): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-2
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Rodrigo Valerio
+
+Estefania Espina: rng1 = 98 + 6 - 7 - 1 = 96
+rng2 = 89 + 6 - 7 - 1 = 87
+Double
+Team 2 pitcher (Rodrigo Valerio): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [7,3], base3: false
+base1: false, base2: true, base3: false
+Score: 5-2
+
+Leon Fraser: rng1 = 100 + 7 - 7 - 1 = 99
+rng2 = 66 + 4 - 7 - 1 = 62
+Single
+Team 2 pitcher (Rodrigo Valerio): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: [8,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-2
+
+Diego Vargas: rng1 = 4 + 13 - 7 - 1 = 9
+Strikeout
+Team 2 pitcher (Rodrigo Valerio): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [8,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-2
+
+Bradley Murphy: rng1 = 23 + 10 - 7 - 1 = 25
+Strikeout
+Team 2 pitcher (Rodrigo Valerio): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [8,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-2
+
+Robert Bailey: rng1 = 42 + 8 - 7 - 1 = 42
+rng2 = 45 + 11 - 7 - 1 = 48
+Lineout
+Team 2 pitcher (Rodrigo Valerio): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-2
+
+-----------------------
+
+BOTTOM INNING 8
+
+George Nagle: rng1 = 6 + 13 - 11 + 1 = 9
+Strikeout
+Team 1 pitcher (Reuben Simmons): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-2
+
+Dante Arias: rng1 = 56 + 11 - 11 + 1 = 57
+rng2 = 10 + 8 - 11 + 1 = 8
+Groundout
+Team 1 pitcher (Reuben Simmons): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-2
+
+Bautista Saelices: rng1 = 34 + 8 - 11 + 1 = 32
+rng2 = 45 + 9 - 11 + 1 = 44
+Groundout
+Team 1 pitcher (Reuben Simmons): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-2
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Macos Alguacil
+
+Nicolas Sanchez: rng1 = 28 + 3 - 14 - 1 = 16
+Strikeout
+Team 2 pitcher (Macos Alguacil): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-2
+
+Leonardo Pinto: rng1 = 6 + 8 - 14 - 1 = -1
+Strikeout
+Team 2 pitcher (Macos Alguacil): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-2
+
+Edward Lowe: rng1 = 65 + 4 - 14 - 1 = 54
+rng2 = 99 + 8 - 15 - 1 = 91
+Flyout
+Team 2 pitcher (Macos Alguacil): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-2
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Charlie Jordan
+
+Noah Fontenot: rng1 = 10 + 12 - 14 + 1 = 9
+Strikeout
+Team 1 pitcher (Charlie Jordan): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-2
+
+Orlando Cazalla: rng1 = 50 + 4 - 14 + 1 = 41
+rng2 = 90 + 9 - 13 + 1 = 87
+Flyout
+Team 1 pitcher (Charlie Jordan): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-2
+
+Sean Watson: rng1 = 68 + 7 - 14 + 1 = 62
+rng2 = 79 + 5 - 13 + 1 = 72
+Flyout
+Team 1 pitcher (Charlie Jordan): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-2
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 15
+Team 2 hits: 5
+Team 1 runs: 6
+Team 2 runs: 2
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-06-04
+Diego Vargas	5	0	1	0	0	0	0	0	1					Chicago
+Bradley Murphy	5	1	1	0	0	0	0	0	2	
+Robert Bailey	5	0	2	1	0	0	1	0	2	
+Nicolas Sanchez	5	0	1	1	0	0	1	0	2	
+Leonardo Pinto	5	0	0	0	0	0	0	0	3	
+Edward Lowe	5	2	4	0	0	0	0	0	0	
+Trent Cline	3	1	2	1	0	0	0	1	0	
+Estefania Espina	4	2	2	2	0	0	3	0	0	
+Leon Fraser	3	0	2	0	0	0	1	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Jumon Patterson	1	0	1	1	0	0	18	5	2	0	1	8	24	
+Reuben Simmons	0	0	1	0	0	0	6	0	0	0	1	2	7	
+Bravon McDaniel	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Keegan Schiel	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Charlie Jordan	0	0	1	0	0	0	3	0	0	0	0	1	3	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-06-04
+Lawrence Randolph	4	0	0	0	0	0	0	0	2					Las Vegas
+George Nagle	4	1	1	1	0	0	0	0	1	
+Dante Arias	4	1	2	0	0	0	1	0	0	
+Bautista Saelices	4	0	0	0	0	0	0	0	3	
+Noah Fontenot	4	0	1	0	0	0	0	0	2	
+Orlando Cazalla	4	0	1	0	0	0	1	0	2	
+Sean Watson	3	0	0	0	0	0	0	1	1	
+Noel Ayers	3	0	0	0	0	0	0	0	0	
+Antonio Santiago	2	0	0	0	0	0	0	1	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Kyushi Morimoto	0	0	1	1	0	0	15	7	2	0	2	5	23	
+Phil Segee	0	1	1	0	0	0	2	5	3	0	0	1	7	
+Taylor Murphy	0	0	1	0	0	0	4	1	0	0	0	1	4	
+Rodrigo Valerio	0	0	1	0	0	0	3	2	1	0	0	2	5	
+Macos Alguacil	0	0	1	0	0	0	3	0	0	0	0	2	3	

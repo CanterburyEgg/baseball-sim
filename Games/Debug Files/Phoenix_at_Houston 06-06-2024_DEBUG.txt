@@ -1,0 +1,856 @@
+TOP INNING 1
+
+Jeff Murray: rng1 = 14 + 11 - 11 - 1 = 13
+rng2 = 13 + 5 - 9 - 1 = 8
+Groundout
+Team 2 pitcher (Francisco Garcia): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Calder Martin: rng1 = 78 + 9 - 11 - 1 = 75
+rng2 = 90 + 9 - 9 - 1 = 89
+Double
+Team 2 pitcher (Francisco Garcia): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Mark White: rng1 = 90 + 8 - 11 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Francisco Garcia): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Yodogawa Shosuke: rng1 = 53 + 7 - 11 - 1 = 48
+rng2 = 51 + 9 - 9 - 1 = 50
+Lineout
+Team 2 pitcher (Francisco Garcia): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Jack Hayes: rng1 = 98 + 8 - 11 - 1 = 94
+rng2 = 82 + 8 - 9 - 1 = 80
+Home run
+Team 2 pitcher (Francisco Garcia): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Darren Chang: rng1 = 26 + 7 - 11 - 1 = 21
+Strikeout
+Team 2 pitcher (Francisco Garcia): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Cody Henderson: rng1 = 24 + 13 - 8 + 1 = 30
+rng2 = 51 + 13 - 8 + 1 = 57
+Lineout
+Team 1 pitcher (Walter Burnett): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Xavier Washington: rng1 = 86 + 12 - 8 + 1 = 91
+rng2 = 42 + 12 - 8 + 1 = 47
+Single
+Team 1 pitcher (Walter Burnett): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Dante Leoz: rng1 = 91 + 12 - 8 + 1 = 96
+rng2 = 16 + 11 - 8 + 1 = 20
+Single
+Team 1 pitcher (Walter Burnett): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 3-0
+
+Jadon Mitchell: rng1 = 49 + 12 - 8 + 1 = 54
+rng2 = 7 + 13 - 8 + 1 = 13
+Groundout
+Team 1 pitcher (Walter Burnett): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [3,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 3-0
+
+Kieran Byrne: rng1 = 53 + 14 - 8 + 1 = 60
+rng2 = 95 + 12 - 8 + 1 = 100
+Flyout
+Team 1 pitcher (Walter Burnett): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+TOP INNING 2
+
+Esteban Mendoza: rng1 = 13 + 7 - 11 - 1 = 8
+Strikeout
+Team 2 pitcher (Francisco Garcia): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Josh Poole: rng1 = 82 + 7 - 11 - 1 = 77
+rng2 = 51 + 6 - 9 - 1 = 47
+Single
+Team 2 pitcher (Francisco Garcia): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Adam Pearce: rng1 = 28 + 5 - 11 - 1 = 21
+Strikeout
+Team 2 pitcher (Francisco Garcia): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Jeff Murray: rng1 = 87 + 11 - 11 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Francisco Garcia): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 2
+
+base1: [0,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-0
+
+Calder Martin: rng1 = 18 + 9 - 11 - 1 = 15
+rng2 = 72 + 9 - 9 - 1 = 71
+Flyout
+Team 2 pitcher (Francisco Garcia): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Anthony Bennett: rng1 = 88 + 11 - 8 + 1 = 92
+rng2 = 25 + 12 - 8 + 1 = 30
+Single
+Team 1 pitcher (Walter Burnett): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Elliot Hudson: rng1 = 46 + 10 - 8 + 1 = 49
+rng2 = 44 + 9 - 8 + 1 = 46
+Groundout
+Team 1 pitcher (Walter Burnett): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-0
+
+Dan Robertson: rng1 = 40 + 4 - 8 + 1 = 37
+rng2 = 17 + 6 - 8 + 1 = 16
+Groundout
+Team 1 pitcher (Walter Burnett): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: false, base2: false, base3: [5,0]
+base1: false, base2: false, base3: true
+Score: 3-0
+
+Javier Gallardo: rng1 = 34 + 3 - 8 + 1 = 30
+rng2 = 49 + 6 - 8 + 1 = 48
+Lineout
+Team 1 pitcher (Walter Burnett): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+TOP INNING 3
+
+Mark White: rng1 = 59 + 8 - 11 - 1 = 55
+rng2 = 81 + 9 - 9 - 1 = 80
+Flyout
+Team 2 pitcher (Francisco Garcia): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Yodogawa Shosuke: rng1 = 38 + 7 - 11 - 1 = 33
+rng2 = 43 + 9 - 9 - 1 = 42
+Groundout
+Team 2 pitcher (Francisco Garcia): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Jack Hayes: rng1 = 54 + 8 - 11 - 1 = 50
+rng2 = 36 + 8 - 9 - 1 = 34
+Groundout
+Team 2 pitcher (Francisco Garcia): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Cody Henderson: rng1 = 18 + 13 - 8 + 1 = 24
+Strikeout
+Team 1 pitcher (Walter Burnett): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Xavier Washington: rng1 = 97 + 12 - 8 + 1 = 102
+rng2 = 51 + 12 - 8 + 1 = 56
+Single
+Team 1 pitcher (Walter Burnett): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Dante Leoz: rng1 = 78 + 12 - 8 + 1 = 83
+rng2 = 83 + 11 - 8 + 1 = 87
+Double
+Team 1 pitcher (Walter Burnett): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 1
+
+base1: false, base2: [2,0], base3: [1,0]
+base1: false, base2: true, base3: true
+Score: 3-0
+
+Jadon Mitchell: rng1 = 69 + 12 - 8 + 1 = 74
+rng2 = 34 + 13 - 8 + 1 = 40
+Single
+Team 1 pitcher (Walter Burnett): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: [3,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 3-1
+
+Kieran Byrne: rng1 = 62 + 14 - 8 + 1 = 69
+rng2 = 33 + 12 - 8 + 1 = 38
+Groundout
+Team 1 pitcher (Walter Burnett): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: [4,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 3-1
+
+Anthony Bennett: rng1 = 22 + 11 - 8 + 1 = 26
+Strikeout
+Team 1 pitcher (Walter Burnett): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+TOP INNING 4
+
+Darren Chang: rng1 = 52 + 7 - 11 - 1 = 47
+rng2 = 87 + 8 - 9 - 1 = 85
+Flyout
+Team 2 pitcher (Francisco Garcia): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Esteban Mendoza: rng1 = 30 + 7 - 11 - 1 = 25
+Strikeout
+Team 2 pitcher (Francisco Garcia): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Josh Poole: rng1 = 81 + 7 - 11 - 1 = 76
+rng2 = 73 + 6 - 9 - 1 = 69
+Double
+Team 2 pitcher (Francisco Garcia): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 2
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-1
+
+Adam Pearce: rng1 = 100 + 5 - 11 - 1 = 93
+rng2 = 12 + 5 - 9 - 1 = 7
+Single
+Team 2 pitcher (Francisco Garcia): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-1
+
+Jeff Murray: rng1 = 96 + 11 - 11 - 1 = 95
+rng2 = 98 + 5 - 9 - 1 = 93
+Triple
+Team 2 pitcher (Francisco Garcia): 19 batters faced, 5 runs allowed = 19 + 12.5 = 31.5, outs: 2
+
+base1: false, base2: false, base3: [0,0]
+base1: false, base2: false, base3: true
+Score: 5-1
+
+Calder Martin: rng1 = 55 + 9 - 11 - 1 = 52
+rng2 = 14 + 9 - 9 - 1 = 13
+Groundout
+Team 2 pitcher (Francisco Garcia): 20 batters faced, 5 runs allowed = 20 + 12.5 = 32.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Elliot Hudson: rng1 = 18 + 10 - 8 + 1 = 21
+Strikeout
+Team 1 pitcher (Walter Burnett): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Dan Robertson: rng1 = 15 + 4 - 8 + 1 = 12
+rng2 = 35 + 6 - 8 + 1 = 34
+Groundout
+Team 1 pitcher (Walter Burnett): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Javier Gallardo: rng1 = 87 + 3 - 8 + 1 = 83
+rng2 = 44 + 6 - 8 + 1 = 43
+Single
+Team 1 pitcher (Walter Burnett): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-1
+
+Cody Henderson: rng1 = 21 + 13 - 8 + 1 = 27
+Strikeout
+Team 1 pitcher (Walter Burnett): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-1
+
+-----------------------
+
+TOP INNING 5
+
+Team 2 pitcher change to Foster Roebuck
+
+Mark White: rng1 = 56 + 8 - 8 - 1 = 55
+rng2 = 22 + 9 - 7 - 1 = 23
+Groundout
+Team 2 pitcher (Foster Roebuck): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Yodogawa Shosuke: rng1 = 58 + 7 - 8 - 1 = 56
+rng2 = 82 + 9 - 7 - 1 = 83
+Flyout
+Team 2 pitcher (Foster Roebuck): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Jack Hayes: rng1 = 10 + 8 - 8 - 1 = 9
+Strikeout
+Team 2 pitcher (Foster Roebuck): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-1
+
+-----------------------
+
+BOTTOM INNING 5
+
+Xavier Washington: rng1 = 63 + 12 - 8 + 1 = 68
+rng2 = 32 + 12 - 8 + 1 = 37
+Groundout
+Team 1 pitcher (Walter Burnett): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Dante Leoz: rng1 = 68 + 12 - 8 + 1 = 73
+rng2 = 64 + 11 - 8 + 1 = 68
+Double
+Team 1 pitcher (Walter Burnett): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 5-1
+
+Jadon Mitchell: rng1 = 91 + 12 - 8 + 1 = 96
+rng2 = 67 + 13 - 8 + 1 = 73
+Double
+Team 1 pitcher (Walter Burnett): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 1
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 5-2
+
+Kieran Byrne: rng1 = 40 + 14 - 8 + 1 = 47
+rng2 = 46 + 12 - 8 + 1 = 51
+Lineout
+Team 1 pitcher (Walter Burnett): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 2
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 5-2
+
+Anthony Bennett: rng1 = 36 + 11 - 8 + 1 = 40
+rng2 = 90 + 12 - 8 + 1 = 95
+Flyout
+Team 1 pitcher (Walter Burnett): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-2
+
+-----------------------
+
+TOP INNING 6
+
+Darren Chang: rng1 = 70 + 7 - 8 - 1 = 68
+rng2 = 94 + 8 - 7 - 1 = 94
+Flyout
+Team 2 pitcher (Foster Roebuck): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-2
+
+Esteban Mendoza: rng1 = 88 + 7 - 8 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Foster Roebuck): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-2
+
+Josh Poole: rng1 = 72 + 7 - 8 - 1 = 70
+Walk
+Team 2 pitcher (Foster Roebuck): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [7,1], base2: [6,1], base3: false
+base1: true, base2: true, base3: false
+Score: 5-2
+
+Adam Pearce: rng1 = 54 + 5 - 8 - 1 = 50
+rng2 = 94 + 5 - 7 - 1 = 91
+Flyout
+Team 2 pitcher (Foster Roebuck): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [7,1], base2: [6,1], base3: false
+base1: true, base2: true, base3: false
+Score: 5-2
+
+Jeff Murray: rng1 = 62 + 11 - 8 - 1 = 64
+rng2 = 13 + 5 - 7 - 1 = 10
+Groundout
+Team 2 pitcher (Foster Roebuck): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-2
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Walt Lewis
+
+Elliot Hudson: rng1 = 25 + 10 - 9 + 1 = 27
+Strikeout
+Team 1 pitcher (Walt Lewis): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-2
+
+Dan Robertson: rng1 = 55 + 4 - 9 + 1 = 51
+rng2 = 88 + 6 - 9 + 1 = 86
+Flyout
+Team 1 pitcher (Walt Lewis): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-2
+
+Javier Gallardo: rng1 = 61 + 3 - 9 + 1 = 56
+rng2 = 87 + 6 - 9 + 1 = 85
+Flyout
+Team 1 pitcher (Walt Lewis): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-2
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Douglas Bosak
+
+Calder Martin: rng1 = 100 + 9 - 5 - 1 = 103
+rng2 = 9 + 9 - 6 - 1 = 11
+Single
+Team 2 pitcher (Douglas Bosak): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-2
+
+Mark White: rng1 = 6 + 8 - 5 - 1 = 8
+Strikeout
+Team 2 pitcher (Douglas Bosak): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-2
+
+Yodogawa Shosuke: rng1 = 8 + 7 - 5 - 1 = 9
+Strikeout
+Team 2 pitcher (Douglas Bosak): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-2
+
+Jack Hayes: rng1 = 33 + 8 - 5 - 1 = 35
+rng2 = 66 + 8 - 6 - 1 = 67
+Flyout
+Team 2 pitcher (Douglas Bosak): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-2
+
+-----------------------
+
+BOTTOM INNING 7
+
+Cody Henderson: rng1 = 3 + 13 - 9 + 1 = 8
+Strikeout
+Team 1 pitcher (Walt Lewis): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-2
+
+Xavier Washington: rng1 = 85 + 12 - 9 + 1 = 89
+Walk
+Team 1 pitcher (Walt Lewis): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-2
+
+Dante Leoz: rng1 = 99 + 12 - 9 + 1 = 103
+rng2 = 13 + 11 - 9 + 1 = 16
+Single
+Team 1 pitcher (Walt Lewis): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [2,1], base2: false, base3: [1,1]
+base1: true, base2: false, base3: true
+Score: 5-2
+
+Jadon Mitchell: rng1 = 14 + 12 - 9 + 1 = 18
+Strikeout
+Team 1 pitcher (Walt Lewis): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [2,1], base2: false, base3: [1,1]
+base1: true, base2: false, base3: true
+Score: 5-2
+
+Kieran Byrne: rng1 = 10 + 14 - 9 + 1 = 16
+Strikeout
+Team 1 pitcher (Walt Lewis): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-2
+
+-----------------------
+
+TOP INNING 8
+
+Darren Chang: rng1 = 95 + 7 - 5 - 1 = 96
+rng2 = 77 + 8 - 6 - 1 = 78
+Double
+Team 2 pitcher (Douglas Bosak): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: false, base2: [5,2], base3: false
+base1: false, base2: true, base3: false
+Score: 5-2
+
+Esteban Mendoza: rng1 = 74 + 7 - 5 - 1 = 75
+rng2 = 23 + 7 - 6 - 1 = 23
+Single
+Team 2 pitcher (Douglas Bosak): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 0
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-2
+
+Josh Poole: rng1 = 32 + 7 - 5 - 1 = 33
+rng2 = 97 + 6 - 6 - 1 = 96
+Flyout
+Team 2 pitcher (Douglas Bosak): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-2
+
+Adam Pearce: rng1 = 78 + 5 - 5 - 1 = 77
+rng2 = 34 + 5 - 6 - 1 = 32
+Single
+Team 2 pitcher (Douglas Bosak): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: [8,2], base2: false, base3: [6,2]
+base1: true, base2: false, base3: true
+Score: 6-2
+
+Jeff Murray: rng1 = 90 + 11 - 5 - 1 = 95
+rng2 = 74 + 5 - 6 - 1 = 72
+Double
+Team 2 pitcher (Douglas Bosak): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 1
+
+base1: false, base2: [0,2], base3: false
+base1: false, base2: true, base3: false
+Score: 8-2
+
+Team 2 pitcher change to Craig Valencis
+
+Calder Martin: rng1 = 97 + 9 - 6 - 1 = 99
+rng2 = 57 + 9 - 7 - 1 = 58
+Single
+Team 2 pitcher (Craig Valencis): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: [1,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-2
+
+Mark White: rng1 = 61 + 8 - 6 - 1 = 62
+rng2 = 48 + 9 - 7 - 1 = 49
+Lineout
+Team 2 pitcher (Craig Valencis): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: [1,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-2
+
+Yodogawa Shosuke: rng1 = 76 + 7 - 6 - 1 = 76
+rng2 = 17 + 9 - 7 - 1 = 18
+Single
+Team 2 pitcher (Craig Valencis): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [3,3], base2: false, base3: [1,3]
+base1: true, base2: false, base3: true
+Score: 9-2
+
+Jack Hayes: rng1 = 62 + 8 - 6 - 1 = 63
+rng2 = 20 + 8 - 7 - 1 = 20
+Groundout
+Team 2 pitcher (Craig Valencis): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-2
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Louis Evans
+
+Anthony Bennett: rng1 = 62 + 11 - 10 + 1 = 64
+rng2 = 64 + 12 - 8 + 1 = 69
+Flyout
+Team 1 pitcher (Louis Evans): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-2
+
+Elliot Hudson: rng1 = 84 + 10 - 10 + 1 = 85
+rng2 = 88 + 9 - 8 + 1 = 90
+Double
+Team 1 pitcher (Louis Evans): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [6,2], base3: false
+base1: false, base2: true, base3: false
+Score: 9-2
+
+Dan Robertson: rng1 = 3 + 4 - 10 + 1 = -2
+Strikeout
+Team 1 pitcher (Louis Evans): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [6,2], base3: false
+base1: false, base2: true, base3: false
+Score: 9-2
+
+Javier Gallardo: rng1 = 27 + 3 - 10 + 1 = 21
+Strikeout
+Team 1 pitcher (Louis Evans): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-2
+
+-----------------------
+
+TOP INNING 9
+
+Darren Chang: rng1 = 24 + 7 - 6 - 1 = 24
+Strikeout
+Team 2 pitcher (Craig Valencis): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-2
+
+Esteban Mendoza: rng1 = 64 + 7 - 6 - 1 = 64
+rng2 = 79 + 7 - 7 - 1 = 78
+Flyout
+Team 2 pitcher (Craig Valencis): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-2
+
+Josh Poole: rng1 = 11 + 7 - 6 - 1 = 11
+rng2 = 30 + 6 - 7 - 1 = 28
+Groundout
+Team 2 pitcher (Craig Valencis): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-2
+
+-----------------------
+
+BOTTOM INNING 9
+
+Cody Henderson: rng1 = 12 + 13 - 10 + 1 = 16
+Strikeout
+Team 1 pitcher (Louis Evans): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-2
+
+Xavier Washington: rng1 = 74 + 12 - 10 + 1 = 77
+rng2 = 66 + 12 - 8 + 1 = 71
+Double
+Team 1 pitcher (Louis Evans): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: [1,2], base3: false
+base1: false, base2: true, base3: false
+Score: 9-2
+
+Dante Leoz: rng1 = 39 + 12 - 10 + 1 = 42
+rng2 = 63 + 11 - 8 + 1 = 67
+Flyout
+Team 1 pitcher (Louis Evans): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: [1,2], base3: false
+base1: false, base2: true, base3: false
+Score: 9-2
+
+Jadon Mitchell: rng1 = 79 + 12 - 10 + 1 = 82
+rng2 = 18 + 13 - 8 + 1 = 24
+Single
+Team 1 pitcher (Louis Evans): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [3,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-3
+
+Kieran Byrne: rng1 = 67 + 14 - 10 + 1 = 72
+Walk
+Team 1 pitcher (Louis Evans): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [4,2], base2: [3,2], base3: false
+base1: true, base2: true, base3: false
+Score: 9-3
+
+Team 1 pitcher change to Noah Rosario
+
+Anthony Bennett: rng1 = 11 + 11 - 10 + 1 = 13
+rng2 = 54 + 12 - 8 + 1 = 59
+Flyout
+Team 1 pitcher (Noah Rosario): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-3
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 13
+Team 2 hits: 13
+Team 1 runs: 9
+Team 2 runs: 3
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-06-06
+Jeff Murray	4	1	2	1	1	0	3	0	0					Phoenix
+Calder Martin	5	1	3	1	0	0	1	0	0	
+Mark White	4	1	0	0	0	0	0	0	1	
+Yodogawa Shosuke	5	0	1	0	0	0	0	0	1	
+Jack Hayes	5	1	1	0	0	1	3	0	1	
+Darren Chang	5	1	1	1	0	0	0	0	2	
+Esteban Mendoza	4	1	1	0	0	0	1	0	2	
+Josh Poole	4	1	2	1	0	0	0	1	0	
+Adam Pearce	4	2	2	0	0	0	1	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Walter Burnett	1	0	1	1	0	0	15	9	2	0	0	4	24	
+Walt Lewis	0	0	1	0	0	0	6	1	0	0	1	4	8	
+Louis Evans	0	0	1	0	0	0	5	3	1	0	1	3	9	
+Noah Rosario	0	0	1	0	0	0	1	0	0	0	0	0	1	
+Josh Harris	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-06-06
+Cody Henderson	5	0	0	0	0	0	0	0	4					Houston
+Xavier Washington	4	2	3	1	0	0	0	1	0	
+Dante Leoz	5	1	4	2	0	0	0	0	0	
+Jadon Mitchell	5	0	3	1	0	0	3	0	1	
+Kieran Byrne	4	0	0	0	0	0	0	1	1	
+Anthony Bennett	5	0	1	0	0	0	0	0	1	
+Elliot Hudson	4	0	1	1	0	0	0	0	2	
+Dan Robertson	4	0	0	0	0	0	0	0	1	
+Javier Gallardo	4	0	1	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Francisco Garcia	0	1	1	1	0	0	12	6	5	1	0	4	20	
+Foster Roebuck	0	0	1	0	0	0	6	0	0	0	1	1	8	
+Douglas Bosak	0	0	1	0	0	0	4	5	4	0	0	2	9	
+Craig Valencis	0	0	1	0	0	0	5	2	0	0	0	1	7	
+Gideon Giles	0	0	0	0	0	0	0	0	0	0	0	0	0	

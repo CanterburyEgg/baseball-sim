@@ -1,0 +1,774 @@
+TOP INNING 1
+
+Isaías Juderías: rng1 = 7 + 13 - 11 - 1 = 8
+Strikeout
+Team 2 pitcher (Francisco Garcia): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jaz Eaton: rng1 = 97 + 12 - 11 - 1 = 97
+rng2 = 83 + 12 - 9 - 1 = 85
+Home run
+Team 2 pitcher (Francisco Garcia): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Efraim Agramonte: rng1 = 37 + 11 - 11 - 1 = 36
+rng2 = 6 + 9 - 9 - 1 = 5
+Groundout
+Team 2 pitcher (Francisco Garcia): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Sean Lee: rng1 = 56 + 11 - 11 - 1 = 55
+rng2 = 53 + 10 - 9 - 1 = 53
+Lineout
+Team 2 pitcher (Francisco Garcia): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Cody Henderson: rng1 = 73 + 13 - 12 + 1 = 75
+rng2 = 21 + 13 - 13 + 1 = 22
+Single
+Team 1 pitcher (A'lamar Rogers): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Xavier Washington: rng1 = 68 + 12 - 12 + 1 = 69
+rng2 = 9 + 12 - 13 + 1 = 9
+Groundout
+Team 1 pitcher (A'lamar Rogers): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Dante Leoz: rng1 = 81 + 12 - 12 + 1 = 82
+rng2 = 75 + 11 - 13 + 1 = 74
+Double
+Team 1 pitcher (A'lamar Rogers): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Jadon Mitchell: rng1 = 13 + 12 - 12 + 1 = 14
+rng2 = 76 + 13 - 13 + 1 = 77
+Flyout
+Team 1 pitcher (A'lamar Rogers): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 2
+
+Anthony Davila: rng1 = 50 + 7 - 11 - 1 = 45
+rng2 = 32 + 9 - 9 - 1 = 31
+Groundout
+Team 2 pitcher (Francisco Garcia): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+John Gibson: rng1 = 85 + 9 - 11 - 1 = 82
+rng2 = 85 + 6 - 9 - 1 = 81
+Home run
+Team 2 pitcher (Francisco Garcia): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Adrián Noboa: rng1 = 20 + 6 - 11 - 1 = 14
+rng2 = 53 + 7 - 9 - 1 = 50
+Lineout
+Team 2 pitcher (Francisco Garcia): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+César Botín: rng1 = 96 + 8 - 11 - 1 = 92
+rng2 = 36 + 5 - 9 - 1 = 31
+Single
+Team 2 pitcher (Francisco Garcia): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Jesús Alarcón: rng1 = 84 + 4 - 11 - 1 = 76
+rng2 = 56 + 7 - 9 - 1 = 53
+Single
+Team 2 pitcher (Francisco Garcia): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 2
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-0
+
+Isaías Juderías: rng1 = 100 + 13 - 11 - 1 = 101
+rng2 = 29 + 12 - 9 - 1 = 31
+Single
+Team 2 pitcher (Francisco Garcia): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 2
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-0
+
+Jaz Eaton: rng1 = 93 + 12 - 11 - 1 = 93
+rng2 = 27 + 12 - 9 - 1 = 29
+Single
+Team 2 pitcher (Francisco Garcia): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 2
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 4-0
+
+Efraim Agramonte: rng1 = 97 + 11 - 11 - 1 = 96
+rng2 = 9 + 9 - 9 - 1 = 8
+Single
+Team 2 pitcher (Francisco Garcia): 12 batters faced, 5 runs allowed = 12 + 12.5 = 24.5, outs: 2
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 5-0
+
+Sean Lee: rng1 = 61 + 11 - 11 - 1 = 60
+rng2 = 59 + 10 - 9 - 1 = 59
+Flyout
+Team 2 pitcher (Francisco Garcia): 13 batters faced, 5 runs allowed = 13 + 12.5 = 25.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Kieran Byrne: rng1 = 18 + 14 - 12 + 1 = 21
+Strikeout
+Team 1 pitcher (A'lamar Rogers): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Anthony Bennett: rng1 = 38 + 11 - 12 + 1 = 38
+rng2 = 88 + 12 - 13 + 1 = 88
+Flyout
+Team 1 pitcher (A'lamar Rogers): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Elliot Hudson: rng1 = 68 + 10 - 12 + 1 = 67
+rng2 = 3 + 9 - 13 + 1 = 0
+Groundout
+Team 1 pitcher (A'lamar Rogers): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-0
+
+-----------------------
+
+TOP INNING 3
+
+Anthony Davila: rng1 = 35 + 7 - 11 - 1 = 30
+rng2 = 76 + 9 - 9 - 1 = 75
+Flyout
+Team 2 pitcher (Francisco Garcia): 14 batters faced, 5 runs allowed = 14 + 12.5 = 26.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+John Gibson: rng1 = 65 + 9 - 11 - 1 = 62
+rng2 = 86 + 6 - 9 - 1 = 82
+Flyout
+Team 2 pitcher (Francisco Garcia): 15 batters faced, 5 runs allowed = 15 + 12.5 = 27.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Adrián Noboa: rng1 = 35 + 6 - 11 - 1 = 29
+rng2 = 43 + 7 - 9 - 1 = 40
+Groundout
+Team 2 pitcher (Francisco Garcia): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Dan Robertson: rng1 = 91 + 4 - 12 + 1 = 84
+rng2 = 67 + 6 - 13 + 1 = 61
+Single
+Team 1 pitcher (A'lamar Rogers): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-0
+
+Javier Gallardo: rng1 = 82 + 3 - 12 + 1 = 74
+rng2 = 59 + 6 - 13 + 1 = 53
+Single
+Team 1 pitcher (A'lamar Rogers): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 0
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 5-0
+
+Cody Henderson: rng1 = 40 + 13 - 12 + 1 = 42
+rng2 = 31 + 13 - 13 + 1 = 32
+Groundout
+Team 1 pitcher (A'lamar Rogers): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: [0,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 5-0
+
+Xavier Washington: rng1 = 39 + 12 - 12 + 1 = 40
+rng2 = 77 + 12 - 13 + 1 = 77
+Flyout
+Team 1 pitcher (A'lamar Rogers): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-1
+
+Dante Leoz: rng1 = 45 + 12 - 12 + 1 = 46
+rng2 = 74 + 11 - 13 + 1 = 73
+Flyout
+Team 1 pitcher (A'lamar Rogers): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-1
+
+-----------------------
+
+TOP INNING 4
+
+César Botín: rng1 = 67 + 8 - 11 - 1 = 63
+rng2 = 32 + 5 - 9 - 1 = 27
+Groundout
+Team 2 pitcher (Francisco Garcia): 17 batters faced, 5 runs allowed = 17 + 12.5 = 29.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Jesús Alarcón: rng1 = 4 + 4 - 11 - 1 = -4
+Strikeout
+Team 2 pitcher (Francisco Garcia): 18 batters faced, 5 runs allowed = 18 + 12.5 = 30.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Isaías Juderías: rng1 = 9 + 13 - 11 - 1 = 10
+Strikeout
+Team 2 pitcher (Francisco Garcia): 19 batters faced, 5 runs allowed = 19 + 12.5 = 31.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Jadon Mitchell: rng1 = 98 + 12 - 12 + 1 = 99
+rng2 = 44 + 13 - 13 + 1 = 45
+Single
+Team 1 pitcher (A'lamar Rogers): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-1
+
+Kieran Byrne: rng1 = 85 + 14 - 12 + 1 = 88
+Walk
+Team 1 pitcher (A'lamar Rogers): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 0
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 5-1
+
+Anthony Bennett: rng1 = 87 + 11 - 12 + 1 = 87
+Walk
+Team 1 pitcher (A'lamar Rogers): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 0
+
+base1: [5,0], base2: [4,0], base3: [3,0]
+base1: true, base2: true, base3: true
+Score: 5-1
+
+Elliot Hudson: rng1 = 71 + 10 - 12 + 1 = 70
+Walk
+Team 1 pitcher (A'lamar Rogers): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 0
+
+base1: [6,0], base2: [5,0], base3: [4,0]
+base1: true, base2: true, base3: true
+Score: 5-2
+
+Dan Robertson: rng1 = 74 + 4 - 12 + 1 = 67
+rng2 = 75 + 6 - 13 + 1 = 69
+Flyout
+Team 1 pitcher (A'lamar Rogers): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 1
+
+base1: [6,0], base2: [5,0], base3: [4,0]
+base1: true, base2: true, base3: true
+Score: 5-2
+
+Javier Gallardo: rng1 = 11 + 3 - 12 + 1 = 3
+Strikeout
+Team 1 pitcher (A'lamar Rogers): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 2
+
+base1: [6,0], base2: [5,0], base3: [4,0]
+base1: true, base2: true, base3: true
+Score: 5-2
+
+Cody Henderson: rng1 = 49 + 13 - 12 + 1 = 51
+rng2 = 62 + 13 - 13 + 1 = 63
+Flyout
+Team 1 pitcher (A'lamar Rogers): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-2
+
+-----------------------
+
+TOP INNING 5
+
+Team 2 pitcher change to Craig Valencis
+
+Jaz Eaton: rng1 = 11 + 12 - 6 - 1 = 16
+Strikeout
+Team 2 pitcher (Craig Valencis): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-2
+
+Efraim Agramonte: rng1 = 87 + 11 - 6 - 1 = 91
+rng2 = 68 + 9 - 7 - 1 = 69
+Double
+Team 2 pitcher (Craig Valencis): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [2,1], base3: false
+base1: false, base2: true, base3: false
+Score: 5-2
+
+Sean Lee: rng1 = 41 + 11 - 6 - 1 = 45
+rng2 = 92 + 10 - 7 - 1 = 94
+Flyout
+Team 2 pitcher (Craig Valencis): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: [2,1]
+base1: false, base2: false, base3: true
+Score: 5-2
+
+Anthony Davila: rng1 = 30 + 7 - 6 - 1 = 30
+rng2 = 40 + 9 - 7 - 1 = 41
+Groundout
+Team 2 pitcher (Craig Valencis): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-2
+
+-----------------------
+
+BOTTOM INNING 5
+
+Xavier Washington: rng1 = 39 + 12 - 12 + 1 = 40
+rng2 = 44 + 12 - 13 + 1 = 44
+Groundout
+Team 1 pitcher (A'lamar Rogers): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-2
+
+Dante Leoz: rng1 = 13 + 12 - 12 + 1 = 14
+rng2 = 22 + 11 - 13 + 1 = 21
+Groundout
+Team 1 pitcher (A'lamar Rogers): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-2
+
+Jadon Mitchell: rng1 = 83 + 12 - 12 + 1 = 84
+rng2 = 3 + 13 - 13 + 1 = 4
+Single
+Team 1 pitcher (A'lamar Rogers): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-2
+
+Kieran Byrne: rng1 = 58 + 14 - 12 + 1 = 61
+rng2 = 87 + 12 - 13 + 1 = 87
+Flyout
+Team 1 pitcher (A'lamar Rogers): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-2
+
+-----------------------
+
+TOP INNING 6
+
+John Gibson: rng1 = 26 + 9 - 6 - 1 = 28
+Strikeout
+Team 2 pitcher (Craig Valencis): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-2
+
+Adrián Noboa: rng1 = 28 + 6 - 6 - 1 = 27
+Strikeout
+Team 2 pitcher (Craig Valencis): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-2
+
+César Botín: rng1 = 58 + 8 - 6 - 1 = 59
+rng2 = 3 + 5 - 7 - 1 = 0
+Groundout
+Team 2 pitcher (Craig Valencis): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-2
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Kirk Johns
+
+Anthony Bennett: rng1 = 16 + 11 - 10 + 1 = 18
+Strikeout
+Team 1 pitcher (Kirk Johns): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-2
+
+Elliot Hudson: rng1 = 40 + 10 - 10 + 1 = 41
+rng2 = 99 + 9 - 10 + 1 = 99
+Flyout
+Team 1 pitcher (Kirk Johns): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-2
+
+Dan Robertson: rng1 = 35 + 4 - 10 + 1 = 30
+rng2 = 51 + 6 - 10 + 1 = 48
+Lineout
+Team 1 pitcher (Kirk Johns): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-2
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Douglas Bosak
+
+Jesús Alarcón: rng1 = 90 + 4 - 5 - 1 = 88
+Walk
+Team 2 pitcher (Douglas Bosak): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-2
+
+Isaías Juderías: rng1 = 6 + 13 - 5 - 1 = 13
+rng2 = 95 + 12 - 6 - 1 = 100
+Flyout
+Team 2 pitcher (Douglas Bosak): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-2
+
+Jaz Eaton: rng1 = 56 + 12 - 5 - 1 = 62
+rng2 = 81 + 12 - 6 - 1 = 86
+Flyout
+Team 2 pitcher (Douglas Bosak): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-2
+
+Efraim Agramonte: rng1 = 48 + 11 - 5 - 1 = 53
+rng2 = 42 + 9 - 6 - 1 = 44
+Groundout
+Team 2 pitcher (Douglas Bosak): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-2
+
+-----------------------
+
+BOTTOM INNING 7
+
+Javier Gallardo: rng1 = 93 + 3 - 10 + 1 = 87
+Walk
+Team 1 pitcher (Kirk Johns): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-2
+
+Cody Henderson: rng1 = 9 + 13 - 10 + 1 = 13
+rng2 = 4 + 13 - 10 + 1 = 8
+Groundout
+Team 1 pitcher (Kirk Johns): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: [8,1], base3: false
+base1: false, base2: true, base3: false
+Score: 5-2
+
+Xavier Washington: rng1 = 60 + 12 - 10 + 1 = 63
+rng2 = 77 + 12 - 10 + 1 = 80
+Flyout
+Team 1 pitcher (Kirk Johns): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: [8,1], base3: false
+base1: false, base2: true, base3: false
+Score: 5-2
+
+Dante Leoz: rng1 = 85 + 12 - 10 + 1 = 88
+Walk
+Team 1 pitcher (Kirk Johns): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [2,1], base2: [8,1], base3: false
+base1: true, base2: true, base3: false
+Score: 5-2
+
+Jadon Mitchell: rng1 = 22 + 12 - 10 + 1 = 25
+Strikeout
+Team 1 pitcher (Kirk Johns): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-2
+
+-----------------------
+
+TOP INNING 8
+
+Sean Lee: rng1 = 97 + 11 - 5 - 1 = 102
+rng2 = 54 + 10 - 6 - 1 = 57
+Single
+Team 2 pitcher (Douglas Bosak): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [3,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-2
+
+Anthony Davila: rng1 = 51 + 7 - 5 - 1 = 52
+rng2 = 37 + 9 - 6 - 1 = 39
+Groundout
+Team 2 pitcher (Douglas Bosak): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-2
+
+John Gibson: rng1 = 53 + 9 - 5 - 1 = 56
+rng2 = 92 + 6 - 6 - 1 = 91
+Flyout
+Team 2 pitcher (Douglas Bosak): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-2
+
+Adrián Noboa: rng1 = 31 + 6 - 5 - 1 = 31
+rng2 = 7 + 7 - 6 - 1 = 7
+Groundout
+Team 2 pitcher (Douglas Bosak): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-2
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Ghalen Fisher
+
+Kieran Byrne: rng1 = 43 + 14 - 6 + 1 = 52
+rng2 = 98 + 12 - 8 + 1 = 103
+Flyout
+Team 1 pitcher (Ghalen Fisher): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-2
+
+Anthony Bennett: rng1 = 8 + 11 - 6 + 1 = 14
+rng2 = 28 + 12 - 8 + 1 = 33
+Groundout
+Team 1 pitcher (Ghalen Fisher): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-2
+
+Elliot Hudson: rng1 = 77 + 10 - 6 + 1 = 82
+rng2 = 91 + 9 - 8 + 1 = 93
+Triple
+Team 1 pitcher (Ghalen Fisher): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: [6,2]
+base1: false, base2: false, base3: true
+Score: 5-2
+
+Dan Robertson: rng1 = 48 + 4 - 6 + 1 = 47
+rng2 = 96 + 6 - 8 + 1 = 95
+Flyout
+Team 1 pitcher (Ghalen Fisher): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-2
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Foster Roebuck
+
+César Botín: rng1 = 76 + 8 - 8 - 1 = 75
+rng2 = 7 + 5 - 7 - 1 = 4
+Single
+Team 2 pitcher (Foster Roebuck): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [7,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-2
+
+Jesús Alarcón: rng1 = 39 + 4 - 8 - 1 = 34
+rng2 = 27 + 7 - 7 - 1 = 26
+Groundout
+Team 2 pitcher (Foster Roebuck): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [7,3], base3: false
+base1: false, base2: true, base3: false
+Score: 5-2
+
+Isaías Juderías: rng1 = 37 + 13 - 8 - 1 = 41
+rng2 = 5 + 12 - 7 - 1 = 9
+Groundout
+Team 2 pitcher (Foster Roebuck): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [7,3], base3: false
+base1: false, base2: true, base3: false
+Score: 5-2
+
+Jaz Eaton: rng1 = 64 + 12 - 8 - 1 = 67
+rng2 = 66 + 12 - 7 - 1 = 70
+Flyout
+Team 2 pitcher (Foster Roebuck): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-2
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Iván Curbelo
+
+Javier Gallardo: rng1 = 28 + 3 - 13 + 1 = 19
+Strikeout
+Team 1 pitcher (Iván Curbelo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-2
+
+Cody Henderson: rng1 = 35 + 13 - 13 + 1 = 36
+rng2 = 44 + 13 - 14 + 1 = 44
+Groundout
+Team 1 pitcher (Iván Curbelo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-2
+
+Xavier Washington: rng1 = 46 + 12 - 13 + 1 = 46
+rng2 = 68 + 12 - 14 + 1 = 67
+Flyout
+Team 1 pitcher (Iván Curbelo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-2
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 10
+Team 2 hits: 7
+Team 1 runs: 5
+Team 2 runs: 2
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-06-12
+Isaías Juderías	5	1	1	0	0	0	1	0	2					San Francisco
+Jaz Eaton	5	1	2	0	0	1	2	0	1	
+Efraim Agramonte	4	0	2	1	0	0	1	0	0	
+Sean Lee	4	0	1	0	0	0	0	0	0	
+Anthony Davila	4	0	0	0	0	0	0	0	0	
+John Gibson	4	1	1	0	0	1	1	0	1	
+Adrián Noboa	4	0	0	0	0	0	0	0	1	
+César Botín	4	1	2	0	0	0	0	0	0	
+Jesús Alarcón	3	1	1	0	0	0	0	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+A'lamar Rogers	1	0	1	1	0	0	15	6	2	0	3	2	23	
+Kirk Johns	0	0	1	0	0	0	6	0	0	0	2	2	8	
+Ghalen Fisher	0	0	1	0	0	0	3	1	0	0	0	0	4	
+Pae Kwang-Min	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Iván Curbelo	0	0	1	0	1	1	3	0	0	0	0	1	3	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-06-12
+Cody Henderson	5	0	1	0	0	0	0	0	0					Houston
+Xavier Washington	5	0	0	0	0	0	1	0	0	
+Dante Leoz	3	0	1	1	0	0	0	1	0	
+Jadon Mitchell	4	1	2	0	0	0	0	0	1	
+Kieran Byrne	3	0	0	0	0	0	0	1	1	
+Anthony Bennett	3	0	0	0	0	0	0	1	1	
+Elliot Hudson	3	0	1	0	1	0	1	1	0	
+Dan Robertson	4	1	1	0	0	0	0	0	0	
+Javier Gallardo	3	0	1	0	0	0	0	1	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Francisco Garcia	0	1	1	1	0	0	12	7	5	2	0	3	19	
+Craig Valencis	0	0	1	0	0	0	6	1	0	0	0	3	7	
+Douglas Bosak	0	0	1	0	0	0	6	1	0	0	1	0	8	
+Foster Roebuck	0	0	1	0	0	0	3	1	0	0	0	0	4	
+Gideon Giles	0	0	0	0	0	0	0	0	0	0	0	0	0	

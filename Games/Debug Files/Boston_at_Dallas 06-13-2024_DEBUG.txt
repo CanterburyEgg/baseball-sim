@@ -1,0 +1,774 @@
+TOP INNING 1
+
+Jorge Gonzalez: rng1 = 92 + 11 - 9 - 1 = 93
+rng2 = 66 + 11 - 7 - 1 = 69
+Double
+Team 2 pitcher (Nick H): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Aiden Hayes: rng1 = 77 + 10 - 9 - 1 = 77
+rng2 = 4 + 11 - 7 - 1 = 7
+Single
+Team 2 pitcher (Nick H): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Aaron Vera: rng1 = 55 + 9 - 9 - 1 = 54
+rng2 = 79 + 8 - 7 - 1 = 79
+Flyout
+Team 2 pitcher (Nick H): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Quillin Grant: rng1 = 96 + 10 - 9 - 1 = 96
+rng2 = 64 + 11 - 7 - 1 = 67
+Double
+Team 2 pitcher (Nick H): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: false, base2: [3,0], base3: [1,0]
+base1: false, base2: true, base3: true
+Score: 1-0
+
+Juan Pearson: rng1 = 91 + 7 - 9 - 1 = 88
+Walk
+Team 2 pitcher (Nick H): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: [4,0], base2: [3,0], base3: [1,0]
+base1: true, base2: true, base3: true
+Score: 1-0
+
+Karsen Welch: rng1 = 83 + 9 - 9 - 1 = 82
+rng2 = 10 + 6 - 7 - 1 = 8
+Single
+Team 2 pitcher (Nick H): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 1
+
+base1: [5,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 3-0
+
+Seamus Tanner: rng1 = 4 + 5 - 9 - 1 = -1
+Strikeout
+Team 2 pitcher (Nick H): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 2
+
+base1: [5,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 3-0
+
+Zyrell Ford: rng1 = 66 + 6 - 9 - 1 = 62
+rng2 = 49 + 5 - 7 - 1 = 46
+Groundout
+Team 2 pitcher (Nick H): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Nick Hamburger: rng1 = 41 + 13 - 14 + 1 = 41
+rng2 = 37 + 12 - 14 + 1 = 36
+Groundout
+Team 1 pitcher (Hayden Rogers): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Finnegan Maxwell: rng1 = 30 + 13 - 14 + 1 = 30
+rng2 = 2 + 15 - 14 + 1 = 4
+Groundout
+Team 1 pitcher (Hayden Rogers): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Angel Gutiérrez: rng1 = 11 + 12 - 14 + 1 = 10
+Strikeout
+Team 1 pitcher (Hayden Rogers): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+TOP INNING 2
+
+Emanuel Gutiérrez: rng1 = 63 + 3 - 9 - 1 = 56
+rng2 = 84 + 6 - 7 - 1 = 82
+Flyout
+Team 2 pitcher (Nick H): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Jorge Gonzalez: rng1 = 80 + 11 - 9 - 1 = 81
+rng2 = 29 + 11 - 7 - 1 = 32
+Single
+Team 2 pitcher (Nick H): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Aiden Hayes: rng1 = 22 + 10 - 9 - 1 = 22
+Strikeout
+Team 2 pitcher (Nick H): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Aaron Vera: rng1 = 25 + 9 - 9 - 1 = 24
+Strikeout
+Team 2 pitcher (Nick H): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Bailey Myers-Morgan: rng1 = 5 + 10 - 14 + 1 = 2
+Strikeout
+Team 1 pitcher (Hayden Rogers): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Chris Barber: rng1 = 89 + 10 - 14 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Hayden Rogers): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Alejandro Munoz: rng1 = 29 + 4 - 14 + 1 = 20
+Strikeout
+Team 1 pitcher (Hayden Rogers): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Emiliano Costa: rng1 = 98 + 6 - 14 + 1 = 91
+rng2 = 47 + 8 - 14 + 1 = 42
+Single
+Team 1 pitcher (Hayden Rogers): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [6,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-0
+
+Casey Myers-Morgan: rng1 = 81 + 7 - 14 + 1 = 75
+rng2 = 21 + 7 - 14 + 1 = 15
+Single
+Team 1 pitcher (Hayden Rogers): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-1
+
+Santino Alcantara: rng1 = 17 + 5 - 14 + 1 = 9
+Strikeout
+Team 1 pitcher (Hayden Rogers): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+TOP INNING 3
+
+Quillin Grant: rng1 = 27 + 10 - 9 - 1 = 27
+Strikeout
+Team 2 pitcher (Nick H): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Juan Pearson: rng1 = 55 + 7 - 9 - 1 = 52
+rng2 = 5 + 8 - 7 - 1 = 5
+Groundout
+Team 2 pitcher (Nick H): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Karsen Welch: rng1 = 68 + 9 - 9 - 1 = 67
+rng2 = 52 + 6 - 7 - 1 = 50
+Lineout
+Team 2 pitcher (Nick H): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Nick Hamburger: rng1 = 20 + 13 - 14 + 1 = 20
+Strikeout
+Team 1 pitcher (Hayden Rogers): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Finnegan Maxwell: rng1 = 65 + 13 - 14 + 1 = 65
+rng2 = 99 + 15 - 14 + 1 = 101
+Flyout
+Team 1 pitcher (Hayden Rogers): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Angel Gutiérrez: rng1 = 82 + 12 - 14 + 1 = 81
+rng2 = 100 + 14 - 14 + 1 = 101
+Home run
+Team 1 pitcher (Hayden Rogers): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Bailey Myers-Morgan: rng1 = 43 + 10 - 14 + 1 = 40
+rng2 = 37 + 11 - 14 + 1 = 35
+Groundout
+Team 1 pitcher (Hayden Rogers): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+TOP INNING 4
+
+Seamus Tanner: rng1 = 66 + 5 - 9 - 1 = 61
+rng2 = 53 + 7 - 7 - 1 = 52
+Lineout
+Team 2 pitcher (Nick H): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Zyrell Ford: rng1 = 25 + 6 - 9 - 1 = 21
+Strikeout
+Team 2 pitcher (Nick H): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Emanuel Gutiérrez: rng1 = 98 + 3 - 9 - 1 = 91
+rng2 = 9 + 6 - 7 - 1 = 7
+Single
+Team 2 pitcher (Nick H): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Jorge Gonzalez: rng1 = 48 + 11 - 9 - 1 = 49
+rng2 = 39 + 11 - 7 - 1 = 42
+Groundout
+Team 2 pitcher (Nick H): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+BOTTOM INNING 4
+
+Chris Barber: rng1 = 78 + 10 - 14 + 1 = 75
+rng2 = 26 + 8 - 14 + 1 = 21
+Single
+Team 1 pitcher (Hayden Rogers): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Alejandro Munoz: rng1 = 11 + 4 - 14 + 1 = 2
+Strikeout
+Team 1 pitcher (Hayden Rogers): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Emiliano Costa: rng1 = 66 + 6 - 14 + 1 = 59
+rng2 = 64 + 8 - 14 + 1 = 59
+Flyout
+Team 1 pitcher (Hayden Rogers): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Casey Myers-Morgan: rng1 = 55 + 7 - 14 + 1 = 49
+rng2 = 33 + 7 - 14 + 1 = 27
+Groundout
+Team 1 pitcher (Hayden Rogers): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+TOP INNING 5
+
+Aiden Hayes: rng1 = 34 + 10 - 9 - 1 = 34
+rng2 = 25 + 11 - 7 - 1 = 28
+Groundout
+Team 2 pitcher (Nick H): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Aaron Vera: rng1 = 29 + 9 - 9 - 1 = 28
+Strikeout
+Team 2 pitcher (Nick H): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Quillin Grant: rng1 = 47 + 10 - 9 - 1 = 47
+rng2 = 11 + 11 - 7 - 1 = 14
+Groundout
+Team 2 pitcher (Nick H): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+BOTTOM INNING 5
+
+Santino Alcantara: rng1 = 98 + 5 - 14 + 1 = 90
+Walk
+Team 1 pitcher (Hayden Rogers): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Nick Hamburger: rng1 = 38 + 13 - 14 + 1 = 38
+rng2 = 66 + 12 - 14 + 1 = 65
+Flyout
+Team 1 pitcher (Hayden Rogers): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Finnegan Maxwell: rng1 = 19 + 13 - 14 + 1 = 19
+Strikeout
+Team 1 pitcher (Hayden Rogers): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Angel Gutiérrez: rng1 = 45 + 12 - 14 + 1 = 44
+rng2 = 21 + 14 - 14 + 1 = 22
+Groundout
+Team 1 pitcher (Hayden Rogers): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Abel Vera
+
+Juan Pearson: rng1 = 90 + 7 - 11 - 1 = 85
+rng2 = 54 + 8 - 8 - 1 = 53
+Single
+Team 2 pitcher (Abel Vera): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Karsen Welch: rng1 = 85 + 9 - 11 - 1 = 82
+rng2 = 4 + 6 - 8 - 1 = 1
+Single
+Team 2 pitcher (Abel Vera): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [5,1], base2: false, base3: [4,1]
+base1: true, base2: false, base3: true
+Score: 3-2
+
+Seamus Tanner: rng1 = 23 + 5 - 11 - 1 = 16
+Strikeout
+Team 2 pitcher (Abel Vera): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [5,1], base2: false, base3: [4,1]
+base1: true, base2: false, base3: true
+Score: 3-2
+
+Zyrell Ford: rng1 = 21 + 6 - 11 - 1 = 15
+rng2 = 85 + 5 - 8 - 1 = 81
+Flyout
+Team 2 pitcher (Abel Vera): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-2
+
+Emanuel Gutiérrez: rng1 = 30 + 3 - 11 - 1 = 21
+Strikeout
+Team 2 pitcher (Abel Vera): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-2
+
+-----------------------
+
+BOTTOM INNING 6
+
+Bailey Myers-Morgan: rng1 = 89 + 10 - 14 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Hayden Rogers): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-2
+
+Chris Barber: rng1 = 99 + 10 - 14 + 1 = 96
+rng2 = 24 + 8 - 14 + 1 = 19
+Single
+Team 1 pitcher (Hayden Rogers): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 0
+
+base1: [4,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 4-2
+
+Alejandro Munoz: rng1 = 66 + 4 - 14 + 1 = 57
+rng2 = 16 + 10 - 14 + 1 = 13
+Groundout
+Team 1 pitcher (Hayden Rogers): 24 batters faced, 3 runs allowed = 24 + 7.5 = 31.5, outs: 1
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-3
+
+Emiliano Costa: rng1 = 96 + 6 - 14 + 1 = 89
+Walk
+Team 1 pitcher (Hayden Rogers): 25 batters faced, 3 runs allowed = 25 + 7.5 = 32.5, outs: 1
+
+base1: [6,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 4-3
+
+Casey Myers-Morgan: rng1 = 22 + 7 - 14 + 1 = 16
+Strikeout
+Team 1 pitcher (Hayden Rogers): 26 batters faced, 3 runs allowed = 26 + 7.5 = 33.5, outs: 2
+
+base1: [6,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 4-3
+
+Santino Alcantara: rng1 = 35 + 5 - 14 + 1 = 27
+Strikeout
+Team 1 pitcher (Hayden Rogers): 27 batters faced, 3 runs allowed = 27 + 7.5 = 34.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Sergio Narvaez
+
+Jorge Gonzalez: rng1 = 76 + 11 - 13 - 1 = 73
+rng2 = 6 + 11 - 12 - 1 = 4
+Single
+Team 2 pitcher (Sergio Narvaez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Aiden Hayes: rng1 = 93 + 10 - 13 - 1 = 89
+Walk
+Team 2 pitcher (Sergio Narvaez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,2], base2: [0,2], base3: false
+base1: true, base2: true, base3: false
+Score: 4-3
+
+Aaron Vera: rng1 = 8 + 9 - 13 - 1 = 3
+Strikeout
+Team 2 pitcher (Sergio Narvaez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [1,2], base2: [0,2], base3: false
+base1: true, base2: true, base3: false
+Score: 4-3
+
+Quillin Grant: rng1 = 27 + 10 - 13 - 1 = 23
+Strikeout
+Team 2 pitcher (Sergio Narvaez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [1,2], base2: [0,2], base3: false
+base1: true, base2: true, base3: false
+Score: 4-3
+
+Juan Pearson: rng1 = 90 + 7 - 13 - 1 = 83
+rng2 = 5 + 8 - 12 - 1 = 0
+Single
+Team 2 pitcher (Sergio Narvaez): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [4,2], base2: false, base3: [1,2]
+base1: true, base2: false, base3: true
+Score: 5-3
+
+Karsen Welch: rng1 = 16 + 9 - 13 - 1 = 11
+rng2 = 76 + 6 - 12 - 1 = 69
+Flyout
+Team 2 pitcher (Sergio Narvaez): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Rob Bowman
+
+Nick Hamburger: rng1 = 88 + 13 - 9 + 1 = 93
+rng2 = 89 + 12 - 11 + 1 = 91
+Double
+Team 1 pitcher (Rob Bowman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [0,1], base3: false
+base1: false, base2: true, base3: false
+Score: 5-3
+
+Finnegan Maxwell: rng1 = 1 + 13 - 9 + 1 = 6
+Strikeout
+Team 1 pitcher (Rob Bowman): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [0,1], base3: false
+base1: false, base2: true, base3: false
+Score: 5-3
+
+Angel Gutiérrez: rng1 = 61 + 12 - 9 + 1 = 65
+rng2 = 84 + 14 - 11 + 1 = 88
+Flyout
+Team 1 pitcher (Rob Bowman): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: [0,1]
+base1: false, base2: false, base3: true
+Score: 5-3
+
+Bailey Myers-Morgan: rng1 = 26 + 10 - 9 + 1 = 28
+Strikeout
+Team 1 pitcher (Rob Bowman): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Dylan Werth
+
+Seamus Tanner: rng1 = 11 + 5 - 13 - 1 = 2
+Strikeout
+Team 2 pitcher (Dylan Werth): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Zyrell Ford: rng1 = 43 + 6 - 13 - 1 = 35
+rng2 = 58 + 5 - 10 - 1 = 52
+Lineout
+Team 2 pitcher (Dylan Werth): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Emanuel Gutiérrez: rng1 = 80 + 3 - 13 - 1 = 69
+rng2 = 84 + 6 - 10 - 1 = 79
+Flyout
+Team 2 pitcher (Dylan Werth): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+BOTTOM INNING 8
+
+Chris Barber: rng1 = 91 + 10 - 9 + 1 = 93
+rng2 = 96 + 8 - 11 + 1 = 94
+Home run
+Team 1 pitcher (Rob Bowman): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Alejandro Munoz: rng1 = 33 + 4 - 9 + 1 = 29
+rng2 = 90 + 10 - 11 + 1 = 90
+Flyout
+Team 1 pitcher (Rob Bowman): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Emiliano Costa: rng1 = 59 + 6 - 9 + 1 = 57
+rng2 = 3 + 8 - 11 + 1 = 1
+Groundout
+Team 1 pitcher (Rob Bowman): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Casey Myers-Morgan: rng1 = 9 + 7 - 9 + 1 = 8
+Strikeout
+Team 1 pitcher (Rob Bowman): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-4
+
+-----------------------
+
+TOP INNING 9
+
+Jorge Gonzalez: rng1 = 96 + 11 - 13 - 1 = 93
+rng2 = 37 + 11 - 10 - 1 = 37
+Single
+Team 2 pitcher (Dylan Werth): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [0,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-4
+
+Aiden Hayes: rng1 = 70 + 10 - 13 - 1 = 66
+rng2 = 44 + 11 - 10 - 1 = 44
+Groundout
+Team 2 pitcher (Dylan Werth): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: [0,3], base3: false
+base1: false, base2: true, base3: false
+Score: 5-4
+
+Aaron Vera: rng1 = 30 + 9 - 13 - 1 = 25
+Strikeout
+Team 2 pitcher (Dylan Werth): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: [0,3], base3: false
+base1: false, base2: true, base3: false
+Score: 5-4
+
+Quillin Grant: rng1 = 29 + 10 - 13 - 1 = 25
+Strikeout
+Team 2 pitcher (Dylan Werth): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-4
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Emilio Aguilar
+
+Santino Alcantara: rng1 = 31 + 5 - 10 + 1 = 27
+Strikeout
+Team 1 pitcher (Emilio Aguilar): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Nick Hamburger: rng1 = 32 + 13 - 10 + 1 = 36
+rng2 = 94 + 12 - 10 + 1 = 97
+Flyout
+Team 1 pitcher (Emilio Aguilar): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Finnegan Maxwell: rng1 = 17 + 13 - 10 + 1 = 21
+Strikeout
+Team 1 pitcher (Emilio Aguilar): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-4
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 11
+Team 2 hits: 7
+Team 1 runs: 5
+Team 2 runs: 4
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-06-13
+Jorge Gonzalez	5	2	4	1	0	0	0	0	0					Boston
+Aiden Hayes	4	1	1	0	0	0	0	1	1	
+Aaron Vera	5	0	0	0	0	0	0	0	4	
+Quillin Grant	5	1	1	1	0	0	1	0	3	
+Juan Pearson	3	1	2	0	0	0	1	1	0	
+Karsen Welch	4	0	2	0	0	0	2	0	0	
+Seamus Tanner	4	0	0	0	0	0	0	0	3	
+Zyrell Ford	4	0	0	0	0	0	1	0	1	
+Emanuel Gutiérrez	4	0	1	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Hayden Rogers	1	0	1	1	0	0	18	5	3	1	2	9	27	
+Rob Bowman	0	0	1	0	0	0	6	2	1	1	0	3	8	
+Orlando Otero	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Thomas Barnes	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Emilio Aguilar	0	0	1	0	1	1	3	0	0	0	0	2	3	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-06-13
+Nick Hamburger	5	0	1	1	0	0	0	0	1					Dallas
+Finnegan Maxwell	5	0	0	0	0	0	0	0	3	
+Angel Gutiérrez	4	1	1	0	0	1	1	0	1	
+Bailey Myers-Morgan	3	1	0	0	0	0	0	0	2	
+Chris Barber	3	2	3	0	0	1	1	0	0	
+Alejandro Munoz	4	0	0	0	0	0	1	0	2	
+Emiliano Costa	3	0	1	0	0	0	0	1	0	
+Casey Myers-Morgan	4	0	1	0	0	0	1	0	2	
+Santino Alcantara	3	0	0	0	0	0	0	1	3	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Nick H	0	1	1	1	0	0	15	6	3	0	1	6	22	
+Abel Vera	0	0	1	0	0	0	3	2	1	0	0	2	5	
+Sergio Narvaez	0	0	1	0	0	0	3	2	1	0	1	2	6	
+Dylan Werth	0	0	1	0	0	0	6	1	0	0	0	3	7	
+Seno Mashiro	0	0	0	0	0	0	0	0	0	0	0	0	0	

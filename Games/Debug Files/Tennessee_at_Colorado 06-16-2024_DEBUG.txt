@@ -1,0 +1,800 @@
+TOP INNING 1
+
+Oscar Pierce: rng1 = 84 + 12 - 9 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Rory Joyce): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Christian Mendez: rng1 = 68 + 9 - 9 - 1 = 67
+rng2 = 12 + 8 - 7 - 1 = 12
+Groundout
+Team 2 pitcher (Rory Joyce): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Jason Burress: rng1 = 61 + 8 - 9 - 1 = 59
+rng2 = 11 + 7 - 7 - 1 = 10
+Groundout
+Team 2 pitcher (Rory Joyce): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Trace Spears: rng1 = 94 + 6 - 9 - 1 = 90
+Walk
+Team 2 pitcher (Rory Joyce): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [3,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Owen Williamson: rng1 = 90 + 4 - 9 - 1 = 84
+rng2 = 58 + 10 - 7 - 1 = 60
+Single
+Team 2 pitcher (Rory Joyce): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: [4,0], base2: [3,0], base3: [0,0]
+base1: true, base2: true, base3: true
+Score: 0-0
+
+Gary Miller: rng1 = 94 + 5 - 9 - 1 = 89
+Walk
+Team 2 pitcher (Rory Joyce): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: [5,0], base2: [4,0], base3: [3,0]
+base1: true, base2: true, base3: true
+Score: 1-0
+
+Esteban Obregón: rng1 = 70 + 7 - 9 - 1 = 67
+rng2 = 56 + 7 - 7 - 1 = 55
+Lineout
+Team 2 pitcher (Rory Joyce): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Hiro Hakayawa: rng1 = 28 + 11 - 9 + 1 = 31
+rng2 = 67 + 14 - 7 + 1 = 75
+Flyout
+Team 1 pitcher (Zaiden Payne): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Alfredo Encarnacion: rng1 = 76 + 11 - 9 + 1 = 79
+rng2 = 41 + 11 - 7 + 1 = 46
+Single
+Team 1 pitcher (Zaiden Payne): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Guillermo Tamayo: rng1 = 90 + 11 - 9 + 1 = 93
+rng2 = 66 + 6 - 7 + 1 = 66
+Double
+Team 1 pitcher (Zaiden Payne): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Micah Zamora: rng1 = 83 + 5 - 9 + 1 = 80
+rng2 = 14 + 11 - 7 + 1 = 19
+Single
+Team 1 pitcher (Zaiden Payne): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Youngwe Park: rng1 = 92 + 11 - 9 + 1 = 95
+rng2 = 62 + 10 - 7 + 1 = 66
+Double
+Team 1 pitcher (Zaiden Payne): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 1
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-3
+
+Zachary Hughes: rng1 = 21 + 10 - 9 + 1 = 23
+Strikeout
+Team 1 pitcher (Zaiden Payne): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-3
+
+Alex Diaz: rng1 = 31 + 10 - 9 + 1 = 33
+rng2 = 20 + 6 - 7 + 1 = 20
+Groundout
+Team 1 pitcher (Zaiden Payne): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 2
+
+Kugo Ryutaro: rng1 = 60 + 9 - 9 - 1 = 59
+rng2 = 10 + 5 - 7 - 1 = 7
+Groundout
+Team 2 pitcher (Rory Joyce): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Jorge Donald: rng1 = 83 + 4 - 9 - 1 = 77
+rng2 = 49 + 8 - 7 - 1 = 49
+Single
+Team 2 pitcher (Rory Joyce): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Oscar Pierce: rng1 = 45 + 12 - 9 - 1 = 47
+rng2 = 51 + 6 - 7 - 1 = 49
+Lineout
+Team 2 pitcher (Rory Joyce): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Christian Mendez: rng1 = 32 + 9 - 9 - 1 = 31
+rng2 = 27 + 8 - 7 - 1 = 27
+Groundout
+Team 2 pitcher (Rory Joyce): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+BOTTOM INNING 2
+
+Enrique Holmes: rng1 = 47 + 5 - 9 + 1 = 44
+rng2 = 87 + 5 - 7 + 1 = 86
+Flyout
+Team 1 pitcher (Zaiden Payne): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Felix Alarcón: rng1 = 91 + 5 - 9 + 1 = 88
+Walk
+Team 1 pitcher (Zaiden Payne): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Hiro Hakayawa: rng1 = 94 + 11 - 9 + 1 = 97
+rng2 = 87 + 14 - 7 + 1 = 95
+Home run
+Team 1 pitcher (Zaiden Payne): 10 batters faced, 5 runs allowed = 10 + 12.5 = 22.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Alfredo Encarnacion: rng1 = 20 + 11 - 9 + 1 = 23
+Strikeout
+Team 1 pitcher (Zaiden Payne): 11 batters faced, 5 runs allowed = 11 + 12.5 = 23.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Guillermo Tamayo: rng1 = 31 + 11 - 9 + 1 = 34
+rng2 = 90 + 6 - 7 + 1 = 90
+Flyout
+Team 1 pitcher (Zaiden Payne): 12 batters faced, 5 runs allowed = 12 + 12.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+TOP INNING 3
+
+Jason Burress: rng1 = 91 + 8 - 9 - 1 = 89
+Walk
+Team 2 pitcher (Rory Joyce): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 0
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Trace Spears: rng1 = 51 + 6 - 9 - 1 = 47
+rng2 = 19 + 10 - 7 - 1 = 21
+Groundout
+Team 2 pitcher (Rory Joyce): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-5
+
+Owen Williamson: rng1 = 2 + 4 - 9 - 1 = -4
+Strikeout
+Team 2 pitcher (Rory Joyce): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-5
+
+Gary Miller: rng1 = 41 + 5 - 9 - 1 = 36
+rng2 = 94 + 9 - 7 - 1 = 95
+Flyout
+Team 2 pitcher (Rory Joyce): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+BOTTOM INNING 3
+
+Micah Zamora: rng1 = 73 + 5 - 9 + 1 = 70
+Walk
+Team 1 pitcher (Zaiden Payne): 13 batters faced, 5 runs allowed = 13 + 12.5 = 25.5, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Youngwe Park: rng1 = 94 + 11 - 9 + 1 = 97
+rng2 = 37 + 10 - 7 + 1 = 41
+Single
+Team 1 pitcher (Zaiden Payne): 14 batters faced, 5 runs allowed = 14 + 12.5 = 26.5, outs: 0
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-5
+
+Zachary Hughes: rng1 = 16 + 10 - 9 + 1 = 18
+Strikeout
+Team 1 pitcher (Zaiden Payne): 15 batters faced, 5 runs allowed = 15 + 12.5 = 27.5, outs: 1
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-5
+
+Alex Diaz: rng1 = 4 + 10 - 9 + 1 = 6
+Strikeout
+Team 1 pitcher (Zaiden Payne): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 2
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-5
+
+Enrique Holmes: rng1 = 81 + 5 - 9 + 1 = 78
+rng2 = 32 + 5 - 7 + 1 = 31
+Single
+Team 1 pitcher (Zaiden Payne): 17 batters faced, 6 runs allowed = 17 + 15.0 = 32.0, outs: 2
+
+base1: [7,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-6
+
+Felix Alarcón: rng1 = 9 + 5 - 9 + 1 = 6
+Strikeout
+Team 1 pitcher (Zaiden Payne): 18 batters faced, 6 runs allowed = 18 + 15.0 = 33.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 4
+
+Esteban Obregón: rng1 = 91 + 7 - 9 - 1 = 88
+Walk
+Team 2 pitcher (Rory Joyce): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Kugo Ryutaro: rng1 = 70 + 9 - 9 - 1 = 69
+rng2 = 31 + 5 - 7 - 1 = 28
+Groundout
+Team 2 pitcher (Rory Joyce): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 1
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-6
+
+Jorge Donald: rng1 = 24 + 4 - 9 - 1 = 18
+Strikeout
+Team 2 pitcher (Rory Joyce): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 2
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-6
+
+Oscar Pierce: rng1 = 78 + 12 - 9 - 1 = 80
+rng2 = 55 + 6 - 7 - 1 = 53
+Single
+Team 2 pitcher (Rory Joyce): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-6
+
+Christian Mendez: rng1 = 60 + 9 - 9 - 1 = 59
+rng2 = 54 + 8 - 7 - 1 = 54
+Lineout
+Team 2 pitcher (Rory Joyce): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-6
+
+-----------------------
+
+BOTTOM INNING 4
+
+Team 1 pitcher change to Agustin Acosta
+
+Hiro Hakayawa: rng1 = 29 + 11 - 7 + 1 = 34
+rng2 = 37 + 14 - 7 + 1 = 45
+Groundout
+Team 1 pitcher (Agustin Acosta): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-6
+
+Alfredo Encarnacion: rng1 = 50 + 11 - 7 + 1 = 55
+rng2 = 98 + 11 - 7 + 1 = 103
+Flyout
+Team 1 pitcher (Agustin Acosta): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-6
+
+Guillermo Tamayo: rng1 = 16 + 11 - 7 + 1 = 21
+Strikeout
+Team 1 pitcher (Agustin Acosta): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-6
+
+-----------------------
+
+TOP INNING 5
+
+Jason Burress: rng1 = 75 + 8 - 9 - 1 = 73
+rng2 = 2 + 7 - 7 - 1 = 1
+Single
+Team 2 pitcher (Rory Joyce): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 0
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-6
+
+Trace Spears: rng1 = 56 + 6 - 9 - 1 = 52
+rng2 = 36 + 10 - 7 - 1 = 38
+Groundout
+Team 2 pitcher (Rory Joyce): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-6
+
+Owen Williamson: rng1 = 2 + 4 - 9 - 1 = -4
+Strikeout
+Team 2 pitcher (Rory Joyce): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-6
+
+-----------------------
+
+BOTTOM INNING 5
+
+Micah Zamora: rng1 = 52 + 5 - 7 + 1 = 51
+rng2 = 34 + 11 - 7 + 1 = 39
+Groundout
+Team 1 pitcher (Agustin Acosta): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-6
+
+Youngwe Park: rng1 = 46 + 11 - 7 + 1 = 51
+rng2 = 2 + 10 - 7 + 1 = 6
+Groundout
+Team 1 pitcher (Agustin Acosta): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-6
+
+Zachary Hughes: rng1 = 90 + 10 - 7 + 1 = 94
+rng2 = 54 + 10 - 7 + 1 = 58
+Single
+Team 1 pitcher (Agustin Acosta): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-6
+
+Alex Diaz: rng1 = 30 + 10 - 7 + 1 = 34
+rng2 = 28 + 6 - 7 + 1 = 28
+Groundout
+Team 1 pitcher (Agustin Acosta): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-6
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Julio Carrera
+
+Gary Miller: rng1 = 44 + 5 - 8 - 1 = 40
+rng2 = 27 + 9 - 9 - 1 = 26
+Groundout
+Team 2 pitcher (Julio Carrera): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-6
+
+Esteban Obregón: rng1 = 31 + 7 - 8 - 1 = 29
+rng2 = 10 + 7 - 9 - 1 = 7
+Groundout
+Team 2 pitcher (Julio Carrera): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-6
+
+Kugo Ryutaro: rng1 = 91 + 9 - 8 - 1 = 91
+rng2 = 21 + 5 - 9 - 1 = 16
+Single
+Team 2 pitcher (Julio Carrera): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-6
+
+Jorge Donald: rng1 = 33 + 4 - 8 - 1 = 28
+Strikeout
+Team 2 pitcher (Julio Carrera): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-6
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Hiraoka Yosai
+
+Enrique Holmes: rng1 = 53 + 5 - 10 + 1 = 49
+rng2 = 39 + 5 - 9 + 1 = 36
+Groundout
+Team 1 pitcher (Hiraoka Yosai): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-6
+
+Felix Alarcón: rng1 = 78 + 5 - 10 + 1 = 74
+rng2 = 87 + 5 - 9 + 1 = 84
+Home run
+Team 1 pitcher (Hiraoka Yosai): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Hiro Hakayawa: rng1 = 44 + 11 - 10 + 1 = 46
+rng2 = 4 + 14 - 9 + 1 = 10
+Groundout
+Team 1 pitcher (Hiraoka Yosai): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Alfredo Encarnacion: rng1 = 85 + 11 - 10 + 1 = 87
+Walk
+Team 1 pitcher (Hiraoka Yosai): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-7
+
+Guillermo Tamayo: rng1 = 89 + 11 - 10 + 1 = 91
+rng2 = 95 + 6 - 9 + 1 = 93
+Triple
+Team 1 pitcher (Hiraoka Yosai): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: false, base2: false, base3: [2,2]
+base1: false, base2: false, base3: true
+Score: 2-8
+
+Micah Zamora: rng1 = 13 + 5 - 10 + 1 = 9
+Strikeout
+Team 1 pitcher (Hiraoka Yosai): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-8
+
+-----------------------
+
+TOP INNING 7
+
+Oscar Pierce: rng1 = 22 + 12 - 8 - 1 = 25
+Strikeout
+Team 2 pitcher (Julio Carrera): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-8
+
+Christian Mendez: rng1 = 70 + 9 - 8 - 1 = 70
+Walk
+Team 2 pitcher (Julio Carrera): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-8
+
+Jason Burress: rng1 = 3 + 8 - 8 - 1 = 2
+Strikeout
+Team 2 pitcher (Julio Carrera): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-8
+
+Trace Spears: rng1 = 92 + 6 - 8 - 1 = 89
+Walk
+Team 2 pitcher (Julio Carrera): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [3,1], base2: [1,1], base3: false
+base1: true, base2: true, base3: false
+Score: 2-8
+
+Owen Williamson: rng1 = 57 + 4 - 8 - 1 = 52
+rng2 = 62 + 10 - 9 - 1 = 62
+Flyout
+Team 2 pitcher (Julio Carrera): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-8
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Major Ortiz
+
+Youngwe Park: rng1 = 33 + 11 - 9 + 1 = 36
+rng2 = 85 + 10 - 7 + 1 = 89
+Flyout
+Team 1 pitcher (Major Ortiz): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-8
+
+Zachary Hughes: rng1 = 45 + 10 - 9 + 1 = 47
+rng2 = 46 + 10 - 7 + 1 = 50
+Lineout
+Team 1 pitcher (Major Ortiz): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-8
+
+Alex Diaz: rng1 = 5 + 10 - 9 + 1 = 7
+Strikeout
+Team 1 pitcher (Major Ortiz): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-8
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Amante Harvey
+
+Gary Miller: rng1 = 64 + 5 - 12 - 1 = 56
+rng2 = 53 + 9 - 12 - 1 = 49
+Lineout
+Team 2 pitcher (Amante Harvey): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-8
+
+Esteban Obregón: rng1 = 17 + 7 - 12 - 1 = 11
+rng2 = 7 + 7 - 12 - 1 = 1
+Groundout
+Team 2 pitcher (Amante Harvey): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-8
+
+Kugo Ryutaro: rng1 = 44 + 9 - 12 - 1 = 40
+rng2 = 92 + 5 - 12 - 1 = 84
+Flyout
+Team 2 pitcher (Amante Harvey): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-8
+
+-----------------------
+
+BOTTOM INNING 8
+
+Enrique Holmes: rng1 = 87 + 5 - 9 + 1 = 84
+rng2 = 32 + 5 - 7 + 1 = 31
+Single
+Team 1 pitcher (Major Ortiz): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [7,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-8
+
+Felix Alarcón: rng1 = 95 + 5 - 9 + 1 = 92
+rng2 = 30 + 5 - 7 + 1 = 29
+Single
+Team 1 pitcher (Major Ortiz): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [8,3], base2: [7,3], base3: false
+base1: true, base2: true, base3: false
+Score: 2-8
+
+Hiro Hakayawa: rng1 = 80 + 11 - 9 + 1 = 83
+rng2 = 46 + 14 - 7 + 1 = 54
+Single
+Team 1 pitcher (Major Ortiz): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 0
+
+base1: [0,3], base2: [8,3], base3: [7,3]
+base1: true, base2: true, base3: true
+Score: 2-8
+
+Alfredo Encarnacion: rng1 = 94 + 11 - 9 + 1 = 97
+rng2 = 50 + 11 - 7 + 1 = 55
+Single
+Team 1 pitcher (Major Ortiz): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 0
+
+base1: [1,3], base2: [0,3], base3: [8,3]
+base1: true, base2: true, base3: true
+Score: 2-9
+
+Guillermo Tamayo: rng1 = 62 + 11 - 9 + 1 = 65
+rng2 = 90 + 6 - 7 + 1 = 90
+Flyout
+Team 1 pitcher (Major Ortiz): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 1
+
+base1: [1,3], base2: [0,3], base3: false
+base1: true, base2: true, base3: false
+Score: 2-10
+
+Team 1 pitcher change to Matias Rivera
+
+Micah Zamora: rng1 = 82 + 5 - 9 + 1 = 79
+rng2 = 34 + 11 - 12 + 1 = 34
+Single
+Team 1 pitcher (Matias Rivera): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: [3,4], base2: false, base3: [1,3]
+base1: true, base2: false, base3: true
+Score: 2-11
+
+Youngwe Park: rng1 = 40 + 11 - 9 + 1 = 43
+rng2 = 10 + 10 - 12 + 1 = 9
+Groundout
+Team 1 pitcher (Matias Rivera): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: [3,4], base3: [1,3]
+base1: false, base2: true, base3: true
+Score: 2-11
+
+Zachary Hughes: rng1 = 59 + 10 - 9 + 1 = 61
+rng2 = 56 + 10 - 12 + 1 = 55
+Lineout
+Team 1 pitcher (Matias Rivera): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-11
+
+-----------------------
+
+TOP INNING 9
+
+Jorge Donald: rng1 = 23 + 4 - 12 - 1 = 14
+rng2 = 44 + 8 - 12 - 1 = 39
+Groundout
+Team 2 pitcher (Amante Harvey): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-11
+
+Oscar Pierce: rng1 = 86 + 12 - 12 - 1 = 85
+rng2 = 55 + 6 - 12 - 1 = 48
+Single
+Team 2 pitcher (Amante Harvey): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [0,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-11
+
+Christian Mendez: rng1 = 73 + 9 - 12 - 1 = 69
+rng2 = 31 + 8 - 12 - 1 = 26
+Groundout
+Team 2 pitcher (Amante Harvey): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-11
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 6
+Team 2 hits: 15
+Team 1 runs: 2
+Team 2 runs: 11
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-06-16
+Oscar Pierce	4	1	2	0	0	0	1	0	1					Tennessee
+Christian Mendez	4	0	0	0	0	0	0	1	0	
+Jason Burress	3	0	1	0	0	0	0	1	1	
+Trace Spears	2	0	0	0	0	0	0	2	0	
+Owen Williamson	4	0	1	0	0	0	0	0	2	
+Gary Miller	3	0	0	0	0	0	1	1	0	
+Esteban Obregón	3	1	0	0	0	0	0	1	0	
+Kugo Ryutaro	4	0	1	0	0	0	0	0	0	
+Jorge Donald	4	0	1	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Zaiden Payne	0	1	1	1	0	0	9	7	6	1	2	5	18	
+Agustin Acosta	0	0	1	0	0	0	6	1	0	0	0	1	7	
+Hiraoka Yosai	0	0	1	0	0	0	3	2	2	1	1	1	6	
+Major Ortiz	0	0	1	0	0	0	4	4	3	0	0	1	8	
+Matias Rivera	0	0	1	0	0	0	2	1	0	0	0	0	3	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					2024-06-16
+Hiro Hakayawa	5	2	2	0	0	1	2	0	0					Colorado
+Alfredo Encarnacion	4	2	2	0	0	0	1	1	1	
+Guillermo Tamayo	5	1	2	1	1	0	3	0	1	
+Micah Zamora	4	2	2	0	0	0	2	1	1	
+Youngwe Park	5	0	2	1	0	0	1	0	0	
+Zachary Hughes	5	0	1	0	0	0	0	0	2	
+Alex Diaz	4	0	0	0	0	0	0	0	2	
+Enrique Holmes	4	1	2	0	0	0	1	0	0	
+Felix Alarcón	3	3	2	0	0	1	1	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Rory Joyce	1	0	1	1	0	0	15	4	2	0	4	3	23	
+Julio Carrera	0	0	1	0	0	0	6	1	0	0	2	3	9	
+Amante Harvey	0	0	1	0	0	0	6	1	0	0	0	0	6	
+Lyndon Perell	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Marquis Haynes	0	0	0	0	0	0	0	0	0	0	0	0	0	

@@ -4,12 +4,14 @@ import java.text.SimpleDateFormat;
 import java.text.DecimalFormat;
 import java.util.*;
 import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
 
 public class GameGenerator 
 {
 	public static PrintWriter gameOutput = null, gameDebug = null, statCompendium = null, finalScores = null;
 	public static boolean printingStats = false, updatingTeams = true, writing = true;
 	public static int tracker = 0;
+	public static String date, tmpComp = "", compendiumText = "";
 	
 	public static void main(String[] args) throws FileNotFoundException
 	{
@@ -38,7 +40,10 @@ public class GameGenerator
 			}
 			else
 			{
-				playGame(args[1], args[2], false);				
+				LocalDate today = LocalDate.now();
+				DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd-LLL-yyyy");
+				date = today.format(formatter);
+				playGame(args[1], args[2], false);
 			}
 		}
 		else if (args[0].equals("scheduleSim"))
@@ -64,11 +69,14 @@ public class GameGenerator
 				while (inputFile.hasNext())
 				{
 					String matchup = inputFile.nextLine();
-					String[] teams = matchup.split("\t");
+					String[] inputs = matchup.split("\t");
 
-					playGame(teams[0], teams[1], true);
-					statCompendium.println("");
+					date = inputs[2];
+					playGame(inputs[0], inputs[1], true);
+					tmpComp = "";
 				}
+
+				statCompendium.println(compendiumText);
 
 				inputFile.close();
 				statCompendium.close();
@@ -152,22 +160,19 @@ public class GameGenerator
 
 		t1 = "Teams/" + t1arg + ".txt";
 		t2 = "Teams/" + t2arg + ".txt";
-		
-		DateFormat df = new SimpleDateFormat("MM-dd-yyyy");
-		Date date = new Date();
 
 		try {
 			if (compilingStats && writing)
 			{
-				gameOutput = new PrintWriter("Games/" + t1arg + "_at_" + t2arg + "_" + df.format(date) + "_" + tracker + ".txt");
-				gameDebug = new PrintWriter("Games/Debug Files/" + t1arg + "_at_" + t2arg + "_" + df.format(date) + "_" + tracker + "_DEBUG.txt");
+				gameOutput = new PrintWriter("Games/" + t1arg + "_at_" + t2arg + "_" + date + "_" + tracker + ".txt");
+				gameDebug = new PrintWriter("Games/Debug Files/" + t1arg + "_at_" + t2arg + "_" + date + "_" + tracker + "_DEBUG.txt");
 
 				tracker++;
 			}
 			else if (writing)
 			{
-				gameOutput = new PrintWriter("Games/" + t1arg + "_at_" + t2arg + " " + df.format(date) + ".txt");
-				gameDebug = new PrintWriter("Games/Debug Files/" + t1arg + "_at_" + t2arg + " " + df.format(date) + "_DEBUG.txt");
+				gameOutput = new PrintWriter("Games/" + t1arg + "_at_" + t2arg + " " + date + ".txt");
+				gameDebug = new PrintWriter("Games/Debug Files/" + t1arg + "_at_" + t2arg + " " + date + "_DEBUG.txt");
 			}
 		} catch (IOException e)
 		{
@@ -2962,7 +2967,7 @@ public class GameGenerator
 						finalScores.println(runs1 + "\t" + t1arg + "\t@\t" + t2arg + "\t" + runs2);
 					}
 
-					FullPrintLine("Player\tAB\tR\tH\t2B\t3B\tHR\tRBI\tBB\tSO\t\t\t\t\t" + LocalDate.now());
+					FullPrintLine("Player\tAB\tR\tH\t2B\t3B\tHR\tRBI\tBB\tSO\t\t\t\t\t" + date);
 					
 					for (int i = 0; i < team1.length; i++)
 					{
@@ -2990,7 +2995,7 @@ public class GameGenerator
 					}
 					
 					FullPrintLine("");
-					FullPrintLine("Player\tAB\tR\tH\t2B\t3B\tHR\tRBI\tBB\tSO\t\t\t\t\t" + LocalDate.now());
+					FullPrintLine("Player\tAB\tR\tH\t2B\t3B\tHR\tRBI\tBB\tSO\t\t\t\t\t" + date);
 					
 					for (int i = 0; i < team2.length; i++)
 					{
@@ -3016,6 +3021,8 @@ public class GameGenerator
 						}
 						FullPrintLine("");
 					}
+
+					compendiumText = tmpComp + "\n" + compendiumText;
 
 					if (compilingStats)
 						printingStats = false;
@@ -3333,7 +3340,7 @@ public class GameGenerator
 
 			if (printingStats)
 			{
-				statCompendium.println(s);
+				tmpComp += s + "\n";
 			}
 		}
 	}
@@ -3348,7 +3355,7 @@ public class GameGenerator
 
 			if (printingStats)
 			{
-				statCompendium.print(s);
+				tmpComp += s;
 			}
 		}
 	}

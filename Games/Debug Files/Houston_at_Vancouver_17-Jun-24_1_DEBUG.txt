@@ -1,0 +1,769 @@
+TOP INNING 1
+
+Cody Henderson: rng1 = 61 + 13 - 12 - 1 = 61
+rng2 = 71 + 13 - 10 - 1 = 73
+Flyout
+Team 2 pitcher (Jose Abasto): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Xavier Washington: rng1 = 18 + 12 - 12 - 1 = 17
+Strikeout
+Team 2 pitcher (Jose Abasto): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Dante Leoz: rng1 = 6 + 12 - 12 - 1 = 5
+Strikeout
+Team 2 pitcher (Jose Abasto): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Liam Green: rng1 = 21 + 14 - 11 + 1 = 25
+Strikeout
+Team 1 pitcher (Francisco Garcia): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Henry Webb: rng1 = 26 + 13 - 11 + 1 = 29
+rng2 = 9 + 14 - 9 + 1 = 15
+Groundout
+Team 1 pitcher (Francisco Garcia): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Won-Ho Kim: rng1 = 71 + 11 - 11 + 1 = 72
+Walk
+Team 1 pitcher (Francisco Garcia): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Yaniel Benitez: rng1 = 22 + 10 - 11 + 1 = 22
+Strikeout
+Team 1 pitcher (Francisco Garcia): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Jadon Mitchell: rng1 = 85 + 12 - 12 - 1 = 84
+rng2 = 62 + 13 - 10 - 1 = 64
+Single
+Team 2 pitcher (Jose Abasto): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Kieran Byrne: rng1 = 35 + 14 - 12 - 1 = 36
+rng2 = 92 + 12 - 10 - 1 = 93
+Flyout
+Team 2 pitcher (Jose Abasto): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Anthony Bennett: rng1 = 94 + 11 - 12 - 1 = 92
+rng2 = 81 + 12 - 10 - 1 = 82
+Home run
+Team 2 pitcher (Jose Abasto): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Elliot Hudson: rng1 = 85 + 10 - 12 - 1 = 82
+rng2 = 88 + 9 - 10 - 1 = 86
+Double
+Team 2 pitcher (Jose Abasto): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 1
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-0
+
+Dan Robertson: rng1 = 77 + 4 - 12 - 1 = 68
+rng2 = 75 + 6 - 10 - 1 = 70
+Flyout
+Team 2 pitcher (Jose Abasto): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: false, base2: false, base3: [6,0]
+base1: false, base2: false, base3: true
+Score: 2-0
+
+Javier Gallardo: rng1 = 81 + 3 - 12 - 1 = 71
+Walk
+Team 2 pitcher (Jose Abasto): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 2
+
+base1: [8,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 2-0
+
+Cody Henderson: rng1 = 92 + 13 - 12 - 1 = 92
+rng2 = 22 + 13 - 10 - 1 = 24
+Single
+Team 2 pitcher (Jose Abasto): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 2
+
+base1: [0,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 3-0
+
+Xavier Washington: rng1 = 49 + 12 - 12 - 1 = 48
+rng2 = 45 + 12 - 10 - 1 = 46
+Groundout
+Team 2 pitcher (Jose Abasto): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Isaac Correa: rng1 = 31 + 10 - 11 + 1 = 31
+rng2 = 44 + 11 - 9 + 1 = 47
+Groundout
+Team 1 pitcher (Francisco Garcia): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Serafín Sancho: rng1 = 56 + 9 - 11 + 1 = 55
+rng2 = 31 + 10 - 9 + 1 = 33
+Groundout
+Team 1 pitcher (Francisco Garcia): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Iker Pareja: rng1 = 45 + 7 - 11 + 1 = 42
+rng2 = 80 + 8 - 9 + 1 = 80
+Flyout
+Team 1 pitcher (Francisco Garcia): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+TOP INNING 3
+
+Dante Leoz: rng1 = 14 + 12 - 12 - 1 = 13
+rng2 = 9 + 11 - 10 - 1 = 9
+Groundout
+Team 2 pitcher (Jose Abasto): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Jadon Mitchell: rng1 = 24 + 12 - 12 - 1 = 23
+Strikeout
+Team 2 pitcher (Jose Abasto): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Kieran Byrne: rng1 = 42 + 14 - 12 - 1 = 43
+rng2 = 18 + 12 - 10 - 1 = 19
+Groundout
+Team 2 pitcher (Jose Abasto): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Watabe Kazuyuki: rng1 = 47 + 4 - 11 + 1 = 41
+rng2 = 41 + 9 - 9 + 1 = 42
+Groundout
+Team 1 pitcher (Francisco Garcia): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Luis Canales: rng1 = 76 + 7 - 11 + 1 = 73
+rng2 = 29 + 4 - 9 + 1 = 25
+Single
+Team 1 pitcher (Francisco Garcia): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Liam Green: rng1 = 100 + 14 - 11 + 1 = 104
+rng2 = 12 + 12 - 9 + 1 = 16
+Single
+Team 1 pitcher (Francisco Garcia): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: [0,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 3-0
+
+Henry Webb: rng1 = 39 + 13 - 11 + 1 = 42
+rng2 = 57 + 14 - 9 + 1 = 63
+Flyout
+Team 1 pitcher (Francisco Garcia): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Won-Ho Kim: rng1 = 9 + 11 - 11 + 1 = 10
+Strikeout
+Team 1 pitcher (Francisco Garcia): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+TOP INNING 4
+
+Anthony Bennett: rng1 = 11 + 11 - 12 - 1 = 9
+Strikeout
+Team 2 pitcher (Jose Abasto): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Elliot Hudson: rng1 = 53 + 10 - 12 - 1 = 50
+rng2 = 87 + 9 - 10 - 1 = 85
+Flyout
+Team 2 pitcher (Jose Abasto): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Dan Robertson: rng1 = 34 + 4 - 12 - 1 = 25
+Strikeout
+Team 2 pitcher (Jose Abasto): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Yaniel Benitez: rng1 = 27 + 10 - 11 + 1 = 27
+Strikeout
+Team 1 pitcher (Francisco Garcia): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Isaac Correa: rng1 = 20 + 10 - 11 + 1 = 20
+Strikeout
+Team 1 pitcher (Francisco Garcia): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Serafín Sancho: rng1 = 28 + 9 - 11 + 1 = 27
+Strikeout
+Team 1 pitcher (Francisco Garcia): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+TOP INNING 5
+
+Javier Gallardo: rng1 = 34 + 3 - 12 - 1 = 24
+Strikeout
+Team 2 pitcher (Jose Abasto): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Cody Henderson: rng1 = 6 + 13 - 12 - 1 = 6
+Strikeout
+Team 2 pitcher (Jose Abasto): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Xavier Washington: rng1 = 9 + 12 - 12 - 1 = 8
+Strikeout
+Team 2 pitcher (Jose Abasto): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+BOTTOM INNING 5
+
+Iker Pareja: rng1 = 70 + 7 - 11 + 1 = 67
+rng2 = 56 + 8 - 9 + 1 = 56
+Lineout
+Team 1 pitcher (Francisco Garcia): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Watabe Kazuyuki: rng1 = 39 + 4 - 11 + 1 = 33
+rng2 = 5 + 9 - 9 + 1 = 6
+Groundout
+Team 1 pitcher (Francisco Garcia): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Luis Canales: rng1 = 37 + 7 - 11 + 1 = 34
+rng2 = 72 + 4 - 9 + 1 = 68
+Flyout
+Team 1 pitcher (Francisco Garcia): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+TOP INNING 6
+
+Dante Leoz: rng1 = 64 + 12 - 12 - 1 = 63
+rng2 = 29 + 11 - 10 - 1 = 29
+Groundout
+Team 2 pitcher (Jose Abasto): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Jadon Mitchell: rng1 = 42 + 12 - 12 - 1 = 41
+rng2 = 93 + 13 - 10 - 1 = 95
+Flyout
+Team 2 pitcher (Jose Abasto): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Kieran Byrne: rng1 = 70 + 14 - 12 - 1 = 71
+Walk
+Team 2 pitcher (Jose Abasto): 23 batters faced, 3 runs allowed = 23 + 7.5 = 30.5, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Anthony Bennett: rng1 = 85 + 11 - 12 - 1 = 83
+rng2 = 22 + 12 - 10 - 1 = 23
+Single
+Team 2 pitcher (Jose Abasto): 24 batters faced, 3 runs allowed = 24 + 7.5 = 31.5, outs: 2
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-1
+
+Elliot Hudson: rng1 = 9 + 10 - 12 - 1 = 6
+Strikeout
+Team 2 pitcher (Jose Abasto): 25 batters faced, 3 runs allowed = 25 + 7.5 = 32.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+BOTTOM INNING 6
+
+Liam Green: rng1 = 52 + 14 - 11 + 1 = 56
+rng2 = 92 + 12 - 9 + 1 = 96
+Flyout
+Team 1 pitcher (Francisco Garcia): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Henry Webb: rng1 = 49 + 13 - 11 + 1 = 52
+rng2 = 81 + 14 - 9 + 1 = 87
+Flyout
+Team 1 pitcher (Francisco Garcia): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Won-Ho Kim: rng1 = 100 + 11 - 11 + 1 = 101
+rng2 = 12 + 10 - 9 + 1 = 14
+Single
+Team 1 pitcher (Francisco Garcia): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Yaniel Benitez: rng1 = 39 + 10 - 11 + 1 = 39
+rng2 = 38 + 12 - 9 + 1 = 42
+Groundout
+Team 1 pitcher (Francisco Garcia): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Sammie Starr
+
+Dan Robertson: rng1 = 61 + 4 - 10 - 1 = 54
+rng2 = 23 + 6 - 11 - 1 = 17
+Groundout
+Team 2 pitcher (Sammie Starr): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Javier Gallardo: rng1 = 18 + 3 - 10 - 1 = 10
+Strikeout
+Team 2 pitcher (Sammie Starr): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Cody Henderson: rng1 = 36 + 13 - 10 - 1 = 38
+rng2 = 73 + 13 - 11 - 1 = 74
+Flyout
+Team 2 pitcher (Sammie Starr): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+BOTTOM INNING 7
+
+Isaac Correa: rng1 = 14 + 10 - 11 + 1 = 14
+rng2 = 22 + 11 - 9 + 1 = 25
+Groundout
+Team 1 pitcher (Francisco Garcia): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Serafín Sancho: rng1 = 77 + 9 - 11 + 1 = 76
+rng2 = 47 + 10 - 9 + 1 = 49
+Single
+Team 1 pitcher (Francisco Garcia): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Iker Pareja: rng1 = 36 + 7 - 11 + 1 = 33
+rng2 = 87 + 8 - 9 + 1 = 87
+Flyout
+Team 1 pitcher (Francisco Garcia): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Watabe Kazuyuki: rng1 = 62 + 4 - 11 + 1 = 56
+rng2 = 64 + 9 - 9 + 1 = 65
+Flyout
+Team 1 pitcher (Francisco Garcia): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+TOP INNING 8
+
+Xavier Washington: rng1 = 81 + 12 - 10 - 1 = 82
+rng2 = 5 + 12 - 11 - 1 = 5
+Single
+Team 2 pitcher (Sammie Starr): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Dante Leoz: rng1 = 81 + 12 - 10 - 1 = 82
+rng2 = 59 + 11 - 11 - 1 = 58
+Single
+Team 2 pitcher (Sammie Starr): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [2,1], base2: [1,1], base3: false
+base1: true, base2: true, base3: false
+Score: 3-1
+
+Jadon Mitchell: rng1 = 90 + 12 - 10 - 1 = 91
+rng2 = 67 + 13 - 11 - 1 = 68
+Double
+Team 2 pitcher (Sammie Starr): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 0
+
+base1: false, base2: [3,1], base3: false
+base1: false, base2: true, base3: false
+Score: 5-1
+
+Kieran Byrne: rng1 = 26 + 14 - 10 - 1 = 29
+rng2 = 86 + 12 - 11 - 1 = 86
+Flyout
+Team 2 pitcher (Sammie Starr): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 1
+
+base1: false, base2: [3,1], base3: false
+base1: false, base2: true, base3: false
+Score: 5-1
+
+Anthony Bennett: rng1 = 8 + 11 - 10 - 1 = 8
+Strikeout
+Team 2 pitcher (Sammie Starr): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: false, base2: [3,1], base3: false
+base1: false, base2: true, base3: false
+Score: 5-1
+
+Team 2 pitcher change to Lee Combs
+
+Elliot Hudson: rng1 = 93 + 10 - 13 - 1 = 89
+Walk
+Team 2 pitcher (Lee Combs): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [6,2], base2: [3,1], base3: false
+base1: true, base2: true, base3: false
+Score: 5-1
+
+Dan Robertson: rng1 = 95 + 4 - 13 - 1 = 85
+rng2 = 64 + 6 - 12 - 1 = 57
+Single
+Team 2 pitcher (Lee Combs): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: [7,2], base2: false, base3: [6,2]
+base1: true, base2: false, base3: true
+Score: 6-1
+
+Javier Gallardo: rng1 = 49 + 3 - 13 - 1 = 38
+rng2 = 93 + 6 - 12 - 1 = 86
+Flyout
+Team 2 pitcher (Lee Combs): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Douglas Bosak
+
+Luis Canales: rng1 = 19 + 7 - 5 + 1 = 22
+Strikeout
+Team 1 pitcher (Douglas Bosak): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Liam Green: rng1 = 52 + 14 - 5 + 1 = 62
+rng2 = 41 + 12 - 6 + 1 = 48
+Lineout
+Team 1 pitcher (Douglas Bosak): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Henry Webb: rng1 = 41 + 13 - 5 + 1 = 50
+rng2 = 86 + 14 - 6 + 1 = 95
+Flyout
+Team 1 pitcher (Douglas Bosak): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+TOP INNING 9
+
+Cody Henderson: rng1 = 29 + 13 - 13 - 1 = 28
+Strikeout
+Team 2 pitcher (Lee Combs): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Xavier Washington: rng1 = 56 + 12 - 13 - 1 = 54
+rng2 = 75 + 12 - 12 - 1 = 74
+Flyout
+Team 2 pitcher (Lee Combs): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Dante Leoz: rng1 = 92 + 12 - 13 - 1 = 90
+Walk
+Team 2 pitcher (Lee Combs): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-1
+
+Jadon Mitchell: rng1 = 73 + 12 - 13 - 1 = 71
+Walk
+Team 2 pitcher (Lee Combs): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [3,2], base2: [2,2], base3: false
+base1: true, base2: true, base3: false
+Score: 6-1
+
+Kieran Byrne: rng1 = 31 + 14 - 13 - 1 = 31
+rng2 = 70 + 12 - 12 - 1 = 69
+Flyout
+Team 2 pitcher (Lee Combs): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+BOTTOM INNING 9
+
+Won-Ho Kim: rng1 = 4 + 11 - 5 + 1 = 11
+rng2 = 4 + 10 - 6 + 1 = 9
+Groundout
+Team 1 pitcher (Douglas Bosak): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Yaniel Benitez: rng1 = 94 + 10 - 5 + 1 = 100
+rng2 = 62 + 12 - 6 + 1 = 69
+Double
+Team 1 pitcher (Douglas Bosak): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: [3,1], base3: false
+base1: false, base2: true, base3: false
+Score: 6-1
+
+Isaac Correa: rng1 = 96 + 10 - 5 + 1 = 102
+rng2 = 35 + 11 - 6 + 1 = 41
+Single
+Team 1 pitcher (Douglas Bosak): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [4,1], base2: false, base3: [3,1]
+base1: true, base2: false, base3: true
+Score: 6-1
+
+Serafín Sancho: rng1 = 21 + 9 - 5 + 1 = 26
+Strikeout
+Team 1 pitcher (Douglas Bosak): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [4,1], base2: false, base3: [3,1]
+base1: true, base2: false, base3: true
+Score: 6-1
+
+Iker Pareja: rng1 = 73 + 7 - 5 + 1 = 76
+rng2 = 60 + 8 - 6 + 1 = 63
+Single
+Team 1 pitcher (Douglas Bosak): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [6,1], base2: [4,1], base3: false
+base1: true, base2: true, base3: false
+Score: 6-2
+
+Watabe Kazuyuki: rng1 = 89 + 4 - 5 + 1 = 89
+Walk
+Team 1 pitcher (Douglas Bosak): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [7,1], base2: [6,1], base3: [4,1]
+base1: true, base2: true, base3: true
+Score: 6-2
+
+Team 1 pitcher change to Foster Roebuck
+
+Luis Canales: rng1 = 43 + 7 - 8 + 1 = 43
+rng2 = 74 + 4 - 7 + 1 = 72
+Flyout
+Team 1 pitcher (Foster Roebuck): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-2
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 9
+Team 2 hits: 7
+Team 1 runs: 6
+Team 2 runs: 2
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					17-Jun-24
+Cody Henderson	5	0	1	0	0	0	1	0	2					Houston
+Xavier Washington	5	1	1	0	0	0	0	0	2	
+Dante Leoz	4	1	1	0	0	0	0	1	1	
+Jadon Mitchell	4	2	2	1	0	0	2	1	1	
+Kieran Byrne	4	0	0	0	0	0	0	1	0	
+Anthony Bennett	4	1	2	0	0	1	2	0	2	
+Elliot Hudson	3	1	1	1	0	0	0	1	1	
+Dan Robertson	4	0	1	0	0	0	1	0	1	
+Javier Gallardo	3	0	0	0	0	0	0	1	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Francisco Garcia	1	0	1	1	0	0	21	4	1	0	1	6	26	
+Douglas Bosak	0	0	1	0	0	0	5	3	1	0	1	2	9	
+Foster Roebuck	0	0	1	0	0	0	1	0	0	0	0	0	1	
+Craig Valencis	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Gideon Giles	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					17-Jun-24
+Liam Green	4	0	1	0	0	0	0	0	1					Vancouver
+Henry Webb	4	0	0	0	0	0	1	0	0	
+Won-Ho Kim	3	0	1	0	0	0	0	1	1	
+Yaniel Benitez	4	1	1	1	0	0	0	0	2	
+Isaac Correa	4	0	1	0	0	0	0	0	1	
+Serafín Sancho	4	0	1	0	0	0	0	0	2	
+Iker Pareja	4	0	1	0	0	0	1	0	0	
+Watabe Kazuyuki	3	0	0	0	0	0	0	1	0	
+Luis Canales	4	1	1	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Jose Abasto	0	1	1	1	0	0	18	5	3	1	2	9	25	
+Sammie Starr	0	0	1	0	0	0	5	3	3	0	0	2	8	
+Lee Combs	0	0	1	0	0	0	4	1	0	0	3	1	8	
+Jacobo Pozo	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Jack Wells	0	0	0	0	0	0	0	0	0	0	0	0	0	

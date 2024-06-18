@@ -1,0 +1,761 @@
+TOP INNING 1
+
+Alfie Young: rng1 = 77 + 13 - 11 - 1 = 78
+rng2 = 86 + 8 - 12 - 1 = 81
+Home run
+Team 2 pitcher (Carmelo Beldad): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Drake LaStelle: rng1 = 82 + 12 - 11 - 1 = 82
+rng2 = 82 + 12 - 12 - 1 = 81
+Home run
+Team 2 pitcher (Carmelo Beldad): 2 batters faced, 2 runs allowed = 2 + 5.0 = 7.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Charlie May: rng1 = 84 + 10 - 11 - 1 = 82
+rng2 = 96 + 12 - 12 - 1 = 95
+Home run
+Team 2 pitcher (Carmelo Beldad): 3 batters faced, 3 runs allowed = 3 + 7.5 = 10.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Billy Campbell: rng1 = 79 + 8 - 11 - 1 = 75
+rng2 = 47 + 10 - 12 - 1 = 44
+Single
+Team 2 pitcher (Carmelo Beldad): 4 batters faced, 3 runs allowed = 4 + 7.5 = 11.5, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Leonardo Vera: rng1 = 19 + 13 - 11 - 1 = 20
+Strikeout
+Team 2 pitcher (Carmelo Beldad): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Matías Martinez: rng1 = 58 + 7 - 11 - 1 = 53
+rng2 = 45 + 9 - 12 - 1 = 41
+Groundout
+Team 2 pitcher (Carmelo Beldad): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-0
+
+Benito Maroto: rng1 = 7 + 6 - 11 - 1 = 1
+Strikeout
+Team 2 pitcher (Carmelo Beldad): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Logan Chambers: rng1 = 56 + 14 - 13 + 1 = 58
+rng2 = 3 + 8 - 10 + 1 = 2
+Groundout
+Team 1 pitcher (Dustin Steele): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Edward Cox: rng1 = 22 + 12 - 13 + 1 = 22
+Strikeout
+Team 1 pitcher (Dustin Steele): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Nicolás Moruga: rng1 = 97 + 12 - 13 + 1 = 97
+rng2 = 15 + 12 - 10 + 1 = 18
+Single
+Team 1 pitcher (Dustin Steele): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Tristian Love: rng1 = 63 + 10 - 13 + 1 = 61
+rng2 = 10 + 11 - 10 + 1 = 12
+Groundout
+Team 1 pitcher (Dustin Steele): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+TOP INNING 2
+
+Jamie Reid: rng1 = 87 + 7 - 11 - 1 = 82
+rng2 = 98 + 8 - 12 - 1 = 93
+Triple
+Team 2 pitcher (Carmelo Beldad): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 0
+
+base1: false, base2: false, base3: [7,0]
+base1: false, base2: false, base3: true
+Score: 3-0
+
+Pascual Gilbert: rng1 = 44 + 8 - 11 - 1 = 40
+rng2 = 59 + 6 - 12 - 1 = 52
+Lineout
+Team 2 pitcher (Carmelo Beldad): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 1
+
+base1: false, base2: false, base3: [7,0]
+base1: false, base2: false, base3: true
+Score: 3-0
+
+Alfie Young: rng1 = 83 + 13 - 11 - 1 = 84
+rng2 = 16 + 8 - 12 - 1 = 11
+Single
+Team 2 pitcher (Carmelo Beldad): 10 batters faced, 4 runs allowed = 10 + 10.0 = 20.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Drake LaStelle: rng1 = 66 + 12 - 11 - 1 = 66
+rng2 = 41 + 12 - 12 - 1 = 40
+Groundout
+Team 2 pitcher (Carmelo Beldad): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Aldo Gilmore: rng1 = 90 + 9 - 13 + 1 = 87
+Walk
+Team 1 pitcher (Dustin Steele): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Lucián Chicote: rng1 = 88 + 8 - 13 + 1 = 84
+rng2 = 56 + 7 - 10 + 1 = 54
+Single
+Team 1 pitcher (Dustin Steele): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 0
+
+base1: [5,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 4-0
+
+Cevonte Riley: rng1 = 56 + 6 - 13 + 1 = 50
+rng2 = 75 + 8 - 10 + 1 = 74
+Flyout
+Team 1 pitcher (Dustin Steele): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-1
+
+Alexis Shultz: rng1 = 24 + 7 - 13 + 1 = 19
+Strikeout
+Team 1 pitcher (Dustin Steele): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-1
+
+Duante Jones: rng1 = 27 + 4 - 13 + 1 = 19
+Strikeout
+Team 1 pitcher (Dustin Steele): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+TOP INNING 3
+
+Charlie May: rng1 = 100 + 10 - 11 - 1 = 98
+rng2 = 49 + 12 - 12 - 1 = 48
+Single
+Team 2 pitcher (Carmelo Beldad): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 0
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-1
+
+Billy Campbell: rng1 = 9 + 8 - 11 - 1 = 5
+Strikeout
+Team 2 pitcher (Carmelo Beldad): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-1
+
+Leonardo Vera: rng1 = 81 + 13 - 11 - 1 = 82
+rng2 = 39 + 9 - 12 - 1 = 35
+Single
+Team 2 pitcher (Carmelo Beldad): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 1
+
+base1: [4,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 4-1
+
+Matías Martinez: rng1 = 71 + 7 - 11 - 1 = 66
+rng2 = 78 + 9 - 12 - 1 = 74
+Flyout
+Team 2 pitcher (Carmelo Beldad): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 2
+
+base1: [4,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 4-1
+
+Benito Maroto: rng1 = 66 + 6 - 11 - 1 = 60
+rng2 = 66 + 9 - 12 - 1 = 62
+Flyout
+Team 2 pitcher (Carmelo Beldad): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Logan Chambers: rng1 = 42 + 14 - 13 + 1 = 44
+rng2 = 33 + 8 - 10 + 1 = 32
+Groundout
+Team 1 pitcher (Dustin Steele): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Edward Cox: rng1 = 93 + 12 - 13 + 1 = 93
+rng2 = 72 + 8 - 10 + 1 = 71
+Double
+Team 1 pitcher (Dustin Steele): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-1
+
+Nicolás Moruga: rng1 = 59 + 12 - 13 + 1 = 59
+rng2 = 57 + 12 - 10 + 1 = 60
+Flyout
+Team 1 pitcher (Dustin Steele): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-1
+
+Tristian Love: rng1 = 61 + 10 - 13 + 1 = 59
+rng2 = 70 + 11 - 10 + 1 = 72
+Flyout
+Team 1 pitcher (Dustin Steele): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+TOP INNING 4
+
+Jamie Reid: rng1 = 13 + 7 - 11 - 1 = 8
+Strikeout
+Team 2 pitcher (Carmelo Beldad): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Pascual Gilbert: rng1 = 71 + 8 - 11 - 1 = 67
+rng2 = 28 + 6 - 12 - 1 = 21
+Groundout
+Team 2 pitcher (Carmelo Beldad): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-1
+
+Alfie Young: rng1 = 63 + 13 - 11 - 1 = 64
+rng2 = 83 + 8 - 12 - 1 = 78
+Flyout
+Team 2 pitcher (Carmelo Beldad): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Aldo Gilmore: rng1 = 94 + 9 - 13 + 1 = 91
+rng2 = 88 + 11 - 10 + 1 = 90
+Double
+Team 1 pitcher (Dustin Steele): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 0
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-1
+
+Lucián Chicote: rng1 = 37 + 8 - 13 + 1 = 33
+rng2 = 12 + 7 - 10 + 1 = 10
+Groundout
+Team 1 pitcher (Dustin Steele): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 1
+
+base1: false, base2: false, base3: [4,0]
+base1: false, base2: false, base3: true
+Score: 4-1
+
+Cevonte Riley: rng1 = 88 + 6 - 13 + 1 = 82
+rng2 = 81 + 8 - 10 + 1 = 80
+Home run
+Team 1 pitcher (Dustin Steele): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Alexis Shultz: rng1 = 56 + 7 - 13 + 1 = 51
+rng2 = 18 + 7 - 10 + 1 = 16
+Groundout
+Team 1 pitcher (Dustin Steele): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Duante Jones: rng1 = 19 + 4 - 13 + 1 = 11
+rng2 = 42 + 9 - 10 + 1 = 42
+Groundout
+Team 1 pitcher (Dustin Steele): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+TOP INNING 5
+
+Team 2 pitcher change to Trey Hendrickson
+
+Drake LaStelle: rng1 = 16 + 12 - 15 - 1 = 12
+rng2 = 69 + 12 - 14 - 1 = 66
+Flyout
+Team 2 pitcher (Trey Hendrickson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Charlie May: rng1 = 52 + 10 - 15 - 1 = 46
+rng2 = 99 + 12 - 14 - 1 = 96
+Flyout
+Team 2 pitcher (Trey Hendrickson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Billy Campbell: rng1 = 96 + 8 - 15 - 1 = 88
+Walk
+Team 2 pitcher (Trey Hendrickson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Leonardo Vera: rng1 = 11 + 13 - 15 - 1 = 8
+Strikeout
+Team 2 pitcher (Trey Hendrickson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+BOTTOM INNING 5
+
+Logan Chambers: rng1 = 70 + 14 - 13 + 1 = 72
+Walk
+Team 1 pitcher (Dustin Steele): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Edward Cox: rng1 = 15 + 12 - 13 + 1 = 15
+rng2 = 57 + 8 - 10 + 1 = 56
+Lineout
+Team 1 pitcher (Dustin Steele): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Nicolás Moruga: rng1 = 60 + 12 - 13 + 1 = 60
+rng2 = 6 + 12 - 10 + 1 = 9
+Groundout
+Team 1 pitcher (Dustin Steele): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-3
+
+Tristian Love: rng1 = 55 + 10 - 13 + 1 = 53
+rng2 = 93 + 11 - 10 + 1 = 95
+Flyout
+Team 1 pitcher (Dustin Steele): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+TOP INNING 6
+
+Matías Martinez: rng1 = 49 + 7 - 15 - 1 = 40
+rng2 = 44 + 9 - 14 - 1 = 38
+Groundout
+Team 2 pitcher (Trey Hendrickson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Benito Maroto: rng1 = 16 + 6 - 15 - 1 = 6
+Strikeout
+Team 2 pitcher (Trey Hendrickson): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Jamie Reid: rng1 = 53 + 7 - 15 - 1 = 44
+rng2 = 42 + 8 - 14 - 1 = 35
+Groundout
+Team 2 pitcher (Trey Hendrickson): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Matthew Dorman
+
+Aldo Gilmore: rng1 = 36 + 9 - 7 + 1 = 39
+rng2 = 20 + 11 - 6 + 1 = 26
+Groundout
+Team 1 pitcher (Matthew Dorman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Lucián Chicote: rng1 = 54 + 8 - 7 + 1 = 56
+rng2 = 34 + 7 - 6 + 1 = 36
+Groundout
+Team 1 pitcher (Matthew Dorman): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Cevonte Riley: rng1 = 73 + 6 - 7 + 1 = 73
+rng2 = 14 + 8 - 6 + 1 = 17
+Single
+Team 1 pitcher (Matthew Dorman): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Alexis Shultz: rng1 = 12 + 7 - 7 + 1 = 13
+rng2 = 19 + 7 - 6 + 1 = 21
+Groundout
+Team 1 pitcher (Matthew Dorman): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Johan Cortez
+
+Pascual Gilbert: rng1 = 82 + 8 - 11 - 1 = 78
+rng2 = 49 + 6 - 11 - 1 = 43
+Single
+Team 2 pitcher (Johan Cortez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Alfie Young: rng1 = 17 + 13 - 11 - 1 = 18
+Strikeout
+Team 2 pitcher (Johan Cortez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Drake LaStelle: rng1 = 56 + 12 - 11 - 1 = 56
+rng2 = 7 + 12 - 11 - 1 = 7
+Groundout
+Team 2 pitcher (Johan Cortez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [8,2], base3: false
+base1: false, base2: true, base3: false
+Score: 4-3
+
+Charlie May: rng1 = 46 + 10 - 11 - 1 = 44
+rng2 = 27 + 12 - 11 - 1 = 27
+Groundout
+Team 2 pitcher (Johan Cortez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+BOTTOM INNING 7
+
+Duante Jones: rng1 = 80 + 4 - 7 + 1 = 78
+rng2 = 30 + 9 - 6 + 1 = 34
+Single
+Team 1 pitcher (Matthew Dorman): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Logan Chambers: rng1 = 41 + 14 - 7 + 1 = 49
+rng2 = 59 + 8 - 6 + 1 = 62
+Flyout
+Team 1 pitcher (Matthew Dorman): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Edward Cox: rng1 = 33 + 12 - 7 + 1 = 39
+rng2 = 33 + 8 - 6 + 1 = 36
+Groundout
+Team 1 pitcher (Matthew Dorman): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+TOP INNING 8
+
+Billy Campbell: rng1 = 91 + 8 - 11 - 1 = 87
+Walk
+Team 2 pitcher (Johan Cortez): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [3,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Leonardo Vera: rng1 = 24 + 13 - 11 - 1 = 25
+Strikeout
+Team 2 pitcher (Johan Cortez): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [3,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Matías Martinez: rng1 = 73 + 7 - 11 - 1 = 68
+rng2 = 29 + 9 - 11 - 1 = 26
+Groundout
+Team 2 pitcher (Johan Cortez): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Benito Maroto: rng1 = 52 + 6 - 11 - 1 = 46
+rng2 = 61 + 9 - 11 - 1 = 58
+Lineout
+Team 2 pitcher (Johan Cortez): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Colton Hendrix
+
+Nicolás Moruga: rng1 = 18 + 12 - 8 + 1 = 23
+Strikeout
+Team 1 pitcher (Colton Hendrix): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Tristian Love: rng1 = 13 + 10 - 8 + 1 = 16
+Strikeout
+Team 1 pitcher (Colton Hendrix): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Aldo Gilmore: rng1 = 70 + 9 - 8 + 1 = 72
+Walk
+Team 1 pitcher (Colton Hendrix): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Lucián Chicote: rng1 = 79 + 8 - 8 + 1 = 80
+rng2 = 4 + 7 - 7 + 1 = 5
+Single
+Team 1 pitcher (Colton Hendrix): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [5,2], base2: [4,2], base3: false
+base1: true, base2: true, base3: false
+Score: 4-3
+
+Cevonte Riley: rng1 = 63 + 6 - 8 + 1 = 62
+rng2 = 91 + 8 - 7 + 1 = 93
+Flyout
+Team 1 pitcher (Colton Hendrix): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Shane Moran
+
+Jamie Reid: rng1 = 78 + 7 - 6 - 1 = 78
+rng2 = 42 + 8 - 6 - 1 = 43
+Single
+Team 2 pitcher (Shane Moran): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [7,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Pascual Gilbert: rng1 = 47 + 8 - 6 - 1 = 48
+rng2 = 41 + 6 - 6 - 1 = 40
+Groundout
+Team 2 pitcher (Shane Moran): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [8,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Alfie Young: rng1 = 22 + 13 - 6 - 1 = 28
+Strikeout
+Team 2 pitcher (Shane Moran): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [8,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Drake LaStelle: rng1 = 55 + 12 - 6 - 1 = 60
+rng2 = 84 + 12 - 6 - 1 = 89
+Flyout
+Team 2 pitcher (Shane Moran): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Jordan Knight
+
+Alexis Shultz: rng1 = 83 + 7 - 13 + 1 = 78
+rng2 = 24 + 7 - 11 + 1 = 21
+Single
+Team 1 pitcher (Jordan Knight): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [7,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Duante Jones: rng1 = 26 + 4 - 13 + 1 = 18
+Strikeout
+Team 1 pitcher (Jordan Knight): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [7,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Logan Chambers: rng1 = 71 + 14 - 13 + 1 = 73
+rng2 = 100 + 8 - 11 + 1 = 98
+Home run
+Team 1 pitcher (Jordan Knight): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-5
+
+Innings: 9
+Team 1 hits: 10
+Team 2 hits: 10
+Team 1 runs: 4
+Team 2 runs: 5
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					18-Jun-24
+Alfie Young	5	1	2	0	0	1	2	0	2					San Diego
+Drake LaStelle	5	1	1	0	0	1	1	0	0	
+Charlie May	4	1	2	0	0	1	1	0	0	
+Billy Campbell	2	0	1	0	0	0	0	2	1	
+Leonardo Vera	4	0	1	0	0	0	0	0	3	
+Matías Martinez	4	0	0	0	0	0	0	0	0	
+Benito Maroto	4	0	0	0	0	0	0	0	2	
+Jamie Reid	4	1	2	0	1	0	0	0	1	
+Pascual Gilbert	4	0	1	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Dustin Steele	0	0	1	1	0	0	15	5	3	1	2	3	22	
+Matthew Dorman	0	0	1	0	0	0	6	2	0	0	0	0	7	
+Colton Hendrix	0	0	1	0	0	0	3	1	0	0	1	2	5	
+Julian Underwood	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Jordan Knight	0	1	1	0	0	1	1	2	2	1	0	1	3	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					18-Jun-24
+Logan Chambers	4	1	1	0	0	1	2	1	0					New York
+Edward Cox	4	0	1	1	0	0	0	0	1	
+Nicolás Moruga	4	0	1	0	0	0	0	0	1	
+Tristian Love	4	0	0	0	0	0	0	0	1	
+Aldo Gilmore	2	2	1	1	0	0	0	2	0	
+Lucián Chicote	4	0	2	0	0	0	0	0	0	
+Cevonte Riley	4	1	2	0	0	1	3	0	0	
+Alexis Shultz	4	1	1	0	0	0	0	0	1	
+Duante Jones	4	0	1	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Carmelo Beldad	0	0	1	1	0	0	12	8	4	3	0	4	19	
+Trey Hendrickson	0	0	1	0	0	0	6	0	0	0	1	2	7	
+Johan Cortez	0	0	1	0	0	0	6	1	0	0	1	2	8	
+Shane Moran	1	0	1	0	0	0	3	1	0	0	0	1	4	
+Christopher Jones	0	0	0	0	0	0	0	0	0	0	0	0	0	

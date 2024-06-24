@@ -1,0 +1,749 @@
+TOP INNING 1
+
+Phoenix Moore: rng1 = 54 + 13 - 12 - 1 = 54
+rng2 = 92 + 13 - 13 - 1 = 91
+Flyout
+Team 2 pitcher (Sebastian James): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Ashton Martin: rng1 = 51 + 12 - 12 - 1 = 50
+rng2 = 59 + 14 - 13 - 1 = 59
+Flyout
+Team 2 pitcher (Sebastian James): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Mason Foster: rng1 = 4 + 11 - 12 - 1 = 2
+Strikeout
+Team 2 pitcher (Sebastian James): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Wakasugi Norogumi: rng1 = 78 + 15 - 8 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Owen Bowen): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Desharious Roberson: rng1 = 98 + 13 - 8 + 1 = 104
+rng2 = 34 + 7 - 7 + 1 = 35
+Single
+Team 1 pitcher (Owen Bowen): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Lawson Haney: rng1 = 26 + 13 - 8 + 1 = 32
+rng2 = 31 + 12 - 7 + 1 = 37
+Groundout
+Team 1 pitcher (Owen Bowen): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: [0,0]
+base1: false, base2: false, base3: true
+Score: 0-0
+
+Ethan Spencer: rng1 = 87 + 11 - 8 + 1 = 91
+rng2 = 22 + 15 - 7 + 1 = 31
+Single
+Team 1 pitcher (Owen Bowen): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Xavier Cabrera: rng1 = 1 + 13 - 8 + 1 = 7
+Strikeout
+Team 1 pitcher (Owen Bowen): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 2
+
+Caden Beckett: rng1 = 98 + 10 - 12 - 1 = 95
+rng2 = 98 + 12 - 13 - 1 = 96
+Home run
+Team 2 pitcher (Sebastian James): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Quinell McDaniel: rng1 = 8 + 9 - 12 - 1 = 4
+Strikeout
+Team 2 pitcher (Sebastian James): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Stanley Soto: rng1 = 68 + 8 - 12 - 1 = 63
+rng2 = 40 + 7 - 13 - 1 = 33
+Groundout
+Team 2 pitcher (Sebastian James): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Ethan Clarke: rng1 = 41 + 4 - 12 - 1 = 32
+rng2 = 62 + 10 - 13 - 1 = 58
+Lineout
+Team 2 pitcher (Sebastian James): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Alfonso Stafford: rng1 = 93 + 12 - 8 + 1 = 98
+rng2 = 22 + 10 - 7 + 1 = 26
+Single
+Team 1 pitcher (Owen Bowen): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Ike Nicholson: rng1 = 48 + 6 - 8 + 1 = 47
+rng2 = 40 + 11 - 7 + 1 = 45
+Groundout
+Team 1 pitcher (Owen Bowen): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Hayden Wright: rng1 = 60 + 7 - 8 + 1 = 60
+rng2 = 74 + 7 - 7 + 1 = 75
+Flyout
+Team 1 pitcher (Owen Bowen): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Joel Arboleda: rng1 = 33 + 6 - 8 + 1 = 32
+rng2 = 56 + 5 - 7 + 1 = 55
+Lineout
+Team 1 pitcher (Owen Bowen): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 3
+
+Felipe Grimes: rng1 = 10 + 6 - 12 - 1 = 3
+Strikeout
+Team 2 pitcher (Sebastian James): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Reese Ross: rng1 = 68 + 3 - 12 - 1 = 58
+rng2 = 87 + 8 - 13 - 1 = 81
+Flyout
+Team 2 pitcher (Sebastian James): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Phoenix Moore: rng1 = 62 + 13 - 12 - 1 = 62
+rng2 = 72 + 13 - 13 - 1 = 71
+Flyout
+Team 2 pitcher (Sebastian James): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Wakasugi Norogumi: rng1 = 70 + 15 - 8 + 1 = 78
+rng2 = 58 + 14 - 7 + 1 = 66
+Double
+Team 1 pitcher (Owen Bowen): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 0
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Desharious Roberson: rng1 = 22 + 13 - 8 + 1 = 28
+Strikeout
+Team 1 pitcher (Owen Bowen): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Lawson Haney: rng1 = 18 + 13 - 8 + 1 = 24
+Strikeout
+Team 1 pitcher (Owen Bowen): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Ethan Spencer: rng1 = 44 + 11 - 8 + 1 = 48
+rng2 = 58 + 15 - 7 + 1 = 67
+Flyout
+Team 1 pitcher (Owen Bowen): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 4
+
+Ashton Martin: rng1 = 7 + 12 - 12 - 1 = 6
+Strikeout
+Team 2 pitcher (Sebastian James): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Mason Foster: rng1 = 80 + 11 - 12 - 1 = 78
+rng2 = 85 + 10 - 13 - 1 = 81
+Home run
+Team 2 pitcher (Sebastian James): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Caden Beckett: rng1 = 80 + 10 - 12 - 1 = 77
+rng2 = 23 + 12 - 13 - 1 = 21
+Single
+Team 2 pitcher (Sebastian James): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Quinell McDaniel: rng1 = 23 + 9 - 12 - 1 = 19
+Strikeout
+Team 2 pitcher (Sebastian James): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Stanley Soto: rng1 = 83 + 8 - 12 - 1 = 78
+rng2 = 4 + 7 - 13 - 1 = -3
+Single
+Team 2 pitcher (Sebastian James): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 2
+
+base1: [5,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-1
+
+Ethan Clarke: rng1 = 66 + 4 - 12 - 1 = 57
+rng2 = 75 + 10 - 13 - 1 = 71
+Flyout
+Team 2 pitcher (Sebastian James): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Xavier Cabrera: rng1 = 80 + 13 - 8 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Owen Bowen): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Alfonso Stafford: rng1 = 79 + 12 - 8 + 1 = 84
+rng2 = 87 + 10 - 7 + 1 = 91
+Double
+Team 1 pitcher (Owen Bowen): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 0
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-2
+
+Ike Nicholson: rng1 = 44 + 6 - 8 + 1 = 43
+rng2 = 17 + 11 - 7 + 1 = 22
+Groundout
+Team 1 pitcher (Owen Bowen): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 1
+
+base1: false, base2: false, base3: [5,0]
+base1: false, base2: false, base3: true
+Score: 2-2
+
+Hayden Wright: rng1 = 89 + 7 - 8 + 1 = 89
+Walk
+Team 1 pitcher (Owen Bowen): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 1
+
+base1: [7,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 2-2
+
+Joel Arboleda: rng1 = 13 + 6 - 8 + 1 = 12
+rng2 = 22 + 5 - 7 + 1 = 21
+Groundout
+Team 1 pitcher (Owen Bowen): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 2
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-3
+
+Wakasugi Norogumi: rng1 = 88 + 15 - 8 + 1 = 96
+rng2 = 46 + 14 - 7 + 1 = 54
+Single
+Team 1 pitcher (Owen Bowen): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 2
+
+base1: [0,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 2-3
+
+Desharious Roberson: rng1 = 88 + 13 - 8 + 1 = 94
+rng2 = 24 + 7 - 7 + 1 = 25
+Single
+Team 1 pitcher (Owen Bowen): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 2
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-4
+
+Lawson Haney: rng1 = 6 + 13 - 8 + 1 = 12
+rng2 = 81 + 12 - 7 + 1 = 87
+Flyout
+Team 1 pitcher (Owen Bowen): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-4
+
+-----------------------
+
+TOP INNING 5
+
+Felipe Grimes: rng1 = 31 + 6 - 12 - 1 = 24
+Strikeout
+Team 2 pitcher (Sebastian James): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Reese Ross: rng1 = 28 + 3 - 12 - 1 = 18
+Strikeout
+Team 2 pitcher (Sebastian James): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Phoenix Moore: rng1 = 46 + 13 - 12 - 1 = 46
+rng2 = 82 + 13 - 13 - 1 = 81
+Flyout
+Team 2 pitcher (Sebastian James): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-4
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Jason Francisco
+
+Ethan Spencer: rng1 = 39 + 11 - 11 + 1 = 40
+rng2 = 69 + 15 - 9 + 1 = 76
+Flyout
+Team 1 pitcher (Jason Francisco): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Xavier Cabrera: rng1 = 52 + 13 - 11 + 1 = 55
+rng2 = 55 + 12 - 9 + 1 = 59
+Flyout
+Team 1 pitcher (Jason Francisco): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Alfonso Stafford: rng1 = 76 + 12 - 11 + 1 = 78
+rng2 = 48 + 10 - 9 + 1 = 50
+Single
+Team 1 pitcher (Jason Francisco): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-4
+
+Ike Nicholson: rng1 = 70 + 6 - 11 + 1 = 66
+rng2 = 40 + 11 - 9 + 1 = 43
+Groundout
+Team 1 pitcher (Jason Francisco): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-4
+
+-----------------------
+
+TOP INNING 6
+
+Ashton Martin: rng1 = 52 + 12 - 12 - 1 = 51
+rng2 = 60 + 14 - 13 - 1 = 60
+Flyout
+Team 2 pitcher (Sebastian James): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Mason Foster: rng1 = 11 + 11 - 12 - 1 = 9
+Strikeout
+Team 2 pitcher (Sebastian James): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Caden Beckett: rng1 = 1 + 10 - 12 - 1 = -2
+Strikeout
+Team 2 pitcher (Sebastian James): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-4
+
+-----------------------
+
+BOTTOM INNING 6
+
+Hayden Wright: rng1 = 90 + 7 - 11 + 1 = 87
+Walk
+Team 1 pitcher (Jason Francisco): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-4
+
+Joel Arboleda: rng1 = 7 + 6 - 11 + 1 = 3
+Strikeout
+Team 1 pitcher (Jason Francisco): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-4
+
+Wakasugi Norogumi: rng1 = 96 + 15 - 11 + 1 = 101
+rng2 = 45 + 14 - 9 + 1 = 51
+Single
+Team 1 pitcher (Jason Francisco): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [0,1], base2: false, base3: [7,1]
+base1: true, base2: false, base3: true
+Score: 2-4
+
+Desharious Roberson: rng1 = 48 + 13 - 11 + 1 = 51
+rng2 = 67 + 7 - 9 + 1 = 66
+Flyout
+Team 1 pitcher (Jason Francisco): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-5
+
+Lawson Haney: rng1 = 32 + 13 - 11 + 1 = 35
+rng2 = 77 + 12 - 9 + 1 = 81
+Flyout
+Team 1 pitcher (Jason Francisco): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-5
+
+-----------------------
+
+TOP INNING 7
+
+Quinell McDaniel: rng1 = 58 + 9 - 12 - 1 = 54
+rng2 = 65 + 10 - 13 - 1 = 61
+Flyout
+Team 2 pitcher (Sebastian James): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-5
+
+Stanley Soto: rng1 = 80 + 8 - 12 - 1 = 75
+rng2 = 95 + 7 - 13 - 1 = 88
+Double
+Team 2 pitcher (Sebastian James): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 1
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-5
+
+Ethan Clarke: rng1 = 5 + 4 - 12 - 1 = -4
+Strikeout
+Team 2 pitcher (Sebastian James): 25 batters faced, 2 runs allowed = 25 + 5.0 = 30.0, outs: 2
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-5
+
+Felipe Grimes: rng1 = 81 + 6 - 12 - 1 = 74
+rng2 = 29 + 7 - 13 - 1 = 22
+Single
+Team 2 pitcher (Sebastian James): 26 batters faced, 2 runs allowed = 26 + 5.0 = 31.0, outs: 2
+
+base1: [7,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 2-5
+
+Reese Ross: rng1 = 97 + 3 - 12 - 1 = 87
+Walk
+Team 2 pitcher (Sebastian James): 27 batters faced, 2 runs allowed = 27 + 5.0 = 32.0, outs: 2
+
+base1: [8,0], base2: [7,0], base3: [5,0]
+base1: true, base2: true, base3: true
+Score: 2-5
+
+Phoenix Moore: rng1 = 31 + 13 - 12 - 1 = 31
+rng2 = 67 + 13 - 13 - 1 = 66
+Flyout
+Team 2 pitcher (Sebastian James): 28 batters faced, 2 runs allowed = 28 + 5.0 = 33.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-5
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Rodney Fox
+
+Ethan Spencer: rng1 = 74 + 11 - 6 + 1 = 80
+rng2 = 100 + 15 - 5 + 1 = 111
+Home run
+Team 1 pitcher (Rodney Fox): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-6
+
+Xavier Cabrera: rng1 = 63 + 13 - 6 + 1 = 71
+Walk
+Team 1 pitcher (Rodney Fox): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-6
+
+Alfonso Stafford: rng1 = 37 + 12 - 6 + 1 = 44
+rng2 = 28 + 10 - 5 + 1 = 34
+Groundout
+Team 1 pitcher (Rodney Fox): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [4,2], base3: false
+base1: false, base2: true, base3: false
+Score: 2-6
+
+Ike Nicholson: rng1 = 1 + 6 - 6 + 1 = 2
+Strikeout
+Team 1 pitcher (Rodney Fox): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [4,2], base3: false
+base1: false, base2: true, base3: false
+Score: 2-6
+
+Hayden Wright: rng1 = 2 + 7 - 6 + 1 = 4
+Strikeout
+Team 1 pitcher (Rodney Fox): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-6
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Saiki Iwane
+
+Ashton Martin: rng1 = 45 + 12 - 11 - 1 = 45
+rng2 = 28 + 14 - 10 - 1 = 31
+Groundout
+Team 2 pitcher (Saiki Iwane): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-6
+
+Mason Foster: rng1 = 42 + 11 - 11 - 1 = 41
+rng2 = 32 + 10 - 10 - 1 = 31
+Groundout
+Team 2 pitcher (Saiki Iwane): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-6
+
+Caden Beckett: rng1 = 8 + 10 - 11 - 1 = 6
+Strikeout
+Team 2 pitcher (Saiki Iwane): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-6
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Reed Winters
+
+Joel Arboleda: rng1 = 45 + 6 - 9 + 1 = 43
+rng2 = 10 + 5 - 9 + 1 = 7
+Groundout
+Team 1 pitcher (Reed Winters): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-6
+
+Wakasugi Norogumi: rng1 = 52 + 15 - 9 + 1 = 59
+rng2 = 92 + 14 - 9 + 1 = 98
+Flyout
+Team 1 pitcher (Reed Winters): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-6
+
+Desharious Roberson: rng1 = 93 + 13 - 9 + 1 = 98
+rng2 = 48 + 7 - 9 + 1 = 47
+Single
+Team 1 pitcher (Reed Winters): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-6
+
+Lawson Haney: rng1 = 81 + 13 - 9 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Reed Winters): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [2,3], base2: [1,3], base3: false
+base1: true, base2: true, base3: false
+Score: 2-6
+
+Ethan Spencer: rng1 = 66 + 11 - 9 + 1 = 69
+rng2 = 51 + 15 - 9 + 1 = 58
+Lineout
+Team 1 pitcher (Reed Winters): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-6
+
+-----------------------
+
+TOP INNING 9
+
+Quinell McDaniel: rng1 = 51 + 9 - 11 - 1 = 48
+rng2 = 99 + 10 - 10 - 1 = 98
+Flyout
+Team 2 pitcher (Saiki Iwane): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-6
+
+Stanley Soto: rng1 = 76 + 8 - 11 - 1 = 72
+Walk
+Team 2 pitcher (Saiki Iwane): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-6
+
+Ethan Clarke: rng1 = 7 + 4 - 11 - 1 = -1
+Strikeout
+Team 2 pitcher (Saiki Iwane): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-6
+
+Felipe Grimes: rng1 = 75 + 6 - 11 - 1 = 69
+rng2 = 7 + 7 - 10 - 1 = 3
+Groundout
+Team 2 pitcher (Saiki Iwane): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-6
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 6
+Team 2 hits: 11
+Team 1 runs: 2
+Team 2 runs: 6
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					24-Jun-24
+Phoenix Moore	4	0	0	0	0	0	0	0	0					Los Angeles
+Ashton Martin	4	0	0	0	0	0	0	0	1	
+Mason Foster	4	1	1	0	0	1	1	0	2	
+Caden Beckett	4	1	2	0	0	1	1	0	2	
+Quinell McDaniel	4	0	0	0	0	0	0	0	2	
+Stanley Soto	3	0	2	1	0	0	0	1	0	
+Ethan Clarke	4	0	0	0	0	0	0	0	2	
+Felipe Grimes	4	0	1	0	0	0	0	0	2	
+Reese Ross	2	0	0	0	0	0	0	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Owen Bowen	0	1	1	1	0	0	12	7	4	0	1	3	21	
+Jason Francisco	0	0	1	0	0	0	6	2	1	0	1	1	9	
+Rodney Fox	0	0	1	0	0	0	3	1	1	1	1	2	5	
+Reed Winters	0	0	1	0	0	0	3	1	0	0	0	0	5	
+Jensen Garrish	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					24-Jun-24
+Wakasugi Norogumi	4	1	3	1	0	0	0	0	0					Atlanta
+Desharious Roberson	5	0	3	0	0	0	2	0	1	
+Lawson Haney	4	0	0	0	0	0	0	0	1	
+Ethan Spencer	5	1	2	0	0	1	2	0	0	
+Xavier Cabrera	2	1	0	0	0	0	0	1	1	
+Alfonso Stafford	4	1	3	1	0	0	1	0	0	
+Ike Nicholson	4	0	0	0	0	0	0	0	1	
+Hayden Wright	2	2	0	0	0	0	0	2	1	
+Joel Arboleda	4	0	0	0	0	0	1	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Sebastian James	1	0	1	1	0	0	21	6	2	2	1	10	28	
+Saiki Iwane	0	0	1	0	0	0	6	0	0	0	1	2	7	
+Thomas Dillard	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Evan Veselka	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Juancarlo Pinto	0	0	0	0	0	0	0	0	0	0	0	0	0	

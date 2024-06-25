@@ -1,0 +1,812 @@
+TOP INNING 1
+
+Juan Manzanares: rng1 = 18 + 15 - 11 - 1 = 21
+Strikeout
+Team 2 pitcher (Josh Hopkins): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Byron Bartlett: rng1 = 64 + 15 - 11 - 1 = 67
+rng2 = 77 + 12 - 10 - 1 = 78
+Flyout
+Team 2 pitcher (Josh Hopkins): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Edmundo Pousa: rng1 = 47 + 14 - 11 - 1 = 49
+rng2 = 91 + 13 - 10 - 1 = 93
+Flyout
+Team 2 pitcher (Josh Hopkins): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Cody Henderson: rng1 = 13 + 13 - 5 + 1 = 22
+Strikeout
+Team 1 pitcher (Declan Chambers): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Xavier Washington: rng1 = 3 + 12 - 5 + 1 = 11
+rng2 = 85 + 12 - 4 + 1 = 94
+Flyout
+Team 1 pitcher (Declan Chambers): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Dante Leoz: rng1 = 16 + 12 - 5 + 1 = 24
+Strikeout
+Team 1 pitcher (Declan Chambers): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Arturo Bellamy: rng1 = 46 + 14 - 11 - 1 = 48
+rng2 = 48 + 14 - 10 - 1 = 51
+Lineout
+Team 2 pitcher (Josh Hopkins): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Terryl Maxwell: rng1 = 51 + 3 - 11 - 1 = 42
+rng2 = 46 + 9 - 10 - 1 = 44
+Groundout
+Team 2 pitcher (Josh Hopkins): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Darren Adams: rng1 = 71 + 4 - 11 - 1 = 63
+rng2 = 68 + 8 - 10 - 1 = 65
+Flyout
+Team 2 pitcher (Josh Hopkins): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Jadon Mitchell: rng1 = 85 + 12 - 5 + 1 = 93
+rng2 = 13 + 13 - 4 + 1 = 23
+Single
+Team 1 pitcher (Declan Chambers): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Kieran Byrne: rng1 = 39 + 14 - 5 + 1 = 49
+rng2 = 65 + 12 - 4 + 1 = 74
+Flyout
+Team 1 pitcher (Declan Chambers): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Anthony Bennett: rng1 = 75 + 11 - 5 + 1 = 82
+rng2 = 100 + 12 - 4 + 1 = 109
+Home run
+Team 1 pitcher (Declan Chambers): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Elliot Hudson: rng1 = 73 + 10 - 5 + 1 = 79
+rng2 = 75 + 9 - 4 + 1 = 81
+Home run
+Team 1 pitcher (Declan Chambers): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Dan Robertson: rng1 = 29 + 4 - 5 + 1 = 29
+rng2 = 54 + 6 - 4 + 1 = 57
+Lineout
+Team 1 pitcher (Declan Chambers): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Javier Gallardo: rng1 = 92 + 3 - 5 + 1 = 91
+rng2 = 48 + 6 - 4 + 1 = 51
+Single
+Team 1 pitcher (Declan Chambers): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Cody Henderson: rng1 = 4 + 13 - 5 + 1 = 13
+rng2 = 16 + 13 - 4 + 1 = 26
+Groundout
+Team 1 pitcher (Declan Chambers): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+TOP INNING 3
+
+Alejandro López: rng1 = 96 + 5 - 11 - 1 = 89
+Walk
+Team 2 pitcher (Josh Hopkins): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Facundo Laguna: rng1 = 41 + 5 - 11 - 1 = 34
+rng2 = 91 + 7 - 10 - 1 = 87
+Flyout
+Team 2 pitcher (Josh Hopkins): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Mike Rowe: rng1 = 14 + 6 - 11 - 1 = 8
+Strikeout
+Team 2 pitcher (Josh Hopkins): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Juan Manzanares: rng1 = 28 + 15 - 11 - 1 = 31
+rng2 = 82 + 13 - 10 - 1 = 84
+Flyout
+Team 2 pitcher (Josh Hopkins): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+BOTTOM INNING 3
+
+Xavier Washington: rng1 = 17 + 12 - 5 + 1 = 25
+Strikeout
+Team 1 pitcher (Declan Chambers): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Dante Leoz: rng1 = 34 + 12 - 5 + 1 = 42
+rng2 = 74 + 11 - 4 + 1 = 82
+Flyout
+Team 1 pitcher (Declan Chambers): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Jadon Mitchell: rng1 = 27 + 12 - 5 + 1 = 35
+rng2 = 63 + 13 - 4 + 1 = 73
+Flyout
+Team 1 pitcher (Declan Chambers): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+TOP INNING 4
+
+Byron Bartlett: rng1 = 51 + 15 - 11 - 1 = 54
+rng2 = 74 + 12 - 10 - 1 = 75
+Flyout
+Team 2 pitcher (Josh Hopkins): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Edmundo Pousa: rng1 = 10 + 14 - 11 - 1 = 12
+rng2 = 26 + 13 - 10 - 1 = 28
+Groundout
+Team 2 pitcher (Josh Hopkins): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Arturo Bellamy: rng1 = 7 + 14 - 11 - 1 = 9
+Strikeout
+Team 2 pitcher (Josh Hopkins): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+BOTTOM INNING 4
+
+Kieran Byrne: rng1 = 44 + 14 - 5 + 1 = 54
+rng2 = 72 + 12 - 4 + 1 = 81
+Flyout
+Team 1 pitcher (Declan Chambers): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Anthony Bennett: rng1 = 87 + 11 - 5 + 1 = 94
+rng2 = 41 + 12 - 4 + 1 = 50
+Single
+Team 1 pitcher (Declan Chambers): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Elliot Hudson: rng1 = 17 + 10 - 5 + 1 = 23
+Strikeout
+Team 1 pitcher (Declan Chambers): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Dan Robertson: rng1 = 69 + 4 - 5 + 1 = 69
+rng2 = 60 + 6 - 4 + 1 = 63
+Flyout
+Team 1 pitcher (Declan Chambers): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+TOP INNING 5
+
+Terryl Maxwell: rng1 = 79 + 3 - 11 - 1 = 70
+Walk
+Team 2 pitcher (Josh Hopkins): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Darren Adams: rng1 = 83 + 4 - 11 - 1 = 75
+rng2 = 85 + 8 - 10 - 1 = 82
+Home run
+Team 2 pitcher (Josh Hopkins): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Alejandro López: rng1 = 79 + 5 - 11 - 1 = 72
+Walk
+Team 2 pitcher (Josh Hopkins): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-3
+
+Facundo Laguna: rng1 = 78 + 5 - 11 - 1 = 71
+Walk
+Team 2 pitcher (Josh Hopkins): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 0
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-3
+
+Mike Rowe: rng1 = 48 + 6 - 11 - 1 = 42
+rng2 = 90 + 3 - 10 - 1 = 82
+Flyout
+Team 2 pitcher (Josh Hopkins): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 1
+
+base1: [7,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 2-3
+
+Juan Manzanares: rng1 = 29 + 15 - 11 - 1 = 32
+rng2 = 39 + 13 - 10 - 1 = 41
+Groundout
+Team 2 pitcher (Josh Hopkins): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+BOTTOM INNING 5
+
+Javier Gallardo: rng1 = 26 + 3 - 5 + 1 = 25
+Strikeout
+Team 1 pitcher (Declan Chambers): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Cody Henderson: rng1 = 39 + 13 - 5 + 1 = 48
+rng2 = 34 + 13 - 4 + 1 = 44
+Groundout
+Team 1 pitcher (Declan Chambers): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Xavier Washington: rng1 = 93 + 12 - 5 + 1 = 101
+rng2 = 71 + 12 - 4 + 1 = 80
+Home run
+Team 1 pitcher (Declan Chambers): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Dante Leoz: rng1 = 72 + 12 - 5 + 1 = 80
+rng2 = 73 + 11 - 4 + 1 = 81
+Home run
+Team 1 pitcher (Declan Chambers): 21 batters faced, 5 runs allowed = 21 + 12.5 = 33.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-5
+
+Jadon Mitchell: rng1 = 76 + 12 - 5 + 1 = 84
+rng2 = 61 + 13 - 4 + 1 = 71
+Double
+Team 1 pitcher (Declan Chambers): 22 batters faced, 5 runs allowed = 22 + 12.5 = 34.5, outs: 2
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-5
+
+Kieran Byrne: rng1 = 61 + 14 - 5 + 1 = 71
+Walk
+Team 1 pitcher (Declan Chambers): 23 batters faced, 5 runs allowed = 23 + 12.5 = 35.5, outs: 2
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-5
+
+Team 1 pitcher change to Ryu Shi-Woo
+
+Anthony Bennett: rng1 = 24 + 11 - 6 + 1 = 30
+rng2 = 52 + 12 - 6 + 1 = 59
+Flyout
+Team 1 pitcher (Ryu Shi-Woo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-5
+
+-----------------------
+
+TOP INNING 6
+
+Byron Bartlett: rng1 = 27 + 15 - 11 - 1 = 30
+rng2 = 98 + 12 - 10 - 1 = 99
+Flyout
+Team 2 pitcher (Josh Hopkins): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-5
+
+Edmundo Pousa: rng1 = 74 + 14 - 11 - 1 = 76
+rng2 = 90 + 13 - 10 - 1 = 92
+Double
+Team 2 pitcher (Josh Hopkins): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-5
+
+Arturo Bellamy: rng1 = 50 + 14 - 11 - 1 = 52
+rng2 = 77 + 14 - 10 - 1 = 80
+Flyout
+Team 2 pitcher (Josh Hopkins): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-5
+
+Terryl Maxwell: rng1 = 10 + 3 - 11 - 1 = 1
+Strikeout
+Team 2 pitcher (Josh Hopkins): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-5
+
+-----------------------
+
+BOTTOM INNING 6
+
+Elliot Hudson: rng1 = 24 + 10 - 6 + 1 = 29
+rng2 = 79 + 9 - 6 + 1 = 83
+Flyout
+Team 1 pitcher (Ryu Shi-Woo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-5
+
+Dan Robertson: rng1 = 2 + 4 - 6 + 1 = 1
+Strikeout
+Team 1 pitcher (Ryu Shi-Woo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-5
+
+Javier Gallardo: rng1 = 54 + 3 - 6 + 1 = 52
+rng2 = 39 + 6 - 6 + 1 = 40
+Groundout
+Team 1 pitcher (Ryu Shi-Woo): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-5
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Douglas Bosak
+
+Darren Adams: rng1 = 2 + 4 - 5 - 1 = 0
+Strikeout
+Team 2 pitcher (Douglas Bosak): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-5
+
+Alejandro López: rng1 = 91 + 5 - 5 - 1 = 90
+Walk
+Team 2 pitcher (Douglas Bosak): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-5
+
+Facundo Laguna: rng1 = 60 + 5 - 5 - 1 = 59
+rng2 = 94 + 7 - 6 - 1 = 94
+Flyout
+Team 2 pitcher (Douglas Bosak): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-5
+
+Mike Rowe: rng1 = 82 + 6 - 5 - 1 = 82
+rng2 = 74 + 3 - 6 - 1 = 70
+Double
+Team 2 pitcher (Douglas Bosak): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [8,1], base3: false
+base1: false, base2: true, base3: false
+Score: 3-5
+
+Juan Manzanares: rng1 = 44 + 15 - 5 - 1 = 53
+rng2 = 72 + 13 - 6 - 1 = 78
+Flyout
+Team 2 pitcher (Douglas Bosak): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+BOTTOM INNING 7
+
+Cody Henderson: rng1 = 8 + 13 - 6 + 1 = 16
+Strikeout
+Team 1 pitcher (Ryu Shi-Woo): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Xavier Washington: rng1 = 36 + 12 - 6 + 1 = 43
+rng2 = 1 + 12 - 6 + 1 = 8
+Groundout
+Team 1 pitcher (Ryu Shi-Woo): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Dante Leoz: rng1 = 65 + 12 - 6 + 1 = 72
+Walk
+Team 1 pitcher (Ryu Shi-Woo): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-5
+
+Jadon Mitchell: rng1 = 9 + 12 - 6 + 1 = 16
+Strikeout
+Team 1 pitcher (Ryu Shi-Woo): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Foster Roebuck
+
+Byron Bartlett: rng1 = 74 + 15 - 8 - 1 = 80
+rng2 = 93 + 12 - 7 - 1 = 97
+Home run
+Team 2 pitcher (Foster Roebuck): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-5
+
+Edmundo Pousa: rng1 = 65 + 14 - 8 - 1 = 70
+Walk
+Team 2 pitcher (Foster Roebuck): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-5
+
+Arturo Bellamy: rng1 = 9 + 14 - 8 - 1 = 14
+rng2 = 80 + 14 - 7 - 1 = 86
+Flyout
+Team 2 pitcher (Foster Roebuck): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-5
+
+Terryl Maxwell: rng1 = 74 + 3 - 8 - 1 = 68
+rng2 = 51 + 9 - 7 - 1 = 52
+Lineout
+Team 2 pitcher (Foster Roebuck): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-5
+
+Darren Adams: rng1 = 81 + 4 - 8 - 1 = 76
+rng2 = 30 + 8 - 7 - 1 = 30
+Single
+Team 2 pitcher (Foster Roebuck): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [5,2], base2: [2,2], base3: false
+base1: true, base2: true, base3: false
+Score: 4-5
+
+Alejandro López: rng1 = 79 + 5 - 8 - 1 = 75
+rng2 = 92 + 7 - 7 - 1 = 91
+Double
+Team 2 pitcher (Foster Roebuck): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: false, base2: [6,2], base3: false
+base1: false, base2: true, base3: false
+Score: 6-5
+
+Team 2 pitcher change to Craig Valencis
+
+Facundo Laguna: rng1 = 26 + 5 - 6 - 1 = 24
+Strikeout
+Team 2 pitcher (Craig Valencis): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-5
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Rakeem Bradley
+
+Kieran Byrne: rng1 = 91 + 14 - 5 + 1 = 101
+rng2 = 58 + 12 - 5 + 1 = 66
+Double
+Team 1 pitcher (Rakeem Bradley): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [4,2], base3: false
+base1: false, base2: true, base3: false
+Score: 6-5
+
+Anthony Bennett: rng1 = 88 + 11 - 5 + 1 = 95
+rng2 = 42 + 12 - 5 + 1 = 50
+Single
+Team 1 pitcher (Rakeem Bradley): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [5,2], base2: false, base3: [4,2]
+base1: true, base2: false, base3: true
+Score: 6-5
+
+Elliot Hudson: rng1 = 27 + 10 - 5 + 1 = 33
+rng2 = 73 + 9 - 5 + 1 = 78
+Flyout
+Team 1 pitcher (Rakeem Bradley): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-6
+
+Dan Robertson: rng1 = 81 + 4 - 5 + 1 = 81
+rng2 = 23 + 6 - 5 + 1 = 25
+Single
+Team 1 pitcher (Rakeem Bradley): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [7,2], base2: [5,2], base3: false
+base1: true, base2: true, base3: false
+Score: 6-6
+
+Javier Gallardo: rng1 = 74 + 3 - 5 + 1 = 73
+rng2 = 99 + 6 - 5 + 1 = 101
+Home run
+Team 1 pitcher (Rakeem Bradley): 5 batters faced, 4 runs allowed = 5 + 10.0 = 15.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-9
+
+Team 1 pitcher change to Edmundo Martínez
+
+Cody Henderson: rng1 = 50 + 13 - 5 + 1 = 59
+rng2 = 58 + 13 - 6 + 1 = 66
+Flyout
+Team 1 pitcher (Edmundo Martínez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-9
+
+Xavier Washington: rng1 = 68 + 12 - 5 + 1 = 76
+rng2 = 84 + 12 - 6 + 1 = 91
+Double
+Team 1 pitcher (Edmundo Martínez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: [1,3], base3: false
+base1: false, base2: true, base3: false
+Score: 6-9
+
+Dante Leoz: rng1 = 97 + 12 - 5 + 1 = 105
+rng2 = 96 + 11 - 6 + 1 = 102
+Home run
+Team 1 pitcher (Edmundo Martínez): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-11
+
+Jadon Mitchell: rng1 = 69 + 12 - 5 + 1 = 77
+rng2 = 23 + 13 - 6 + 1 = 31
+Single
+Team 1 pitcher (Edmundo Martínez): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 2
+
+base1: [3,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-11
+
+Kieran Byrne: rng1 = 62 + 14 - 5 + 1 = 72
+Walk
+Team 1 pitcher (Edmundo Martínez): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: [4,3], base2: [3,3], base3: false
+base1: true, base2: true, base3: false
+Score: 6-11
+
+Anthony Bennett: rng1 = 94 + 11 - 5 + 1 = 101
+rng2 = 96 + 12 - 6 + 1 = 103
+Home run
+Team 1 pitcher (Edmundo Martínez): 6 batters faced, 5 runs allowed = 6 + 12.5 = 18.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-14
+
+Team 1 pitcher change to Phoenix Deleon
+
+Elliot Hudson: rng1 = 63 + 10 - 15 + 1 = 59
+rng2 = 24 + 9 - 15 + 1 = 19
+Groundout
+Team 1 pitcher (Phoenix Deleon): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-14
+
+-----------------------
+
+TOP INNING 9
+
+Mike Rowe: rng1 = 12 + 6 - 6 - 1 = 11
+rng2 = 23 + 3 - 7 - 1 = 18
+Groundout
+Team 2 pitcher (Craig Valencis): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-14
+
+Juan Manzanares: rng1 = 51 + 15 - 6 - 1 = 59
+rng2 = 57 + 13 - 7 - 1 = 62
+Flyout
+Team 2 pitcher (Craig Valencis): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-14
+
+Byron Bartlett: rng1 = 59 + 15 - 6 - 1 = 67
+rng2 = 83 + 12 - 7 - 1 = 87
+Flyout
+Team 2 pitcher (Craig Valencis): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-14
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 6
+Team 2 hits: 16
+Team 1 runs: 6
+Team 2 runs: 14
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					25-Jun-2024
+Juan Manzanares	5	0	0	0	0	0	0	0	1					New Orleans
+Byron Bartlett	5	1	1	0	0	1	1	0	0	
+Edmundo Pousa	3	1	1	1	0	0	0	1	0	
+Arturo Bellamy	4	0	0	0	0	0	0	0	1	
+Terryl Maxwell	3	1	0	0	0	0	0	1	1	
+Darren Adams	4	2	2	0	0	1	2	0	1	
+Alejandro López	1	1	1	1	0	0	2	3	0	
+Facundo Laguna	3	0	0	0	0	0	0	1	1	
+Mike Rowe	4	0	1	1	0	0	1	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Declan Chambers	0	0	1	1	0	0	14	8	5	4	1	5	23	
+Ryu Shi-Woo	0	0	1	0	0	0	7	0	0	0	1	3	8	
+Rakeem Bradley	0	1	1	0	0	0	1	4	4	1	0	0	5	
+Edmundo Martínez	0	0	1	0	0	0	1	4	5	2	1	0	6	
+Phoenix Deleon	0	0	1	0	0	0	1	0	0	0	0	0	1	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					25-Jun-2024
+Cody Henderson	5	0	0	0	0	0	0	0	2					Houston
+Xavier Washington	5	2	2	1	0	1	1	0	1	
+Dante Leoz	4	2	2	0	0	2	3	1	1	
+Jadon Mitchell	5	2	3	1	0	0	0	0	1	
+Kieran Byrne	3	2	1	1	0	0	0	2	0	
+Anthony Bennett	5	3	4	0	0	2	5	0	0	
+Elliot Hudson	5	1	1	0	0	1	2	0	1	
+Dan Robertson	4	1	1	0	0	0	0	0	1	
+Javier Gallardo	4	1	2	0	0	1	3	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Josh Hopkins	0	0	1	1	0	0	18	2	2	1	4	4	23	
+Douglas Bosak	0	0	1	0	0	0	3	1	1	0	1	1	5	
+Foster Roebuck	0	0	1	0	0	0	2	3	3	1	1	0	6	
+Craig Valencis	1	0	1	0	0	0	4	0	0	0	0	1	4	
+Gideon Giles	0	0	0	0	0	0	0	0	0	0	0	0	0	

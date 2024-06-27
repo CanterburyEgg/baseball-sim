@@ -1,0 +1,843 @@
+TOP INNING 1
+
+Oscar Pierce: rng1 = 45 + 12 - 8 - 1 = 48
+rng2 = 38 + 6 - 7 - 1 = 36
+Groundout
+Team 2 pitcher (Daniel Ortega): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Christian Mendez: rng1 = 24 + 9 - 8 - 1 = 24
+Strikeout
+Team 2 pitcher (Daniel Ortega): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jason Burress: rng1 = 8 + 8 - 8 - 1 = 7
+Strikeout
+Team 2 pitcher (Daniel Ortega): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Blake Welsh: rng1 = 52 + 14 - 8 + 1 = 59
+rng2 = 60 + 7 - 8 + 1 = 60
+Flyout
+Team 1 pitcher (Lennon Mooney): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Gabe Roberts: rng1 = 90 + 13 - 8 + 1 = 96
+rng2 = 59 + 12 - 8 + 1 = 64
+Single
+Team 1 pitcher (Lennon Mooney): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Jaquon Lyons: rng1 = 78 + 11 - 8 + 1 = 82
+rng2 = 61 + 9 - 8 + 1 = 63
+Single
+Team 1 pitcher (Lennon Mooney): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Tommy Baxter: rng1 = 41 + 8 - 8 + 1 = 42
+rng2 = 37 + 12 - 8 + 1 = 42
+Groundout
+Team 1 pitcher (Lennon Mooney): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [3,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Mahadi Khan: rng1 = 94 + 11 - 8 + 1 = 98
+rng2 = 47 + 11 - 8 + 1 = 51
+Single
+Team 1 pitcher (Lennon Mooney): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-1
+
+Isaac Secada: rng1 = 59 + 8 - 8 + 1 = 60
+rng2 = 13 + 8 - 8 + 1 = 14
+Groundout
+Team 1 pitcher (Lennon Mooney): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 2
+
+Trace Spears: rng1 = 96 + 6 - 8 - 1 = 93
+rng2 = 84 + 10 - 7 - 1 = 86
+Double
+Team 2 pitcher (Daniel Ortega): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Owen Williamson: rng1 = 79 + 4 - 8 - 1 = 74
+rng2 = 88 + 10 - 7 - 1 = 90
+Double
+Team 2 pitcher (Daniel Ortega): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 0
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Gary Miller: rng1 = 75 + 5 - 8 - 1 = 71
+Walk
+Team 2 pitcher (Daniel Ortega): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 0
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Esteban Obregón: rng1 = 7 + 7 - 8 - 1 = 5
+Strikeout
+Team 2 pitcher (Daniel Ortega): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Kugo Ryutaro: rng1 = 40 + 9 - 8 - 1 = 40
+rng2 = 94 + 5 - 7 - 1 = 91
+Flyout
+Team 2 pitcher (Daniel Ortega): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Jorge Donald: rng1 = 100 + 4 - 8 - 1 = 95
+rng2 = 28 + 8 - 7 - 1 = 28
+Single
+Team 2 pitcher (Daniel Ortega): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [8,0], base2: [5,0], base3: [4,0]
+base1: true, base2: true, base3: true
+Score: 1-1
+
+Oscar Pierce: rng1 = 92 + 12 - 8 - 1 = 95
+rng2 = 97 + 6 - 7 - 1 = 95
+Home run
+Team 2 pitcher (Daniel Ortega): 10 batters faced, 5 runs allowed = 10 + 12.5 = 22.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Christian Mendez: rng1 = 79 + 9 - 8 - 1 = 79
+rng2 = 43 + 8 - 7 - 1 = 43
+Single
+Team 2 pitcher (Daniel Ortega): 11 batters faced, 5 runs allowed = 11 + 12.5 = 23.5, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-1
+
+Jason Burress: rng1 = 95 + 8 - 8 - 1 = 94
+rng2 = 93 + 7 - 7 - 1 = 92
+Double
+Team 2 pitcher (Daniel Ortega): 12 batters faced, 6 runs allowed = 12 + 15.0 = 27.0, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 6-1
+
+Trace Spears: rng1 = 48 + 6 - 8 - 1 = 45
+rng2 = 82 + 10 - 7 - 1 = 84
+Flyout
+Team 2 pitcher (Daniel Ortega): 13 batters faced, 6 runs allowed = 13 + 15.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Yoshida Kei: rng1 = 2 + 5 - 8 + 1 = 0
+Strikeout
+Team 1 pitcher (Lennon Mooney): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Emiel Ware: rng1 = 73 + 6 - 8 + 1 = 72
+Walk
+Team 1 pitcher (Lennon Mooney): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-1
+
+Timothy Bentley: rng1 = 43 + 4 - 8 + 1 = 40
+rng2 = 4 + 6 - 8 + 1 = 3
+Groundout
+Team 1 pitcher (Lennon Mooney): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 6-1
+
+Blake Welsh: rng1 = 60 + 14 - 8 + 1 = 67
+rng2 = 89 + 7 - 8 + 1 = 89
+Flyout
+Team 1 pitcher (Lennon Mooney): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+TOP INNING 3
+
+Owen Williamson: rng1 = 6 + 4 - 8 - 1 = 1
+Strikeout
+Team 2 pitcher (Daniel Ortega): 14 batters faced, 6 runs allowed = 14 + 15.0 = 29.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Gary Miller: rng1 = 56 + 5 - 8 - 1 = 52
+rng2 = 62 + 9 - 7 - 1 = 63
+Flyout
+Team 2 pitcher (Daniel Ortega): 15 batters faced, 6 runs allowed = 15 + 15.0 = 30.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Esteban Obregón: rng1 = 89 + 7 - 8 - 1 = 87
+Walk
+Team 2 pitcher (Daniel Ortega): 16 batters faced, 6 runs allowed = 16 + 15.0 = 31.0, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-1
+
+Kugo Ryutaro: rng1 = 74 + 9 - 8 - 1 = 74
+rng2 = 9 + 5 - 7 - 1 = 6
+Single
+Team 2 pitcher (Daniel Ortega): 17 batters faced, 6 runs allowed = 17 + 15.0 = 32.0, outs: 2
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 6-1
+
+Jorge Donald: rng1 = 60 + 4 - 8 - 1 = 55
+rng2 = 68 + 8 - 7 - 1 = 68
+Flyout
+Team 2 pitcher (Daniel Ortega): 18 batters faced, 6 runs allowed = 18 + 15.0 = 33.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Gabe Roberts: rng1 = 89 + 13 - 8 + 1 = 95
+rng2 = 64 + 12 - 8 + 1 = 69
+Double
+Team 1 pitcher (Lennon Mooney): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 0
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 6-1
+
+Jaquon Lyons: rng1 = 46 + 11 - 8 + 1 = 50
+rng2 = 66 + 9 - 8 + 1 = 68
+Flyout
+Team 1 pitcher (Lennon Mooney): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 6-1
+
+Tommy Baxter: rng1 = 40 + 8 - 8 + 1 = 41
+rng2 = 80 + 12 - 8 + 1 = 85
+Flyout
+Team 1 pitcher (Lennon Mooney): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 6-1
+
+Mahadi Khan: rng1 = 87 + 11 - 8 + 1 = 91
+rng2 = 90 + 11 - 8 + 1 = 94
+Home run
+Team 1 pitcher (Lennon Mooney): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Isaac Secada: rng1 = 21 + 8 - 8 + 1 = 22
+Strikeout
+Team 1 pitcher (Lennon Mooney): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-3
+
+-----------------------
+
+TOP INNING 4
+
+Team 2 pitcher change to Emiliano Navarro
+
+Oscar Pierce: rng1 = 51 + 12 - 8 - 1 = 54
+rng2 = 28 + 6 - 6 - 1 = 27
+Groundout
+Team 2 pitcher (Emiliano Navarro): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Christian Mendez: rng1 = 80 + 9 - 8 - 1 = 80
+rng2 = 2 + 8 - 6 - 1 = 3
+Single
+Team 2 pitcher (Emiliano Navarro): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-3
+
+Jason Burress: rng1 = 91 + 8 - 8 - 1 = 90
+Walk
+Team 2 pitcher (Emiliano Navarro): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,1], base2: [1,1], base3: false
+base1: true, base2: true, base3: false
+Score: 6-3
+
+Trace Spears: rng1 = 52 + 6 - 8 - 1 = 49
+rng2 = 30 + 10 - 6 - 1 = 33
+Groundout
+Team 2 pitcher (Emiliano Navarro): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [3,1], base2: false, base3: [1,1]
+base1: true, base2: false, base3: true
+Score: 6-3
+
+Owen Williamson: rng1 = 23 + 4 - 8 - 1 = 18
+Strikeout
+Team 2 pitcher (Emiliano Navarro): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-3
+
+-----------------------
+
+BOTTOM INNING 4
+
+Yoshida Kei: rng1 = 94 + 5 - 8 + 1 = 92
+rng2 = 17 + 8 - 8 + 1 = 18
+Single
+Team 1 pitcher (Lennon Mooney): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-3
+
+Emiel Ware: rng1 = 2 + 6 - 8 + 1 = 1
+Strikeout
+Team 1 pitcher (Lennon Mooney): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-3
+
+Timothy Bentley: rng1 = 3 + 4 - 8 + 1 = 0
+Strikeout
+Team 1 pitcher (Lennon Mooney): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-3
+
+Blake Welsh: rng1 = 62 + 14 - 8 + 1 = 69
+rng2 = 26 + 7 - 8 + 1 = 26
+Groundout
+Team 1 pitcher (Lennon Mooney): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-3
+
+-----------------------
+
+TOP INNING 5
+
+Team 2 pitcher change to Kwok Kwang-Seok
+
+Gary Miller: rng1 = 98 + 5 - 9 - 1 = 93
+rng2 = 72 + 9 - 10 - 1 = 70
+Double
+Team 2 pitcher (Kwok Kwang-Seok): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [5,2], base3: false
+base1: false, base2: true, base3: false
+Score: 6-3
+
+Esteban Obregón: rng1 = 42 + 7 - 9 - 1 = 39
+rng2 = 9 + 7 - 10 - 1 = 5
+Groundout
+Team 2 pitcher (Kwok Kwang-Seok): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [5,2], base3: false
+base1: false, base2: true, base3: false
+Score: 6-3
+
+Kugo Ryutaro: rng1 = 9 + 9 - 9 - 1 = 8
+Strikeout
+Team 2 pitcher (Kwok Kwang-Seok): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [5,2], base3: false
+base1: false, base2: true, base3: false
+Score: 6-3
+
+Jorge Donald: rng1 = 82 + 4 - 9 - 1 = 76
+rng2 = 81 + 8 - 10 - 1 = 78
+Double
+Team 2 pitcher (Kwok Kwang-Seok): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [8,2], base3: false
+base1: false, base2: true, base3: false
+Score: 7-3
+
+Oscar Pierce: rng1 = 20 + 12 - 9 - 1 = 22
+Strikeout
+Team 2 pitcher (Kwok Kwang-Seok): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-3
+
+-----------------------
+
+BOTTOM INNING 5
+
+Gabe Roberts: rng1 = 44 + 13 - 8 + 1 = 50
+rng2 = 76 + 12 - 8 + 1 = 81
+Flyout
+Team 1 pitcher (Lennon Mooney): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-3
+
+Jaquon Lyons: rng1 = 49 + 11 - 8 + 1 = 53
+rng2 = 48 + 9 - 8 + 1 = 50
+Lineout
+Team 1 pitcher (Lennon Mooney): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-3
+
+Tommy Baxter: rng1 = 63 + 8 - 8 + 1 = 64
+rng2 = 89 + 12 - 8 + 1 = 94
+Flyout
+Team 1 pitcher (Lennon Mooney): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-3
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Isaac Hartman
+
+Christian Mendez: rng1 = 63 + 9 - 9 - 1 = 62
+rng2 = 69 + 8 - 9 - 1 = 67
+Flyout
+Team 2 pitcher (Isaac Hartman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-3
+
+Jason Burress: rng1 = 38 + 8 - 9 - 1 = 36
+rng2 = 59 + 7 - 9 - 1 = 56
+Lineout
+Team 2 pitcher (Isaac Hartman): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-3
+
+Trace Spears: rng1 = 46 + 6 - 9 - 1 = 42
+rng2 = 10 + 10 - 9 - 1 = 10
+Groundout
+Team 2 pitcher (Isaac Hartman): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-3
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Agustin Acosta
+
+Mahadi Khan: rng1 = 12 + 11 - 7 + 1 = 17
+Strikeout
+Team 1 pitcher (Agustin Acosta): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-3
+
+Isaac Secada: rng1 = 84 + 8 - 7 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Agustin Acosta): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-3
+
+Yoshida Kei: rng1 = 10 + 5 - 7 + 1 = 9
+Strikeout
+Team 1 pitcher (Agustin Acosta): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-3
+
+Emiel Ware: rng1 = 87 + 6 - 7 + 1 = 87
+Walk
+Team 1 pitcher (Agustin Acosta): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [7,1], base2: [5,1], base3: false
+base1: true, base2: true, base3: false
+Score: 7-3
+
+Timothy Bentley: rng1 = 14 + 4 - 7 + 1 = 12
+rng2 = 78 + 6 - 7 + 1 = 78
+Flyout
+Team 1 pitcher (Agustin Acosta): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-3
+
+-----------------------
+
+TOP INNING 7
+
+Owen Williamson: rng1 = 91 + 4 - 9 - 1 = 85
+rng2 = 75 + 10 - 9 - 1 = 75
+Double
+Team 2 pitcher (Isaac Hartman): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: false, base2: [4,3], base3: false
+base1: false, base2: true, base3: false
+Score: 7-3
+
+Gary Miller: rng1 = 69 + 5 - 9 - 1 = 64
+rng2 = 39 + 9 - 9 - 1 = 38
+Groundout
+Team 2 pitcher (Isaac Hartman): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: [4,3], base3: false
+base1: false, base2: true, base3: false
+Score: 7-3
+
+Esteban Obregón: rng1 = 29 + 7 - 9 - 1 = 26
+Strikeout
+Team 2 pitcher (Isaac Hartman): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: [4,3], base3: false
+base1: false, base2: true, base3: false
+Score: 7-3
+
+Kugo Ryutaro: rng1 = 5 + 9 - 9 - 1 = 4
+Strikeout
+Team 2 pitcher (Isaac Hartman): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-3
+
+-----------------------
+
+BOTTOM INNING 7
+
+Blake Welsh: rng1 = 59 + 14 - 7 + 1 = 67
+rng2 = 100 + 7 - 7 + 1 = 101
+Flyout
+Team 1 pitcher (Agustin Acosta): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-3
+
+Gabe Roberts: rng1 = 57 + 13 - 7 + 1 = 64
+rng2 = 100 + 12 - 7 + 1 = 106
+Flyout
+Team 1 pitcher (Agustin Acosta): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-3
+
+Jaquon Lyons: rng1 = 77 + 11 - 7 + 1 = 82
+rng2 = 79 + 9 - 7 + 1 = 82
+Home run
+Team 1 pitcher (Agustin Acosta): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-4
+
+Tommy Baxter: rng1 = 70 + 8 - 7 + 1 = 72
+Walk
+Team 1 pitcher (Agustin Acosta): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-4
+
+Mahadi Khan: rng1 = 70 + 11 - 7 + 1 = 75
+rng2 = 25 + 11 - 7 + 1 = 30
+Single
+Team 1 pitcher (Agustin Acosta): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: [4,1], base2: [3,1], base3: false
+base1: true, base2: true, base3: false
+Score: 7-4
+
+Team 1 pitcher change to Hiraoka Yosai
+
+Isaac Secada: rng1 = 41 + 8 - 10 + 1 = 40
+rng2 = 96 + 8 - 9 + 1 = 96
+Flyout
+Team 1 pitcher (Hiraoka Yosai): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-4
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Abraham Pace
+
+Jorge Donald: rng1 = 90 + 4 - 11 - 1 = 82
+rng2 = 14 + 8 - 10 - 1 = 11
+Single
+Team 2 pitcher (Abraham Pace): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [8,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-4
+
+Oscar Pierce: rng1 = 74 + 12 - 11 - 1 = 74
+rng2 = 20 + 6 - 10 - 1 = 15
+Single
+Team 2 pitcher (Abraham Pace): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [0,4], base2: [8,4], base3: false
+base1: true, base2: true, base3: false
+Score: 7-4
+
+Christian Mendez: rng1 = 93 + 9 - 11 - 1 = 90
+Walk
+Team 2 pitcher (Abraham Pace): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 0
+
+base1: [1,4], base2: [0,4], base3: [8,4]
+base1: true, base2: true, base3: true
+Score: 7-4
+
+Jason Burress: rng1 = 32 + 8 - 11 - 1 = 28
+Strikeout
+Team 2 pitcher (Abraham Pace): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [1,4], base2: [0,4], base3: [8,4]
+base1: true, base2: true, base3: true
+Score: 7-4
+
+Trace Spears: rng1 = 51 + 6 - 11 - 1 = 45
+rng2 = 47 + 10 - 10 - 1 = 46
+Groundout
+Team 2 pitcher (Abraham Pace): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: [3,4], base2: [1,4], base3: [0,4]
+base1: true, base2: true, base3: true
+Score: 7-4
+
+Owen Williamson: rng1 = 62 + 4 - 11 - 1 = 54
+rng2 = 3 + 10 - 10 - 1 = 2
+Groundout
+Team 2 pitcher (Abraham Pace): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-4
+
+-----------------------
+
+BOTTOM INNING 8
+
+Yoshida Kei: rng1 = 7 + 5 - 10 + 1 = 3
+Strikeout
+Team 1 pitcher (Hiraoka Yosai): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-4
+
+Emiel Ware: rng1 = 7 + 6 - 10 + 1 = 4
+Strikeout
+Team 1 pitcher (Hiraoka Yosai): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-4
+
+Timothy Bentley: rng1 = 31 + 4 - 10 + 1 = 26
+Strikeout
+Team 1 pitcher (Hiraoka Yosai): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-4
+
+-----------------------
+
+TOP INNING 9
+
+Gary Miller: rng1 = 83 + 5 - 11 - 1 = 76
+rng2 = 44 + 9 - 10 - 1 = 42
+Single
+Team 2 pitcher (Abraham Pace): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 0
+
+base1: [5,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-4
+
+Esteban Obregón: rng1 = 99 + 7 - 11 - 1 = 94
+rng2 = 22 + 7 - 10 - 1 = 18
+Single
+Team 2 pitcher (Abraham Pace): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 0
+
+base1: [6,4], base2: [5,4], base3: false
+base1: true, base2: true, base3: false
+Score: 7-4
+
+Kugo Ryutaro: rng1 = 44 + 9 - 11 - 1 = 41
+rng2 = 4 + 5 - 10 - 1 = -2
+Groundout
+Team 2 pitcher (Abraham Pace): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: false, base2: [6,4], base3: [5,4]
+base1: false, base2: true, base3: true
+Score: 7-4
+
+Jorge Donald: rng1 = 42 + 4 - 11 - 1 = 34
+rng2 = 97 + 8 - 10 - 1 = 94
+Flyout
+Team 2 pitcher (Abraham Pace): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: false, base2: [6,4], base3: false
+base1: false, base2: true, base3: false
+Score: 8-4
+
+Oscar Pierce: rng1 = 20 + 12 - 11 - 1 = 20
+Strikeout
+Team 2 pitcher (Abraham Pace): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-4
+
+-----------------------
+
+BOTTOM INNING 9
+
+Blake Welsh: rng1 = 57 + 14 - 10 + 1 = 62
+rng2 = 23 + 7 - 9 + 1 = 22
+Groundout
+Team 1 pitcher (Hiraoka Yosai): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-4
+
+Gabe Roberts: rng1 = 60 + 13 - 10 + 1 = 64
+rng2 = 30 + 12 - 9 + 1 = 34
+Groundout
+Team 1 pitcher (Hiraoka Yosai): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-4
+
+Jaquon Lyons: rng1 = 21 + 11 - 10 + 1 = 23
+Strikeout
+Team 1 pitcher (Hiraoka Yosai): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-4
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 15
+Team 2 hits: 8
+Team 1 runs: 8
+Team 2 runs: 4
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					26-Jun-2024
+Oscar Pierce	6	1	2	0	0	1	4	0	2					Tennessee
+Christian Mendez	4	1	2	0	0	0	0	1	1	
+Jason Burress	4	0	1	1	0	0	1	1	2	
+Trace Spears	5	1	1	1	0	0	0	0	0	
+Owen Williamson	5	1	2	2	0	0	1	0	2	
+Gary Miller	4	3	2	1	0	0	0	1	0	
+Esteban Obregón	4	0	1	0	0	0	0	1	2	
+Kugo Ryutaro	5	0	1	0	0	0	0	0	2	
+Jorge Donald	5	1	3	1	0	0	2	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Lennon Mooney	1	0	1	1	0	0	15	6	3	1	1	4	22	
+Agustin Acosta	0	0	1	0	0	0	5	2	1	1	2	2	10	
+Hiraoka Yosai	0	0	1	0	0	0	7	0	0	0	0	4	7	
+Major Ortiz	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Matias Rivera	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					26-Jun-2024
+Blake Welsh	5	0	0	0	0	0	0	0	0					Miami
+Gabe Roberts	5	2	2	1	0	0	0	0	0	
+Jaquon Lyons	5	1	2	0	0	1	1	0	1	
+Tommy Baxter	3	0	0	0	0	0	0	1	0	
+Mahadi Khan	4	1	3	0	0	1	3	0	1	
+Isaac Secada	3	0	0	0	0	0	0	0	1	
+Yoshida Kei	4	0	1	0	0	0	0	0	3	
+Emiel Ware	2	0	0	0	0	0	0	2	2	
+Timothy Bentley	4	0	0	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Daniel Ortega	0	1	1	1	0	0	9	7	6	1	2	4	18	
+Emiliano Navarro	0	0	1	0	0	0	3	1	0	0	1	1	5	
+Kwok Kwang-Seok	0	0	1	0	0	0	3	2	1	0	0	2	5	
+Isaac Hartman	0	0	1	0	0	0	6	1	0	0	0	2	7	
+Abraham Pace	0	0	1	0	0	0	6	4	1	0	1	2	11	

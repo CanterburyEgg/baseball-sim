@@ -1,0 +1,786 @@
+TOP INNING 1
+
+Oscar Pierce: rng1 = 59 + 12 - 7 - 1 = 63
+rng2 = 53 + 6 - 8 - 1 = 50
+Lineout
+Team 2 pitcher (Dominic Doyle): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Christian Mendez: rng1 = 11 + 9 - 7 - 1 = 12
+rng2 = 30 + 8 - 8 - 1 = 29
+Groundout
+Team 2 pitcher (Dominic Doyle): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jason Burress: rng1 = 35 + 8 - 7 - 1 = 35
+rng2 = 33 + 7 - 8 - 1 = 31
+Groundout
+Team 2 pitcher (Dominic Doyle): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Wakasugi Norogumi: rng1 = 65 + 15 - 8 + 1 = 73
+rng2 = 47 + 14 - 8 + 1 = 54
+Single
+Team 1 pitcher (Lennon Mooney): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Desharious Roberson: rng1 = 87 + 13 - 8 + 1 = 93
+rng2 = 94 + 7 - 8 + 1 = 94
+Home run
+Team 1 pitcher (Lennon Mooney): 2 batters faced, 2 runs allowed = 2 + 5.0 = 7.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Lawson Haney: rng1 = 35 + 13 - 8 + 1 = 41
+rng2 = 20 + 12 - 8 + 1 = 25
+Groundout
+Team 1 pitcher (Lennon Mooney): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Ethan Spencer: rng1 = 15 + 11 - 8 + 1 = 19
+Strikeout
+Team 1 pitcher (Lennon Mooney): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Xavier Cabrera: rng1 = 65 + 13 - 8 + 1 = 71
+Walk
+Team 1 pitcher (Lennon Mooney): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Alfonso Stafford: rng1 = 11 + 12 - 8 + 1 = 16
+Strikeout
+Team 1 pitcher (Lennon Mooney): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 2
+
+Trace Spears: rng1 = 100 + 6 - 7 - 1 = 98
+rng2 = 37 + 10 - 8 - 1 = 38
+Single
+Team 2 pitcher (Dominic Doyle): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Owen Williamson: rng1 = 30 + 4 - 7 - 1 = 26
+Strikeout
+Team 2 pitcher (Dominic Doyle): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Gary Miller: rng1 = 85 + 5 - 7 - 1 = 82
+rng2 = 76 + 9 - 8 - 1 = 76
+Double
+Team 2 pitcher (Dominic Doyle): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: [5,0], base3: [3,0]
+base1: false, base2: true, base3: true
+Score: 0-2
+
+Esteban Obregón: rng1 = 71 + 7 - 7 - 1 = 70
+Walk
+Team 2 pitcher (Dominic Doyle): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [6,0], base2: [5,0], base3: [3,0]
+base1: true, base2: true, base3: true
+Score: 0-2
+
+Kugo Ryutaro: rng1 = 59 + 9 - 7 - 1 = 60
+rng2 = 52 + 5 - 8 - 1 = 48
+Lineout
+Team 2 pitcher (Dominic Doyle): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [6,0], base2: [5,0], base3: [3,0]
+base1: true, base2: true, base3: true
+Score: 0-2
+
+Jorge Donald: rng1 = 25 + 4 - 7 - 1 = 21
+Strikeout
+Team 2 pitcher (Dominic Doyle): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+BOTTOM INNING 2
+
+Ike Nicholson: rng1 = 89 + 6 - 8 + 1 = 88
+Walk
+Team 1 pitcher (Lennon Mooney): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Hayden Wright: rng1 = 60 + 7 - 8 + 1 = 60
+rng2 = 94 + 7 - 8 + 1 = 94
+Flyout
+Team 1 pitcher (Lennon Mooney): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Joel Arboleda: rng1 = 51 + 6 - 8 + 1 = 50
+rng2 = 13 + 5 - 8 + 1 = 11
+Groundout
+Team 1 pitcher (Lennon Mooney): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 2
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-2
+
+Wakasugi Norogumi: rng1 = 3 + 15 - 8 + 1 = 11
+rng2 = 77 + 14 - 8 + 1 = 84
+Flyout
+Team 1 pitcher (Lennon Mooney): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 3
+
+Oscar Pierce: rng1 = 12 + 12 - 7 - 1 = 16
+Strikeout
+Team 2 pitcher (Dominic Doyle): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Christian Mendez: rng1 = 11 + 9 - 7 - 1 = 12
+rng2 = 30 + 8 - 8 - 1 = 29
+Groundout
+Team 2 pitcher (Dominic Doyle): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Jason Burress: rng1 = 19 + 8 - 7 - 1 = 19
+Strikeout
+Team 2 pitcher (Dominic Doyle): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+BOTTOM INNING 3
+
+Desharious Roberson: rng1 = 39 + 13 - 8 + 1 = 45
+rng2 = 100 + 7 - 8 + 1 = 100
+Flyout
+Team 1 pitcher (Lennon Mooney): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Lawson Haney: rng1 = 76 + 13 - 8 + 1 = 82
+rng2 = 27 + 12 - 8 + 1 = 32
+Single
+Team 1 pitcher (Lennon Mooney): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Ethan Spencer: rng1 = 57 + 11 - 8 + 1 = 61
+rng2 = 42 + 15 - 8 + 1 = 50
+Lineout
+Team 1 pitcher (Lennon Mooney): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Xavier Cabrera: rng1 = 60 + 13 - 8 + 1 = 66
+rng2 = 54 + 12 - 8 + 1 = 59
+Flyout
+Team 1 pitcher (Lennon Mooney): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 4
+
+Trace Spears: rng1 = 89 + 6 - 7 - 1 = 87
+Walk
+Team 2 pitcher (Dominic Doyle): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Owen Williamson: rng1 = 84 + 4 - 7 - 1 = 80
+rng2 = 100 + 10 - 8 - 1 = 101
+Home run
+Team 2 pitcher (Dominic Doyle): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Gary Miller: rng1 = 15 + 5 - 7 - 1 = 12
+rng2 = 20 + 9 - 8 - 1 = 20
+Groundout
+Team 2 pitcher (Dominic Doyle): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Esteban Obregón: rng1 = 88 + 7 - 7 - 1 = 87
+Walk
+Team 2 pitcher (Dominic Doyle): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Kugo Ryutaro: rng1 = 69 + 9 - 7 - 1 = 70
+Walk
+Team 2 pitcher (Dominic Doyle): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 1
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-2
+
+Jorge Donald: rng1 = 58 + 4 - 7 - 1 = 54
+rng2 = 2 + 8 - 8 - 1 = 1
+Groundout
+Team 2 pitcher (Dominic Doyle): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 2
+
+base1: [8,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 2-2
+
+Oscar Pierce: rng1 = 95 + 12 - 7 - 1 = 99
+rng2 = 10 + 6 - 8 - 1 = 7
+Single
+Team 2 pitcher (Dominic Doyle): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 2
+
+base1: [0,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 3-2
+
+Christian Mendez: rng1 = 68 + 9 - 7 - 1 = 69
+rng2 = 36 + 8 - 8 - 1 = 35
+Groundout
+Team 2 pitcher (Dominic Doyle): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+BOTTOM INNING 4
+
+Alfonso Stafford: rng1 = 60 + 12 - 8 + 1 = 65
+rng2 = 87 + 10 - 8 + 1 = 90
+Flyout
+Team 1 pitcher (Lennon Mooney): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Ike Nicholson: rng1 = 86 + 6 - 8 + 1 = 85
+rng2 = 56 + 11 - 8 + 1 = 60
+Single
+Team 1 pitcher (Lennon Mooney): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Hayden Wright: rng1 = 7 + 7 - 8 + 1 = 7
+Strikeout
+Team 1 pitcher (Lennon Mooney): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Joel Arboleda: rng1 = 1 + 6 - 8 + 1 = 0
+Strikeout
+Team 1 pitcher (Lennon Mooney): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+TOP INNING 5
+
+Team 2 pitcher change to Thomas Dillard
+
+Jason Burress: rng1 = 82 + 8 - 12 - 1 = 77
+rng2 = 10 + 7 - 10 - 1 = 6
+Single
+Team 2 pitcher (Thomas Dillard): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Trace Spears: rng1 = 96 + 6 - 12 - 1 = 89
+Walk
+Team 2 pitcher (Thomas Dillard): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [3,1], base2: [2,1], base3: false
+base1: true, base2: true, base3: false
+Score: 3-2
+
+Owen Williamson: rng1 = 63 + 4 - 12 - 1 = 54
+rng2 = 7 + 10 - 10 - 1 = 6
+Groundout
+Team 2 pitcher (Thomas Dillard): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [4,1], base2: [3,1], base3: false
+base1: true, base2: true, base3: false
+Score: 3-2
+
+Gary Miller: rng1 = 50 + 5 - 12 - 1 = 42
+rng2 = 87 + 9 - 10 - 1 = 85
+Flyout
+Team 2 pitcher (Thomas Dillard): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [4,1], base2: false, base3: [3,1]
+base1: true, base2: false, base3: true
+Score: 3-2
+
+Esteban Obregón: rng1 = 82 + 7 - 12 - 1 = 76
+rng2 = 83 + 7 - 10 - 1 = 79
+Triple
+Team 2 pitcher (Thomas Dillard): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: false, base2: false, base3: [6,1]
+base1: false, base2: false, base3: true
+Score: 5-2
+
+Kugo Ryutaro: rng1 = 76 + 9 - 12 - 1 = 72
+Walk
+Team 2 pitcher (Thomas Dillard): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: [7,1], base2: false, base3: [6,1]
+base1: true, base2: false, base3: true
+Score: 5-2
+
+Jorge Donald: rng1 = 54 + 4 - 12 - 1 = 45
+rng2 = 74 + 8 - 10 - 1 = 71
+Flyout
+Team 2 pitcher (Thomas Dillard): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-2
+
+-----------------------
+
+BOTTOM INNING 5
+
+Wakasugi Norogumi: rng1 = 95 + 15 - 8 + 1 = 103
+rng2 = 96 + 14 - 8 + 1 = 103
+Home run
+Team 1 pitcher (Lennon Mooney): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Desharious Roberson: rng1 = 19 + 13 - 8 + 1 = 25
+Strikeout
+Team 1 pitcher (Lennon Mooney): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Lawson Haney: rng1 = 15 + 13 - 8 + 1 = 21
+Strikeout
+Team 1 pitcher (Lennon Mooney): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Ethan Spencer: rng1 = 18 + 11 - 8 + 1 = 22
+Strikeout
+Team 1 pitcher (Lennon Mooney): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Saiki Iwane
+
+Oscar Pierce: rng1 = 66 + 12 - 11 - 1 = 66
+rng2 = 49 + 6 - 10 - 1 = 44
+Groundout
+Team 2 pitcher (Saiki Iwane): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Christian Mendez: rng1 = 91 + 9 - 11 - 1 = 88
+Walk
+Team 2 pitcher (Saiki Iwane): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-3
+
+Jason Burress: rng1 = 19 + 8 - 11 - 1 = 15
+rng2 = 9 + 7 - 10 - 1 = 5
+Groundout
+Team 2 pitcher (Saiki Iwane): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [1,2], base3: false
+base1: false, base2: true, base3: false
+Score: 5-3
+
+Trace Spears: rng1 = 67 + 6 - 11 - 1 = 61
+rng2 = 15 + 10 - 10 - 1 = 14
+Groundout
+Team 2 pitcher (Saiki Iwane): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Major Ortiz
+
+Xavier Cabrera: rng1 = 21 + 13 - 9 + 1 = 26
+Strikeout
+Team 1 pitcher (Major Ortiz): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Alfonso Stafford: rng1 = 59 + 12 - 9 + 1 = 63
+rng2 = 83 + 10 - 7 + 1 = 87
+Flyout
+Team 1 pitcher (Major Ortiz): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Ike Nicholson: rng1 = 27 + 6 - 9 + 1 = 25
+Strikeout
+Team 1 pitcher (Major Ortiz): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+TOP INNING 7
+
+Owen Williamson: rng1 = 36 + 4 - 11 - 1 = 28
+Strikeout
+Team 2 pitcher (Saiki Iwane): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Gary Miller: rng1 = 19 + 5 - 11 - 1 = 12
+rng2 = 35 + 9 - 10 - 1 = 33
+Groundout
+Team 2 pitcher (Saiki Iwane): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Esteban Obregón: rng1 = 42 + 7 - 11 - 1 = 37
+rng2 = 52 + 7 - 10 - 1 = 48
+Lineout
+Team 2 pitcher (Saiki Iwane): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+BOTTOM INNING 7
+
+Hayden Wright: rng1 = 86 + 7 - 9 + 1 = 85
+rng2 = 64 + 7 - 7 + 1 = 65
+Single
+Team 1 pitcher (Major Ortiz): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-3
+
+Joel Arboleda: rng1 = 17 + 6 - 9 + 1 = 15
+rng2 = 34 + 5 - 7 + 1 = 33
+Groundout
+Team 1 pitcher (Major Ortiz): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-3
+
+Wakasugi Norogumi: rng1 = 1 + 15 - 9 + 1 = 8
+Strikeout
+Team 1 pitcher (Major Ortiz): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-3
+
+Desharious Roberson: rng1 = 42 + 13 - 9 + 1 = 47
+rng2 = 77 + 7 - 7 + 1 = 78
+Flyout
+Team 1 pitcher (Major Ortiz): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Evan Veselka
+
+Kugo Ryutaro: rng1 = 1 + 9 - 11 - 1 = -2
+Strikeout
+Team 2 pitcher (Evan Veselka): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Jorge Donald: rng1 = 12 + 4 - 11 - 1 = 4
+Strikeout
+Team 2 pitcher (Evan Veselka): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Oscar Pierce: rng1 = 8 + 12 - 11 - 1 = 8
+Strikeout
+Team 2 pitcher (Evan Veselka): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Agustin Acosta
+
+Lawson Haney: rng1 = 21 + 13 - 7 + 1 = 28
+Strikeout
+Team 1 pitcher (Agustin Acosta): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Ethan Spencer: rng1 = 90 + 11 - 7 + 1 = 95
+rng2 = 47 + 15 - 7 + 1 = 56
+Single
+Team 1 pitcher (Agustin Acosta): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [3,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-3
+
+Xavier Cabrera: rng1 = 46 + 13 - 7 + 1 = 53
+rng2 = 98 + 12 - 7 + 1 = 104
+Flyout
+Team 1 pitcher (Agustin Acosta): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [3,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-3
+
+Alfonso Stafford: rng1 = 17 + 12 - 7 + 1 = 23
+Strikeout
+Team 1 pitcher (Agustin Acosta): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+TOP INNING 9
+
+Christian Mendez: rng1 = 74 + 9 - 11 - 1 = 71
+Walk
+Team 2 pitcher (Evan Veselka): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [1,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-3
+
+Jason Burress: rng1 = 39 + 8 - 11 - 1 = 35
+rng2 = 3 + 7 - 8 - 1 = 1
+Groundout
+Team 2 pitcher (Evan Veselka): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Trace Spears: rng1 = 86 + 6 - 11 - 1 = 80
+rng2 = 1 + 10 - 8 - 1 = 2
+Single
+Team 2 pitcher (Evan Veselka): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [3,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-3
+
+Owen Williamson: rng1 = 98 + 4 - 11 - 1 = 90
+Walk
+Team 2 pitcher (Evan Veselka): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [4,3], base2: [3,3], base3: false
+base1: true, base2: true, base3: false
+Score: 5-3
+
+Gary Miller: rng1 = 69 + 5 - 11 - 1 = 62
+rng2 = 82 + 9 - 8 - 1 = 82
+Flyout
+Team 2 pitcher (Evan Veselka): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Matias Rivera
+
+Ike Nicholson: rng1 = 100 + 6 - 9 + 1 = 98
+rng2 = 29 + 11 - 12 + 1 = 29
+Single
+Team 1 pitcher (Matias Rivera): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [6,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-3
+
+Hayden Wright: rng1 = 50 + 7 - 9 + 1 = 49
+rng2 = 21 + 7 - 12 + 1 = 17
+Groundout
+Team 1 pitcher (Matias Rivera): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [7,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-3
+
+Joel Arboleda: rng1 = 9 + 6 - 9 + 1 = 7
+Strikeout
+Team 1 pitcher (Matias Rivera): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [7,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-3
+
+Wakasugi Norogumi: rng1 = 28 + 15 - 9 + 1 = 35
+rng2 = 94 + 14 - 12 + 1 = 97
+Flyout
+Team 1 pitcher (Matias Rivera): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 7
+Team 2 hits: 8
+Team 1 runs: 5
+Team 2 runs: 3
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					5-Jul-24
+Oscar Pierce	5	0	1	0	0	0	1	0	2					Tennessee
+Christian Mendez	3	0	0	0	0	0	0	2	0	
+Jason Burress	5	0	1	0	0	0	0	0	1	
+Trace Spears	3	2	2	0	0	0	0	2	0	
+Owen Williamson	4	2	1	0	0	1	2	1	2	
+Gary Miller	5	0	1	1	0	0	0	0	0	
+Esteban Obregón	2	1	1	0	1	0	2	2	0	
+Kugo Ryutaro	2	0	0	0	0	0	0	2	1	
+Jorge Donald	4	0	0	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Lennon Mooney	1	0	1	1	0	0	15	5	3	2	2	7	22	
+Major Ortiz	0	0	1	0	0	0	6	1	0	0	0	3	7	
+Agustin Acosta	0	0	1	0	0	0	3	1	0	0	0	2	4	
+Hiraoka Yosai	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Matias Rivera	0	0	1	0	1	1	3	1	0	0	0	1	4	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					5-Jul-24
+Wakasugi Norogumi	5	2	2	0	0	1	1	0	1					Atlanta
+Desharious Roberson	4	1	1	0	0	1	2	0	1	
+Lawson Haney	4	0	1	0	0	0	0	0	2	
+Ethan Spencer	4	0	1	0	0	0	0	0	2	
+Xavier Cabrera	3	0	0	0	0	0	0	1	1	
+Alfonso Stafford	4	0	0	0	0	0	0	0	2	
+Ike Nicholson	3	0	2	0	0	0	0	1	1	
+Hayden Wright	4	0	1	0	0	0	0	0	1	
+Joel Arboleda	4	0	0	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Dominic Doyle	0	1	1	1	0	0	12	4	3	1	4	4	20	
+Thomas Dillard	0	0	1	0	0	0	3	2	2	0	2	0	7	
+Saiki Iwane	0	0	1	0	0	0	6	0	0	0	1	1	7	
+Evan Veselka	0	0	1	0	0	0	6	1	0	0	2	3	8	
+Juancarlo Pinto	0	0	0	0	0	0	0	0	0	0	0	0	0	

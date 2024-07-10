@@ -1,0 +1,873 @@
+TOP INNING 1
+
+Liam Green: rng1 = 87 + 14 - 9 - 1 = 91
+rng2 = 12 + 12 - 8 - 1 = 15
+Single
+Team 2 pitcher (Daigo Yoshimochi): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Henry Webb: rng1 = 46 + 13 - 9 - 1 = 49
+rng2 = 13 + 14 - 8 - 1 = 18
+Groundout
+Team 2 pitcher (Daigo Yoshimochi): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Won-Ho Kim: rng1 = 90 + 11 - 9 - 1 = 91
+rng2 = 93 + 10 - 8 - 1 = 94
+Home run
+Team 2 pitcher (Daigo Yoshimochi): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Yaniel Benitez: rng1 = 77 + 10 - 9 - 1 = 77
+rng2 = 83 + 12 - 8 - 1 = 86
+Double
+Team 2 pitcher (Daigo Yoshimochi): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-0
+
+Isaac Correa: rng1 = 19 + 10 - 9 - 1 = 19
+Strikeout
+Team 2 pitcher (Daigo Yoshimochi): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-0
+
+Serafín Sancho: rng1 = 40 + 9 - 9 - 1 = 39
+rng2 = 78 + 10 - 8 - 1 = 79
+Flyout
+Team 2 pitcher (Daigo Yoshimochi): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Isaac Morris: rng1 = 65 + 15 - 8 + 1 = 73
+rng2 = 17 + 15 - 5 + 1 = 28
+Single
+Team 1 pitcher (Minamoto Norihisa): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Ryuke Watanabe: rng1 = 83 + 14 - 8 + 1 = 90
+Walk
+Team 1 pitcher (Minamoto Norihisa): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-0
+
+Martin Holland: rng1 = 24 + 13 - 8 + 1 = 30
+rng2 = 35 + 5 - 5 + 1 = 36
+Groundout
+Team 1 pitcher (Minamoto Norihisa): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: [1,0], base3: [0,0]
+base1: false, base2: true, base3: true
+Score: 2-0
+
+Yorell Harmon: rng1 = 68 + 12 - 8 + 1 = 73
+rng2 = 43 + 13 - 5 + 1 = 52
+Single
+Team 1 pitcher (Minamoto Norihisa): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [3,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 2-1
+
+Trey Walter: rng1 = 55 + 11 - 8 + 1 = 59
+rng2 = 84 + 12 - 5 + 1 = 92
+Flyout
+Team 1 pitcher (Minamoto Norihisa): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Angel Semprún: rng1 = 22 + 12 - 8 + 1 = 27
+Strikeout
+Team 1 pitcher (Minamoto Norihisa): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+TOP INNING 2
+
+Iker Pareja: rng1 = 2 + 7 - 9 - 1 = -1
+Strikeout
+Team 2 pitcher (Daigo Yoshimochi): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Watabe Kazuyuki: rng1 = 76 + 4 - 9 - 1 = 70
+Walk
+Team 2 pitcher (Daigo Yoshimochi): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Luis Canales: rng1 = 65 + 7 - 9 - 1 = 62
+rng2 = 78 + 4 - 8 - 1 = 73
+Flyout
+Team 2 pitcher (Daigo Yoshimochi): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Liam Green: rng1 = 62 + 14 - 9 - 1 = 66
+rng2 = 87 + 12 - 8 - 1 = 90
+Flyout
+Team 2 pitcher (Daigo Yoshimochi): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+BOTTOM INNING 2
+
+Whalen Tate: rng1 = 61 + 2 - 8 + 1 = 56
+rng2 = 18 + 10 - 5 + 1 = 24
+Groundout
+Team 1 pitcher (Minamoto Norihisa): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Romero Hidalgo: rng1 = 63 + 7 - 8 + 1 = 63
+rng2 = 31 + 3 - 5 + 1 = 30
+Groundout
+Team 1 pitcher (Minamoto Norihisa): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Parker Dillard: rng1 = 40 + 5 - 8 + 1 = 38
+rng2 = 85 + 4 - 5 + 1 = 85
+Flyout
+Team 1 pitcher (Minamoto Norihisa): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+TOP INNING 3
+
+Henry Webb: rng1 = 23 + 13 - 9 - 1 = 26
+Strikeout
+Team 2 pitcher (Daigo Yoshimochi): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Won-Ho Kim: rng1 = 34 + 11 - 9 - 1 = 35
+rng2 = 20 + 10 - 8 - 1 = 21
+Groundout
+Team 2 pitcher (Daigo Yoshimochi): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Yaniel Benitez: rng1 = 46 + 10 - 9 - 1 = 46
+rng2 = 83 + 12 - 8 - 1 = 86
+Flyout
+Team 2 pitcher (Daigo Yoshimochi): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+BOTTOM INNING 3
+
+Isaac Morris: rng1 = 26 + 15 - 8 + 1 = 34
+rng2 = 83 + 15 - 5 + 1 = 94
+Flyout
+Team 1 pitcher (Minamoto Norihisa): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Ryuke Watanabe: rng1 = 45 + 14 - 8 + 1 = 52
+rng2 = 91 + 10 - 5 + 1 = 97
+Flyout
+Team 1 pitcher (Minamoto Norihisa): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Martin Holland: rng1 = 58 + 13 - 8 + 1 = 64
+rng2 = 80 + 5 - 5 + 1 = 81
+Flyout
+Team 1 pitcher (Minamoto Norihisa): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+TOP INNING 4
+
+Isaac Correa: rng1 = 83 + 10 - 9 - 1 = 83
+rng2 = 36 + 11 - 8 - 1 = 38
+Single
+Team 2 pitcher (Daigo Yoshimochi): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Serafín Sancho: rng1 = 16 + 9 - 9 - 1 = 15
+rng2 = 50 + 10 - 8 - 1 = 51
+Lineout
+Team 2 pitcher (Daigo Yoshimochi): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Iker Pareja: rng1 = 29 + 7 - 9 - 1 = 26
+Strikeout
+Team 2 pitcher (Daigo Yoshimochi): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Watabe Kazuyuki: rng1 = 51 + 4 - 9 - 1 = 45
+rng2 = 63 + 9 - 8 - 1 = 63
+Flyout
+Team 2 pitcher (Daigo Yoshimochi): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+BOTTOM INNING 4
+
+Yorell Harmon: rng1 = 96 + 12 - 8 + 1 = 101
+rng2 = 69 + 13 - 5 + 1 = 78
+Double
+Team 1 pitcher (Minamoto Norihisa): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 0
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-2
+
+Trey Walter: rng1 = 19 + 11 - 8 + 1 = 23
+Strikeout
+Team 1 pitcher (Minamoto Norihisa): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 1
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-2
+
+Angel Semprún: rng1 = 88 + 12 - 8 + 1 = 93
+rng2 = 68 + 11 - 5 + 1 = 75
+Double
+Team 1 pitcher (Minamoto Norihisa): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 1
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-3
+
+Whalen Tate: rng1 = 29 + 2 - 8 + 1 = 24
+Strikeout
+Team 1 pitcher (Minamoto Norihisa): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 2
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-3
+
+Romero Hidalgo: rng1 = 68 + 7 - 8 + 1 = 68
+rng2 = 48 + 3 - 5 + 1 = 47
+Groundout
+Team 1 pitcher (Minamoto Norihisa): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+TOP INNING 5
+
+Luis Canales: rng1 = 65 + 7 - 9 - 1 = 62
+rng2 = 12 + 4 - 8 - 1 = 7
+Groundout
+Team 2 pitcher (Daigo Yoshimochi): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Liam Green: rng1 = 33 + 14 - 9 - 1 = 37
+rng2 = 8 + 12 - 8 - 1 = 11
+Groundout
+Team 2 pitcher (Daigo Yoshimochi): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Henry Webb: rng1 = 96 + 13 - 9 - 1 = 99
+rng2 = 59 + 14 - 8 - 1 = 64
+Single
+Team 2 pitcher (Daigo Yoshimochi): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-3
+
+Won-Ho Kim: rng1 = 53 + 11 - 9 - 1 = 54
+rng2 = 42 + 10 - 8 - 1 = 43
+Groundout
+Team 2 pitcher (Daigo Yoshimochi): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+BOTTOM INNING 5
+
+Parker Dillard: rng1 = 25 + 5 - 8 + 1 = 23
+Strikeout
+Team 1 pitcher (Minamoto Norihisa): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Isaac Morris: rng1 = 88 + 15 - 8 + 1 = 96
+rng2 = 59 + 15 - 5 + 1 = 70
+Double
+Team 1 pitcher (Minamoto Norihisa): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-3
+
+Ryuke Watanabe: rng1 = 18 + 14 - 8 + 1 = 25
+Strikeout
+Team 1 pitcher (Minamoto Norihisa): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-3
+
+Martin Holland: rng1 = 24 + 13 - 8 + 1 = 30
+rng2 = 20 + 5 - 5 + 1 = 21
+Groundout
+Team 1 pitcher (Minamoto Norihisa): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+TOP INNING 6
+
+Yaniel Benitez: rng1 = 73 + 10 - 9 - 1 = 73
+rng2 = 35 + 12 - 8 - 1 = 38
+Single
+Team 2 pitcher (Daigo Yoshimochi): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-3
+
+Isaac Correa: rng1 = 64 + 10 - 9 - 1 = 64
+rng2 = 81 + 11 - 8 - 1 = 83
+Flyout
+Team 2 pitcher (Daigo Yoshimochi): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-3
+
+Serafín Sancho: rng1 = 93 + 9 - 9 - 1 = 92
+rng2 = 68 + 10 - 8 - 1 = 69
+Double
+Team 2 pitcher (Daigo Yoshimochi): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 1
+
+base1: false, base2: [5,0], base3: [3,0]
+base1: false, base2: true, base3: true
+Score: 2-3
+
+Iker Pareja: rng1 = 80 + 7 - 9 - 1 = 77
+rng2 = 63 + 8 - 8 - 1 = 62
+Single
+Team 2 pitcher (Daigo Yoshimochi): 25 batters faced, 4 runs allowed = 25 + 10.0 = 35.0, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Team 2 pitcher change to Grover Bercher
+
+Watabe Kazuyuki: rng1 = 94 + 4 - 5 - 1 = 92
+rng2 = 19 + 9 - 5 - 1 = 22
+Single
+Team 2 pitcher (Grover Bercher): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: [7,1], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 4-3
+
+Luis Canales: rng1 = 94 + 7 - 5 - 1 = 95
+rng2 = 41 + 4 - 5 - 1 = 39
+Single
+Team 2 pitcher (Grover Bercher): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [8,1], base2: [7,1], base3: false
+base1: true, base2: true, base3: false
+Score: 5-3
+
+Liam Green: rng1 = 49 + 14 - 5 - 1 = 57
+rng2 = 78 + 12 - 5 - 1 = 84
+Flyout
+Team 2 pitcher (Grover Bercher): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [8,1], base2: false, base3: [7,1]
+base1: true, base2: false, base3: true
+Score: 5-3
+
+Henry Webb: rng1 = 89 + 13 - 5 - 1 = 96
+rng2 = 70 + 14 - 5 - 1 = 78
+Double
+Team 2 pitcher (Grover Bercher): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 2
+
+base1: false, base2: [1,1], base3: false
+base1: false, base2: true, base3: false
+Score: 7-3
+
+Won-Ho Kim: rng1 = 33 + 11 - 5 - 1 = 38
+rng2 = 51 + 10 - 5 - 1 = 55
+Lineout
+Team 2 pitcher (Grover Bercher): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-3
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Jacobo Pozo
+
+Yorell Harmon: rng1 = 70 + 12 - 10 + 1 = 73
+rng2 = 88 + 13 - 12 + 1 = 90
+Double
+Team 1 pitcher (Jacobo Pozo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [3,1], base3: false
+base1: false, base2: true, base3: false
+Score: 7-3
+
+Trey Walter: rng1 = 69 + 11 - 10 + 1 = 71
+Walk
+Team 1 pitcher (Jacobo Pozo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [4,1], base2: [3,1], base3: false
+base1: true, base2: true, base3: false
+Score: 7-3
+
+Angel Semprún: rng1 = 42 + 12 - 10 + 1 = 45
+rng2 = 4 + 11 - 12 + 1 = 4
+Groundout
+Team 1 pitcher (Jacobo Pozo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: [3,1]
+base1: false, base2: false, base3: true
+Score: 7-3
+
+Whalen Tate: rng1 = 81 + 2 - 10 + 1 = 74
+rng2 = 26 + 10 - 12 + 1 = 25
+Single
+Team 1 pitcher (Jacobo Pozo): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-4
+
+Romero Hidalgo: rng1 = 54 + 7 - 10 + 1 = 52
+rng2 = 85 + 3 - 12 + 1 = 77
+Flyout
+Team 1 pitcher (Jacobo Pozo): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-4
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Liam Newman
+
+Yaniel Benitez: rng1 = 49 + 10 - 10 - 1 = 48
+rng2 = 26 + 12 - 9 - 1 = 28
+Groundout
+Team 2 pitcher (Liam Newman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-4
+
+Isaac Correa: rng1 = 92 + 10 - 10 - 1 = 91
+rng2 = 50 + 11 - 9 - 1 = 51
+Single
+Team 2 pitcher (Liam Newman): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-4
+
+Serafín Sancho: rng1 = 30 + 9 - 10 - 1 = 28
+Strikeout
+Team 2 pitcher (Liam Newman): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-4
+
+Iker Pareja: rng1 = 77 + 7 - 10 - 1 = 73
+rng2 = 1 + 8 - 9 - 1 = -1
+Single
+Team 2 pitcher (Liam Newman): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [6,2], base2: [4,2], base3: false
+base1: true, base2: true, base3: false
+Score: 7-4
+
+Watabe Kazuyuki: rng1 = 16 + 4 - 10 - 1 = 9
+Strikeout
+Team 2 pitcher (Liam Newman): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-4
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Lee Combs
+
+Parker Dillard: rng1 = 99 + 5 - 13 + 1 = 92
+rng2 = 49 + 4 - 12 + 1 = 42
+Single
+Team 1 pitcher (Lee Combs): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-4
+
+Isaac Morris: rng1 = 10 + 15 - 13 + 1 = 13
+rng2 = 60 + 15 - 12 + 1 = 64
+Flyout
+Team 1 pitcher (Lee Combs): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-4
+
+Ryuke Watanabe: rng1 = 75 + 14 - 13 + 1 = 77
+rng2 = 70 + 10 - 12 + 1 = 69
+Double
+Team 1 pitcher (Lee Combs): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [1,2], base3: false
+base1: false, base2: true, base3: false
+Score: 7-5
+
+Martin Holland: rng1 = 25 + 13 - 13 + 1 = 26
+Strikeout
+Team 1 pitcher (Lee Combs): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [1,2], base3: false
+base1: false, base2: true, base3: false
+Score: 7-5
+
+Yorell Harmon: rng1 = 18 + 12 - 13 + 1 = 18
+Strikeout
+Team 1 pitcher (Lee Combs): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-5
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Julian Carney
+
+Luis Canales: rng1 = 97 + 7 - 9 - 1 = 94
+rng2 = 94 + 4 - 8 - 1 = 89
+Double
+Team 2 pitcher (Julian Carney): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [8,3], base3: false
+base1: false, base2: true, base3: false
+Score: 7-5
+
+Liam Green: rng1 = 54 + 14 - 9 - 1 = 58
+rng2 = 92 + 12 - 8 - 1 = 95
+Flyout
+Team 2 pitcher (Julian Carney): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [8,3], base3: false
+base1: false, base2: true, base3: false
+Score: 7-5
+
+Henry Webb: rng1 = 71 + 13 - 9 - 1 = 74
+rng2 = 77 + 14 - 8 - 1 = 82
+Home run
+Team 2 pitcher (Julian Carney): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-5
+
+Won-Ho Kim: rng1 = 1 + 11 - 9 - 1 = 2
+Strikeout
+Team 2 pitcher (Julian Carney): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-5
+
+Yaniel Benitez: rng1 = 57 + 10 - 9 - 1 = 57
+rng2 = 53 + 12 - 8 - 1 = 56
+Lineout
+Team 2 pitcher (Julian Carney): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-5
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Sammie Starr
+
+Trey Walter: rng1 = 79 + 11 - 10 + 1 = 81
+rng2 = 88 + 12 - 11 + 1 = 90
+Double
+Team 1 pitcher (Sammie Starr): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [4,3], base3: false
+base1: false, base2: true, base3: false
+Score: 9-5
+
+Angel Semprún: rng1 = 26 + 12 - 10 + 1 = 29
+rng2 = 100 + 11 - 11 + 1 = 101
+Flyout
+Team 1 pitcher (Sammie Starr): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [4,3], base3: false
+base1: false, base2: true, base3: false
+Score: 9-5
+
+Whalen Tate: rng1 = 7 + 2 - 10 + 1 = 0
+Strikeout
+Team 1 pitcher (Sammie Starr): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [4,3], base3: false
+base1: false, base2: true, base3: false
+Score: 9-5
+
+Romero Hidalgo: rng1 = 89 + 7 - 10 + 1 = 87
+Walk
+Team 1 pitcher (Sammie Starr): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [7,3], base2: [4,3], base3: false
+base1: true, base2: true, base3: false
+Score: 9-5
+
+Parker Dillard: rng1 = 65 + 5 - 10 + 1 = 61
+rng2 = 21 + 4 - 11 + 1 = 15
+Groundout
+Team 1 pitcher (Sammie Starr): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-5
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Otis Michael
+
+Isaac Correa: rng1 = 98 + 10 - 13 - 1 = 94
+rng2 = 99 + 11 - 14 - 1 = 95
+Home run
+Team 2 pitcher (Otis Michael): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-5
+
+Serafín Sancho: rng1 = 55 + 9 - 13 - 1 = 50
+rng2 = 24 + 10 - 14 - 1 = 19
+Groundout
+Team 2 pitcher (Otis Michael): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-5
+
+Iker Pareja: rng1 = 91 + 7 - 13 - 1 = 84
+rng2 = 65 + 8 - 14 - 1 = 58
+Single
+Team 2 pitcher (Otis Michael): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [6,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 10-5
+
+Watabe Kazuyuki: rng1 = 11 + 4 - 13 - 1 = 1
+Strikeout
+Team 2 pitcher (Otis Michael): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [6,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 10-5
+
+Luis Canales: rng1 = 72 + 7 - 13 - 1 = 65
+rng2 = 72 + 4 - 14 - 1 = 61
+Flyout
+Team 2 pitcher (Otis Michael): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 10-5
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Jack Wells
+
+Isaac Morris: rng1 = 82 + 15 - 14 + 1 = 84
+rng2 = 4 + 15 - 14 + 1 = 6
+Single
+Team 1 pitcher (Jack Wells): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 10-5
+
+Ryuke Watanabe: rng1 = 100 + 14 - 14 + 1 = 101
+rng2 = 10 + 10 - 14 + 1 = 7
+Single
+Team 1 pitcher (Jack Wells): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,4], base2: false, base3: [0,4]
+base1: true, base2: false, base3: true
+Score: 10-5
+
+Martin Holland: rng1 = 69 + 13 - 14 + 1 = 69
+rng2 = 65 + 5 - 14 + 1 = 57
+Lineout
+Team 1 pitcher (Jack Wells): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [1,4], base2: false, base3: [0,4]
+base1: true, base2: false, base3: true
+Score: 10-5
+
+Yorell Harmon: rng1 = 85 + 12 - 14 + 1 = 84
+rng2 = 57 + 13 - 14 + 1 = 57
+Single
+Team 1 pitcher (Jack Wells): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [3,4], base2: [1,4], base3: false
+base1: true, base2: true, base3: false
+Score: 10-6
+
+Trey Walter: rng1 = 62 + 11 - 14 + 1 = 60
+rng2 = 12 + 12 - 14 + 1 = 11
+Groundout
+Team 1 pitcher (Jack Wells): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: false, base2: [3,4], base3: [1,4]
+base1: false, base2: true, base3: true
+Score: 10-6
+
+Angel Semprún: rng1 = 6 + 12 - 14 + 1 = 5
+Strikeout
+Team 1 pitcher (Jack Wells): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 10-6
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 17
+Team 2 hits: 13
+Team 1 runs: 10
+Team 2 runs: 6
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					10-Jul-24
+Liam Green	5	0	1	0	0	0	0	0	0					Vancouver
+Henry Webb	5	2	3	1	0	1	4	0	1	
+Won-Ho Kim	5	1	1	0	0	1	2	0	1	
+Yaniel Benitez	5	1	2	1	0	0	0	0	0	
+Isaac Correa	5	1	3	0	0	1	1	0	1	
+Serafín Sancho	5	1	1	1	0	0	0	0	1	
+Iker Pareja	5	1	3	0	0	0	2	0	2	
+Watabe Kazuyuki	4	1	1	0	0	0	0	1	2	
+Luis Canales	5	2	2	1	0	0	1	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Minamoto Norihisa	1	0	1	1	0	0	15	5	3	0	1	5	21	
+Jacobo Pozo	0	0	1	0	0	0	3	2	1	0	1	0	5	
+Lee Combs	0	0	1	0	0	0	3	2	1	0	0	2	5	
+Sammie Starr	0	0	1	0	0	0	3	1	0	0	1	1	5	
+Jack Wells	0	0	1	0	0	0	3	3	1	0	0	1	6	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					10-Jul-24
+Isaac Morris	5	2	3	1	0	0	0	0	0					Toronto
+Ryuke Watanabe	4	1	2	1	0	0	1	1	1	
+Martin Holland	5	0	0	0	0	0	0	0	1	
+Yorell Harmon	5	2	4	2	0	0	2	0	1	
+Trey Walter	4	0	1	1	0	0	1	1	1	
+Angel Semprún	5	0	1	1	0	0	1	0	2	
+Whalen Tate	4	0	1	0	0	0	1	0	2	
+Romero Hidalgo	3	0	0	0	0	0	0	1	0	
+Parker Dillard	4	1	1	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Daigo Yoshimochi	0	1	1	1	0	0	16	8	5	1	1	4	25	
+Grover Bercher	0	0	1	0	0	0	2	3	2	0	0	0	5	
+Liam Newman	0	0	1	0	0	0	3	2	0	0	0	2	5	
+Julian Carney	0	0	1	0	0	0	3	2	2	1	0	1	5	
+Otis Michael	0	0	1	0	0	0	3	2	1	1	0	1	5	

@@ -45,9 +45,9 @@ public class GameGenerator
 		if (args.length == 0)
 		{
 			Scanner input = new Scanner(System.in);
-			System.out.print("Away team: ");
+			System.out.print("NC team: ");
 			n1 = input.nextLine();
-			System.out.print("Home team: ");
+			System.out.print("SC team: ");
 			n2 = input.nextLine();
 			System.out.println();
 			input.close();

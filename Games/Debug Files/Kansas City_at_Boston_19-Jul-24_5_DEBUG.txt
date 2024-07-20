@@ -1,0 +1,818 @@
+TOP INNING 1
+
+Jose Walker: rng1 = 86 + 14 - 7 - 1 = 92
+rng2 = 47 + 13 - 5 - 1 = 54
+Single
+Team 2 pitcher (Keshawn Thomas): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Lawrence Webb: rng1 = 71 + 13 - 7 - 1 = 76
+rng2 = 84 + 10 - 5 - 1 = 88
+Double
+Team 2 pitcher (Keshawn Thomas): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: false, base2: [1,0], base3: [0,0]
+base1: false, base2: true, base3: true
+Score: 0-0
+
+Adam Harmon: rng1 = 2 + 12 - 7 - 1 = 6
+Strikeout
+Team 2 pitcher (Keshawn Thomas): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: [1,0], base3: [0,0]
+base1: false, base2: true, base3: true
+Score: 0-0
+
+Stanley Jackson: rng1 = 12 + 9 - 7 - 1 = 13
+rng2 = 72 + 14 - 5 - 1 = 80
+Flyout
+Team 2 pitcher (Keshawn Thomas): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Eric Parker: rng1 = 67 + 12 - 7 - 1 = 71
+Walk
+Team 2 pitcher (Keshawn Thomas): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [4,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Alvaro Tavarez: rng1 = 5 + 9 - 7 - 1 = 6
+Strikeout
+Team 2 pitcher (Keshawn Thomas): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Jorge Gonzalez: rng1 = 84 + 11 - 6 + 1 = 90
+Walk
+Team 1 pitcher (Wade Reyes): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Aiden Hayes: rng1 = 11 + 10 - 6 + 1 = 16
+Strikeout
+Team 1 pitcher (Wade Reyes): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Aaron Vera: rng1 = 17 + 9 - 6 + 1 = 21
+Strikeout
+Team 1 pitcher (Wade Reyes): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Quillin Grant: rng1 = 67 + 10 - 6 + 1 = 72
+Walk
+Team 1 pitcher (Wade Reyes): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [3,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Juan Pearson: rng1 = 28 + 7 - 6 + 1 = 30
+rng2 = 74 + 8 - 5 + 1 = 78
+Flyout
+Team 1 pitcher (Wade Reyes): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 2
+
+Aulani Pekelo: rng1 = 1 + 10 - 7 - 1 = 3
+Strikeout
+Team 2 pitcher (Keshawn Thomas): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Wil Raymond: rng1 = 3 + 8 - 7 - 1 = 3
+Strikeout
+Team 2 pitcher (Keshawn Thomas): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Suko Masakado: rng1 = 76 + 3 - 7 - 1 = 71
+Walk
+Team 2 pitcher (Keshawn Thomas): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Jose Walker: rng1 = 99 + 14 - 7 - 1 = 105
+rng2 = 93 + 13 - 5 - 1 = 100
+Home run
+Team 2 pitcher (Keshawn Thomas): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Lawrence Webb: rng1 = 42 + 13 - 7 - 1 = 47
+rng2 = 32 + 10 - 5 - 1 = 36
+Groundout
+Team 2 pitcher (Keshawn Thomas): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Karsen Welch: rng1 = 94 + 9 - 6 + 1 = 98
+rng2 = 33 + 6 - 5 + 1 = 35
+Single
+Team 1 pitcher (Wade Reyes): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Seamus Tanner: rng1 = 80 + 5 - 6 + 1 = 80
+rng2 = 39 + 7 - 5 + 1 = 42
+Single
+Team 1 pitcher (Wade Reyes): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 0
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 3-0
+
+Zyrell Ford: rng1 = 12 + 6 - 6 + 1 = 13
+rng2 = 87 + 5 - 5 + 1 = 88
+Flyout
+Team 1 pitcher (Wade Reyes): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Emanuel Gutiérrez: rng1 = 39 + 3 - 6 + 1 = 37
+rng2 = 64 + 6 - 5 + 1 = 66
+Flyout
+Team 1 pitcher (Wade Reyes): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Jorge Gonzalez: rng1 = 54 + 11 - 6 + 1 = 60
+rng2 = 33 + 11 - 5 + 1 = 40
+Groundout
+Team 1 pitcher (Wade Reyes): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+TOP INNING 3
+
+Adam Harmon: rng1 = 13 + 12 - 7 - 1 = 17
+Strikeout
+Team 2 pitcher (Keshawn Thomas): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Stanley Jackson: rng1 = 28 + 9 - 7 - 1 = 29
+rng2 = 45 + 14 - 5 - 1 = 53
+Lineout
+Team 2 pitcher (Keshawn Thomas): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Eric Parker: rng1 = 57 + 12 - 7 - 1 = 61
+rng2 = 67 + 12 - 5 - 1 = 73
+Flyout
+Team 2 pitcher (Keshawn Thomas): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Aiden Hayes: rng1 = 58 + 10 - 6 + 1 = 63
+rng2 = 17 + 11 - 5 + 1 = 24
+Groundout
+Team 1 pitcher (Wade Reyes): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Aaron Vera: rng1 = 61 + 9 - 6 + 1 = 65
+rng2 = 47 + 8 - 5 + 1 = 51
+Lineout
+Team 1 pitcher (Wade Reyes): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Quillin Grant: rng1 = 34 + 10 - 6 + 1 = 39
+rng2 = 30 + 11 - 5 + 1 = 37
+Groundout
+Team 1 pitcher (Wade Reyes): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+TOP INNING 4
+
+Alvaro Tavarez: rng1 = 62 + 9 - 7 - 1 = 63
+rng2 = 68 + 11 - 5 - 1 = 73
+Flyout
+Team 2 pitcher (Keshawn Thomas): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Aulani Pekelo: rng1 = 68 + 10 - 7 - 1 = 70
+Walk
+Team 2 pitcher (Keshawn Thomas): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Wil Raymond: rng1 = 87 + 8 - 7 - 1 = 87
+Walk
+Team 2 pitcher (Keshawn Thomas): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 1
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-1
+
+Suko Masakado: rng1 = 13 + 3 - 7 - 1 = 8
+Strikeout
+Team 2 pitcher (Keshawn Thomas): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 2
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-1
+
+Jose Walker: rng1 = 46 + 14 - 7 - 1 = 52
+rng2 = 90 + 13 - 5 - 1 = 97
+Flyout
+Team 2 pitcher (Keshawn Thomas): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Juan Pearson: rng1 = 85 + 7 - 6 + 1 = 87
+Walk
+Team 1 pitcher (Wade Reyes): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Karsen Welch: rng1 = 20 + 9 - 6 + 1 = 24
+Strikeout
+Team 1 pitcher (Wade Reyes): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Seamus Tanner: rng1 = 34 + 5 - 6 + 1 = 34
+rng2 = 27 + 7 - 5 + 1 = 30
+Groundout
+Team 1 pitcher (Wade Reyes): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+TOP INNING 5
+
+Lawrence Webb: rng1 = 83 + 13 - 7 - 1 = 88
+Walk
+Team 2 pitcher (Keshawn Thomas): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Adam Harmon: rng1 = 71 + 12 - 7 - 1 = 75
+rng2 = 88 + 10 - 5 - 1 = 92
+Double
+Team 2 pitcher (Keshawn Thomas): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 0
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-1
+
+Stanley Jackson: rng1 = 50 + 9 - 7 - 1 = 51
+rng2 = 88 + 14 - 5 - 1 = 96
+Flyout
+Team 2 pitcher (Keshawn Thomas): 22 batters faced, 4 runs allowed = 22 + 10.0 = 32.0, outs: 1
+
+base1: false, base2: false, base3: [2,0]
+base1: false, base2: false, base3: true
+Score: 4-1
+
+Eric Parker: rng1 = 39 + 12 - 7 - 1 = 43
+rng2 = 72 + 12 - 5 - 1 = 78
+Flyout
+Team 2 pitcher (Keshawn Thomas): 23 batters faced, 5 runs allowed = 23 + 12.5 = 35.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-1
+
+Team 2 pitcher change to Rob Bowman
+
+Alvaro Tavarez: rng1 = 74 + 9 - 9 - 1 = 73
+rng2 = 98 + 11 - 11 - 1 = 97
+Home run
+Team 2 pitcher (Rob Bowman): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Aulani Pekelo: rng1 = 84 + 10 - 9 - 1 = 84
+rng2 = 63 + 10 - 11 - 1 = 61
+Single
+Team 2 pitcher (Rob Bowman): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 2
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-1
+
+Wil Raymond: rng1 = 40 + 8 - 9 - 1 = 38
+rng2 = 74 + 10 - 11 - 1 = 72
+Flyout
+Team 2 pitcher (Rob Bowman): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-1
+
+-----------------------
+
+BOTTOM INNING 5
+
+Zyrell Ford: rng1 = 13 + 6 - 6 + 1 = 14
+rng2 = 45 + 5 - 5 + 1 = 46
+Groundout
+Team 1 pitcher (Wade Reyes): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-1
+
+Emanuel Gutiérrez: rng1 = 84 + 3 - 6 + 1 = 82
+rng2 = 92 + 6 - 5 + 1 = 94
+Home run
+Team 1 pitcher (Wade Reyes): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-2
+
+Jorge Gonzalez: rng1 = 87 + 11 - 6 + 1 = 93
+rng2 = 94 + 11 - 5 + 1 = 101
+Home run
+Team 1 pitcher (Wade Reyes): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Aiden Hayes: rng1 = 48 + 10 - 6 + 1 = 53
+rng2 = 56 + 11 - 5 + 1 = 63
+Flyout
+Team 1 pitcher (Wade Reyes): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Aaron Vera: rng1 = 82 + 9 - 6 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Wade Reyes): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-3
+
+Quillin Grant: rng1 = 55 + 10 - 6 + 1 = 60
+rng2 = 47 + 11 - 5 + 1 = 54
+Lineout
+Team 1 pitcher (Wade Reyes): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-3
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Orlando Otero
+
+Suko Masakado: rng1 = 30 + 3 - 11 - 1 = 21
+Strikeout
+Team 2 pitcher (Orlando Otero): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Jose Walker: rng1 = 30 + 14 - 11 - 1 = 32
+rng2 = 56 + 13 - 9 - 1 = 59
+Flyout
+Team 2 pitcher (Orlando Otero): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Lawrence Webb: rng1 = 27 + 13 - 11 - 1 = 28
+Strikeout
+Team 2 pitcher (Orlando Otero): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-3
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Cohen Roman
+
+Juan Pearson: rng1 = 45 + 7 - 14 + 1 = 39
+rng2 = 83 + 8 - 14 + 1 = 78
+Flyout
+Team 1 pitcher (Cohen Roman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Karsen Welch: rng1 = 99 + 9 - 14 + 1 = 95
+rng2 = 63 + 6 - 14 + 1 = 56
+Single
+Team 1 pitcher (Cohen Roman): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-3
+
+Seamus Tanner: rng1 = 67 + 5 - 14 + 1 = 59
+rng2 = 16 + 7 - 14 + 1 = 10
+Groundout
+Team 1 pitcher (Cohen Roman): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-3
+
+Zyrell Ford: rng1 = 19 + 6 - 14 + 1 = 12
+rng2 = 12 + 5 - 14 + 1 = 4
+Groundout
+Team 1 pitcher (Cohen Roman): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-3
+
+-----------------------
+
+TOP INNING 7
+
+Adam Harmon: rng1 = 24 + 12 - 11 - 1 = 24
+Strikeout
+Team 2 pitcher (Orlando Otero): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Stanley Jackson: rng1 = 14 + 9 - 11 - 1 = 11
+rng2 = 60 + 14 - 9 - 1 = 64
+Flyout
+Team 2 pitcher (Orlando Otero): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Eric Parker: rng1 = 77 + 12 - 11 - 1 = 77
+rng2 = 84 + 12 - 9 - 1 = 86
+Double
+Team 2 pitcher (Orlando Otero): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: [4,2], base3: false
+base1: false, base2: true, base3: false
+Score: 6-3
+
+Alvaro Tavarez: rng1 = 41 + 9 - 11 - 1 = 38
+rng2 = 30 + 11 - 9 - 1 = 31
+Groundout
+Team 2 pitcher (Orlando Otero): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-3
+
+-----------------------
+
+BOTTOM INNING 7
+
+Emanuel Gutiérrez: rng1 = 42 + 3 - 14 + 1 = 32
+rng2 = 9 + 6 - 14 + 1 = 2
+Groundout
+Team 1 pitcher (Cohen Roman): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Jorge Gonzalez: rng1 = 13 + 11 - 14 + 1 = 11
+rng2 = 94 + 11 - 14 + 1 = 92
+Flyout
+Team 1 pitcher (Cohen Roman): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Aiden Hayes: rng1 = 75 + 10 - 14 + 1 = 72
+Walk
+Team 1 pitcher (Cohen Roman): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-3
+
+Aaron Vera: rng1 = 41 + 9 - 14 + 1 = 37
+rng2 = 21 + 8 - 14 + 1 = 16
+Groundout
+Team 1 pitcher (Cohen Roman): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-3
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Thomas Barnes
+
+Aulani Pekelo: rng1 = 82 + 10 - 9 - 1 = 82
+rng2 = 85 + 10 - 8 - 1 = 86
+Double
+Team 2 pitcher (Thomas Barnes): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [6,3], base3: false
+base1: false, base2: true, base3: false
+Score: 6-3
+
+Wil Raymond: rng1 = 26 + 8 - 9 - 1 = 24
+Strikeout
+Team 2 pitcher (Thomas Barnes): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [6,3], base3: false
+base1: false, base2: true, base3: false
+Score: 6-3
+
+Suko Masakado: rng1 = 97 + 3 - 9 - 1 = 90
+Walk
+Team 2 pitcher (Thomas Barnes): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [8,3], base2: [6,3], base3: false
+base1: true, base2: true, base3: false
+Score: 6-3
+
+Jose Walker: rng1 = 41 + 14 - 9 - 1 = 45
+rng2 = 88 + 13 - 8 - 1 = 92
+Flyout
+Team 2 pitcher (Thomas Barnes): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [8,3], base2: [6,3], base3: false
+base1: true, base2: true, base3: false
+Score: 6-3
+
+Lawrence Webb: rng1 = 19 + 13 - 9 - 1 = 22
+Strikeout
+Team 2 pitcher (Thomas Barnes): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-3
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Aden Lowery
+
+Quillin Grant: rng1 = 73 + 10 - 11 + 1 = 73
+rng2 = 66 + 11 - 12 + 1 = 66
+Double
+Team 1 pitcher (Aden Lowery): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [3,2], base3: false
+base1: false, base2: true, base3: false
+Score: 6-3
+
+Juan Pearson: rng1 = 7 + 7 - 11 + 1 = 4
+Strikeout
+Team 1 pitcher (Aden Lowery): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [3,2], base3: false
+base1: false, base2: true, base3: false
+Score: 6-3
+
+Karsen Welch: rng1 = 100 + 9 - 11 + 1 = 99
+rng2 = 86 + 6 - 12 + 1 = 81
+Home run
+Team 1 pitcher (Aden Lowery): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-5
+
+Seamus Tanner: rng1 = 53 + 5 - 11 + 1 = 48
+rng2 = 95 + 7 - 12 + 1 = 91
+Flyout
+Team 1 pitcher (Aden Lowery): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-5
+
+Zyrell Ford: rng1 = 81 + 6 - 11 + 1 = 77
+rng2 = 79 + 5 - 12 + 1 = 73
+Double
+Team 1 pitcher (Aden Lowery): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: false, base2: [7,2], base3: false
+base1: false, base2: true, base3: false
+Score: 6-5
+
+Emanuel Gutiérrez: rng1 = 14 + 3 - 11 + 1 = 7
+Strikeout
+Team 1 pitcher (Aden Lowery): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-5
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Emilio Aguilar
+
+Adam Harmon: rng1 = 76 + 12 - 10 - 1 = 77
+rng2 = 8 + 10 - 10 - 1 = 7
+Single
+Team 2 pitcher (Emilio Aguilar): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [2,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-5
+
+Stanley Jackson: rng1 = 34 + 9 - 10 - 1 = 32
+rng2 = 71 + 14 - 10 - 1 = 74
+Flyout
+Team 2 pitcher (Emilio Aguilar): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [2,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-5
+
+Eric Parker: rng1 = 100 + 12 - 10 - 1 = 101
+rng2 = 32 + 12 - 10 - 1 = 33
+Single
+Team 2 pitcher (Emilio Aguilar): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [4,4], base2: false, base3: [2,4]
+base1: true, base2: false, base3: true
+Score: 6-5
+
+Alvaro Tavarez: rng1 = 55 + 9 - 10 - 1 = 53
+rng2 = 25 + 11 - 10 - 1 = 25
+Groundout
+Team 2 pitcher (Emilio Aguilar): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [5,4], base2: false, base3: [2,4]
+base1: true, base2: false, base3: true
+Score: 6-5
+
+Aulani Pekelo: rng1 = 65 + 10 - 10 - 1 = 64
+rng2 = 28 + 10 - 10 - 1 = 27
+Groundout
+Team 2 pitcher (Emilio Aguilar): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-5
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Isaac Wilson
+
+Jorge Gonzalez: rng1 = 26 + 11 - 14 + 1 = 24
+Strikeout
+Team 1 pitcher (Isaac Wilson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-5
+
+Aiden Hayes: rng1 = 46 + 10 - 14 + 1 = 43
+rng2 = 21 + 11 - 15 + 1 = 18
+Groundout
+Team 1 pitcher (Isaac Wilson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-5
+
+Aaron Vera: rng1 = 11 + 9 - 14 + 1 = 7
+Strikeout
+Team 1 pitcher (Isaac Wilson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-5
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 10
+Team 2 hits: 8
+Team 1 runs: 6
+Team 2 runs: 5
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					19-Jul-24
+Jose Walker	5	2	2	0	0	1	2	0	0					Kansas City
+Lawrence Webb	4	1	1	1	0	0	0	1	2	
+Adam Harmon	5	1	2	1	0	0	1	0	3	
+Stanley Jackson	5	0	0	0	0	0	1	0	0	
+Eric Parker	4	0	2	1	0	0	1	1	0	
+Alvaro Tavarez	5	1	1	0	0	1	1	0	1	
+Aulani Pekelo	4	0	2	1	0	0	0	1	1	
+Wil Raymond	3	0	0	0	0	0	0	1	2	
+Suko Masakado	2	1	0	0	0	0	0	2	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Wade Reyes	1	0	1	1	0	0	15	4	3	2	3	3	22	
+Cohen Roman	0	0	1	0	0	0	6	1	0	0	1	0	8	
+Aden Lowery	0	0	1	0	0	0	3	3	2	1	0	2	6	
+Reuben Watson	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Isaac Wilson	0	0	1	0	1	1	3	0	0	0	0	2	3	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					19-Jul-24
+Jorge Gonzalez	4	1	1	0	0	1	1	1	1					Boston
+Aiden Hayes	4	0	0	0	0	0	0	1	1	
+Aaron Vera	4	0	0	0	0	0	0	0	2	
+Quillin Grant	3	1	1	1	0	0	0	1	0	
+Juan Pearson	3	0	0	0	0	0	0	1	1	
+Karsen Welch	4	2	3	0	0	1	2	0	1	
+Seamus Tanner	4	0	1	0	0	0	0	0	0	
+Zyrell Ford	4	0	1	1	0	0	1	0	0	
+Emanuel Gutiérrez	4	1	1	0	0	1	1	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Keshawn Thomas	0	1	1	1	0	0	14	4	5	1	5	6	23	
+Rob Bowman	0	0	1	0	0	0	1	2	1	1	0	0	3	
+Orlando Otero	0	0	1	0	0	0	6	1	0	0	0	3	7	
+Thomas Barnes	0	0	1	0	0	0	3	1	0	0	1	2	5	
+Emilio Aguilar	0	0	1	0	0	0	3	2	0	0	0	0	5	

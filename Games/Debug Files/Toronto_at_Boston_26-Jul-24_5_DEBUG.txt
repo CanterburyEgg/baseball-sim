@@ -1,0 +1,788 @@
+TOP INNING 1
+
+Isaac Morris: rng1 = 18 + 15 - 9 - 1 = 23
+Strikeout
+Team 2 pitcher (Ryan Swanson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Ryuke Watanabe: rng1 = 56 + 14 - 9 - 1 = 60
+rng2 = 57 + 10 - 9 - 1 = 57
+Lineout
+Team 2 pitcher (Ryan Swanson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Martin Holland: rng1 = 67 + 13 - 9 - 1 = 70
+Walk
+Team 2 pitcher (Ryan Swanson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Yorell Harmon: rng1 = 14 + 12 - 9 - 1 = 16
+Strikeout
+Team 2 pitcher (Ryan Swanson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Jorge Gonzalez: rng1 = 41 + 11 - 12 + 1 = 41
+rng2 = 91 + 11 - 13 + 1 = 90
+Flyout
+Team 1 pitcher (Billy Saunders): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Aiden Hayes: rng1 = 90 + 10 - 12 + 1 = 89
+Walk
+Team 1 pitcher (Billy Saunders): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Aaron Vera: rng1 = 9 + 9 - 12 + 1 = 7
+Strikeout
+Team 1 pitcher (Billy Saunders): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Quillin Grant: rng1 = 58 + 10 - 12 + 1 = 57
+rng2 = 51 + 11 - 13 + 1 = 50
+Lineout
+Team 1 pitcher (Billy Saunders): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Trey Walter: rng1 = 28 + 11 - 9 - 1 = 29
+rng2 = 22 + 12 - 9 - 1 = 24
+Groundout
+Team 2 pitcher (Ryan Swanson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Angel Semprún: rng1 = 28 + 12 - 9 - 1 = 30
+rng2 = 23 + 11 - 9 - 1 = 24
+Groundout
+Team 2 pitcher (Ryan Swanson): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Whalen Tate: rng1 = 82 + 2 - 9 - 1 = 74
+rng2 = 100 + 10 - 9 - 1 = 100
+Home run
+Team 2 pitcher (Ryan Swanson): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Romero Hidalgo: rng1 = 60 + 7 - 9 - 1 = 57
+rng2 = 79 + 3 - 9 - 1 = 72
+Flyout
+Team 2 pitcher (Ryan Swanson): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Juan Pearson: rng1 = 30 + 7 - 12 + 1 = 26
+Strikeout
+Team 1 pitcher (Billy Saunders): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Karsen Welch: rng1 = 94 + 9 - 12 + 1 = 92
+rng2 = 38 + 6 - 13 + 1 = 32
+Single
+Team 1 pitcher (Billy Saunders): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Seamus Tanner: rng1 = 82 + 5 - 12 + 1 = 76
+rng2 = 68 + 7 - 13 + 1 = 63
+Single
+Team 1 pitcher (Billy Saunders): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Zyrell Ford: rng1 = 32 + 6 - 12 + 1 = 27
+Strikeout
+Team 1 pitcher (Billy Saunders): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Emanuel Gutiérrez: rng1 = 78 + 3 - 12 + 1 = 70
+Walk
+Team 1 pitcher (Billy Saunders): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: [8,0], base2: [6,0], base3: [5,0]
+base1: true, base2: true, base3: true
+Score: 1-0
+
+Jorge Gonzalez: rng1 = 17 + 11 - 12 + 1 = 17
+Strikeout
+Team 1 pitcher (Billy Saunders): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 3
+
+Parker Dillard: rng1 = 84 + 5 - 9 - 1 = 79
+rng2 = 93 + 4 - 9 - 1 = 87
+Double
+Team 2 pitcher (Ryan Swanson): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 0
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Isaac Morris: rng1 = 50 + 15 - 9 - 1 = 55
+rng2 = 35 + 15 - 9 - 1 = 40
+Groundout
+Team 2 pitcher (Ryan Swanson): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Ryuke Watanabe: rng1 = 26 + 14 - 9 - 1 = 30
+rng2 = 20 + 10 - 9 - 1 = 20
+Groundout
+Team 2 pitcher (Ryan Swanson): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: false, base2: false, base3: [8,0]
+base1: false, base2: false, base3: true
+Score: 1-0
+
+Martin Holland: rng1 = 3 + 13 - 9 - 1 = 6
+Strikeout
+Team 2 pitcher (Ryan Swanson): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Aiden Hayes: rng1 = 19 + 10 - 12 + 1 = 18
+Strikeout
+Team 1 pitcher (Billy Saunders): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Aaron Vera: rng1 = 15 + 9 - 12 + 1 = 13
+rng2 = 39 + 8 - 13 + 1 = 35
+Groundout
+Team 1 pitcher (Billy Saunders): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Quillin Grant: rng1 = 76 + 10 - 12 + 1 = 75
+rng2 = 95 + 11 - 13 + 1 = 94
+Home run
+Team 1 pitcher (Billy Saunders): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Juan Pearson: rng1 = 84 + 7 - 12 + 1 = 80
+rng2 = 82 + 8 - 13 + 1 = 78
+Double
+Team 1 pitcher (Billy Saunders): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Karsen Welch: rng1 = 52 + 9 - 12 + 1 = 50
+rng2 = 9 + 6 - 13 + 1 = 3
+Groundout
+Team 1 pitcher (Billy Saunders): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 4
+
+Yorell Harmon: rng1 = 63 + 12 - 9 - 1 = 65
+rng2 = 21 + 13 - 9 - 1 = 24
+Groundout
+Team 2 pitcher (Ryan Swanson): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Trey Walter: rng1 = 11 + 11 - 9 - 1 = 12
+rng2 = 24 + 12 - 9 - 1 = 26
+Groundout
+Team 2 pitcher (Ryan Swanson): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Angel Semprún: rng1 = 77 + 12 - 9 - 1 = 79
+rng2 = 76 + 11 - 9 - 1 = 77
+Double
+Team 2 pitcher (Ryan Swanson): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 2
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Whalen Tate: rng1 = 27 + 2 - 9 - 1 = 19
+Strikeout
+Team 2 pitcher (Ryan Swanson): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Seamus Tanner: rng1 = 42 + 5 - 12 + 1 = 36
+rng2 = 56 + 7 - 13 + 1 = 51
+Lineout
+Team 1 pitcher (Billy Saunders): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Zyrell Ford: rng1 = 88 + 6 - 12 + 1 = 83
+rng2 = 100 + 5 - 13 + 1 = 93
+Triple
+Team 1 pitcher (Billy Saunders): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 1
+
+base1: false, base2: false, base3: [7,0]
+base1: false, base2: false, base3: true
+Score: 1-1
+
+Emanuel Gutiérrez: rng1 = 20 + 3 - 12 + 1 = 12
+rng2 = 88 + 6 - 13 + 1 = 82
+Flyout
+Team 1 pitcher (Billy Saunders): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Jorge Gonzalez: rng1 = 13 + 11 - 12 + 1 = 13
+rng2 = 3 + 11 - 13 + 1 = 2
+Groundout
+Team 1 pitcher (Billy Saunders): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 5
+
+Romero Hidalgo: rng1 = 76 + 7 - 9 - 1 = 73
+rng2 = 94 + 3 - 9 - 1 = 87
+Double
+Team 2 pitcher (Ryan Swanson): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 0
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-2
+
+Parker Dillard: rng1 = 75 + 5 - 9 - 1 = 70
+Walk
+Team 2 pitcher (Ryan Swanson): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 0
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-2
+
+Isaac Morris: rng1 = 5 + 15 - 9 - 1 = 10
+Strikeout
+Team 2 pitcher (Ryan Swanson): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 1
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-2
+
+Ryuke Watanabe: rng1 = 54 + 14 - 9 - 1 = 58
+rng2 = 89 + 10 - 9 - 1 = 89
+Flyout
+Team 2 pitcher (Ryan Swanson): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 2
+
+base1: [8,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 1-2
+
+Martin Holland: rng1 = 65 + 13 - 9 - 1 = 68
+rng2 = 42 + 5 - 9 - 1 = 37
+Groundout
+Team 2 pitcher (Ryan Swanson): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 5
+
+Aiden Hayes: rng1 = 10 + 10 - 12 + 1 = 9
+Strikeout
+Team 1 pitcher (Billy Saunders): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Aaron Vera: rng1 = 25 + 9 - 12 + 1 = 23
+Strikeout
+Team 1 pitcher (Billy Saunders): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Quillin Grant: rng1 = 87 + 10 - 12 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Billy Saunders): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Juan Pearson: rng1 = 51 + 7 - 12 + 1 = 47
+rng2 = 75 + 8 - 13 + 1 = 71
+Flyout
+Team 1 pitcher (Billy Saunders): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 6
+
+Yorell Harmon: rng1 = 47 + 12 - 9 - 1 = 49
+rng2 = 24 + 13 - 9 - 1 = 27
+Groundout
+Team 2 pitcher (Ryan Swanson): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Trey Walter: rng1 = 17 + 11 - 9 - 1 = 18
+Strikeout
+Team 2 pitcher (Ryan Swanson): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Angel Semprún: rng1 = 48 + 12 - 9 - 1 = 50
+rng2 = 92 + 11 - 9 - 1 = 93
+Flyout
+Team 2 pitcher (Ryan Swanson): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 6
+
+Karsen Welch: rng1 = 6 + 9 - 12 + 1 = 4
+Strikeout
+Team 1 pitcher (Billy Saunders): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Seamus Tanner: rng1 = 62 + 5 - 12 + 1 = 56
+rng2 = 21 + 7 - 13 + 1 = 16
+Groundout
+Team 1 pitcher (Billy Saunders): 25 batters faced, 2 runs allowed = 25 + 5.0 = 30.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Zyrell Ford: rng1 = 15 + 6 - 12 + 1 = 10
+Strikeout
+Team 1 pitcher (Billy Saunders): 26 batters faced, 2 runs allowed = 26 + 5.0 = 31.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 7
+
+Whalen Tate: rng1 = 96 + 2 - 9 - 1 = 88
+Walk
+Team 2 pitcher (Ryan Swanson): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Romero Hidalgo: rng1 = 72 + 7 - 9 - 1 = 69
+rng2 = 90 + 3 - 9 - 1 = 83
+Flyout
+Team 2 pitcher (Ryan Swanson): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Parker Dillard: rng1 = 76 + 5 - 9 - 1 = 71
+Walk
+Team 2 pitcher (Ryan Swanson): 27 batters faced, 1 runs allowed = 27 + 2.5 = 29.5, outs: 1
+
+base1: [8,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-2
+
+Isaac Morris: rng1 = 94 + 15 - 9 - 1 = 99
+rng2 = 80 + 15 - 9 - 1 = 85
+Home run
+Team 2 pitcher (Ryan Swanson): 28 batters faced, 4 runs allowed = 28 + 10.0 = 38.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Team 2 pitcher change to Rob Bowman
+
+Ryuke Watanabe: rng1 = 45 + 14 - 9 - 1 = 49
+rng2 = 89 + 10 - 11 - 1 = 87
+Flyout
+Team 2 pitcher (Rob Bowman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Martin Holland: rng1 = 13 + 13 - 9 - 1 = 16
+Strikeout
+Team 2 pitcher (Rob Bowman): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-2
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Grover Bercher
+
+Emanuel Gutiérrez: rng1 = 78 + 3 - 5 + 1 = 77
+rng2 = 35 + 6 - 5 + 1 = 37
+Single
+Team 1 pitcher (Grover Bercher): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-2
+
+Jorge Gonzalez: rng1 = 4 + 11 - 5 + 1 = 11
+rng2 = 75 + 11 - 5 + 1 = 82
+Flyout
+Team 1 pitcher (Grover Bercher): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-2
+
+Aiden Hayes: rng1 = 40 + 10 - 5 + 1 = 46
+rng2 = 76 + 11 - 5 + 1 = 83
+Flyout
+Team 1 pitcher (Grover Bercher): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-2
+
+Aaron Vera: rng1 = 39 + 9 - 5 + 1 = 44
+rng2 = 88 + 8 - 5 + 1 = 92
+Flyout
+Team 1 pitcher (Grover Bercher): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-2
+
+-----------------------
+
+TOP INNING 8
+
+Yorell Harmon: rng1 = 32 + 12 - 9 - 1 = 34
+rng2 = 64 + 13 - 11 - 1 = 65
+Flyout
+Team 2 pitcher (Rob Bowman): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Trey Walter: rng1 = 2 + 11 - 9 - 1 = 3
+Strikeout
+Team 2 pitcher (Rob Bowman): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Angel Semprún: rng1 = 12 + 12 - 9 - 1 = 14
+rng2 = 94 + 11 - 11 - 1 = 93
+Flyout
+Team 2 pitcher (Rob Bowman): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-2
+
+-----------------------
+
+BOTTOM INNING 8
+
+Quillin Grant: rng1 = 17 + 10 - 5 + 1 = 23
+Strikeout
+Team 1 pitcher (Grover Bercher): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Juan Pearson: rng1 = 67 + 7 - 5 + 1 = 70
+Walk
+Team 1 pitcher (Grover Bercher): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-2
+
+Karsen Welch: rng1 = 28 + 9 - 5 + 1 = 33
+rng2 = 41 + 6 - 5 + 1 = 43
+Groundout
+Team 1 pitcher (Grover Bercher): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-2
+
+Seamus Tanner: rng1 = 74 + 5 - 5 + 1 = 75
+rng2 = 70 + 7 - 5 + 1 = 73
+Double
+Team 1 pitcher (Grover Bercher): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: [6,1], base3: false
+base1: false, base2: true, base3: false
+Score: 4-3
+
+Zyrell Ford: rng1 = 94 + 6 - 5 + 1 = 96
+rng2 = 84 + 5 - 5 + 1 = 85
+Home run
+Team 1 pitcher (Grover Bercher): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-5
+
+Team 1 pitcher change to Liam Newman
+
+Emanuel Gutiérrez: rng1 = 13 + 3 - 10 + 1 = 7
+Strikeout
+Team 1 pitcher (Liam Newman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-5
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Emilio Aguilar
+
+Whalen Tate: rng1 = 28 + 2 - 10 - 1 = 19
+Strikeout
+Team 2 pitcher (Emilio Aguilar): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-5
+
+Romero Hidalgo: rng1 = 31 + 7 - 10 - 1 = 27
+Strikeout
+Team 2 pitcher (Emilio Aguilar): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-5
+
+Parker Dillard: rng1 = 83 + 5 - 10 - 1 = 77
+rng2 = 42 + 4 - 10 - 1 = 35
+Single
+Team 2 pitcher (Emilio Aguilar): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [8,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-5
+
+Isaac Morris: rng1 = 100 + 15 - 10 - 1 = 104
+rng2 = 9 + 15 - 10 - 1 = 13
+Single
+Team 2 pitcher (Emilio Aguilar): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [0,4], base2: false, base3: [8,4]
+base1: true, base2: false, base3: true
+Score: 4-5
+
+Ryuke Watanabe: rng1 = 80 + 14 - 10 - 1 = 83
+rng2 = 28 + 10 - 10 - 1 = 27
+Single
+Team 2 pitcher (Emilio Aguilar): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [1,4], base2: [0,4], base3: false
+base1: true, base2: true, base3: false
+Score: 5-5
+
+Martin Holland: rng1 = 72 + 13 - 10 - 1 = 74
+rng2 = 81 + 5 - 10 - 1 = 75
+Double
+Team 2 pitcher (Emilio Aguilar): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: false, base2: [2,4], base3: false
+base1: false, base2: true, base3: false
+Score: 7-5
+
+Team 2 pitcher change to Thomas Barnes
+
+Yorell Harmon: rng1 = 67 + 12 - 9 - 1 = 69
+rng2 = 75 + 13 - 8 - 1 = 79
+Flyout
+Team 2 pitcher (Thomas Barnes): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-5
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Otis Michael
+
+Jorge Gonzalez: rng1 = 68 + 11 - 13 + 1 = 67
+rng2 = 75 + 11 - 14 + 1 = 73
+Flyout
+Team 1 pitcher (Otis Michael): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-5
+
+Aiden Hayes: rng1 = 49 + 10 - 13 + 1 = 47
+rng2 = 97 + 11 - 14 + 1 = 95
+Flyout
+Team 1 pitcher (Otis Michael): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-5
+
+Aaron Vera: rng1 = 11 + 9 - 13 + 1 = 8
+Strikeout
+Team 1 pitcher (Otis Michael): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-5
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 9
+Team 2 hits: 8
+Team 1 runs: 7
+Team 2 runs: 5
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					26-Jul-24
+Isaac Morris	5	2	2	0	0	1	3	0	2					Toronto
+Ryuke Watanabe	5	1	1	0	0	0	1	0	0	
+Martin Holland	4	0	1	1	0	0	2	1	2	
+Yorell Harmon	5	0	0	0	0	0	0	0	1	
+Trey Walter	4	0	0	0	0	0	0	0	2	
+Angel Semprún	4	0	1	1	0	0	0	0	0	
+Whalen Tate	3	2	1	0	0	1	1	1	2	
+Romero Hidalgo	4	0	1	1	0	0	0	0	1	
+Parker Dillard	2	2	2	1	0	0	0	2	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Billy Saunders	0	0	1	1	0	0	18	5	2	1	2	9	26	
+Grover Bercher	0	0	1	0	0	0	5	3	3	1	1	1	9	
+Liam Newman	1	0	1	0	0	0	1	0	0	0	0	1	1	
+Julian Carney	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Otis Michael	0	0	1	0	1	1	3	0	0	0	0	1	3	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					26-Jul-24
+Jorge Gonzalez	5	0	0	0	0	0	0	0	1					Boston
+Aiden Hayes	4	0	0	0	0	0	0	1	2	
+Aaron Vera	5	0	0	0	0	0	0	0	3	
+Quillin Grant	3	1	1	0	0	1	1	0	1	
+Juan Pearson	3	0	1	1	0	0	0	1	1	
+Karsen Welch	4	1	1	0	0	0	0	0	1	
+Seamus Tanner	4	1	2	1	0	0	1	0	0	
+Zyrell Ford	4	2	2	0	1	1	2	0	2	
+Emanuel Gutiérrez	3	0	1	0	0	0	1	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Ryan Swanson	0	0	1	1	0	0	19	5	4	2	4	6	28	
+Rob Bowman	0	0	1	0	0	0	5	0	0	0	0	2	5	
+Thomas Barnes	0	0	1	0	0	0	1	0	0	0	0	0	1	
+Orlando Otero	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Emilio Aguilar	0	1	1	0	0	1	2	4	3	0	0	2	6	

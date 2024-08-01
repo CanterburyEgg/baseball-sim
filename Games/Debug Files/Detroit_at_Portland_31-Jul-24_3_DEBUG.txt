@@ -1,0 +1,752 @@
+TOP INNING 1
+
+Randall Hodge: rng1 = 37 + 12 - 14 - 1 = 34
+rng2 = 87 + 11 - 14 - 1 = 83
+Flyout
+Team 2 pitcher (Demarcus Jackson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Kugo Tadayuki: rng1 = 77 + 9 - 14 - 1 = 71
+Walk
+Team 2 pitcher (Demarcus Jackson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Terry Schroeder: rng1 = 22 + 8 - 14 - 1 = 15
+rng2 = 75 + 4 - 14 - 1 = 64
+Flyout
+Team 2 pitcher (Demarcus Jackson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Caden Bryan: rng1 = 76 + 6 - 14 - 1 = 67
+rng2 = 27 + 12 - 14 - 1 = 24
+Groundout
+Team 2 pitcher (Demarcus Jackson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Jeremy Anderson: rng1 = 65 + 12 - 12 + 1 = 66
+rng2 = 4 + 8 - 12 + 1 = 1
+Groundout
+Team 1 pitcher (Orlando Yepes): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Kim Bon-Shim: rng1 = 6 + 11 - 12 + 1 = 6
+Strikeout
+Team 1 pitcher (Orlando Yepes): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Cody McCarthy: rng1 = 48 + 11 - 12 + 1 = 48
+rng2 = 82 + 15 - 12 + 1 = 86
+Flyout
+Team 1 pitcher (Orlando Yepes): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Chwa Jung-Su: rng1 = 61 + 7 - 14 - 1 = 53
+rng2 = 83 + 5 - 14 - 1 = 73
+Flyout
+Team 2 pitcher (Demarcus Jackson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Alex Carpenter: rng1 = 83 + 3 - 14 - 1 = 71
+Walk
+Team 2 pitcher (Demarcus Jackson): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Marvin Calvert: rng1 = 94 + 2 - 14 - 1 = 81
+rng2 = 86 + 8 - 14 - 1 = 79
+Triple
+Team 2 pitcher (Demarcus Jackson): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: false, base2: false, base3: [6,0]
+base1: false, base2: false, base3: true
+Score: 1-0
+
+Joey Greer: rng1 = 92 + 6 - 14 - 1 = 83
+rng2 = 51 + 4 - 14 - 1 = 40
+Single
+Team 2 pitcher (Demarcus Jackson): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Bobby King: rng1 = 36 + 1 - 14 - 1 = 22
+Strikeout
+Team 2 pitcher (Demarcus Jackson): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Randall Hodge: rng1 = 34 + 12 - 14 - 1 = 31
+rng2 = 44 + 11 - 14 - 1 = 40
+Groundout
+Team 2 pitcher (Demarcus Jackson): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Pedro Martinez: rng1 = 68 + 6 - 12 + 1 = 63
+rng2 = 69 + 11 - 12 + 1 = 69
+Flyout
+Team 1 pitcher (Orlando Yepes): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Antonio Carrera: rng1 = 4 + 10 - 12 + 1 = 3
+Strikeout
+Team 1 pitcher (Orlando Yepes): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Noah Davidson: rng1 = 40 + 10 - 12 + 1 = 39
+rng2 = 94 + 5 - 12 + 1 = 88
+Flyout
+Team 1 pitcher (Orlando Yepes): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+TOP INNING 3
+
+Kugo Tadayuki: rng1 = 56 + 9 - 14 - 1 = 50
+rng2 = 62 + 6 - 14 - 1 = 53
+Lineout
+Team 2 pitcher (Demarcus Jackson): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Terry Schroeder: rng1 = 23 + 8 - 14 - 1 = 16
+Strikeout
+Team 2 pitcher (Demarcus Jackson): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Caden Bryan: rng1 = 74 + 6 - 14 - 1 = 65
+rng2 = 84 + 12 - 14 - 1 = 81
+Flyout
+Team 2 pitcher (Demarcus Jackson): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Irvin Brown: rng1 = 44 + 8 - 12 + 1 = 41
+rng2 = 33 + 6 - 12 + 1 = 28
+Groundout
+Team 1 pitcher (Orlando Yepes): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Chae Yongsun: rng1 = 63 + 4 - 12 + 1 = 56
+rng2 = 72 + 9 - 12 + 1 = 70
+Flyout
+Team 1 pitcher (Orlando Yepes): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Yon Shin-Young: rng1 = 62 + 5 - 12 + 1 = 56
+rng2 = 58 + 6 - 12 + 1 = 53
+Lineout
+Team 1 pitcher (Orlando Yepes): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+TOP INNING 4
+
+Chwa Jung-Su: rng1 = 40 + 7 - 14 - 1 = 32
+rng2 = 25 + 5 - 14 - 1 = 15
+Groundout
+Team 2 pitcher (Demarcus Jackson): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Alex Carpenter: rng1 = 50 + 3 - 14 - 1 = 38
+rng2 = 92 + 8 - 14 - 1 = 85
+Flyout
+Team 2 pitcher (Demarcus Jackson): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Marvin Calvert: rng1 = 100 + 2 - 14 - 1 = 87
+Walk
+Team 2 pitcher (Demarcus Jackson): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Joey Greer: rng1 = 84 + 6 - 14 - 1 = 75
+rng2 = 92 + 4 - 14 - 1 = 81
+Home run
+Team 2 pitcher (Demarcus Jackson): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Bobby King: rng1 = 77 + 1 - 14 - 1 = 63
+rng2 = 31 + 5 - 14 - 1 = 21
+Groundout
+Team 2 pitcher (Demarcus Jackson): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+BOTTOM INNING 4
+
+Jeremy Anderson: rng1 = 96 + 12 - 12 + 1 = 97
+rng2 = 17 + 8 - 12 + 1 = 14
+Single
+Team 1 pitcher (Orlando Yepes): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Kim Bon-Shim: rng1 = 88 + 11 - 12 + 1 = 88
+Walk
+Team 1 pitcher (Orlando Yepes): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 0
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 4-0
+
+Cody McCarthy: rng1 = 56 + 11 - 12 + 1 = 56
+rng2 = 13 + 15 - 12 + 1 = 17
+Groundout
+Team 1 pitcher (Orlando Yepes): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 1
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 4-0
+
+Pedro Martinez: rng1 = 13 + 6 - 12 + 1 = 8
+Strikeout
+Team 1 pitcher (Orlando Yepes): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 2
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 4-0
+
+Antonio Carrera: rng1 = 70 + 10 - 12 + 1 = 69
+rng2 = 59 + 10 - 12 + 1 = 58
+Lineout
+Team 1 pitcher (Orlando Yepes): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+TOP INNING 5
+
+Randall Hodge: rng1 = 90 + 12 - 14 - 1 = 87
+Walk
+Team 2 pitcher (Demarcus Jackson): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Kugo Tadayuki: rng1 = 72 + 9 - 14 - 1 = 66
+rng2 = 19 + 6 - 14 - 1 = 10
+Groundout
+Team 2 pitcher (Demarcus Jackson): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Terry Schroeder: rng1 = 75 + 8 - 14 - 1 = 68
+rng2 = 69 + 4 - 14 - 1 = 58
+Lineout
+Team 2 pitcher (Demarcus Jackson): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+BOTTOM INNING 5
+
+Noah Davidson: rng1 = 72 + 10 - 12 + 1 = 71
+Walk
+Team 1 pitcher (Orlando Yepes): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Irvin Brown: rng1 = 83 + 8 - 12 + 1 = 80
+rng2 = 3 + 6 - 12 + 1 = -2
+Single
+Team 1 pitcher (Orlando Yepes): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 0
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 4-0
+
+Chae Yongsun: rng1 = 10 + 4 - 12 + 1 = 3
+Strikeout
+Team 1 pitcher (Orlando Yepes): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 1
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 4-0
+
+Yon Shin-Young: rng1 = 87 + 5 - 12 + 1 = 81
+rng2 = 89 + 6 - 12 + 1 = 84
+Home run
+Team 1 pitcher (Orlando Yepes): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Jeremy Anderson: rng1 = 16 + 12 - 12 + 1 = 17
+Strikeout
+Team 1 pitcher (Orlando Yepes): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Kim Bon-Shim: rng1 = 81 + 11 - 12 + 1 = 81
+rng2 = 4 + 14 - 12 + 1 = 7
+Single
+Team 1 pitcher (Orlando Yepes): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Cody McCarthy: rng1 = 20 + 11 - 12 + 1 = 20
+Strikeout
+Team 1 pitcher (Orlando Yepes): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Larry Gibson
+
+Caden Bryan: rng1 = 63 + 6 - 12 - 1 = 56
+rng2 = 17 + 12 - 11 - 1 = 17
+Groundout
+Team 2 pitcher (Larry Gibson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Chwa Jung-Su: rng1 = 88 + 7 - 12 - 1 = 82
+rng2 = 15 + 5 - 11 - 1 = 8
+Single
+Team 2 pitcher (Larry Gibson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Alex Carpenter: rng1 = 27 + 3 - 12 - 1 = 17
+Strikeout
+Team 2 pitcher (Larry Gibson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Marvin Calvert: rng1 = 88 + 2 - 12 - 1 = 77
+rng2 = 33 + 8 - 11 - 1 = 29
+Single
+Team 2 pitcher (Larry Gibson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [6,1], base2: false, base3: [4,1]
+base1: true, base2: false, base3: true
+Score: 4-3
+
+Joey Greer: rng1 = 19 + 6 - 12 - 1 = 12
+rng2 = 20 + 4 - 11 - 1 = 12
+Groundout
+Team 2 pitcher (Larry Gibson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Wayne Kelly
+
+Pedro Martinez: rng1 = 67 + 6 - 9 + 1 = 65
+rng2 = 1 + 11 - 7 + 1 = 6
+Groundout
+Team 1 pitcher (Wayne Kelly): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Antonio Carrera: rng1 = 54 + 10 - 9 + 1 = 56
+rng2 = 77 + 10 - 7 + 1 = 81
+Flyout
+Team 1 pitcher (Wayne Kelly): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Noah Davidson: rng1 = 63 + 10 - 9 + 1 = 65
+rng2 = 78 + 5 - 7 + 1 = 77
+Flyout
+Team 1 pitcher (Wayne Kelly): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Terry Adams
+
+Bobby King: rng1 = 74 + 1 - 11 - 1 = 63
+rng2 = 95 + 5 - 11 - 1 = 88
+Flyout
+Team 2 pitcher (Terry Adams): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Randall Hodge: rng1 = 29 + 12 - 11 - 1 = 29
+rng2 = 100 + 11 - 11 - 1 = 99
+Flyout
+Team 2 pitcher (Terry Adams): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Kugo Tadayuki: rng1 = 39 + 9 - 11 - 1 = 36
+rng2 = 53 + 6 - 11 - 1 = 47
+Groundout
+Team 2 pitcher (Terry Adams): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+BOTTOM INNING 7
+
+Irvin Brown: rng1 = 67 + 8 - 9 + 1 = 67
+rng2 = 43 + 6 - 7 + 1 = 43
+Groundout
+Team 1 pitcher (Wayne Kelly): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Chae Yongsun: rng1 = 68 + 4 - 9 + 1 = 64
+rng2 = 29 + 9 - 7 + 1 = 32
+Groundout
+Team 1 pitcher (Wayne Kelly): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Yon Shin-Young: rng1 = 20 + 5 - 9 + 1 = 17
+Strikeout
+Team 1 pitcher (Wayne Kelly): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+TOP INNING 8
+
+Terry Schroeder: rng1 = 71 + 8 - 11 - 1 = 67
+rng2 = 91 + 4 - 11 - 1 = 83
+Flyout
+Team 2 pitcher (Terry Adams): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Caden Bryan: rng1 = 29 + 6 - 11 - 1 = 23
+Strikeout
+Team 2 pitcher (Terry Adams): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Chwa Jung-Su: rng1 = 87 + 7 - 11 - 1 = 82
+rng2 = 100 + 5 - 11 - 1 = 93
+Triple
+Team 2 pitcher (Terry Adams): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: [4,2]
+base1: false, base2: false, base3: true
+Score: 4-3
+
+Alex Carpenter: rng1 = 84 + 3 - 11 - 1 = 75
+rng2 = 81 + 8 - 11 - 1 = 77
+Double
+Team 2 pitcher (Terry Adams): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: [5,2], base3: false
+base1: false, base2: true, base3: false
+Score: 5-3
+
+Marvin Calvert: rng1 = 22 + 2 - 11 - 1 = 12
+rng2 = 15 + 8 - 11 - 1 = 11
+Groundout
+Team 2 pitcher (Terry Adams): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Luciano Garrido
+
+Jeremy Anderson: rng1 = 66 + 12 - 8 + 1 = 71
+Walk
+Team 1 pitcher (Luciano Garrido): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-3
+
+Kim Bon-Shim: rng1 = 69 + 11 - 8 + 1 = 73
+rng2 = 61 + 14 - 7 + 1 = 69
+Double
+Team 1 pitcher (Luciano Garrido): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: false, base2: [1,2], base3: false
+base1: false, base2: true, base3: false
+Score: 5-4
+
+Cody McCarthy: rng1 = 42 + 11 - 8 + 1 = 46
+rng2 = 53 + 15 - 7 + 1 = 62
+Flyout
+Team 1 pitcher (Luciano Garrido): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [1,2], base3: false
+base1: false, base2: true, base3: false
+Score: 5-4
+
+Pedro Martinez: rng1 = 78 + 6 - 8 + 1 = 77
+rng2 = 58 + 11 - 7 + 1 = 63
+Single
+Team 1 pitcher (Luciano Garrido): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: [3,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-5
+
+Antonio Carrera: rng1 = 22 + 10 - 8 + 1 = 25
+Strikeout
+Team 1 pitcher (Luciano Garrido): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: [3,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-5
+
+Noah Davidson: rng1 = 58 + 10 - 8 + 1 = 61
+rng2 = 49 + 5 - 7 + 1 = 48
+Lineout
+Team 1 pitcher (Luciano Garrido): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-5
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Julio Ramirez
+
+Joey Greer: rng1 = 67 + 6 - 11 - 1 = 61
+rng2 = 66 + 4 - 11 - 1 = 58
+Lineout
+Team 2 pitcher (Julio Ramirez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-5
+
+Bobby King: rng1 = 9 + 1 - 11 - 1 = -2
+Strikeout
+Team 2 pitcher (Julio Ramirez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-5
+
+Randall Hodge: rng1 = 62 + 12 - 11 - 1 = 62
+rng2 = 96 + 11 - 11 - 1 = 95
+Flyout
+Team 2 pitcher (Julio Ramirez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-5
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Brentley Dickson
+
+Irvin Brown: rng1 = 80 + 8 - 9 + 1 = 80
+rng2 = 42 + 6 - 10 + 1 = 39
+Single
+Team 1 pitcher (Brentley Dickson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [6,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-5
+
+Chae Yongsun: rng1 = 18 + 4 - 9 + 1 = 14
+rng2 = 69 + 9 - 10 + 1 = 69
+Flyout
+Team 1 pitcher (Brentley Dickson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [6,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-5
+
+Yon Shin-Young: rng1 = 79 + 5 - 9 + 1 = 76
+rng2 = 62 + 6 - 10 + 1 = 59
+Single
+Team 1 pitcher (Brentley Dickson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [8,4], base2: false, base3: [6,4]
+base1: true, base2: false, base3: true
+Score: 5-5
+
+Jeremy Anderson: rng1 = 11 + 12 - 9 + 1 = 15
+rng2 = 75 + 8 - 10 + 1 = 74
+Flyout
+Team 1 pitcher (Brentley Dickson): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [8,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-6
+
+Innings: 9
+Team 1 hits: 7
+Team 2 hits: 8
+Team 1 runs: 5
+Team 2 runs: 6
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					31-Jul-24
+Randall Hodge	4	0	0	0	0	0	0	1	0					Detroit
+Kugo Tadayuki	3	0	0	0	0	0	0	1	0	
+Terry Schroeder	4	0	0	0	0	0	0	0	1	
+Caden Bryan	4	0	0	0	0	0	0	0	1	
+Chwa Jung-Su	4	1	2	0	1	0	0	0	0	
+Alex Carpenter	3	1	1	1	0	0	1	1	1	
+Marvin Calvert	3	2	2	0	1	0	1	1	0	
+Joey Greer	4	1	2	0	0	1	3	0	0	
+Bobby King	4	0	0	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Orlando Yepes	0	0	1	1	0	0	15	4	3	1	2	6	21	
+Wayne Kelly	0	0	1	0	0	0	6	0	0	0	0	1	6	
+Luciano Garrido	0	0	1	0	0	0	3	2	2	0	1	1	6	
+Jesus Perez	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Brentley Dickson	0	1	1	0	0	0	2	2	1	0	0	0	4	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					31-Jul-24
+Jeremy Anderson	4	1	1	0	0	0	1	1	1					Portland
+Kim Bon-Shim	3	1	2	1	0	0	1	1	1	
+Cody McCarthy	4	0	0	0	0	0	0	0	1	
+Pedro Martinez	4	0	1	0	0	0	1	0	1	
+Antonio Carrera	4	0	0	0	0	0	0	0	2	
+Noah Davidson	3	1	0	0	0	0	0	1	0	
+Irvin Brown	4	2	2	0	0	0	0	0	0	
+Chae Yongsun	4	0	0	0	0	0	0	0	1	
+Yon Shin-Young	4	1	2	0	0	1	3	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Demarcus Jackson	0	0	1	1	0	0	15	3	4	1	4	2	21	
+Larry Gibson	0	0	1	0	0	0	3	2	0	0	0	1	5	
+Terry Adams	0	0	1	0	0	0	6	2	1	0	0	1	8	
+Julio Ramirez	1	0	1	0	0	0	3	0	0	0	0	1	3	
+Ripley Sjostrand	0	0	0	0	0	0	0	0	0	0	0	0	0	

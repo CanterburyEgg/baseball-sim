@@ -1,0 +1,885 @@
+TOP INNING 1
+
+Diego Vargas: rng1 = 99 + 12 - 9 - 1 = 101
+rng2 = 93 + 12 - 10 - 1 = 94
+Home run
+Team 2 pitcher (Dirk-Jan Heeten): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Quentin Farmer: rng1 = 29 + 9 - 9 - 1 = 28
+Strikeout
+Team 2 pitcher (Dirk-Jan Heeten): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Leon Fraser: rng1 = 29 + 8 - 9 - 1 = 27
+Strikeout
+Team 2 pitcher (Dirk-Jan Heeten): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Nicolas Sanchez: rng1 = 85 + 3 - 9 - 1 = 78
+rng2 = 1 + 11 - 10 - 1 = 1
+Single
+Team 2 pitcher (Dirk-Jan Heeten): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Max Chicote: rng1 = 72 + 7 - 9 - 1 = 69
+rng2 = 94 + 6 - 10 - 1 = 89
+Flyout
+Team 2 pitcher (Dirk-Jan Heeten): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Jose Walker: rng1 = 80 + 15 - 6 + 1 = 90
+Walk
+Team 1 pitcher (Tavell Nash): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Lawrence Webb: rng1 = 4 + 12 - 6 + 1 = 11
+rng2 = 1 + 12 - 5 + 1 = 9
+Groundout
+Team 1 pitcher (Tavell Nash): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Adam Harmon: rng1 = 94 + 12 - 6 + 1 = 101
+rng2 = 9 + 10 - 5 + 1 = 15
+Single
+Team 1 pitcher (Tavell Nash): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Stanley Jackson: rng1 = 78 + 9 - 6 + 1 = 82
+rng2 = 76 + 13 - 5 + 1 = 85
+Home run
+Team 1 pitcher (Tavell Nash): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Eric Parker: rng1 = 90 + 11 - 6 + 1 = 96
+rng2 = 8 + 11 - 5 + 1 = 15
+Single
+Team 1 pitcher (Tavell Nash): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Alvaro Tavarez: rng1 = 68 + 10 - 6 + 1 = 73
+rng2 = 77 + 10 - 5 + 1 = 83
+Home run
+Team 1 pitcher (Tavell Nash): 6 batters faced, 4 runs allowed = 6 + 10.0 = 16.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Aulani Pekelo: rng1 = 33 + 11 - 6 + 1 = 39
+rng2 = 82 + 9 - 5 + 1 = 87
+Flyout
+Team 1 pitcher (Tavell Nash): 7 batters faced, 4 runs allowed = 7 + 10.0 = 17.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+TOP INNING 2
+
+Leroy Powell: rng1 = 13 + 3 - 9 - 1 = 6
+Strikeout
+Team 2 pitcher (Dirk-Jan Heeten): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Trent Cline: rng1 = 87 + 5 - 9 - 1 = 82
+rng2 = 53 + 7 - 10 - 1 = 49
+Single
+Team 2 pitcher (Dirk-Jan Heeten): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Estefania Espina: rng1 = 92 + 5 - 9 - 1 = 87
+Walk
+Team 2 pitcher (Dirk-Jan Heeten): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-4
+
+Leonardo Pinto: rng1 = 6 + 7 - 9 - 1 = 3
+Strikeout
+Team 2 pitcher (Dirk-Jan Heeten): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-4
+
+Diego Vargas: rng1 = 66 + 12 - 9 - 1 = 68
+rng2 = 22 + 12 - 10 - 1 = 23
+Groundout
+Team 2 pitcher (Dirk-Jan Heeten): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+BOTTOM INNING 2
+
+Wil Raymond: rng1 = 85 + 7 - 6 + 1 = 87
+Walk
+Team 1 pitcher (Tavell Nash): 8 batters faced, 4 runs allowed = 8 + 10.0 = 18.0, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Suko Masakado: rng1 = 97 + 4 - 6 + 1 = 96
+rng2 = 5 + 8 - 5 + 1 = 9
+Single
+Team 1 pitcher (Tavell Nash): 9 batters faced, 4 runs allowed = 9 + 10.0 = 19.0, outs: 0
+
+base1: [8,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 1-4
+
+Jose Walker: rng1 = 47 + 15 - 6 + 1 = 57
+rng2 = 83 + 14 - 5 + 1 = 93
+Flyout
+Team 1 pitcher (Tavell Nash): 10 batters faced, 5 runs allowed = 10 + 12.5 = 22.5, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Lawrence Webb: rng1 = 79 + 12 - 6 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Tavell Nash): 11 batters faced, 5 runs allowed = 11 + 12.5 = 23.5, outs: 1
+
+base1: [1,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-5
+
+Adam Harmon: rng1 = 47 + 12 - 6 + 1 = 54
+rng2 = 73 + 10 - 5 + 1 = 79
+Flyout
+Team 1 pitcher (Tavell Nash): 12 batters faced, 5 runs allowed = 12 + 12.5 = 24.5, outs: 2
+
+base1: [1,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-5
+
+Stanley Jackson: rng1 = 46 + 9 - 6 + 1 = 50
+rng2 = 30 + 13 - 5 + 1 = 39
+Groundout
+Team 1 pitcher (Tavell Nash): 13 batters faced, 5 runs allowed = 13 + 12.5 = 25.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+TOP INNING 3
+
+Quentin Farmer: rng1 = 66 + 9 - 9 - 1 = 65
+rng2 = 71 + 1 - 10 - 1 = 61
+Flyout
+Team 2 pitcher (Dirk-Jan Heeten): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Leon Fraser: rng1 = 80 + 8 - 9 - 1 = 78
+rng2 = 27 + 4 - 10 - 1 = 20
+Single
+Team 2 pitcher (Dirk-Jan Heeten): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Nicolas Sanchez: rng1 = 96 + 3 - 9 - 1 = 89
+Walk
+Team 2 pitcher (Dirk-Jan Heeten): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-5
+
+Max Chicote: rng1 = 85 + 7 - 9 - 1 = 82
+rng2 = 10 + 6 - 10 - 1 = 5
+Single
+Team 2 pitcher (Dirk-Jan Heeten): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 1
+
+base1: [4,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 2-5
+
+Leroy Powell: rng1 = 72 + 3 - 9 - 1 = 65
+rng2 = 13 + 9 - 10 - 1 = 11
+Groundout
+Team 2 pitcher (Dirk-Jan Heeten): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 2
+
+base1: [5,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 2-5
+
+Trent Cline: rng1 = 80 + 5 - 9 - 1 = 75
+rng2 = 56 + 7 - 10 - 1 = 52
+Single
+Team 2 pitcher (Dirk-Jan Heeten): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 2
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-5
+
+Estefania Espina: rng1 = 45 + 5 - 9 - 1 = 40
+rng2 = 62 + 7 - 10 - 1 = 58
+Lineout
+Team 2 pitcher (Dirk-Jan Heeten): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+BOTTOM INNING 3
+
+Eric Parker: rng1 = 97 + 11 - 6 + 1 = 103
+rng2 = 2 + 11 - 5 + 1 = 9
+Single
+Team 1 pitcher (Tavell Nash): 14 batters faced, 5 runs allowed = 14 + 12.5 = 26.5, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-5
+
+Alvaro Tavarez: rng1 = 86 + 10 - 6 + 1 = 91
+rng2 = 67 + 10 - 5 + 1 = 73
+Double
+Team 1 pitcher (Tavell Nash): 15 batters faced, 6 runs allowed = 15 + 15.0 = 30.0, outs: 0
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-6
+
+Aulani Pekelo: rng1 = 49 + 11 - 6 + 1 = 55
+rng2 = 56 + 9 - 5 + 1 = 61
+Flyout
+Team 1 pitcher (Tavell Nash): 16 batters faced, 6 runs allowed = 16 + 15.0 = 31.0, outs: 1
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-6
+
+Wil Raymond: rng1 = 58 + 7 - 6 + 1 = 60
+rng2 = 33 + 9 - 5 + 1 = 38
+Groundout
+Team 1 pitcher (Tavell Nash): 17 batters faced, 6 runs allowed = 17 + 15.0 = 32.0, outs: 2
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-6
+
+Suko Masakado: rng1 = 29 + 4 - 6 + 1 = 28
+Strikeout
+Team 1 pitcher (Tavell Nash): 18 batters faced, 6 runs allowed = 18 + 15.0 = 33.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-6
+
+-----------------------
+
+TOP INNING 4
+
+Leonardo Pinto: rng1 = 100 + 7 - 9 - 1 = 97
+rng2 = 15 + 5 - 10 - 1 = 9
+Single
+Team 2 pitcher (Dirk-Jan Heeten): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-6
+
+Diego Vargas: rng1 = 51 + 12 - 9 - 1 = 53
+rng2 = 36 + 12 - 10 - 1 = 37
+Groundout
+Team 2 pitcher (Dirk-Jan Heeten): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-6
+
+Quentin Farmer: rng1 = 5 + 9 - 9 - 1 = 4
+Strikeout
+Team 2 pitcher (Dirk-Jan Heeten): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-6
+
+-----------------------
+
+BOTTOM INNING 4
+
+Team 1 pitcher change to Keegan Schiel
+
+Jose Walker: rng1 = 42 + 15 - 7 + 1 = 51
+rng2 = 18 + 14 - 7 + 1 = 26
+Groundout
+Team 1 pitcher (Keegan Schiel): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-6
+
+Lawrence Webb: rng1 = 52 + 12 - 7 + 1 = 58
+rng2 = 49 + 12 - 7 + 1 = 55
+Lineout
+Team 1 pitcher (Keegan Schiel): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-6
+
+Adam Harmon: rng1 = 16 + 12 - 7 + 1 = 22
+Strikeout
+Team 1 pitcher (Keegan Schiel): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-6
+
+-----------------------
+
+TOP INNING 5
+
+Team 2 pitcher change to Isaac Wilson
+
+Leon Fraser: rng1 = 82 + 8 - 13 - 1 = 76
+rng2 = 3 + 4 - 14 - 1 = -8
+Single
+Team 2 pitcher (Isaac Wilson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-6
+
+Nicolas Sanchez: rng1 = 25 + 3 - 13 - 1 = 14
+rng2 = 62 + 11 - 14 - 1 = 58
+Lineout
+Team 2 pitcher (Isaac Wilson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-6
+
+Max Chicote: rng1 = 29 + 7 - 13 - 1 = 22
+Strikeout
+Team 2 pitcher (Isaac Wilson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-6
+
+Leroy Powell: rng1 = 28 + 3 - 13 - 1 = 17
+Strikeout
+Team 2 pitcher (Isaac Wilson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-6
+
+-----------------------
+
+BOTTOM INNING 5
+
+Stanley Jackson: rng1 = 28 + 9 - 7 + 1 = 31
+rng2 = 17 + 13 - 7 + 1 = 24
+Groundout
+Team 1 pitcher (Keegan Schiel): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-6
+
+Eric Parker: rng1 = 65 + 11 - 7 + 1 = 70
+Walk
+Team 1 pitcher (Keegan Schiel): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-6
+
+Alvaro Tavarez: rng1 = 95 + 10 - 7 + 1 = 99
+rng2 = 2 + 10 - 7 + 1 = 6
+Single
+Team 1 pitcher (Keegan Schiel): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,1], base2: false, base3: [4,1]
+base1: true, base2: false, base3: true
+Score: 3-6
+
+Aulani Pekelo: rng1 = 15 + 11 - 7 + 1 = 20
+Strikeout
+Team 1 pitcher (Keegan Schiel): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [5,1], base2: false, base3: [4,1]
+base1: true, base2: false, base3: true
+Score: 3-6
+
+Wil Raymond: rng1 = 79 + 7 - 7 + 1 = 80
+rng2 = 22 + 9 - 7 + 1 = 25
+Single
+Team 1 pitcher (Keegan Schiel): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [7,1], base2: false, base3: [5,1]
+base1: true, base2: false, base3: true
+Score: 3-7
+
+Suko Masakado: rng1 = 38 + 4 - 7 + 1 = 36
+rng2 = 92 + 8 - 7 + 1 = 94
+Flyout
+Team 1 pitcher (Keegan Schiel): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+TOP INNING 6
+
+Trent Cline: rng1 = 94 + 5 - 13 - 1 = 85
+rng2 = 80 + 7 - 14 - 1 = 72
+Double
+Team 2 pitcher (Isaac Wilson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: false, base2: [6,1], base3: false
+base1: false, base2: true, base3: false
+Score: 3-7
+
+Estefania Espina: rng1 = 54 + 5 - 13 - 1 = 45
+rng2 = 83 + 7 - 14 - 1 = 75
+Flyout
+Team 2 pitcher (Isaac Wilson): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: false, base3: [6,1]
+base1: false, base2: false, base3: true
+Score: 3-7
+
+Leonardo Pinto: rng1 = 38 + 7 - 13 - 1 = 31
+rng2 = 38 + 5 - 14 - 1 = 28
+Groundout
+Team 2 pitcher (Isaac Wilson): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-7
+
+Diego Vargas: rng1 = 38 + 12 - 13 - 1 = 36
+rng2 = 11 + 12 - 14 - 1 = 8
+Groundout
+Team 2 pitcher (Isaac Wilson): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-7
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Zion Wright
+
+Jose Walker: rng1 = 3 + 15 - 4 + 1 = 15
+rng2 = 95 + 14 - 4 + 1 = 106
+Flyout
+Team 1 pitcher (Zion Wright): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-7
+
+Lawrence Webb: rng1 = 33 + 12 - 4 + 1 = 42
+rng2 = 6 + 12 - 4 + 1 = 15
+Groundout
+Team 1 pitcher (Zion Wright): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-7
+
+Adam Harmon: rng1 = 84 + 12 - 4 + 1 = 93
+rng2 = 29 + 10 - 4 + 1 = 36
+Single
+Team 1 pitcher (Zion Wright): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-7
+
+Stanley Jackson: rng1 = 73 + 9 - 4 + 1 = 79
+rng2 = 49 + 13 - 4 + 1 = 59
+Single
+Team 1 pitcher (Zion Wright): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [3,2], base2: false, base3: [2,2]
+base1: true, base2: false, base3: true
+Score: 4-7
+
+Eric Parker: rng1 = 85 + 11 - 4 + 1 = 93
+rng2 = 80 + 11 - 4 + 1 = 88
+Double
+Team 1 pitcher (Zion Wright): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: false, base2: [4,2], base3: [3,2]
+base1: false, base2: true, base3: true
+Score: 4-8
+
+Alvaro Tavarez: rng1 = 34 + 10 - 4 + 1 = 41
+rng2 = 28 + 10 - 4 + 1 = 35
+Groundout
+Team 1 pitcher (Zion Wright): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-8
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Reuben Watson
+
+Quentin Farmer: rng1 = 48 + 9 - 9 - 1 = 47
+rng2 = 12 + 1 - 10 - 1 = 2
+Groundout
+Team 2 pitcher (Reuben Watson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-8
+
+Leon Fraser: rng1 = 47 + 8 - 9 - 1 = 45
+rng2 = 94 + 4 - 10 - 1 = 87
+Flyout
+Team 2 pitcher (Reuben Watson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-8
+
+Nicolas Sanchez: rng1 = 33 + 3 - 9 - 1 = 26
+Strikeout
+Team 2 pitcher (Reuben Watson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-8
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Drew Burns
+
+Aulani Pekelo: rng1 = 36 + 11 - 4 + 1 = 44
+rng2 = 64 + 9 - 4 + 1 = 70
+Flyout
+Team 1 pitcher (Drew Burns): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-8
+
+Wil Raymond: rng1 = 3 + 7 - 4 + 1 = 7
+Strikeout
+Team 1 pitcher (Drew Burns): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-8
+
+Suko Masakado: rng1 = 60 + 4 - 4 + 1 = 61
+rng2 = 2 + 8 - 4 + 1 = 7
+Groundout
+Team 1 pitcher (Drew Burns): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-8
+
+-----------------------
+
+TOP INNING 8
+
+Max Chicote: rng1 = 91 + 7 - 9 - 1 = 88
+Walk
+Team 2 pitcher (Reuben Watson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-8
+
+Leroy Powell: rng1 = 71 + 3 - 9 - 1 = 64
+rng2 = 9 + 9 - 10 - 1 = 7
+Groundout
+Team 2 pitcher (Reuben Watson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: [4,2], base3: false
+base1: false, base2: true, base3: false
+Score: 4-8
+
+Trent Cline: rng1 = 82 + 5 - 9 - 1 = 77
+rng2 = 95 + 7 - 10 - 1 = 91
+Double
+Team 2 pitcher (Reuben Watson): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: [6,2], base3: false
+base1: false, base2: true, base3: false
+Score: 5-8
+
+Estefania Espina: rng1 = 77 + 5 - 9 - 1 = 72
+Walk
+Team 2 pitcher (Reuben Watson): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: [7,2], base2: [6,2], base3: false
+base1: true, base2: true, base3: false
+Score: 5-8
+
+Leonardo Pinto: rng1 = 81 + 7 - 9 - 1 = 78
+rng2 = 2 + 5 - 10 - 1 = -4
+Single
+Team 2 pitcher (Reuben Watson): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 1
+
+base1: [8,2], base2: false, base3: [7,2]
+base1: true, base2: false, base3: true
+Score: 6-8
+
+Team 2 pitcher change to Aden Lowery
+
+Diego Vargas: rng1 = 88 + 12 - 12 - 1 = 87
+Walk
+Team 2 pitcher (Aden Lowery): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: [0,3], base2: [8,2], base3: [7,2]
+base1: true, base2: true, base3: true
+Score: 6-8
+
+Quentin Farmer: rng1 = 98 + 9 - 12 - 1 = 94
+rng2 = 3 + 1 - 11 - 1 = -8
+Single
+Team 2 pitcher (Aden Lowery): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,3], base2: false, base3: [0,3]
+base1: true, base2: false, base3: true
+Score: 8-8
+
+Leon Fraser: rng1 = 32 + 8 - 12 - 1 = 27
+Strikeout
+Team 2 pitcher (Aden Lowery): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,3], base2: false, base3: [0,3]
+base1: true, base2: false, base3: true
+Score: 8-8
+
+Nicolas Sanchez: rng1 = 89 + 3 - 12 - 1 = 79
+rng2 = 2 + 11 - 11 - 1 = 1
+Single
+Team 2 pitcher (Aden Lowery): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [3,3], base2: false, base3: [1,3]
+base1: true, base2: false, base3: true
+Score: 9-8
+
+Max Chicote: rng1 = 2 + 7 - 12 - 1 = -4
+Strikeout
+Team 2 pitcher (Aden Lowery): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-8
+
+-----------------------
+
+BOTTOM INNING 8
+
+Jose Walker: rng1 = 65 + 15 - 4 + 1 = 77
+rng2 = 29 + 14 - 4 + 1 = 40
+Single
+Team 1 pitcher (Drew Burns): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [0,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-8
+
+Lawrence Webb: rng1 = 7 + 12 - 4 + 1 = 16
+Strikeout
+Team 1 pitcher (Drew Burns): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [0,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-8
+
+Adam Harmon: rng1 = 2 + 12 - 4 + 1 = 11
+rng2 = 23 + 10 - 4 + 1 = 30
+Groundout
+Team 1 pitcher (Drew Burns): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [2,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-8
+
+Stanley Jackson: rng1 = 73 + 9 - 4 + 1 = 79
+rng2 = 30 + 13 - 4 + 1 = 40
+Single
+Team 1 pitcher (Drew Burns): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [3,3], base2: [2,3], base3: false
+base1: true, base2: true, base3: false
+Score: 9-8
+
+Eric Parker: rng1 = 36 + 11 - 4 + 1 = 44
+rng2 = 88 + 11 - 4 + 1 = 96
+Flyout
+Team 1 pitcher (Drew Burns): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-8
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Cohen Roman
+
+Leroy Powell: rng1 = 94 + 3 - 14 - 1 = 82
+rng2 = 38 + 9 - 15 - 1 = 31
+Single
+Team 2 pitcher (Cohen Roman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [5,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-8
+
+Trent Cline: rng1 = 16 + 5 - 14 - 1 = 6
+Strikeout
+Team 2 pitcher (Cohen Roman): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [5,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-8
+
+Estefania Espina: rng1 = 4 + 5 - 14 - 1 = -6
+Strikeout
+Team 2 pitcher (Cohen Roman): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [5,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-8
+
+Leonardo Pinto: rng1 = 25 + 7 - 14 - 1 = 17
+Strikeout
+Team 2 pitcher (Cohen Roman): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-8
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Reuben Simmons
+
+Alvaro Tavarez: rng1 = 60 + 10 - 12 + 1 = 59
+rng2 = 44 + 10 - 11 + 1 = 44
+Groundout
+Team 1 pitcher (Reuben Simmons): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-8
+
+Aulani Pekelo: rng1 = 29 + 11 - 12 + 1 = 29
+rng2 = 18 + 9 - 11 + 1 = 17
+Groundout
+Team 1 pitcher (Reuben Simmons): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-8
+
+Wil Raymond: rng1 = 43 + 7 - 12 + 1 = 39
+rng2 = 80 + 9 - 11 + 1 = 79
+Flyout
+Team 1 pitcher (Reuben Simmons): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-8
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 14
+Team 2 hits: 14
+Team 1 runs: 9
+Team 2 runs: 8
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					3-Aug-24
+Diego Vargas	4	2	1	0	0	1	1	1	0					Chicago
+Quentin Farmer	5	0	1	0	0	0	2	0	2	
+Leon Fraser	5	1	2	0	0	0	0	0	2	
+Nicolas Sanchez	4	1	2	0	0	0	1	1	1	
+Max Chicote	4	1	1	0	0	0	1	1	2	
+Leroy Powell	5	0	1	0	0	0	0	0	2	
+Trent Cline	5	2	4	2	0	0	2	0	1	
+Estefania Espina	3	1	0	0	0	0	0	2	1	
+Leonardo Pinto	5	1	2	0	0	0	2	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Tavell Nash	0	0	1	1	0	0	9	7	6	2	2	1	18	
+Keegan Schiel	0	0	1	0	0	0	6	2	1	0	1	2	9	
+Zion Wright	0	0	1	0	0	0	3	3	1	0	0	0	6	
+Drew Burns	1	0	1	0	0	0	6	2	0	0	0	2	8	
+Reuben Simmons	0	0	1	0	1	1	3	0	0	0	0	0	3	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					3-Aug-24
+Jose Walker	4	0	1	0	0	0	1	1	0					Kansas City
+Lawrence Webb	4	0	0	0	0	0	0	0	1	
+Adam Harmon	5	2	2	0	0	0	0	0	1	
+Stanley Jackson	5	1	3	0	0	1	2	0	0	
+Eric Parker	4	3	3	1	0	0	1	1	0	
+Alvaro Tavarez	5	1	3	1	0	1	3	0	0	
+Aulani Pekelo	5	0	0	0	0	0	0	0	1	
+Wil Raymond	4	1	1	0	0	0	1	1	1	
+Suko Masakado	4	0	1	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Dirk-Jan Heeten	0	0	1	1	0	0	12	7	3	1	2	5	20	
+Isaac Wilson	0	0	1	0	0	0	6	2	1	0	0	2	8	
+Reuben Watson	0	0	1	0	0	0	4	2	4	0	2	1	8	
+Aden Lowery	0	1	1	0	0	0	2	2	1	0	1	2	5	
+Cohen Roman	0	0	1	0	0	0	3	1	0	0	0	3	4	

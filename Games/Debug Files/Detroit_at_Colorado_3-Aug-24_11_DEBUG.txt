@@ -1,0 +1,806 @@
+TOP INNING 1
+
+Randall Hodge: rng1 = 6 + 12 - 13 - 1 = 4
+Strikeout
+Team 2 pitcher (Danny Perry): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Kugo Tadayuki: rng1 = 67 + 9 - 13 - 1 = 62
+rng2 = 91 + 6 - 12 - 1 = 84
+Flyout
+Team 2 pitcher (Danny Perry): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Terry Schroeder: rng1 = 18 + 8 - 13 - 1 = 12
+rng2 = 97 + 4 - 12 - 1 = 88
+Flyout
+Team 2 pitcher (Danny Perry): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Hiro Hakayawa: rng1 = 10 + 12 - 6 + 1 = 17
+Strikeout
+Team 1 pitcher (Kyle Bennett): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Alfredo Encarnacion: rng1 = 82 + 12 - 6 + 1 = 89
+Walk
+Team 1 pitcher (Kyle Bennett): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Youngwe Park: rng1 = 96 + 12 - 6 + 1 = 103
+rng2 = 51 + 8 - 6 + 1 = 54
+Single
+Team 1 pitcher (Kyle Bennett): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Dylan Marsh: rng1 = 81 + 11 - 6 + 1 = 87
+Walk
+Team 1 pitcher (Kyle Bennett): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [3,0], base2: [2,0], base3: [1,0]
+base1: true, base2: true, base3: true
+Score: 0-0
+
+Zachary Hughes: rng1 = 43 + 10 - 6 + 1 = 48
+rng2 = 87 + 12 - 6 + 1 = 94
+Flyout
+Team 1 pitcher (Kyle Bennett): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-1
+
+Randy Carson: rng1 = 39 + 9 - 6 + 1 = 43
+rng2 = 80 + 9 - 6 + 1 = 84
+Flyout
+Team 1 pitcher (Kyle Bennett): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 2
+
+Caden Bryan: rng1 = 86 + 6 - 13 - 1 = 78
+rng2 = 29 + 12 - 12 - 1 = 28
+Single
+Team 2 pitcher (Danny Perry): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Chwa Jung-Su: rng1 = 62 + 7 - 13 - 1 = 55
+rng2 = 57 + 5 - 12 - 1 = 49
+Lineout
+Team 2 pitcher (Danny Perry): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Alex Carpenter: rng1 = 33 + 3 - 13 - 1 = 22
+Strikeout
+Team 2 pitcher (Danny Perry): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Marvin Calvert: rng1 = 60 + 2 - 13 - 1 = 48
+rng2 = 12 + 8 - 12 - 1 = 7
+Groundout
+Team 2 pitcher (Danny Perry): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Micah Zamora: rng1 = 82 + 6 - 6 + 1 = 83
+rng2 = 9 + 11 - 6 + 1 = 15
+Single
+Team 1 pitcher (Kyle Bennett): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Alex Diaz: rng1 = 84 + 9 - 6 + 1 = 88
+Walk
+Team 1 pitcher (Kyle Bennett): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 0
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-1
+
+Guillermo Tamayo: rng1 = 31 + 11 - 6 + 1 = 37
+rng2 = 44 + 6 - 6 + 1 = 45
+Groundout
+Team 1 pitcher (Kyle Bennett): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-1
+
+Hiro Hakayawa: rng1 = 84 + 12 - 6 + 1 = 91
+rng2 = 28 + 14 - 6 + 1 = 37
+Single
+Team 1 pitcher (Kyle Bennett): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 1
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-2
+
+Alfredo Encarnacion: rng1 = 57 + 12 - 6 + 1 = 64
+rng2 = 63 + 13 - 6 + 1 = 71
+Flyout
+Team 1 pitcher (Kyle Bennett): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 2
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-2
+
+Youngwe Park: rng1 = 18 + 12 - 6 + 1 = 25
+Strikeout
+Team 1 pitcher (Kyle Bennett): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 3
+
+Joey Greer: rng1 = 78 + 6 - 13 - 1 = 70
+Walk
+Team 2 pitcher (Danny Perry): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Bobby King: rng1 = 88 + 1 - 13 - 1 = 75
+rng2 = 5 + 5 - 12 - 1 = -3
+Single
+Team 2 pitcher (Danny Perry): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 0
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-2
+
+Randall Hodge: rng1 = 19 + 12 - 13 - 1 = 17
+Strikeout
+Team 2 pitcher (Danny Perry): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-2
+
+Kugo Tadayuki: rng1 = 6 + 9 - 13 - 1 = 1
+Strikeout
+Team 2 pitcher (Danny Perry): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 2
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-2
+
+Terry Schroeder: rng1 = 1 + 8 - 13 - 1 = -5
+Strikeout
+Team 2 pitcher (Danny Perry): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+BOTTOM INNING 3
+
+Dylan Marsh: rng1 = 38 + 11 - 6 + 1 = 44
+rng2 = 54 + 15 - 6 + 1 = 64
+Flyout
+Team 1 pitcher (Kyle Bennett): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Zachary Hughes: rng1 = 44 + 10 - 6 + 1 = 49
+rng2 = 80 + 12 - 6 + 1 = 87
+Flyout
+Team 1 pitcher (Kyle Bennett): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Randy Carson: rng1 = 81 + 9 - 6 + 1 = 85
+rng2 = 88 + 9 - 6 + 1 = 92
+Double
+Team 1 pitcher (Kyle Bennett): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 2
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-2
+
+Micah Zamora: rng1 = 66 + 6 - 6 + 1 = 67
+rng2 = 87 + 11 - 6 + 1 = 93
+Flyout
+Team 1 pitcher (Kyle Bennett): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 4
+
+Caden Bryan: rng1 = 60 + 6 - 13 - 1 = 52
+rng2 = 67 + 12 - 12 - 1 = 66
+Flyout
+Team 2 pitcher (Danny Perry): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Chwa Jung-Su: rng1 = 75 + 7 - 13 - 1 = 68
+rng2 = 65 + 5 - 12 - 1 = 57
+Lineout
+Team 2 pitcher (Danny Perry): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Alex Carpenter: rng1 = 8 + 3 - 13 - 1 = -3
+Strikeout
+Team 2 pitcher (Danny Perry): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+BOTTOM INNING 4
+
+Alex Diaz: rng1 = 21 + 9 - 6 + 1 = 25
+Strikeout
+Team 1 pitcher (Kyle Bennett): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Guillermo Tamayo: rng1 = 88 + 11 - 6 + 1 = 94
+rng2 = 29 + 6 - 6 + 1 = 30
+Single
+Team 1 pitcher (Kyle Bennett): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Hiro Hakayawa: rng1 = 99 + 12 - 6 + 1 = 106
+rng2 = 53 + 14 - 6 + 1 = 62
+Single
+Team 1 pitcher (Kyle Bennett): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 1
+
+base1: [0,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 0-2
+
+Alfredo Encarnacion: rng1 = 90 + 12 - 6 + 1 = 97
+rng2 = 46 + 13 - 6 + 1 = 54
+Single
+Team 1 pitcher (Kyle Bennett): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 1
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 0-3
+
+Youngwe Park: rng1 = 72 + 12 - 6 + 1 = 79
+rng2 = 55 + 8 - 6 + 1 = 58
+Single
+Team 1 pitcher (Kyle Bennett): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 1
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-4
+
+Dylan Marsh: rng1 = 18 + 11 - 6 + 1 = 24
+Strikeout
+Team 1 pitcher (Kyle Bennett): 22 batters faced, 4 runs allowed = 22 + 10.0 = 32.0, outs: 2
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-4
+
+Zachary Hughes: rng1 = 92 + 10 - 6 + 1 = 97
+rng2 = 48 + 12 - 6 + 1 = 55
+Single
+Team 1 pitcher (Kyle Bennett): 23 batters faced, 5 runs allowed = 23 + 12.5 = 35.5, outs: 2
+
+base1: [4,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 0-5
+
+Team 1 pitcher change to Luciano Garrido
+
+Randy Carson: rng1 = 36 + 9 - 8 + 1 = 38
+rng2 = 34 + 9 - 7 + 1 = 37
+Groundout
+Team 1 pitcher (Luciano Garrido): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+TOP INNING 5
+
+Marvin Calvert: rng1 = 49 + 2 - 13 - 1 = 37
+rng2 = 2 + 8 - 12 - 1 = -3
+Groundout
+Team 2 pitcher (Danny Perry): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Joey Greer: rng1 = 35 + 6 - 13 - 1 = 27
+Strikeout
+Team 2 pitcher (Danny Perry): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Bobby King: rng1 = 90 + 1 - 13 - 1 = 77
+rng2 = 58 + 5 - 12 - 1 = 50
+Single
+Team 2 pitcher (Danny Perry): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Randall Hodge: rng1 = 62 + 12 - 13 - 1 = 60
+rng2 = 6 + 11 - 12 - 1 = 4
+Groundout
+Team 2 pitcher (Danny Perry): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+BOTTOM INNING 5
+
+Micah Zamora: rng1 = 70 + 6 - 8 + 1 = 69
+rng2 = 79 + 11 - 7 + 1 = 84
+Flyout
+Team 1 pitcher (Luciano Garrido): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Alex Diaz: rng1 = 75 + 9 - 8 + 1 = 77
+rng2 = 22 + 8 - 7 + 1 = 24
+Single
+Team 1 pitcher (Luciano Garrido): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Guillermo Tamayo: rng1 = 91 + 11 - 8 + 1 = 95
+rng2 = 1 + 6 - 7 + 1 = 1
+Single
+Team 1 pitcher (Luciano Garrido): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [8,1], base2: false, base3: [7,1]
+base1: true, base2: false, base3: true
+Score: 0-5
+
+Hiro Hakayawa: rng1 = 35 + 12 - 8 + 1 = 40
+rng2 = 91 + 14 - 7 + 1 = 99
+Flyout
+Team 1 pitcher (Luciano Garrido): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-6
+
+Alfredo Encarnacion: rng1 = 88 + 12 - 8 + 1 = 93
+rng2 = 60 + 13 - 7 + 1 = 67
+Double
+Team 1 pitcher (Luciano Garrido): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: false, base2: [1,1], base3: false
+base1: false, base2: true, base3: false
+Score: 0-7
+
+Youngwe Park: rng1 = 4 + 12 - 8 + 1 = 9
+Strikeout
+Team 1 pitcher (Luciano Garrido): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-7
+
+-----------------------
+
+TOP INNING 6
+
+Kugo Tadayuki: rng1 = 92 + 9 - 13 - 1 = 87
+Walk
+Team 2 pitcher (Danny Perry): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-7
+
+Terry Schroeder: rng1 = 46 + 8 - 13 - 1 = 40
+rng2 = 81 + 4 - 12 - 1 = 72
+Flyout
+Team 2 pitcher (Danny Perry): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-7
+
+Caden Bryan: rng1 = 49 + 6 - 13 - 1 = 41
+rng2 = 89 + 12 - 12 - 1 = 88
+Flyout
+Team 2 pitcher (Danny Perry): 22 batters faced, 0 runs allowed = 22 + 0.0 = 22.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-7
+
+Chwa Jung-Su: rng1 = 52 + 7 - 13 - 1 = 45
+rng2 = 75 + 5 - 12 - 1 = 67
+Flyout
+Team 2 pitcher (Danny Perry): 23 batters faced, 0 runs allowed = 23 + 0.0 = 23.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-7
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Wayne Kelly
+
+Dylan Marsh: rng1 = 73 + 11 - 9 + 1 = 76
+rng2 = 89 + 15 - 7 + 1 = 98
+Home run
+Team 1 pitcher (Wayne Kelly): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-8
+
+Zachary Hughes: rng1 = 35 + 10 - 9 + 1 = 37
+rng2 = 88 + 12 - 7 + 1 = 94
+Flyout
+Team 1 pitcher (Wayne Kelly): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-8
+
+Randy Carson: rng1 = 19 + 9 - 9 + 1 = 20
+Strikeout
+Team 1 pitcher (Wayne Kelly): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-8
+
+Micah Zamora: rng1 = 32 + 6 - 9 + 1 = 30
+rng2 = 42 + 11 - 7 + 1 = 47
+Groundout
+Team 1 pitcher (Wayne Kelly): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-8
+
+-----------------------
+
+TOP INNING 7
+
+Alex Carpenter: rng1 = 29 + 3 - 13 - 1 = 18
+Strikeout
+Team 2 pitcher (Danny Perry): 24 batters faced, 0 runs allowed = 24 + 0.0 = 24.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-8
+
+Marvin Calvert: rng1 = 93 + 2 - 13 - 1 = 81
+rng2 = 2 + 8 - 12 - 1 = -3
+Single
+Team 2 pitcher (Danny Perry): 25 batters faced, 0 runs allowed = 25 + 0.0 = 25.0, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-8
+
+Joey Greer: rng1 = 57 + 6 - 13 - 1 = 49
+rng2 = 64 + 4 - 12 - 1 = 55
+Lineout
+Team 2 pitcher (Danny Perry): 26 batters faced, 0 runs allowed = 26 + 0.0 = 26.0, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-8
+
+Bobby King: rng1 = 84 + 1 - 13 - 1 = 71
+Walk
+Team 2 pitcher (Danny Perry): 27 batters faced, 0 runs allowed = 27 + 0.0 = 27.0, outs: 2
+
+base1: [8,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-8
+
+Randall Hodge: rng1 = 13 + 12 - 13 - 1 = 11
+rng2 = 35 + 11 - 12 - 1 = 33
+Groundout
+Team 2 pitcher (Danny Perry): 28 batters faced, 0 runs allowed = 28 + 0.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-8
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Jesus Perez
+
+Alex Diaz: rng1 = 97 + 9 - 6 + 1 = 101
+rng2 = 57 + 8 - 7 + 1 = 59
+Single
+Team 1 pitcher (Jesus Perez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [7,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-8
+
+Guillermo Tamayo: rng1 = 93 + 11 - 6 + 1 = 99
+rng2 = 71 + 6 - 7 + 1 = 71
+Double
+Team 1 pitcher (Jesus Perez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: false, base2: [8,3], base3: [7,3]
+base1: false, base2: true, base3: true
+Score: 0-8
+
+Hiro Hakayawa: rng1 = 94 + 12 - 6 + 1 = 101
+rng2 = 55 + 14 - 7 + 1 = 63
+Single
+Team 1 pitcher (Jesus Perez): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 0
+
+base1: [0,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-10
+
+Alfredo Encarnacion: rng1 = 39 + 12 - 6 + 1 = 46
+rng2 = 95 + 13 - 7 + 1 = 102
+Flyout
+Team 1 pitcher (Jesus Perez): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: [0,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-10
+
+Youngwe Park: rng1 = 12 + 12 - 6 + 1 = 19
+Strikeout
+Team 1 pitcher (Jesus Perez): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: [0,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-10
+
+Dylan Marsh: rng1 = 28 + 11 - 6 + 1 = 34
+rng2 = 83 + 15 - 7 + 1 = 92
+Flyout
+Team 1 pitcher (Jesus Perez): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-10
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Amante Harvey
+
+Kugo Tadayuki: rng1 = 72 + 9 - 12 - 1 = 68
+rng2 = 66 + 6 - 11 - 1 = 60
+Flyout
+Team 2 pitcher (Amante Harvey): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-10
+
+Terry Schroeder: rng1 = 45 + 8 - 12 - 1 = 40
+rng2 = 44 + 4 - 11 - 1 = 36
+Groundout
+Team 2 pitcher (Amante Harvey): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-10
+
+Caden Bryan: rng1 = 93 + 6 - 12 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Amante Harvey): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-10
+
+Chwa Jung-Su: rng1 = 50 + 7 - 12 - 1 = 44
+rng2 = 99 + 5 - 11 - 1 = 92
+Flyout
+Team 2 pitcher (Amante Harvey): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-10
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Brentley Dickson
+
+Zachary Hughes: rng1 = 77 + 10 - 9 + 1 = 79
+rng2 = 90 + 12 - 10 + 1 = 93
+Triple
+Team 1 pitcher (Brentley Dickson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: false, base3: [4,4]
+base1: false, base2: false, base3: true
+Score: 0-10
+
+Randy Carson: rng1 = 45 + 9 - 9 + 1 = 46
+rng2 = 29 + 9 - 10 + 1 = 29
+Groundout
+Team 1 pitcher (Brentley Dickson): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-11
+
+Micah Zamora: rng1 = 52 + 6 - 9 + 1 = 50
+rng2 = 58 + 11 - 10 + 1 = 60
+Flyout
+Team 1 pitcher (Brentley Dickson): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-11
+
+Alex Diaz: rng1 = 87 + 9 - 9 + 1 = 88
+Walk
+Team 1 pitcher (Brentley Dickson): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [7,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-11
+
+Guillermo Tamayo: rng1 = 95 + 11 - 9 + 1 = 98
+rng2 = 7 + 6 - 10 + 1 = 4
+Single
+Team 1 pitcher (Brentley Dickson): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [8,4], base2: false, base3: [7,4]
+base1: true, base2: false, base3: true
+Score: 0-11
+
+Hiro Hakayawa: rng1 = 58 + 12 - 9 + 1 = 62
+rng2 = 49 + 14 - 10 + 1 = 54
+Lineout
+Team 1 pitcher (Brentley Dickson): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-11
+
+-----------------------
+
+TOP INNING 9
+
+Alex Carpenter: rng1 = 2 + 3 - 12 - 1 = -8
+Strikeout
+Team 2 pitcher (Amante Harvey): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-11
+
+Marvin Calvert: rng1 = 20 + 2 - 12 - 1 = 9
+Strikeout
+Team 2 pitcher (Amante Harvey): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-11
+
+Joey Greer: rng1 = 75 + 6 - 12 - 1 = 68
+rng2 = 56 + 4 - 11 - 1 = 48
+Lineout
+Team 2 pitcher (Amante Harvey): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-11
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 4
+Team 2 hits: 18
+Team 1 runs: 0
+Team 2 runs: 11
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					3-Aug-24
+Randall Hodge	4	0	0	0	0	0	0	0	2					Detroit
+Kugo Tadayuki	3	0	0	0	0	0	0	1	1	
+Terry Schroeder	4	0	0	0	0	0	0	0	1	
+Caden Bryan	3	0	1	0	0	0	0	0	0	
+Chwa Jung-Su	4	0	0	0	0	0	0	0	0	
+Alex Carpenter	4	0	0	0	0	0	0	0	4	
+Marvin Calvert	4	0	1	0	0	0	0	0	1	
+Joey Greer	3	0	0	0	0	0	0	1	1	
+Bobby King	2	0	2	0	0	0	0	1	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Kyle Bennett	0	1	1	1	0	0	11	9	5	0	3	4	23	
+Luciano Garrido	0	0	1	0	0	0	4	3	2	0	0	1	7	
+Wayne Kelly	0	0	1	0	0	0	3	1	1	1	0	1	4	
+Jesus Perez	0	0	1	0	0	0	3	3	2	0	0	1	6	
+Brentley Dickson	0	0	1	0	0	0	3	2	1	0	1	0	6	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					3-Aug-24
+Hiro Hakayawa	6	1	3	0	0	0	4	0	1					Colorado
+Alfredo Encarnacion	4	2	2	1	0	0	2	1	0	
+Youngwe Park	5	0	2	0	0	0	1	0	3	
+Dylan Marsh	4	1	1	0	0	1	1	1	1	
+Zachary Hughes	5	1	2	0	1	0	2	0	0	
+Randy Carson	5	0	1	1	0	0	1	0	1	
+Micah Zamora	5	0	1	0	0	0	0	0	0	
+Alex Diaz	3	3	2	0	0	0	0	2	1	
+Guillermo Tamayo	5	3	4	1	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Danny Perry	1	0	1	1	0	0	21	4	0	0	3	8	28	
+Amante Harvey	0	0	1	0	0	0	6	0	0	0	0	2	7	
+Julio Carrera	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Lyndon Perell	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Marquis Haynes	0	0	0	0	0	0	0	0	0	0	0	0	0	

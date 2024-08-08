@@ -1,0 +1,841 @@
+TOP INNING 1
+
+Juan Manzanares: rng1 = 78 + 15 - 9 - 1 = 83
+rng2 = 93 + 11 - 10 - 1 = 93
+Triple
+Team 2 pitcher (Dirk-Jan Heeten): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: false, base3: [0,0]
+base1: false, base2: false, base3: true
+Score: 0-0
+
+Edmundo Pousa: rng1 = 37 + 15 - 9 - 1 = 42
+rng2 = 89 + 10 - 10 - 1 = 88
+Flyout
+Team 2 pitcher (Dirk-Jan Heeten): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Byron Bartlett: rng1 = 48 + 13 - 9 - 1 = 51
+rng2 = 54 + 10 - 10 - 1 = 53
+Lineout
+Team 2 pitcher (Dirk-Jan Heeten): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Arturo Bellamy: rng1 = 82 + 14 - 9 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Dirk-Jan Heeten): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Chris Barber: rng1 = 18 + 8 - 9 - 1 = 16
+Strikeout
+Team 2 pitcher (Dirk-Jan Heeten): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Jose Walker: rng1 = 90 + 15 - 15 + 1 = 91
+rng2 = 56 + 14 - 14 + 1 = 57
+Single
+Team 1 pitcher (Ahmad Key): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Lawrence Webb: rng1 = 91 + 12 - 15 + 1 = 89
+Walk
+Team 1 pitcher (Ahmad Key): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Adam Harmon: rng1 = 64 + 12 - 15 + 1 = 62
+rng2 = 15 + 10 - 14 + 1 = 12
+Groundout
+Team 1 pitcher (Ahmad Key): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Stanley Jackson: rng1 = 10 + 9 - 15 + 1 = 5
+Strikeout
+Team 1 pitcher (Ahmad Key): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [2,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Eric Parker: rng1 = 36 + 11 - 15 + 1 = 33
+rng2 = 98 + 11 - 14 + 1 = 96
+Flyout
+Team 1 pitcher (Ahmad Key): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 2
+
+Darren Adams: rng1 = 43 + 4 - 9 - 1 = 37
+rng2 = 86 + 9 - 10 - 1 = 84
+Flyout
+Team 2 pitcher (Dirk-Jan Heeten): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Terryl Maxwell: rng1 = 62 + 1 - 9 - 1 = 53
+rng2 = 82 + 11 - 10 - 1 = 82
+Flyout
+Team 2 pitcher (Dirk-Jan Heeten): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Alejandro López: rng1 = 100 + 5 - 9 - 1 = 95
+rng2 = 21 + 5 - 10 - 1 = 15
+Single
+Team 2 pitcher (Dirk-Jan Heeten): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Marcos Gilabert: rng1 = 84 + 5 - 9 - 1 = 79
+rng2 = 94 + 5 - 10 - 1 = 88
+Double
+Team 2 pitcher (Dirk-Jan Heeten): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 2
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-0
+
+Juan Manzanares: rng1 = 2 + 15 - 9 - 1 = 7
+Strikeout
+Team 2 pitcher (Dirk-Jan Heeten): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Alvaro Tavarez: rng1 = 97 + 10 - 15 + 1 = 93
+rng2 = 72 + 10 - 14 + 1 = 69
+Double
+Team 1 pitcher (Ahmad Key): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 0
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-0
+
+Aulani Pekelo: rng1 = 90 + 11 - 15 + 1 = 87
+Walk
+Team 1 pitcher (Ahmad Key): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 0
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-0
+
+Wil Raymond: rng1 = 61 + 7 - 15 + 1 = 54
+rng2 = 98 + 9 - 14 + 1 = 94
+Flyout
+Team 1 pitcher (Ahmad Key): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 2-0
+
+Suko Masakado: rng1 = 77 + 4 - 15 + 1 = 67
+rng2 = 54 + 8 - 14 + 1 = 49
+Lineout
+Team 1 pitcher (Ahmad Key): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 2-0
+
+Jose Walker: rng1 = 50 + 15 - 15 + 1 = 51
+rng2 = 61 + 14 - 14 + 1 = 62
+Flyout
+Team 1 pitcher (Ahmad Key): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+TOP INNING 3
+
+Edmundo Pousa: rng1 = 89 + 15 - 9 - 1 = 94
+rng2 = 81 + 10 - 10 - 1 = 80
+Home run
+Team 2 pitcher (Dirk-Jan Heeten): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Byron Bartlett: rng1 = 65 + 13 - 9 - 1 = 68
+rng2 = 40 + 10 - 10 - 1 = 39
+Groundout
+Team 2 pitcher (Dirk-Jan Heeten): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Arturo Bellamy: rng1 = 10 + 14 - 9 - 1 = 14
+rng2 = 61 + 14 - 10 - 1 = 64
+Flyout
+Team 2 pitcher (Dirk-Jan Heeten): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Chris Barber: rng1 = 91 + 8 - 9 - 1 = 89
+Walk
+Team 2 pitcher (Dirk-Jan Heeten): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Darren Adams: rng1 = 61 + 4 - 9 - 1 = 55
+rng2 = 51 + 9 - 10 - 1 = 49
+Lineout
+Team 2 pitcher (Dirk-Jan Heeten): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Lawrence Webb: rng1 = 75 + 12 - 15 + 1 = 73
+rng2 = 100 + 12 - 14 + 1 = 99
+Home run
+Team 1 pitcher (Ahmad Key): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Adam Harmon: rng1 = 15 + 12 - 15 + 1 = 13
+rng2 = 17 + 10 - 14 + 1 = 14
+Groundout
+Team 1 pitcher (Ahmad Key): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Stanley Jackson: rng1 = 78 + 9 - 15 + 1 = 73
+rng2 = 36 + 13 - 14 + 1 = 36
+Single
+Team 1 pitcher (Ahmad Key): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Eric Parker: rng1 = 54 + 11 - 15 + 1 = 51
+rng2 = 12 + 11 - 14 + 1 = 10
+Groundout
+Team 1 pitcher (Ahmad Key): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+TOP INNING 4
+
+Terryl Maxwell: rng1 = 67 + 1 - 9 - 1 = 58
+rng2 = 60 + 11 - 10 - 1 = 60
+Flyout
+Team 2 pitcher (Dirk-Jan Heeten): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Alejandro López: rng1 = 57 + 5 - 9 - 1 = 52
+rng2 = 32 + 5 - 10 - 1 = 26
+Groundout
+Team 2 pitcher (Dirk-Jan Heeten): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Marcos Gilabert: rng1 = 22 + 5 - 9 - 1 = 17
+Strikeout
+Team 2 pitcher (Dirk-Jan Heeten): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Alvaro Tavarez: rng1 = 55 + 10 - 15 + 1 = 51
+rng2 = 30 + 10 - 14 + 1 = 27
+Groundout
+Team 1 pitcher (Ahmad Key): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Aulani Pekelo: rng1 = 51 + 11 - 15 + 1 = 48
+rng2 = 61 + 9 - 14 + 1 = 57
+Lineout
+Team 1 pitcher (Ahmad Key): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Wil Raymond: rng1 = 17 + 7 - 15 + 1 = 10
+Strikeout
+Team 1 pitcher (Ahmad Key): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+TOP INNING 5
+
+Juan Manzanares: rng1 = 32 + 15 - 9 - 1 = 37
+rng2 = 41 + 11 - 10 - 1 = 41
+Groundout
+Team 2 pitcher (Dirk-Jan Heeten): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Edmundo Pousa: rng1 = 79 + 15 - 9 - 1 = 84
+rng2 = 45 + 10 - 10 - 1 = 44
+Single
+Team 2 pitcher (Dirk-Jan Heeten): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Byron Bartlett: rng1 = 100 + 13 - 9 - 1 = 103
+rng2 = 44 + 10 - 10 - 1 = 43
+Single
+Team 2 pitcher (Dirk-Jan Heeten): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 1
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-1
+
+Arturo Bellamy: rng1 = 27 + 14 - 9 - 1 = 31
+rng2 = 44 + 14 - 10 - 1 = 47
+Groundout
+Team 2 pitcher (Dirk-Jan Heeten): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 2
+
+base1: false, base2: [2,0], base3: [1,0]
+base1: false, base2: true, base3: true
+Score: 3-1
+
+Chris Barber: rng1 = 64 + 8 - 9 - 1 = 62
+rng2 = 14 + 8 - 10 - 1 = 11
+Groundout
+Team 2 pitcher (Dirk-Jan Heeten): 23 batters faced, 3 runs allowed = 23 + 7.5 = 30.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+BOTTOM INNING 5
+
+Suko Masakado: rng1 = 11 + 4 - 15 + 1 = 1
+Strikeout
+Team 1 pitcher (Ahmad Key): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Jose Walker: rng1 = 58 + 15 - 15 + 1 = 59
+rng2 = 28 + 14 - 14 + 1 = 29
+Groundout
+Team 1 pitcher (Ahmad Key): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Lawrence Webb: rng1 = 64 + 12 - 15 + 1 = 62
+rng2 = 12 + 12 - 14 + 1 = 11
+Groundout
+Team 1 pitcher (Ahmad Key): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Reuben Watson
+
+Darren Adams: rng1 = 3 + 4 - 9 - 1 = -3
+Strikeout
+Team 2 pitcher (Reuben Watson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Terryl Maxwell: rng1 = 42 + 1 - 9 - 1 = 33
+rng2 = 11 + 11 - 10 - 1 = 11
+Groundout
+Team 2 pitcher (Reuben Watson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Alejandro López: rng1 = 17 + 5 - 9 - 1 = 12
+rng2 = 82 + 5 - 10 - 1 = 76
+Flyout
+Team 2 pitcher (Reuben Watson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+BOTTOM INNING 6
+
+Adam Harmon: rng1 = 48 + 12 - 15 + 1 = 46
+rng2 = 85 + 10 - 14 + 1 = 82
+Flyout
+Team 1 pitcher (Ahmad Key): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Stanley Jackson: rng1 = 1 + 9 - 15 + 1 = -4
+Strikeout
+Team 1 pitcher (Ahmad Key): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Eric Parker: rng1 = 99 + 11 - 15 + 1 = 96
+rng2 = 59 + 11 - 14 + 1 = 57
+Single
+Team 1 pitcher (Ahmad Key): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Alvaro Tavarez: rng1 = 72 + 10 - 15 + 1 = 68
+rng2 = 23 + 10 - 14 + 1 = 20
+Groundout
+Team 1 pitcher (Ahmad Key): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+TOP INNING 7
+
+Marcos Gilabert: rng1 = 91 + 5 - 9 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Reuben Watson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Juan Manzanares: rng1 = 91 + 15 - 9 - 1 = 96
+rng2 = 36 + 11 - 10 - 1 = 36
+Single
+Team 2 pitcher (Reuben Watson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [0,1], base2: [8,1], base3: false
+base1: true, base2: true, base3: false
+Score: 3-1
+
+Edmundo Pousa: rng1 = 89 + 15 - 9 - 1 = 94
+rng2 = 50 + 10 - 10 - 1 = 49
+Single
+Team 2 pitcher (Reuben Watson): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 0
+
+base1: [1,1], base2: false, base3: [0,1]
+base1: true, base2: false, base3: true
+Score: 4-1
+
+Byron Bartlett: rng1 = 27 + 13 - 9 - 1 = 30
+rng2 = 90 + 10 - 10 - 1 = 89
+Flyout
+Team 2 pitcher (Reuben Watson): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: [1,1], base2: false, base3: [0,1]
+base1: true, base2: false, base3: true
+Score: 4-1
+
+Arturo Bellamy: rng1 = 28 + 14 - 9 - 1 = 32
+rng2 = 99 + 14 - 10 - 1 = 102
+Flyout
+Team 2 pitcher (Reuben Watson): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-1
+
+Chris Barber: rng1 = 35 + 8 - 9 - 1 = 33
+rng2 = 40 + 8 - 10 - 1 = 37
+Groundout
+Team 2 pitcher (Reuben Watson): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-1
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Rakeem Bradley
+
+Aulani Pekelo: rng1 = 71 + 11 - 6 + 1 = 77
+rng2 = 24 + 9 - 5 + 1 = 29
+Single
+Team 1 pitcher (Rakeem Bradley): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-1
+
+Wil Raymond: rng1 = 27 + 7 - 6 + 1 = 29
+rng2 = 78 + 9 - 5 + 1 = 83
+Flyout
+Team 1 pitcher (Rakeem Bradley): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-1
+
+Suko Masakado: rng1 = 90 + 4 - 6 + 1 = 89
+Walk
+Team 1 pitcher (Rakeem Bradley): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [8,1], base2: [6,1], base3: false
+base1: true, base2: true, base3: false
+Score: 5-1
+
+Jose Walker: rng1 = 28 + 15 - 6 + 1 = 38
+rng2 = 40 + 14 - 5 + 1 = 50
+Lineout
+Team 1 pitcher (Rakeem Bradley): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [8,1], base2: [6,1], base3: false
+base1: true, base2: true, base3: false
+Score: 5-1
+
+Lawrence Webb: rng1 = 78 + 12 - 6 + 1 = 85
+rng2 = 66 + 12 - 5 + 1 = 74
+Double
+Team 1 pitcher (Rakeem Bradley): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: false, base2: [1,1], base3: false
+base1: false, base2: true, base3: false
+Score: 5-3
+
+Adam Harmon: rng1 = 44 + 12 - 6 + 1 = 51
+rng2 = 68 + 10 - 5 + 1 = 74
+Flyout
+Team 1 pitcher (Rakeem Bradley): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Isaac Wilson
+
+Darren Adams: rng1 = 53 + 4 - 13 - 1 = 43
+rng2 = 13 + 9 - 14 - 1 = 7
+Groundout
+Team 2 pitcher (Isaac Wilson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Terryl Maxwell: rng1 = 33 + 1 - 13 - 1 = 20
+Strikeout
+Team 2 pitcher (Isaac Wilson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Alejandro López: rng1 = 73 + 5 - 13 - 1 = 64
+rng2 = 20 + 5 - 14 - 1 = 10
+Groundout
+Team 2 pitcher (Isaac Wilson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Phil Segee
+
+Stanley Jackson: rng1 = 11 + 9 - 10 + 1 = 11
+rng2 = 1 + 13 - 9 + 1 = 6
+Groundout
+Team 1 pitcher (Phil Segee): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Eric Parker: rng1 = 73 + 11 - 10 + 1 = 75
+rng2 = 92 + 11 - 9 + 1 = 95
+Home run
+Team 1 pitcher (Phil Segee): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Alvaro Tavarez: rng1 = 93 + 10 - 10 + 1 = 94
+rng2 = 38 + 10 - 9 + 1 = 40
+Single
+Team 1 pitcher (Phil Segee): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-4
+
+Aulani Pekelo: rng1 = 29 + 11 - 10 + 1 = 31
+rng2 = 81 + 9 - 9 + 1 = 82
+Flyout
+Team 1 pitcher (Phil Segee): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-4
+
+Wil Raymond: rng1 = 6 + 7 - 10 + 1 = 4
+Strikeout
+Team 1 pitcher (Phil Segee): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-4
+
+-----------------------
+
+TOP INNING 9
+
+Marcos Gilabert: rng1 = 20 + 5 - 13 - 1 = 11
+rng2 = 65 + 5 - 14 - 1 = 55
+Lineout
+Team 2 pitcher (Isaac Wilson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Juan Manzanares: rng1 = 59 + 15 - 13 - 1 = 60
+rng2 = 35 + 11 - 14 - 1 = 31
+Groundout
+Team 2 pitcher (Isaac Wilson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Edmundo Pousa: rng1 = 3 + 15 - 13 - 1 = 4
+Strikeout
+Team 2 pitcher (Isaac Wilson): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-4
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Phoenix Deleon
+
+Suko Masakado: rng1 = 42 + 4 - 15 + 1 = 32
+rng2 = 56 + 8 - 15 + 1 = 50
+Lineout
+Team 1 pitcher (Phoenix Deleon): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Jose Walker: rng1 = 67 + 15 - 15 + 1 = 68
+rng2 = 2 + 14 - 15 + 1 = 2
+Groundout
+Team 1 pitcher (Phoenix Deleon): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-4
+
+Lawrence Webb: rng1 = 87 + 12 - 15 + 1 = 85
+rng2 = 96 + 12 - 15 + 1 = 94
+Home run
+Team 1 pitcher (Phoenix Deleon): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-5
+
+Adam Harmon: rng1 = 11 + 12 - 15 + 1 = 9
+Strikeout
+Team 1 pitcher (Phoenix Deleon): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-5
+
+-----------------------
+
+TOP INNING 10
+
+Team 2 pitcher change to Aden Lowery
+
+Byron Bartlett: rng1 = 15 + 13 - 12 - 1 = 15
+rng2 = 64 + 10 - 11 - 1 = 62
+Flyout
+Team 2 pitcher (Aden Lowery): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-5
+
+Arturo Bellamy: rng1 = 89 + 14 - 12 - 1 = 90
+Walk
+Team 2 pitcher (Aden Lowery): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [3,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-5
+
+Chris Barber: rng1 = 12 + 8 - 12 - 1 = 7
+Strikeout
+Team 2 pitcher (Aden Lowery): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [3,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-5
+
+Darren Adams: rng1 = 51 + 4 - 12 - 1 = 42
+rng2 = 51 + 9 - 11 - 1 = 48
+Lineout
+Team 2 pitcher (Aden Lowery): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-5
+
+-----------------------
+
+BOTTOM INNING 10
+
+Team 1 pitcher change to Ryu Shi-Woo
+
+Stanley Jackson: rng1 = 99 + 9 - 8 + 1 = 101
+rng2 = 80 + 13 - 8 + 1 = 86
+Double
+Team 1 pitcher (Ryu Shi-Woo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [3,3], base3: false
+base1: false, base2: true, base3: false
+Score: 5-5
+
+Eric Parker: rng1 = 93 + 11 - 8 + 1 = 97
+rng2 = 74 + 11 - 8 + 1 = 78
+Double
+Team 1 pitcher (Ryu Shi-Woo): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: false, base2: [4,3], base3: false
+base1: false, base2: true, base3: false
+Score: 5-6
+
+Innings: 10
+Team 1 hits: 8
+Team 2 hits: 12
+Team 1 runs: 5
+Team 2 runs: 6
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					7-Aug-24
+Juan Manzanares	5	2	2	0	1	0	0	0	1					New Orleans
+Edmundo Pousa	5	1	3	0	0	1	3	0	1	
+Byron Bartlett	5	0	1	0	0	0	0	0	0	
+Arturo Bellamy	3	0	0	0	0	0	1	1	0	
+Chris Barber	4	0	0	0	0	0	0	1	2	
+Darren Adams	5	0	0	0	0	0	0	0	1	
+Terryl Maxwell	4	0	0	0	0	0	0	0	1	
+Alejandro López	4	1	1	0	0	0	0	0	0	
+Marcos Gilabert	3	1	1	1	0	0	1	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Ahmad Key	0	0	1	1	0	0	18	5	1	1	2	4	24	
+Rakeem Bradley	0	0	1	0	0	0	3	2	2	0	1	0	6	
+Phil Segee	0	0	1	0	0	0	3	2	1	1	0	1	5	
+Ryu Shi-Woo	0	1	1	0	0	0	0	2	1	0	0	0	2	
+Phoenix Deleon	0	0	1	0	0	1	3	1	1	1	0	1	4	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					7-Aug-24
+Jose Walker	5	0	1	0	0	0	0	0	0					Kansas City
+Lawrence Webb	4	2	3	1	0	2	4	1	0	
+Adam Harmon	5	0	0	0	0	0	0	0	1	
+Stanley Jackson	5	1	2	1	0	0	0	0	2	
+Eric Parker	5	1	3	1	0	1	2	0	0	
+Alvaro Tavarez	4	0	2	1	0	0	0	0	0	
+Aulani Pekelo	3	1	1	0	0	0	0	1	0	
+Wil Raymond	4	0	0	0	0	0	0	0	2	
+Suko Masakado	3	1	0	0	0	0	0	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Dirk-Jan Heeten	0	0	1	1	0	0	15	6	3	1	1	3	23	
+Reuben Watson	0	0	1	0	0	0	6	2	2	0	0	1	9	
+Isaac Wilson	0	0	1	0	0	0	6	0	0	0	0	2	6	
+Aden Lowery	1	0	1	0	0	0	3	0	0	0	1	1	4	
+Cohen Roman	0	0	0	0	0	0	0	0	0	0	0	0	0	

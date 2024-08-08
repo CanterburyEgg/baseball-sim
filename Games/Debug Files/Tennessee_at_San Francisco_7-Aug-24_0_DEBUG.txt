@@ -1,0 +1,796 @@
+TOP INNING 1
+
+Oscar Pierce: rng1 = 63 + 11 - 11 - 1 = 62
+rng2 = 17 + 3 - 9 - 1 = 10
+Groundout
+Team 2 pitcher (Gabriel Pearson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Christian Mendez: rng1 = 74 + 10 - 11 - 1 = 72
+Walk
+Team 2 pitcher (Gabriel Pearson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Trace Spears: rng1 = 96 + 8 - 11 - 1 = 92
+rng2 = 42 + 10 - 9 - 1 = 42
+Single
+Team 2 pitcher (Gabriel Pearson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Owen Williamson: rng1 = 58 + 2 - 11 - 1 = 48
+rng2 = 39 + 11 - 9 - 1 = 40
+Groundout
+Team 2 pitcher (Gabriel Pearson): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Jorge Donald: rng1 = 73 + 5 - 11 - 1 = 66
+rng2 = 36 + 9 - 9 - 1 = 35
+Groundout
+Team 2 pitcher (Gabriel Pearson): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Isaías Juderías: rng1 = 69 + 14 - 9 + 1 = 75
+rng2 = 9 + 13 - 7 + 1 = 16
+Single
+Team 1 pitcher (Zaiden Payne): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Sean Lee: rng1 = 27 + 13 - 9 + 1 = 32
+rng2 = 11 + 11 - 7 + 1 = 16
+Groundout
+Team 1 pitcher (Zaiden Payne): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Joshua Cooper: rng1 = 56 + 10 - 9 + 1 = 58
+rng2 = 38 + 1 - 7 + 1 = 33
+Groundout
+Team 1 pitcher (Zaiden Payne): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Jaz Eaton: rng1 = 21 + 12 - 9 + 1 = 25
+Strikeout
+Team 1 pitcher (Zaiden Payne): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 2
+
+Esteban Obregón: rng1 = 8 + 6 - 11 - 1 = 2
+Strikeout
+Team 2 pitcher (Gabriel Pearson): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Jason Burress: rng1 = 41 + 8 - 11 - 1 = 37
+rng2 = 62 + 5 - 9 - 1 = 57
+Lineout
+Team 2 pitcher (Gabriel Pearson): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Gary Miller: rng1 = 59 + 3 - 11 - 1 = 50
+rng2 = 77 + 9 - 9 - 1 = 76
+Flyout
+Team 2 pitcher (Gabriel Pearson): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Efraim Agramonte: rng1 = 76 + 8 - 9 + 1 = 76
+rng2 = 99 + 8 - 7 + 1 = 101
+Home run
+Team 1 pitcher (Zaiden Payne): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+John Gibson: rng1 = 27 + 8 - 9 + 1 = 27
+Strikeout
+Team 1 pitcher (Zaiden Payne): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+César Botín: rng1 = 42 + 8 - 9 + 1 = 42
+rng2 = 62 + 6 - 7 + 1 = 62
+Flyout
+Team 1 pitcher (Zaiden Payne): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Anthony Davila: rng1 = 47 + 6 - 9 + 1 = 45
+rng2 = 86 + 7 - 7 + 1 = 87
+Flyout
+Team 1 pitcher (Zaiden Payne): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 3
+
+Kugo Ryutaro: rng1 = 61 + 9 - 11 - 1 = 58
+rng2 = 83 + 3 - 9 - 1 = 76
+Flyout
+Team 2 pitcher (Gabriel Pearson): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Oscar Pierce: rng1 = 71 + 11 - 11 - 1 = 70
+Walk
+Team 2 pitcher (Gabriel Pearson): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Christian Mendez: rng1 = 26 + 10 - 11 - 1 = 24
+Strikeout
+Team 2 pitcher (Gabriel Pearson): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Trace Spears: rng1 = 17 + 8 - 11 - 1 = 13
+rng2 = 43 + 10 - 9 - 1 = 43
+Groundout
+Team 2 pitcher (Gabriel Pearson): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Adrián Noboa: rng1 = 74 + 5 - 9 + 1 = 71
+Walk
+Team 1 pitcher (Zaiden Payne): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Isaías Juderías: rng1 = 23 + 14 - 9 + 1 = 29
+rng2 = 45 + 13 - 7 + 1 = 52
+Lineout
+Team 1 pitcher (Zaiden Payne): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Sean Lee: rng1 = 32 + 13 - 9 + 1 = 37
+rng2 = 38 + 11 - 7 + 1 = 43
+Groundout
+Team 1 pitcher (Zaiden Payne): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 4
+
+Owen Williamson: rng1 = 85 + 2 - 11 - 1 = 75
+rng2 = 36 + 11 - 9 - 1 = 37
+Single
+Team 2 pitcher (Gabriel Pearson): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Jorge Donald: rng1 = 10 + 5 - 11 - 1 = 3
+Strikeout
+Team 2 pitcher (Gabriel Pearson): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Esteban Obregón: rng1 = 14 + 6 - 11 - 1 = 8
+Strikeout
+Team 2 pitcher (Gabriel Pearson): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Jason Burress: rng1 = 49 + 8 - 11 - 1 = 45
+rng2 = 18 + 5 - 9 - 1 = 13
+Groundout
+Team 2 pitcher (Gabriel Pearson): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Joshua Cooper: rng1 = 53 + 10 - 9 + 1 = 55
+rng2 = 63 + 1 - 7 + 1 = 58
+Lineout
+Team 1 pitcher (Zaiden Payne): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Jaz Eaton: rng1 = 79 + 12 - 9 + 1 = 83
+rng2 = 32 + 14 - 7 + 1 = 40
+Single
+Team 1 pitcher (Zaiden Payne): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Efraim Agramonte: rng1 = 12 + 8 - 9 + 1 = 12
+rng2 = 48 + 8 - 7 + 1 = 50
+Lineout
+Team 1 pitcher (Zaiden Payne): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+John Gibson: rng1 = 88 + 8 - 9 + 1 = 88
+Walk
+Team 1 pitcher (Zaiden Payne): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 2
+
+base1: [5,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+César Botín: rng1 = 66 + 8 - 9 + 1 = 66
+rng2 = 11 + 6 - 7 + 1 = 11
+Groundout
+Team 1 pitcher (Zaiden Payne): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 5
+
+Gary Miller: rng1 = 82 + 3 - 11 - 1 = 73
+rng2 = 47 + 9 - 9 - 1 = 46
+Single
+Team 2 pitcher (Gabriel Pearson): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Kugo Ryutaro: rng1 = 54 + 9 - 11 - 1 = 51
+rng2 = 64 + 3 - 9 - 1 = 57
+Lineout
+Team 2 pitcher (Gabriel Pearson): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Oscar Pierce: rng1 = 16 + 11 - 11 - 1 = 15
+rng2 = 78 + 3 - 9 - 1 = 71
+Flyout
+Team 2 pitcher (Gabriel Pearson): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Christian Mendez: rng1 = 80 + 10 - 11 - 1 = 78
+rng2 = 58 + 8 - 9 - 1 = 56
+Single
+Team 2 pitcher (Gabriel Pearson): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 2
+
+base1: [1,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 1-1
+
+Trace Spears: rng1 = 88 + 8 - 11 - 1 = 84
+rng2 = 65 + 10 - 9 - 1 = 65
+Single
+Team 2 pitcher (Gabriel Pearson): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 2
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-1
+
+Owen Williamson: rng1 = 2 + 2 - 11 - 1 = -8
+Strikeout
+Team 2 pitcher (Gabriel Pearson): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+BOTTOM INNING 5
+
+Anthony Davila: rng1 = 97 + 6 - 9 + 1 = 95
+rng2 = 46 + 7 - 7 + 1 = 47
+Single
+Team 1 pitcher (Zaiden Payne): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Adrián Noboa: rng1 = 4 + 5 - 9 + 1 = 1
+Strikeout
+Team 1 pitcher (Zaiden Payne): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Isaías Juderías: rng1 = 7 + 14 - 9 + 1 = 13
+rng2 = 47 + 13 - 7 + 1 = 54
+Lineout
+Team 1 pitcher (Zaiden Payne): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Sean Lee: rng1 = 49 + 13 - 9 + 1 = 54
+rng2 = 94 + 11 - 7 + 1 = 99
+Flyout
+Team 1 pitcher (Zaiden Payne): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+TOP INNING 6
+
+Jorge Donald: rng1 = 25 + 5 - 11 - 1 = 18
+Strikeout
+Team 2 pitcher (Gabriel Pearson): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Esteban Obregón: rng1 = 22 + 6 - 11 - 1 = 16
+Strikeout
+Team 2 pitcher (Gabriel Pearson): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Jason Burress: rng1 = 15 + 8 - 11 - 1 = 11
+rng2 = 32 + 5 - 9 - 1 = 27
+Groundout
+Team 2 pitcher (Gabriel Pearson): 25 batters faced, 2 runs allowed = 25 + 5.0 = 30.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+BOTTOM INNING 6
+
+Joshua Cooper: rng1 = 62 + 10 - 9 + 1 = 64
+rng2 = 30 + 1 - 7 + 1 = 25
+Groundout
+Team 1 pitcher (Zaiden Payne): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Jaz Eaton: rng1 = 62 + 12 - 9 + 1 = 66
+rng2 = 6 + 14 - 7 + 1 = 14
+Groundout
+Team 1 pitcher (Zaiden Payne): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Efraim Agramonte: rng1 = 48 + 8 - 9 + 1 = 48
+rng2 = 67 + 8 - 7 + 1 = 69
+Flyout
+Team 1 pitcher (Zaiden Payne): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Kirk Johns
+
+Gary Miller: rng1 = 35 + 3 - 10 - 1 = 27
+Strikeout
+Team 2 pitcher (Kirk Johns): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Kugo Ryutaro: rng1 = 4 + 9 - 10 - 1 = 2
+Strikeout
+Team 2 pitcher (Kirk Johns): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Oscar Pierce: rng1 = 79 + 11 - 10 - 1 = 79
+rng2 = 22 + 3 - 9 - 1 = 15
+Single
+Team 2 pitcher (Kirk Johns): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Christian Mendez: rng1 = 88 + 10 - 10 - 1 = 87
+Walk
+Team 2 pitcher (Kirk Johns): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [1,1], base2: [0,1], base3: false
+base1: true, base2: true, base3: false
+Score: 2-1
+
+Trace Spears: rng1 = 9 + 8 - 10 - 1 = 6
+Strikeout
+Team 2 pitcher (Kirk Johns): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+BOTTOM INNING 7
+
+John Gibson: rng1 = 22 + 8 - 9 + 1 = 22
+Strikeout
+Team 1 pitcher (Zaiden Payne): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+César Botín: rng1 = 76 + 8 - 9 + 1 = 76
+rng2 = 5 + 6 - 7 + 1 = 5
+Single
+Team 1 pitcher (Zaiden Payne): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Anthony Davila: rng1 = 8 + 6 - 9 + 1 = 6
+Strikeout
+Team 1 pitcher (Zaiden Payne): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Adrián Noboa: rng1 = 57 + 5 - 9 + 1 = 54
+rng2 = 50 + 6 - 7 + 1 = 50
+Lineout
+Team 1 pitcher (Zaiden Payne): 27 batters faced, 1 runs allowed = 27 + 2.5 = 29.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Ghalen Fisher
+
+Owen Williamson: rng1 = 19 + 2 - 7 - 1 = 13
+rng2 = 54 + 11 - 7 - 1 = 57
+Lineout
+Team 2 pitcher (Ghalen Fisher): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Jorge Donald: rng1 = 19 + 5 - 7 - 1 = 16
+Strikeout
+Team 2 pitcher (Ghalen Fisher): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Esteban Obregón: rng1 = 48 + 6 - 7 - 1 = 46
+rng2 = 61 + 7 - 7 - 1 = 60
+Flyout
+Team 2 pitcher (Ghalen Fisher): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Hiraoka Yosai
+
+Isaías Juderías: rng1 = 11 + 14 - 11 + 1 = 15
+rng2 = 36 + 13 - 11 + 1 = 39
+Groundout
+Team 1 pitcher (Hiraoka Yosai): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Sean Lee: rng1 = 3 + 13 - 11 + 1 = 6
+Strikeout
+Team 1 pitcher (Hiraoka Yosai): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Joshua Cooper: rng1 = 60 + 10 - 11 + 1 = 60
+rng2 = 42 + 1 - 11 + 1 = 33
+Groundout
+Team 1 pitcher (Hiraoka Yosai): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+TOP INNING 9
+
+Jason Burress: rng1 = 78 + 8 - 7 - 1 = 78
+rng2 = 11 + 5 - 7 - 1 = 8
+Single
+Team 2 pitcher (Ghalen Fisher): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Gary Miller: rng1 = 37 + 3 - 7 - 1 = 32
+rng2 = 88 + 9 - 7 - 1 = 89
+Flyout
+Team 2 pitcher (Ghalen Fisher): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Kugo Ryutaro: rng1 = 12 + 9 - 7 - 1 = 13
+rng2 = 7 + 3 - 7 - 1 = 2
+Groundout
+Team 2 pitcher (Ghalen Fisher): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Matias Rivera
+
+Jaz Eaton: rng1 = 90 + 12 - 10 + 1 = 93
+rng2 = 80 + 14 - 13 + 1 = 82
+Home run
+Team 1 pitcher (Matias Rivera): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Efraim Agramonte: rng1 = 59 + 8 - 10 + 1 = 58
+rng2 = 46 + 8 - 13 + 1 = 42
+Groundout
+Team 1 pitcher (Matias Rivera): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+John Gibson: rng1 = 59 + 8 - 10 + 1 = 58
+rng2 = 61 + 6 - 13 + 1 = 55
+Lineout
+Team 1 pitcher (Matias Rivera): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+César Botín: rng1 = 23 + 8 - 10 + 1 = 22
+Strikeout
+Team 1 pitcher (Matias Rivera): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+TOP INNING 10
+
+Team 2 pitcher change to Harris Derickson
+
+Oscar Pierce: rng1 = 92 + 11 - 7 - 1 = 95
+rng2 = 17 + 3 - 6 - 1 = 13
+Single
+Team 2 pitcher (Harris Derickson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Christian Mendez: rng1 = 1 + 10 - 7 - 1 = 3
+Strikeout
+Team 2 pitcher (Harris Derickson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Trace Spears: rng1 = 18 + 8 - 7 - 1 = 18
+Strikeout
+Team 2 pitcher (Harris Derickson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Owen Williamson: rng1 = 70 + 2 - 7 - 1 = 64
+rng2 = 52 + 11 - 6 - 1 = 56
+Lineout
+Team 2 pitcher (Harris Derickson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+BOTTOM INNING 10
+
+Team 1 pitcher change to Major Ortiz
+
+Anthony Davila: rng1 = 94 + 6 - 11 + 1 = 90
+Walk
+Team 1 pitcher (Major Ortiz): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Adrián Noboa: rng1 = 98 + 5 - 11 + 1 = 93
+rng2 = 60 + 6 - 9 + 1 = 58
+Single
+Team 1 pitcher (Major Ortiz): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [8,2], base2: [7,2], base3: false
+base1: true, base2: true, base3: false
+Score: 2-2
+
+Isaías Juderías: rng1 = 31 + 14 - 11 + 1 = 35
+rng2 = 20 + 13 - 9 + 1 = 25
+Groundout
+Team 1 pitcher (Major Ortiz): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [0,2], base2: false, base3: [7,2]
+base1: true, base2: false, base3: true
+Score: 2-2
+
+Sean Lee: rng1 = 68 + 13 - 11 + 1 = 71
+Walk
+Team 1 pitcher (Major Ortiz): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [1,2], base2: [0,2], base3: [7,2]
+base1: true, base2: true, base3: true
+Score: 2-2
+
+Joshua Cooper: rng1 = 85 + 10 - 11 + 1 = 85
+rng2 = 8 + 1 - 9 + 1 = 1
+Single
+Team 1 pitcher (Major Ortiz): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 1
+
+base1: [2,2], base2: [1,2], base3: false
+base1: true, base2: true, base3: false
+Score: 2-4
+
+Innings: 10
+Team 1 hits: 8
+Team 2 hits: 8
+Team 1 runs: 2
+Team 2 runs: 4
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					7-Aug-24
+Oscar Pierce	4	0	2	0	0	0	0	1	0					Tennessee
+Christian Mendez	3	1	1	0	0	0	0	2	2	
+Trace Spears	5	0	2	0	0	0	1	0	2	
+Owen Williamson	5	0	1	0	0	0	1	0	1	
+Jorge Donald	4	0	0	0	0	0	0	0	3	
+Esteban Obregón	4	0	0	0	0	0	0	0	3	
+Jason Burress	4	0	1	0	0	0	0	0	0	
+Gary Miller	4	1	1	0	0	0	0	0	1	
+Kugo Ryutaro	4	0	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Zaiden Payne	0	0	1	1	0	0	21	5	1	1	2	5	27	
+Hiraoka Yosai	0	0	1	0	0	0	3	0	0	0	0	1	3	
+Major Ortiz	0	1	1	0	0	0	1	2	2	0	2	0	5	
+Agustin Acosta	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Matias Rivera	0	0	1	0	0	1	3	1	1	1	0	1	4	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					7-Aug-24
+Isaías Juderías	5	1	1	0	0	0	0	0	0					San Francisco
+Sean Lee	4	0	0	0	0	0	0	1	1	
+Joshua Cooper	5	0	1	0	0	0	2	0	0	
+Jaz Eaton	4	1	2	0	0	1	1	0	1	
+Efraim Agramonte	4	1	1	0	0	1	1	0	0	
+John Gibson	3	0	0	0	0	0	0	1	2	
+César Botín	4	0	1	0	0	0	0	0	1	
+Anthony Davila	3	1	1	0	0	0	0	1	1	
+Adrián Noboa	3	0	1	0	0	0	0	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Gabriel Pearson	0	0	1	1	0	0	18	5	2	0	2	7	25	
+Kirk Johns	0	0	1	0	0	0	3	1	0	0	1	3	5	
+Ghalen Fisher	0	0	1	0	0	0	6	1	0	0	0	1	6	
+Harris Derickson	1	0	1	0	0	0	3	1	0	0	0	2	4	
+Iván Curbelo	0	0	0	0	0	0	0	0	0	0	0	0	0	

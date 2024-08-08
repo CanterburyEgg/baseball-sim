@@ -1,0 +1,770 @@
+TOP INNING 1
+
+Finnegan Maxwell: rng1 = 93 + 13 - 10 - 1 = 95
+rng2 = 99 + 14 - 11 - 1 = 101
+Home run
+Team 2 pitcher (Carmelo Beldad): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Ken McKinney: rng1 = 21 + 7 - 10 - 1 = 17
+Strikeout
+Team 2 pitcher (Carmelo Beldad): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Emiliano Costa: rng1 = 78 + 7 - 10 - 1 = 74
+rng2 = 40 + 8 - 11 - 1 = 36
+Single
+Team 2 pitcher (Carmelo Beldad): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Angel Gutiérrez: rng1 = 99 + 11 - 10 - 1 = 99
+rng2 = 62 + 15 - 11 - 1 = 65
+Single
+Team 2 pitcher (Carmelo Beldad): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Alejandro Munoz: rng1 = 12 + 3 - 10 - 1 = 4
+Strikeout
+Team 2 pitcher (Carmelo Beldad): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Noah Key: rng1 = 22 + 5 - 10 - 1 = 16
+Strikeout
+Team 2 pitcher (Carmelo Beldad): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Logan Chambers: rng1 = 77 + 13 - 9 + 1 = 82
+rng2 = 24 + 7 - 9 + 1 = 23
+Single
+Team 1 pitcher (Jonathan Carmichael): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Nick Hamburger: rng1 = 19 + 13 - 9 + 1 = 24
+Strikeout
+Team 1 pitcher (Jonathan Carmichael): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Nicolás Moruga: rng1 = 91 + 13 - 9 + 1 = 96
+rng2 = 53 + 11 - 9 + 1 = 56
+Single
+Team 1 pitcher (Jonathan Carmichael): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Tristian Love: rng1 = 4 + 8 - 9 + 1 = 4
+Strikeout
+Team 1 pitcher (Jonathan Carmichael): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [2,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Aldo Gilmore: rng1 = 89 + 10 - 9 + 1 = 91
+rng2 = 38 + 9 - 9 + 1 = 39
+Single
+Team 1 pitcher (Jonathan Carmichael): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [4,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 1-1
+
+Alexis Shultz: rng1 = 88 + 8 - 9 + 1 = 88
+Walk
+Team 1 pitcher (Jonathan Carmichael): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: [5,0], base2: [4,0], base3: [2,0]
+base1: true, base2: true, base3: true
+Score: 1-1
+
+Lucián Chicote: rng1 = 6 + 8 - 9 + 1 = 6
+Strikeout
+Team 1 pitcher (Jonathan Carmichael): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 2
+
+Valentino Rubio: rng1 = 60 + 6 - 10 - 1 = 55
+rng2 = 46 + 4 - 11 - 1 = 38
+Groundout
+Team 2 pitcher (Carmelo Beldad): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Santino Alcantara: rng1 = 48 + 1 - 10 - 1 = 38
+rng2 = 64 + 7 - 11 - 1 = 59
+Flyout
+Team 2 pitcher (Carmelo Beldad): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Keylon Wilkins: rng1 = 62 + 1 - 10 - 1 = 52
+rng2 = 74 + 6 - 11 - 1 = 68
+Flyout
+Team 2 pitcher (Carmelo Beldad): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Zahir Burgos: rng1 = 96 + 3 - 9 + 1 = 91
+rng2 = 36 + 8 - 9 + 1 = 36
+Single
+Team 1 pitcher (Jonathan Carmichael): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Joaquín Laguna: rng1 = 78 + 5 - 9 + 1 = 75
+rng2 = 84 + 6 - 9 + 1 = 82
+Home run
+Team 1 pitcher (Jonathan Carmichael): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Logan Chambers: rng1 = 18 + 13 - 9 + 1 = 23
+Strikeout
+Team 1 pitcher (Jonathan Carmichael): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Nick Hamburger: rng1 = 85 + 13 - 9 + 1 = 90
+Walk
+Team 1 pitcher (Jonathan Carmichael): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Nicolás Moruga: rng1 = 77 + 13 - 9 + 1 = 82
+rng2 = 78 + 11 - 9 + 1 = 81
+Home run
+Team 1 pitcher (Jonathan Carmichael): 12 batters faced, 5 runs allowed = 12 + 12.5 = 24.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Tristian Love: rng1 = 79 + 8 - 9 + 1 = 79
+rng2 = 23 + 13 - 9 + 1 = 28
+Single
+Team 1 pitcher (Jonathan Carmichael): 13 batters faced, 5 runs allowed = 13 + 12.5 = 25.5, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Aldo Gilmore: rng1 = 37 + 10 - 9 + 1 = 39
+rng2 = 44 + 9 - 9 + 1 = 45
+Groundout
+Team 1 pitcher (Jonathan Carmichael): 14 batters faced, 5 runs allowed = 14 + 12.5 = 26.5, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Alexis Shultz: rng1 = 96 + 8 - 9 + 1 = 96
+rng2 = 32 + 9 - 9 + 1 = 33
+Single
+Team 1 pitcher (Jonathan Carmichael): 15 batters faced, 5 runs allowed = 15 + 12.5 = 27.5, outs: 2
+
+base1: [5,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 1-5
+
+Lucián Chicote: rng1 = 84 + 8 - 9 + 1 = 84
+rng2 = 98 + 6 - 9 + 1 = 96
+Home run
+Team 1 pitcher (Jonathan Carmichael): 16 batters faced, 8 runs allowed = 16 + 20.0 = 36.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-8
+
+Team 1 pitcher change to Sergio Narvaez
+
+Zahir Burgos: rng1 = 31 + 3 - 12 + 1 = 23
+Strikeout
+Team 1 pitcher (Sergio Narvaez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-8
+
+-----------------------
+
+TOP INNING 3
+
+Finnegan Maxwell: rng1 = 32 + 13 - 10 - 1 = 34
+rng2 = 20 + 14 - 11 - 1 = 22
+Groundout
+Team 2 pitcher (Carmelo Beldad): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-8
+
+Ken McKinney: rng1 = 33 + 7 - 10 - 1 = 29
+rng2 = 73 + 6 - 11 - 1 = 67
+Flyout
+Team 2 pitcher (Carmelo Beldad): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-8
+
+Emiliano Costa: rng1 = 39 + 7 - 10 - 1 = 35
+rng2 = 24 + 8 - 11 - 1 = 20
+Groundout
+Team 2 pitcher (Carmelo Beldad): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-8
+
+-----------------------
+
+BOTTOM INNING 3
+
+Joaquín Laguna: rng1 = 13 + 5 - 12 + 1 = 7
+Strikeout
+Team 1 pitcher (Sergio Narvaez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-8
+
+Logan Chambers: rng1 = 51 + 13 - 12 + 1 = 53
+rng2 = 83 + 7 - 13 + 1 = 78
+Flyout
+Team 1 pitcher (Sergio Narvaez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-8
+
+Nick Hamburger: rng1 = 85 + 13 - 12 + 1 = 87
+Walk
+Team 1 pitcher (Sergio Narvaez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-8
+
+Nicolás Moruga: rng1 = 35 + 13 - 12 + 1 = 37
+rng2 = 86 + 11 - 13 + 1 = 85
+Flyout
+Team 1 pitcher (Sergio Narvaez): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-8
+
+-----------------------
+
+TOP INNING 4
+
+Angel Gutiérrez: rng1 = 82 + 11 - 10 - 1 = 82
+rng2 = 92 + 15 - 11 - 1 = 95
+Home run
+Team 2 pitcher (Carmelo Beldad): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-8
+
+Alejandro Munoz: rng1 = 61 + 3 - 10 - 1 = 53
+rng2 = 56 + 11 - 11 - 1 = 55
+Lineout
+Team 2 pitcher (Carmelo Beldad): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-8
+
+Noah Key: rng1 = 59 + 5 - 10 - 1 = 53
+rng2 = 43 + 5 - 11 - 1 = 36
+Groundout
+Team 2 pitcher (Carmelo Beldad): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-8
+
+Valentino Rubio: rng1 = 43 + 6 - 10 - 1 = 38
+rng2 = 83 + 4 - 11 - 1 = 75
+Flyout
+Team 2 pitcher (Carmelo Beldad): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-8
+
+-----------------------
+
+BOTTOM INNING 4
+
+Team 1 pitcher change to Abel Vera
+
+Tristian Love: rng1 = 43 + 8 - 11 + 1 = 41
+rng2 = 39 + 13 - 9 + 1 = 44
+Groundout
+Team 1 pitcher (Abel Vera): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-8
+
+Aldo Gilmore: rng1 = 69 + 10 - 11 + 1 = 69
+rng2 = 97 + 9 - 9 + 1 = 98
+Flyout
+Team 1 pitcher (Abel Vera): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-8
+
+Alexis Shultz: rng1 = 1 + 8 - 11 + 1 = -1
+Strikeout
+Team 1 pitcher (Abel Vera): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-8
+
+-----------------------
+
+TOP INNING 5
+
+Santino Alcantara: rng1 = 4 + 1 - 10 - 1 = -6
+Strikeout
+Team 2 pitcher (Carmelo Beldad): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-8
+
+Keylon Wilkins: rng1 = 10 + 1 - 10 - 1 = 0
+Strikeout
+Team 2 pitcher (Carmelo Beldad): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-8
+
+Finnegan Maxwell: rng1 = 24 + 13 - 10 - 1 = 26
+Strikeout
+Team 2 pitcher (Carmelo Beldad): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-8
+
+-----------------------
+
+BOTTOM INNING 5
+
+Lucián Chicote: rng1 = 72 + 8 - 11 + 1 = 70
+Walk
+Team 1 pitcher (Abel Vera): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-8
+
+Zahir Burgos: rng1 = 91 + 3 - 11 + 1 = 84
+rng2 = 79 + 8 - 9 + 1 = 79
+Triple
+Team 1 pitcher (Abel Vera): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 0
+
+base1: false, base2: false, base3: [7,2]
+base1: false, base2: false, base3: true
+Score: 2-9
+
+Joaquín Laguna: rng1 = 73 + 5 - 11 + 1 = 68
+rng2 = 17 + 6 - 9 + 1 = 15
+Groundout
+Team 1 pitcher (Abel Vera): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-10
+
+Logan Chambers: rng1 = 46 + 13 - 11 + 1 = 49
+rng2 = 5 + 7 - 9 + 1 = 4
+Groundout
+Team 1 pitcher (Abel Vera): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-10
+
+Nick Hamburger: rng1 = 74 + 13 - 11 + 1 = 77
+rng2 = 71 + 13 - 9 + 1 = 76
+Double
+Team 1 pitcher (Abel Vera): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: false, base2: [1,2], base3: false
+base1: false, base2: true, base3: false
+Score: 2-10
+
+Team 1 pitcher change to David Juarez
+
+Nicolás Moruga: rng1 = 71 + 13 - 9 + 1 = 76
+rng2 = 76 + 11 - 8 + 1 = 80
+Home run
+Team 1 pitcher (David Juarez): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-12
+
+Tristian Love: rng1 = 94 + 8 - 9 + 1 = 94
+rng2 = 46 + 13 - 8 + 1 = 52
+Single
+Team 1 pitcher (David Juarez): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 2
+
+base1: [3,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-12
+
+Aldo Gilmore: rng1 = 59 + 10 - 9 + 1 = 61
+rng2 = 47 + 9 - 8 + 1 = 49
+Lineout
+Team 1 pitcher (David Juarez): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-12
+
+-----------------------
+
+TOP INNING 6
+
+Ken McKinney: rng1 = 71 + 7 - 10 - 1 = 67
+rng2 = 26 + 6 - 11 - 1 = 20
+Groundout
+Team 2 pitcher (Carmelo Beldad): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-12
+
+Emiliano Costa: rng1 = 86 + 7 - 10 - 1 = 82
+rng2 = 79 + 8 - 11 - 1 = 75
+Double
+Team 2 pitcher (Carmelo Beldad): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-12
+
+Angel Gutiérrez: rng1 = 87 + 11 - 10 - 1 = 87
+Walk
+Team 2 pitcher (Carmelo Beldad): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 1
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-12
+
+Alejandro Munoz: rng1 = 60 + 3 - 10 - 1 = 52
+rng2 = 60 + 11 - 11 - 1 = 59
+Flyout
+Team 2 pitcher (Carmelo Beldad): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 2
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-12
+
+Noah Key: rng1 = 65 + 5 - 10 - 1 = 59
+rng2 = 3 + 5 - 11 - 1 = -4
+Groundout
+Team 2 pitcher (Carmelo Beldad): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-12
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Seno Mashiro
+
+Alexis Shultz: rng1 = 54 + 8 - 14 + 1 = 49
+rng2 = 43 + 9 - 15 + 1 = 38
+Groundout
+Team 1 pitcher (Seno Mashiro): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-12
+
+Lucián Chicote: rng1 = 84 + 8 - 14 + 1 = 79
+rng2 = 5 + 6 - 15 + 1 = -3
+Single
+Team 1 pitcher (Seno Mashiro): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [6,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-12
+
+Zahir Burgos: rng1 = 66 + 3 - 14 + 1 = 56
+rng2 = 44 + 8 - 15 + 1 = 38
+Groundout
+Team 1 pitcher (Seno Mashiro): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-12
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Johan Cortez
+
+Valentino Rubio: rng1 = 16 + 6 - 12 - 1 = 9
+Strikeout
+Team 2 pitcher (Johan Cortez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-12
+
+Santino Alcantara: rng1 = 38 + 1 - 12 - 1 = 26
+Strikeout
+Team 2 pitcher (Johan Cortez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-12
+
+Keylon Wilkins: rng1 = 64 + 1 - 12 - 1 = 52
+rng2 = 98 + 6 - 12 - 1 = 91
+Flyout
+Team 2 pitcher (Johan Cortez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-12
+
+-----------------------
+
+BOTTOM INNING 7
+
+Joaquín Laguna: rng1 = 81 + 5 - 14 + 1 = 73
+rng2 = 99 + 6 - 15 + 1 = 91
+Double
+Team 1 pitcher (Seno Mashiro): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: false, base2: [8,4], base3: false
+base1: false, base2: true, base3: false
+Score: 2-12
+
+Logan Chambers: rng1 = 40 + 13 - 14 + 1 = 40
+rng2 = 39 + 7 - 15 + 1 = 32
+Groundout
+Team 1 pitcher (Seno Mashiro): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: [8,4]
+base1: false, base2: false, base3: true
+Score: 2-12
+
+Nick Hamburger: rng1 = 44 + 13 - 14 + 1 = 44
+rng2 = 91 + 13 - 15 + 1 = 90
+Flyout
+Team 1 pitcher (Seno Mashiro): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-13
+
+Nicolás Moruga: rng1 = 45 + 13 - 14 + 1 = 45
+rng2 = 67 + 11 - 15 + 1 = 64
+Flyout
+Team 1 pitcher (Seno Mashiro): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-13
+
+-----------------------
+
+TOP INNING 8
+
+Finnegan Maxwell: rng1 = 28 + 13 - 12 - 1 = 28
+Strikeout
+Team 2 pitcher (Johan Cortez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-13
+
+Ken McKinney: rng1 = 46 + 7 - 12 - 1 = 40
+rng2 = 24 + 6 - 12 - 1 = 17
+Groundout
+Team 2 pitcher (Johan Cortez): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-13
+
+Emiliano Costa: rng1 = 57 + 7 - 12 - 1 = 51
+rng2 = 71 + 8 - 12 - 1 = 66
+Flyout
+Team 2 pitcher (Johan Cortez): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-13
+
+-----------------------
+
+BOTTOM INNING 8
+
+Tristian Love: rng1 = 92 + 8 - 14 + 1 = 87
+Walk
+Team 1 pitcher (Seno Mashiro): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 0
+
+base1: [3,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-13
+
+Aldo Gilmore: rng1 = 49 + 10 - 14 + 1 = 46
+rng2 = 92 + 9 - 15 + 1 = 87
+Flyout
+Team 1 pitcher (Seno Mashiro): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: [3,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-13
+
+Alexis Shultz: rng1 = 93 + 8 - 14 + 1 = 88
+Walk
+Team 1 pitcher (Seno Mashiro): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: [5,4], base2: [3,4], base3: false
+base1: true, base2: true, base3: false
+Score: 2-13
+
+Lucián Chicote: rng1 = 28 + 8 - 14 + 1 = 23
+Strikeout
+Team 1 pitcher (Seno Mashiro): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: [5,4], base2: [3,4], base3: false
+base1: true, base2: true, base3: false
+Score: 2-13
+
+Zahir Burgos: rng1 = 11 + 3 - 14 + 1 = 1
+Strikeout
+Team 1 pitcher (Seno Mashiro): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-13
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Shane Moran
+
+Angel Gutiérrez: rng1 = 11 + 11 - 4 - 1 = 17
+Strikeout
+Team 2 pitcher (Shane Moran): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-13
+
+Alejandro Munoz: rng1 = 12 + 3 - 4 - 1 = 10
+Strikeout
+Team 2 pitcher (Shane Moran): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-13
+
+Noah Key: rng1 = 31 + 5 - 4 - 1 = 31
+rng2 = 70 + 5 - 5 - 1 = 69
+Flyout
+Team 2 pitcher (Shane Moran): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-13
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 5
+Team 2 hits: 15
+Team 1 runs: 2
+Team 2 runs: 13
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					6-Aug-24
+Finnegan Maxwell	4	1	1	0	0	1	1	0	2					Dallas
+Ken McKinney	4	0	0	0	0	0	0	0	1	
+Emiliano Costa	4	0	2	1	0	0	0	0	0	
+Angel Gutiérrez	3	1	2	0	0	1	1	1	1	
+Alejandro Munoz	4	0	0	0	0	0	0	0	2	
+Noah Key	4	0	0	0	0	0	0	0	1	
+Valentino Rubio	3	0	0	0	0	0	0	0	1	
+Santino Alcantara	3	0	0	0	0	0	0	0	2	
+Keylon Wilkins	3	0	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Jonathan Carmichael	0	1	1	1	0	0	5	9	8	3	2	4	16	
+Sergio Narvaez	0	0	1	0	0	0	4	0	0	0	1	2	5	
+Abel Vera	0	0	1	0	0	0	5	2	3	0	1	1	8	
+David Juarez	0	0	1	0	0	0	1	2	1	1	0	0	3	
+Seno Mashiro	0	0	1	0	0	0	9	2	1	0	2	2	12	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					6-Aug-24
+Logan Chambers	5	1	1	0	0	0	0	0	1					New York
+Nick Hamburger	3	2	1	1	0	0	1	2	1	
+Nicolás Moruga	5	2	3	0	0	2	4	0	0	
+Tristian Love	4	0	2	0	0	0	0	1	1	
+Aldo Gilmore	5	1	1	0	0	0	1	0	0	
+Alexis Shultz	3	1	1	0	0	0	0	2	1	
+Lucián Chicote	4	2	2	0	0	1	3	1	2	
+Zahir Burgos	5	2	2	0	1	0	1	0	2	
+Joaquín Laguna	4	2	2	1	0	1	3	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Carmelo Beldad	1	0	1	1	0	0	18	5	2	2	1	6	24	
+Johan Cortez	0	0	1	0	0	0	6	0	0	0	0	3	6	
+Shane Moran	0	0	1	0	0	0	3	0	0	0	0	2	3	
+Trey Hendrickson	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Christopher Jones	0	0	0	0	0	0	0	0	0	0	0	0	0	

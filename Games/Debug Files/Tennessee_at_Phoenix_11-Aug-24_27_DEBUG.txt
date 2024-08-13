@@ -1,0 +1,804 @@
+TOP INNING 1
+
+Oscar Pierce: rng1 = 89 + 11 - 9 - 1 = 90
+Walk
+Team 2 pitcher (Davey Bishop): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Christian Mendez: rng1 = 63 + 10 - 9 - 1 = 63
+rng2 = 76 + 8 - 6 - 1 = 77
+Flyout
+Team 2 pitcher (Davey Bishop): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Trace Spears: rng1 = 89 + 8 - 9 - 1 = 87
+Walk
+Team 2 pitcher (Davey Bishop): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Owen Williamson: rng1 = 61 + 2 - 9 - 1 = 53
+rng2 = 98 + 11 - 6 - 1 = 102
+Flyout
+Team 2 pitcher (Davey Bishop): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [2,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Jorge Donald: rng1 = 49 + 5 - 9 - 1 = 44
+rng2 = 12 + 9 - 6 - 1 = 14
+Groundout
+Team 2 pitcher (Davey Bishop): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Jeff Murray: rng1 = 72 + 10 - 9 + 1 = 74
+rng2 = 79 + 5 - 7 + 1 = 78
+Double
+Team 1 pitcher (Zaiden Payne): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Esteban Mendoza: rng1 = 91 + 8 - 9 + 1 = 91
+rng2 = 39 + 6 - 7 + 1 = 39
+Single
+Team 1 pitcher (Zaiden Payne): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Yodogawa Shosuke: rng1 = 47 + 6 - 9 + 1 = 45
+rng2 = 7 + 6 - 7 + 1 = 7
+Groundout
+Team 1 pitcher (Zaiden Payne): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Luca Águila: rng1 = 75 + 4 - 9 + 1 = 71
+Walk
+Team 1 pitcher (Zaiden Payne): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [3,0], base2: [2,0], base3: [0,0]
+base1: true, base2: true, base3: true
+Score: 0-0
+
+Darren Chang: rng1 = 94 + 6 - 9 + 1 = 92
+rng2 = 2 + 10 - 7 + 1 = 6
+Single
+Team 1 pitcher (Zaiden Payne): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 1
+
+base1: [4,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 0-2
+
+Katagiri Seibei: rng1 = 76 + 7 - 9 + 1 = 75
+rng2 = 21 + 8 - 7 + 1 = 23
+Single
+Team 1 pitcher (Zaiden Payne): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 1
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-3
+
+Josh Poole: rng1 = 95 + 6 - 9 + 1 = 93
+rng2 = 62 + 7 - 7 + 1 = 63
+Single
+Team 1 pitcher (Zaiden Payne): 7 batters faced, 4 runs allowed = 7 + 10.0 = 17.0, outs: 1
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 0-4
+
+Devoreaux Waters: rng1 = 6 + 5 - 9 + 1 = 3
+Strikeout
+Team 1 pitcher (Zaiden Payne): 8 batters faced, 4 runs allowed = 8 + 10.0 = 18.0, outs: 2
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 0-4
+
+Adam Pearce: rng1 = 71 + 4 - 9 + 1 = 67
+rng2 = 74 + 5 - 7 + 1 = 73
+Flyout
+Team 1 pitcher (Zaiden Payne): 9 batters faced, 4 runs allowed = 9 + 10.0 = 19.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+TOP INNING 2
+
+Esteban Obregón: rng1 = 59 + 6 - 9 - 1 = 55
+rng2 = 62 + 7 - 6 - 1 = 62
+Flyout
+Team 2 pitcher (Davey Bishop): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Jason Burress: rng1 = 17 + 8 - 9 - 1 = 15
+rng2 = 21 + 5 - 6 - 1 = 19
+Groundout
+Team 2 pitcher (Davey Bishop): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Gary Miller: rng1 = 8 + 3 - 9 - 1 = 1
+Strikeout
+Team 2 pitcher (Davey Bishop): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+BOTTOM INNING 2
+
+Jeff Murray: rng1 = 25 + 10 - 9 + 1 = 27
+Strikeout
+Team 1 pitcher (Zaiden Payne): 10 batters faced, 4 runs allowed = 10 + 10.0 = 20.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Esteban Mendoza: rng1 = 83 + 8 - 9 + 1 = 83
+rng2 = 5 + 6 - 7 + 1 = 5
+Single
+Team 1 pitcher (Zaiden Payne): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Yodogawa Shosuke: rng1 = 37 + 6 - 9 + 1 = 35
+rng2 = 67 + 6 - 7 + 1 = 67
+Flyout
+Team 1 pitcher (Zaiden Payne): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Luca Águila: rng1 = 24 + 4 - 9 + 1 = 20
+Strikeout
+Team 1 pitcher (Zaiden Payne): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+TOP INNING 3
+
+Kugo Ryutaro: rng1 = 10 + 9 - 9 - 1 = 9
+Strikeout
+Team 2 pitcher (Davey Bishop): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Oscar Pierce: rng1 = 78 + 11 - 9 - 1 = 79
+rng2 = 65 + 3 - 6 - 1 = 61
+Single
+Team 2 pitcher (Davey Bishop): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Christian Mendez: rng1 = 18 + 10 - 9 - 1 = 18
+Strikeout
+Team 2 pitcher (Davey Bishop): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Trace Spears: rng1 = 51 + 8 - 9 - 1 = 49
+rng2 = 21 + 10 - 6 - 1 = 24
+Groundout
+Team 2 pitcher (Davey Bishop): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+BOTTOM INNING 3
+
+Darren Chang: rng1 = 74 + 6 - 9 + 1 = 72
+Walk
+Team 1 pitcher (Zaiden Payne): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Katagiri Seibei: rng1 = 1 + 7 - 9 + 1 = 0
+Strikeout
+Team 1 pitcher (Zaiden Payne): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Josh Poole: rng1 = 39 + 6 - 9 + 1 = 37
+rng2 = 90 + 7 - 7 + 1 = 91
+Flyout
+Team 1 pitcher (Zaiden Payne): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Devoreaux Waters: rng1 = 38 + 5 - 9 + 1 = 35
+rng2 = 29 + 5 - 7 + 1 = 28
+Groundout
+Team 1 pitcher (Zaiden Payne): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+TOP INNING 4
+
+Owen Williamson: rng1 = 37 + 2 - 9 - 1 = 29
+rng2 = 12 + 11 - 6 - 1 = 16
+Groundout
+Team 2 pitcher (Davey Bishop): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Jorge Donald: rng1 = 93 + 5 - 9 - 1 = 88
+Walk
+Team 2 pitcher (Davey Bishop): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Esteban Obregón: rng1 = 35 + 6 - 9 - 1 = 31
+rng2 = 33 + 7 - 6 - 1 = 33
+Groundout
+Team 2 pitcher (Davey Bishop): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 2
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-4
+
+Jason Burress: rng1 = 55 + 8 - 9 - 1 = 53
+rng2 = 46 + 5 - 6 - 1 = 44
+Groundout
+Team 2 pitcher (Davey Bishop): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+BOTTOM INNING 4
+
+Adam Pearce: rng1 = 89 + 4 - 9 + 1 = 85
+rng2 = 4 + 5 - 7 + 1 = 3
+Single
+Team 1 pitcher (Zaiden Payne): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Jeff Murray: rng1 = 82 + 10 - 9 + 1 = 84
+rng2 = 61 + 5 - 7 + 1 = 60
+Single
+Team 1 pitcher (Zaiden Payne): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 0
+
+base1: [0,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 0-4
+
+Esteban Mendoza: rng1 = 20 + 8 - 9 + 1 = 20
+Strikeout
+Team 1 pitcher (Zaiden Payne): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 1
+
+base1: [0,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 0-4
+
+Yodogawa Shosuke: rng1 = 86 + 6 - 9 + 1 = 84
+rng2 = 17 + 6 - 7 + 1 = 17
+Single
+Team 1 pitcher (Zaiden Payne): 21 batters faced, 5 runs allowed = 21 + 12.5 = 33.5, outs: 1
+
+base1: [2,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-5
+
+Team 1 pitcher change to Major Ortiz
+
+Luca Águila: rng1 = 69 + 4 - 11 + 1 = 63
+rng2 = 59 + 11 - 9 + 1 = 62
+Flyout
+Team 1 pitcher (Major Ortiz): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [2,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-5
+
+Darren Chang: rng1 = 32 + 6 - 11 + 1 = 28
+Strikeout
+Team 1 pitcher (Major Ortiz): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+TOP INNING 5
+
+Gary Miller: rng1 = 72 + 3 - 9 - 1 = 65
+rng2 = 46 + 9 - 6 - 1 = 48
+Lineout
+Team 2 pitcher (Davey Bishop): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Kugo Ryutaro: rng1 = 65 + 9 - 9 - 1 = 64
+rng2 = 59 + 3 - 6 - 1 = 55
+Lineout
+Team 2 pitcher (Davey Bishop): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Oscar Pierce: rng1 = 87 + 11 - 9 - 1 = 88
+Walk
+Team 2 pitcher (Davey Bishop): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Christian Mendez: rng1 = 46 + 10 - 9 - 1 = 46
+rng2 = 12 + 8 - 6 - 1 = 13
+Groundout
+Team 2 pitcher (Davey Bishop): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+BOTTOM INNING 5
+
+Katagiri Seibei: rng1 = 13 + 7 - 11 + 1 = 10
+Strikeout
+Team 1 pitcher (Major Ortiz): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Josh Poole: rng1 = 69 + 6 - 11 + 1 = 65
+rng2 = 49 + 7 - 9 + 1 = 48
+Lineout
+Team 1 pitcher (Major Ortiz): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Devoreaux Waters: rng1 = 48 + 5 - 11 + 1 = 43
+rng2 = 14 + 5 - 9 + 1 = 11
+Groundout
+Team 1 pitcher (Major Ortiz): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+TOP INNING 6
+
+Trace Spears: rng1 = 94 + 8 - 9 - 1 = 92
+rng2 = 91 + 10 - 6 - 1 = 94
+Home run
+Team 2 pitcher (Davey Bishop): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Owen Williamson: rng1 = 61 + 2 - 9 - 1 = 53
+rng2 = 78 + 11 - 6 - 1 = 82
+Flyout
+Team 2 pitcher (Davey Bishop): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Jorge Donald: rng1 = 73 + 5 - 9 - 1 = 68
+rng2 = 39 + 9 - 6 - 1 = 41
+Groundout
+Team 2 pitcher (Davey Bishop): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Esteban Obregón: rng1 = 60 + 6 - 9 - 1 = 56
+rng2 = 39 + 7 - 6 - 1 = 39
+Groundout
+Team 2 pitcher (Davey Bishop): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+BOTTOM INNING 6
+
+Adam Pearce: rng1 = 31 + 4 - 11 + 1 = 25
+Strikeout
+Team 1 pitcher (Major Ortiz): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Jeff Murray: rng1 = 100 + 10 - 11 + 1 = 100
+rng2 = 42 + 5 - 9 + 1 = 39
+Single
+Team 1 pitcher (Major Ortiz): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Esteban Mendoza: rng1 = 80 + 8 - 11 + 1 = 78
+rng2 = 91 + 6 - 9 + 1 = 89
+Double
+Team 1 pitcher (Major Ortiz): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: false, base2: [1,1], base3: false
+base1: false, base2: true, base3: false
+Score: 1-6
+
+Yodogawa Shosuke: rng1 = 24 + 6 - 11 + 1 = 20
+Strikeout
+Team 1 pitcher (Major Ortiz): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: false, base2: [1,1], base3: false
+base1: false, base2: true, base3: false
+Score: 1-6
+
+Luca Águila: rng1 = 59 + 4 - 11 + 1 = 53
+rng2 = 4 + 11 - 9 + 1 = 7
+Groundout
+Team 1 pitcher (Major Ortiz): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 7
+
+Jason Burress: rng1 = 72 + 8 - 9 - 1 = 70
+Walk
+Team 2 pitcher (Davey Bishop): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Gary Miller: rng1 = 18 + 3 - 9 - 1 = 11
+rng2 = 49 + 9 - 6 - 1 = 51
+Lineout
+Team 2 pitcher (Davey Bishop): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Kugo Ryutaro: rng1 = 32 + 9 - 9 - 1 = 31
+rng2 = 29 + 3 - 6 - 1 = 25
+Groundout
+Team 2 pitcher (Davey Bishop): 27 batters faced, 1 runs allowed = 27 + 2.5 = 29.5, outs: 2
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-6
+
+Oscar Pierce: rng1 = 47 + 11 - 9 - 1 = 48
+rng2 = 79 + 3 - 6 - 1 = 75
+Flyout
+Team 2 pitcher (Davey Bishop): 28 batters faced, 1 runs allowed = 28 + 2.5 = 30.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Hiraoka Yosai
+
+Darren Chang: rng1 = 22 + 6 - 11 + 1 = 18
+Strikeout
+Team 1 pitcher (Hiraoka Yosai): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Katagiri Seibei: rng1 = 99 + 7 - 11 + 1 = 96
+rng2 = 33 + 8 - 11 + 1 = 31
+Single
+Team 1 pitcher (Hiraoka Yosai): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Josh Poole: rng1 = 43 + 6 - 11 + 1 = 39
+rng2 = 39 + 7 - 11 + 1 = 36
+Groundout
+Team 1 pitcher (Hiraoka Yosai): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Devoreaux Waters: rng1 = 89 + 5 - 11 + 1 = 84
+rng2 = 91 + 5 - 11 + 1 = 86
+Double
+Team 1 pitcher (Hiraoka Yosai): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [7,2], base3: false
+base1: false, base2: true, base3: false
+Score: 1-7
+
+Adam Pearce: rng1 = 21 + 4 - 11 + 1 = 15
+rng2 = 72 + 5 - 11 + 1 = 67
+Flyout
+Team 1 pitcher (Hiraoka Yosai): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-7
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Louis Evans
+
+Christian Mendez: rng1 = 77 + 10 - 9 - 1 = 77
+rng2 = 26 + 8 - 7 - 1 = 26
+Single
+Team 2 pitcher (Louis Evans): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-7
+
+Trace Spears: rng1 = 25 + 8 - 9 - 1 = 23
+Strikeout
+Team 2 pitcher (Louis Evans): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-7
+
+Owen Williamson: rng1 = 94 + 2 - 9 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Louis Evans): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [3,1], base2: [1,1], base3: false
+base1: true, base2: true, base3: false
+Score: 1-7
+
+Jorge Donald: rng1 = 34 + 5 - 9 - 1 = 29
+rng2 = 79 + 9 - 7 - 1 = 80
+Flyout
+Team 2 pitcher (Louis Evans): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [3,1], base2: [1,1], base3: false
+base1: true, base2: true, base3: false
+Score: 1-7
+
+Esteban Obregón: rng1 = 16 + 6 - 9 - 1 = 12
+rng2 = 13 + 7 - 7 - 1 = 12
+Groundout
+Team 2 pitcher (Louis Evans): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-7
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Agustin Acosta
+
+Jeff Murray: rng1 = 68 + 10 - 8 + 1 = 71
+Walk
+Team 1 pitcher (Agustin Acosta): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-7
+
+Esteban Mendoza: rng1 = 44 + 8 - 8 + 1 = 45
+rng2 = 1 + 6 - 9 + 1 = -1
+Groundout
+Team 1 pitcher (Agustin Acosta): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [0,3], base3: false
+base1: false, base2: true, base3: false
+Score: 1-7
+
+Yodogawa Shosuke: rng1 = 73 + 6 - 8 + 1 = 72
+Walk
+Team 1 pitcher (Agustin Acosta): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,3], base2: [0,3], base3: false
+base1: true, base2: true, base3: false
+Score: 1-7
+
+Luca Águila: rng1 = 25 + 4 - 8 + 1 = 22
+Strikeout
+Team 1 pitcher (Agustin Acosta): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [2,3], base2: [0,3], base3: false
+base1: true, base2: true, base3: false
+Score: 1-7
+
+Darren Chang: rng1 = 21 + 6 - 8 + 1 = 20
+Strikeout
+Team 1 pitcher (Agustin Acosta): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-7
+
+-----------------------
+
+TOP INNING 9
+
+Jason Burress: rng1 = 26 + 8 - 9 - 1 = 24
+Strikeout
+Team 2 pitcher (Louis Evans): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-7
+
+Gary Miller: rng1 = 85 + 3 - 9 - 1 = 78
+rng2 = 97 + 9 - 7 - 1 = 98
+Home run
+Team 2 pitcher (Louis Evans): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-7
+
+Kugo Ryutaro: rng1 = 100 + 9 - 9 - 1 = 99
+rng2 = 71 + 3 - 7 - 1 = 66
+Double
+Team 2 pitcher (Louis Evans): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: false, base2: [8,1], base3: false
+base1: false, base2: true, base3: false
+Score: 2-7
+
+Oscar Pierce: rng1 = 94 + 11 - 9 - 1 = 95
+rng2 = 47 + 3 - 7 - 1 = 42
+Single
+Team 2 pitcher (Louis Evans): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 1
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-7
+
+Team 2 pitcher change to Walt Lewis
+
+Christian Mendez: rng1 = 82 + 10 - 8 - 1 = 83
+rng2 = 89 + 8 - 8 - 1 = 88
+Double
+Team 2 pitcher (Walt Lewis): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: [1,2], base3: false
+base1: false, base2: true, base3: false
+Score: 4-7
+
+Trace Spears: rng1 = 58 + 8 - 8 - 1 = 57
+rng2 = 100 + 10 - 8 - 1 = 101
+Flyout
+Team 2 pitcher (Walt Lewis): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: [1,2], base3: false
+base1: false, base2: true, base3: false
+Score: 4-7
+
+Owen Williamson: rng1 = 59 + 2 - 8 - 1 = 52
+rng2 = 16 + 11 - 8 - 1 = 18
+Groundout
+Team 2 pitcher (Walt Lewis): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-7
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 7
+Team 2 hits: 13
+Team 1 runs: 4
+Team 2 runs: 7
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					11-Aug-24
+Oscar Pierce	3	1	2	0	0	0	1	2	0					Tennessee
+Christian Mendez	5	0	2	1	0	0	1	0	1	
+Trace Spears	4	1	1	0	0	1	1	1	1	
+Owen Williamson	4	0	0	0	0	0	0	0	0	
+Jorge Donald	3	0	0	0	0	0	0	1	0	
+Esteban Obregón	4	0	0	0	0	0	0	0	0	
+Jason Burress	3	0	0	0	0	0	0	1	1	
+Gary Miller	4	1	1	0	0	1	1	0	1	
+Kugo Ryutaro	4	1	1	1	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Zaiden Payne	0	1	1	1	0	0	10	9	5	0	2	5	21	
+Major Ortiz	0	0	1	0	0	0	8	2	1	0	0	4	10	
+Hiraoka Yosai	0	0	1	0	0	0	3	2	1	0	0	1	5	
+Agustin Acosta	0	0	1	0	0	0	3	0	0	0	2	2	5	
+Matias Rivera	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					11-Aug-24
+Jeff Murray	4	2	3	1	0	0	0	1	1					Phoenix
+Esteban Mendoza	5	0	3	1	0	0	1	0	1	
+Yodogawa Shosuke	4	1	1	0	0	0	1	1	1	
+Luca Águila	4	1	0	0	0	0	0	1	2	
+Darren Chang	4	1	1	0	0	0	2	1	3	
+Katagiri Seibei	4	0	2	0	0	0	1	0	2	
+Josh Poole	4	1	1	0	0	0	1	0	0	
+Devoreaux Waters	4	0	1	1	0	0	1	0	1	
+Adam Pearce	4	1	1	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Davey Bishop	1	0	1	1	0	0	21	2	1	1	5	3	28	
+Louis Evans	0	0	1	0	0	0	4	4	3	1	0	2	9	
+Walt Lewis	0	0	1	0	0	0	2	1	0	0	0	0	3	
+Noah Rosario	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Josh Harris	0	0	0	0	0	0	0	0	0	0	0	0	0	

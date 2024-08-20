@@ -1,0 +1,747 @@
+TOP INNING 1
+
+Oscar Pierce: rng1 = 17 + 11 - 10 - 1 = 17
+Strikeout
+Team 2 pitcher (Javier Manzanares): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Christian Mendez: rng1 = 91 + 10 - 10 - 1 = 90
+Walk
+Team 2 pitcher (Javier Manzanares): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Trace Spears: rng1 = 88 + 8 - 10 - 1 = 85
+rng2 = 76 + 10 - 8 - 1 = 77
+Double
+Team 2 pitcher (Javier Manzanares): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Owen Williamson: rng1 = 9 + 2 - 10 - 1 = 0
+Strikeout
+Team 2 pitcher (Javier Manzanares): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Jorge Donald: rng1 = 25 + 5 - 10 - 1 = 19
+Strikeout
+Team 2 pitcher (Javier Manzanares): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Tomas Canto: rng1 = 89 + 14 - 8 + 1 = 96
+rng2 = 55 + 12 - 6 + 1 = 62
+Single
+Team 1 pitcher (Raul Cespedes): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Rubén Indiano: rng1 = 86 + 14 - 8 + 1 = 93
+rng2 = 93 + 13 - 6 + 1 = 101
+Home run
+Team 1 pitcher (Raul Cespedes): 2 batters faced, 2 runs allowed = 2 + 5.0 = 7.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Rafael Jideras: rng1 = 57 + 13 - 8 + 1 = 63
+rng2 = 50 + 12 - 6 + 1 = 57
+Lineout
+Team 1 pitcher (Raul Cespedes): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Jong Jung-Hwa: rng1 = 89 + 8 - 8 + 1 = 90
+Walk
+Team 1 pitcher (Raul Cespedes): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Keli Alohilani: rng1 = 70 + 13 - 8 + 1 = 76
+rng2 = 73 + 9 - 6 + 1 = 77
+Double
+Team 1 pitcher (Raul Cespedes): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 1
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-3
+
+Andres Fortune: rng1 = 27 + 11 - 8 + 1 = 31
+rng2 = 82 + 10 - 6 + 1 = 87
+Flyout
+Team 1 pitcher (Raul Cespedes): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-3
+
+Mark White: rng1 = 84 + 9 - 8 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Raul Cespedes): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 2
+
+base1: [6,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-3
+
+Konner Knight: rng1 = 81 + 11 - 8 + 1 = 85
+rng2 = 18 + 6 - 6 + 1 = 19
+Single
+Team 1 pitcher (Raul Cespedes): 8 batters faced, 4 runs allowed = 8 + 10.0 = 18.0, outs: 2
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-4
+
+Javier Guillén: rng1 = 57 + 4 - 8 + 1 = 54
+rng2 = 58 + 8 - 6 + 1 = 61
+Flyout
+Team 1 pitcher (Raul Cespedes): 9 batters faced, 4 runs allowed = 9 + 10.0 = 19.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+TOP INNING 2
+
+Esteban Obregón: rng1 = 69 + 6 - 10 - 1 = 64
+rng2 = 79 + 7 - 8 - 1 = 77
+Flyout
+Team 2 pitcher (Javier Manzanares): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Jason Burress: rng1 = 65 + 8 - 10 - 1 = 62
+rng2 = 53 + 5 - 8 - 1 = 49
+Lineout
+Team 2 pitcher (Javier Manzanares): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Gary Miller: rng1 = 65 + 3 - 10 - 1 = 57
+rng2 = 56 + 9 - 8 - 1 = 56
+Lineout
+Team 2 pitcher (Javier Manzanares): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+BOTTOM INNING 2
+
+Tomas Canto: rng1 = 81 + 14 - 8 + 1 = 88
+Walk
+Team 1 pitcher (Raul Cespedes): 10 batters faced, 4 runs allowed = 10 + 10.0 = 20.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Rubén Indiano: rng1 = 52 + 14 - 8 + 1 = 59
+rng2 = 44 + 13 - 6 + 1 = 52
+Lineout
+Team 1 pitcher (Raul Cespedes): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Rafael Jideras: rng1 = 58 + 13 - 8 + 1 = 64
+rng2 = 37 + 12 - 6 + 1 = 44
+Groundout
+Team 1 pitcher (Raul Cespedes): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-4
+
+Jong Jung-Hwa: rng1 = 55 + 8 - 8 + 1 = 56
+rng2 = 29 + 13 - 6 + 1 = 37
+Groundout
+Team 1 pitcher (Raul Cespedes): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+TOP INNING 3
+
+Kugo Ryutaro: rng1 = 27 + 9 - 10 - 1 = 25
+Strikeout
+Team 2 pitcher (Javier Manzanares): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Oscar Pierce: rng1 = 68 + 11 - 10 - 1 = 68
+rng2 = 94 + 3 - 8 - 1 = 88
+Flyout
+Team 2 pitcher (Javier Manzanares): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Christian Mendez: rng1 = 33 + 10 - 10 - 1 = 32
+rng2 = 94 + 8 - 8 - 1 = 93
+Flyout
+Team 2 pitcher (Javier Manzanares): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+BOTTOM INNING 3
+
+Keli Alohilani: rng1 = 40 + 13 - 8 + 1 = 46
+rng2 = 55 + 9 - 6 + 1 = 59
+Flyout
+Team 1 pitcher (Raul Cespedes): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Andres Fortune: rng1 = 87 + 11 - 8 + 1 = 91
+rng2 = 65 + 10 - 6 + 1 = 70
+Double
+Team 1 pitcher (Raul Cespedes): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 1
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-4
+
+Mark White: rng1 = 69 + 9 - 8 + 1 = 71
+Walk
+Team 1 pitcher (Raul Cespedes): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 1
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-4
+
+Konner Knight: rng1 = 41 + 11 - 8 + 1 = 45
+rng2 = 2 + 6 - 6 + 1 = 3
+Groundout
+Team 1 pitcher (Raul Cespedes): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 2
+
+base1: [7,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 1-4
+
+Javier Guillén: rng1 = 33 + 4 - 8 + 1 = 30
+rng2 = 16 + 8 - 6 + 1 = 19
+Groundout
+Team 1 pitcher (Raul Cespedes): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+TOP INNING 4
+
+Trace Spears: rng1 = 6 + 8 - 10 - 1 = 3
+Strikeout
+Team 2 pitcher (Javier Manzanares): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Owen Williamson: rng1 = 84 + 2 - 10 - 1 = 75
+rng2 = 33 + 11 - 8 - 1 = 35
+Single
+Team 2 pitcher (Javier Manzanares): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Jorge Donald: rng1 = 7 + 5 - 10 - 1 = 1
+Strikeout
+Team 2 pitcher (Javier Manzanares): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Esteban Obregón: rng1 = 32 + 6 - 10 - 1 = 27
+Strikeout
+Team 2 pitcher (Javier Manzanares): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+BOTTOM INNING 4
+
+Tomas Canto: rng1 = 19 + 14 - 8 + 1 = 26
+Strikeout
+Team 1 pitcher (Raul Cespedes): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Rubén Indiano: rng1 = 40 + 14 - 8 + 1 = 47
+rng2 = 41 + 13 - 6 + 1 = 49
+Lineout
+Team 1 pitcher (Raul Cespedes): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Rafael Jideras: rng1 = 12 + 13 - 8 + 1 = 18
+Strikeout
+Team 1 pitcher (Raul Cespedes): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+TOP INNING 5
+
+Jason Burress: rng1 = 50 + 8 - 10 - 1 = 47
+rng2 = 97 + 5 - 8 - 1 = 93
+Flyout
+Team 2 pitcher (Javier Manzanares): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Gary Miller: rng1 = 17 + 3 - 10 - 1 = 9
+Strikeout
+Team 2 pitcher (Javier Manzanares): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Kugo Ryutaro: rng1 = 90 + 9 - 10 - 1 = 88
+Walk
+Team 2 pitcher (Javier Manzanares): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Oscar Pierce: rng1 = 42 + 11 - 10 - 1 = 42
+rng2 = 4 + 3 - 8 - 1 = -2
+Groundout
+Team 2 pitcher (Javier Manzanares): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Hiraoka Yosai
+
+Jong Jung-Hwa: rng1 = 91 + 8 - 11 + 1 = 89
+Walk
+Team 1 pitcher (Hiraoka Yosai): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Keli Alohilani: rng1 = 84 + 13 - 11 + 1 = 87
+Walk
+Team 1 pitcher (Hiraoka Yosai): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [4,1], base2: [3,1], base3: false
+base1: true, base2: true, base3: false
+Score: 1-4
+
+Andres Fortune: rng1 = 92 + 11 - 11 + 1 = 93
+rng2 = 19 + 10 - 11 + 1 = 19
+Single
+Team 1 pitcher (Hiraoka Yosai): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 0
+
+base1: [5,1], base2: false, base3: [4,1]
+base1: true, base2: false, base3: true
+Score: 1-5
+
+Mark White: rng1 = 40 + 9 - 11 + 1 = 39
+rng2 = 23 + 8 - 11 + 1 = 21
+Groundout
+Team 1 pitcher (Hiraoka Yosai): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: false, base2: [5,1], base3: [4,1]
+base1: false, base2: true, base3: true
+Score: 1-5
+
+Konner Knight: rng1 = 76 + 11 - 11 + 1 = 77
+rng2 = 12 + 6 - 11 + 1 = 8
+Single
+Team 1 pitcher (Hiraoka Yosai): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 1
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-7
+
+Javier Guillén: rng1 = 71 + 4 - 11 + 1 = 65
+rng2 = 1 + 8 - 11 + 1 = -1
+Groundout
+Team 1 pitcher (Hiraoka Yosai): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-7
+
+Team 1 pitcher change to Major Ortiz
+
+Tomas Canto: rng1 = 38 + 14 - 11 + 1 = 42
+rng2 = 1 + 12 - 9 + 1 = 5
+Groundout
+Team 1 pitcher (Major Ortiz): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-7
+
+-----------------------
+
+TOP INNING 6
+
+Christian Mendez: rng1 = 26 + 10 - 10 - 1 = 25
+Strikeout
+Team 2 pitcher (Javier Manzanares): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-7
+
+Trace Spears: rng1 = 68 + 8 - 10 - 1 = 65
+rng2 = 70 + 10 - 8 - 1 = 71
+Flyout
+Team 2 pitcher (Javier Manzanares): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-7
+
+Owen Williamson: rng1 = 74 + 2 - 10 - 1 = 65
+rng2 = 28 + 11 - 8 - 1 = 30
+Groundout
+Team 2 pitcher (Javier Manzanares): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-7
+
+-----------------------
+
+BOTTOM INNING 6
+
+Rubén Indiano: rng1 = 38 + 14 - 11 + 1 = 42
+rng2 = 3 + 13 - 9 + 1 = 8
+Groundout
+Team 1 pitcher (Major Ortiz): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-7
+
+Rafael Jideras: rng1 = 24 + 13 - 11 + 1 = 27
+Strikeout
+Team 1 pitcher (Major Ortiz): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-7
+
+Jong Jung-Hwa: rng1 = 32 + 8 - 11 + 1 = 30
+rng2 = 88 + 13 - 9 + 1 = 93
+Flyout
+Team 1 pitcher (Major Ortiz): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-7
+
+-----------------------
+
+TOP INNING 7
+
+Jorge Donald: rng1 = 73 + 5 - 10 - 1 = 67
+rng2 = 38 + 9 - 8 - 1 = 38
+Groundout
+Team 2 pitcher (Javier Manzanares): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-7
+
+Esteban Obregón: rng1 = 61 + 6 - 10 - 1 = 56
+rng2 = 20 + 7 - 8 - 1 = 18
+Groundout
+Team 2 pitcher (Javier Manzanares): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-7
+
+Jason Burress: rng1 = 66 + 8 - 10 - 1 = 63
+rng2 = 66 + 5 - 8 - 1 = 62
+Flyout
+Team 2 pitcher (Javier Manzanares): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-7
+
+-----------------------
+
+BOTTOM INNING 7
+
+Keli Alohilani: rng1 = 13 + 13 - 11 + 1 = 16
+Strikeout
+Team 1 pitcher (Major Ortiz): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-7
+
+Andres Fortune: rng1 = 93 + 11 - 11 + 1 = 94
+rng2 = 9 + 10 - 9 + 1 = 11
+Single
+Team 1 pitcher (Major Ortiz): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-7
+
+Mark White: rng1 = 95 + 9 - 11 + 1 = 94
+rng2 = 47 + 8 - 9 + 1 = 47
+Single
+Team 1 pitcher (Major Ortiz): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [6,2], base2: [5,2], base3: false
+base1: true, base2: true, base3: false
+Score: 1-7
+
+Konner Knight: rng1 = 88 + 11 - 11 + 1 = 89
+Walk
+Team 1 pitcher (Major Ortiz): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: [7,2], base2: [6,2], base3: [5,2]
+base1: true, base2: true, base3: true
+Score: 1-7
+
+Javier Guillén: rng1 = 68 + 4 - 11 + 1 = 62
+rng2 = 36 + 8 - 9 + 1 = 36
+Groundout
+Team 1 pitcher (Major Ortiz): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-7
+
+-----------------------
+
+TOP INNING 8
+
+Gary Miller: rng1 = 87 + 3 - 10 - 1 = 79
+rng2 = 1 + 9 - 8 - 1 = 1
+Single
+Team 2 pitcher (Javier Manzanares): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-7
+
+Kugo Ryutaro: rng1 = 48 + 9 - 10 - 1 = 46
+rng2 = 86 + 3 - 8 - 1 = 80
+Flyout
+Team 2 pitcher (Javier Manzanares): 27 batters faced, 1 runs allowed = 27 + 2.5 = 29.5, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-7
+
+Oscar Pierce: rng1 = 70 + 11 - 10 - 1 = 70
+Walk
+Team 2 pitcher (Javier Manzanares): 28 batters faced, 1 runs allowed = 28 + 2.5 = 30.5, outs: 1
+
+base1: [0,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-7
+
+Christian Mendez: rng1 = 81 + 10 - 10 - 1 = 80
+rng2 = 93 + 8 - 8 - 1 = 92
+Double
+Team 2 pitcher (Javier Manzanares): 29 batters faced, 3 runs allowed = 29 + 7.5 = 36.5, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-7
+
+Team 2 pitcher change to Ige Shukishi
+
+Trace Spears: rng1 = 51 + 8 - 8 - 1 = 50
+rng2 = 70 + 10 - 10 - 1 = 69
+Flyout
+Team 2 pitcher (Ige Shukishi): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-7
+
+Owen Williamson: rng1 = 66 + 2 - 8 - 1 = 59
+rng2 = 49 + 11 - 10 - 1 = 49
+Lineout
+Team 2 pitcher (Ige Shukishi): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Agustin Acosta
+
+Tomas Canto: rng1 = 16 + 14 - 8 + 1 = 23
+Strikeout
+Team 1 pitcher (Agustin Acosta): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Rubén Indiano: rng1 = 39 + 14 - 8 + 1 = 46
+rng2 = 73 + 13 - 9 + 1 = 78
+Flyout
+Team 1 pitcher (Agustin Acosta): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Rafael Jideras: rng1 = 24 + 13 - 8 + 1 = 30
+rng2 = 65 + 12 - 9 + 1 = 69
+Flyout
+Team 1 pitcher (Agustin Acosta): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+TOP INNING 9
+
+Jorge Donald: rng1 = 78 + 5 - 8 - 1 = 74
+rng2 = 33 + 9 - 10 - 1 = 31
+Single
+Team 2 pitcher (Ige Shukishi): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 0
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-7
+
+Esteban Obregón: rng1 = 75 + 6 - 8 - 1 = 72
+Walk
+Team 2 pitcher (Ige Shukishi): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [5,1], base2: [4,1], base3: false
+base1: true, base2: true, base3: false
+Score: 3-7
+
+Jason Burress: rng1 = 6 + 8 - 8 - 1 = 5
+Strikeout
+Team 2 pitcher (Ige Shukishi): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [5,1], base2: [4,1], base3: false
+base1: true, base2: true, base3: false
+Score: 3-7
+
+Gary Miller: rng1 = 5 + 3 - 8 - 1 = -1
+Strikeout
+Team 2 pitcher (Ige Shukishi): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [5,1], base2: [4,1], base3: false
+base1: true, base2: true, base3: false
+Score: 3-7
+
+Kugo Ryutaro: rng1 = 25 + 9 - 8 - 1 = 25
+Strikeout
+Team 2 pitcher (Ige Shukishi): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 5
+Team 2 hits: 9
+Team 1 runs: 3
+Team 2 runs: 7
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					17-Aug-24
+Oscar Pierce	3	1	0	0	0	0	0	1	1					Tennessee
+Christian Mendez	3	1	1	1	0	0	2	1	1	
+Trace Spears	4	0	1	1	0	0	1	0	1	
+Owen Williamson	4	0	1	0	0	0	0	0	1	
+Jorge Donald	4	0	1	0	0	0	0	0	2	
+Esteban Obregón	3	0	0	0	0	0	0	1	1	
+Jason Burress	4	0	0	0	0	0	0	0	1	
+Gary Miller	4	1	1	0	0	0	0	0	2	
+Kugo Ryutaro	3	0	0	0	0	0	0	1	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Raul Cespedes	0	1	1	1	0	0	12	5	4	1	3	2	21	
+Hiraoka Yosai	0	0	1	0	0	0	2	2	3	0	2	0	6	
+Major Ortiz	0	0	1	0	0	0	7	2	0	0	1	2	9	
+Agustin Acosta	0	0	1	0	0	0	3	0	0	0	0	1	3	
+Matias Rivera	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					17-Aug-24
+Tomas Canto	4	1	1	0	0	0	0	1	2					Philadelphia
+Rubén Indiano	5	1	1	0	0	1	2	0	0	
+Rafael Jideras	5	0	0	0	0	0	0	0	2	
+Jong Jung-Hwa	2	2	0	0	0	0	0	2	0	
+Keli Alohilani	3	2	1	1	0	0	1	1	1	
+Andres Fortune	4	1	3	1	0	0	1	0	0	
+Mark White	2	0	1	0	0	0	0	1	0	
+Konner Knight	3	0	2	0	0	0	3	1	0	
+Javier Guillén	4	0	0	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Javier Manzanares	1	0	1	1	0	0	22	4	3	0	3	9	29	
+Ige Shukishi	0	0	1	0	0	0	5	1	0	0	1	3	7	
+Steve Randles	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rolando Maroto	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Eduardo Elvira	0	0	0	0	0	0	0	0	0	0	0	0	0	

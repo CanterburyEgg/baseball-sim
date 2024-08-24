@@ -1,0 +1,789 @@
+TOP INNING 1
+
+Oscar Pierce: rng1 = 60 + 11 - 8 - 1 = 62
+rng2 = 11 + 3 - 9 - 1 = 4
+Groundout
+Team 2 pitcher (Jayson Werth): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Christian Mendez: rng1 = 63 + 10 - 8 - 1 = 64
+rng2 = 34 + 8 - 9 - 1 = 32
+Groundout
+Team 2 pitcher (Jayson Werth): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Trace Spears: rng1 = 21 + 8 - 8 - 1 = 20
+Strikeout
+Team 2 pitcher (Jayson Werth): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Finnegan Maxwell: rng1 = 94 + 13 - 10 + 1 = 98
+rng2 = 14 + 14 - 10 + 1 = 19
+Single
+Team 1 pitcher (Javier Castro): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Ken McKinney: rng1 = 94 + 7 - 10 + 1 = 92
+rng2 = 26 + 6 - 10 + 1 = 23
+Single
+Team 1 pitcher (Javier Castro): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Emiliano Costa: rng1 = 44 + 7 - 10 + 1 = 42
+rng2 = 13 + 8 - 10 + 1 = 12
+Groundout
+Team 1 pitcher (Javier Castro): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Angel Gutiérrez: rng1 = 35 + 11 - 10 + 1 = 37
+rng2 = 4 + 15 - 10 + 1 = 10
+Groundout
+Team 1 pitcher (Javier Castro): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Alejandro Munoz: rng1 = 96 + 3 - 10 + 1 = 90
+Walk
+Team 1 pitcher (Javier Castro): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [4,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-1
+
+Noah Key: rng1 = 26 + 5 - 10 + 1 = 22
+Strikeout
+Team 1 pitcher (Javier Castro): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 2
+
+Owen Williamson: rng1 = 23 + 2 - 8 - 1 = 16
+Strikeout
+Team 2 pitcher (Jayson Werth): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Jorge Donald: rng1 = 87 + 5 - 8 - 1 = 83
+rng2 = 67 + 9 - 9 - 1 = 66
+Double
+Team 2 pitcher (Jayson Werth): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Esteban Obregón: rng1 = 87 + 6 - 8 - 1 = 84
+rng2 = 59 + 7 - 9 - 1 = 56
+Single
+Team 2 pitcher (Jayson Werth): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Jason Burress: rng1 = 90 + 8 - 8 - 1 = 89
+Walk
+Team 2 pitcher (Jayson Werth): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Gary Miller: rng1 = 73 + 3 - 8 - 1 = 67
+rng2 = 11 + 9 - 9 - 1 = 10
+Groundout
+Team 2 pitcher (Jayson Werth): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Kugo Ryutaro: rng1 = 44 + 9 - 8 - 1 = 44
+rng2 = 10 + 3 - 9 - 1 = 3
+Groundout
+Team 2 pitcher (Jayson Werth): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Valentino Rubio: rng1 = 22 + 6 - 10 + 1 = 19
+Strikeout
+Team 1 pitcher (Javier Castro): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Santino Alcantara: rng1 = 4 + 1 - 10 + 1 = -4
+Strikeout
+Team 1 pitcher (Javier Castro): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Keylon Wilkins: rng1 = 48 + 1 - 10 + 1 = 40
+rng2 = 54 + 6 - 10 + 1 = 51
+Lineout
+Team 1 pitcher (Javier Castro): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 3
+
+Oscar Pierce: rng1 = 47 + 11 - 8 - 1 = 49
+rng2 = 17 + 3 - 9 - 1 = 10
+Groundout
+Team 2 pitcher (Jayson Werth): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Christian Mendez: rng1 = 88 + 10 - 8 - 1 = 89
+Walk
+Team 2 pitcher (Jayson Werth): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Trace Spears: rng1 = 56 + 8 - 8 - 1 = 55
+rng2 = 82 + 10 - 9 - 1 = 82
+Flyout
+Team 2 pitcher (Jayson Werth): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Owen Williamson: rng1 = 57 + 2 - 8 - 1 = 50
+rng2 = 64 + 11 - 9 - 1 = 65
+Flyout
+Team 2 pitcher (Jayson Werth): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Finnegan Maxwell: rng1 = 74 + 13 - 10 + 1 = 78
+rng2 = 1 + 14 - 10 + 1 = 6
+Single
+Team 1 pitcher (Javier Castro): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Ken McKinney: rng1 = 8 + 7 - 10 + 1 = 6
+Strikeout
+Team 1 pitcher (Javier Castro): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Emiliano Costa: rng1 = 79 + 7 - 10 + 1 = 77
+rng2 = 94 + 8 - 10 + 1 = 93
+Triple
+Team 1 pitcher (Javier Castro): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 1
+
+base1: false, base2: false, base3: [2,0]
+base1: false, base2: false, base3: true
+Score: 1-2
+
+Angel Gutiérrez: rng1 = 71 + 11 - 10 + 1 = 73
+rng2 = 4 + 15 - 10 + 1 = 10
+Single
+Team 1 pitcher (Javier Castro): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Alejandro Munoz: rng1 = 46 + 3 - 10 + 1 = 40
+rng2 = 75 + 11 - 10 + 1 = 77
+Flyout
+Team 1 pitcher (Javier Castro): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Noah Key: rng1 = 48 + 5 - 10 + 1 = 44
+rng2 = 34 + 5 - 10 + 1 = 30
+Groundout
+Team 1 pitcher (Javier Castro): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 4
+
+Jorge Donald: rng1 = 51 + 5 - 8 - 1 = 47
+rng2 = 20 + 9 - 9 - 1 = 19
+Groundout
+Team 2 pitcher (Jayson Werth): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Esteban Obregón: rng1 = 48 + 6 - 8 - 1 = 45
+rng2 = 30 + 7 - 9 - 1 = 27
+Groundout
+Team 2 pitcher (Jayson Werth): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Jason Burress: rng1 = 53 + 8 - 8 - 1 = 52
+rng2 = 88 + 5 - 9 - 1 = 83
+Flyout
+Team 2 pitcher (Jayson Werth): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+BOTTOM INNING 4
+
+Valentino Rubio: rng1 = 63 + 6 - 10 + 1 = 60
+rng2 = 99 + 4 - 10 + 1 = 94
+Flyout
+Team 1 pitcher (Javier Castro): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Santino Alcantara: rng1 = 95 + 1 - 10 + 1 = 87
+Walk
+Team 1 pitcher (Javier Castro): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Keylon Wilkins: rng1 = 5 + 1 - 10 + 1 = -3
+Strikeout
+Team 1 pitcher (Javier Castro): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Finnegan Maxwell: rng1 = 18 + 13 - 10 + 1 = 22
+Strikeout
+Team 1 pitcher (Javier Castro): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 5
+
+Gary Miller: rng1 = 87 + 3 - 8 - 1 = 81
+rng2 = 4 + 9 - 9 - 1 = 3
+Single
+Team 2 pitcher (Jayson Werth): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Kugo Ryutaro: rng1 = 100 + 9 - 8 - 1 = 100
+rng2 = 49 + 3 - 9 - 1 = 42
+Single
+Team 2 pitcher (Jayson Werth): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 0
+
+base1: [8,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 1-3
+
+Oscar Pierce: rng1 = 19 + 11 - 8 - 1 = 21
+Strikeout
+Team 2 pitcher (Jayson Werth): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 1
+
+base1: [8,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 1-3
+
+Christian Mendez: rng1 = 73 + 10 - 8 - 1 = 74
+rng2 = 7 + 8 - 9 - 1 = 5
+Single
+Team 2 pitcher (Jayson Werth): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 1
+
+base1: [1,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-3
+
+Trace Spears: rng1 = 49 + 8 - 8 - 1 = 48
+rng2 = 68 + 10 - 9 - 1 = 68
+Flyout
+Team 2 pitcher (Jayson Werth): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 2
+
+base1: [1,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-3
+
+Owen Williamson: rng1 = 57 + 2 - 8 - 1 = 50
+rng2 = 45 + 11 - 9 - 1 = 46
+Groundout
+Team 2 pitcher (Jayson Werth): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+BOTTOM INNING 5
+
+Ken McKinney: rng1 = 17 + 7 - 10 + 1 = 15
+rng2 = 2 + 6 - 10 + 1 = -1
+Groundout
+Team 1 pitcher (Javier Castro): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Emiliano Costa: rng1 = 64 + 7 - 10 + 1 = 62
+rng2 = 47 + 8 - 10 + 1 = 46
+Groundout
+Team 1 pitcher (Javier Castro): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Angel Gutiérrez: rng1 = 72 + 11 - 10 + 1 = 74
+rng2 = 55 + 15 - 10 + 1 = 61
+Single
+Team 1 pitcher (Javier Castro): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-3
+
+Alejandro Munoz: rng1 = 43 + 3 - 10 + 1 = 37
+rng2 = 29 + 11 - 10 + 1 = 31
+Groundout
+Team 1 pitcher (Javier Castro): 23 batters faced, 3 runs allowed = 23 + 7.5 = 30.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+TOP INNING 6
+
+Jorge Donald: rng1 = 83 + 5 - 8 - 1 = 79
+rng2 = 27 + 9 - 9 - 1 = 26
+Single
+Team 2 pitcher (Jayson Werth): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-3
+
+Esteban Obregón: rng1 = 95 + 6 - 8 - 1 = 92
+rng2 = 2 + 7 - 9 - 1 = -1
+Single
+Team 2 pitcher (Jayson Werth): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 0
+
+base1: [5,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 2-3
+
+Jason Burress: rng1 = 99 + 8 - 8 - 1 = 98
+rng2 = 5 + 5 - 9 - 1 = 0
+Single
+Team 2 pitcher (Jayson Werth): 25 batters faced, 3 runs allowed = 25 + 7.5 = 32.5, outs: 0
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-3
+
+Team 2 pitcher change to Abel Vera
+
+Gary Miller: rng1 = 91 + 3 - 11 - 1 = 82
+rng2 = 99 + 9 - 9 - 1 = 98
+Home run
+Team 2 pitcher (Abel Vera): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Kugo Ryutaro: rng1 = 37 + 9 - 11 - 1 = 34
+rng2 = 39 + 3 - 9 - 1 = 32
+Groundout
+Team 2 pitcher (Abel Vera): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Oscar Pierce: rng1 = 39 + 11 - 11 - 1 = 38
+rng2 = 92 + 3 - 9 - 1 = 85
+Flyout
+Team 2 pitcher (Abel Vera): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Christian Mendez: rng1 = 5 + 10 - 11 - 1 = 3
+Strikeout
+Team 2 pitcher (Abel Vera): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-3
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Major Ortiz
+
+Noah Key: rng1 = 81 + 5 - 11 + 1 = 76
+rng2 = 71 + 5 - 9 + 1 = 68
+Double
+Team 1 pitcher (Major Ortiz): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [5,1], base3: false
+base1: false, base2: true, base3: false
+Score: 6-3
+
+Valentino Rubio: rng1 = 4 + 6 - 11 + 1 = 0
+Strikeout
+Team 1 pitcher (Major Ortiz): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [5,1], base3: false
+base1: false, base2: true, base3: false
+Score: 6-3
+
+Santino Alcantara: rng1 = 75 + 1 - 11 + 1 = 66
+rng2 = 25 + 7 - 9 + 1 = 24
+Groundout
+Team 1 pitcher (Major Ortiz): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [5,1], base3: false
+base1: false, base2: true, base3: false
+Score: 6-3
+
+Keylon Wilkins: rng1 = 59 + 1 - 11 + 1 = 50
+rng2 = 43 + 6 - 9 + 1 = 41
+Groundout
+Team 1 pitcher (Major Ortiz): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-3
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Sergio Narvaez
+
+Trace Spears: rng1 = 81 + 8 - 12 - 1 = 76
+rng2 = 21 + 10 - 13 - 1 = 17
+Single
+Team 2 pitcher (Sergio Narvaez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-3
+
+Owen Williamson: rng1 = 82 + 2 - 12 - 1 = 71
+Walk
+Team 2 pitcher (Sergio Narvaez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [3,2], base2: [2,2], base3: false
+base1: true, base2: true, base3: false
+Score: 6-3
+
+Jorge Donald: rng1 = 61 + 5 - 12 - 1 = 53
+rng2 = 73 + 9 - 13 - 1 = 68
+Flyout
+Team 2 pitcher (Sergio Narvaez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [3,2], base2: [2,2], base3: false
+base1: true, base2: true, base3: false
+Score: 6-3
+
+Esteban Obregón: rng1 = 50 + 6 - 12 - 1 = 43
+rng2 = 38 + 7 - 13 - 1 = 31
+Groundout
+Team 2 pitcher (Sergio Narvaez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-3
+
+-----------------------
+
+BOTTOM INNING 7
+
+Finnegan Maxwell: rng1 = 32 + 13 - 11 + 1 = 35
+rng2 = 94 + 14 - 9 + 1 = 100
+Flyout
+Team 1 pitcher (Major Ortiz): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Ken McKinney: rng1 = 59 + 7 - 11 + 1 = 56
+rng2 = 75 + 6 - 9 + 1 = 73
+Flyout
+Team 1 pitcher (Major Ortiz): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Emiliano Costa: rng1 = 11 + 7 - 11 + 1 = 8
+Strikeout
+Team 1 pitcher (Major Ortiz): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-3
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to David Juarez
+
+Jason Burress: rng1 = 64 + 8 - 9 - 1 = 62
+rng2 = 14 + 5 - 8 - 1 = 10
+Groundout
+Team 2 pitcher (David Juarez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Gary Miller: rng1 = 82 + 3 - 9 - 1 = 75
+rng2 = 31 + 9 - 8 - 1 = 31
+Single
+Team 2 pitcher (David Juarez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [7,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-3
+
+Kugo Ryutaro: rng1 = 38 + 9 - 9 - 1 = 37
+rng2 = 65 + 3 - 8 - 1 = 59
+Flyout
+Team 2 pitcher (David Juarez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [7,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-3
+
+Oscar Pierce: rng1 = 57 + 11 - 9 - 1 = 58
+rng2 = 70 + 3 - 8 - 1 = 64
+Flyout
+Team 2 pitcher (David Juarez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-3
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Agustin Acosta
+
+Angel Gutiérrez: rng1 = 87 + 11 - 8 + 1 = 91
+rng2 = 41 + 15 - 9 + 1 = 48
+Single
+Team 1 pitcher (Agustin Acosta): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [3,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-3
+
+Alejandro Munoz: rng1 = 72 + 3 - 8 + 1 = 68
+rng2 = 27 + 11 - 9 + 1 = 30
+Groundout
+Team 1 pitcher (Agustin Acosta): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Noah Key: rng1 = 54 + 5 - 8 + 1 = 52
+rng2 = 58 + 5 - 9 + 1 = 55
+Lineout
+Team 1 pitcher (Agustin Acosta): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-3
+
+-----------------------
+
+TOP INNING 9
+
+Christian Mendez: rng1 = 25 + 10 - 9 - 1 = 25
+Strikeout
+Team 2 pitcher (David Juarez): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Trace Spears: rng1 = 63 + 8 - 9 - 1 = 61
+rng2 = 70 + 10 - 8 - 1 = 71
+Flyout
+Team 2 pitcher (David Juarez): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Owen Williamson: rng1 = 4 + 2 - 9 - 1 = -4
+Strikeout
+Team 2 pitcher (David Juarez): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-3
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Matias Rivera
+
+Valentino Rubio: rng1 = 79 + 6 - 10 + 1 = 76
+rng2 = 68 + 4 - 13 + 1 = 60
+Single
+Team 1 pitcher (Matias Rivera): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [6,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-3
+
+Santino Alcantara: rng1 = 95 + 1 - 10 + 1 = 87
+Walk
+Team 1 pitcher (Matias Rivera): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [7,4], base2: [6,4], base3: false
+base1: true, base2: true, base3: false
+Score: 6-3
+
+Keylon Wilkins: rng1 = 57 + 1 - 10 + 1 = 49
+rng2 = 44 + 6 - 13 + 1 = 38
+Groundout
+Team 1 pitcher (Matias Rivera): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: [7,4], base3: [6,4]
+base1: false, base2: true, base3: true
+Score: 6-3
+
+Finnegan Maxwell: rng1 = 45 + 13 - 10 + 1 = 49
+rng2 = 57 + 14 - 13 + 1 = 59
+Flyout
+Team 1 pitcher (Matias Rivera): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [7,4], base3: false
+base1: false, base2: true, base3: false
+Score: 6-4
+
+Ken McKinney: rng1 = 63 + 7 - 10 + 1 = 61
+rng2 = 60 + 6 - 13 + 1 = 54
+Lineout
+Team 1 pitcher (Matias Rivera): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-4
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 11
+Team 2 hits: 9
+Team 1 runs: 6
+Team 2 runs: 4
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					23-Aug-24
+Oscar Pierce	5	0	0	0	0	0	0	0	1					Tennessee
+Christian Mendez	4	0	1	0	0	0	1	1	2	
+Trace Spears	5	0	1	0	0	0	0	0	1	
+Owen Williamson	4	0	0	0	0	0	0	1	2	
+Jorge Donald	4	2	2	1	0	0	0	0	0	
+Esteban Obregón	4	1	2	0	0	0	1	0	0	
+Jason Burress	3	1	1	0	0	0	1	1	0	
+Gary Miller	4	2	3	0	0	1	3	0	0	
+Kugo Ryutaro	4	0	1	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Javier Castro	1	0	1	1	0	0	15	6	3	0	2	6	23	
+Major Ortiz	0	0	1	0	0	0	6	1	0	0	0	2	7	
+Agustin Acosta	0	0	1	0	0	0	3	1	0	0	0	0	3	
+Hiraoka Yosai	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Matias Rivera	0	0	1	0	1	1	3	1	1	0	1	0	5	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					23-Aug-24
+Finnegan Maxwell	5	2	2	0	0	0	1	0	1					Dallas
+Ken McKinney	5	0	1	0	0	0	0	0	1	
+Emiliano Costa	4	1	1	0	1	0	2	0	1	
+Angel Gutiérrez	4	0	3	0	0	0	1	0	0	
+Alejandro Munoz	3	0	0	0	0	0	0	1	0	
+Noah Key	4	0	1	1	0	0	0	0	1	
+Valentino Rubio	4	1	1	0	0	0	0	0	2	
+Santino Alcantara	2	0	0	0	0	0	0	2	1	
+Keylon Wilkins	4	0	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Jayson Werth	0	0	1	1	0	0	15	8	5	0	2	3	25	
+Abel Vera	0	1	1	0	0	0	3	1	1	1	0	1	4	
+Sergio Narvaez	0	0	1	0	0	0	3	1	0	0	1	0	4	
+David Juarez	0	0	1	0	0	0	6	1	0	0	0	2	7	
+Seno Mashiro	0	0	0	0	0	0	0	0	0	0	0	0	0	

@@ -1,0 +1,790 @@
+TOP INNING 1
+
+Blake Welsh: rng1 = 11 + 13 - 7 - 1 = 16
+Strikeout
+Team 2 pitcher (Kadrick Reeves): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Mahadi Khan: rng1 = 68 + 12 - 7 - 1 = 72
+Walk
+Team 2 pitcher (Kadrick Reeves): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Jaquon Lyons: rng1 = 24 + 9 - 7 - 1 = 25
+Strikeout
+Team 2 pitcher (Kadrick Reeves): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Tommy Baxter: rng1 = 74 + 7 - 7 - 1 = 73
+rng2 = 20 + 10 - 7 - 1 = 22
+Single
+Team 2 pitcher (Kadrick Reeves): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [3,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Gabe Roberts: rng1 = 80 + 12 - 7 - 1 = 84
+rng2 = 75 + 10 - 7 - 1 = 77
+Double
+Team 2 pitcher (Kadrick Reeves): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-0
+
+Isaac Secada: rng1 = 96 + 7 - 7 - 1 = 95
+rng2 = 50 + 7 - 7 - 1 = 49
+Single
+Team 2 pitcher (Kadrick Reeves): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Emiel Ware: rng1 = 60 + 6 - 7 - 1 = 58
+rng2 = 75 + 7 - 7 - 1 = 74
+Flyout
+Team 2 pitcher (Kadrick Reeves): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Jorge Gonzalez: rng1 = 8 + 11 - 7 + 1 = 13
+rng2 = 22 + 10 - 5 + 1 = 28
+Groundout
+Team 1 pitcher (Wyatt Heller): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Aiden Hayes: rng1 = 6 + 10 - 7 + 1 = 10
+Strikeout
+Team 1 pitcher (Wyatt Heller): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Aaron Vera: rng1 = 56 + 7 - 7 + 1 = 57
+rng2 = 32 + 11 - 5 + 1 = 39
+Groundout
+Team 1 pitcher (Wyatt Heller): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+TOP INNING 2
+
+Yoshida Kei: rng1 = 25 + 6 - 7 - 1 = 23
+Strikeout
+Team 2 pitcher (Kadrick Reeves): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Timothy Bentley: rng1 = 31 + 4 - 7 - 1 = 27
+Strikeout
+Team 2 pitcher (Kadrick Reeves): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Blake Welsh: rng1 = 9 + 13 - 7 - 1 = 14
+rng2 = 55 + 8 - 7 - 1 = 55
+Lineout
+Team 2 pitcher (Kadrick Reeves): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Quillin Grant: rng1 = 18 + 9 - 7 + 1 = 21
+Strikeout
+Team 1 pitcher (Wyatt Heller): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Juan Pearson: rng1 = 49 + 6 - 7 + 1 = 49
+rng2 = 37 + 10 - 5 + 1 = 43
+Groundout
+Team 1 pitcher (Wyatt Heller): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Seamus Tanner: rng1 = 69 + 5 - 7 + 1 = 68
+rng2 = 56 + 7 - 5 + 1 = 59
+Flyout
+Team 1 pitcher (Wyatt Heller): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+TOP INNING 3
+
+Mahadi Khan: rng1 = 55 + 12 - 7 - 1 = 59
+rng2 = 62 + 9 - 7 - 1 = 63
+Flyout
+Team 2 pitcher (Kadrick Reeves): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Jaquon Lyons: rng1 = 35 + 9 - 7 - 1 = 36
+rng2 = 28 + 8 - 7 - 1 = 28
+Groundout
+Team 2 pitcher (Kadrick Reeves): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Tommy Baxter: rng1 = 9 + 7 - 7 - 1 = 8
+Strikeout
+Team 2 pitcher (Kadrick Reeves): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Karsen Welch: rng1 = 79 + 7 - 7 + 1 = 80
+rng2 = 28 + 5 - 5 + 1 = 29
+Single
+Team 1 pitcher (Wyatt Heller): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Zyrell Ford: rng1 = 46 + 5 - 7 + 1 = 45
+rng2 = 3 + 6 - 5 + 1 = 5
+Groundout
+Team 1 pitcher (Wyatt Heller): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Emanuel Gutiérrez: rng1 = 87 + 1 - 7 + 1 = 82
+rng2 = 63 + 7 - 5 + 1 = 66
+Double
+Team 1 pitcher (Wyatt Heller): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-1
+
+Jorge Gonzalez: rng1 = 37 + 11 - 7 + 1 = 42
+rng2 = 86 + 10 - 5 + 1 = 92
+Flyout
+Team 1 pitcher (Wyatt Heller): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: false, base2: false, base3: [8,0]
+base1: false, base2: false, base3: true
+Score: 3-1
+
+Aiden Hayes: rng1 = 86 + 10 - 7 + 1 = 90
+Walk
+Team 1 pitcher (Wyatt Heller): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: [1,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 3-1
+
+Aaron Vera: rng1 = 37 + 7 - 7 + 1 = 38
+rng2 = 69 + 11 - 5 + 1 = 76
+Flyout
+Team 1 pitcher (Wyatt Heller): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+TOP INNING 4
+
+Gabe Roberts: rng1 = 91 + 12 - 7 - 1 = 95
+rng2 = 90 + 10 - 7 - 1 = 92
+Double
+Team 2 pitcher (Kadrick Reeves): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 0
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-1
+
+Isaac Secada: rng1 = 33 + 7 - 7 - 1 = 32
+rng2 = 13 + 7 - 7 - 1 = 12
+Groundout
+Team 2 pitcher (Kadrick Reeves): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 1
+
+base1: false, base2: false, base3: [4,0]
+base1: false, base2: false, base3: true
+Score: 3-1
+
+Emiel Ware: rng1 = 47 + 6 - 7 - 1 = 45
+rng2 = 55 + 7 - 7 - 1 = 54
+Lineout
+Team 2 pitcher (Kadrick Reeves): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 2
+
+base1: false, base2: false, base3: [4,0]
+base1: false, base2: false, base3: true
+Score: 3-1
+
+Yoshida Kei: rng1 = 63 + 6 - 7 - 1 = 61
+rng2 = 34 + 6 - 7 - 1 = 32
+Groundout
+Team 2 pitcher (Kadrick Reeves): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Quillin Grant: rng1 = 97 + 9 - 7 + 1 = 100
+rng2 = 67 + 12 - 5 + 1 = 75
+Double
+Team 1 pitcher (Wyatt Heller): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 0
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-1
+
+Juan Pearson: rng1 = 79 + 6 - 7 + 1 = 79
+rng2 = 64 + 10 - 5 + 1 = 70
+Double
+Team 1 pitcher (Wyatt Heller): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 0
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-2
+
+Seamus Tanner: rng1 = 33 + 5 - 7 + 1 = 32
+rng2 = 57 + 7 - 5 + 1 = 60
+Flyout
+Team 1 pitcher (Wyatt Heller): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 1
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-2
+
+Karsen Welch: rng1 = 65 + 7 - 7 + 1 = 66
+rng2 = 67 + 5 - 5 + 1 = 68
+Flyout
+Team 1 pitcher (Wyatt Heller): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 2
+
+base1: false, base2: false, base3: [4,0]
+base1: false, base2: false, base3: true
+Score: 3-2
+
+Zyrell Ford: rng1 = 25 + 5 - 7 + 1 = 24
+Strikeout
+Team 1 pitcher (Wyatt Heller): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+TOP INNING 5
+
+Timothy Bentley: rng1 = 16 + 4 - 7 - 1 = 12
+rng2 = 100 + 6 - 7 - 1 = 98
+Flyout
+Team 2 pitcher (Kadrick Reeves): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Blake Welsh: rng1 = 74 + 13 - 7 - 1 = 79
+rng2 = 65 + 8 - 7 - 1 = 65
+Single
+Team 2 pitcher (Kadrick Reeves): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Mahadi Khan: rng1 = 38 + 12 - 7 - 1 = 42
+rng2 = 32 + 9 - 7 - 1 = 33
+Groundout
+Team 2 pitcher (Kadrick Reeves): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-2
+
+Jaquon Lyons: rng1 = 32 + 9 - 7 - 1 = 33
+rng2 = 2 + 8 - 7 - 1 = 2
+Groundout
+Team 2 pitcher (Kadrick Reeves): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+BOTTOM INNING 5
+
+Emanuel Gutiérrez: rng1 = 83 + 1 - 7 + 1 = 78
+rng2 = 17 + 7 - 5 + 1 = 20
+Single
+Team 1 pitcher (Wyatt Heller): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Jorge Gonzalez: rng1 = 12 + 11 - 7 + 1 = 17
+Strikeout
+Team 1 pitcher (Wyatt Heller): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Aiden Hayes: rng1 = 84 + 10 - 7 + 1 = 88
+Walk
+Team 1 pitcher (Wyatt Heller): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 1
+
+base1: [1,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-2
+
+Aaron Vera: rng1 = 96 + 7 - 7 + 1 = 97
+rng2 = 72 + 11 - 5 + 1 = 79
+Triple
+Team 1 pitcher (Wyatt Heller): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 1
+
+base1: false, base2: false, base3: [2,0]
+base1: false, base2: false, base3: true
+Score: 3-4
+
+Quillin Grant: rng1 = 86 + 9 - 7 + 1 = 89
+Walk
+Team 1 pitcher (Wyatt Heller): 22 batters faced, 4 runs allowed = 22 + 10.0 = 32.0, outs: 1
+
+base1: [3,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 3-4
+
+Juan Pearson: rng1 = 1 + 6 - 7 + 1 = 1
+Strikeout
+Team 1 pitcher (Wyatt Heller): 23 batters faced, 4 runs allowed = 23 + 10.0 = 33.0, outs: 2
+
+base1: [3,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 3-4
+
+Seamus Tanner: rng1 = 53 + 5 - 7 + 1 = 52
+rng2 = 67 + 7 - 5 + 1 = 70
+Flyout
+Team 1 pitcher (Wyatt Heller): 24 batters faced, 4 runs allowed = 24 + 10.0 = 34.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Emilio Aguilar
+
+Tommy Baxter: rng1 = 23 + 7 - 10 - 1 = 19
+Strikeout
+Team 2 pitcher (Emilio Aguilar): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Gabe Roberts: rng1 = 73 + 12 - 10 - 1 = 74
+rng2 = 34 + 10 - 11 - 1 = 32
+Single
+Team 2 pitcher (Emilio Aguilar): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-4
+
+Isaac Secada: rng1 = 98 + 7 - 10 - 1 = 94
+rng2 = 3 + 7 - 11 - 1 = -2
+Single
+Team 2 pitcher (Emilio Aguilar): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [5,1], base2: [4,1], base3: false
+base1: true, base2: true, base3: false
+Score: 3-4
+
+Emiel Ware: rng1 = 7 + 6 - 10 - 1 = 2
+Strikeout
+Team 2 pitcher (Emilio Aguilar): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [5,1], base2: [4,1], base3: false
+base1: true, base2: true, base3: false
+Score: 3-4
+
+Yoshida Kei: rng1 = 16 + 6 - 10 - 1 = 11
+rng2 = 84 + 6 - 11 - 1 = 78
+Flyout
+Team 2 pitcher (Emilio Aguilar): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Kwok Kwang-Seok
+
+Karsen Welch: rng1 = 42 + 7 - 11 + 1 = 39
+rng2 = 53 + 5 - 10 + 1 = 49
+Lineout
+Team 1 pitcher (Kwok Kwang-Seok): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Zyrell Ford: rng1 = 29 + 5 - 11 + 1 = 24
+Strikeout
+Team 1 pitcher (Kwok Kwang-Seok): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Emanuel Gutiérrez: rng1 = 96 + 1 - 11 + 1 = 87
+Walk
+Team 1 pitcher (Kwok Kwang-Seok): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-4
+
+Jorge Gonzalez: rng1 = 98 + 11 - 11 + 1 = 99
+rng2 = 94 + 10 - 10 + 1 = 95
+Home run
+Team 1 pitcher (Kwok Kwang-Seok): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-6
+
+Aiden Hayes: rng1 = 46 + 10 - 11 + 1 = 46
+rng2 = 30 + 7 - 10 + 1 = 28
+Groundout
+Team 1 pitcher (Kwok Kwang-Seok): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-6
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Thomas Barnes
+
+Timothy Bentley: rng1 = 99 + 4 - 10 - 1 = 92
+rng2 = 3 + 6 - 11 - 1 = -3
+Single
+Team 2 pitcher (Thomas Barnes): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-6
+
+Blake Welsh: rng1 = 54 + 13 - 10 - 1 = 56
+rng2 = 60 + 8 - 11 - 1 = 56
+Lineout
+Team 2 pitcher (Thomas Barnes): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-6
+
+Mahadi Khan: rng1 = 92 + 12 - 10 - 1 = 93
+rng2 = 65 + 9 - 11 - 1 = 62
+Single
+Team 2 pitcher (Thomas Barnes): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [1,2], base2: [8,2], base3: false
+base1: true, base2: true, base3: false
+Score: 3-6
+
+Jaquon Lyons: rng1 = 30 + 9 - 10 - 1 = 28
+Strikeout
+Team 2 pitcher (Thomas Barnes): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [1,2], base2: [8,2], base3: false
+base1: true, base2: true, base3: false
+Score: 3-6
+
+Tommy Baxter: rng1 = 84 + 7 - 10 - 1 = 80
+rng2 = 54 + 10 - 11 - 1 = 52
+Single
+Team 2 pitcher (Thomas Barnes): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: [3,2], base2: [1,2], base3: [8,2]
+base1: true, base2: true, base3: true
+Score: 3-6
+
+Gabe Roberts: rng1 = 31 + 12 - 10 - 1 = 32
+rng2 = 20 + 10 - 11 - 1 = 18
+Groundout
+Team 2 pitcher (Thomas Barnes): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-6
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Isaac Hartman
+
+Aaron Vera: rng1 = 92 + 7 - 8 + 1 = 92
+rng2 = 80 + 11 - 9 + 1 = 83
+Home run
+Team 1 pitcher (Isaac Hartman): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-7
+
+Quillin Grant: rng1 = 70 + 9 - 8 + 1 = 72
+Walk
+Team 1 pitcher (Isaac Hartman): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: [3,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-7
+
+Juan Pearson: rng1 = 43 + 6 - 8 + 1 = 42
+rng2 = 86 + 10 - 9 + 1 = 88
+Flyout
+Team 1 pitcher (Isaac Hartman): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [3,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-7
+
+Seamus Tanner: rng1 = 28 + 5 - 8 + 1 = 26
+Strikeout
+Team 1 pitcher (Isaac Hartman): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [3,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-7
+
+Karsen Welch: rng1 = 43 + 7 - 8 + 1 = 43
+rng2 = 46 + 5 - 9 + 1 = 43
+Groundout
+Team 1 pitcher (Isaac Hartman): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Rob Bowman
+
+Isaac Secada: rng1 = 97 + 7 - 8 - 1 = 95
+rng2 = 11 + 7 - 9 - 1 = 8
+Single
+Team 2 pitcher (Rob Bowman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [5,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-7
+
+Emiel Ware: rng1 = 10 + 6 - 8 - 1 = 7
+Strikeout
+Team 2 pitcher (Rob Bowman): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [5,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-7
+
+Yoshida Kei: rng1 = 35 + 6 - 8 - 1 = 32
+rng2 = 67 + 6 - 9 - 1 = 63
+Flyout
+Team 2 pitcher (Rob Bowman): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [5,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-7
+
+Timothy Bentley: rng1 = 6 + 4 - 8 - 1 = 1
+Strikeout
+Team 2 pitcher (Rob Bowman): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-7
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Emiliano Navarro
+
+Zyrell Ford: rng1 = 77 + 5 - 9 + 1 = 74
+rng2 = 79 + 6 - 6 + 1 = 80
+Home run
+Team 1 pitcher (Emiliano Navarro): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Emanuel Gutiérrez: rng1 = 93 + 1 - 9 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Emiliano Navarro): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: [8,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-8
+
+Jorge Gonzalez: rng1 = 45 + 11 - 9 + 1 = 48
+rng2 = 97 + 10 - 6 + 1 = 102
+Flyout
+Team 1 pitcher (Emiliano Navarro): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [8,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-8
+
+Aiden Hayes: rng1 = 81 + 10 - 9 + 1 = 83
+rng2 = 99 + 7 - 6 + 1 = 101
+Home run
+Team 1 pitcher (Emiliano Navarro): 4 batters faced, 3 runs allowed = 4 + 7.5 = 11.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-10
+
+Aaron Vera: rng1 = 49 + 7 - 9 + 1 = 48
+rng2 = 94 + 11 - 6 + 1 = 100
+Flyout
+Team 1 pitcher (Emiliano Navarro): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-10
+
+Quillin Grant: rng1 = 9 + 9 - 9 + 1 = 10
+Strikeout
+Team 1 pitcher (Emiliano Navarro): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-10
+
+-----------------------
+
+TOP INNING 9
+
+Blake Welsh: rng1 = 29 + 13 - 8 - 1 = 33
+rng2 = 5 + 8 - 9 - 1 = 3
+Groundout
+Team 2 pitcher (Rob Bowman): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-10
+
+Mahadi Khan: rng1 = 48 + 12 - 8 - 1 = 51
+rng2 = 38 + 9 - 9 - 1 = 37
+Groundout
+Team 2 pitcher (Rob Bowman): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-10
+
+Jaquon Lyons: rng1 = 68 + 9 - 8 - 1 = 68
+rng2 = 31 + 8 - 9 - 1 = 29
+Groundout
+Team 2 pitcher (Rob Bowman): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-10
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 11
+Team 2 hits: 10
+Team 1 runs: 3
+Team 2 runs: 10
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					5-Sep-24
+Blake Welsh	5	0	1	0	0	0	0	0	1					Miami
+Mahadi Khan	4	1	1	0	0	0	0	1	0	
+Jaquon Lyons	5	0	0	0	0	0	0	0	2	
+Tommy Baxter	4	1	2	0	0	0	0	0	2	
+Gabe Roberts	4	1	3	2	0	0	2	0	0	
+Isaac Secada	4	0	3	0	0	0	1	0	0	
+Emiel Ware	4	0	0	0	0	0	0	0	2	
+Yoshida Kei	4	0	0	0	0	0	0	0	1	
+Timothy Bentley	4	0	1	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Wyatt Heller	0	1	1	1	0	0	15	6	4	0	3	5	24	
+Kwok Kwang-Seok	0	0	1	0	0	0	3	1	2	1	1	1	5	
+Isaac Hartman	0	0	1	0	0	0	3	1	1	1	1	1	5	
+Emiliano Navarro	0	0	1	0	0	0	3	2	3	2	0	1	6	
+Abraham Pace	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					5-Sep-24
+Jorge Gonzalez	5	1	1	0	0	1	2	0	1					Boston
+Aiden Hayes	3	2	1	0	0	1	2	2	1	
+Aaron Vera	5	1	2	0	1	1	3	0	0	
+Quillin Grant	3	1	1	1	0	0	0	2	2	
+Juan Pearson	4	0	1	1	0	0	1	0	1	
+Seamus Tanner	4	0	0	0	0	0	0	0	1	
+Karsen Welch	4	0	1	0	0	0	0	0	0	
+Zyrell Ford	4	2	1	0	0	1	1	0	2	
+Emanuel Gutiérrez	2	3	2	1	0	0	1	1	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Kadrick Reeves	1	0	1	1	0	0	15	5	3	0	1	5	21	
+Emilio Aguilar	0	0	1	0	0	0	3	2	0	0	0	2	5	
+Thomas Barnes	0	0	1	0	0	0	3	3	0	0	0	1	6	
+Rob Bowman	0	0	1	0	0	0	6	1	0	0	0	2	7	
+Orlando Otero	0	0	0	0	0	0	0	0	0	0	0	0	0	

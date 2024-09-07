@@ -1,0 +1,762 @@
+TOP INNING 1
+
+Alfie Young: rng1 = 93 + 14 - 13 - 1 = 93
+rng2 = 95 + 9 - 11 - 1 = 92
+Double
+Team 2 pitcher (Jesus Lopez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Leonardo Vera: rng1 = 54 + 14 - 13 - 1 = 54
+rng2 = 65 + 8 - 11 - 1 = 61
+Flyout
+Team 2 pitcher (Jesus Lopez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: [0,0]
+base1: false, base2: false, base3: true
+Score: 0-0
+
+Charlie May: rng1 = 24 + 11 - 13 - 1 = 21
+Strikeout
+Team 2 pitcher (Jesus Lopez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: [0,0]
+base1: false, base2: false, base3: true
+Score: 0-0
+
+Drake LaStelle: rng1 = 71 + 11 - 13 - 1 = 68
+rng2 = 54 + 12 - 11 - 1 = 54
+Lineout
+Team 2 pitcher (Jesus Lopez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Jeremy Anderson: rng1 = 84 + 12 - 11 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Chong Min-Gyu): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Kim Bon-Shim: rng1 = 83 + 11 - 11 + 1 = 84
+rng2 = 56 + 14 - 11 + 1 = 60
+Single
+Team 1 pitcher (Chong Min-Gyu): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Cody McCarthy: rng1 = 70 + 11 - 11 + 1 = 71
+Walk
+Team 1 pitcher (Chong Min-Gyu): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 0
+
+base1: [2,0], base2: [1,0], base3: [0,0]
+base1: true, base2: true, base3: true
+Score: 0-0
+
+Pedro Martinez: rng1 = 72 + 6 - 11 + 1 = 68
+rng2 = 13 + 11 - 11 + 1 = 14
+Groundout
+Team 1 pitcher (Chong Min-Gyu): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [3,0], base2: [2,0], base3: [1,0]
+base1: true, base2: true, base3: true
+Score: 0-0
+
+Antonio Carrera: rng1 = 13 + 10 - 11 + 1 = 13
+rng2 = 49 + 10 - 11 + 1 = 49
+Lineout
+Team 1 pitcher (Chong Min-Gyu): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: [3,0], base2: [2,0], base3: [1,0]
+base1: true, base2: true, base3: true
+Score: 0-0
+
+Noah Davidson: rng1 = 79 + 10 - 11 + 1 = 79
+rng2 = 74 + 5 - 11 + 1 = 69
+Double
+Team 1 pitcher (Chong Min-Gyu): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-3
+
+Irvin Brown: rng1 = 80 + 8 - 11 + 1 = 78
+rng2 = 84 + 6 - 11 + 1 = 80
+Home run
+Team 1 pitcher (Chong Min-Gyu): 7 batters faced, 5 runs allowed = 7 + 12.5 = 19.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Chae Yongsun: rng1 = 13 + 4 - 11 + 1 = 7
+Strikeout
+Team 1 pitcher (Chong Min-Gyu): 8 batters faced, 5 runs allowed = 8 + 12.5 = 20.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+TOP INNING 2
+
+Billy Campbell: rng1 = 100 + 10 - 13 - 1 = 96
+rng2 = 52 + 9 - 11 - 1 = 49
+Single
+Team 2 pitcher (Jesus Lopez): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Matías Martinez: rng1 = 86 + 7 - 13 - 1 = 79
+rng2 = 89 + 9 - 11 - 1 = 86
+Double
+Team 2 pitcher (Jesus Lopez): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 0
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-5
+
+Pascual Gilbert: rng1 = 2 + 8 - 13 - 1 = -4
+Strikeout
+Team 2 pitcher (Jesus Lopez): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-5
+
+Jamie Reid: rng1 = 55 + 6 - 13 - 1 = 47
+rng2 = 20 + 7 - 11 - 1 = 15
+Groundout
+Team 2 pitcher (Jesus Lopez): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: false, base3: [5,0]
+base1: false, base2: false, base3: true
+Score: 1-5
+
+Benito Maroto: rng1 = 53 + 3 - 13 - 1 = 42
+rng2 = 84 + 8 - 11 - 1 = 80
+Flyout
+Team 2 pitcher (Jesus Lopez): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+BOTTOM INNING 2
+
+Yon Shin-Young: rng1 = 51 + 5 - 11 + 1 = 46
+rng2 = 83 + 6 - 11 + 1 = 79
+Flyout
+Team 1 pitcher (Chong Min-Gyu): 9 batters faced, 5 runs allowed = 9 + 12.5 = 21.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Jeremy Anderson: rng1 = 22 + 12 - 11 + 1 = 24
+Strikeout
+Team 1 pitcher (Chong Min-Gyu): 10 batters faced, 5 runs allowed = 10 + 12.5 = 22.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Kim Bon-Shim: rng1 = 58 + 11 - 11 + 1 = 59
+rng2 = 50 + 14 - 11 + 1 = 54
+Lineout
+Team 1 pitcher (Chong Min-Gyu): 11 batters faced, 5 runs allowed = 11 + 12.5 = 23.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+TOP INNING 3
+
+Alfie Young: rng1 = 75 + 14 - 13 - 1 = 75
+rng2 = 29 + 9 - 11 - 1 = 26
+Single
+Team 2 pitcher (Jesus Lopez): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Leonardo Vera: rng1 = 75 + 14 - 13 - 1 = 75
+rng2 = 90 + 8 - 11 - 1 = 86
+Double
+Team 2 pitcher (Jesus Lopez): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 0
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-5
+
+Charlie May: rng1 = 88 + 11 - 13 - 1 = 85
+rng2 = 12 + 11 - 11 - 1 = 11
+Single
+Team 2 pitcher (Jesus Lopez): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 0
+
+base1: [2,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 2-5
+
+Drake LaStelle: rng1 = 36 + 11 - 13 - 1 = 33
+rng2 = 62 + 12 - 11 - 1 = 62
+Flyout
+Team 2 pitcher (Jesus Lopez): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-5
+
+Billy Campbell: rng1 = 24 + 10 - 13 - 1 = 20
+Strikeout
+Team 2 pitcher (Jesus Lopez): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-5
+
+Matías Martinez: rng1 = 51 + 7 - 13 - 1 = 44
+rng2 = 2 + 9 - 11 - 1 = -1
+Groundout
+Team 2 pitcher (Jesus Lopez): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+BOTTOM INNING 3
+
+Cody McCarthy: rng1 = 19 + 11 - 11 + 1 = 20
+Strikeout
+Team 1 pitcher (Chong Min-Gyu): 12 batters faced, 5 runs allowed = 12 + 12.5 = 24.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Pedro Martinez: rng1 = 12 + 6 - 11 + 1 = 8
+Strikeout
+Team 1 pitcher (Chong Min-Gyu): 13 batters faced, 5 runs allowed = 13 + 12.5 = 25.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Antonio Carrera: rng1 = 95 + 10 - 11 + 1 = 95
+rng2 = 9 + 10 - 11 + 1 = 9
+Single
+Team 1 pitcher (Chong Min-Gyu): 14 batters faced, 5 runs allowed = 14 + 12.5 = 26.5, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-5
+
+Noah Davidson: rng1 = 48 + 10 - 11 + 1 = 48
+rng2 = 77 + 5 - 11 + 1 = 72
+Flyout
+Team 1 pitcher (Chong Min-Gyu): 15 batters faced, 5 runs allowed = 15 + 12.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+TOP INNING 4
+
+Pascual Gilbert: rng1 = 38 + 8 - 13 - 1 = 32
+rng2 = 94 + 7 - 11 - 1 = 89
+Flyout
+Team 2 pitcher (Jesus Lopez): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Jamie Reid: rng1 = 31 + 6 - 13 - 1 = 23
+Strikeout
+Team 2 pitcher (Jesus Lopez): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Benito Maroto: rng1 = 36 + 3 - 13 - 1 = 25
+Strikeout
+Team 2 pitcher (Jesus Lopez): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+BOTTOM INNING 4
+
+Irvin Brown: rng1 = 37 + 8 - 11 + 1 = 35
+rng2 = 29 + 6 - 11 + 1 = 25
+Groundout
+Team 1 pitcher (Chong Min-Gyu): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Chae Yongsun: rng1 = 43 + 4 - 11 + 1 = 37
+rng2 = 84 + 9 - 11 + 1 = 83
+Flyout
+Team 1 pitcher (Chong Min-Gyu): 17 batters faced, 5 runs allowed = 17 + 12.5 = 29.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Yon Shin-Young: rng1 = 29 + 5 - 11 + 1 = 24
+Strikeout
+Team 1 pitcher (Chong Min-Gyu): 18 batters faced, 5 runs allowed = 18 + 12.5 = 30.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+TOP INNING 5
+
+Alfie Young: rng1 = 63 + 14 - 13 - 1 = 63
+rng2 = 72 + 9 - 11 - 1 = 69
+Flyout
+Team 2 pitcher (Jesus Lopez): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Leonardo Vera: rng1 = 36 + 14 - 13 - 1 = 36
+rng2 = 78 + 8 - 11 - 1 = 74
+Flyout
+Team 2 pitcher (Jesus Lopez): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Charlie May: rng1 = 37 + 11 - 13 - 1 = 34
+rng2 = 93 + 11 - 11 - 1 = 92
+Flyout
+Team 2 pitcher (Jesus Lopez): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+BOTTOM INNING 5
+
+Jeremy Anderson: rng1 = 47 + 12 - 11 + 1 = 49
+rng2 = 98 + 8 - 11 + 1 = 96
+Flyout
+Team 1 pitcher (Chong Min-Gyu): 19 batters faced, 5 runs allowed = 19 + 12.5 = 31.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Kim Bon-Shim: rng1 = 77 + 11 - 11 + 1 = 78
+rng2 = 99 + 14 - 11 + 1 = 103
+Home run
+Team 1 pitcher (Chong Min-Gyu): 20 batters faced, 6 runs allowed = 20 + 15.0 = 35.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-6
+
+Cody McCarthy: rng1 = 80 + 11 - 11 + 1 = 81
+rng2 = 28 + 15 - 11 + 1 = 33
+Single
+Team 1 pitcher (Chong Min-Gyu): 21 batters faced, 6 runs allowed = 21 + 15.0 = 36.0, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-6
+
+Pedro Martinez: rng1 = 93 + 6 - 11 + 1 = 89
+Walk
+Team 1 pitcher (Chong Min-Gyu): 22 batters faced, 6 runs allowed = 22 + 15.0 = 37.0, outs: 1
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-6
+
+Team 1 pitcher change to Julian Underwood
+
+Antonio Carrera: rng1 = 96 + 10 - 10 + 1 = 97
+rng2 = 74 + 10 - 8 + 1 = 77
+Double
+Team 1 pitcher (Julian Underwood): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: [4,1], base3: false
+base1: false, base2: true, base3: false
+Score: 3-8
+
+Noah Davidson: rng1 = 38 + 10 - 10 + 1 = 39
+rng2 = 87 + 5 - 8 + 1 = 85
+Flyout
+Team 1 pitcher (Julian Underwood): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: [4,1], base3: false
+base1: false, base2: true, base3: false
+Score: 3-8
+
+Irvin Brown: rng1 = 1 + 8 - 10 + 1 = 0
+Strikeout
+Team 1 pitcher (Julian Underwood): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-8
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Larry Gibson
+
+Drake LaStelle: rng1 = 70 + 11 - 12 - 1 = 68
+rng2 = 39 + 12 - 11 - 1 = 39
+Groundout
+Team 2 pitcher (Larry Gibson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Billy Campbell: rng1 = 20 + 10 - 12 - 1 = 17
+Strikeout
+Team 2 pitcher (Larry Gibson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Matías Martinez: rng1 = 83 + 7 - 12 - 1 = 77
+rng2 = 80 + 9 - 11 - 1 = 77
+Double
+Team 2 pitcher (Larry Gibson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [5,1], base3: false
+base1: false, base2: true, base3: false
+Score: 3-8
+
+Pascual Gilbert: rng1 = 8 + 8 - 12 - 1 = 3
+Strikeout
+Team 2 pitcher (Larry Gibson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-8
+
+-----------------------
+
+BOTTOM INNING 6
+
+Chae Yongsun: rng1 = 46 + 4 - 10 + 1 = 41
+rng2 = 42 + 9 - 8 + 1 = 44
+Groundout
+Team 1 pitcher (Julian Underwood): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Yon Shin-Young: rng1 = 37 + 5 - 10 + 1 = 33
+rng2 = 7 + 6 - 8 + 1 = 6
+Groundout
+Team 1 pitcher (Julian Underwood): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Jeremy Anderson: rng1 = 15 + 12 - 10 + 1 = 18
+Strikeout
+Team 1 pitcher (Julian Underwood): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-8
+
+-----------------------
+
+TOP INNING 7
+
+Jamie Reid: rng1 = 98 + 6 - 12 - 1 = 91
+rng2 = 42 + 7 - 11 - 1 = 37
+Single
+Team 2 pitcher (Larry Gibson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-8
+
+Benito Maroto: rng1 = 40 + 3 - 12 - 1 = 30
+rng2 = 33 + 8 - 11 - 1 = 29
+Groundout
+Team 2 pitcher (Larry Gibson): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-8
+
+Alfie Young: rng1 = 55 + 14 - 12 - 1 = 56
+rng2 = 13 + 9 - 11 - 1 = 10
+Groundout
+Team 2 pitcher (Larry Gibson): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: [8,1], base3: false
+base1: false, base2: true, base3: false
+Score: 3-8
+
+Leonardo Vera: rng1 = 75 + 14 - 12 - 1 = 76
+rng2 = 34 + 8 - 11 - 1 = 30
+Single
+Team 2 pitcher (Larry Gibson): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-8
+
+Charlie May: rng1 = 20 + 11 - 12 - 1 = 18
+Strikeout
+Team 2 pitcher (Larry Gibson): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-8
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Colton Hendrix
+
+Kim Bon-Shim: rng1 = 84 + 11 - 9 + 1 = 87
+Walk
+Team 1 pitcher (Colton Hendrix): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-8
+
+Cody McCarthy: rng1 = 85 + 11 - 9 + 1 = 88
+Walk
+Team 1 pitcher (Colton Hendrix): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [2,2], base2: [1,2], base3: false
+base1: true, base2: true, base3: false
+Score: 4-8
+
+Pedro Martinez: rng1 = 55 + 6 - 9 + 1 = 53
+rng2 = 21 + 11 - 8 + 1 = 25
+Groundout
+Team 1 pitcher (Colton Hendrix): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [3,2], base2: false, base3: [1,2]
+base1: true, base2: false, base3: true
+Score: 4-8
+
+Antonio Carrera: rng1 = 100 + 10 - 9 + 1 = 102
+rng2 = 72 + 10 - 8 + 1 = 75
+Double
+Team 1 pitcher (Colton Hendrix): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: false, base2: [4,2], base3: false
+base1: false, base2: true, base3: false
+Score: 4-10
+
+Noah Davidson: rng1 = 74 + 10 - 9 + 1 = 76
+rng2 = 46 + 5 - 8 + 1 = 44
+Single
+Team 1 pitcher (Colton Hendrix): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 1
+
+base1: [5,2], base2: false, base3: [4,2]
+base1: true, base2: false, base3: true
+Score: 4-10
+
+Irvin Brown: rng1 = 37 + 8 - 9 + 1 = 37
+rng2 = 45 + 6 - 8 + 1 = 44
+Groundout
+Team 1 pitcher (Colton Hendrix): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: false, base2: [5,2], base3: [4,2]
+base1: false, base2: true, base3: true
+Score: 4-10
+
+Chae Yongsun: rng1 = 4 + 4 - 9 + 1 = 0
+Strikeout
+Team 1 pitcher (Colton Hendrix): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-10
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Terry Adams
+
+Drake LaStelle: rng1 = 56 + 11 - 11 - 1 = 55
+rng2 = 61 + 12 - 11 - 1 = 61
+Flyout
+Team 2 pitcher (Terry Adams): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-10
+
+Billy Campbell: rng1 = 69 + 10 - 11 - 1 = 67
+rng2 = 48 + 9 - 11 - 1 = 45
+Groundout
+Team 2 pitcher (Terry Adams): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-10
+
+Matías Martinez: rng1 = 40 + 7 - 11 - 1 = 35
+rng2 = 17 + 9 - 11 - 1 = 14
+Groundout
+Team 2 pitcher (Terry Adams): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-10
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Matthew Dorman
+
+Yon Shin-Young: rng1 = 76 + 5 - 8 + 1 = 74
+rng2 = 89 + 6 - 7 + 1 = 89
+Double
+Team 1 pitcher (Matthew Dorman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [8,3], base3: false
+base1: false, base2: true, base3: false
+Score: 4-10
+
+Jeremy Anderson: rng1 = 95 + 12 - 8 + 1 = 100
+rng2 = 60 + 8 - 7 + 1 = 62
+Single
+Team 1 pitcher (Matthew Dorman): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: [0,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-11
+
+Kim Bon-Shim: rng1 = 52 + 11 - 8 + 1 = 56
+rng2 = 37 + 14 - 7 + 1 = 45
+Groundout
+Team 1 pitcher (Matthew Dorman): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [1,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-11
+
+Cody McCarthy: rng1 = 2 + 11 - 8 + 1 = 6
+Strikeout
+Team 1 pitcher (Matthew Dorman): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [1,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-11
+
+Pedro Martinez: rng1 = 63 + 6 - 8 + 1 = 62
+rng2 = 28 + 11 - 7 + 1 = 33
+Groundout
+Team 1 pitcher (Matthew Dorman): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-11
+
+-----------------------
+
+TOP INNING 9
+
+Pascual Gilbert: rng1 = 4 + 8 - 11 - 1 = 0
+Strikeout
+Team 2 pitcher (Terry Adams): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-11
+
+Jamie Reid: rng1 = 30 + 6 - 11 - 1 = 24
+Strikeout
+Team 2 pitcher (Terry Adams): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-11
+
+Benito Maroto: rng1 = 72 + 3 - 11 - 1 = 63
+rng2 = 91 + 8 - 11 - 1 = 87
+Flyout
+Team 2 pitcher (Terry Adams): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-11
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 9
+Team 2 hits: 11
+Team 1 runs: 4
+Team 2 runs: 11
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					4-Sep-24
+Alfie Young	4	1	2	1	0	0	0	0	0					San Diego
+Leonardo Vera	4	1	2	1	0	0	2	0	0	
+Charlie May	4	0	1	0	0	0	0	0	2	
+Drake LaStelle	4	0	0	0	0	0	1	0	0	
+Billy Campbell	4	1	1	0	0	0	0	0	2	
+Matías Martinez	4	0	2	2	0	0	1	0	0	
+Pascual Gilbert	4	0	0	0	0	0	0	0	3	
+Jamie Reid	4	0	1	0	0	0	0	0	2	
+Benito Maroto	4	1	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Chong Min-Gyu	0	1	1	1	0	0	13	6	8	2	2	5	22	
+Julian Underwood	0	0	1	0	0	0	5	1	0	0	0	2	6	
+Colton Hendrix	0	0	1	0	0	0	3	2	2	0	2	1	7	
+Matthew Dorman	0	0	1	0	0	0	3	2	1	0	0	1	5	
+Jordan Knight	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					4-Sep-24
+Jeremy Anderson	4	0	1	0	0	0	1	0	2					Portland
+Kim Bon-Shim	4	3	2	0	0	1	1	1	0	
+Cody McCarthy	3	2	1	0	0	0	0	2	2	
+Pedro Martinez	4	3	0	0	0	0	0	1	1	
+Antonio Carrera	4	0	3	2	0	0	4	0	0	
+Noah Davidson	4	1	2	1	0	0	3	0	0	
+Irvin Brown	4	1	1	0	0	1	2	0	1	
+Chae Yongsun	4	0	0	0	0	0	0	0	2	
+Yon Shin-Young	4	1	1	1	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Jesus Lopez	1	0	1	1	0	0	15	6	3	0	0	5	21	
+Larry Gibson	0	0	1	0	0	0	6	3	1	0	0	3	9	
+Terry Adams	0	0	1	0	0	0	6	0	0	0	0	2	6	
+Julio Ramirez	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Ripley Sjostrand	0	0	0	0	0	0	0	0	0	0	0	0	0	

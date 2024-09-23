@@ -1,0 +1,747 @@
+TOP INNING 1
+
+Tomas Canto: rng1 = 87 + 14 - 7 - 1 = 93
+rng2 = 24 + 12 - 7 - 1 = 28
+Single
+Team 2 pitcher (Theo Thomson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Rubén Indiano: rng1 = 99 + 14 - 7 - 1 = 105
+rng2 = 89 + 13 - 7 - 1 = 94
+Home run
+Team 2 pitcher (Theo Thomson): 2 batters faced, 2 runs allowed = 2 + 5.0 = 7.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Rafael Jideras: rng1 = 31 + 13 - 7 - 1 = 36
+rng2 = 37 + 12 - 7 - 1 = 41
+Groundout
+Team 2 pitcher (Theo Thomson): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Jong Jung-Hwa: rng1 = 22 + 8 - 7 - 1 = 22
+Strikeout
+Team 2 pitcher (Theo Thomson): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Keli Alohilani: rng1 = 68 + 13 - 7 - 1 = 73
+rng2 = 23 + 9 - 7 - 1 = 24
+Single
+Team 2 pitcher (Theo Thomson): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Andres Fortune: rng1 = 67 + 11 - 7 - 1 = 70
+Walk
+Team 2 pitcher (Theo Thomson): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-0
+
+Mark White: rng1 = 96 + 9 - 7 - 1 = 97
+rng2 = 49 + 8 - 7 - 1 = 49
+Single
+Team 2 pitcher (Theo Thomson): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 2
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-0
+
+Konner Knight: rng1 = 57 + 11 - 7 - 1 = 60
+rng2 = 4 + 6 - 7 - 1 = 2
+Groundout
+Team 2 pitcher (Theo Thomson): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Isaac Morris: rng1 = 68 + 14 - 9 + 1 = 74
+rng2 = 29 + 12 - 7 + 1 = 35
+Single
+Team 1 pitcher (Asher Henson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Ryuke Watanabe: rng1 = 68 + 12 - 9 + 1 = 72
+Walk
+Team 1 pitcher (Asher Henson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-0
+
+Yorell Harmon: rng1 = 60 + 11 - 9 + 1 = 63
+rng2 = 27 + 14 - 7 + 1 = 35
+Groundout
+Team 1 pitcher (Asher Henson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-0
+
+Angel Semprún: rng1 = 86 + 10 - 9 + 1 = 88
+Walk
+Team 1 pitcher (Asher Henson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [3,0], base2: [2,0], base3: [1,0]
+base1: true, base2: true, base3: true
+Score: 3-0
+
+Trey Walter: rng1 = 75 + 10 - 9 + 1 = 77
+rng2 = 10 + 11 - 7 + 1 = 15
+Single
+Team 1 pitcher (Asher Henson): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: [4,0], base2: [3,0], base3: [2,0]
+base1: true, base2: true, base3: true
+Score: 3-1
+
+Martin Holland: rng1 = 40 + 12 - 9 + 1 = 44
+rng2 = 27 + 4 - 7 + 1 = 25
+Groundout
+Team 1 pitcher (Asher Henson): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: false, base2: [4,0], base3: [3,0]
+base1: false, base2: true, base3: true
+Score: 3-2
+
+Whalen Tate: rng1 = 63 + 1 - 9 + 1 = 56
+rng2 = 92 + 10 - 7 + 1 = 96
+Flyout
+Team 1 pitcher (Asher Henson): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+TOP INNING 2
+
+Javier Guillén: rng1 = 93 + 4 - 7 - 1 = 89
+Walk
+Team 2 pitcher (Theo Thomson): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Tomas Canto: rng1 = 79 + 14 - 7 - 1 = 85
+rng2 = 11 + 12 - 7 - 1 = 15
+Single
+Team 2 pitcher (Theo Thomson): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 0
+
+base1: [0,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 3-2
+
+Rubén Indiano: rng1 = 22 + 14 - 7 - 1 = 28
+Strikeout
+Team 2 pitcher (Theo Thomson): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 1
+
+base1: [0,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 3-2
+
+Rafael Jideras: rng1 = 44 + 13 - 7 - 1 = 49
+rng2 = 73 + 12 - 7 - 1 = 77
+Flyout
+Team 2 pitcher (Theo Thomson): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 2
+
+base1: [0,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 3-2
+
+Jong Jung-Hwa: rng1 = 59 + 8 - 7 - 1 = 59
+rng2 = 46 + 13 - 7 - 1 = 51
+Lineout
+Team 2 pitcher (Theo Thomson): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+BOTTOM INNING 2
+
+Parker Dillard: rng1 = 46 + 7 - 9 + 1 = 45
+rng2 = 70 + 4 - 7 + 1 = 68
+Flyout
+Team 1 pitcher (Asher Henson): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Romero Hidalgo: rng1 = 47 + 7 - 9 + 1 = 46
+rng2 = 58 + 3 - 7 + 1 = 55
+Lineout
+Team 1 pitcher (Asher Henson): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Isaac Morris: rng1 = 99 + 14 - 9 + 1 = 105
+rng2 = 86 + 12 - 7 + 1 = 92
+Double
+Team 1 pitcher (Asher Henson): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-2
+
+Ryuke Watanabe: rng1 = 30 + 12 - 9 + 1 = 34
+rng2 = 70 + 10 - 7 + 1 = 74
+Flyout
+Team 1 pitcher (Asher Henson): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+TOP INNING 3
+
+Keli Alohilani: rng1 = 11 + 13 - 7 - 1 = 16
+Strikeout
+Team 2 pitcher (Theo Thomson): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Andres Fortune: rng1 = 28 + 11 - 7 - 1 = 31
+rng2 = 13 + 10 - 7 - 1 = 15
+Groundout
+Team 2 pitcher (Theo Thomson): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Mark White: rng1 = 65 + 9 - 7 - 1 = 66
+rng2 = 62 + 8 - 7 - 1 = 62
+Flyout
+Team 2 pitcher (Theo Thomson): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+BOTTOM INNING 3
+
+Yorell Harmon: rng1 = 73 + 11 - 9 + 1 = 76
+rng2 = 63 + 14 - 7 + 1 = 71
+Double
+Team 1 pitcher (Asher Henson): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 0
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-2
+
+Angel Semprún: rng1 = 20 + 10 - 9 + 1 = 22
+Strikeout
+Team 1 pitcher (Asher Henson): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-2
+
+Trey Walter: rng1 = 53 + 10 - 9 + 1 = 55
+rng2 = 75 + 11 - 7 + 1 = 80
+Flyout
+Team 1 pitcher (Asher Henson): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-2
+
+Martin Holland: rng1 = 27 + 12 - 9 + 1 = 31
+rng2 = 32 + 4 - 7 + 1 = 30
+Groundout
+Team 1 pitcher (Asher Henson): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+TOP INNING 4
+
+Konner Knight: rng1 = 56 + 11 - 7 - 1 = 59
+rng2 = 57 + 6 - 7 - 1 = 55
+Lineout
+Team 2 pitcher (Theo Thomson): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Javier Guillén: rng1 = 66 + 4 - 7 - 1 = 62
+rng2 = 55 + 8 - 7 - 1 = 55
+Lineout
+Team 2 pitcher (Theo Thomson): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Tomas Canto: rng1 = 61 + 14 - 7 - 1 = 67
+rng2 = 15 + 12 - 7 - 1 = 19
+Groundout
+Team 2 pitcher (Theo Thomson): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+BOTTOM INNING 4
+
+Whalen Tate: rng1 = 65 + 1 - 9 + 1 = 58
+rng2 = 44 + 10 - 7 + 1 = 48
+Lineout
+Team 1 pitcher (Asher Henson): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Parker Dillard: rng1 = 75 + 7 - 9 + 1 = 74
+rng2 = 32 + 4 - 7 + 1 = 30
+Single
+Team 1 pitcher (Asher Henson): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Romero Hidalgo: rng1 = 16 + 7 - 9 + 1 = 15
+rng2 = 18 + 3 - 7 + 1 = 15
+Groundout
+Team 1 pitcher (Asher Henson): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+TOP INNING 5
+
+Rubén Indiano: rng1 = 72 + 14 - 7 - 1 = 78
+rng2 = 84 + 13 - 7 - 1 = 89
+Double
+Team 2 pitcher (Theo Thomson): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 0
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-2
+
+Rafael Jideras: rng1 = 11 + 13 - 7 - 1 = 16
+Strikeout
+Team 2 pitcher (Theo Thomson): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-2
+
+Jong Jung-Hwa: rng1 = 43 + 8 - 7 - 1 = 43
+rng2 = 53 + 13 - 7 - 1 = 58
+Lineout
+Team 2 pitcher (Theo Thomson): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-2
+
+Keli Alohilani: rng1 = 70 + 13 - 7 - 1 = 75
+rng2 = 34 + 9 - 7 - 1 = 35
+Single
+Team 2 pitcher (Theo Thomson): 23 batters faced, 3 runs allowed = 23 + 7.5 = 30.5, outs: 2
+
+base1: [4,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 3-2
+
+Andres Fortune: rng1 = 84 + 11 - 7 - 1 = 87
+Walk
+Team 2 pitcher (Theo Thomson): 24 batters faced, 3 runs allowed = 24 + 7.5 = 31.5, outs: 2
+
+base1: [5,0], base2: [4,0], base3: [1,0]
+base1: true, base2: true, base3: true
+Score: 3-2
+
+Mark White: rng1 = 25 + 9 - 7 - 1 = 26
+Strikeout
+Team 2 pitcher (Theo Thomson): 25 batters faced, 3 runs allowed = 25 + 7.5 = 32.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+BOTTOM INNING 5
+
+Isaac Morris: rng1 = 27 + 14 - 9 + 1 = 33
+rng2 = 41 + 12 - 7 + 1 = 47
+Groundout
+Team 1 pitcher (Asher Henson): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Ryuke Watanabe: rng1 = 4 + 12 - 9 + 1 = 8
+Strikeout
+Team 1 pitcher (Asher Henson): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Yorell Harmon: rng1 = 34 + 11 - 9 + 1 = 37
+rng2 = 10 + 14 - 7 + 1 = 18
+Groundout
+Team 1 pitcher (Asher Henson): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Otis Michael
+
+Konner Knight: rng1 = 20 + 11 - 14 - 1 = 16
+Strikeout
+Team 2 pitcher (Otis Michael): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Javier Guillén: rng1 = 7 + 4 - 14 - 1 = -4
+Strikeout
+Team 2 pitcher (Otis Michael): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Tomas Canto: rng1 = 12 + 14 - 14 - 1 = 11
+rng2 = 51 + 12 - 15 - 1 = 47
+Groundout
+Team 2 pitcher (Otis Michael): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+BOTTOM INNING 6
+
+Angel Semprún: rng1 = 53 + 10 - 9 + 1 = 55
+rng2 = 53 + 11 - 7 + 1 = 58
+Lineout
+Team 1 pitcher (Asher Henson): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Trey Walter: rng1 = 13 + 10 - 9 + 1 = 15
+rng2 = 99 + 11 - 7 + 1 = 104
+Flyout
+Team 1 pitcher (Asher Henson): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Martin Holland: rng1 = 86 + 12 - 9 + 1 = 90
+Walk
+Team 1 pitcher (Asher Henson): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Whalen Tate: rng1 = 38 + 1 - 9 + 1 = 31
+rng2 = 18 + 10 - 7 + 1 = 22
+Groundout
+Team 1 pitcher (Asher Henson): 25 batters faced, 2 runs allowed = 25 + 5.0 = 30.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+TOP INNING 7
+
+Rubén Indiano: rng1 = 14 + 14 - 14 - 1 = 13
+rng2 = 33 + 13 - 15 - 1 = 30
+Groundout
+Team 2 pitcher (Otis Michael): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Rafael Jideras: rng1 = 76 + 13 - 14 - 1 = 74
+rng2 = 69 + 12 - 15 - 1 = 65
+Single
+Team 2 pitcher (Otis Michael): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Jong Jung-Hwa: rng1 = 50 + 8 - 14 - 1 = 43
+rng2 = 72 + 13 - 15 - 1 = 69
+Flyout
+Team 2 pitcher (Otis Michael): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Keli Alohilani: rng1 = 27 + 13 - 14 - 1 = 25
+Strikeout
+Team 2 pitcher (Otis Michael): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Steve Randles
+
+Parker Dillard: rng1 = 62 + 7 - 9 + 1 = 61
+rng2 = 10 + 4 - 7 + 1 = 8
+Groundout
+Team 1 pitcher (Steve Randles): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Romero Hidalgo: rng1 = 2 + 7 - 9 + 1 = 1
+Strikeout
+Team 1 pitcher (Steve Randles): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Isaac Morris: rng1 = 22 + 14 - 9 + 1 = 28
+Strikeout
+Team 1 pitcher (Steve Randles): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Julian Carney
+
+Andres Fortune: rng1 = 25 + 11 - 10 - 1 = 25
+Strikeout
+Team 2 pitcher (Julian Carney): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Mark White: rng1 = 83 + 9 - 10 - 1 = 81
+rng2 = 69 + 8 - 9 - 1 = 67
+Double
+Team 2 pitcher (Julian Carney): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [6,2], base3: false
+base1: false, base2: true, base3: false
+Score: 3-2
+
+Konner Knight: rng1 = 53 + 11 - 10 - 1 = 53
+rng2 = 96 + 6 - 9 - 1 = 92
+Flyout
+Team 2 pitcher (Julian Carney): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [6,2], base3: false
+base1: false, base2: true, base3: false
+Score: 3-2
+
+Javier Guillén: rng1 = 41 + 4 - 10 - 1 = 34
+rng2 = 42 + 8 - 9 - 1 = 40
+Groundout
+Team 2 pitcher (Julian Carney): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+BOTTOM INNING 8
+
+Ryuke Watanabe: rng1 = 38 + 12 - 9 + 1 = 42
+rng2 = 46 + 10 - 7 + 1 = 50
+Lineout
+Team 1 pitcher (Steve Randles): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Yorell Harmon: rng1 = 20 + 11 - 9 + 1 = 23
+Strikeout
+Team 1 pitcher (Steve Randles): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Angel Semprún: rng1 = 42 + 10 - 9 + 1 = 44
+rng2 = 78 + 11 - 7 + 1 = 83
+Flyout
+Team 1 pitcher (Steve Randles): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+TOP INNING 9
+
+Tomas Canto: rng1 = 72 + 14 - 10 - 1 = 75
+rng2 = 97 + 12 - 9 - 1 = 99
+Home run
+Team 2 pitcher (Julian Carney): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Rubén Indiano: rng1 = 19 + 14 - 10 - 1 = 22
+Strikeout
+Team 2 pitcher (Julian Carney): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Rafael Jideras: rng1 = 83 + 13 - 10 - 1 = 85
+rng2 = 12 + 12 - 9 - 1 = 14
+Single
+Team 2 pitcher (Julian Carney): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-2
+
+Jong Jung-Hwa: rng1 = 66 + 8 - 10 - 1 = 63
+rng2 = 20 + 13 - 9 - 1 = 23
+Groundout
+Team 2 pitcher (Julian Carney): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-2
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Eduardo Elvira
+
+Trey Walter: rng1 = 98 + 10 - 15 + 1 = 94
+rng2 = 37 + 11 - 13 + 1 = 36
+Single
+Team 1 pitcher (Eduardo Elvira): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [4,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-2
+
+Martin Holland: rng1 = 55 + 12 - 15 + 1 = 53
+rng2 = 15 + 4 - 13 + 1 = 7
+Groundout
+Team 1 pitcher (Eduardo Elvira): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Whalen Tate: rng1 = 38 + 1 - 15 + 1 = 25
+Strikeout
+Team 1 pitcher (Eduardo Elvira): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-2
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 11
+Team 2 hits: 6
+Team 1 runs: 4
+Team 2 runs: 2
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					16-Sep-24
+Tomas Canto	5	2	3	0	0	1	1	0	0					Philadelphia
+Rubén Indiano	5	1	2	1	0	1	2	0	2	
+Rafael Jideras	5	0	2	0	0	0	0	0	1	
+Jong Jung-Hwa	5	0	0	0	0	0	0	0	1	
+Keli Alohilani	4	1	2	0	0	0	0	0	2	
+Andres Fortune	2	0	0	0	0	0	0	2	1	
+Mark White	4	0	2	1	0	0	1	0	1	
+Konner Knight	4	0	0	0	0	0	0	0	1	
+Javier Guillén	3	0	0	0	0	0	0	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Asher Henson	1	0	1	1	0	0	18	5	2	0	3	2	25	
+Steve Randles	0	0	1	0	0	0	6	0	0	0	0	3	6	
+Rolando Maroto	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Ige Shukishi	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Eduardo Elvira	0	0	1	0	1	1	3	1	0	0	0	1	3	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					16-Sep-24
+Isaac Morris	4	0	2	1	0	0	0	0	1					Toronto
+Ryuke Watanabe	3	1	0	0	0	0	0	1	1	
+Yorell Harmon	4	1	1	1	0	0	0	0	1	
+Angel Semprún	3	0	0	0	0	0	0	1	1	
+Trey Walter	4	0	2	0	0	0	1	0	0	
+Martin Holland	3	0	0	0	0	0	1	1	0	
+Whalen Tate	4	0	0	0	0	0	0	0	1	
+Parker Dillard	3	0	1	0	0	0	0	0	0	
+Romero Hidalgo	3	0	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Theo Thomson	0	1	1	1	0	0	15	7	3	1	3	5	25	
+Otis Michael	0	0	1	0	0	0	6	1	0	0	0	3	7	
+Julian Carney	0	0	1	0	0	0	6	3	1	1	0	2	8	
+Liam Newman	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Charlie Jordan	0	0	0	0	0	0	0	0	0	0	0	0	0	

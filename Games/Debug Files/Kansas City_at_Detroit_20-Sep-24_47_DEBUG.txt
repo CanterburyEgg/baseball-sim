@@ -1,0 +1,779 @@
+TOP INNING 1
+
+Jose Walker: rng1 = 8 + 15 - 6 - 1 = 16
+Strikeout
+Team 2 pitcher (Kim Jae-Yong): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Lawrence Webb: rng1 = 69 + 12 - 6 - 1 = 74
+rng2 = 26 + 12 - 5 - 1 = 32
+Single
+Team 2 pitcher (Kim Jae-Yong): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Adam Harmon: rng1 = 91 + 12 - 6 - 1 = 96
+rng2 = 21 + 10 - 5 - 1 = 25
+Single
+Team 2 pitcher (Kim Jae-Yong): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Stanley Jackson: rng1 = 76 + 9 - 6 - 1 = 78
+rng2 = 63 + 13 - 5 - 1 = 70
+Double
+Team 2 pitcher (Kim Jae-Yong): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-0
+
+Eric Parker: rng1 = 32 + 11 - 6 - 1 = 36
+rng2 = 20 + 11 - 5 - 1 = 25
+Groundout
+Team 2 pitcher (Kim Jae-Yong): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: false, base2: false, base3: [3,0]
+base1: false, base2: false, base3: true
+Score: 2-0
+
+Alvaro Tavarez: rng1 = 72 + 10 - 6 - 1 = 75
+rng2 = 58 + 10 - 5 - 1 = 62
+Single
+Team 2 pitcher (Kim Jae-Yong): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Aulani Pekelo: rng1 = 35 + 11 - 6 - 1 = 39
+rng2 = 62 + 9 - 5 - 1 = 65
+Flyout
+Team 2 pitcher (Kim Jae-Yong): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Randall Hodge: rng1 = 22 + 12 - 8 + 1 = 27
+Strikeout
+Team 1 pitcher (Fujiwara Kenjiro): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Kugo Tadayuki: rng1 = 55 + 9 - 8 + 1 = 57
+rng2 = 12 + 6 - 9 + 1 = 10
+Groundout
+Team 1 pitcher (Fujiwara Kenjiro): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Terry Schroeder: rng1 = 32 + 8 - 8 + 1 = 33
+rng2 = 62 + 4 - 9 + 1 = 58
+Lineout
+Team 1 pitcher (Fujiwara Kenjiro): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+TOP INNING 2
+
+Wil Raymond: rng1 = 97 + 7 - 6 - 1 = 97
+rng2 = 81 + 9 - 5 - 1 = 84
+Home run
+Team 2 pitcher (Kim Jae-Yong): 8 batters faced, 4 runs allowed = 8 + 10.0 = 18.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Suko Masakado: rng1 = 61 + 4 - 6 - 1 = 58
+rng2 = 39 + 8 - 5 - 1 = 41
+Groundout
+Team 2 pitcher (Kim Jae-Yong): 9 batters faced, 4 runs allowed = 9 + 10.0 = 19.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Jose Walker: rng1 = 4 + 15 - 6 - 1 = 12
+rng2 = 100 + 14 - 5 - 1 = 108
+Flyout
+Team 2 pitcher (Kim Jae-Yong): 10 batters faced, 4 runs allowed = 10 + 10.0 = 20.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Lawrence Webb: rng1 = 8 + 12 - 6 - 1 = 13
+rng2 = 83 + 12 - 5 - 1 = 89
+Flyout
+Team 2 pitcher (Kim Jae-Yong): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Caden Bryan: rng1 = 18 + 6 - 8 + 1 = 17
+Strikeout
+Team 1 pitcher (Fujiwara Kenjiro): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Chwa Jung-Su: rng1 = 94 + 7 - 8 + 1 = 94
+rng2 = 44 + 5 - 9 + 1 = 41
+Single
+Team 1 pitcher (Fujiwara Kenjiro): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Alex Carpenter: rng1 = 93 + 3 - 8 + 1 = 89
+Walk
+Team 1 pitcher (Fujiwara Kenjiro): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 4-0
+
+Marvin Calvert: rng1 = 71 + 2 - 8 + 1 = 66
+rng2 = 88 + 8 - 9 + 1 = 88
+Flyout
+Team 1 pitcher (Fujiwara Kenjiro): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [5,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 4-0
+
+Joey Greer: rng1 = 41 + 6 - 8 + 1 = 40
+rng2 = 39 + 4 - 9 + 1 = 35
+Groundout
+Team 1 pitcher (Fujiwara Kenjiro): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+TOP INNING 3
+
+Adam Harmon: rng1 = 74 + 12 - 6 - 1 = 79
+rng2 = 55 + 10 - 5 - 1 = 59
+Single
+Team 2 pitcher (Kim Jae-Yong): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 0
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Stanley Jackson: rng1 = 32 + 9 - 6 - 1 = 34
+rng2 = 42 + 13 - 5 - 1 = 49
+Lineout
+Team 2 pitcher (Kim Jae-Yong): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Eric Parker: rng1 = 38 + 11 - 6 - 1 = 42
+rng2 = 8 + 11 - 5 - 1 = 13
+Groundout
+Team 2 pitcher (Kim Jae-Yong): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Alvaro Tavarez: rng1 = 57 + 10 - 6 - 1 = 60
+rng2 = 6 + 10 - 5 - 1 = 10
+Groundout
+Team 2 pitcher (Kim Jae-Yong): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Bobby King: rng1 = 61 + 1 - 8 + 1 = 55
+rng2 = 47 + 5 - 9 + 1 = 44
+Groundout
+Team 1 pitcher (Fujiwara Kenjiro): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Randall Hodge: rng1 = 87 + 12 - 8 + 1 = 92
+rng2 = 86 + 11 - 9 + 1 = 89
+Double
+Team 1 pitcher (Fujiwara Kenjiro): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-0
+
+Kugo Tadayuki: rng1 = 78 + 9 - 8 + 1 = 80
+rng2 = 1 + 6 - 9 + 1 = -1
+Single
+Team 1 pitcher (Fujiwara Kenjiro): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 1
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 4-0
+
+Terry Schroeder: rng1 = 50 + 8 - 8 + 1 = 51
+rng2 = 20 + 4 - 9 + 1 = 16
+Groundout
+Team 1 pitcher (Fujiwara Kenjiro): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-1
+
+Caden Bryan: rng1 = 92 + 6 - 8 + 1 = 91
+rng2 = 28 + 12 - 9 + 1 = 32
+Single
+Team 1 pitcher (Fujiwara Kenjiro): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 2
+
+base1: [3,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 4-1
+
+Chwa Jung-Su: rng1 = 78 + 7 - 8 + 1 = 78
+rng2 = 63 + 5 - 9 + 1 = 60
+Single
+Team 1 pitcher (Fujiwara Kenjiro): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 2
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 4-2
+
+Alex Carpenter: rng1 = 13 + 3 - 8 + 1 = 9
+Strikeout
+Team 1 pitcher (Fujiwara Kenjiro): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-2
+
+-----------------------
+
+TOP INNING 4
+
+Aulani Pekelo: rng1 = 41 + 11 - 6 - 1 = 45
+rng2 = 6 + 9 - 5 - 1 = 9
+Groundout
+Team 2 pitcher (Kim Jae-Yong): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Wil Raymond: rng1 = 9 + 7 - 6 - 1 = 9
+Strikeout
+Team 2 pitcher (Kim Jae-Yong): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Suko Masakado: rng1 = 60 + 4 - 6 - 1 = 57
+rng2 = 18 + 8 - 5 - 1 = 20
+Groundout
+Team 2 pitcher (Kim Jae-Yong): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-2
+
+-----------------------
+
+BOTTOM INNING 4
+
+Marvin Calvert: rng1 = 100 + 2 - 8 + 1 = 95
+rng2 = 22 + 8 - 9 + 1 = 22
+Single
+Team 1 pitcher (Fujiwara Kenjiro): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-2
+
+Joey Greer: rng1 = 53 + 6 - 8 + 1 = 52
+rng2 = 15 + 4 - 9 + 1 = 11
+Groundout
+Team 1 pitcher (Fujiwara Kenjiro): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-2
+
+Bobby King: rng1 = 1 + 1 - 8 + 1 = -5
+Strikeout
+Team 1 pitcher (Fujiwara Kenjiro): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-2
+
+Randall Hodge: rng1 = 58 + 12 - 8 + 1 = 63
+rng2 = 99 + 11 - 9 + 1 = 102
+Flyout
+Team 1 pitcher (Fujiwara Kenjiro): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-2
+
+-----------------------
+
+TOP INNING 5
+
+Jose Walker: rng1 = 51 + 15 - 6 - 1 = 59
+rng2 = 85 + 14 - 5 - 1 = 93
+Flyout
+Team 2 pitcher (Kim Jae-Yong): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Lawrence Webb: rng1 = 3 + 12 - 6 - 1 = 8
+Strikeout
+Team 2 pitcher (Kim Jae-Yong): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Adam Harmon: rng1 = 28 + 12 - 6 - 1 = 33
+rng2 = 67 + 10 - 5 - 1 = 71
+Flyout
+Team 2 pitcher (Kim Jae-Yong): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-2
+
+-----------------------
+
+BOTTOM INNING 5
+
+Kugo Tadayuki: rng1 = 32 + 9 - 8 + 1 = 34
+rng2 = 2 + 6 - 9 + 1 = 0
+Groundout
+Team 1 pitcher (Fujiwara Kenjiro): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Terry Schroeder: rng1 = 13 + 8 - 8 + 1 = 14
+rng2 = 39 + 4 - 9 + 1 = 35
+Groundout
+Team 1 pitcher (Fujiwara Kenjiro): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Caden Bryan: rng1 = 53 + 6 - 8 + 1 = 52
+rng2 = 58 + 12 - 9 + 1 = 62
+Flyout
+Team 1 pitcher (Fujiwara Kenjiro): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-2
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Wayne Kelly
+
+Stanley Jackson: rng1 = 57 + 9 - 9 - 1 = 56
+rng2 = 16 + 13 - 7 - 1 = 21
+Groundout
+Team 2 pitcher (Wayne Kelly): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Eric Parker: rng1 = 99 + 11 - 9 - 1 = 100
+rng2 = 87 + 11 - 7 - 1 = 90
+Double
+Team 2 pitcher (Wayne Kelly): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [4,1], base3: false
+base1: false, base2: true, base3: false
+Score: 4-2
+
+Alvaro Tavarez: rng1 = 98 + 10 - 9 - 1 = 98
+rng2 = 12 + 10 - 7 - 1 = 14
+Single
+Team 2 pitcher (Wayne Kelly): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-2
+
+Aulani Pekelo: rng1 = 62 + 11 - 9 - 1 = 63
+rng2 = 20 + 9 - 7 - 1 = 21
+Groundout
+Team 2 pitcher (Wayne Kelly): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-2
+
+Wil Raymond: rng1 = 6 + 7 - 9 - 1 = 3
+Strikeout
+Team 2 pitcher (Wayne Kelly): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-2
+
+-----------------------
+
+BOTTOM INNING 6
+
+Chwa Jung-Su: rng1 = 92 + 7 - 8 + 1 = 92
+rng2 = 39 + 5 - 9 + 1 = 36
+Single
+Team 1 pitcher (Fujiwara Kenjiro): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-2
+
+Alex Carpenter: rng1 = 47 + 3 - 8 + 1 = 43
+rng2 = 48 + 8 - 9 + 1 = 48
+Lineout
+Team 1 pitcher (Fujiwara Kenjiro): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-2
+
+Marvin Calvert: rng1 = 81 + 2 - 8 + 1 = 76
+rng2 = 14 + 8 - 9 + 1 = 14
+Single
+Team 1 pitcher (Fujiwara Kenjiro): 25 batters faced, 2 runs allowed = 25 + 5.0 = 30.0, outs: 1
+
+base1: [6,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 5-2
+
+Joey Greer: rng1 = 69 + 6 - 8 + 1 = 68
+rng2 = 1 + 4 - 9 + 1 = -3
+Groundout
+Team 1 pitcher (Fujiwara Kenjiro): 26 batters faced, 2 runs allowed = 26 + 5.0 = 31.0, outs: 2
+
+base1: false, base2: [6,0], base3: [4,0]
+base1: false, base2: true, base3: true
+Score: 5-2
+
+Bobby King: rng1 = 93 + 1 - 8 + 1 = 87
+Walk
+Team 1 pitcher (Fujiwara Kenjiro): 27 batters faced, 2 runs allowed = 27 + 5.0 = 32.0, outs: 2
+
+base1: [8,0], base2: [6,0], base3: [4,0]
+base1: true, base2: true, base3: true
+Score: 5-2
+
+Team 1 pitcher change to Aden Lowery
+
+Randall Hodge: rng1 = 99 + 12 - 12 + 1 = 100
+rng2 = 44 + 11 - 11 + 1 = 45
+Single
+Team 1 pitcher (Aden Lowery): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [0,1], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 5-4
+
+Kugo Tadayuki: rng1 = 100 + 9 - 12 + 1 = 98
+rng2 = 13 + 6 - 11 + 1 = 9
+Single
+Team 1 pitcher (Aden Lowery): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: [1,1], base2: false, base3: [0,1]
+base1: true, base2: false, base3: true
+Score: 5-5
+
+Terry Schroeder: rng1 = 2 + 8 - 12 + 1 = -1
+Strikeout
+Team 1 pitcher (Aden Lowery): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-5
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Jesus Perez
+
+Suko Masakado: rng1 = 18 + 4 - 6 - 1 = 15
+rng2 = 55 + 8 - 7 - 1 = 55
+Lineout
+Team 2 pitcher (Jesus Perez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-5
+
+Jose Walker: rng1 = 26 + 15 - 6 - 1 = 34
+rng2 = 35 + 14 - 7 - 1 = 41
+Groundout
+Team 2 pitcher (Jesus Perez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-5
+
+Lawrence Webb: rng1 = 9 + 12 - 6 - 1 = 14
+rng2 = 35 + 12 - 7 - 1 = 39
+Groundout
+Team 2 pitcher (Jesus Perez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-5
+
+-----------------------
+
+BOTTOM INNING 7
+
+Caden Bryan: rng1 = 99 + 6 - 12 + 1 = 94
+rng2 = 29 + 12 - 11 + 1 = 31
+Single
+Team 1 pitcher (Aden Lowery): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-5
+
+Chwa Jung-Su: rng1 = 62 + 7 - 12 + 1 = 58
+rng2 = 91 + 5 - 11 + 1 = 86
+Flyout
+Team 1 pitcher (Aden Lowery): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-5
+
+Alex Carpenter: rng1 = 34 + 3 - 12 + 1 = 26
+Strikeout
+Team 1 pitcher (Aden Lowery): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-5
+
+Marvin Calvert: rng1 = 27 + 2 - 12 + 1 = 18
+Strikeout
+Team 1 pitcher (Aden Lowery): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-5
+
+-----------------------
+
+TOP INNING 8
+
+Adam Harmon: rng1 = 55 + 12 - 6 - 1 = 60
+rng2 = 14 + 10 - 7 - 1 = 16
+Groundout
+Team 2 pitcher (Jesus Perez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-5
+
+Stanley Jackson: rng1 = 38 + 9 - 6 - 1 = 40
+rng2 = 63 + 13 - 7 - 1 = 68
+Flyout
+Team 2 pitcher (Jesus Perez): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-5
+
+Eric Parker: rng1 = 21 + 11 - 6 - 1 = 25
+Strikeout
+Team 2 pitcher (Jesus Perez): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-5
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Isaac Wilson
+
+Joey Greer: rng1 = 33 + 6 - 13 + 1 = 27
+Strikeout
+Team 1 pitcher (Isaac Wilson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-5
+
+Bobby King: rng1 = 16 + 1 - 13 + 1 = 5
+Strikeout
+Team 1 pitcher (Isaac Wilson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-5
+
+Randall Hodge: rng1 = 99 + 12 - 13 + 1 = 99
+rng2 = 65 + 11 - 14 + 1 = 63
+Single
+Team 1 pitcher (Isaac Wilson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-5
+
+Kugo Tadayuki: rng1 = 92 + 9 - 13 + 1 = 89
+Walk
+Team 1 pitcher (Isaac Wilson): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [1,2], base2: [0,2], base3: false
+base1: true, base2: true, base3: false
+Score: 5-5
+
+Terry Schroeder: rng1 = 80 + 8 - 13 + 1 = 76
+rng2 = 21 + 4 - 14 + 1 = 12
+Single
+Team 1 pitcher (Isaac Wilson): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: [2,2], base2: [1,2], base3: [0,2]
+base1: true, base2: true, base3: true
+Score: 5-5
+
+Caden Bryan: rng1 = 81 + 6 - 13 + 1 = 75
+rng2 = 19 + 12 - 14 + 1 = 18
+Single
+Team 1 pitcher (Isaac Wilson): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: [3,2], base2: false, base3: [2,2]
+base1: true, base2: false, base3: true
+Score: 5-7
+
+Chwa Jung-Su: rng1 = 85 + 7 - 13 + 1 = 80
+rng2 = 51 + 5 - 14 + 1 = 43
+Single
+Team 1 pitcher (Isaac Wilson): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 2
+
+base1: [4,2], base2: [3,2], base3: false
+base1: true, base2: true, base3: false
+Score: 5-8
+
+Team 1 pitcher change to Reuben Watson
+
+Alex Carpenter: rng1 = 61 + 3 - 9 + 1 = 56
+rng2 = 56 + 8 - 10 + 1 = 55
+Lineout
+Team 1 pitcher (Reuben Watson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-8
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Brentley Dickson
+
+Alvaro Tavarez: rng1 = 27 + 10 - 9 - 1 = 27
+Strikeout
+Team 2 pitcher (Brentley Dickson): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-8
+
+Aulani Pekelo: rng1 = 41 + 11 - 9 - 1 = 42
+rng2 = 19 + 9 - 10 - 1 = 17
+Groundout
+Team 2 pitcher (Brentley Dickson): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-8
+
+Wil Raymond: rng1 = 49 + 7 - 9 - 1 = 46
+rng2 = 74 + 9 - 10 - 1 = 72
+Flyout
+Team 2 pitcher (Brentley Dickson): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-8
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 8
+Team 2 hits: 15
+Team 1 runs: 5
+Team 2 runs: 8
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					20-Sep-24
+Jose Walker	4	0	0	0	0	0	0	0	1					Kansas City
+Lawrence Webb	4	1	1	0	0	0	0	0	1	
+Adam Harmon	4	1	2	0	0	0	0	0	0	
+Stanley Jackson	4	1	1	1	0	0	2	0	0	
+Eric Parker	4	1	1	1	0	0	0	0	1	
+Alvaro Tavarez	4	0	2	0	0	0	2	0	1	
+Aulani Pekelo	4	0	0	0	0	0	0	0	0	
+Wil Raymond	4	1	1	0	0	1	1	0	2	
+Suko Masakado	3	0	0	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Fujiwara Kenjiro	0	0	1	1	0	0	17	8	5	0	2	4	27	
+Aden Lowery	0	0	1	0	0	0	4	3	0	0	0	3	7	
+Isaac Wilson	0	1	1	0	0	0	2	4	3	0	1	2	7	
+Reuben Watson	0	0	1	0	0	0	1	0	0	0	0	0	1	
+Cohen Roman	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					20-Sep-24
+Randall Hodge	5	2	3	1	0	0	2	0	1					Detroit
+Kugo Tadayuki	4	2	2	0	0	0	1	1	0	
+Terry Schroeder	5	1	1	0	0	0	1	0	1	
+Caden Bryan	5	0	3	0	0	0	2	0	1	
+Chwa Jung-Su	5	1	4	0	0	0	2	0	0	
+Alex Carpenter	4	0	0	0	0	0	0	1	2	
+Marvin Calvert	4	1	2	0	0	0	0	0	1	
+Joey Greer	4	0	0	0	0	0	0	0	1	
+Bobby King	3	1	0	0	0	0	0	1	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Kim Jae-Yong	0	0	1	1	0	0	15	6	4	1	0	3	21	
+Wayne Kelly	0	0	1	0	0	0	3	2	1	0	0	1	5	
+Jesus Perez	1	0	1	0	0	0	6	0	0	0	0	1	6	
+Luciano Garrido	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Brentley Dickson	0	0	1	0	1	1	3	0	0	0	0	1	3	

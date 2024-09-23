@@ -1,0 +1,687 @@
+TOP INNING 1
+
+Oscar Pierce: rng1 = 30 + 11 - 14 - 1 = 26
+Strikeout
+Team 2 pitcher (Martin Gutiérrez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Christian Mendez: rng1 = 89 + 10 - 14 - 1 = 84
+rng2 = 89 + 8 - 13 - 1 = 83
+Home run
+Team 2 pitcher (Martin Gutiérrez): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Trace Spears: rng1 = 55 + 8 - 14 - 1 = 48
+rng2 = 13 + 10 - 13 - 1 = 9
+Groundout
+Team 2 pitcher (Martin Gutiérrez): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Owen Williamson: rng1 = 86 + 2 - 14 - 1 = 73
+rng2 = 69 + 11 - 13 - 1 = 66
+Double
+Team 2 pitcher (Martin Gutiérrez): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Jorge Donald: rng1 = 60 + 5 - 14 - 1 = 50
+rng2 = 86 + 9 - 13 - 1 = 81
+Flyout
+Team 2 pitcher (Martin Gutiérrez): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Mason Foster: rng1 = 21 + 12 - 8 + 1 = 26
+Strikeout
+Team 1 pitcher (Raul Cespedes): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Phoenix Moore: rng1 = 85 + 12 - 8 + 1 = 90
+Walk
+Team 1 pitcher (Raul Cespedes): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Quinell McDaniel: rng1 = 94 + 10 - 8 + 1 = 97
+rng2 = 64 + 9 - 6 + 1 = 68
+Double
+Team 1 pitcher (Raul Cespedes): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: [2,0], base3: [1,0]
+base1: false, base2: true, base3: true
+Score: 1-0
+
+Ashton Martin: rng1 = 46 + 9 - 8 + 1 = 48
+rng2 = 95 + 13 - 6 + 1 = 103
+Flyout
+Team 1 pitcher (Raul Cespedes): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: [2,0], base3: [1,0]
+base1: false, base2: true, base3: true
+Score: 1-0
+
+Caden Beckett: rng1 = 17 + 9 - 8 + 1 = 19
+Strikeout
+Team 1 pitcher (Raul Cespedes): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 2
+
+Esteban Obregón: rng1 = 21 + 6 - 14 - 1 = 12
+rng2 = 60 + 7 - 13 - 1 = 53
+Lineout
+Team 2 pitcher (Martin Gutiérrez): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Jason Burress: rng1 = 37 + 8 - 14 - 1 = 30
+rng2 = 18 + 5 - 13 - 1 = 9
+Groundout
+Team 2 pitcher (Martin Gutiérrez): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Gary Miller: rng1 = 31 + 3 - 14 - 1 = 19
+Strikeout
+Team 2 pitcher (Martin Gutiérrez): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Robert Bailey: rng1 = 27 + 8 - 8 + 1 = 28
+Strikeout
+Team 1 pitcher (Raul Cespedes): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Stanley Soto: rng1 = 77 + 8 - 8 + 1 = 78
+rng2 = 26 + 8 - 6 + 1 = 29
+Single
+Team 1 pitcher (Raul Cespedes): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Ethan Clarke: rng1 = 18 + 4 - 8 + 1 = 15
+rng2 = 78 + 10 - 6 + 1 = 83
+Flyout
+Team 1 pitcher (Raul Cespedes): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Felipe Grimes: rng1 = 100 + 6 - 8 + 1 = 99
+rng2 = 2 + 7 - 6 + 1 = 4
+Single
+Team 1 pitcher (Raul Cespedes): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: [8,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Mason Foster: rng1 = 90 + 12 - 8 + 1 = 95
+rng2 = 94 + 12 - 6 + 1 = 101
+Home run
+Team 1 pitcher (Raul Cespedes): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Phoenix Moore: rng1 = 25 + 12 - 8 + 1 = 30
+rng2 = 30 + 13 - 6 + 1 = 38
+Groundout
+Team 1 pitcher (Raul Cespedes): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 3
+
+Kugo Ryutaro: rng1 = 47 + 9 - 14 - 1 = 41
+rng2 = 90 + 3 - 13 - 1 = 79
+Flyout
+Team 2 pitcher (Martin Gutiérrez): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Oscar Pierce: rng1 = 38 + 11 - 14 - 1 = 34
+rng2 = 86 + 3 - 13 - 1 = 75
+Flyout
+Team 2 pitcher (Martin Gutiérrez): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Christian Mendez: rng1 = 59 + 10 - 14 - 1 = 54
+rng2 = 99 + 8 - 13 - 1 = 93
+Flyout
+Team 2 pitcher (Martin Gutiérrez): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+BOTTOM INNING 3
+
+Quinell McDaniel: rng1 = 14 + 10 - 8 + 1 = 17
+Strikeout
+Team 1 pitcher (Raul Cespedes): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Ashton Martin: rng1 = 50 + 9 - 8 + 1 = 52
+rng2 = 20 + 13 - 6 + 1 = 28
+Groundout
+Team 1 pitcher (Raul Cespedes): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Caden Beckett: rng1 = 92 + 9 - 8 + 1 = 94
+rng2 = 68 + 10 - 6 + 1 = 73
+Double
+Team 1 pitcher (Raul Cespedes): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 2
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-3
+
+Robert Bailey: rng1 = 64 + 8 - 8 + 1 = 65
+rng2 = 11 + 9 - 6 + 1 = 15
+Groundout
+Team 1 pitcher (Raul Cespedes): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 4
+
+Trace Spears: rng1 = 69 + 8 - 14 - 1 = 62
+rng2 = 44 + 10 - 13 - 1 = 40
+Groundout
+Team 2 pitcher (Martin Gutiérrez): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Owen Williamson: rng1 = 77 + 2 - 14 - 1 = 64
+rng2 = 87 + 11 - 13 - 1 = 84
+Flyout
+Team 2 pitcher (Martin Gutiérrez): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Jorge Donald: rng1 = 66 + 5 - 14 - 1 = 56
+rng2 = 36 + 9 - 13 - 1 = 31
+Groundout
+Team 2 pitcher (Martin Gutiérrez): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+BOTTOM INNING 4
+
+Stanley Soto: rng1 = 50 + 8 - 8 + 1 = 51
+rng2 = 55 + 8 - 6 + 1 = 58
+Lineout
+Team 1 pitcher (Raul Cespedes): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Ethan Clarke: rng1 = 11 + 4 - 8 + 1 = 8
+Strikeout
+Team 1 pitcher (Raul Cespedes): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Felipe Grimes: rng1 = 58 + 6 - 8 + 1 = 57
+rng2 = 55 + 7 - 6 + 1 = 57
+Lineout
+Team 1 pitcher (Raul Cespedes): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 5
+
+Esteban Obregón: rng1 = 63 + 6 - 14 - 1 = 54
+rng2 = 10 + 7 - 13 - 1 = 3
+Groundout
+Team 2 pitcher (Martin Gutiérrez): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Jason Burress: rng1 = 88 + 8 - 14 - 1 = 81
+rng2 = 1 + 5 - 13 - 1 = -8
+Single
+Team 2 pitcher (Martin Gutiérrez): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Gary Miller: rng1 = 81 + 3 - 14 - 1 = 69
+rng2 = 23 + 9 - 13 - 1 = 18
+Groundout
+Team 2 pitcher (Martin Gutiérrez): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 2
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-3
+
+Kugo Ryutaro: rng1 = 44 + 9 - 14 - 1 = 38
+rng2 = 6 + 3 - 13 - 1 = -5
+Groundout
+Team 2 pitcher (Martin Gutiérrez): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+BOTTOM INNING 5
+
+Mason Foster: rng1 = 91 + 12 - 8 + 1 = 96
+rng2 = 99 + 12 - 6 + 1 = 106
+Home run
+Team 1 pitcher (Raul Cespedes): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Phoenix Moore: rng1 = 5 + 12 - 8 + 1 = 10
+Strikeout
+Team 1 pitcher (Raul Cespedes): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Quinell McDaniel: rng1 = 35 + 10 - 8 + 1 = 38
+rng2 = 88 + 9 - 6 + 1 = 92
+Flyout
+Team 1 pitcher (Raul Cespedes): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Ashton Martin: rng1 = 15 + 9 - 8 + 1 = 17
+Strikeout
+Team 1 pitcher (Raul Cespedes): 22 batters faced, 4 runs allowed = 22 + 10.0 = 32.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+TOP INNING 6
+
+Oscar Pierce: rng1 = 85 + 11 - 14 - 1 = 81
+rng2 = 14 + 3 - 13 - 1 = 3
+Single
+Team 2 pitcher (Martin Gutiérrez): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Christian Mendez: rng1 = 7 + 10 - 14 - 1 = 2
+Strikeout
+Team 2 pitcher (Martin Gutiérrez): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Trace Spears: rng1 = 6 + 8 - 14 - 1 = -1
+Strikeout
+Team 2 pitcher (Martin Gutiérrez): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Owen Williamson: rng1 = 46 + 2 - 14 - 1 = 33
+rng2 = 14 + 11 - 13 - 1 = 11
+Groundout
+Team 2 pitcher (Martin Gutiérrez): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Hiraoka Yosai
+
+Caden Beckett: rng1 = 20 + 9 - 11 + 1 = 19
+Strikeout
+Team 1 pitcher (Hiraoka Yosai): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Robert Bailey: rng1 = 31 + 8 - 11 + 1 = 29
+rng2 = 71 + 9 - 11 + 1 = 70
+Flyout
+Team 1 pitcher (Hiraoka Yosai): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Stanley Soto: rng1 = 88 + 8 - 11 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Hiraoka Yosai): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Ethan Clarke: rng1 = 52 + 4 - 11 + 1 = 46
+rng2 = 62 + 10 - 11 + 1 = 62
+Flyout
+Team 1 pitcher (Hiraoka Yosai): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+TOP INNING 7
+
+Jorge Donald: rng1 = 57 + 5 - 14 - 1 = 47
+rng2 = 39 + 9 - 13 - 1 = 34
+Groundout
+Team 2 pitcher (Martin Gutiérrez): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Esteban Obregón: rng1 = 3 + 6 - 14 - 1 = -6
+Strikeout
+Team 2 pitcher (Martin Gutiérrez): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Jason Burress: rng1 = 22 + 8 - 14 - 1 = 15
+rng2 = 37 + 5 - 13 - 1 = 28
+Groundout
+Team 2 pitcher (Martin Gutiérrez): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+BOTTOM INNING 7
+
+Felipe Grimes: rng1 = 51 + 6 - 11 + 1 = 47
+rng2 = 92 + 7 - 11 + 1 = 89
+Flyout
+Team 1 pitcher (Hiraoka Yosai): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Mason Foster: rng1 = 38 + 12 - 11 + 1 = 40
+rng2 = 57 + 12 - 11 + 1 = 59
+Flyout
+Team 1 pitcher (Hiraoka Yosai): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Phoenix Moore: rng1 = 58 + 12 - 11 + 1 = 60
+rng2 = 88 + 13 - 11 + 1 = 91
+Flyout
+Team 1 pitcher (Hiraoka Yosai): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+TOP INNING 8
+
+Gary Miller: rng1 = 94 + 3 - 14 - 1 = 82
+rng2 = 24 + 9 - 13 - 1 = 19
+Single
+Team 2 pitcher (Martin Gutiérrez): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Kugo Ryutaro: rng1 = 59 + 9 - 14 - 1 = 53
+rng2 = 88 + 3 - 13 - 1 = 77
+Flyout
+Team 2 pitcher (Martin Gutiérrez): 27 batters faced, 1 runs allowed = 27 + 2.5 = 29.5, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Oscar Pierce: rng1 = 32 + 11 - 14 - 1 = 28
+Strikeout
+Team 2 pitcher (Martin Gutiérrez): 28 batters faced, 1 runs allowed = 28 + 2.5 = 30.5, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Christian Mendez: rng1 = 89 + 10 - 14 - 1 = 84
+rng2 = 73 + 8 - 13 - 1 = 67
+Double
+Team 2 pitcher (Martin Gutiérrez): 29 batters faced, 2 runs allowed = 29 + 5.0 = 34.0, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-4
+
+Team 2 pitcher change to Reed Winters
+
+Trace Spears: rng1 = 29 + 8 - 10 - 1 = 26
+Strikeout
+Team 2 pitcher (Reed Winters): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-4
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Major Ortiz
+
+Quinell McDaniel: rng1 = 87 + 10 - 11 + 1 = 87
+Walk
+Team 1 pitcher (Major Ortiz): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-4
+
+Ashton Martin: rng1 = 51 + 9 - 11 + 1 = 50
+rng2 = 5 + 13 - 9 + 1 = 10
+Groundout
+Team 1 pitcher (Major Ortiz): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [3,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-4
+
+Caden Beckett: rng1 = 73 + 9 - 11 + 1 = 72
+Walk
+Team 1 pitcher (Major Ortiz): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [4,2], base2: [3,2], base3: false
+base1: true, base2: true, base3: false
+Score: 2-4
+
+Robert Bailey: rng1 = 9 + 8 - 11 + 1 = 7
+Strikeout
+Team 1 pitcher (Major Ortiz): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [4,2], base2: [3,2], base3: false
+base1: true, base2: true, base3: false
+Score: 2-4
+
+Stanley Soto: rng1 = 84 + 8 - 11 + 1 = 82
+rng2 = 70 + 8 - 9 + 1 = 70
+Double
+Team 1 pitcher (Major Ortiz): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: false, base2: [6,2], base3: false
+base1: false, base2: true, base3: false
+Score: 2-6
+
+Ethan Clarke: rng1 = 12 + 4 - 11 + 1 = 6
+Strikeout
+Team 1 pitcher (Major Ortiz): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-6
+
+-----------------------
+
+TOP INNING 9
+
+Owen Williamson: rng1 = 5 + 2 - 10 - 1 = -4
+Strikeout
+Team 2 pitcher (Reed Winters): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-6
+
+Jorge Donald: rng1 = 24 + 5 - 10 - 1 = 18
+Strikeout
+Team 2 pitcher (Reed Winters): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-6
+
+Esteban Obregón: rng1 = 64 + 6 - 10 - 1 = 59
+rng2 = 56 + 7 - 11 - 1 = 51
+Lineout
+Team 2 pitcher (Reed Winters): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-6
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 6
+Team 2 hits: 7
+Team 1 runs: 2
+Team 2 runs: 6
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					23-Sep-24
+Oscar Pierce	4	0	1	0	0	0	0	0	2					Tennessee
+Christian Mendez	4	1	2	1	0	1	2	0	1	
+Trace Spears	4	0	0	0	0	0	0	0	2	
+Owen Williamson	4	0	1	1	0	0	0	0	1	
+Jorge Donald	4	0	0	0	0	0	0	0	1	
+Esteban Obregón	4	0	0	0	0	0	0	0	1	
+Jason Burress	3	0	1	0	0	0	0	0	0	
+Gary Miller	3	1	1	0	0	0	0	0	1	
+Kugo Ryutaro	3	0	0	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Raul Cespedes	0	1	1	1	0	0	15	6	4	2	1	7	22	
+Hiraoka Yosai	0	0	1	0	0	0	6	0	0	0	0	1	7	
+Major Ortiz	0	0	1	0	0	0	3	1	2	0	2	2	6	
+Agustin Acosta	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Matias Rivera	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					23-Sep-24
+Mason Foster	4	2	2	0	0	2	4	0	1					Los Angeles
+Phoenix Moore	3	0	0	0	0	0	0	1	1	
+Quinell McDaniel	3	0	1	1	0	0	0	1	1	
+Ashton Martin	4	1	0	0	0	0	0	0	1	
+Caden Beckett	3	1	1	1	0	0	0	1	2	
+Robert Bailey	4	0	0	0	0	0	0	0	2	
+Stanley Soto	3	1	2	1	0	0	2	0	0	
+Ethan Clarke	4	0	0	0	0	0	0	0	2	
+Felipe Grimes	3	1	1	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Martin Gutiérrez	1	0	1	1	0	0	23	6	2	1	0	6	29	
+Reed Winters	0	0	1	0	0	0	4	0	0	0	0	3	4	
+Jensen Garrish	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Rodney Fox	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Jason Francisco	0	0	0	0	0	0	0	0	0	0	0	0	0	

@@ -1,0 +1,882 @@
+TOP INNING 1
+
+Chris Lane: rng1 = 19 + 12 - 7 - 1 = 23
+Strikeout
+Team 2 pitcher (Walter Burnett): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Kim Tae-Woo: rng1 = 69 + 12 - 7 - 1 = 73
+rng2 = 30 + 15 - 8 - 1 = 36
+Single
+Team 2 pitcher (Walter Burnett): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Bradley Murphy: rng1 = 31 + 12 - 7 - 1 = 35
+rng2 = 34 + 11 - 8 - 1 = 36
+Groundout
+Team 2 pitcher (Walter Burnett): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Jeff Murray: rng1 = 47 + 10 - 11 + 1 = 47
+rng2 = 90 + 5 - 8 + 1 = 88
+Flyout
+Team 1 pitcher (Jonathan Correa): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Esteban Mendoza: rng1 = 61 + 8 - 11 + 1 = 59
+rng2 = 64 + 6 - 8 + 1 = 63
+Flyout
+Team 1 pitcher (Jonathan Correa): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Yodogawa Shosuke: rng1 = 66 + 6 - 11 + 1 = 62
+rng2 = 76 + 6 - 8 + 1 = 75
+Flyout
+Team 1 pitcher (Jonathan Correa): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Justus Pate: rng1 = 83 + 9 - 7 - 1 = 84
+rng2 = 93 + 12 - 8 - 1 = 96
+Home run
+Team 2 pitcher (Walter Burnett): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Koyama Tsuneo: rng1 = 76 + 15 - 7 - 1 = 83
+rng2 = 65 + 12 - 8 - 1 = 68
+Double
+Team 2 pitcher (Walter Burnett): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 0
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Leonardo Nunez: rng1 = 35 + 8 - 7 - 1 = 35
+rng2 = 46 + 8 - 8 - 1 = 45
+Groundout
+Team 2 pitcher (Walter Burnett): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Charles Harris: rng1 = 45 + 6 - 7 - 1 = 43
+rng2 = 57 + 8 - 8 - 1 = 56
+Lineout
+Team 2 pitcher (Walter Burnett): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Jeronimo Maldonado: rng1 = 78 + 6 - 7 - 1 = 76
+rng2 = 40 + 7 - 8 - 1 = 38
+Single
+Team 2 pitcher (Walter Burnett): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [7,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 1-0
+
+Jerome Goodwin: rng1 = 65 + 7 - 7 - 1 = 64
+rng2 = 93 + 5 - 8 - 1 = 89
+Flyout
+Team 2 pitcher (Walter Burnett): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Luca Águila: rng1 = 48 + 4 - 11 + 1 = 42
+rng2 = 57 + 11 - 8 + 1 = 61
+Flyout
+Team 1 pitcher (Jonathan Correa): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Darren Chang: rng1 = 35 + 6 - 11 + 1 = 31
+rng2 = 79 + 10 - 8 + 1 = 82
+Flyout
+Team 1 pitcher (Jonathan Correa): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Katagiri Seibei: rng1 = 10 + 7 - 11 + 1 = 7
+Strikeout
+Team 1 pitcher (Jonathan Correa): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 3
+
+Chris Lane: rng1 = 67 + 12 - 7 - 1 = 71
+Walk
+Team 2 pitcher (Walter Burnett): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Kim Tae-Woo: rng1 = 77 + 12 - 7 - 1 = 81
+rng2 = 72 + 15 - 8 - 1 = 78
+Double
+Team 2 pitcher (Walter Burnett): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 0
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-0
+
+Bradley Murphy: rng1 = 8 + 12 - 7 - 1 = 12
+rng2 = 31 + 11 - 8 - 1 = 33
+Groundout
+Team 2 pitcher (Walter Burnett): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 1
+
+base1: false, base2: false, base3: [1,0]
+base1: false, base2: false, base3: true
+Score: 2-0
+
+Justus Pate: rng1 = 2 + 9 - 7 - 1 = 3
+Strikeout
+Team 2 pitcher (Walter Burnett): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 2
+
+base1: false, base2: false, base3: [1,0]
+base1: false, base2: false, base3: true
+Score: 2-0
+
+Koyama Tsuneo: rng1 = 74 + 15 - 7 - 1 = 81
+rng2 = 37 + 12 - 8 - 1 = 40
+Single
+Team 2 pitcher (Walter Burnett): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Leonardo Nunez: rng1 = 70 + 8 - 7 - 1 = 70
+Walk
+Team 2 pitcher (Walter Burnett): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 2
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-0
+
+Charles Harris: rng1 = 80 + 6 - 7 - 1 = 78
+rng2 = 86 + 8 - 8 - 1 = 85
+Home run
+Team 2 pitcher (Walter Burnett): 16 batters faced, 6 runs allowed = 16 + 15.0 = 31.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-0
+
+Jeronimo Maldonado: rng1 = 31 + 6 - 7 - 1 = 29
+rng2 = 95 + 7 - 8 - 1 = 93
+Flyout
+Team 2 pitcher (Walter Burnett): 17 batters faced, 6 runs allowed = 17 + 15.0 = 32.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Josh Poole: rng1 = 99 + 6 - 11 + 1 = 95
+rng2 = 32 + 7 - 8 + 1 = 32
+Single
+Team 1 pitcher (Jonathan Correa): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-0
+
+Devoreaux Waters: rng1 = 40 + 5 - 11 + 1 = 35
+rng2 = 28 + 5 - 8 + 1 = 26
+Groundout
+Team 1 pitcher (Jonathan Correa): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 6-0
+
+Adam Pearce: rng1 = 98 + 4 - 11 + 1 = 92
+rng2 = 18 + 5 - 8 + 1 = 16
+Single
+Team 1 pitcher (Jonathan Correa): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: [8,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 6-0
+
+Jeff Murray: rng1 = 51 + 10 - 11 + 1 = 51
+rng2 = 3 + 5 - 8 + 1 = 1
+Groundout
+Team 1 pitcher (Jonathan Correa): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-0
+
+-----------------------
+
+TOP INNING 4
+
+Team 2 pitcher change to Noah Rosario
+
+Jerome Goodwin: rng1 = 84 + 7 - 9 - 1 = 81
+rng2 = 7 + 5 - 10 - 1 = 1
+Single
+Team 2 pitcher (Noah Rosario): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-0
+
+Chris Lane: rng1 = 77 + 12 - 9 - 1 = 79
+rng2 = 69 + 14 - 10 - 1 = 72
+Double
+Team 2 pitcher (Noah Rosario): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: false, base2: [0,1], base3: false
+base1: false, base2: true, base3: false
+Score: 7-0
+
+Kim Tae-Woo: rng1 = 83 + 12 - 9 - 1 = 85
+rng2 = 41 + 15 - 10 - 1 = 45
+Single
+Team 2 pitcher (Noah Rosario): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 0
+
+base1: [1,1], base2: false, base3: [0,1]
+base1: true, base2: false, base3: true
+Score: 7-0
+
+Bradley Murphy: rng1 = 37 + 12 - 9 - 1 = 39
+rng2 = 51 + 11 - 10 - 1 = 51
+Lineout
+Team 2 pitcher (Noah Rosario): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [1,1], base2: false, base3: [0,1]
+base1: true, base2: false, base3: true
+Score: 7-0
+
+Justus Pate: rng1 = 86 + 9 - 9 - 1 = 85
+rng2 = 78 + 12 - 10 - 1 = 79
+Triple
+Team 2 pitcher (Noah Rosario): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 1
+
+base1: false, base2: false, base3: [3,1]
+base1: false, base2: false, base3: true
+Score: 9-0
+
+Team 2 pitcher change to Walt Lewis
+
+Koyama Tsuneo: rng1 = 60 + 15 - 8 - 1 = 66
+rng2 = 77 + 12 - 8 - 1 = 80
+Flyout
+Team 2 pitcher (Walt Lewis): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-0
+
+Leonardo Nunez: rng1 = 21 + 8 - 8 - 1 = 20
+Strikeout
+Team 2 pitcher (Walt Lewis): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 10-0
+
+-----------------------
+
+BOTTOM INNING 4
+
+Esteban Mendoza: rng1 = 90 + 8 - 11 + 1 = 88
+Walk
+Team 1 pitcher (Jonathan Correa): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 10-0
+
+Yodogawa Shosuke: rng1 = 83 + 6 - 11 + 1 = 79
+rng2 = 41 + 6 - 8 + 1 = 40
+Single
+Team 1 pitcher (Jonathan Correa): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 0
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 10-0
+
+Luca Águila: rng1 = 44 + 4 - 11 + 1 = 38
+rng2 = 30 + 11 - 8 + 1 = 34
+Groundout
+Team 1 pitcher (Jonathan Correa): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 1
+
+base1: [3,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 10-0
+
+Darren Chang: rng1 = 67 + 6 - 11 + 1 = 63
+rng2 = 51 + 10 - 8 + 1 = 54
+Lineout
+Team 1 pitcher (Jonathan Correa): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 2
+
+base1: [3,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 10-0
+
+Katagiri Seibei: rng1 = 79 + 7 - 11 + 1 = 76
+rng2 = 7 + 8 - 8 + 1 = 8
+Single
+Team 1 pitcher (Jonathan Correa): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 2
+
+base1: [5,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 10-1
+
+Josh Poole: rng1 = 50 + 6 - 11 + 1 = 46
+rng2 = 80 + 7 - 8 + 1 = 80
+Flyout
+Team 1 pitcher (Jonathan Correa): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 10-1
+
+-----------------------
+
+TOP INNING 5
+
+Charles Harris: rng1 = 5 + 6 - 8 - 1 = 2
+Strikeout
+Team 2 pitcher (Walt Lewis): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-1
+
+Jeronimo Maldonado: rng1 = 35 + 6 - 8 - 1 = 32
+rng2 = 67 + 7 - 8 - 1 = 65
+Flyout
+Team 2 pitcher (Walt Lewis): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-1
+
+Jerome Goodwin: rng1 = 91 + 7 - 8 - 1 = 89
+Walk
+Team 2 pitcher (Walt Lewis): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 10-1
+
+Chris Lane: rng1 = 51 + 12 - 8 - 1 = 54
+rng2 = 51 + 14 - 8 - 1 = 56
+Lineout
+Team 2 pitcher (Walt Lewis): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 10-1
+
+-----------------------
+
+BOTTOM INNING 5
+
+Devoreaux Waters: rng1 = 60 + 5 - 11 + 1 = 55
+rng2 = 61 + 5 - 8 + 1 = 59
+Flyout
+Team 1 pitcher (Jonathan Correa): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-1
+
+Adam Pearce: rng1 = 79 + 4 - 11 + 1 = 73
+rng2 = 85 + 5 - 8 + 1 = 83
+Home run
+Team 1 pitcher (Jonathan Correa): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-2
+
+Jeff Murray: rng1 = 51 + 10 - 11 + 1 = 51
+rng2 = 75 + 5 - 8 + 1 = 73
+Flyout
+Team 1 pitcher (Jonathan Correa): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 10-2
+
+Esteban Mendoza: rng1 = 60 + 8 - 11 + 1 = 58
+rng2 = 5 + 6 - 8 + 1 = 4
+Groundout
+Team 1 pitcher (Jonathan Correa): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 10-2
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Louis Evans
+
+Kim Tae-Woo: rng1 = 91 + 12 - 9 - 1 = 93
+rng2 = 38 + 15 - 7 - 1 = 45
+Single
+Team 2 pitcher (Louis Evans): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [1,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 10-2
+
+Bradley Murphy: rng1 = 74 + 12 - 9 - 1 = 76
+rng2 = 25 + 11 - 7 - 1 = 28
+Single
+Team 2 pitcher (Louis Evans): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [2,3], base2: [1,3], base3: false
+base1: true, base2: true, base3: false
+Score: 10-2
+
+Justus Pate: rng1 = 58 + 9 - 9 - 1 = 57
+rng2 = 49 + 12 - 7 - 1 = 53
+Lineout
+Team 2 pitcher (Louis Evans): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,3], base2: [1,3], base3: false
+base1: true, base2: true, base3: false
+Score: 10-2
+
+Koyama Tsuneo: rng1 = 74 + 15 - 9 - 1 = 79
+rng2 = 35 + 12 - 7 - 1 = 39
+Single
+Team 2 pitcher (Louis Evans): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [4,3], base2: [2,3], base3: [1,3]
+base1: true, base2: true, base3: true
+Score: 10-2
+
+Leonardo Nunez: rng1 = 93 + 8 - 9 - 1 = 91
+rng2 = 5 + 8 - 7 - 1 = 5
+Single
+Team 2 pitcher (Louis Evans): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 1
+
+base1: [5,3], base2: false, base3: [4,3]
+base1: true, base2: false, base3: true
+Score: 12-2
+
+Charles Harris: rng1 = 99 + 6 - 9 - 1 = 95
+rng2 = 10 + 8 - 7 - 1 = 10
+Single
+Team 2 pitcher (Louis Evans): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 1
+
+base1: [6,3], base2: [5,3], base3: false
+base1: true, base2: true, base3: false
+Score: 13-2
+
+Team 2 pitcher change to Josh Harris
+
+Jeronimo Maldonado: rng1 = 64 + 6 - 10 - 1 = 59
+rng2 = 46 + 7 - 10 - 1 = 42
+Groundout
+Team 2 pitcher (Josh Harris): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: false, base2: [6,3], base3: [5,3]
+base1: false, base2: true, base3: true
+Score: 13-2
+
+Jerome Goodwin: rng1 = 46 + 7 - 10 - 1 = 42
+rng2 = 20 + 5 - 10 - 1 = 14
+Groundout
+Team 2 pitcher (Josh Harris): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 13-2
+
+-----------------------
+
+BOTTOM INNING 6
+
+Yodogawa Shosuke: rng1 = 4 + 6 - 11 + 1 = 0
+Strikeout
+Team 1 pitcher (Jonathan Correa): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 13-2
+
+Luca Águila: rng1 = 92 + 4 - 11 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Jonathan Correa): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 13-2
+
+Darren Chang: rng1 = 6 + 6 - 11 + 1 = 2
+Strikeout
+Team 1 pitcher (Jonathan Correa): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 13-2
+
+Katagiri Seibei: rng1 = 88 + 7 - 11 + 1 = 85
+rng2 = 35 + 8 - 8 + 1 = 36
+Single
+Team 1 pitcher (Jonathan Correa): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 2
+
+base1: [5,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 13-2
+
+Josh Poole: rng1 = 8 + 6 - 11 + 1 = 4
+Strikeout
+Team 1 pitcher (Jonathan Correa): 25 batters faced, 2 runs allowed = 25 + 5.0 = 30.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 13-2
+
+-----------------------
+
+TOP INNING 7
+
+Chris Lane: rng1 = 100 + 12 - 10 - 1 = 101
+rng2 = 30 + 14 - 10 - 1 = 33
+Single
+Team 2 pitcher (Josh Harris): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 0
+
+base1: [0,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 13-2
+
+Kim Tae-Woo: rng1 = 16 + 12 - 10 - 1 = 17
+Strikeout
+Team 2 pitcher (Josh Harris): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [0,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 13-2
+
+Bradley Murphy: rng1 = 8 + 12 - 10 - 1 = 9
+Strikeout
+Team 2 pitcher (Josh Harris): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: [0,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 13-2
+
+Justus Pate: rng1 = 35 + 9 - 10 - 1 = 33
+rng2 = 82 + 12 - 10 - 1 = 83
+Flyout
+Team 2 pitcher (Josh Harris): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 13-2
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Bravon McDaniel
+
+Devoreaux Waters: rng1 = 74 + 5 - 11 + 1 = 69
+rng2 = 75 + 5 - 11 + 1 = 70
+Flyout
+Team 1 pitcher (Bravon McDaniel): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 13-2
+
+Adam Pearce: rng1 = 91 + 4 - 11 + 1 = 85
+rng2 = 69 + 5 - 11 + 1 = 64
+Single
+Team 1 pitcher (Bravon McDaniel): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 13-2
+
+Jeff Murray: rng1 = 41 + 10 - 11 + 1 = 41
+rng2 = 54 + 5 - 11 + 1 = 49
+Lineout
+Team 1 pitcher (Bravon McDaniel): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 13-2
+
+Esteban Mendoza: rng1 = 64 + 8 - 11 + 1 = 62
+rng2 = 64 + 6 - 11 + 1 = 60
+Flyout
+Team 1 pitcher (Bravon McDaniel): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 13-2
+
+-----------------------
+
+TOP INNING 8
+
+Koyama Tsuneo: rng1 = 71 + 15 - 10 - 1 = 75
+rng2 = 83 + 12 - 10 - 1 = 84
+Home run
+Team 2 pitcher (Josh Harris): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 14-2
+
+Leonardo Nunez: rng1 = 29 + 8 - 10 - 1 = 26
+Strikeout
+Team 2 pitcher (Josh Harris): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 14-2
+
+Charles Harris: rng1 = 87 + 6 - 10 - 1 = 82
+rng2 = 59 + 8 - 10 - 1 = 56
+Single
+Team 2 pitcher (Josh Harris): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: [6,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 14-2
+
+Jeronimo Maldonado: rng1 = 18 + 6 - 10 - 1 = 13
+rng2 = 66 + 7 - 10 - 1 = 62
+Flyout
+Team 2 pitcher (Josh Harris): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: [6,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 14-2
+
+Jerome Goodwin: rng1 = 40 + 7 - 10 - 1 = 36
+rng2 = 63 + 5 - 10 - 1 = 57
+Lineout
+Team 2 pitcher (Josh Harris): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 14-2
+
+-----------------------
+
+BOTTOM INNING 8
+
+Yodogawa Shosuke: rng1 = 36 + 6 - 11 + 1 = 32
+rng2 = 30 + 6 - 11 + 1 = 26
+Groundout
+Team 1 pitcher (Bravon McDaniel): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 14-2
+
+Luca Águila: rng1 = 88 + 4 - 11 + 1 = 82
+rng2 = 77 + 11 - 11 + 1 = 78
+Double
+Team 1 pitcher (Bravon McDaniel): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: [3,1], base3: false
+base1: false, base2: true, base3: false
+Score: 14-2
+
+Darren Chang: rng1 = 88 + 6 - 11 + 1 = 84
+rng2 = 92 + 10 - 11 + 1 = 92
+Double
+Team 1 pitcher (Bravon McDaniel): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: false, base2: [4,1], base3: false
+base1: false, base2: true, base3: false
+Score: 14-3
+
+Katagiri Seibei: rng1 = 81 + 7 - 11 + 1 = 78
+rng2 = 59 + 8 - 11 + 1 = 57
+Single
+Team 1 pitcher (Bravon McDaniel): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 1
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 14-4
+
+Team 1 pitcher change to Logan Rogers
+
+Josh Poole: rng1 = 52 + 6 - 10 + 1 = 49
+rng2 = 7 + 7 - 8 + 1 = 7
+Groundout
+Team 1 pitcher (Logan Rogers): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 14-4
+
+-----------------------
+
+TOP INNING 9
+
+Chris Lane: rng1 = 74 + 12 - 10 - 1 = 75
+rng2 = 2 + 14 - 10 - 1 = 5
+Single
+Team 2 pitcher (Josh Harris): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 0
+
+base1: [0,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 14-4
+
+Kim Tae-Woo: rng1 = 98 + 12 - 10 - 1 = 99
+rng2 = 57 + 15 - 10 - 1 = 61
+Single
+Team 2 pitcher (Josh Harris): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 0
+
+base1: [1,4], base2: [0,4], base3: false
+base1: true, base2: true, base3: false
+Score: 14-4
+
+Bradley Murphy: rng1 = 68 + 12 - 10 - 1 = 69
+rng2 = 48 + 11 - 10 - 1 = 48
+Lineout
+Team 2 pitcher (Josh Harris): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 1
+
+base1: [1,4], base2: [0,4], base3: false
+base1: true, base2: true, base3: false
+Score: 14-4
+
+Justus Pate: rng1 = 80 + 9 - 10 - 1 = 78
+rng2 = 61 + 12 - 10 - 1 = 62
+Single
+Team 2 pitcher (Josh Harris): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 1
+
+base1: [3,4], base2: [1,4], base3: false
+base1: true, base2: true, base3: false
+Score: 15-4
+
+Koyama Tsuneo: rng1 = 65 + 15 - 10 - 1 = 69
+rng2 = 61 + 12 - 10 - 1 = 62
+Flyout
+Team 2 pitcher (Josh Harris): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 2
+
+base1: [3,4], base2: [1,4], base3: false
+base1: true, base2: true, base3: false
+Score: 15-4
+
+Leonardo Nunez: rng1 = 21 + 8 - 10 - 1 = 18
+Strikeout
+Team 2 pitcher (Josh Harris): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 15-4
+
+-----------------------
+
+BOTTOM INNING 9
+
+Devoreaux Waters: rng1 = 42 + 5 - 10 + 1 = 38
+rng2 = 61 + 5 - 8 + 1 = 59
+Flyout
+Team 1 pitcher (Logan Rogers): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 15-4
+
+Adam Pearce: rng1 = 54 + 4 - 10 + 1 = 49
+rng2 = 68 + 5 - 8 + 1 = 66
+Flyout
+Team 1 pitcher (Logan Rogers): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 15-4
+
+Jeff Murray: rng1 = 45 + 10 - 10 + 1 = 46
+rng2 = 72 + 5 - 8 + 1 = 70
+Flyout
+Team 1 pitcher (Logan Rogers): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 15-4
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 22
+Team 2 hits: 10
+Team 1 runs: 15
+Team 2 runs: 4
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					21-Sep-24
+Chris Lane	5	3	3	1	0	0	1	1	1					Tampa Bay
+Kim Tae-Woo	6	3	5	1	0	0	1	0	1	
+Bradley Murphy	6	1	1	0	0	0	0	0	1	
+Justus Pate	6	2	3	0	1	1	4	0	1	
+Koyama Tsuneo	6	3	4	1	0	1	3	0	0	
+Leonardo Nunez	5	1	1	0	0	0	2	1	3	
+Charles Harris	5	1	3	0	0	1	4	0	1	
+Jeronimo Maldonado	5	0	1	0	0	0	0	0	0	
+Jerome Goodwin	4	1	1	0	0	0	0	1	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Jonathan Correa	1	0	1	1	0	0	18	6	2	1	1	4	25	
+Bravon McDaniel	0	0	1	0	0	0	4	4	2	0	0	0	8	
+Logan Rogers	0	0	1	0	0	0	5	0	0	0	0	0	4	
+Pierre Leblanc	0	0	0	0	0	0	0	0	0	0	0	0	0	
+William Sheppard	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					21-Sep-24
+Jeff Murray	5	0	0	0	0	0	0	0	0					Phoenix
+Esteban Mendoza	3	1	0	0	0	0	0	1	0	
+Yodogawa Shosuke	4	0	1	0	0	0	0	0	1	
+Luca Águila	3	1	1	1	0	0	0	0	0	
+Darren Chang	4	1	1	1	0	0	1	0	1	
+Katagiri Seibei	4	0	3	0	0	0	2	0	1	
+Josh Poole	4	0	1	0	0	0	0	0	1	
+Devoreaux Waters	4	0	0	0	0	0	0	0	0	
+Adam Pearce	4	1	3	0	0	1	1	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Walter Burnett	0	1	1	1	0	0	9	7	6	2	2	2	17	
+Noah Rosario	0	0	1	0	0	0	1	4	4	0	0	0	5	
+Walt Lewis	0	0	1	0	0	0	5	0	0	0	1	2	6	
+Louis Evans	0	0	1	0	0	0	1	5	3	0	0	0	6	
+Josh Harris	0	0	1	0	0	0	11	6	2	1	0	4	17	

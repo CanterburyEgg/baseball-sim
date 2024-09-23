@@ -1,0 +1,679 @@
+TOP INNING 1
+
+Tomas Canto: rng1 = 2 + 14 - 14 - 1 = 1
+Strikeout
+Team 2 pitcher (River Lawrence): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Rubén Indiano: rng1 = 67 + 14 - 14 - 1 = 66
+rng2 = 82 + 13 - 15 - 1 = 79
+Flyout
+Team 2 pitcher (River Lawrence): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Rafael Jideras: rng1 = 59 + 13 - 14 - 1 = 57
+rng2 = 5 + 12 - 15 - 1 = 1
+Groundout
+Team 2 pitcher (River Lawrence): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Qua'sean Price: rng1 = 42 + 15 - 10 + 1 = 48
+rng2 = 15 + 11 - 12 + 1 = 15
+Groundout
+Team 1 pitcher (Peter Nieves): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Dekion Atkins: rng1 = 91 + 12 - 10 + 1 = 94
+rng2 = 79 + 12 - 12 + 1 = 80
+Home run
+Team 1 pitcher (Peter Nieves): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Joseph Thayer: rng1 = 18 + 11 - 10 + 1 = 20
+Strikeout
+Team 1 pitcher (Peter Nieves): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Dushane Rice: rng1 = 49 + 10 - 10 + 1 = 50
+rng2 = 55 + 12 - 12 + 1 = 56
+Lineout
+Team 1 pitcher (Peter Nieves): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 2
+
+Jong Jung-Hwa: rng1 = 48 + 8 - 14 - 1 = 41
+rng2 = 74 + 13 - 15 - 1 = 71
+Flyout
+Team 2 pitcher (River Lawrence): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Keli Alohilani: rng1 = 46 + 13 - 14 - 1 = 44
+rng2 = 99 + 9 - 15 - 1 = 92
+Flyout
+Team 2 pitcher (River Lawrence): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Andres Fortune: rng1 = 13 + 11 - 14 - 1 = 9
+Strikeout
+Team 2 pitcher (River Lawrence): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Bailey Myers-Morgan: rng1 = 99 + 8 - 10 + 1 = 98
+rng2 = 34 + 12 - 12 + 1 = 35
+Single
+Team 1 pitcher (Peter Nieves): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Casey Myers-Morgan: rng1 = 90 + 7 - 10 + 1 = 88
+Walk
+Team 1 pitcher (Peter Nieves): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 0
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-1
+
+Ari Nikolas: rng1 = 50 + 3 - 10 + 1 = 44
+rng2 = 36 + 9 - 12 + 1 = 34
+Groundout
+Team 1 pitcher (Peter Nieves): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: false, base3: [4,0]
+base1: false, base2: false, base3: true
+Score: 0-1
+
+Jeremy Webster: rng1 = 7 + 5 - 10 + 1 = 3
+Strikeout
+Team 1 pitcher (Peter Nieves): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 3
+
+Mark White: rng1 = 86 + 9 - 14 - 1 = 80
+rng2 = 14 + 8 - 15 - 1 = 6
+Single
+Team 2 pitcher (River Lawrence): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Konner Knight: rng1 = 53 + 11 - 14 - 1 = 49
+rng2 = 82 + 6 - 15 - 1 = 72
+Flyout
+Team 2 pitcher (River Lawrence): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Javier Guillén: rng1 = 36 + 4 - 14 - 1 = 25
+Strikeout
+Team 2 pitcher (River Lawrence): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Tomas Canto: rng1 = 2 + 14 - 14 - 1 = 1
+Strikeout
+Team 2 pitcher (River Lawrence): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Drew Nelson: rng1 = 100 + 6 - 10 + 1 = 97
+rng2 = 55 + 6 - 12 + 1 = 50
+Single
+Team 1 pitcher (Peter Nieves): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Qua'sean Price: rng1 = 74 + 15 - 10 + 1 = 80
+rng2 = 61 + 11 - 12 + 1 = 61
+Single
+Team 1 pitcher (Peter Nieves): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 0
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-1
+
+Dekion Atkins: rng1 = 70 + 12 - 10 + 1 = 73
+rng2 = 12 + 12 - 12 + 1 = 13
+Single
+Team 1 pitcher (Peter Nieves): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 0
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-2
+
+Joseph Thayer: rng1 = 100 + 11 - 10 + 1 = 102
+rng2 = 84 + 9 - 12 + 1 = 82
+Home run
+Team 1 pitcher (Peter Nieves): 12 batters faced, 5 runs allowed = 12 + 12.5 = 24.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Dushane Rice: rng1 = 15 + 10 - 10 + 1 = 16
+Strikeout
+Team 1 pitcher (Peter Nieves): 13 batters faced, 5 runs allowed = 13 + 12.5 = 25.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Bailey Myers-Morgan: rng1 = 15 + 8 - 10 + 1 = 14
+rng2 = 42 + 12 - 12 + 1 = 43
+Groundout
+Team 1 pitcher (Peter Nieves): 14 batters faced, 5 runs allowed = 14 + 12.5 = 26.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Casey Myers-Morgan: rng1 = 23 + 7 - 10 + 1 = 21
+Strikeout
+Team 1 pitcher (Peter Nieves): 15 batters faced, 5 runs allowed = 15 + 12.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+TOP INNING 4
+
+Rubén Indiano: rng1 = 65 + 14 - 14 - 1 = 64
+rng2 = 80 + 13 - 15 - 1 = 77
+Flyout
+Team 2 pitcher (River Lawrence): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Rafael Jideras: rng1 = 63 + 13 - 14 - 1 = 61
+rng2 = 62 + 12 - 15 - 1 = 58
+Lineout
+Team 2 pitcher (River Lawrence): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Jong Jung-Hwa: rng1 = 83 + 8 - 14 - 1 = 76
+rng2 = 20 + 13 - 15 - 1 = 17
+Single
+Team 2 pitcher (River Lawrence): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Keli Alohilani: rng1 = 66 + 13 - 14 - 1 = 64
+rng2 = 24 + 9 - 15 - 1 = 17
+Groundout
+Team 2 pitcher (River Lawrence): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+BOTTOM INNING 4
+
+Ari Nikolas: rng1 = 69 + 3 - 10 + 1 = 63
+rng2 = 20 + 9 - 12 + 1 = 18
+Groundout
+Team 1 pitcher (Peter Nieves): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Jeremy Webster: rng1 = 62 + 5 - 10 + 1 = 58
+rng2 = 9 + 7 - 12 + 1 = 5
+Groundout
+Team 1 pitcher (Peter Nieves): 17 batters faced, 5 runs allowed = 17 + 12.5 = 29.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-5
+
+Drew Nelson: rng1 = 4 + 6 - 10 + 1 = 1
+Strikeout
+Team 1 pitcher (Peter Nieves): 18 batters faced, 5 runs allowed = 18 + 12.5 = 30.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+TOP INNING 5
+
+Andres Fortune: rng1 = 78 + 11 - 14 - 1 = 74
+rng2 = 65 + 10 - 15 - 1 = 59
+Single
+Team 2 pitcher (River Lawrence): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Mark White: rng1 = 18 + 9 - 14 - 1 = 12
+rng2 = 65 + 8 - 15 - 1 = 57
+Lineout
+Team 2 pitcher (River Lawrence): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Konner Knight: rng1 = 34 + 11 - 14 - 1 = 30
+rng2 = 68 + 6 - 15 - 1 = 58
+Lineout
+Team 2 pitcher (River Lawrence): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Javier Guillén: rng1 = 60 + 4 - 14 - 1 = 49
+rng2 = 3 + 8 - 15 - 1 = -5
+Groundout
+Team 2 pitcher (River Lawrence): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-5
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Steve Randles
+
+Qua'sean Price: rng1 = 66 + 15 - 9 + 1 = 73
+rng2 = 47 + 11 - 7 + 1 = 52
+Single
+Team 1 pitcher (Steve Randles): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Dekion Atkins: rng1 = 21 + 12 - 9 + 1 = 25
+Strikeout
+Team 1 pitcher (Steve Randles): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-5
+
+Joseph Thayer: rng1 = 88 + 11 - 9 + 1 = 91
+rng2 = 61 + 9 - 7 + 1 = 64
+Single
+Team 1 pitcher (Steve Randles): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,1], base2: [0,1], base3: false
+base1: true, base2: true, base3: false
+Score: 0-5
+
+Dushane Rice: rng1 = 55 + 10 - 9 + 1 = 57
+rng2 = 59 + 12 - 7 + 1 = 65
+Flyout
+Team 1 pitcher (Steve Randles): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [2,1], base2: false, base3: [0,1]
+base1: true, base2: false, base3: true
+Score: 0-5
+
+Bailey Myers-Morgan: rng1 = 93 + 8 - 9 + 1 = 93
+rng2 = 28 + 12 - 7 + 1 = 34
+Single
+Team 1 pitcher (Steve Randles): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [4,1], base2: false, base3: [2,1]
+base1: true, base2: false, base3: true
+Score: 0-6
+
+Casey Myers-Morgan: rng1 = 14 + 7 - 9 + 1 = 13
+rng2 = 65 + 8 - 7 + 1 = 67
+Flyout
+Team 1 pitcher (Steve Randles): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+TOP INNING 6
+
+Tomas Canto: rng1 = 26 + 14 - 14 - 1 = 25
+Strikeout
+Team 2 pitcher (River Lawrence): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Rubén Indiano: rng1 = 6 + 14 - 14 - 1 = 5
+Strikeout
+Team 2 pitcher (River Lawrence): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Rafael Jideras: rng1 = 27 + 13 - 14 - 1 = 25
+Strikeout
+Team 2 pitcher (River Lawrence): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Rolando Maroto
+
+Ari Nikolas: rng1 = 37 + 3 - 14 + 1 = 27
+Strikeout
+Team 1 pitcher (Rolando Maroto): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Jeremy Webster: rng1 = 62 + 5 - 14 + 1 = 54
+rng2 = 99 + 7 - 12 + 1 = 95
+Flyout
+Team 1 pitcher (Rolando Maroto): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Drew Nelson: rng1 = 99 + 6 - 14 + 1 = 92
+rng2 = 15 + 6 - 12 + 1 = 10
+Single
+Team 1 pitcher (Rolando Maroto): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-6
+
+Qua'sean Price: rng1 = 8 + 15 - 14 + 1 = 10
+Strikeout
+Team 1 pitcher (Rolando Maroto): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+TOP INNING 7
+
+Jong Jung-Hwa: rng1 = 12 + 8 - 14 - 1 = 5
+Strikeout
+Team 2 pitcher (River Lawrence): 22 batters faced, 0 runs allowed = 22 + 0.0 = 22.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Keli Alohilani: rng1 = 11 + 13 - 14 - 1 = 9
+Strikeout
+Team 2 pitcher (River Lawrence): 23 batters faced, 0 runs allowed = 23 + 0.0 = 23.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Andres Fortune: rng1 = 99 + 11 - 14 - 1 = 95
+rng2 = 61 + 10 - 15 - 1 = 55
+Single
+Team 2 pitcher (River Lawrence): 24 batters faced, 0 runs allowed = 24 + 0.0 = 24.0, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-6
+
+Mark White: rng1 = 11 + 9 - 14 - 1 = 5
+Strikeout
+Team 2 pitcher (River Lawrence): 25 batters faced, 0 runs allowed = 25 + 0.0 = 25.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+BOTTOM INNING 7
+
+Dekion Atkins: rng1 = 31 + 12 - 14 + 1 = 30
+rng2 = 72 + 12 - 12 + 1 = 73
+Flyout
+Team 1 pitcher (Rolando Maroto): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Joseph Thayer: rng1 = 27 + 11 - 14 + 1 = 25
+Strikeout
+Team 1 pitcher (Rolando Maroto): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Dushane Rice: rng1 = 12 + 10 - 14 + 1 = 9
+Strikeout
+Team 1 pitcher (Rolando Maroto): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+TOP INNING 8
+
+Konner Knight: rng1 = 97 + 11 - 14 - 1 = 93
+rng2 = 60 + 6 - 15 - 1 = 50
+Single
+Team 2 pitcher (River Lawrence): 26 batters faced, 0 runs allowed = 26 + 0.0 = 26.0, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-6
+
+Javier Guillén: rng1 = 97 + 4 - 14 - 1 = 86
+Hit by pitch
+Team 2 pitcher (River Lawrence): 27 batters faced, 0 runs allowed = 27 + 0.0 = 27.0, outs: 0
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-6
+
+Tomas Canto: rng1 = 13 + 14 - 14 - 1 = 12
+rng2 = 29 + 12 - 15 - 1 = 25
+Groundout
+Team 2 pitcher (River Lawrence): 28 batters faced, 0 runs allowed = 28 + 0.0 = 28.0, outs: 2
+
+base1: false, base2: false, base3: [7,0]
+base1: false, base2: false, base3: true
+Score: 0-6
+
+Rubén Indiano: rng1 = 5 + 14 - 14 - 1 = 4
+Strikeout
+Team 2 pitcher (River Lawrence): 29 batters faced, 0 runs allowed = 29 + 0.0 = 29.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Ige Shukishi
+
+Bailey Myers-Morgan: rng1 = 93 + 8 - 8 + 1 = 94
+rng2 = 42 + 12 - 10 + 1 = 45
+Single
+Team 1 pitcher (Ige Shukishi): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [4,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-6
+
+Casey Myers-Morgan: rng1 = 15 + 7 - 8 + 1 = 15
+rng2 = 56 + 8 - 10 + 1 = 55
+Lineout
+Team 1 pitcher (Ige Shukishi): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [4,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-6
+
+Ari Nikolas: rng1 = 38 + 3 - 8 + 1 = 34
+rng2 = 98 + 9 - 10 + 1 = 98
+Flyout
+Team 1 pitcher (Ige Shukishi): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [4,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-6
+
+Jeremy Webster: rng1 = 67 + 5 - 8 + 1 = 65
+rng2 = 6 + 7 - 10 + 1 = 4
+Groundout
+Team 1 pitcher (Ige Shukishi): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Brady Goodman
+
+Rafael Jideras: rng1 = 49 + 13 - 12 - 1 = 49
+rng2 = 20 + 12 - 15 - 1 = 16
+Groundout
+Team 2 pitcher (Brady Goodman): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Jong Jung-Hwa: rng1 = 50 + 8 - 12 - 1 = 45
+rng2 = 44 + 13 - 15 - 1 = 41
+Groundout
+Team 2 pitcher (Brady Goodman): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Keli Alohilani: rng1 = 28 + 13 - 12 - 1 = 28
+Strikeout
+Team 2 pitcher (Brady Goodman): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 5
+Team 2 hits: 11
+Team 1 runs: 0
+Team 2 runs: 6
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					18-Sep-24
+Tomas Canto	4	0	0	0	0	0	0	0	3					Philadelphia
+Rubén Indiano	4	0	0	0	0	0	0	0	2	
+Rafael Jideras	4	0	0	0	0	0	0	0	1	
+Jong Jung-Hwa	4	0	1	0	0	0	0	0	1	
+Keli Alohilani	4	0	0	0	0	0	0	0	2	
+Andres Fortune	3	0	2	0	0	0	0	0	1	
+Mark White	3	0	1	0	0	0	0	0	1	
+Konner Knight	3	0	1	0	0	0	0	0	0	
+Javier Guillén	2	0	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Peter Nieves	0	1	1	1	0	0	12	6	5	2	1	5	18	
+Steve Randles	0	0	1	0	0	0	3	3	1	0	0	1	6	
+Rolando Maroto	0	0	1	0	0	0	6	1	0	0	0	4	7	
+Ige Shukishi	0	0	1	0	0	0	3	1	0	0	0	0	4	
+Eduardo Elvira	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					18-Sep-24
+Qua'sean Price	4	2	2	0	0	0	0	0	1					Seattle
+Dekion Atkins	4	2	2	0	0	1	2	0	1	
+Joseph Thayer	4	1	2	0	0	1	3	0	2	
+Dushane Rice	4	0	0	0	0	0	0	0	2	
+Bailey Myers-Morgan	4	0	3	0	0	0	1	0	0	
+Casey Myers-Morgan	3	0	0	0	0	0	0	1	1	
+Ari Nikolas	4	0	0	0	0	0	0	0	1	
+Jeremy Webster	4	0	0	0	0	0	0	0	1	
+Drew Nelson	3	1	2	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+River Lawrence	1	0	1	1	0	0	24	5	0	0	0	11	29	
+Brady Goodman	0	0	1	0	0	0	3	0	0	0	0	1	3	
+Calvin Hogan	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Casey M-M	0	0	0	0	0	0	0	0	0	0	0	0	0	
+August Mantilla	0	0	0	0	0	0	0	0	0	0	0	0	0	

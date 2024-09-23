@@ -1,0 +1,716 @@
+TOP INNING 1
+
+Kieran Byrne: rng1 = 17 + 13 - 12 - 1 = 17
+Strikeout
+Team 2 pitcher (Dylan Werth): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Cody Henderson: rng1 = 16 + 12 - 12 - 1 = 15
+rng2 = 21 + 14 - 12 - 1 = 22
+Groundout
+Team 2 pitcher (Dylan Werth): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jadon Mitchell: rng1 = 53 + 12 - 12 - 1 = 52
+rng2 = 38 + 12 - 12 - 1 = 37
+Groundout
+Team 2 pitcher (Dylan Werth): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Finnegan Maxwell: rng1 = 98 + 13 - 10 + 1 = 102
+rng2 = 35 + 14 - 6 + 1 = 44
+Single
+Team 1 pitcher (Valentino Llacer): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Ken McKinney: rng1 = 89 + 7 - 10 + 1 = 87
+Walk
+Team 1 pitcher (Valentino Llacer): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Emiliano Costa: rng1 = 6 + 7 - 10 + 1 = 4
+Strikeout
+Team 1 pitcher (Valentino Llacer): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Angel Gutiérrez: rng1 = 49 + 11 - 10 + 1 = 51
+rng2 = 85 + 15 - 6 + 1 = 95
+Flyout
+Team 1 pitcher (Valentino Llacer): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Alejandro Munoz: rng1 = 92 + 3 - 10 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Valentino Llacer): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: [4,0], base2: [1,0], base3: [0,0]
+base1: true, base2: true, base3: true
+Score: 0-0
+
+Noah Key: rng1 = 6 + 5 - 10 + 1 = 2
+Strikeout
+Team 1 pitcher (Valentino Llacer): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Dante Leoz: rng1 = 48 + 11 - 12 - 1 = 46
+rng2 = 88 + 12 - 12 - 1 = 87
+Flyout
+Team 2 pitcher (Dylan Werth): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Anthony Bennett: rng1 = 42 + 11 - 12 - 1 = 40
+rng2 = 9 + 12 - 12 - 1 = 8
+Groundout
+Team 2 pitcher (Dylan Werth): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Xavier Washington: rng1 = 97 + 12 - 12 - 1 = 96
+rng2 = 26 + 11 - 12 - 1 = 24
+Single
+Team 2 pitcher (Dylan Werth): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Elliot Hudson: rng1 = 39 + 9 - 12 - 1 = 35
+rng2 = 19 + 10 - 12 - 1 = 16
+Groundout
+Team 2 pitcher (Dylan Werth): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Valentino Rubio: rng1 = 98 + 6 - 10 + 1 = 95
+rng2 = 83 + 4 - 6 + 1 = 82
+Home run
+Team 1 pitcher (Valentino Llacer): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Santino Alcantara: rng1 = 14 + 1 - 10 + 1 = 6
+Strikeout
+Team 1 pitcher (Valentino Llacer): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Keylon Wilkins: rng1 = 15 + 1 - 10 + 1 = 7
+Strikeout
+Team 1 pitcher (Valentino Llacer): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Finnegan Maxwell: rng1 = 48 + 13 - 10 + 1 = 52
+rng2 = 95 + 14 - 6 + 1 = 104
+Flyout
+Team 1 pitcher (Valentino Llacer): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 3
+
+Javier Gallardo: rng1 = 44 + 4 - 12 - 1 = 35
+rng2 = 50 + 6 - 12 - 1 = 43
+Groundout
+Team 2 pitcher (Dylan Werth): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Chris Ruiz: rng1 = 18 + 5 - 12 - 1 = 10
+Strikeout
+Team 2 pitcher (Dylan Werth): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Kieran Byrne: rng1 = 37 + 13 - 12 - 1 = 37
+rng2 = 63 + 11 - 12 - 1 = 61
+Flyout
+Team 2 pitcher (Dylan Werth): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Ken McKinney: rng1 = 50 + 7 - 10 + 1 = 48
+rng2 = 10 + 6 - 6 + 1 = 11
+Groundout
+Team 1 pitcher (Valentino Llacer): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Emiliano Costa: rng1 = 54 + 7 - 10 + 1 = 52
+rng2 = 46 + 8 - 6 + 1 = 49
+Lineout
+Team 1 pitcher (Valentino Llacer): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Angel Gutiérrez: rng1 = 51 + 11 - 10 + 1 = 53
+rng2 = 38 + 15 - 6 + 1 = 48
+Lineout
+Team 1 pitcher (Valentino Llacer): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 4
+
+Cody Henderson: rng1 = 87 + 12 - 12 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Dylan Werth): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Jadon Mitchell: rng1 = 92 + 12 - 12 - 1 = 91
+rng2 = 89 + 12 - 12 - 1 = 88
+Double
+Team 2 pitcher (Dylan Werth): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 0
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Dante Leoz: rng1 = 61 + 11 - 12 - 1 = 59
+rng2 = 59 + 12 - 12 - 1 = 58
+Lineout
+Team 2 pitcher (Dylan Werth): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Anthony Bennett: rng1 = 87 + 11 - 12 - 1 = 85
+rng2 = 22 + 12 - 12 - 1 = 21
+Single
+Team 2 pitcher (Dylan Werth): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Xavier Washington: rng1 = 45 + 12 - 12 - 1 = 44
+rng2 = 60 + 11 - 12 - 1 = 58
+Lineout
+Team 2 pitcher (Dylan Werth): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Elliot Hudson: rng1 = 3 + 9 - 12 - 1 = -1
+Strikeout
+Team 2 pitcher (Dylan Werth): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Alejandro Munoz: rng1 = 16 + 3 - 10 + 1 = 10
+Strikeout
+Team 1 pitcher (Valentino Llacer): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Noah Key: rng1 = 98 + 5 - 10 + 1 = 94
+rng2 = 100 + 5 - 6 + 1 = 100
+Home run
+Team 1 pitcher (Valentino Llacer): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Valentino Rubio: rng1 = 10 + 6 - 10 + 1 = 7
+Strikeout
+Team 1 pitcher (Valentino Llacer): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Santino Alcantara: rng1 = 70 + 1 - 10 + 1 = 62
+rng2 = 99 + 7 - 6 + 1 = 101
+Flyout
+Team 1 pitcher (Valentino Llacer): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+TOP INNING 5
+
+Javier Gallardo: rng1 = 24 + 4 - 12 - 1 = 15
+rng2 = 13 + 6 - 12 - 1 = 6
+Groundout
+Team 2 pitcher (Dylan Werth): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Chris Ruiz: rng1 = 37 + 5 - 12 - 1 = 29
+rng2 = 10 + 3 - 12 - 1 = 0
+Groundout
+Team 2 pitcher (Dylan Werth): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Kieran Byrne: rng1 = 24 + 13 - 12 - 1 = 24
+Strikeout
+Team 2 pitcher (Dylan Werth): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+BOTTOM INNING 5
+
+Keylon Wilkins: rng1 = 12 + 1 - 10 + 1 = 4
+Strikeout
+Team 1 pitcher (Valentino Llacer): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Finnegan Maxwell: rng1 = 36 + 13 - 10 + 1 = 40
+rng2 = 100 + 14 - 6 + 1 = 109
+Flyout
+Team 1 pitcher (Valentino Llacer): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Ken McKinney: rng1 = 24 + 7 - 10 + 1 = 22
+Strikeout
+Team 1 pitcher (Valentino Llacer): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+TOP INNING 6
+
+Cody Henderson: rng1 = 69 + 12 - 12 - 1 = 68
+rng2 = 98 + 14 - 12 - 1 = 99
+Flyout
+Team 2 pitcher (Dylan Werth): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Jadon Mitchell: rng1 = 41 + 12 - 12 - 1 = 40
+rng2 = 41 + 12 - 12 - 1 = 40
+Groundout
+Team 2 pitcher (Dylan Werth): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Dante Leoz: rng1 = 74 + 11 - 12 - 1 = 72
+Walk
+Team 2 pitcher (Dylan Werth): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-2
+
+Anthony Bennett: rng1 = 96 + 11 - 12 - 1 = 94
+rng2 = 28 + 12 - 12 - 1 = 27
+Single
+Team 2 pitcher (Dylan Werth): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 2
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-2
+
+Xavier Washington: rng1 = 91 + 12 - 12 - 1 = 90
+Walk
+Team 2 pitcher (Dylan Werth): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 2
+
+base1: [5,0], base2: [4,0], base3: [3,0]
+base1: true, base2: true, base3: true
+Score: 2-2
+
+Elliot Hudson: rng1 = 88 + 9 - 12 - 1 = 84
+rng2 = 50 + 10 - 12 - 1 = 47
+Single
+Team 2 pitcher (Dylan Werth): 25 batters faced, 4 runs allowed = 25 + 10.0 = 35.0, outs: 2
+
+base1: [6,0], base2: false, base3: [5,0]
+base1: true, base2: false, base3: true
+Score: 4-2
+
+Javier Gallardo: rng1 = 6 + 4 - 12 - 1 = -3
+Strikeout
+Team 2 pitcher (Dylan Werth): 26 batters faced, 4 runs allowed = 26 + 10.0 = 36.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-2
+
+-----------------------
+
+BOTTOM INNING 6
+
+Emiliano Costa: rng1 = 12 + 7 - 10 + 1 = 10
+Strikeout
+Team 1 pitcher (Valentino Llacer): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Angel Gutiérrez: rng1 = 87 + 11 - 10 + 1 = 89
+Walk
+Team 1 pitcher (Valentino Llacer): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-2
+
+Alejandro Munoz: rng1 = 56 + 3 - 10 + 1 = 50
+rng2 = 48 + 11 - 6 + 1 = 54
+Lineout
+Team 1 pitcher (Valentino Llacer): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-2
+
+Noah Key: rng1 = 19 + 5 - 10 + 1 = 15
+rng2 = 51 + 5 - 6 + 1 = 51
+Lineout
+Team 1 pitcher (Valentino Llacer): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-2
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Sergio Narvaez
+
+Chris Ruiz: rng1 = 80 + 5 - 12 - 1 = 72
+Walk
+Team 2 pitcher (Sergio Narvaez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-2
+
+Kieran Byrne: rng1 = 38 + 13 - 12 - 1 = 38
+rng2 = 82 + 11 - 13 - 1 = 79
+Flyout
+Team 2 pitcher (Sergio Narvaez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-2
+
+Cody Henderson: rng1 = 39 + 12 - 12 - 1 = 38
+rng2 = 23 + 14 - 13 - 1 = 23
+Groundout
+Team 2 pitcher (Sergio Narvaez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-2
+
+-----------------------
+
+BOTTOM INNING 7
+
+Valentino Rubio: rng1 = 12 + 6 - 10 + 1 = 9
+Strikeout
+Team 1 pitcher (Valentino Llacer): 25 batters faced, 2 runs allowed = 25 + 5.0 = 30.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Santino Alcantara: rng1 = 58 + 1 - 10 + 1 = 50
+rng2 = 44 + 7 - 6 + 1 = 46
+Groundout
+Team 1 pitcher (Valentino Llacer): 26 batters faced, 2 runs allowed = 26 + 5.0 = 31.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Keylon Wilkins: rng1 = 61 + 1 - 10 + 1 = 53
+rng2 = 14 + 6 - 6 + 1 = 15
+Groundout
+Team 1 pitcher (Valentino Llacer): 27 batters faced, 2 runs allowed = 27 + 5.0 = 32.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-2
+
+-----------------------
+
+TOP INNING 8
+
+Jadon Mitchell: rng1 = 42 + 12 - 12 - 1 = 41
+rng2 = 45 + 12 - 13 - 1 = 43
+Groundout
+Team 2 pitcher (Sergio Narvaez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Dante Leoz: rng1 = 81 + 11 - 12 - 1 = 79
+rng2 = 7 + 12 - 13 - 1 = 5
+Single
+Team 2 pitcher (Sergio Narvaez): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-2
+
+Anthony Bennett: rng1 = 50 + 11 - 12 - 1 = 48
+rng2 = 64 + 12 - 13 - 1 = 62
+Flyout
+Team 2 pitcher (Sergio Narvaez): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-2
+
+Xavier Washington: rng1 = 35 + 12 - 12 - 1 = 34
+rng2 = 82 + 11 - 13 - 1 = 79
+Flyout
+Team 2 pitcher (Sergio Narvaez): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-2
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Foster Roebuck
+
+Finnegan Maxwell: rng1 = 51 + 13 - 7 + 1 = 58
+rng2 = 56 + 14 - 6 + 1 = 65
+Flyout
+Team 1 pitcher (Foster Roebuck): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Ken McKinney: rng1 = 14 + 7 - 7 + 1 = 15
+rng2 = 1 + 6 - 6 + 1 = 2
+Groundout
+Team 1 pitcher (Foster Roebuck): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Emiliano Costa: rng1 = 91 + 7 - 7 + 1 = 92
+rng2 = 44 + 8 - 6 + 1 = 47
+Single
+Team 1 pitcher (Foster Roebuck): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-2
+
+Angel Gutiérrez: rng1 = 11 + 11 - 7 + 1 = 16
+Strikeout
+Team 1 pitcher (Foster Roebuck): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-2
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Abel Vera
+
+Elliot Hudson: rng1 = 11 + 9 - 11 - 1 = 8
+Strikeout
+Team 2 pitcher (Abel Vera): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Javier Gallardo: rng1 = 95 + 4 - 11 - 1 = 87
+Walk
+Team 2 pitcher (Abel Vera): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-2
+
+Chris Ruiz: rng1 = 42 + 5 - 11 - 1 = 35
+rng2 = 82 + 3 - 9 - 1 = 75
+Flyout
+Team 2 pitcher (Abel Vera): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-2
+
+Kieran Byrne: rng1 = 2 + 13 - 11 - 1 = 3
+Strikeout
+Team 2 pitcher (Abel Vera): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-2
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Gideon Giles
+
+Alejandro Munoz: rng1 = 65 + 3 - 14 + 1 = 55
+rng2 = 88 + 11 - 15 + 1 = 85
+Flyout
+Team 1 pitcher (Gideon Giles): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Noah Key: rng1 = 72 + 5 - 14 + 1 = 64
+rng2 = 63 + 5 - 15 + 1 = 54
+Lineout
+Team 1 pitcher (Gideon Giles): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Valentino Rubio: rng1 = 44 + 6 - 14 + 1 = 37
+rng2 = 25 + 4 - 15 + 1 = 15
+Groundout
+Team 1 pitcher (Gideon Giles): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-2
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 6
+Team 2 hits: 4
+Team 1 runs: 4
+Team 2 runs: 2
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					23-Sep-24
+Kieran Byrne	5	0	0	0	0	0	0	0	3					Houston
+Cody Henderson	3	1	0	0	0	0	0	0	0	
+Jadon Mitchell	4	1	1	1	0	0	1	0	0	
+Dante Leoz	3	1	1	0	0	0	0	1	0	
+Anthony Bennett	4	1	2	0	0	0	1	0	0	
+Xavier Washington	3	0	1	0	0	0	0	1	0	
+Elliot Hudson	4	0	1	0	0	0	2	0	2	
+Javier Gallardo	3	0	0	0	0	0	0	1	1	
+Chris Ruiz	3	0	0	0	0	0	0	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Valentino Llacer	1	0	1	1	0	0	21	3	2	2	2	10	27	
+Foster Roebuck	0	0	1	0	0	0	3	1	0	0	0	1	4	
+Douglas Bosak	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Craig Valencis	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Gideon Giles	0	0	1	0	1	1	3	0	0	0	0	0	3	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					23-Sep-24
+Finnegan Maxwell	4	0	1	0	0	0	0	0	0					Dallas
+Ken McKinney	3	0	0	0	0	0	0	1	1	
+Emiliano Costa	4	0	1	0	0	0	0	0	2	
+Angel Gutiérrez	3	0	0	0	0	0	0	1	1	
+Alejandro Munoz	3	0	0	0	0	0	0	0	1	
+Noah Key	4	1	1	0	0	1	1	0	1	
+Valentino Rubio	4	1	1	0	0	1	1	0	2	
+Santino Alcantara	3	0	0	0	0	0	0	0	1	
+Keylon Wilkins	3	0	0	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Dylan Werth	0	1	1	1	0	0	18	5	4	0	2	5	26	
+Sergio Narvaez	0	0	1	0	0	0	6	1	0	0	1	0	7	
+Abel Vera	0	0	1	0	0	0	3	0	0	0	1	2	4	
+David Juarez	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Seno Mashiro	0	0	0	0	0	0	0	0	0	0	0	0	0	

@@ -1,0 +1,736 @@
+TOP INNING 1
+
+Isaías Juderías: rng1 = 9 + 14 - 8 - 1 = 14
+rng2 = 75 + 13 - 10 - 1 = 77
+Flyout
+Team 2 pitcher (Yabe Tanjiro): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Sean Lee: rng1 = 87 + 13 - 8 - 1 = 91
+rng2 = 22 + 11 - 10 - 1 = 22
+Single
+Team 2 pitcher (Yabe Tanjiro): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Joshua Cooper: rng1 = 8 + 10 - 8 - 1 = 9
+Strikeout
+Team 2 pitcher (Yabe Tanjiro): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Jaz Eaton: rng1 = 70 + 12 - 8 - 1 = 73
+rng2 = 10 + 14 - 10 - 1 = 13
+Single
+Team 2 pitcher (Yabe Tanjiro): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [3,0], base2: false, base3: [1,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Efraim Agramonte: rng1 = 61 + 8 - 8 - 1 = 60
+rng2 = 74 + 8 - 10 - 1 = 71
+Flyout
+Team 2 pitcher (Yabe Tanjiro): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Lawrence Randolph: rng1 = 9 + 15 - 12 + 1 = 13
+rng2 = 37 + 12 - 13 + 1 = 37
+Groundout
+Team 1 pitcher (A'lamar Rogers): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Dante Arias: rng1 = 61 + 12 - 12 + 1 = 62
+rng2 = 12 + 8 - 13 + 1 = 8
+Groundout
+Team 1 pitcher (A'lamar Rogers): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+George Nagle: rng1 = 89 + 11 - 12 + 1 = 89
+Walk
+Team 1 pitcher (A'lamar Rogers): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Jack Hayes: rng1 = 55 + 9 - 12 + 1 = 53
+rng2 = 9 + 10 - 13 + 1 = 7
+Groundout
+Team 1 pitcher (A'lamar Rogers): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+John Gibson: rng1 = 99 + 8 - 8 - 1 = 98
+rng2 = 4 + 6 - 10 - 1 = -1
+Single
+Team 2 pitcher (Yabe Tanjiro): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+César Botín: rng1 = 86 + 8 - 8 - 1 = 85
+rng2 = 54 + 6 - 10 - 1 = 49
+Single
+Team 2 pitcher (Yabe Tanjiro): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 0
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Anthony Davila: rng1 = 23 + 6 - 8 - 1 = 20
+Strikeout
+Team 2 pitcher (Yabe Tanjiro): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Adrián Noboa: rng1 = 6 + 5 - 8 - 1 = 2
+Strikeout
+Team 2 pitcher (Yabe Tanjiro): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: [6,0], base2: [5,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Isaías Juderías: rng1 = 67 + 14 - 8 - 1 = 72
+Walk
+Team 2 pitcher (Yabe Tanjiro): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: [0,0], base2: [6,0], base3: [5,0]
+base1: true, base2: true, base3: true
+Score: 0-0
+
+Sean Lee: rng1 = 99 + 13 - 8 - 1 = 103
+rng2 = 94 + 11 - 10 - 1 = 94
+Home run
+Team 2 pitcher (Yabe Tanjiro): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Joshua Cooper: rng1 = 15 + 10 - 8 - 1 = 16
+Strikeout
+Team 2 pitcher (Yabe Tanjiro): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Bautista Saelices: rng1 = 62 + 8 - 12 + 1 = 59
+rng2 = 91 + 9 - 13 + 1 = 88
+Flyout
+Team 1 pitcher (A'lamar Rogers): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Noah Fontenot: rng1 = 66 + 11 - 12 + 1 = 66
+rng2 = 16 + 6 - 13 + 1 = 10
+Groundout
+Team 1 pitcher (A'lamar Rogers): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Calder Martin: rng1 = 86 + 7 - 12 + 1 = 82
+rng2 = 45 + 9 - 13 + 1 = 42
+Single
+Team 1 pitcher (A'lamar Rogers): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Orlando Cazalla: rng1 = 56 + 5 - 12 + 1 = 50
+rng2 = 12 + 8 - 13 + 1 = 8
+Groundout
+Team 1 pitcher (A'lamar Rogers): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+TOP INNING 3
+
+Jaz Eaton: rng1 = 7 + 12 - 8 - 1 = 10
+Strikeout
+Team 2 pitcher (Yabe Tanjiro): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Efraim Agramonte: rng1 = 9 + 8 - 8 - 1 = 8
+Strikeout
+Team 2 pitcher (Yabe Tanjiro): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+John Gibson: rng1 = 45 + 8 - 8 - 1 = 44
+rng2 = 67 + 6 - 10 - 1 = 62
+Flyout
+Team 2 pitcher (Yabe Tanjiro): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Sean Watson: rng1 = 51 + 6 - 12 + 1 = 46
+rng2 = 89 + 6 - 13 + 1 = 83
+Flyout
+Team 1 pitcher (A'lamar Rogers): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Lawrence Randolph: rng1 = 71 + 15 - 12 + 1 = 75
+rng2 = 74 + 12 - 13 + 1 = 74
+Double
+Team 1 pitcher (A'lamar Rogers): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-0
+
+Dante Arias: rng1 = 61 + 12 - 12 + 1 = 62
+rng2 = 86 + 8 - 13 + 1 = 82
+Flyout
+Team 1 pitcher (A'lamar Rogers): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 2
+
+base1: false, base2: false, base3: [0,0]
+base1: false, base2: false, base3: true
+Score: 4-0
+
+George Nagle: rng1 = 54 + 11 - 12 + 1 = 54
+rng2 = 40 + 14 - 13 + 1 = 42
+Groundout
+Team 1 pitcher (A'lamar Rogers): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+TOP INNING 4
+
+César Botín: rng1 = 41 + 8 - 8 - 1 = 40
+rng2 = 48 + 6 - 10 - 1 = 43
+Groundout
+Team 2 pitcher (Yabe Tanjiro): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Anthony Davila: rng1 = 67 + 6 - 8 - 1 = 64
+rng2 = 69 + 7 - 10 - 1 = 65
+Flyout
+Team 2 pitcher (Yabe Tanjiro): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Adrián Noboa: rng1 = 75 + 5 - 8 - 1 = 71
+Walk
+Team 2 pitcher (Yabe Tanjiro): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Isaías Juderías: rng1 = 58 + 14 - 8 - 1 = 63
+rng2 = 93 + 13 - 10 - 1 = 95
+Flyout
+Team 2 pitcher (Yabe Tanjiro): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+BOTTOM INNING 4
+
+Jack Hayes: rng1 = 18 + 9 - 12 + 1 = 16
+Strikeout
+Team 1 pitcher (A'lamar Rogers): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Bautista Saelices: rng1 = 84 + 8 - 12 + 1 = 81
+rng2 = 61 + 9 - 13 + 1 = 58
+Single
+Team 1 pitcher (A'lamar Rogers): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+Noah Fontenot: rng1 = 70 + 11 - 12 + 1 = 70
+Walk
+Team 1 pitcher (A'lamar Rogers): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 1
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 4-0
+
+Calder Martin: rng1 = 32 + 7 - 12 + 1 = 28
+Strikeout
+Team 1 pitcher (A'lamar Rogers): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 2
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 4-0
+
+Orlando Cazalla: rng1 = 94 + 5 - 12 + 1 = 88
+Walk
+Team 1 pitcher (A'lamar Rogers): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 2
+
+base1: [7,0], base2: [5,0], base3: [4,0]
+base1: true, base2: true, base3: true
+Score: 4-0
+
+Sean Watson: rng1 = 58 + 6 - 12 + 1 = 53
+rng2 = 49 + 6 - 13 + 1 = 43
+Groundout
+Team 1 pitcher (A'lamar Rogers): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+TOP INNING 5
+
+Team 2 pitcher change to Rodrigo Valerio
+
+Sean Lee: rng1 = 15 + 13 - 7 - 1 = 20
+Strikeout
+Team 2 pitcher (Rodrigo Valerio): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Joshua Cooper: rng1 = 55 + 10 - 7 - 1 = 57
+rng2 = 53 + 1 - 5 - 1 = 48
+Lineout
+Team 2 pitcher (Rodrigo Valerio): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Jaz Eaton: rng1 = 8 + 12 - 7 - 1 = 12
+rng2 = 60 + 14 - 5 - 1 = 68
+Flyout
+Team 2 pitcher (Rodrigo Valerio): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+BOTTOM INNING 5
+
+Lawrence Randolph: rng1 = 62 + 15 - 12 + 1 = 66
+rng2 = 5 + 12 - 13 + 1 = 5
+Groundout
+Team 1 pitcher (A'lamar Rogers): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Dante Arias: rng1 = 58 + 12 - 12 + 1 = 59
+rng2 = 22 + 8 - 13 + 1 = 18
+Groundout
+Team 1 pitcher (A'lamar Rogers): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+George Nagle: rng1 = 44 + 11 - 12 + 1 = 44
+rng2 = 98 + 14 - 13 + 1 = 100
+Flyout
+Team 1 pitcher (A'lamar Rogers): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-0
+
+-----------------------
+
+TOP INNING 6
+
+Efraim Agramonte: rng1 = 9 + 8 - 7 - 1 = 9
+Strikeout
+Team 2 pitcher (Rodrigo Valerio): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+John Gibson: rng1 = 90 + 8 - 7 - 1 = 90
+Walk
+Team 2 pitcher (Rodrigo Valerio): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-0
+
+César Botín: rng1 = 81 + 8 - 7 - 1 = 81
+rng2 = 49 + 6 - 5 - 1 = 49
+Single
+Team 2 pitcher (Rodrigo Valerio): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [6,1], base2: [5,1], base3: false
+base1: true, base2: true, base3: false
+Score: 4-0
+
+Anthony Davila: rng1 = 98 + 6 - 7 - 1 = 96
+rng2 = 94 + 7 - 5 - 1 = 95
+Home run
+Team 2 pitcher (Rodrigo Valerio): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-0
+
+Team 2 pitcher change to Macos Alguacil
+
+Adrián Noboa: rng1 = 15 + 5 - 14 - 1 = 5
+Strikeout
+Team 2 pitcher (Macos Alguacil): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-0
+
+Isaías Juderías: rng1 = 63 + 14 - 14 - 1 = 62
+rng2 = 21 + 13 - 14 - 1 = 19
+Groundout
+Team 2 pitcher (Macos Alguacil): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-0
+
+-----------------------
+
+BOTTOM INNING 6
+
+Jack Hayes: rng1 = 6 + 9 - 12 + 1 = 4
+Strikeout
+Team 1 pitcher (A'lamar Rogers): 22 batters faced, 0 runs allowed = 22 + 0.0 = 22.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-0
+
+Bautista Saelices: rng1 = 29 + 8 - 12 + 1 = 26
+Strikeout
+Team 1 pitcher (A'lamar Rogers): 23 batters faced, 0 runs allowed = 23 + 0.0 = 23.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-0
+
+Noah Fontenot: rng1 = 47 + 11 - 12 + 1 = 47
+rng2 = 76 + 6 - 13 + 1 = 70
+Flyout
+Team 1 pitcher (A'lamar Rogers): 24 batters faced, 0 runs allowed = 24 + 0.0 = 24.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-0
+
+-----------------------
+
+TOP INNING 7
+
+Sean Lee: rng1 = 4 + 13 - 14 - 1 = 2
+Strikeout
+Team 2 pitcher (Macos Alguacil): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-0
+
+Joshua Cooper: rng1 = 85 + 10 - 14 - 1 = 80
+rng2 = 39 + 1 - 14 - 1 = 25
+Single
+Team 2 pitcher (Macos Alguacil): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-0
+
+Jaz Eaton: rng1 = 30 + 12 - 14 - 1 = 27
+Strikeout
+Team 2 pitcher (Macos Alguacil): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: [2,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-0
+
+Efraim Agramonte: rng1 = 68 + 8 - 14 - 1 = 61
+rng2 = 78 + 8 - 14 - 1 = 71
+Flyout
+Team 2 pitcher (Macos Alguacil): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-0
+
+-----------------------
+
+BOTTOM INNING 7
+
+Calder Martin: rng1 = 31 + 7 - 12 + 1 = 27
+Strikeout
+Team 1 pitcher (A'lamar Rogers): 25 batters faced, 0 runs allowed = 25 + 0.0 = 25.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-0
+
+Orlando Cazalla: rng1 = 3 + 5 - 12 + 1 = -3
+Strikeout
+Team 1 pitcher (A'lamar Rogers): 26 batters faced, 0 runs allowed = 26 + 0.0 = 26.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-0
+
+Sean Watson: rng1 = 71 + 6 - 12 + 1 = 66
+rng2 = 14 + 6 - 13 + 1 = 8
+Groundout
+Team 1 pitcher (A'lamar Rogers): 27 batters faced, 0 runs allowed = 27 + 0.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-0
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Edmundo Martínez
+
+John Gibson: rng1 = 8 + 8 - 7 - 1 = 8
+Strikeout
+Team 2 pitcher (Edmundo Martínez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-0
+
+César Botín: rng1 = 52 + 8 - 7 - 1 = 52
+rng2 = 40 + 6 - 6 - 1 = 39
+Groundout
+Team 2 pitcher (Edmundo Martínez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-0
+
+Anthony Davila: rng1 = 48 + 6 - 7 - 1 = 46
+rng2 = 12 + 7 - 6 - 1 = 12
+Groundout
+Team 2 pitcher (Edmundo Martínez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-0
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Kirk Johns
+
+Lawrence Randolph: rng1 = 69 + 15 - 10 + 1 = 75
+rng2 = 15 + 12 - 9 + 1 = 19
+Single
+Team 1 pitcher (Kirk Johns): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-0
+
+Dante Arias: rng1 = 36 + 12 - 10 + 1 = 39
+rng2 = 72 + 8 - 9 + 1 = 72
+Flyout
+Team 1 pitcher (Kirk Johns): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-0
+
+George Nagle: rng1 = 40 + 11 - 10 + 1 = 42
+rng2 = 76 + 14 - 9 + 1 = 82
+Flyout
+Team 1 pitcher (Kirk Johns): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-0
+
+Jack Hayes: rng1 = 63 + 9 - 10 + 1 = 63
+rng2 = 36 + 10 - 9 + 1 = 38
+Groundout
+Team 1 pitcher (Kirk Johns): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-0
+
+-----------------------
+
+TOP INNING 9
+
+Adrián Noboa: rng1 = 87 + 5 - 7 - 1 = 84
+rng2 = 84 + 6 - 6 - 1 = 83
+Home run
+Team 2 pitcher (Edmundo Martínez): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-0
+
+Isaías Juderías: rng1 = 54 + 14 - 7 - 1 = 60
+rng2 = 90 + 13 - 6 - 1 = 96
+Flyout
+Team 2 pitcher (Edmundo Martínez): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-0
+
+Sean Lee: rng1 = 57 + 13 - 7 - 1 = 62
+rng2 = 49 + 11 - 6 - 1 = 53
+Lineout
+Team 2 pitcher (Edmundo Martínez): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-0
+
+Joshua Cooper: rng1 = 10 + 10 - 7 - 1 = 12
+rng2 = 25 + 1 - 6 - 1 = 19
+Groundout
+Team 2 pitcher (Edmundo Martínez): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-0
+
+-----------------------
+
+BOTTOM INNING 9
+
+Bautista Saelices: rng1 = 49 + 8 - 10 + 1 = 48
+rng2 = 24 + 9 - 9 + 1 = 25
+Groundout
+Team 1 pitcher (Kirk Johns): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-0
+
+Noah Fontenot: rng1 = 65 + 11 - 10 + 1 = 67
+rng2 = 69 + 6 - 9 + 1 = 67
+Flyout
+Team 1 pitcher (Kirk Johns): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 8-0
+
+Calder Martin: rng1 = 36 + 7 - 10 + 1 = 34
+rng2 = 67 + 9 - 9 + 1 = 68
+Flyout
+Team 1 pitcher (Kirk Johns): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 8-0
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 9
+Team 2 hits: 4
+Team 1 runs: 8
+Team 2 runs: 0
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					27-Sep-24
+Isaías Juderías	4	1	0	0	0	0	0	1	0					San Francisco
+Sean Lee	5	1	2	0	0	1	4	0	2	
+Joshua Cooper	5	0	1	0	0	0	0	0	2	
+Jaz Eaton	4	0	1	0	0	0	0	0	2	
+Efraim Agramonte	4	0	0	0	0	0	0	0	2	
+John Gibson	3	2	1	0	0	0	0	1	1	
+César Botín	4	2	2	0	0	0	0	0	0	
+Anthony Davila	4	1	1	0	0	1	3	0	1	
+Adrián Noboa	3	1	1	0	0	1	1	1	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+A'lamar Rogers	1	0	1	1	0	0	21	3	0	0	3	6	27	
+Kirk Johns	0	0	1	0	0	0	6	1	0	0	0	0	7	
+Harris Derickson	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Ghalen Fisher	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Iván Curbelo	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					27-Sep-24
+Lawrence Randolph	4	0	2	1	0	0	0	0	0					Las Vegas
+Dante Arias	4	0	0	0	0	0	0	0	0	
+George Nagle	3	0	0	0	0	0	0	1	0	
+Jack Hayes	4	0	0	0	0	0	0	0	2	
+Bautista Saelices	4	0	1	0	0	0	0	0	1	
+Noah Fontenot	3	0	0	0	0	0	0	1	0	
+Calder Martin	4	0	1	0	0	0	0	0	2	
+Orlando Cazalla	2	0	0	0	0	0	0	1	1	
+Sean Watson	3	0	0	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Yabe Tanjiro	0	1	1	1	0	0	12	5	4	1	2	6	19	
+Rodrigo Valerio	0	0	1	0	0	0	4	2	3	1	1	2	7	
+Macos Alguacil	0	0	1	0	0	0	5	1	0	0	0	3	6	
+Edmundo Martínez	0	0	1	0	0	0	6	1	1	1	0	1	7	
+Taylor Murphy	0	0	0	0	0	0	0	0	0	0	0	0	0	

@@ -1,0 +1,744 @@
+TOP INNING 1
+
+Lawrence Randolph: rng1 = 83 + 15 - 11 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Logan Ward): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Dante Arias: rng1 = 88 + 12 - 11 - 1 = 88
+Walk
+Team 2 pitcher (Logan Ward): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+George Nagle: rng1 = 78 + 11 - 11 - 1 = 77
+rng2 = 15 + 14 - 9 - 1 = 19
+Single
+Team 2 pitcher (Logan Ward): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 0
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Jack Hayes: rng1 = 78 + 9 - 11 - 1 = 75
+rng2 = 84 + 10 - 9 - 1 = 84
+Home run
+Team 2 pitcher (Logan Ward): 4 batters faced, 4 runs allowed = 4 + 10.0 = 14.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-0
+
+Bautista Saelices: rng1 = 89 + 8 - 11 - 1 = 85
+rng2 = 73 + 9 - 9 - 1 = 72
+Double
+Team 2 pitcher (Logan Ward): 5 batters faced, 4 runs allowed = 5 + 10.0 = 15.0, outs: 0
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-0
+
+Noah Fontenot: rng1 = 34 + 11 - 11 - 1 = 33
+rng2 = 2 + 6 - 9 - 1 = -2
+Groundout
+Team 2 pitcher (Logan Ward): 6 batters faced, 4 runs allowed = 6 + 10.0 = 16.0, outs: 1
+
+base1: false, base2: false, base3: [4,0]
+base1: false, base2: false, base3: true
+Score: 4-0
+
+Calder Martin: rng1 = 56 + 7 - 11 - 1 = 51
+rng2 = 100 + 9 - 9 - 1 = 99
+Flyout
+Team 2 pitcher (Logan Ward): 7 batters faced, 5 runs allowed = 7 + 12.5 = 19.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Orlando Cazalla: rng1 = 16 + 5 - 11 - 1 = 9
+Strikeout
+Team 2 pitcher (Logan Ward): 8 batters faced, 5 runs allowed = 8 + 12.5 = 20.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Chris Lane: rng1 = 28 + 12 - 12 + 1 = 29
+rng2 = 2 + 14 - 11 + 1 = 6
+Groundout
+Team 1 pitcher (Kyushi Morimoto): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Kim Tae-Woo: rng1 = 42 + 12 - 12 + 1 = 43
+rng2 = 70 + 15 - 11 + 1 = 75
+Flyout
+Team 1 pitcher (Kyushi Morimoto): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Bradley Murphy: rng1 = 89 + 12 - 12 + 1 = 90
+Walk
+Team 1 pitcher (Kyushi Morimoto): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-0
+
+Justus Pate: rng1 = 89 + 9 - 12 + 1 = 87
+Walk
+Team 1 pitcher (Kyushi Morimoto): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 5-0
+
+Koyama Tsuneo: rng1 = 46 + 15 - 12 + 1 = 50
+rng2 = 10 + 12 - 11 + 1 = 12
+Groundout
+Team 1 pitcher (Kyushi Morimoto): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-0
+
+-----------------------
+
+TOP INNING 2
+
+Sean Watson: rng1 = 43 + 6 - 11 - 1 = 37
+rng2 = 5 + 6 - 9 - 1 = 1
+Groundout
+Team 2 pitcher (Logan Ward): 9 batters faced, 5 runs allowed = 9 + 12.5 = 21.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Lawrence Randolph: rng1 = 24 + 15 - 11 - 1 = 27
+Strikeout
+Team 2 pitcher (Logan Ward): 10 batters faced, 5 runs allowed = 10 + 12.5 = 22.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Dante Arias: rng1 = 78 + 12 - 11 - 1 = 78
+rng2 = 33 + 8 - 9 - 1 = 31
+Single
+Team 2 pitcher (Logan Ward): 11 batters faced, 5 runs allowed = 11 + 12.5 = 23.5, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-0
+
+George Nagle: rng1 = 49 + 11 - 11 - 1 = 48
+rng2 = 92 + 14 - 9 - 1 = 96
+Flyout
+Team 2 pitcher (Logan Ward): 12 batters faced, 5 runs allowed = 12 + 12.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Leonardo Nunez: rng1 = 3 + 8 - 12 + 1 = 0
+Strikeout
+Team 1 pitcher (Kyushi Morimoto): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Charles Harris: rng1 = 9 + 6 - 12 + 1 = 4
+Strikeout
+Team 1 pitcher (Kyushi Morimoto): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Jeronimo Maldonado: rng1 = 54 + 6 - 12 + 1 = 49
+rng2 = 54 + 7 - 11 + 1 = 51
+Lineout
+Team 1 pitcher (Kyushi Morimoto): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-0
+
+-----------------------
+
+TOP INNING 3
+
+Jack Hayes: rng1 = 87 + 9 - 11 - 1 = 84
+rng2 = 28 + 10 - 9 - 1 = 28
+Single
+Team 2 pitcher (Logan Ward): 13 batters faced, 5 runs allowed = 13 + 12.5 = 25.5, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-0
+
+Bautista Saelices: rng1 = 17 + 8 - 11 - 1 = 13
+rng2 = 57 + 9 - 9 - 1 = 56
+Lineout
+Team 2 pitcher (Logan Ward): 14 batters faced, 5 runs allowed = 14 + 12.5 = 26.5, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-0
+
+Noah Fontenot: rng1 = 24 + 11 - 11 - 1 = 23
+Strikeout
+Team 2 pitcher (Logan Ward): 15 batters faced, 5 runs allowed = 15 + 12.5 = 27.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-0
+
+Calder Martin: rng1 = 94 + 7 - 11 - 1 = 89
+Walk
+Team 2 pitcher (Logan Ward): 16 batters faced, 5 runs allowed = 16 + 12.5 = 28.5, outs: 2
+
+base1: [6,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 5-0
+
+Orlando Cazalla: rng1 = 42 + 5 - 11 - 1 = 35
+rng2 = 81 + 8 - 9 - 1 = 79
+Flyout
+Team 2 pitcher (Logan Ward): 17 batters faced, 5 runs allowed = 17 + 12.5 = 29.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Jerome Goodwin: rng1 = 47 + 7 - 12 + 1 = 43
+rng2 = 73 + 5 - 11 + 1 = 68
+Flyout
+Team 1 pitcher (Kyushi Morimoto): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Chris Lane: rng1 = 60 + 12 - 12 + 1 = 61
+rng2 = 54 + 14 - 11 + 1 = 58
+Lineout
+Team 1 pitcher (Kyushi Morimoto): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Kim Tae-Woo: rng1 = 15 + 12 - 12 + 1 = 16
+Strikeout
+Team 1 pitcher (Kyushi Morimoto): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-0
+
+-----------------------
+
+TOP INNING 4
+
+Sean Watson: rng1 = 17 + 6 - 11 - 1 = 11
+rng2 = 77 + 6 - 9 - 1 = 73
+Flyout
+Team 2 pitcher (Logan Ward): 18 batters faced, 5 runs allowed = 18 + 12.5 = 30.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Lawrence Randolph: rng1 = 28 + 15 - 11 - 1 = 31
+rng2 = 44 + 12 - 9 - 1 = 46
+Groundout
+Team 2 pitcher (Logan Ward): 19 batters faced, 5 runs allowed = 19 + 12.5 = 31.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Dante Arias: rng1 = 93 + 12 - 11 - 1 = 93
+rng2 = 12 + 8 - 9 - 1 = 10
+Single
+Team 2 pitcher (Logan Ward): 20 batters faced, 5 runs allowed = 20 + 12.5 = 32.5, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-0
+
+George Nagle: rng1 = 39 + 11 - 11 - 1 = 38
+rng2 = 100 + 14 - 9 - 1 = 104
+Flyout
+Team 2 pitcher (Logan Ward): 21 batters faced, 5 runs allowed = 21 + 12.5 = 33.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-0
+
+-----------------------
+
+BOTTOM INNING 4
+
+Bradley Murphy: rng1 = 82 + 12 - 12 + 1 = 83
+rng2 = 45 + 11 - 11 + 1 = 46
+Single
+Team 1 pitcher (Kyushi Morimoto): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 0
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-0
+
+Justus Pate: rng1 = 4 + 9 - 12 + 1 = 2
+Strikeout
+Team 1 pitcher (Kyushi Morimoto): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-0
+
+Koyama Tsuneo: rng1 = 41 + 15 - 12 + 1 = 45
+rng2 = 48 + 12 - 11 + 1 = 50
+Lineout
+Team 1 pitcher (Kyushi Morimoto): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-0
+
+Leonardo Nunez: rng1 = 76 + 8 - 12 + 1 = 73
+rng2 = 7 + 8 - 11 + 1 = 5
+Single
+Team 1 pitcher (Kyushi Morimoto): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 2
+
+base1: [5,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 5-0
+
+Charles Harris: rng1 = 26 + 6 - 12 + 1 = 21
+Strikeout
+Team 1 pitcher (Kyushi Morimoto): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-0
+
+-----------------------
+
+TOP INNING 5
+
+Team 2 pitcher change to Pierre Leblanc
+
+Jack Hayes: rng1 = 43 + 9 - 8 - 1 = 43
+rng2 = 60 + 10 - 8 - 1 = 61
+Flyout
+Team 2 pitcher (Pierre Leblanc): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Bautista Saelices: rng1 = 93 + 8 - 8 - 1 = 92
+rng2 = 21 + 9 - 8 - 1 = 21
+Single
+Team 2 pitcher (Pierre Leblanc): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-0
+
+Noah Fontenot: rng1 = 17 + 11 - 8 - 1 = 19
+Strikeout
+Team 2 pitcher (Pierre Leblanc): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-0
+
+Calder Martin: rng1 = 87 + 7 - 8 - 1 = 85
+rng2 = 52 + 9 - 8 - 1 = 52
+Single
+Team 2 pitcher (Pierre Leblanc): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [6,1], base2: false, base3: [4,1]
+base1: true, base2: false, base3: true
+Score: 5-0
+
+Orlando Cazalla: rng1 = 15 + 5 - 8 - 1 = 11
+rng2 = 49 + 8 - 8 - 1 = 48
+Lineout
+Team 2 pitcher (Pierre Leblanc): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-0
+
+-----------------------
+
+BOTTOM INNING 5
+
+Jeronimo Maldonado: rng1 = 69 + 6 - 12 + 1 = 64
+rng2 = 39 + 7 - 11 + 1 = 36
+Groundout
+Team 1 pitcher (Kyushi Morimoto): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Jerome Goodwin: rng1 = 18 + 7 - 12 + 1 = 14
+rng2 = 92 + 5 - 11 + 1 = 87
+Flyout
+Team 1 pitcher (Kyushi Morimoto): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Chris Lane: rng1 = 99 + 12 - 12 + 1 = 100
+rng2 = 88 + 14 - 11 + 1 = 92
+Double
+Team 1 pitcher (Kyushi Morimoto): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 5-0
+
+Kim Tae-Woo: rng1 = 82 + 12 - 12 + 1 = 83
+rng2 = 19 + 15 - 11 + 1 = 24
+Single
+Team 1 pitcher (Kyushi Morimoto): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 2
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 5-0
+
+Bradley Murphy: rng1 = 13 + 12 - 12 + 1 = 14
+rng2 = 74 + 11 - 11 + 1 = 75
+Flyout
+Team 1 pitcher (Kyushi Morimoto): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-0
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Bravon McDaniel
+
+Sean Watson: rng1 = 81 + 6 - 11 - 1 = 75
+rng2 = 34 + 6 - 11 - 1 = 28
+Single
+Team 2 pitcher (Bravon McDaniel): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-0
+
+Lawrence Randolph: rng1 = 47 + 15 - 11 - 1 = 50
+rng2 = 46 + 12 - 11 - 1 = 46
+Groundout
+Team 2 pitcher (Bravon McDaniel): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [8,2], base3: false
+base1: false, base2: true, base3: false
+Score: 5-0
+
+Dante Arias: rng1 = 65 + 12 - 11 - 1 = 65
+rng2 = 6 + 8 - 11 - 1 = 2
+Groundout
+Team 2 pitcher (Bravon McDaniel): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [8,2], base3: false
+base1: false, base2: true, base3: false
+Score: 5-0
+
+George Nagle: rng1 = 32 + 11 - 11 - 1 = 31
+rng2 = 68 + 14 - 11 - 1 = 70
+Flyout
+Team 2 pitcher (Bravon McDaniel): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-0
+
+-----------------------
+
+BOTTOM INNING 6
+
+Justus Pate: rng1 = 87 + 9 - 12 + 1 = 85
+rng2 = 9 + 12 - 11 + 1 = 11
+Single
+Team 1 pitcher (Kyushi Morimoto): 22 batters faced, 0 runs allowed = 22 + 0.0 = 22.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-0
+
+Koyama Tsuneo: rng1 = 4 + 15 - 12 + 1 = 8
+Strikeout
+Team 1 pitcher (Kyushi Morimoto): 23 batters faced, 0 runs allowed = 23 + 0.0 = 23.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-0
+
+Leonardo Nunez: rng1 = 25 + 8 - 12 + 1 = 22
+Strikeout
+Team 1 pitcher (Kyushi Morimoto): 24 batters faced, 0 runs allowed = 24 + 0.0 = 24.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-0
+
+Charles Harris: rng1 = 58 + 6 - 12 + 1 = 53
+rng2 = 10 + 8 - 11 + 1 = 8
+Groundout
+Team 1 pitcher (Kyushi Morimoto): 25 batters faced, 0 runs allowed = 25 + 0.0 = 25.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-0
+
+-----------------------
+
+TOP INNING 7
+
+Jack Hayes: rng1 = 20 + 9 - 11 - 1 = 17
+Strikeout
+Team 2 pitcher (Bravon McDaniel): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Bautista Saelices: rng1 = 34 + 8 - 11 - 1 = 30
+rng2 = 28 + 9 - 11 - 1 = 25
+Groundout
+Team 2 pitcher (Bravon McDaniel): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Noah Fontenot: rng1 = 47 + 11 - 11 - 1 = 46
+rng2 = 73 + 6 - 11 - 1 = 67
+Flyout
+Team 2 pitcher (Bravon McDaniel): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-0
+
+-----------------------
+
+BOTTOM INNING 7
+
+Jeronimo Maldonado: rng1 = 2 + 6 - 12 + 1 = -3
+Strikeout
+Team 1 pitcher (Kyushi Morimoto): 26 batters faced, 0 runs allowed = 26 + 0.0 = 26.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Jerome Goodwin: rng1 = 29 + 7 - 12 + 1 = 25
+Strikeout
+Team 1 pitcher (Kyushi Morimoto): 27 batters faced, 0 runs allowed = 27 + 0.0 = 27.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Chris Lane: rng1 = 33 + 12 - 12 + 1 = 34
+rng2 = 72 + 14 - 11 + 1 = 76
+Flyout
+Team 1 pitcher (Kyushi Morimoto): 28 batters faced, 0 runs allowed = 28 + 0.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-0
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Logan Rogers
+
+Calder Martin: rng1 = 9 + 7 - 10 - 1 = 5
+Strikeout
+Team 2 pitcher (Logan Rogers): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Orlando Cazalla: rng1 = 39 + 5 - 10 - 1 = 33
+rng2 = 9 + 8 - 8 - 1 = 8
+Groundout
+Team 2 pitcher (Logan Rogers): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Sean Watson: rng1 = 3 + 6 - 10 - 1 = -2
+Strikeout
+Team 2 pitcher (Logan Rogers): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-0
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Rodrigo Valerio
+
+Kim Tae-Woo: rng1 = 83 + 12 - 7 + 1 = 89
+Walk
+Team 1 pitcher (Rodrigo Valerio): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [1,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 5-0
+
+Bradley Murphy: rng1 = 48 + 12 - 7 + 1 = 54
+rng2 = 29 + 11 - 5 + 1 = 36
+Groundout
+Team 1 pitcher (Rodrigo Valerio): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Justus Pate: rng1 = 30 + 9 - 7 + 1 = 33
+rng2 = 2 + 12 - 5 + 1 = 10
+Groundout
+Team 1 pitcher (Rodrigo Valerio): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-0
+
+-----------------------
+
+TOP INNING 9
+
+Lawrence Randolph: rng1 = 51 + 15 - 10 - 1 = 55
+rng2 = 35 + 12 - 8 - 1 = 38
+Groundout
+Team 2 pitcher (Logan Rogers): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+Dante Arias: rng1 = 38 + 12 - 10 - 1 = 39
+rng2 = 62 + 8 - 8 - 1 = 61
+Flyout
+Team 2 pitcher (Logan Rogers): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-0
+
+George Nagle: rng1 = 38 + 11 - 10 - 1 = 38
+rng2 = 14 + 14 - 8 - 1 = 19
+Groundout
+Team 2 pitcher (Logan Rogers): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-0
+
+-----------------------
+
+BOTTOM INNING 9
+
+Koyama Tsuneo: rng1 = 72 + 15 - 7 + 1 = 81
+rng2 = 64 + 12 - 5 + 1 = 72
+Double
+Team 1 pitcher (Rodrigo Valerio): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: false, base2: [4,1], base3: false
+base1: false, base2: true, base3: false
+Score: 5-0
+
+Leonardo Nunez: rng1 = 25 + 8 - 7 + 1 = 27
+Strikeout
+Team 1 pitcher (Rodrigo Valerio): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: [4,1], base3: false
+base1: false, base2: true, base3: false
+Score: 5-0
+
+Charles Harris: rng1 = 27 + 6 - 7 + 1 = 27
+Strikeout
+Team 1 pitcher (Rodrigo Valerio): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: [4,1], base3: false
+base1: false, base2: true, base3: false
+Score: 5-0
+
+Jeronimo Maldonado: rng1 = 20 + 6 - 7 + 1 = 20
+Strikeout
+Team 1 pitcher (Rodrigo Valerio): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-0
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 9
+Team 2 hits: 6
+Team 1 runs: 5
+Team 2 runs: 0
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					3-Oct-24
+Lawrence Randolph	4	1	0	0	0	0	0	0	1					Las Vegas
+Dante Arias	4	1	2	0	0	0	0	1	0	
+George Nagle	5	1	1	0	0	0	1	0	0	
+Jack Hayes	4	1	2	0	0	1	3	0	1	
+Bautista Saelices	4	1	2	1	0	0	0	0	0	
+Noah Fontenot	4	0	0	0	0	0	0	0	2	
+Calder Martin	3	0	1	0	0	0	1	1	1	
+Orlando Cazalla	4	0	0	0	0	0	0	0	1	
+Sean Watson	4	0	1	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Kyushi Morimoto	1	0	1	1	0	0	21	5	0	0	2	9	28	
+Rodrigo Valerio	0	0	1	0	0	0	6	1	0	0	1	3	7	
+Macos Alguacil	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Edmundo Martínez	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Taylor Murphy	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					3-Oct-24
+Chris Lane	4	0	1	1	0	0	0	0	0					Tampa Bay
+Kim Tae-Woo	3	0	1	0	0	0	0	1	1	
+Bradley Murphy	3	0	1	0	0	0	0	1	0	
+Justus Pate	3	0	1	0	0	0	0	1	1	
+Koyama Tsuneo	4	0	1	1	0	0	0	0	1	
+Leonardo Nunez	4	0	1	0	0	0	0	0	3	
+Charles Harris	4	0	0	0	0	0	0	0	3	
+Jeronimo Maldonado	4	0	0	0	0	0	0	0	2	
+Jerome Goodwin	3	0	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Logan Ward	0	1	1	1	0	0	12	6	5	1	2	3	21	
+Pierre Leblanc	0	0	1	0	0	0	3	2	0	0	0	1	5	
+Bravon McDaniel	0	0	1	0	0	0	6	1	0	0	0	1	7	
+Logan Rogers	0	0	1	0	0	0	6	0	0	0	0	2	6	
+William Sheppard	0	0	0	0	0	0	0	0	0	0	0	0	0	

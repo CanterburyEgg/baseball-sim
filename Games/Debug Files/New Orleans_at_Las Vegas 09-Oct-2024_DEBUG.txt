@@ -1,0 +1,851 @@
+TOP INNING 1
+
+Juan Manzanares: rng1 = 5 + 15 - 13 - 1 = 6
+Strikeout
+Team 2 pitcher (Jordan Burns): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Edmundo Pousa: rng1 = 22 + 15 - 13 - 1 = 23
+Strikeout
+Team 2 pitcher (Jordan Burns): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Byron Bartlett: rng1 = 1 + 13 - 13 - 1 = 0
+Strikeout
+Team 2 pitcher (Jordan Burns): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Lawrence Randolph: rng1 = 51 + 15 - 15 + 1 = 52
+rng2 = 33 + 12 - 14 + 1 = 32
+Groundout
+Team 1 pitcher (Ahmad Key): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Dante Arias: rng1 = 40 + 12 - 15 + 1 = 38
+rng2 = 41 + 8 - 14 + 1 = 36
+Groundout
+Team 1 pitcher (Ahmad Key): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+George Nagle: rng1 = 85 + 11 - 15 + 1 = 82
+rng2 = 43 + 14 - 14 + 1 = 44
+Single
+Team 1 pitcher (Ahmad Key): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Jack Hayes: rng1 = 98 + 9 - 15 + 1 = 93
+rng2 = 70 + 10 - 14 + 1 = 67
+Double
+Team 1 pitcher (Ahmad Key): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: [3,0], base3: [2,0]
+base1: false, base2: true, base3: true
+Score: 0-0
+
+Bautista Saelices: rng1 = 82 + 8 - 15 + 1 = 76
+rng2 = 44 + 9 - 14 + 1 = 40
+Single
+Team 1 pitcher (Ahmad Key): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [4,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 0-1
+
+Noah Fontenot: rng1 = 51 + 11 - 15 + 1 = 48
+rng2 = 39 + 6 - 14 + 1 = 32
+Groundout
+Team 1 pitcher (Ahmad Key): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 2
+
+Arturo Bellamy: rng1 = 85 + 14 - 13 - 1 = 85
+rng2 = 29 + 14 - 12 - 1 = 30
+Single
+Team 2 pitcher (Jordan Burns): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Chris Barber: rng1 = 81 + 8 - 13 - 1 = 75
+rng2 = 21 + 8 - 12 - 1 = 16
+Single
+Team 2 pitcher (Jordan Burns): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [4,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 0-1
+
+Darren Adams: rng1 = 44 + 4 - 13 - 1 = 34
+rng2 = 19 + 9 - 12 - 1 = 15
+Groundout
+Team 2 pitcher (Jordan Burns): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Terryl Maxwell: rng1 = 83 + 1 - 13 - 1 = 70
+Walk
+Team 2 pitcher (Jordan Burns): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: [6,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Alejandro López: rng1 = 12 + 5 - 13 - 1 = 3
+Strikeout
+Team 2 pitcher (Jordan Burns): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [6,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Marcos Gilabert: rng1 = 71 + 5 - 13 - 1 = 62
+rng2 = 76 + 5 - 12 - 1 = 68
+Flyout
+Team 2 pitcher (Jordan Burns): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Calder Martin: rng1 = 15 + 7 - 15 + 1 = 8
+Strikeout
+Team 1 pitcher (Ahmad Key): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Orlando Cazalla: rng1 = 21 + 5 - 15 + 1 = 12
+rng2 = 32 + 8 - 14 + 1 = 27
+Groundout
+Team 1 pitcher (Ahmad Key): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Sean Watson: rng1 = 26 + 6 - 15 + 1 = 18
+Strikeout
+Team 1 pitcher (Ahmad Key): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 3
+
+Juan Manzanares: rng1 = 16 + 15 - 13 - 1 = 17
+Strikeout
+Team 2 pitcher (Jordan Burns): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Edmundo Pousa: rng1 = 66 + 15 - 13 - 1 = 67
+rng2 = 45 + 10 - 12 - 1 = 42
+Groundout
+Team 2 pitcher (Jordan Burns): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Byron Bartlett: rng1 = 91 + 13 - 13 - 1 = 90
+Walk
+Team 2 pitcher (Jordan Burns): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Arturo Bellamy: rng1 = 41 + 14 - 13 - 1 = 41
+rng2 = 73 + 14 - 12 - 1 = 74
+Flyout
+Team 2 pitcher (Jordan Burns): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Lawrence Randolph: rng1 = 63 + 15 - 15 + 1 = 64
+rng2 = 99 + 12 - 14 + 1 = 98
+Flyout
+Team 1 pitcher (Ahmad Key): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Dante Arias: rng1 = 51 + 12 - 15 + 1 = 49
+rng2 = 56 + 8 - 14 + 1 = 51
+Lineout
+Team 1 pitcher (Ahmad Key): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+George Nagle: rng1 = 53 + 11 - 15 + 1 = 50
+rng2 = 80 + 14 - 14 + 1 = 81
+Flyout
+Team 1 pitcher (Ahmad Key): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 4
+
+Chris Barber: rng1 = 40 + 8 - 13 - 1 = 34
+rng2 = 10 + 8 - 12 - 1 = 5
+Groundout
+Team 2 pitcher (Jordan Burns): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Darren Adams: rng1 = 43 + 4 - 13 - 1 = 33
+rng2 = 20 + 9 - 12 - 1 = 16
+Groundout
+Team 2 pitcher (Jordan Burns): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Terryl Maxwell: rng1 = 96 + 1 - 13 - 1 = 83
+rng2 = 10 + 11 - 12 - 1 = 8
+Single
+Team 2 pitcher (Jordan Burns): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Alejandro López: rng1 = 39 + 5 - 13 - 1 = 30
+rng2 = 82 + 5 - 12 - 1 = 74
+Flyout
+Team 2 pitcher (Jordan Burns): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Jack Hayes: rng1 = 73 + 9 - 15 + 1 = 68
+rng2 = 90 + 10 - 14 + 1 = 87
+Flyout
+Team 1 pitcher (Ahmad Key): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Bautista Saelices: rng1 = 29 + 8 - 15 + 1 = 23
+Strikeout
+Team 1 pitcher (Ahmad Key): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Noah Fontenot: rng1 = 39 + 11 - 15 + 1 = 36
+rng2 = 49 + 6 - 14 + 1 = 42
+Groundout
+Team 1 pitcher (Ahmad Key): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 5
+
+Marcos Gilabert: rng1 = 1 + 5 - 13 - 1 = -8
+Strikeout
+Team 2 pitcher (Jordan Burns): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Juan Manzanares: rng1 = 50 + 15 - 13 - 1 = 51
+rng2 = 97 + 11 - 12 - 1 = 95
+Flyout
+Team 2 pitcher (Jordan Burns): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Edmundo Pousa: rng1 = 91 + 15 - 13 - 1 = 92
+rng2 = 77 + 10 - 12 - 1 = 74
+Double
+Team 2 pitcher (Jordan Burns): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Byron Bartlett: rng1 = 37 + 13 - 13 - 1 = 36
+rng2 = 37 + 10 - 12 - 1 = 34
+Groundout
+Team 2 pitcher (Jordan Burns): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 5
+
+Calder Martin: rng1 = 82 + 7 - 15 + 1 = 75
+rng2 = 16 + 9 - 14 + 1 = 12
+Single
+Team 1 pitcher (Ahmad Key): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Orlando Cazalla: rng1 = 25 + 5 - 15 + 1 = 16
+Strikeout
+Team 1 pitcher (Ahmad Key): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Sean Watson: rng1 = 49 + 6 - 15 + 1 = 41
+rng2 = 34 + 6 - 14 + 1 = 27
+Groundout
+Team 1 pitcher (Ahmad Key): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Lawrence Randolph: rng1 = 73 + 15 - 15 + 1 = 74
+rng2 = 35 + 12 - 14 + 1 = 34
+Single
+Team 1 pitcher (Ahmad Key): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 2
+
+base1: [0,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 1-1
+
+Dante Arias: rng1 = 78 + 12 - 15 + 1 = 76
+rng2 = 73 + 8 - 14 + 1 = 68
+Double
+Team 1 pitcher (Ahmad Key): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 2
+
+base1: false, base2: [1,0], base3: [0,0]
+base1: false, base2: true, base3: true
+Score: 1-2
+
+George Nagle: rng1 = 60 + 11 - 15 + 1 = 57
+rng2 = 94 + 14 - 14 + 1 = 95
+Flyout
+Team 1 pitcher (Ahmad Key): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 6
+
+Arturo Bellamy: rng1 = 6 + 14 - 13 - 1 = 6
+Strikeout
+Team 2 pitcher (Jordan Burns): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Chris Barber: rng1 = 82 + 8 - 13 - 1 = 76
+rng2 = 96 + 8 - 12 - 1 = 91
+Double
+Team 2 pitcher (Jordan Burns): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 1
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-2
+
+Darren Adams: rng1 = 25 + 4 - 13 - 1 = 15
+rng2 = 51 + 9 - 12 - 1 = 47
+Groundout
+Team 2 pitcher (Jordan Burns): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 2
+
+base1: false, base2: false, base3: [4,0]
+base1: false, base2: false, base3: true
+Score: 1-2
+
+Terryl Maxwell: rng1 = 59 + 1 - 13 - 1 = 46
+rng2 = 90 + 11 - 12 - 1 = 88
+Flyout
+Team 2 pitcher (Jordan Burns): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 6
+
+Jack Hayes: rng1 = 88 + 9 - 15 + 1 = 83
+rng2 = 66 + 10 - 14 + 1 = 63
+Single
+Team 1 pitcher (Ahmad Key): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Bautista Saelices: rng1 = 93 + 8 - 15 + 1 = 87
+Walk
+Team 1 pitcher (Ahmad Key): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 0
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-2
+
+Noah Fontenot: rng1 = 37 + 11 - 15 + 1 = 34
+rng2 = 93 + 6 - 14 + 1 = 86
+Flyout
+Team 1 pitcher (Ahmad Key): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 1
+
+base1: [4,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 1-2
+
+Calder Martin: rng1 = 28 + 7 - 15 + 1 = 21
+Strikeout
+Team 1 pitcher (Ahmad Key): 25 batters faced, 2 runs allowed = 25 + 5.0 = 30.0, outs: 2
+
+base1: [4,0], base2: false, base3: [3,0]
+base1: true, base2: false, base3: true
+Score: 1-2
+
+Orlando Cazalla: rng1 = 53 + 5 - 15 + 1 = 44
+rng2 = 11 + 8 - 14 + 1 = 6
+Groundout
+Team 1 pitcher (Ahmad Key): 26 batters faced, 2 runs allowed = 26 + 5.0 = 31.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Macos Alguacil
+
+Alejandro López: rng1 = 19 + 5 - 14 - 1 = 9
+Strikeout
+Team 2 pitcher (Macos Alguacil): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Marcos Gilabert: rng1 = 23 + 5 - 14 - 1 = 13
+rng2 = 84 + 5 - 14 - 1 = 74
+Flyout
+Team 2 pitcher (Macos Alguacil): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Juan Manzanares: rng1 = 57 + 15 - 14 - 1 = 57
+rng2 = 22 + 11 - 14 - 1 = 18
+Groundout
+Team 2 pitcher (Macos Alguacil): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Ryu Shi-Woo
+
+Sean Watson: rng1 = 10 + 6 - 8 + 1 = 9
+Strikeout
+Team 1 pitcher (Ryu Shi-Woo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Lawrence Randolph: rng1 = 70 + 15 - 8 + 1 = 78
+rng2 = 41 + 12 - 8 + 1 = 46
+Single
+Team 1 pitcher (Ryu Shi-Woo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Dante Arias: rng1 = 78 + 12 - 8 + 1 = 83
+rng2 = 12 + 8 - 8 + 1 = 13
+Single
+Team 1 pitcher (Ryu Shi-Woo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [1,1], base2: [0,1], base3: false
+base1: true, base2: true, base3: false
+Score: 1-2
+
+George Nagle: rng1 = 87 + 11 - 8 + 1 = 91
+rng2 = 43 + 14 - 8 + 1 = 50
+Single
+Team 1 pitcher (Ryu Shi-Woo): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [2,1], base2: [1,1], base3: false
+base1: true, base2: true, base3: false
+Score: 1-3
+
+Jack Hayes: rng1 = 63 + 9 - 8 + 1 = 65
+rng2 = 91 + 10 - 8 + 1 = 94
+Flyout
+Team 1 pitcher (Ryu Shi-Woo): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [2,1], base2: [1,1], base3: false
+base1: true, base2: true, base3: false
+Score: 1-3
+
+Bautista Saelices: rng1 = 48 + 8 - 8 + 1 = 49
+rng2 = 75 + 9 - 8 + 1 = 77
+Flyout
+Team 1 pitcher (Ryu Shi-Woo): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 8
+
+Edmundo Pousa: rng1 = 10 + 15 - 14 - 1 = 10
+Strikeout
+Team 2 pitcher (Macos Alguacil): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Byron Bartlett: rng1 = 23 + 13 - 14 - 1 = 21
+Strikeout
+Team 2 pitcher (Macos Alguacil): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Arturo Bellamy: rng1 = 20 + 14 - 14 - 1 = 19
+Strikeout
+Team 2 pitcher (Macos Alguacil): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Phil Segee
+
+Noah Fontenot: rng1 = 86 + 11 - 10 + 1 = 88
+Walk
+Team 1 pitcher (Phil Segee): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Calder Martin: rng1 = 7 + 7 - 10 + 1 = 5
+Strikeout
+Team 1 pitcher (Phil Segee): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Orlando Cazalla: rng1 = 42 + 5 - 10 + 1 = 38
+rng2 = 53 + 8 - 9 + 1 = 53
+Lineout
+Team 1 pitcher (Phil Segee): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [5,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Sean Watson: rng1 = 11 + 6 - 10 + 1 = 8
+Strikeout
+Team 1 pitcher (Phil Segee): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Taylor Murphy
+
+Chris Barber: rng1 = 21 + 8 - 15 - 1 = 13
+rng2 = 75 + 8 - 15 - 1 = 67
+Flyout
+Team 2 pitcher (Taylor Murphy): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Darren Adams: rng1 = 100 + 4 - 15 - 1 = 88
+Walk
+Team 2 pitcher (Taylor Murphy): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [5,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Terryl Maxwell: rng1 = 56 + 1 - 15 - 1 = 41
+rng2 = 82 + 11 - 15 - 1 = 77
+Flyout
+Team 2 pitcher (Taylor Murphy): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [5,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Alejandro López: rng1 = 87 + 5 - 15 - 1 = 76
+rng2 = 95 + 5 - 15 - 1 = 84
+Home run
+Team 2 pitcher (Taylor Murphy): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Marcos Gilabert: rng1 = 34 + 5 - 15 - 1 = 23
+Strikeout
+Team 2 pitcher (Taylor Murphy): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+BOTTOM INNING 9
+
+Lawrence Randolph: rng1 = 13 + 15 - 10 + 1 = 19
+Strikeout
+Team 1 pitcher (Phil Segee): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Dante Arias: rng1 = 30 + 12 - 10 + 1 = 33
+rng2 = 96 + 8 - 9 + 1 = 96
+Flyout
+Team 1 pitcher (Phil Segee): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+George Nagle: rng1 = 31 + 11 - 10 + 1 = 33
+rng2 = 34 + 14 - 9 + 1 = 40
+Groundout
+Team 1 pitcher (Phil Segee): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+TOP INNING 10
+
+Team 2 pitcher change to Edmundo Martínez
+
+Juan Manzanares: rng1 = 85 + 15 - 7 - 1 = 92
+rng2 = 77 + 11 - 6 - 1 = 81
+Home run
+Team 2 pitcher (Edmundo Martínez): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Edmundo Pousa: rng1 = 74 + 15 - 7 - 1 = 81
+rng2 = 58 + 10 - 6 - 1 = 61
+Single
+Team 2 pitcher (Edmundo Martínez): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Byron Bartlett: rng1 = 38 + 13 - 7 - 1 = 43
+rng2 = 43 + 10 - 6 - 1 = 46
+Groundout
+Team 2 pitcher (Edmundo Martínez): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [1,2], base3: false
+base1: false, base2: true, base3: false
+Score: 4-3
+
+Arturo Bellamy: rng1 = 99 + 14 - 7 - 1 = 105
+rng2 = 36 + 14 - 6 - 1 = 43
+Single
+Team 2 pitcher (Edmundo Martínez): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [3,2], base2: false, base3: [1,2]
+base1: true, base2: false, base3: true
+Score: 4-3
+
+Chris Barber: rng1 = 92 + 8 - 7 - 1 = 92
+rng2 = 55 + 8 - 6 - 1 = 56
+Single
+Team 2 pitcher (Edmundo Martínez): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 1
+
+base1: [4,2], base2: [3,2], base3: false
+base1: true, base2: true, base3: false
+Score: 5-3
+
+Darren Adams: rng1 = 34 + 4 - 7 - 1 = 30
+rng2 = 90 + 9 - 6 - 1 = 92
+Flyout
+Team 2 pitcher (Edmundo Martínez): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: [4,2], base2: false, base3: [3,2]
+base1: true, base2: false, base3: true
+Score: 5-3
+
+Terryl Maxwell: rng1 = 40 + 1 - 7 - 1 = 33
+rng2 = 52 + 11 - 6 - 1 = 56
+Lineout
+Team 2 pitcher (Edmundo Martínez): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+BOTTOM INNING 10
+
+Team 1 pitcher change to Phoenix Deleon
+
+Jack Hayes: rng1 = 61 + 9 - 15 + 1 = 56
+rng2 = 99 + 10 - 15 + 1 = 95
+Flyout
+Team 1 pitcher (Phoenix Deleon): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Bautista Saelices: rng1 = 4 + 8 - 15 + 1 = -2
+Strikeout
+Team 1 pitcher (Phoenix Deleon): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 5-3
+
+Noah Fontenot: rng1 = 54 + 11 - 15 + 1 = 51
+rng2 = 13 + 6 - 15 + 1 = 5
+Groundout
+Team 1 pitcher (Phoenix Deleon): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 5-3
+
+-----------------------
+
+Innings: 10
+Team 1 hits: 10
+Team 2 hits: 10
+Team 1 runs: 5
+Team 2 runs: 3
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					09-Oct-2024
+Juan Manzanares	5	1	1	0	0	1	1	0	2					New Orleans
+Edmundo Pousa	5	1	2	1	0	0	0	0	2	
+Byron Bartlett	4	0	0	0	0	0	0	1	2	
+Arturo Bellamy	5	1	2	0	0	0	0	0	2	
+Chris Barber	5	0	3	1	0	0	1	0	0	
+Darren Adams	4	1	0	0	0	0	1	1	0	
+Terryl Maxwell	4	0	1	0	0	0	0	1	0	
+Alejandro López	4	1	1	0	0	1	2	0	2	
+Marcos Gilabert	4	0	0	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Ahmad Key	0	0	1	1	0	0	18	7	2	0	1	5	26	
+Ryu Shi-Woo	0	0	1	0	0	0	3	3	1	0	0	1	6	
+Phil Segee	1	0	1	0	0	0	6	0	0	0	1	3	7	
+Rakeem Bradley	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Phoenix Deleon	0	0	1	0	0	0	3	0	0	0	0	1	3	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					09-Oct-2024
+Lawrence Randolph	5	1	2	0	0	0	0	0	1					Las Vegas
+Dante Arias	5	0	2	1	0	0	1	0	0	
+George Nagle	5	1	2	0	0	0	1	0	0	
+Jack Hayes	5	0	2	1	0	0	0	0	0	
+Bautista Saelices	4	0	1	0	0	0	1	1	2	
+Noah Fontenot	4	0	0	0	0	0	0	1	0	
+Calder Martin	4	0	1	0	0	0	0	0	3	
+Orlando Cazalla	4	0	0	0	0	0	0	0	1	
+Sean Watson	4	1	0	0	0	0	0	0	3	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Jordan Burns	0	0	1	1	0	0	18	5	1	0	2	7	25	
+Macos Alguacil	0	0	1	0	0	0	6	0	0	0	0	4	6	
+Edmundo Martínez	0	1	1	0	0	0	3	4	2	1	0	0	7	
+Rodrigo Valerio	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Taylor Murphy	0	0	1	0	0	1	3	1	2	1	1	1	5	

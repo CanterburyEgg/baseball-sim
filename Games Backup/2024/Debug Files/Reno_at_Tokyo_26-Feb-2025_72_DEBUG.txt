@@ -1,0 +1,789 @@
+TOP INNING 1
+
+Victor Harris: rng1 = 18 + 16 - 7 - 1 = 26
+Strikeout
+Team 2 pitcher (Ethan Scott): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Joaquin Alba: rng1 = 49 + 15 - 7 - 1 = 56
+rng2 = 31 + 15 - 9 - 1 = 36
+Groundout
+Team 2 pitcher (Ethan Scott): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Ali Monroe: rng1 = 92 + 15 - 7 - 1 = 99
+rng2 = 40 + 14 - 9 - 1 = 44
+Single
+Team 2 pitcher (Ethan Scott): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Shaun Conley: rng1 = 89 + 14 - 7 - 1 = 95
+rng2 = 52 + 15 - 9 - 1 = 57
+Single
+Team 2 pitcher (Ethan Scott): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [3,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 0-0
+
+Jerome Fields: rng1 = 18 + 12 - 7 - 1 = 22
+Strikeout
+Team 2 pitcher (Ethan Scott): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Clayton Massey: rng1 = 93 + 14 - 10 + 1 = 98
+rng2 = 98 + 9 - 10 + 1 = 98
+Home run
+Team 1 pitcher (Jessie Cochran): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Terrence Wise: rng1 = 98 + 14 - 10 + 1 = 103
+rng2 = 49 + 8 - 10 + 1 = 48
+Single
+Team 1 pitcher (Jessie Cochran): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Ellis Lindsey: rng1 = 84 + 11 - 10 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Jessie Cochran): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 0
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-1
+
+Brian Woods: rng1 = 86 + 4 - 10 + 1 = 81
+rng2 = 32 + 12 - 10 + 1 = 35
+Single
+Team 1 pitcher (Jessie Cochran): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 0
+
+base1: [3,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 0-2
+
+Duante Jones: rng1 = 46 + 6 - 10 + 1 = 43
+rng2 = 6 + 11 - 10 + 1 = 8
+Groundout
+Team 1 pitcher (Jessie Cochran): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 1
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-3
+
+Fabián Sánchez: rng1 = 65 + 5 - 10 + 1 = 61
+rng2 = 5 + 8 - 10 + 1 = 4
+Groundout
+Team 1 pitcher (Jessie Cochran): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: false, base2: false, base3: [3,0]
+base1: false, base2: false, base3: true
+Score: 0-3
+
+Agustín Molina: rng1 = 12 + 5 - 10 + 1 = 8
+Strikeout
+Team 1 pitcher (Jessie Cochran): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-3
+
+-----------------------
+
+TOP INNING 2
+
+Nate Clarke: rng1 = 56 + 15 - 7 - 1 = 63
+rng2 = 73 + 10 - 9 - 1 = 73
+Flyout
+Team 2 pitcher (Ethan Scott): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Ivan Rondon: rng1 = 87 + 15 - 7 - 1 = 94
+rng2 = 85 + 9 - 9 - 1 = 84
+Home run
+Team 2 pitcher (Ethan Scott): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Simon Taylor: rng1 = 73 + 12 - 7 - 1 = 77
+rng2 = 12 + 10 - 9 - 1 = 12
+Single
+Team 2 pitcher (Ethan Scott): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Alonso Medina: rng1 = 10 + 13 - 7 - 1 = 15
+rng2 = 66 + 7 - 9 - 1 = 63
+Flyout
+Team 2 pitcher (Ethan Scott): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Victor Harris: rng1 = 4 + 16 - 7 - 1 = 12
+rng2 = 31 + 13 - 9 - 1 = 34
+Groundout
+Team 2 pitcher (Ethan Scott): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+BOTTOM INNING 2
+
+Santino Reyes: rng1 = 61 + 6 - 10 + 1 = 58
+rng2 = 41 + 7 - 10 + 1 = 39
+Groundout
+Team 1 pitcher (Jessie Cochran): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Adalberto Smith: rng1 = 45 + 5 - 10 + 1 = 41
+rng2 = 83 + 7 - 10 + 1 = 81
+Flyout
+Team 1 pitcher (Jessie Cochran): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Clayton Massey: rng1 = 37 + 14 - 10 + 1 = 42
+rng2 = 46 + 9 - 10 + 1 = 46
+Groundout
+Team 1 pitcher (Jessie Cochran): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 3
+
+Joaquin Alba: rng1 = 31 + 15 - 7 - 1 = 38
+rng2 = 13 + 15 - 9 - 1 = 18
+Groundout
+Team 2 pitcher (Ethan Scott): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Ali Monroe: rng1 = 8 + 15 - 7 - 1 = 15
+rng2 = 8 + 14 - 9 - 1 = 12
+Groundout
+Team 2 pitcher (Ethan Scott): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Shaun Conley: rng1 = 95 + 14 - 7 - 1 = 101
+rng2 = 94 + 15 - 9 - 1 = 99
+Home run
+Team 2 pitcher (Ethan Scott): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-3
+
+Jerome Fields: rng1 = 14 + 12 - 7 - 1 = 18
+Strikeout
+Team 2 pitcher (Ethan Scott): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-3
+
+-----------------------
+
+BOTTOM INNING 3
+
+Terrence Wise: rng1 = 65 + 14 - 10 + 1 = 70
+Walk
+Team 1 pitcher (Jessie Cochran): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-3
+
+Ellis Lindsey: rng1 = 71 + 11 - 10 + 1 = 73
+rng2 = 86 + 14 - 10 + 1 = 91
+Double
+Team 1 pitcher (Jessie Cochran): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 0
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-4
+
+Brian Woods: rng1 = 2 + 4 - 10 + 1 = -3
+Strikeout
+Team 1 pitcher (Jessie Cochran): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-4
+
+Duante Jones: rng1 = 70 + 6 - 10 + 1 = 67
+rng2 = 3 + 11 - 10 + 1 = 5
+Groundout
+Team 1 pitcher (Jessie Cochran): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-4
+
+Fabián Sánchez: rng1 = 64 + 5 - 10 + 1 = 60
+rng2 = 39 + 8 - 10 + 1 = 38
+Groundout
+Team 1 pitcher (Jessie Cochran): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-4
+
+-----------------------
+
+TOP INNING 4
+
+Nate Clarke: rng1 = 63 + 15 - 7 - 1 = 70
+Walk
+Team 2 pitcher (Ethan Scott): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-4
+
+Ivan Rondon: rng1 = 48 + 15 - 7 - 1 = 55
+rng2 = 22 + 9 - 9 - 1 = 21
+Groundout
+Team 2 pitcher (Ethan Scott): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-4
+
+Simon Taylor: rng1 = 26 + 12 - 7 - 1 = 30
+rng2 = 10 + 10 - 9 - 1 = 10
+Groundout
+Team 2 pitcher (Ethan Scott): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-4
+
+-----------------------
+
+BOTTOM INNING 4
+
+Agustín Molina: rng1 = 93 + 5 - 10 + 1 = 89
+Walk
+Team 1 pitcher (Jessie Cochran): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-4
+
+Santino Reyes: rng1 = 99 + 6 - 10 + 1 = 96
+rng2 = 74 + 7 - 10 + 1 = 72
+Double
+Team 1 pitcher (Jessie Cochran): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 0
+
+base1: false, base2: [7,0], base3: [6,0]
+base1: false, base2: true, base3: true
+Score: 2-4
+
+Adalberto Smith: rng1 = 7 + 5 - 10 + 1 = 3
+Strikeout
+Team 1 pitcher (Jessie Cochran): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 1
+
+base1: false, base2: [7,0], base3: [6,0]
+base1: false, base2: true, base3: true
+Score: 2-4
+
+Clayton Massey: rng1 = 38 + 14 - 10 + 1 = 43
+rng2 = 45 + 9 - 10 + 1 = 45
+Groundout
+Team 1 pitcher (Jessie Cochran): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 2
+
+base1: false, base2: [7,0], base3: [6,0]
+base1: false, base2: true, base3: true
+Score: 2-4
+
+Terrence Wise: rng1 = 3 + 14 - 10 + 1 = 8
+Strikeout
+Team 1 pitcher (Jessie Cochran): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-4
+
+-----------------------
+
+TOP INNING 5
+
+Alonso Medina: rng1 = 77 + 13 - 7 - 1 = 82
+rng2 = 14 + 7 - 9 - 1 = 11
+Single
+Team 2 pitcher (Ethan Scott): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-4
+
+Victor Harris: rng1 = 2 + 16 - 7 - 1 = 10
+Strikeout
+Team 2 pitcher (Ethan Scott): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-4
+
+Joaquin Alba: rng1 = 44 + 15 - 7 - 1 = 51
+rng2 = 30 + 15 - 9 - 1 = 35
+Groundout
+Team 2 pitcher (Ethan Scott): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-4
+
+Ali Monroe: rng1 = 30 + 15 - 7 - 1 = 37
+rng2 = 72 + 14 - 9 - 1 = 76
+Flyout
+Team 2 pitcher (Ethan Scott): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-4
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Jake Booth
+
+Ellis Lindsey: rng1 = 86 + 11 - 9 + 1 = 89
+Walk
+Team 1 pitcher (Jake Booth): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-4
+
+Brian Woods: rng1 = 88 + 4 - 9 + 1 = 84
+rng2 = 57 + 12 - 10 + 1 = 60
+Single
+Team 1 pitcher (Jake Booth): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [3,1], base2: [2,1], base3: false
+base1: true, base2: true, base3: false
+Score: 2-4
+
+Duante Jones: rng1 = 87 + 6 - 9 + 1 = 85
+rng2 = 17 + 11 - 10 + 1 = 19
+Single
+Team 1 pitcher (Jake Booth): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 0
+
+base1: [4,1], base2: [3,1], base3: false
+base1: true, base2: true, base3: false
+Score: 2-5
+
+Fabián Sánchez: rng1 = 35 + 5 - 9 + 1 = 32
+rng2 = 40 + 8 - 10 + 1 = 39
+Groundout
+Team 1 pitcher (Jake Booth): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: false, base3: [3,1]
+base1: false, base2: false, base3: true
+Score: 2-5
+
+Agustín Molina: rng1 = 95 + 5 - 9 + 1 = 92
+rng2 = 27 + 8 - 10 + 1 = 26
+Single
+Team 1 pitcher (Jake Booth): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-6
+
+Santino Reyes: rng1 = 52 + 6 - 9 + 1 = 50
+rng2 = 65 + 7 - 10 + 1 = 63
+Flyout
+Team 1 pitcher (Jake Booth): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-6
+
+-----------------------
+
+TOP INNING 6
+
+Shaun Conley: rng1 = 50 + 14 - 7 - 1 = 56
+rng2 = 89 + 15 - 9 - 1 = 94
+Flyout
+Team 2 pitcher (Ethan Scott): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-6
+
+Jerome Fields: rng1 = 69 + 12 - 7 - 1 = 73
+rng2 = 53 + 15 - 9 - 1 = 58
+Single
+Team 2 pitcher (Ethan Scott): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-6
+
+Nate Clarke: rng1 = 59 + 15 - 7 - 1 = 66
+rng2 = 68 + 10 - 9 - 1 = 68
+Flyout
+Team 2 pitcher (Ethan Scott): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-6
+
+Ivan Rondon: rng1 = 96 + 15 - 7 - 1 = 103
+rng2 = 98 + 9 - 9 - 1 = 97
+Home run
+Team 2 pitcher (Ethan Scott): 25 batters faced, 4 runs allowed = 25 + 10.0 = 35.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-6
+
+Team 2 pitcher change to Pae Kwang-Min
+
+Simon Taylor: rng1 = 83 + 12 - 8 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Pae Kwang-Min): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-6
+
+Alonso Medina: rng1 = 73 + 13 - 8 - 1 = 77
+rng2 = 66 + 7 - 9 - 1 = 63
+Single
+Team 2 pitcher (Pae Kwang-Min): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: [8,1], base2: [7,1], base3: false
+base1: true, base2: true, base3: false
+Score: 4-6
+
+Victor Harris: rng1 = 16 + 16 - 8 - 1 = 23
+Strikeout
+Team 2 pitcher (Pae Kwang-Min): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-6
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Lucas Gardner
+
+Adalberto Smith: rng1 = 29 + 5 - 8 + 1 = 27
+Strikeout
+Team 1 pitcher (Lucas Gardner): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-6
+
+Clayton Massey: rng1 = 64 + 14 - 8 + 1 = 71
+Walk
+Team 1 pitcher (Lucas Gardner): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-6
+
+Terrence Wise: rng1 = 5 + 14 - 8 + 1 = 12
+rng2 = 96 + 8 - 9 + 1 = 96
+Flyout
+Team 1 pitcher (Lucas Gardner): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-6
+
+Ellis Lindsey: rng1 = 72 + 11 - 8 + 1 = 76
+rng2 = 27 + 14 - 9 + 1 = 33
+Single
+Team 1 pitcher (Lucas Gardner): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [2,2], base2: [0,2], base3: false
+base1: true, base2: true, base3: false
+Score: 4-6
+
+Brian Woods: rng1 = 89 + 4 - 8 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Lucas Gardner): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: [3,2], base2: [2,2], base3: [0,2]
+base1: true, base2: true, base3: true
+Score: 4-6
+
+Duante Jones: rng1 = 10 + 6 - 8 + 1 = 9
+Strikeout
+Team 1 pitcher (Lucas Gardner): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-6
+
+-----------------------
+
+TOP INNING 7
+
+Joaquin Alba: rng1 = 26 + 15 - 8 - 1 = 32
+rng2 = 29 + 15 - 9 - 1 = 34
+Groundout
+Team 2 pitcher (Pae Kwang-Min): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-6
+
+Ali Monroe: rng1 = 45 + 15 - 8 - 1 = 51
+rng2 = 73 + 14 - 9 - 1 = 77
+Flyout
+Team 2 pitcher (Pae Kwang-Min): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-6
+
+Shaun Conley: rng1 = 65 + 14 - 8 - 1 = 70
+Walk
+Team 2 pitcher (Pae Kwang-Min): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-6
+
+Jerome Fields: rng1 = 2 + 12 - 8 - 1 = 5
+Strikeout
+Team 2 pitcher (Pae Kwang-Min): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-6
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Johnny Farmer
+
+Fabián Sánchez: rng1 = 33 + 5 - 5 + 1 = 34
+rng2 = 35 + 8 - 7 + 1 = 37
+Groundout
+Team 1 pitcher (Johnny Farmer): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-6
+
+Agustín Molina: rng1 = 58 + 5 - 5 + 1 = 59
+rng2 = 10 + 8 - 7 + 1 = 12
+Groundout
+Team 1 pitcher (Johnny Farmer): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-6
+
+Santino Reyes: rng1 = 94 + 6 - 5 + 1 = 96
+rng2 = 78 + 7 - 7 + 1 = 79
+Triple
+Team 1 pitcher (Johnny Farmer): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: [7,3]
+base1: false, base2: false, base3: true
+Score: 4-6
+
+Adalberto Smith: rng1 = 5 + 5 - 5 + 1 = 6
+Strikeout
+Team 1 pitcher (Johnny Farmer): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-6
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Teagan Molina
+
+Nate Clarke: rng1 = 8 + 15 - 8 - 1 = 14
+rng2 = 94 + 10 - 5 - 1 = 98
+Flyout
+Team 2 pitcher (Teagan Molina): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-6
+
+Ivan Rondon: rng1 = 76 + 15 - 8 - 1 = 82
+rng2 = 35 + 9 - 5 - 1 = 38
+Single
+Team 2 pitcher (Teagan Molina): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-6
+
+Simon Taylor: rng1 = 20 + 12 - 8 - 1 = 23
+Strikeout
+Team 2 pitcher (Teagan Molina): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [6,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-6
+
+Alonso Medina: rng1 = 17 + 13 - 8 - 1 = 21
+Strikeout
+Team 2 pitcher (Teagan Molina): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-6
+
+-----------------------
+
+BOTTOM INNING 8
+
+Clayton Massey: rng1 = 68 + 14 - 5 + 1 = 78
+rng2 = 97 + 9 - 7 + 1 = 100
+Home run
+Team 1 pitcher (Johnny Farmer): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-7
+
+Terrence Wise: rng1 = 18 + 14 - 5 + 1 = 28
+Strikeout
+Team 1 pitcher (Johnny Farmer): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-7
+
+Ellis Lindsey: rng1 = 25 + 11 - 5 + 1 = 32
+rng2 = 84 + 14 - 7 + 1 = 92
+Flyout
+Team 1 pitcher (Johnny Farmer): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-7
+
+Brian Woods: rng1 = 29 + 4 - 5 + 1 = 29
+rng2 = 83 + 12 - 7 + 1 = 89
+Flyout
+Team 1 pitcher (Johnny Farmer): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-7
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Ignacio Morales
+
+Victor Harris: rng1 = 94 + 16 - 10 - 1 = 99
+rng2 = 42 + 13 - 8 - 1 = 46
+Single
+Team 2 pitcher (Ignacio Morales): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-7
+
+Joaquin Alba: rng1 = 4 + 15 - 10 - 1 = 8
+Strikeout
+Team 2 pitcher (Ignacio Morales): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-7
+
+Ali Monroe: rng1 = 45 + 15 - 10 - 1 = 49
+rng2 = 37 + 14 - 8 - 1 = 42
+Groundout
+Team 2 pitcher (Ignacio Morales): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-7
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 11
+Team 2 hits: 11
+Team 1 runs: 4
+Team 2 runs: 7
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					26-Feb-2025
+Victor Harris	5	0	1	0	0	0	0	0	3					Reno
+Joaquin Alba	5	0	0	0	0	0	0	0	1	
+Ali Monroe	5	0	1	0	0	0	0	0	0	
+Shaun Conley	3	1	2	0	0	1	1	1	0	
+Jerome Fields	4	1	1	0	0	0	0	0	3	
+Nate Clarke	3	0	0	0	0	0	0	1	0	
+Ivan Rondon	4	2	3	0	0	2	3	0	0	
+Simon Taylor	3	0	1	0	0	0	0	0	1	
+Alonso Medina	4	0	2	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Jessie Cochran	0	1	1	1	0	0	12	5	4	1	2	4	20	
+Jake Booth	0	0	1	0	0	0	3	3	2	0	1	0	6	
+Lucas Gardner	0	0	1	0	0	0	3	1	0	0	1	2	6	
+Johnny Farmer	0	0	1	0	0	0	6	2	1	1	0	2	8	
+Ian Colome	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					26-Feb-2025
+Clayton Massey	4	2	2	0	0	2	2	1	0					Tokyo
+Terrence Wise	4	2	1	0	0	0	0	1	2	
+Ellis Lindsey	3	2	2	1	0	0	1	1	0	
+Brian Woods	4	1	2	0	0	0	1	0	1	
+Duante Jones	4	0	1	0	0	0	2	0	1	
+Fabián Sánchez	4	0	0	0	0	0	0	0	0	
+Agustín Molina	3	0	1	0	0	0	1	1	1	
+Santino Reyes	4	0	2	1	1	0	0	0	0	
+Adalberto Smith	4	0	0	0	0	0	0	0	3	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Ethan Scott	1	0	1	1	0	0	17	8	4	3	1	4	25	
+Pae Kwang-Min	0	0	1	0	0	0	4	1	0	0	1	2	7	
+Teagan Molina	0	0	1	0	0	0	3	1	0	0	0	2	4	
+Kione Andrews	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Ignacio Morales	0	0	1	0	1	1	3	1	0	0	0	1	3	

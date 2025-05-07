@@ -1,0 +1,733 @@
+TOP INNING 1
+
+Ramon Cabrera: rng1 = 68 + 14 - 11 - 1 = 70
+Walk
+Team 2 pitcher (Esteban Coles): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Les Drake: rng1 = 66 + 9 - 11 - 1 = 63
+rng2 = 41 + 13 - 8 - 1 = 45
+Groundout
+Team 2 pitcher (Esteban Coles): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Emilio Soto: rng1 = 55 + 9 - 11 - 1 = 52
+rng2 = 44 + 10 - 8 - 1 = 45
+Groundout
+Team 2 pitcher (Esteban Coles): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Adam Marshall: rng1 = 8 + 8 - 11 - 1 = 4
+Strikeout
+Team 2 pitcher (Esteban Coles): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Jacobi Davis: rng1 = 97 + 16 - 7 + 1 = 107
+rng2 = 78 + 14 - 6 + 1 = 87
+Double
+Team 1 pitcher (Javari Howard): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Rodney Shaffer: rng1 = 98 + 15 - 7 + 1 = 107
+rng2 = 90 + 13 - 6 + 1 = 98
+Home run
+Team 1 pitcher (Javari Howard): 2 batters faced, 2 runs allowed = 2 + 5.0 = 7.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Kazuhiro Ida: rng1 = 68 + 14 - 7 + 1 = 76
+rng2 = 36 + 16 - 6 + 1 = 47
+Single
+Team 1 pitcher (Javari Howard): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 0
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Byron Lloyd: rng1 = 66 + 14 - 7 + 1 = 74
+rng2 = 46 + 14 - 6 + 1 = 55
+Single
+Team 1 pitcher (Javari Howard): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 0
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-2
+
+Guy Nicholson: rng1 = 56 + 14 - 7 + 1 = 64
+rng2 = 35 + 13 - 6 + 1 = 43
+Groundout
+Team 1 pitcher (Javari Howard): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: false, base2: false, base3: [2,0]
+base1: false, base2: false, base3: true
+Score: 0-2
+
+Arturo Trujillo: rng1 = 22 + 14 - 7 + 1 = 30
+rng2 = 74 + 11 - 6 + 1 = 80
+Flyout
+Team 1 pitcher (Javari Howard): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 2
+
+Elmer Sparks: rng1 = 27 + 6 - 11 - 1 = 21
+Strikeout
+Team 2 pitcher (Esteban Coles): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Max Lawrence: rng1 = 77 + 8 - 11 - 1 = 73
+rng2 = 59 + 8 - 8 - 1 = 58
+Single
+Team 2 pitcher (Esteban Coles): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Chaquille Barnett: rng1 = 80 + 9 - 11 - 1 = 77
+rng2 = 72 + 7 - 8 - 1 = 70
+Double
+Team 2 pitcher (Esteban Coles): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: false, base2: [6,0], base3: [5,0]
+base1: false, base2: true, base3: true
+Score: 0-2
+
+Bradley Simon: rng1 = 6 + 7 - 11 - 1 = 1
+Strikeout
+Team 2 pitcher (Esteban Coles): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: false, base2: [6,0], base3: [5,0]
+base1: false, base2: true, base3: true
+Score: 0-2
+
+Clarence Carr: rng1 = 44 + 8 - 11 - 1 = 40
+rng2 = 32 + 4 - 8 - 1 = 27
+Groundout
+Team 2 pitcher (Esteban Coles): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+BOTTOM INNING 2
+
+Finlay Webb: rng1 = 53 + 11 - 7 + 1 = 58
+rng2 = 72 + 8 - 6 + 1 = 75
+Flyout
+Team 1 pitcher (Javari Howard): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Tyler Sanders: rng1 = 9 + 11 - 7 + 1 = 14
+rng2 = 96 + 8 - 6 + 1 = 99
+Flyout
+Team 1 pitcher (Javari Howard): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Orlando Bradford: rng1 = 82 + 12 - 7 + 1 = 88
+Walk
+Team 1 pitcher (Javari Howard): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Jacobi Davis: rng1 = 36 + 16 - 7 + 1 = 46
+rng2 = 18 + 14 - 6 + 1 = 27
+Groundout
+Team 1 pitcher (Javari Howard): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 3
+
+Ramon Cabrera: rng1 = 66 + 14 - 11 - 1 = 68
+rng2 = 23 + 11 - 8 - 1 = 25
+Groundout
+Team 2 pitcher (Esteban Coles): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Les Drake: rng1 = 49 + 9 - 11 - 1 = 46
+rng2 = 43 + 13 - 8 - 1 = 47
+Groundout
+Team 2 pitcher (Esteban Coles): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Emilio Soto: rng1 = 63 + 9 - 11 - 1 = 60
+rng2 = 58 + 10 - 8 - 1 = 59
+Flyout
+Team 2 pitcher (Esteban Coles): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+BOTTOM INNING 3
+
+Rodney Shaffer: rng1 = 29 + 15 - 7 + 1 = 38
+rng2 = 95 + 13 - 6 + 1 = 103
+Flyout
+Team 1 pitcher (Javari Howard): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Kazuhiro Ida: rng1 = 95 + 14 - 7 + 1 = 103
+rng2 = 39 + 16 - 6 + 1 = 50
+Single
+Team 1 pitcher (Javari Howard): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-2
+
+Byron Lloyd: rng1 = 75 + 14 - 7 + 1 = 83
+rng2 = 93 + 14 - 6 + 1 = 102
+Home run
+Team 1 pitcher (Javari Howard): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Guy Nicholson: rng1 = 44 + 14 - 7 + 1 = 52
+rng2 = 66 + 13 - 6 + 1 = 74
+Flyout
+Team 1 pitcher (Javari Howard): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Arturo Trujillo: rng1 = 99 + 14 - 7 + 1 = 107
+rng2 = 52 + 11 - 6 + 1 = 58
+Single
+Team 1 pitcher (Javari Howard): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Finlay Webb: rng1 = 19 + 11 - 7 + 1 = 24
+Strikeout
+Team 1 pitcher (Javari Howard): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+TOP INNING 4
+
+Adam Marshall: rng1 = 1 + 8 - 11 - 1 = -3
+Strikeout
+Team 2 pitcher (Esteban Coles): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Elmer Sparks: rng1 = 89 + 6 - 11 - 1 = 83
+rng2 = 47 + 9 - 8 - 1 = 47
+Single
+Team 2 pitcher (Esteban Coles): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Max Lawrence: rng1 = 96 + 8 - 11 - 1 = 92
+rng2 = 28 + 8 - 8 - 1 = 27
+Single
+Team 2 pitcher (Esteban Coles): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 1
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-4
+
+Chaquille Barnett: rng1 = 44 + 9 - 11 - 1 = 41
+rng2 = 83 + 7 - 8 - 1 = 81
+Flyout
+Team 2 pitcher (Esteban Coles): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 2
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-4
+
+Bradley Simon: rng1 = 6 + 7 - 11 - 1 = 1
+Strikeout
+Team 2 pitcher (Esteban Coles): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+BOTTOM INNING 4
+
+Tyler Sanders: rng1 = 19 + 11 - 7 + 1 = 24
+Strikeout
+Team 1 pitcher (Javari Howard): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Orlando Bradford: rng1 = 54 + 12 - 7 + 1 = 60
+rng2 = 47 + 7 - 6 + 1 = 49
+Lineout
+Team 1 pitcher (Javari Howard): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Jacobi Davis: rng1 = 91 + 16 - 7 + 1 = 101
+rng2 = 19 + 14 - 6 + 1 = 28
+Single
+Team 1 pitcher (Javari Howard): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Rodney Shaffer: rng1 = 19 + 15 - 7 + 1 = 28
+Strikeout
+Team 1 pitcher (Javari Howard): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+TOP INNING 5
+
+Clarence Carr: rng1 = 16 + 8 - 11 - 1 = 12
+rng2 = 66 + 4 - 8 - 1 = 61
+Flyout
+Team 2 pitcher (Esteban Coles): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Ramon Cabrera: rng1 = 29 + 14 - 11 - 1 = 31
+rng2 = 92 + 11 - 8 - 1 = 94
+Flyout
+Team 2 pitcher (Esteban Coles): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Les Drake: rng1 = 17 + 9 - 11 - 1 = 14
+rng2 = 75 + 13 - 8 - 1 = 79
+Flyout
+Team 2 pitcher (Esteban Coles): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Franklin Hood
+
+Kazuhiro Ida: rng1 = 35 + 14 - 8 + 1 = 42
+rng2 = 2 + 16 - 11 + 1 = 8
+Groundout
+Team 1 pitcher (Franklin Hood): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Byron Lloyd: rng1 = 26 + 14 - 8 + 1 = 33
+rng2 = 64 + 14 - 11 + 1 = 68
+Flyout
+Team 1 pitcher (Franklin Hood): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Guy Nicholson: rng1 = 36 + 14 - 8 + 1 = 43
+rng2 = 87 + 13 - 11 + 1 = 90
+Flyout
+Team 1 pitcher (Franklin Hood): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+TOP INNING 6
+
+Emilio Soto: rng1 = 13 + 9 - 11 - 1 = 10
+Strikeout
+Team 2 pitcher (Esteban Coles): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Adam Marshall: rng1 = 68 + 8 - 11 - 1 = 64
+rng2 = 95 + 10 - 8 - 1 = 96
+Flyout
+Team 2 pitcher (Esteban Coles): 22 batters faced, 0 runs allowed = 22 + 0.0 = 22.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Elmer Sparks: rng1 = 53 + 6 - 11 - 1 = 47
+rng2 = 43 + 9 - 8 - 1 = 43
+Groundout
+Team 2 pitcher (Esteban Coles): 23 batters faced, 0 runs allowed = 23 + 0.0 = 23.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+BOTTOM INNING 6
+
+Arturo Trujillo: rng1 = 64 + 14 - 8 + 1 = 71
+Walk
+Team 1 pitcher (Franklin Hood): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Finlay Webb: rng1 = 35 + 11 - 8 + 1 = 39
+rng2 = 86 + 8 - 11 + 1 = 84
+Flyout
+Team 1 pitcher (Franklin Hood): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Tyler Sanders: rng1 = 3 + 11 - 8 + 1 = 7
+Strikeout
+Team 1 pitcher (Franklin Hood): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Orlando Bradford: rng1 = 51 + 12 - 8 + 1 = 56
+rng2 = 42 + 7 - 11 + 1 = 39
+Groundout
+Team 1 pitcher (Franklin Hood): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+TOP INNING 7
+
+Max Lawrence: rng1 = 12 + 8 - 11 - 1 = 8
+Strikeout
+Team 2 pitcher (Esteban Coles): 24 batters faced, 0 runs allowed = 24 + 0.0 = 24.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Chaquille Barnett: rng1 = 91 + 9 - 11 - 1 = 88
+Walk
+Team 2 pitcher (Esteban Coles): 25 batters faced, 0 runs allowed = 25 + 0.0 = 25.0, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Bradley Simon: rng1 = 33 + 7 - 11 - 1 = 28
+Strikeout
+Team 2 pitcher (Esteban Coles): 26 batters faced, 0 runs allowed = 26 + 0.0 = 26.0, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Clarence Carr: rng1 = 87 + 8 - 11 - 1 = 83
+rng2 = 66 + 4 - 8 - 1 = 61
+Single
+Team 2 pitcher (Esteban Coles): 27 batters faced, 0 runs allowed = 27 + 0.0 = 27.0, outs: 2
+
+base1: [8,0], base2: false, base3: [6,0]
+base1: true, base2: false, base3: true
+Score: 0-4
+
+Ramon Cabrera: rng1 = 28 + 14 - 11 - 1 = 30
+rng2 = 70 + 11 - 8 - 1 = 72
+Flyout
+Team 2 pitcher (Esteban Coles): 28 batters faced, 0 runs allowed = 28 + 0.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Okihana Min-Ki
+
+Jacobi Davis: rng1 = 69 + 16 - 8 + 1 = 78
+rng2 = 52 + 14 - 8 + 1 = 59
+Single
+Team 1 pitcher (Okihana Min-Ki): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Rodney Shaffer: rng1 = 25 + 15 - 8 + 1 = 33
+rng2 = 43 + 13 - 8 + 1 = 49
+Lineout
+Team 1 pitcher (Okihana Min-Ki): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Kazuhiro Ida: rng1 = 20 + 14 - 8 + 1 = 27
+Strikeout
+Team 1 pitcher (Okihana Min-Ki): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Byron Lloyd: rng1 = 13 + 14 - 8 + 1 = 20
+Strikeout
+Team 1 pitcher (Okihana Min-Ki): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Tim Brooks
+
+Les Drake: rng1 = 24 + 9 - 10 - 1 = 22
+Strikeout
+Team 2 pitcher (Tim Brooks): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Emilio Soto: rng1 = 55 + 9 - 10 - 1 = 53
+rng2 = 30 + 10 - 10 - 1 = 29
+Groundout
+Team 2 pitcher (Tim Brooks): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Adam Marshall: rng1 = 75 + 8 - 10 - 1 = 72
+Walk
+Team 2 pitcher (Tim Brooks): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Elmer Sparks: rng1 = 2 + 6 - 10 - 1 = -3
+Strikeout
+Team 2 pitcher (Tim Brooks): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+BOTTOM INNING 8
+
+Guy Nicholson: rng1 = 76 + 14 - 8 + 1 = 83
+rng2 = 39 + 13 - 8 + 1 = 45
+Single
+Team 1 pitcher (Okihana Min-Ki): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Arturo Trujillo: rng1 = 42 + 14 - 8 + 1 = 49
+rng2 = 6 + 11 - 8 + 1 = 10
+Groundout
+Team 1 pitcher (Okihana Min-Ki): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Finlay Webb: rng1 = 42 + 11 - 8 + 1 = 46
+rng2 = 84 + 8 - 8 + 1 = 85
+Flyout
+Team 1 pitcher (Okihana Min-Ki): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+TOP INNING 9
+
+Max Lawrence: rng1 = 93 + 8 - 10 - 1 = 90
+Walk
+Team 2 pitcher (Tim Brooks): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Chaquille Barnett: rng1 = 35 + 9 - 10 - 1 = 33
+rng2 = 42 + 7 - 10 - 1 = 38
+Groundout
+Team 2 pitcher (Tim Brooks): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Bradley Simon: rng1 = 74 + 7 - 10 - 1 = 70
+Walk
+Team 2 pitcher (Tim Brooks): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Clarence Carr: rng1 = 77 + 8 - 10 - 1 = 74
+rng2 = 19 + 4 - 10 - 1 = 12
+Single
+Team 2 pitcher (Tim Brooks): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [8,1], base2: [7,1], base3: false
+base1: true, base2: true, base3: false
+Score: 0-4
+
+Ramon Cabrera: rng1 = 96 + 14 - 10 - 1 = 99
+rng2 = 94 + 11 - 10 - 1 = 94
+Home run
+Team 2 pitcher (Tim Brooks): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-4
+
+Team 2 pitcher change to Curtis Holmes
+
+Les Drake: rng1 = 86 + 9 - 10 - 1 = 84
+rng2 = 42 + 13 - 10 - 1 = 44
+Single
+Team 2 pitcher (Curtis Holmes): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-4
+
+Emilio Soto: rng1 = 29 + 9 - 10 - 1 = 27
+Strikeout
+Team 2 pitcher (Curtis Holmes): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-4
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 8
+Team 2 hits: 10
+Team 1 runs: 3
+Team 2 runs: 4
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					26-Feb-2025
+Ramon Cabrera	4	1	1	0	0	1	3	1	0					Anaheim
+Les Drake	5	0	1	0	0	0	0	0	1	
+Emilio Soto	5	0	0	0	0	0	0	0	2	
+Adam Marshall	3	0	0	0	0	0	0	1	2	
+Elmer Sparks	4	0	1	0	0	0	0	0	2	
+Max Lawrence	3	0	2	0	0	0	0	1	1	
+Chaquille Barnett	3	0	1	1	0	0	0	1	0	
+Bradley Simon	3	1	0	0	0	0	0	1	3	
+Clarence Carr	4	1	2	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Javari Howard	0	1	1	1	0	0	12	8	4	2	1	3	20	
+Franklin Hood	0	0	1	0	0	0	6	0	0	0	1	1	7	
+Okihana Min-Ki	0	0	1	0	0	0	6	2	0	0	0	2	7	
+Rajah Rice	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Shunji Onishi	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					26-Feb-2025
+Jacobi Davis	4	1	3	1	0	0	0	0	0					Nashville
+Rodney Shaffer	4	1	1	0	0	1	2	0	1	
+Kazuhiro Ida	4	1	2	0	0	0	0	0	1	
+Byron Lloyd	4	1	2	0	0	1	2	0	1	
+Guy Nicholson	4	0	1	0	0	0	0	0	0	
+Arturo Trujillo	3	0	1	0	0	0	0	1	0	
+Finlay Webb	4	0	0	0	0	0	0	0	1	
+Tyler Sanders	3	0	0	0	0	0	0	0	2	
+Orlando Bradford	2	0	0	0	0	0	0	1	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Esteban Coles	1	0	1	1	0	0	21	5	0	0	2	8	28	
+Tim Brooks	0	0	1	0	0	0	5	2	3	1	3	2	9	
+Curtis Holmes	0	0	1	0	0	0	1	1	0	0	0	1	2	
+Jackson Peck	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Bradley Weaver	0	0	0	0	0	0	0	0	0	0	0	0	0	

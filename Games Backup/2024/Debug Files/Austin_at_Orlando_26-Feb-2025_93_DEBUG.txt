@@ -1,0 +1,825 @@
+TOP INNING 1
+
+Derrick Hammond: rng1 = 11 + 12 - 6 - 1 = 16
+Strikeout
+Team 2 pitcher (Jaime Morales): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Kyle Stewart: rng1 = 99 + 11 - 6 - 1 = 103
+rng2 = 71 + 7 - 8 - 1 = 69
+Double
+Team 2 pitcher (Jaime Morales): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Ivan Guerra: rng1 = 59 + 10 - 6 - 1 = 62
+rng2 = 97 + 15 - 8 - 1 = 103
+Flyout
+Team 2 pitcher (Jaime Morales): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Alex Murphy: rng1 = 96 + 9 - 6 - 1 = 98
+rng2 = 22 + 12 - 8 - 1 = 25
+Single
+Team 2 pitcher (Jaime Morales): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Danilo Villanueva: rng1 = 76 + 9 - 6 - 1 = 78
+rng2 = 72 + 12 - 8 - 1 = 75
+Double
+Team 2 pitcher (Jaime Morales): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: false, base2: [4,0], base3: [3,0]
+base1: false, base2: true, base3: true
+Score: 1-0
+
+Jake Weaver: rng1 = 58 + 7 - 6 - 1 = 58
+rng2 = 10 + 9 - 8 - 1 = 10
+Groundout
+Team 2 pitcher (Jaime Morales): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Edward Cox: rng1 = 86 + 15 - 4 + 1 = 98
+rng2 = 74 + 11 - 7 + 1 = 79
+Triple
+Team 1 pitcher (Zack Huff): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: false, base3: [0,0]
+base1: false, base2: false, base3: true
+Score: 1-0
+
+Alexis Rojas: rng1 = 35 + 12 - 4 + 1 = 44
+rng2 = 7 + 15 - 7 + 1 = 16
+Groundout
+Team 1 pitcher (Zack Huff): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: [0,0]
+base1: false, base2: false, base3: true
+Score: 1-0
+
+Angelo Contreras: rng1 = 31 + 12 - 4 + 1 = 40
+rng2 = 57 + 11 - 7 + 1 = 62
+Flyout
+Team 1 pitcher (Zack Huff): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Grant Sheppard: rng1 = 54 + 11 - 4 + 1 = 62
+rng2 = 95 + 10 - 7 + 1 = 99
+Flyout
+Team 1 pitcher (Zack Huff): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 2
+
+Erik Lowe: rng1 = 56 + 9 - 6 - 1 = 58
+rng2 = 22 + 8 - 8 - 1 = 21
+Groundout
+Team 2 pitcher (Jaime Morales): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Felix Alarcón: rng1 = 25 + 8 - 6 - 1 = 26
+Strikeout
+Team 2 pitcher (Jaime Morales): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Kyrie Anderson: rng1 = 34 + 6 - 6 - 1 = 33
+rng2 = 93 + 7 - 8 - 1 = 91
+Flyout
+Team 2 pitcher (Jaime Morales): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Marty Horn: rng1 = 78 + 8 - 4 + 1 = 83
+rng2 = 93 + 10 - 7 + 1 = 97
+Home run
+Team 1 pitcher (Zack Huff): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Domingo Jimenez: rng1 = 42 + 9 - 4 + 1 = 48
+rng2 = 34 + 9 - 7 + 1 = 37
+Groundout
+Team 1 pitcher (Zack Huff): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Ricky Bowers: rng1 = 95 + 10 - 4 + 1 = 102
+rng2 = 83 + 8 - 7 + 1 = 85
+Home run
+Team 1 pitcher (Zack Huff): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Darrell Williams: rng1 = 80 + 10 - 4 + 1 = 87
+Walk
+Team 1 pitcher (Zack Huff): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Varrien Cannon: rng1 = 87 + 5 - 4 + 1 = 89
+Walk
+Team 1 pitcher (Zack Huff): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 1
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-3
+
+Edward Cox: rng1 = 1 + 15 - 4 + 1 = 13
+rng2 = 70 + 11 - 7 + 1 = 75
+Flyout
+Team 1 pitcher (Zack Huff): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 2
+
+base1: [8,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 1-3
+
+Alexis Rojas: rng1 = 82 + 12 - 4 + 1 = 91
+rng2 = 13 + 15 - 7 + 1 = 22
+Single
+Team 1 pitcher (Zack Huff): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 2
+
+base1: [1,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 1-4
+
+Angelo Contreras: rng1 = 33 + 12 - 4 + 1 = 42
+rng2 = 45 + 11 - 7 + 1 = 50
+Lineout
+Team 1 pitcher (Zack Huff): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+TOP INNING 3
+
+Derrick Hammond: rng1 = 80 + 12 - 6 - 1 = 85
+rng2 = 37 + 11 - 8 - 1 = 39
+Single
+Team 2 pitcher (Jaime Morales): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Kyle Stewart: rng1 = 52 + 11 - 6 - 1 = 56
+rng2 = 40 + 7 - 8 - 1 = 38
+Groundout
+Team 2 pitcher (Jaime Morales): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Ivan Guerra: rng1 = 43 + 10 - 6 - 1 = 46
+rng2 = 46 + 15 - 8 - 1 = 52
+Lineout
+Team 2 pitcher (Jaime Morales): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Alex Murphy: rng1 = 66 + 9 - 6 - 1 = 68
+rng2 = 82 + 12 - 8 - 1 = 85
+Flyout
+Team 2 pitcher (Jaime Morales): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+BOTTOM INNING 3
+
+Grant Sheppard: rng1 = 32 + 11 - 4 + 1 = 40
+rng2 = 48 + 10 - 7 + 1 = 52
+Lineout
+Team 1 pitcher (Zack Huff): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Marty Horn: rng1 = 56 + 8 - 4 + 1 = 61
+rng2 = 13 + 10 - 7 + 1 = 17
+Groundout
+Team 1 pitcher (Zack Huff): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Domingo Jimenez: rng1 = 18 + 9 - 4 + 1 = 24
+Strikeout
+Team 1 pitcher (Zack Huff): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+TOP INNING 4
+
+Danilo Villanueva: rng1 = 55 + 9 - 6 - 1 = 57
+rng2 = 44 + 12 - 8 - 1 = 47
+Groundout
+Team 2 pitcher (Jaime Morales): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Jake Weaver: rng1 = 74 + 7 - 6 - 1 = 74
+rng2 = 25 + 9 - 8 - 1 = 25
+Single
+Team 2 pitcher (Jaime Morales): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Erik Lowe: rng1 = 83 + 9 - 6 - 1 = 85
+rng2 = 94 + 8 - 8 - 1 = 93
+Triple
+Team 2 pitcher (Jaime Morales): 16 batters faced, 2 runs allowed = 16 + 5.0 = 21.0, outs: 1
+
+base1: false, base2: false, base3: [6,0]
+base1: false, base2: false, base3: true
+Score: 2-4
+
+Felix Alarcón: rng1 = 76 + 8 - 6 - 1 = 77
+rng2 = 73 + 7 - 8 - 1 = 71
+Double
+Team 2 pitcher (Jaime Morales): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 1
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-4
+
+Kyrie Anderson: rng1 = 12 + 6 - 6 - 1 = 11
+rng2 = 7 + 7 - 8 - 1 = 5
+Groundout
+Team 2 pitcher (Jaime Morales): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 2
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-4
+
+Derrick Hammond: rng1 = 93 + 12 - 6 - 1 = 98
+rng2 = 21 + 11 - 8 - 1 = 23
+Single
+Team 2 pitcher (Jaime Morales): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Kyle Stewart: rng1 = 85 + 11 - 6 - 1 = 89
+Walk
+Team 2 pitcher (Jaime Morales): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 2
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 4-4
+
+Ivan Guerra: rng1 = 22 + 10 - 6 - 1 = 25
+Strikeout
+Team 2 pitcher (Jaime Morales): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+BOTTOM INNING 4
+
+Ricky Bowers: rng1 = 14 + 10 - 4 + 1 = 21
+Strikeout
+Team 1 pitcher (Zack Huff): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Darrell Williams: rng1 = 89 + 10 - 4 + 1 = 96
+rng2 = 68 + 8 - 7 + 1 = 70
+Double
+Team 1 pitcher (Zack Huff): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 1
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-4
+
+Varrien Cannon: rng1 = 49 + 5 - 4 + 1 = 51
+rng2 = 6 + 8 - 7 + 1 = 8
+Groundout
+Team 1 pitcher (Zack Huff): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 2
+
+base1: false, base2: false, base3: [7,0]
+base1: false, base2: false, base3: true
+Score: 4-4
+
+Edward Cox: rng1 = 39 + 15 - 4 + 1 = 51
+rng2 = 24 + 11 - 7 + 1 = 29
+Groundout
+Team 1 pitcher (Zack Huff): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+TOP INNING 5
+
+Team 2 pitcher change to Vicente Castillo
+
+Alex Murphy: rng1 = 99 + 9 - 9 - 1 = 98
+rng2 = 37 + 12 - 7 - 1 = 41
+Single
+Team 2 pitcher (Vicente Castillo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Danilo Villanueva: rng1 = 44 + 9 - 9 - 1 = 43
+rng2 = 59 + 12 - 7 - 1 = 63
+Flyout
+Team 2 pitcher (Vicente Castillo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Jake Weaver: rng1 = 18 + 7 - 9 - 1 = 15
+rng2 = 62 + 9 - 7 - 1 = 63
+Flyout
+Team 2 pitcher (Vicente Castillo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Erik Lowe: rng1 = 69 + 9 - 9 - 1 = 68
+rng2 = 56 + 8 - 7 - 1 = 56
+Lineout
+Team 2 pitcher (Vicente Castillo): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Lance Haynes
+
+Alexis Rojas: rng1 = 37 + 12 - 12 + 1 = 38
+rng2 = 84 + 15 - 9 + 1 = 91
+Flyout
+Team 1 pitcher (Lance Haynes): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Angelo Contreras: rng1 = 1 + 12 - 12 + 1 = 2
+Strikeout
+Team 1 pitcher (Lance Haynes): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Grant Sheppard: rng1 = 9 + 11 - 12 + 1 = 9
+Strikeout
+Team 1 pitcher (Lance Haynes): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+TOP INNING 6
+
+Felix Alarcón: rng1 = 60 + 8 - 9 - 1 = 58
+rng2 = 17 + 7 - 7 - 1 = 16
+Groundout
+Team 2 pitcher (Vicente Castillo): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Kyrie Anderson: rng1 = 49 + 6 - 9 - 1 = 45
+rng2 = 99 + 7 - 7 - 1 = 98
+Flyout
+Team 2 pitcher (Vicente Castillo): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Derrick Hammond: rng1 = 15 + 12 - 9 - 1 = 17
+Strikeout
+Team 2 pitcher (Vicente Castillo): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+BOTTOM INNING 6
+
+Marty Horn: rng1 = 56 + 8 - 12 + 1 = 53
+rng2 = 80 + 10 - 9 + 1 = 82
+Flyout
+Team 1 pitcher (Lance Haynes): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Domingo Jimenez: rng1 = 19 + 9 - 12 + 1 = 17
+Strikeout
+Team 1 pitcher (Lance Haynes): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-4
+
+Ricky Bowers: rng1 = 74 + 10 - 12 + 1 = 73
+rng2 = 51 + 8 - 9 + 1 = 51
+Single
+Team 1 pitcher (Lance Haynes): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-4
+
+Darrell Williams: rng1 = 20 + 10 - 12 + 1 = 19
+Strikeout
+Team 1 pitcher (Lance Haynes): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-4
+
+-----------------------
+
+TOP INNING 7
+
+Team 2 pitcher change to Boone Almas
+
+Kyle Stewart: rng1 = 81 + 11 - 9 - 1 = 82
+rng2 = 96 + 7 - 11 - 1 = 91
+Double
+Team 2 pitcher (Boone Almas): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [1,2], base3: false
+base1: false, base2: true, base3: false
+Score: 4-4
+
+Ivan Guerra: rng1 = 77 + 10 - 9 - 1 = 77
+rng2 = 49 + 15 - 11 - 1 = 52
+Single
+Team 2 pitcher (Boone Almas): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [2,2], base2: false, base3: [1,2]
+base1: true, base2: false, base3: true
+Score: 4-4
+
+Alex Murphy: rng1 = 81 + 9 - 9 - 1 = 80
+rng2 = 69 + 12 - 11 - 1 = 69
+Double
+Team 2 pitcher (Boone Almas): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 0
+
+base1: false, base2: [3,2], base3: [2,2]
+base1: false, base2: true, base3: true
+Score: 5-4
+
+Danilo Villanueva: rng1 = 57 + 9 - 9 - 1 = 56
+rng2 = 23 + 12 - 11 - 1 = 23
+Groundout
+Team 2 pitcher (Boone Almas): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: false, base2: [3,2], base3: [2,2]
+base1: false, base2: true, base3: true
+Score: 5-4
+
+Jake Weaver: rng1 = 66 + 7 - 9 - 1 = 63
+rng2 = 72 + 9 - 11 - 1 = 69
+Flyout
+Team 2 pitcher (Boone Almas): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: false, base2: [3,2], base3: false
+base1: false, base2: true, base3: false
+Score: 6-4
+
+Erik Lowe: rng1 = 7 + 9 - 9 - 1 = 6
+Strikeout
+Team 2 pitcher (Boone Almas): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-4
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Ian Berg
+
+Varrien Cannon: rng1 = 60 + 5 - 9 + 1 = 57
+rng2 = 24 + 8 - 9 + 1 = 24
+Groundout
+Team 1 pitcher (Ian Berg): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-4
+
+Edward Cox: rng1 = 71 + 15 - 9 + 1 = 78
+rng2 = 31 + 11 - 9 + 1 = 34
+Single
+Team 1 pitcher (Ian Berg): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-4
+
+Alexis Rojas: rng1 = 100 + 12 - 9 + 1 = 104
+rng2 = 87 + 15 - 9 + 1 = 94
+Home run
+Team 1 pitcher (Ian Berg): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-6
+
+Angelo Contreras: rng1 = 30 + 12 - 9 + 1 = 34
+rng2 = 82 + 11 - 9 + 1 = 85
+Flyout
+Team 1 pitcher (Ian Berg): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-6
+
+Grant Sheppard: rng1 = 82 + 11 - 9 + 1 = 85
+rng2 = 6 + 10 - 9 + 1 = 8
+Single
+Team 1 pitcher (Ian Berg): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: [3,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-6
+
+Marty Horn: rng1 = 78 + 8 - 9 + 1 = 78
+rng2 = 29 + 10 - 9 + 1 = 31
+Single
+Team 1 pitcher (Ian Berg): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: [4,2], base2: false, base3: [3,2]
+base1: true, base2: false, base3: true
+Score: 6-6
+
+Domingo Jimenez: rng1 = 9 + 9 - 9 + 1 = 10
+Strikeout
+Team 1 pitcher (Ian Berg): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-6
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Gabriel Clark
+
+Felix Alarcón: rng1 = 63 + 8 - 9 - 1 = 61
+rng2 = 53 + 7 - 11 - 1 = 48
+Lineout
+Team 2 pitcher (Gabriel Clark): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-6
+
+Kyrie Anderson: rng1 = 79 + 6 - 9 - 1 = 75
+rng2 = 53 + 7 - 11 - 1 = 48
+Single
+Team 2 pitcher (Gabriel Clark): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [8,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-6
+
+Derrick Hammond: rng1 = 15 + 12 - 9 - 1 = 17
+Strikeout
+Team 2 pitcher (Gabriel Clark): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [8,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-6
+
+Kyle Stewart: rng1 = 90 + 11 - 9 - 1 = 91
+rng2 = 55 + 7 - 11 - 1 = 50
+Single
+Team 2 pitcher (Gabriel Clark): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [1,3], base2: [8,3], base3: false
+base1: true, base2: true, base3: false
+Score: 6-6
+
+Ivan Guerra: rng1 = 78 + 10 - 9 - 1 = 78
+rng2 = 34 + 15 - 11 - 1 = 37
+Single
+Team 2 pitcher (Gabriel Clark): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [2,3], base2: false, base3: [1,3]
+base1: true, base2: false, base3: true
+Score: 7-6
+
+Alex Murphy: rng1 = 34 + 9 - 9 - 1 = 33
+rng2 = 69 + 12 - 11 - 1 = 69
+Flyout
+Team 2 pitcher (Gabriel Clark): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-6
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Tommy Greene
+
+Ricky Bowers: rng1 = 85 + 10 - 10 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Tommy Greene): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [6,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-6
+
+Darrell Williams: rng1 = 23 + 10 - 10 + 1 = 24
+Strikeout
+Team 1 pitcher (Tommy Greene): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [6,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-6
+
+Varrien Cannon: rng1 = 87 + 5 - 10 + 1 = 83
+rng2 = 24 + 8 - 7 + 1 = 26
+Single
+Team 1 pitcher (Tommy Greene): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [8,3], base2: [6,3], base3: false
+base1: true, base2: true, base3: false
+Score: 7-6
+
+Edward Cox: rng1 = 53 + 15 - 10 + 1 = 59
+rng2 = 25 + 11 - 7 + 1 = 30
+Groundout
+Team 1 pitcher (Tommy Greene): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: [8,3], base3: [6,3]
+base1: false, base2: true, base3: true
+Score: 7-6
+
+Alexis Rojas: rng1 = 95 + 12 - 10 + 1 = 98
+rng2 = 87 + 15 - 7 + 1 = 96
+Home run
+Team 1 pitcher (Tommy Greene): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-9
+
+Angelo Contreras: rng1 = 61 + 12 - 10 + 1 = 64
+rng2 = 91 + 11 - 7 + 1 = 96
+Flyout
+Team 1 pitcher (Tommy Greene): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-9
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Brent Knight
+
+Danilo Villanueva: rng1 = 41 + 9 - 10 - 1 = 39
+rng2 = 16 + 12 - 12 - 1 = 15
+Groundout
+Team 2 pitcher (Brent Knight): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-9
+
+Jake Weaver: rng1 = 23 + 7 - 10 - 1 = 19
+Strikeout
+Team 2 pitcher (Brent Knight): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-9
+
+Erik Lowe: rng1 = 33 + 9 - 10 - 1 = 31
+rng2 = 21 + 8 - 12 - 1 = 16
+Groundout
+Team 2 pitcher (Brent Knight): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-9
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 15
+Team 2 hits: 12
+Team 1 runs: 7
+Team 2 runs: 9
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					26-Feb-2025
+Derrick Hammond	5	0	2	0	0	0	1	0	3					Austin
+Kyle Stewart	4	2	3	2	0	0	0	1	0	
+Ivan Guerra	5	1	2	0	0	0	1	0	1	
+Alex Murphy	5	0	3	1	0	0	2	0	0	
+Danilo Villanueva	5	0	1	1	0	0	0	0	0	
+Jake Weaver	5	1	1	0	0	0	1	0	1	
+Erik Lowe	5	1	1	0	1	0	1	0	1	
+Felix Alarcón	4	1	1	1	0	0	1	0	1	
+Kyrie Anderson	4	1	1	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Zack Huff	0	0	1	1	0	0	12	5	4	2	2	2	19	
+Lance Haynes	0	0	1	0	0	0	6	1	0	0	0	4	7	
+Ian Berg	0	0	1	0	0	0	3	4	2	1	0	1	7	
+Tommy Greene	0	1	1	0	0	0	3	2	3	1	0	1	6	
+Damon Houston	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					26-Feb-2025
+Edward Cox	5	2	2	0	1	0	0	0	0					Orlando
+Alexis Rojas	5	2	3	0	0	2	6	0	0	
+Angelo Contreras	5	0	0	0	0	0	1	0	1	
+Grant Sheppard	4	0	1	0	0	0	0	0	1	
+Marty Horn	4	1	2	0	0	1	1	0	0	
+Domingo Jimenez	4	0	0	0	0	0	0	0	3	
+Ricky Bowers	3	2	2	0	0	1	1	0	1	
+Darrell Williams	3	1	1	1	0	0	0	1	2	
+Varrien Cannon	3	1	1	0	0	0	0	1	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Jaime Morales	0	0	1	1	0	0	12	8	4	0	1	3	21	
+Vicente Castillo	0	0	1	0	0	0	6	1	0	0	0	1	7	
+Boone Almas	0	0	1	0	0	0	3	3	2	0	0	1	6	
+Gabriel Clark	1	0	1	0	0	0	3	3	1	0	0	1	6	
+Brent Knight	0	0	1	0	1	1	3	0	0	0	0	1	3	

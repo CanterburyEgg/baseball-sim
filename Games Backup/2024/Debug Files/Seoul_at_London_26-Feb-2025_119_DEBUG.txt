@@ -1,0 +1,701 @@
+TOP INNING 1
+
+Andres Pacheco: rng1 = 1 + 12 - 7 - 1 = 5
+Strikeout
+Team 2 pitcher (Brett Weber): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Jesus Montes: rng1 = 38 + 9 - 7 - 1 = 39
+rng2 = 52 + 9 - 7 - 1 = 53
+Lineout
+Team 2 pitcher (Brett Weber): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Daryl Washington: rng1 = 76 + 8 - 7 - 1 = 76
+rng2 = 91 + 11 - 7 - 1 = 94
+Home run
+Team 2 pitcher (Brett Weber): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Cevonte Riley: rng1 = 70 + 7 - 7 - 1 = 69
+rng2 = 48 + 10 - 7 - 1 = 50
+Lineout
+Team 2 pitcher (Brett Weber): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Toshio Hayashi: rng1 = 62 + 15 - 8 + 1 = 70
+Walk
+Team 1 pitcher (Freddie Roberts): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Dwayne Wilkinson: rng1 = 67 + 11 - 8 + 1 = 71
+Walk
+Team 1 pitcher (Freddie Roberts): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Phil Hill: rng1 = 72 + 9 - 8 + 1 = 74
+rng2 = 4 + 5 - 7 + 1 = 3
+Single
+Team 1 pitcher (Freddie Roberts): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 0
+
+base1: [2,0], base2: [1,0], base3: [0,0]
+base1: true, base2: true, base3: true
+Score: 1-0
+
+Edward Lowe: rng1 = 99 + 7 - 8 + 1 = 99
+rng2 = 29 + 10 - 7 + 1 = 33
+Single
+Team 1 pitcher (Freddie Roberts): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 0
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-2
+
+Jeffery Sims: rng1 = 35 + 8 - 8 + 1 = 36
+rng2 = 76 + 9 - 7 + 1 = 79
+Flyout
+Team 1 pitcher (Freddie Roberts): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 1
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-2
+
+Juan Reyes: rng1 = 21 + 7 - 8 + 1 = 21
+Strikeout
+Team 1 pitcher (Freddie Roberts): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 2
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-2
+
+Noel Ayers: rng1 = 11 + 6 - 8 + 1 = 10
+Strikeout
+Team 1 pitcher (Freddie Roberts): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 2
+
+Joshua Marsh: rng1 = 94 + 4 - 7 - 1 = 90
+Walk
+Team 2 pitcher (Brett Weber): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Patrick Marshall: rng1 = 38 + 7 - 7 - 1 = 37
+rng2 = 99 + 8 - 7 - 1 = 99
+Flyout
+Team 2 pitcher (Brett Weber): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Readale Roberson: rng1 = 49 + 7 - 7 - 1 = 48
+rng2 = 69 + 7 - 7 - 1 = 68
+Flyout
+Team 2 pitcher (Brett Weber): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Ronan Abbott: rng1 = 65 + 5 - 7 - 1 = 62
+rng2 = 55 + 8 - 7 - 1 = 55
+Lineout
+Team 2 pitcher (Brett Weber): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 2
+
+Joseph Porter: rng1 = 46 + 5 - 8 + 1 = 44
+rng2 = 44 + 7 - 7 + 1 = 45
+Groundout
+Team 1 pitcher (Freddie Roberts): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Agustin Torres: rng1 = 73 + 5 - 8 + 1 = 71
+Walk
+Team 1 pitcher (Freddie Roberts): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Toshio Hayashi: rng1 = 32 + 15 - 8 + 1 = 40
+rng2 = 15 + 9 - 7 + 1 = 18
+Groundout
+Team 1 pitcher (Freddie Roberts): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 3
+
+Kojima Kunio: rng1 = 4 + 5 - 7 - 1 = 1
+Strikeout
+Team 2 pitcher (Brett Weber): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Andres Pacheco: rng1 = 6 + 12 - 7 - 1 = 10
+Strikeout
+Team 2 pitcher (Brett Weber): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Jesus Montes: rng1 = 37 + 9 - 7 - 1 = 38
+rng2 = 36 + 9 - 7 - 1 = 37
+Groundout
+Team 2 pitcher (Brett Weber): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 3
+
+Dwayne Wilkinson: rng1 = 46 + 11 - 8 + 1 = 50
+rng2 = 27 + 5 - 7 + 1 = 26
+Groundout
+Team 1 pitcher (Freddie Roberts): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Phil Hill: rng1 = 70 + 9 - 8 + 1 = 72
+Walk
+Team 1 pitcher (Freddie Roberts): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Edward Lowe: rng1 = 94 + 7 - 8 + 1 = 94
+rng2 = 37 + 10 - 7 + 1 = 41
+Single
+Team 1 pitcher (Freddie Roberts): 13 batters faced, 2 runs allowed = 13 + 5.0 = 18.0, outs: 1
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-2
+
+Jeffery Sims: rng1 = 62 + 8 - 8 + 1 = 63
+rng2 = 33 + 9 - 7 + 1 = 36
+Groundout
+Team 1 pitcher (Freddie Roberts): 14 batters faced, 2 runs allowed = 14 + 5.0 = 19.0, outs: 2
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-2
+
+Juan Reyes: rng1 = 60 + 7 - 8 + 1 = 60
+rng2 = 72 + 8 - 7 + 1 = 74
+Flyout
+Team 1 pitcher (Freddie Roberts): 15 batters faced, 2 runs allowed = 15 + 5.0 = 20.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 4
+
+Daryl Washington: rng1 = 24 + 8 - 7 - 1 = 24
+Strikeout
+Team 2 pitcher (Brett Weber): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Cevonte Riley: rng1 = 8 + 7 - 7 - 1 = 7
+Strikeout
+Team 2 pitcher (Brett Weber): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Joshua Marsh: rng1 = 95 + 4 - 7 - 1 = 91
+rng2 = 60 + 10 - 7 - 1 = 62
+Single
+Team 2 pitcher (Brett Weber): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Patrick Marshall: rng1 = 54 + 7 - 7 - 1 = 53
+rng2 = 33 + 8 - 7 - 1 = 33
+Groundout
+Team 2 pitcher (Brett Weber): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 4
+
+Noel Ayers: rng1 = 81 + 6 - 8 + 1 = 80
+rng2 = 81 + 8 - 7 + 1 = 83
+Home run
+Team 1 pitcher (Freddie Roberts): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Joseph Porter: rng1 = 96 + 5 - 8 + 1 = 94
+rng2 = 28 + 7 - 7 + 1 = 29
+Single
+Team 1 pitcher (Freddie Roberts): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Agustin Torres: rng1 = 62 + 5 - 8 + 1 = 60
+rng2 = 31 + 6 - 7 + 1 = 31
+Groundout
+Team 1 pitcher (Freddie Roberts): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Toshio Hayashi: rng1 = 8 + 15 - 8 + 1 = 16
+Strikeout
+Team 1 pitcher (Freddie Roberts): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Dwayne Wilkinson: rng1 = 13 + 11 - 8 + 1 = 17
+Strikeout
+Team 1 pitcher (Freddie Roberts): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 5
+
+Readale Roberson: rng1 = 65 + 7 - 7 - 1 = 64
+rng2 = 22 + 7 - 7 - 1 = 21
+Groundout
+Team 2 pitcher (Brett Weber): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Ronan Abbott: rng1 = 5 + 5 - 7 - 1 = 2
+Strikeout
+Team 2 pitcher (Brett Weber): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Kojima Kunio: rng1 = 61 + 5 - 7 - 1 = 58
+rng2 = 72 + 7 - 7 - 1 = 71
+Flyout
+Team 2 pitcher (Brett Weber): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Ezequiel Santangelo
+
+Phil Hill: rng1 = 99 + 9 - 6 + 1 = 103
+rng2 = 98 + 5 - 6 + 1 = 98
+Home run
+Team 1 pitcher (Ezequiel Santangelo): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Edward Lowe: rng1 = 86 + 7 - 6 + 1 = 88
+Walk
+Team 1 pitcher (Ezequiel Santangelo): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Jeffery Sims: rng1 = 10 + 8 - 6 + 1 = 13
+rng2 = 84 + 9 - 6 + 1 = 88
+Flyout
+Team 1 pitcher (Ezequiel Santangelo): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Juan Reyes: rng1 = 38 + 7 - 6 + 1 = 40
+rng2 = 75 + 8 - 6 + 1 = 78
+Flyout
+Team 1 pitcher (Ezequiel Santangelo): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Noel Ayers: rng1 = 60 + 6 - 6 + 1 = 61
+rng2 = 65 + 8 - 6 + 1 = 68
+Flyout
+Team 1 pitcher (Ezequiel Santangelo): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+TOP INNING 6
+
+Andres Pacheco: rng1 = 23 + 12 - 7 - 1 = 27
+Strikeout
+Team 2 pitcher (Brett Weber): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Jesus Montes: rng1 = 80 + 9 - 7 - 1 = 81
+rng2 = 34 + 9 - 7 - 1 = 35
+Single
+Team 2 pitcher (Brett Weber): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Daryl Washington: rng1 = 2 + 8 - 7 - 1 = 2
+Strikeout
+Team 2 pitcher (Brett Weber): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Cevonte Riley: rng1 = 62 + 7 - 7 - 1 = 61
+rng2 = 47 + 10 - 7 - 1 = 49
+Lineout
+Team 2 pitcher (Brett Weber): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Ron Moore
+
+Joseph Porter: rng1 = 65 + 5 - 6 + 1 = 65
+rng2 = 45 + 7 - 6 + 1 = 47
+Groundout
+Team 1 pitcher (Ron Moore): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Agustin Torres: rng1 = 14 + 5 - 6 + 1 = 14
+rng2 = 67 + 6 - 6 + 1 = 68
+Flyout
+Team 1 pitcher (Ron Moore): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Toshio Hayashi: rng1 = 1 + 15 - 6 + 1 = 11
+rng2 = 26 + 9 - 6 + 1 = 30
+Groundout
+Team 1 pitcher (Ron Moore): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+TOP INNING 7
+
+Joshua Marsh: rng1 = 35 + 4 - 7 - 1 = 31
+rng2 = 88 + 10 - 7 - 1 = 90
+Flyout
+Team 2 pitcher (Brett Weber): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Patrick Marshall: rng1 = 45 + 7 - 7 - 1 = 44
+rng2 = 44 + 8 - 7 - 1 = 44
+Groundout
+Team 2 pitcher (Brett Weber): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Readale Roberson: rng1 = 37 + 7 - 7 - 1 = 36
+rng2 = 67 + 7 - 7 - 1 = 66
+Flyout
+Team 2 pitcher (Brett Weber): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+BOTTOM INNING 7
+
+Dwayne Wilkinson: rng1 = 17 + 11 - 6 + 1 = 23
+Strikeout
+Team 1 pitcher (Ron Moore): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Phil Hill: rng1 = 34 + 9 - 6 + 1 = 38
+rng2 = 12 + 5 - 6 + 1 = 12
+Groundout
+Team 1 pitcher (Ron Moore): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Edward Lowe: rng1 = 67 + 7 - 6 + 1 = 69
+rng2 = 68 + 10 - 6 + 1 = 73
+Flyout
+Team 1 pitcher (Ron Moore): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+TOP INNING 8
+
+Ronan Abbott: rng1 = 40 + 5 - 7 - 1 = 37
+rng2 = 27 + 8 - 7 - 1 = 27
+Groundout
+Team 2 pitcher (Brett Weber): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Kojima Kunio: rng1 = 62 + 5 - 7 - 1 = 59
+rng2 = 45 + 7 - 7 - 1 = 44
+Groundout
+Team 2 pitcher (Brett Weber): 27 batters faced, 1 runs allowed = 27 + 2.5 = 29.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Andres Pacheco: rng1 = 73 + 12 - 7 - 1 = 77
+rng2 = 26 + 11 - 7 - 1 = 29
+Single
+Team 2 pitcher (Brett Weber): 28 batters faced, 1 runs allowed = 28 + 2.5 = 30.5, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Jesus Montes: rng1 = 69 + 9 - 7 - 1 = 70
+Walk
+Team 2 pitcher (Brett Weber): 29 batters faced, 1 runs allowed = 29 + 2.5 = 31.5, outs: 2
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-4
+
+Daryl Washington: rng1 = 60 + 8 - 7 - 1 = 60
+rng2 = 11 + 11 - 7 - 1 = 14
+Groundout
+Team 2 pitcher (Brett Weber): 30 batters faced, 1 runs allowed = 30 + 2.5 = 32.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-4
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Aaron Hall
+
+Jeffery Sims: rng1 = 97 + 8 - 8 + 1 = 98
+rng2 = 38 + 9 - 8 + 1 = 40
+Single
+Team 1 pitcher (Aaron Hall): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [4,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Juan Reyes: rng1 = 58 + 7 - 8 + 1 = 58
+rng2 = 91 + 8 - 8 + 1 = 92
+Flyout
+Team 1 pitcher (Aaron Hall): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [4,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Noel Ayers: rng1 = 100 + 6 - 8 + 1 = 99
+rng2 = 69 + 8 - 8 + 1 = 70
+Double
+Team 1 pitcher (Aaron Hall): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [6,3], base3: false
+base1: false, base2: true, base3: false
+Score: 1-5
+
+Joseph Porter: rng1 = 58 + 5 - 8 + 1 = 56
+rng2 = 13 + 7 - 8 + 1 = 13
+Groundout
+Team 1 pitcher (Aaron Hall): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [6,3], base3: false
+base1: false, base2: true, base3: false
+Score: 1-5
+
+Agustin Torres: rng1 = 41 + 5 - 8 + 1 = 39
+rng2 = 24 + 6 - 8 + 1 = 23
+Groundout
+Team 1 pitcher (Aaron Hall): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Finn Sachse
+
+Cevonte Riley: rng1 = 35 + 7 - 9 - 1 = 32
+rng2 = 58 + 10 - 7 - 1 = 60
+Flyout
+Team 2 pitcher (Finn Sachse): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Joshua Marsh: rng1 = 36 + 4 - 9 - 1 = 30
+rng2 = 90 + 10 - 7 - 1 = 92
+Flyout
+Team 2 pitcher (Finn Sachse): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Patrick Marshall: rng1 = 44 + 7 - 9 - 1 = 41
+rng2 = 99 + 8 - 7 - 1 = 99
+Flyout
+Team 2 pitcher (Finn Sachse): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 4
+Team 2 hits: 8
+Team 1 runs: 1
+Team 2 runs: 5
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					26-Feb-2025
+Andres Pacheco	4	0	1	0	0	0	0	0	3					Seoul
+Jesus Montes	3	0	1	0	0	0	0	1	0	
+Daryl Washington	4	1	1	0	0	1	1	0	2	
+Cevonte Riley	4	0	0	0	0	0	0	0	1	
+Joshua Marsh	3	0	1	0	0	0	0	1	0	
+Patrick Marshall	4	0	0	0	0	0	0	0	0	
+Readale Roberson	3	0	0	0	0	0	0	0	0	
+Ronan Abbott	3	0	0	0	0	0	0	0	1	
+Kojima Kunio	3	0	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Freddie Roberts	0	1	1	1	0	0	12	5	3	1	4	4	20	
+Ezequiel Santangelo	0	0	1	0	0	0	3	1	1	1	1	0	5	
+Ron Moore	0	0	1	0	0	0	6	0	0	0	0	1	6	
+Aaron Hall	0	0	1	0	0	0	3	2	1	0	0	0	5	
+Moises Alvarado	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					26-Feb-2025
+Toshio Hayashi	3	1	0	0	0	0	0	1	1					London
+Dwayne Wilkinson	3	1	0	0	0	0	0	1	2	
+Phil Hill	3	1	2	0	0	1	1	1	0	
+Edward Lowe	3	0	2	0	0	0	2	1	0	
+Jeffery Sims	4	1	1	0	0	0	0	0	0	
+Juan Reyes	4	0	0	0	0	0	0	0	1	
+Noel Ayers	4	1	2	1	0	1	2	0	1	
+Joseph Porter	4	0	1	0	0	0	0	0	0	
+Agustin Torres	3	0	0	0	0	0	0	1	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Brett Weber	1	0	1	1	0	0	24	4	1	1	2	8	30	
+Finn Sachse	0	0	1	0	0	0	3	0	0	0	0	0	3	
+Nate Tucker	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Jorge Pozo	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Legend Brooks	0	0	0	0	0	0	0	0	0	0	0	0	0	

@@ -1,0 +1,931 @@
+TOP INNING 1
+
+Jacobi Davis: rng1 = 44 + 16 - 7 - 1 = 52
+rng2 = 99 + 14 - 7 - 1 = 105
+Flyout
+Team 2 pitcher (Estefania Tejedor): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Rodney Shaffer: rng1 = 89 + 15 - 7 - 1 = 96
+rng2 = 95 + 13 - 7 - 1 = 100
+Home run
+Team 2 pitcher (Estefania Tejedor): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Kazuhiro Ida: rng1 = 49 + 14 - 7 - 1 = 55
+rng2 = 48 + 16 - 7 - 1 = 56
+Lineout
+Team 2 pitcher (Estefania Tejedor): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Byron Lloyd: rng1 = 91 + 14 - 7 - 1 = 97
+rng2 = 56 + 14 - 7 - 1 = 62
+Single
+Team 2 pitcher (Estefania Tejedor): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Guy Nicholson: rng1 = 70 + 14 - 7 - 1 = 76
+rng2 = 4 + 13 - 7 - 1 = 9
+Single
+Team 2 pitcher (Estefania Tejedor): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Arturo Trujillo: rng1 = 18 + 14 - 7 - 1 = 24
+Strikeout
+Team 2 pitcher (Estefania Tejedor): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Ashraf Saad: rng1 = 85 + 13 - 11 + 1 = 88
+Walk
+Team 1 pitcher (Esteban Coles): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Drew Briggs: rng1 = 69 + 13 - 11 + 1 = 72
+Walk
+Team 1 pitcher (Esteban Coles): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Travis Nichols: rng1 = 80 + 13 - 11 + 1 = 83
+rng2 = 24 + 9 - 8 + 1 = 26
+Single
+Team 1 pitcher (Esteban Coles): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 0
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Vicente Uribe: rng1 = 95 + 11 - 11 + 1 = 96
+rng2 = 86 + 12 - 8 + 1 = 91
+Double
+Team 1 pitcher (Esteban Coles): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 0
+
+base1: false, base2: [3,0], base3: [2,0]
+base1: false, base2: true, base3: true
+Score: 1-2
+
+David Hunter: rng1 = 88 + 8 - 11 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Esteban Coles): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 0
+
+base1: [4,0], base2: [3,0], base3: [2,0]
+base1: true, base2: true, base3: true
+Score: 1-2
+
+Moises Bolivar: rng1 = 63 + 8 - 11 + 1 = 61
+rng2 = 15 + 8 - 8 + 1 = 16
+Groundout
+Team 1 pitcher (Esteban Coles): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 1
+
+base1: false, base2: [4,0], base3: [3,0]
+base1: false, base2: true, base3: true
+Score: 1-3
+
+Pierre Moreau: rng1 = 22 + 8 - 11 + 1 = 20
+Strikeout
+Team 1 pitcher (Esteban Coles): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 2
+
+base1: false, base2: [4,0], base3: [3,0]
+base1: false, base2: true, base3: true
+Score: 1-3
+
+Evan Hudson: rng1 = 65 + 6 - 11 + 1 = 61
+rng2 = 80 + 8 - 8 + 1 = 81
+Flyout
+Team 1 pitcher (Esteban Coles): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 2
+
+Finlay Webb: rng1 = 7 + 11 - 7 - 1 = 10
+Strikeout
+Team 2 pitcher (Estefania Tejedor): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Tyler Sanders: rng1 = 52 + 11 - 7 - 1 = 55
+rng2 = 68 + 8 - 7 - 1 = 68
+Flyout
+Team 2 pitcher (Estefania Tejedor): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Orlando Bradford: rng1 = 97 + 12 - 7 - 1 = 101
+rng2 = 8 + 7 - 7 - 1 = 7
+Single
+Team 2 pitcher (Estefania Tejedor): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Jacobi Davis: rng1 = 33 + 16 - 7 - 1 = 41
+rng2 = 74 + 14 - 7 - 1 = 80
+Flyout
+Team 2 pitcher (Estefania Tejedor): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+BOTTOM INNING 2
+
+Tyrone Morton: rng1 = 46 + 7 - 11 + 1 = 43
+rng2 = 6 + 6 - 8 + 1 = 5
+Groundout
+Team 1 pitcher (Esteban Coles): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-3
+
+Ashraf Saad: rng1 = 97 + 13 - 11 + 1 = 100
+rng2 = 53 + 11 - 8 + 1 = 57
+Single
+Team 1 pitcher (Esteban Coles): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Drew Briggs: rng1 = 62 + 13 - 11 + 1 = 65
+rng2 = 76 + 9 - 8 + 1 = 78
+Flyout
+Team 1 pitcher (Esteban Coles): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Travis Nichols: rng1 = 77 + 13 - 11 + 1 = 80
+rng2 = 35 + 9 - 8 + 1 = 37
+Single
+Team 1 pitcher (Esteban Coles): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 2
+
+base1: [2,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-3
+
+Vicente Uribe: rng1 = 8 + 11 - 11 + 1 = 9
+Strikeout
+Team 1 pitcher (Esteban Coles): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-3
+
+-----------------------
+
+TOP INNING 3
+
+Rodney Shaffer: rng1 = 80 + 15 - 7 - 1 = 87
+Walk
+Team 2 pitcher (Estefania Tejedor): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-3
+
+Kazuhiro Ida: rng1 = 79 + 14 - 7 - 1 = 85
+rng2 = 81 + 16 - 7 - 1 = 89
+Double
+Team 2 pitcher (Estefania Tejedor): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 0
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-3
+
+Byron Lloyd: rng1 = 97 + 14 - 7 - 1 = 103
+rng2 = 48 + 14 - 7 - 1 = 54
+Single
+Team 2 pitcher (Estefania Tejedor): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Guy Nicholson: rng1 = 7 + 14 - 7 - 1 = 13
+rng2 = 96 + 13 - 7 - 1 = 101
+Flyout
+Team 2 pitcher (Estefania Tejedor): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Arturo Trujillo: rng1 = 7 + 14 - 7 - 1 = 13
+rng2 = 59 + 11 - 7 - 1 = 62
+Flyout
+Team 2 pitcher (Estefania Tejedor): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Finlay Webb: rng1 = 75 + 11 - 7 - 1 = 78
+rng2 = 68 + 8 - 7 - 1 = 68
+Double
+Team 2 pitcher (Estefania Tejedor): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 2
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 4-3
+
+Tyler Sanders: rng1 = 32 + 11 - 7 - 1 = 35
+rng2 = 20 + 8 - 7 - 1 = 20
+Groundout
+Team 2 pitcher (Estefania Tejedor): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+BOTTOM INNING 3
+
+David Hunter: rng1 = 25 + 8 - 11 + 1 = 23
+Strikeout
+Team 1 pitcher (Esteban Coles): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Moises Bolivar: rng1 = 95 + 8 - 11 + 1 = 93
+rng2 = 42 + 8 - 8 + 1 = 43
+Single
+Team 1 pitcher (Esteban Coles): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Pierre Moreau: rng1 = 71 + 8 - 11 + 1 = 69
+rng2 = 81 + 8 - 8 + 1 = 82
+Flyout
+Team 1 pitcher (Esteban Coles): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Evan Hudson: rng1 = 67 + 6 - 11 + 1 = 63
+rng2 = 92 + 8 - 8 + 1 = 93
+Flyout
+Team 1 pitcher (Esteban Coles): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+TOP INNING 4
+
+Orlando Bradford: rng1 = 78 + 12 - 7 - 1 = 82
+rng2 = 15 + 7 - 7 - 1 = 14
+Single
+Team 2 pitcher (Estefania Tejedor): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Jacobi Davis: rng1 = 96 + 16 - 7 - 1 = 104
+rng2 = 55 + 14 - 7 - 1 = 61
+Single
+Team 2 pitcher (Estefania Tejedor): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 0
+
+base1: [0,0], base2: [8,0], base3: false
+base1: true, base2: true, base3: false
+Score: 4-3
+
+Rodney Shaffer: rng1 = 85 + 15 - 7 - 1 = 92
+rng2 = 43 + 13 - 7 - 1 = 48
+Single
+Team 2 pitcher (Estefania Tejedor): 20 batters faced, 5 runs allowed = 20 + 12.5 = 32.5, outs: 0
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 5-3
+
+Kazuhiro Ida: rng1 = 45 + 14 - 7 - 1 = 51
+rng2 = 31 + 16 - 7 - 1 = 39
+Groundout
+Team 2 pitcher (Estefania Tejedor): 21 batters faced, 6 runs allowed = 21 + 15.0 = 36.0, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 6-3
+
+Team 2 pitcher change to Lance Kirby
+
+Byron Lloyd: rng1 = 1 + 14 - 13 - 1 = 1
+Strikeout
+Team 2 pitcher (Lance Kirby): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 6-3
+
+Guy Nicholson: rng1 = 62 + 14 - 13 - 1 = 62
+rng2 = 65 + 13 - 13 - 1 = 64
+Flyout
+Team 2 pitcher (Lance Kirby): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-3
+
+-----------------------
+
+BOTTOM INNING 4
+
+Tyrone Morton: rng1 = 37 + 7 - 11 + 1 = 34
+rng2 = 31 + 6 - 8 + 1 = 30
+Groundout
+Team 1 pitcher (Esteban Coles): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Ashraf Saad: rng1 = 17 + 13 - 11 + 1 = 20
+Strikeout
+Team 1 pitcher (Esteban Coles): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Drew Briggs: rng1 = 81 + 13 - 11 + 1 = 84
+rng2 = 12 + 9 - 8 + 1 = 14
+Single
+Team 1 pitcher (Esteban Coles): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-3
+
+Travis Nichols: rng1 = 5 + 13 - 11 + 1 = 8
+Strikeout
+Team 1 pitcher (Esteban Coles): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-3
+
+-----------------------
+
+TOP INNING 5
+
+Arturo Trujillo: rng1 = 45 + 14 - 13 - 1 = 45
+rng2 = 48 + 11 - 13 - 1 = 45
+Groundout
+Team 2 pitcher (Lance Kirby): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-3
+
+Finlay Webb: rng1 = 78 + 11 - 13 - 1 = 75
+rng2 = 41 + 8 - 13 - 1 = 35
+Single
+Team 2 pitcher (Lance Kirby): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-3
+
+Tyler Sanders: rng1 = 87 + 11 - 13 - 1 = 84
+rng2 = 13 + 8 - 13 - 1 = 7
+Single
+Team 2 pitcher (Lance Kirby): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [7,1], base2: [6,1], base3: false
+base1: true, base2: true, base3: false
+Score: 6-3
+
+Orlando Bradford: rng1 = 3 + 12 - 13 - 1 = 1
+Strikeout
+Team 2 pitcher (Lance Kirby): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [7,1], base2: [6,1], base3: false
+base1: true, base2: true, base3: false
+Score: 6-3
+
+Jacobi Davis: rng1 = 71 + 16 - 13 - 1 = 73
+rng2 = 80 + 14 - 13 - 1 = 80
+Home run
+Team 2 pitcher (Lance Kirby): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-3
+
+Team 2 pitcher change to Alfonso Juarez
+
+Rodney Shaffer: rng1 = 98 + 15 - 11 - 1 = 101
+rng2 = 23 + 13 - 13 - 1 = 22
+Single
+Team 2 pitcher (Alfonso Juarez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-3
+
+Kazuhiro Ida: rng1 = 93 + 14 - 11 - 1 = 95
+rng2 = 55 + 16 - 13 - 1 = 57
+Single
+Team 2 pitcher (Alfonso Juarez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: [2,2], base2: [1,2], base3: false
+base1: true, base2: true, base3: false
+Score: 9-3
+
+Byron Lloyd: rng1 = 72 + 14 - 11 - 1 = 74
+rng2 = 51 + 14 - 13 - 1 = 51
+Single
+Team 2 pitcher (Alfonso Juarez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [3,2], base2: [2,2], base3: [1,2]
+base1: true, base2: true, base3: true
+Score: 9-3
+
+Guy Nicholson: rng1 = 35 + 14 - 11 - 1 = 37
+rng2 = 10 + 13 - 13 - 1 = 9
+Groundout
+Team 2 pitcher (Alfonso Juarez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-3
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Tim Brooks
+
+Vicente Uribe: rng1 = 74 + 11 - 10 + 1 = 76
+rng2 = 14 + 12 - 10 + 1 = 17
+Single
+Team 1 pitcher (Tim Brooks): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-3
+
+David Hunter: rng1 = 12 + 8 - 10 + 1 = 11
+rng2 = 83 + 10 - 10 + 1 = 84
+Flyout
+Team 1 pitcher (Tim Brooks): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-3
+
+Moises Bolivar: rng1 = 91 + 8 - 10 + 1 = 90
+Walk
+Team 1 pitcher (Tim Brooks): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [5,1], base2: [3,1], base3: false
+base1: true, base2: true, base3: false
+Score: 9-3
+
+Pierre Moreau: rng1 = 47 + 8 - 10 + 1 = 46
+rng2 = 23 + 8 - 10 + 1 = 22
+Groundout
+Team 1 pitcher (Tim Brooks): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [6,1], base2: false, base3: [3,1]
+base1: true, base2: false, base3: true
+Score: 9-3
+
+Evan Hudson: rng1 = 16 + 6 - 10 + 1 = 13
+rng2 = 77 + 8 - 10 + 1 = 76
+Flyout
+Team 1 pitcher (Tim Brooks): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-3
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Keshawn Thomas
+
+Arturo Trujillo: rng1 = 45 + 14 - 8 - 1 = 50
+rng2 = 13 + 11 - 6 - 1 = 17
+Groundout
+Team 2 pitcher (Keshawn Thomas): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-3
+
+Finlay Webb: rng1 = 51 + 11 - 8 - 1 = 53
+rng2 = 77 + 8 - 6 - 1 = 78
+Flyout
+Team 2 pitcher (Keshawn Thomas): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-3
+
+Tyler Sanders: rng1 = 73 + 11 - 8 - 1 = 75
+rng2 = 54 + 8 - 6 - 1 = 55
+Single
+Team 2 pitcher (Keshawn Thomas): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [7,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-3
+
+Orlando Bradford: rng1 = 46 + 12 - 8 - 1 = 49
+rng2 = 84 + 7 - 6 - 1 = 84
+Flyout
+Team 2 pitcher (Keshawn Thomas): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-3
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Curtis Holmes
+
+Tyrone Morton: rng1 = 12 + 7 - 10 + 1 = 10
+Strikeout
+Team 1 pitcher (Curtis Holmes): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-3
+
+Ashraf Saad: rng1 = 36 + 13 - 10 + 1 = 40
+rng2 = 65 + 11 - 10 + 1 = 67
+Flyout
+Team 1 pitcher (Curtis Holmes): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 9-3
+
+Drew Briggs: rng1 = 2 + 13 - 10 + 1 = 6
+Strikeout
+Team 1 pitcher (Curtis Holmes): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 9-3
+
+-----------------------
+
+TOP INNING 7
+
+Jacobi Davis: rng1 = 77 + 16 - 8 - 1 = 84
+rng2 = 28 + 14 - 6 - 1 = 35
+Single
+Team 2 pitcher (Keshawn Thomas): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [0,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-3
+
+Rodney Shaffer: rng1 = 12 + 15 - 8 - 1 = 18
+Strikeout
+Team 2 pitcher (Keshawn Thomas): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [0,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-3
+
+Kazuhiro Ida: rng1 = 46 + 14 - 8 - 1 = 51
+rng2 = 73 + 16 - 6 - 1 = 82
+Flyout
+Team 2 pitcher (Keshawn Thomas): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [0,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 9-3
+
+Byron Lloyd: rng1 = 100 + 14 - 8 - 1 = 105
+rng2 = 83 + 14 - 6 - 1 = 90
+Double
+Team 2 pitcher (Keshawn Thomas): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: false, base2: [3,3], base3: [0,3]
+base1: false, base2: true, base3: true
+Score: 9-3
+
+Guy Nicholson: rng1 = 95 + 14 - 8 - 1 = 100
+rng2 = 32 + 13 - 6 - 1 = 38
+Single
+Team 2 pitcher (Keshawn Thomas): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 2
+
+base1: [4,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 11-3
+
+Team 2 pitcher change to Rex Burnett
+
+Arturo Trujillo: rng1 = 41 + 14 - 14 - 1 = 40
+rng2 = 16 + 11 - 15 - 1 = 11
+Groundout
+Team 2 pitcher (Rex Burnett): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 11-3
+
+-----------------------
+
+BOTTOM INNING 7
+
+Travis Nichols: rng1 = 44 + 13 - 10 + 1 = 48
+rng2 = 45 + 9 - 10 + 1 = 45
+Groundout
+Team 1 pitcher (Curtis Holmes): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 11-3
+
+Vicente Uribe: rng1 = 62 + 11 - 10 + 1 = 64
+rng2 = 88 + 12 - 10 + 1 = 91
+Flyout
+Team 1 pitcher (Curtis Holmes): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 11-3
+
+David Hunter: rng1 = 25 + 8 - 10 + 1 = 24
+Strikeout
+Team 1 pitcher (Curtis Holmes): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 11-3
+
+-----------------------
+
+TOP INNING 8
+
+Finlay Webb: rng1 = 36 + 11 - 14 - 1 = 32
+rng2 = 13 + 8 - 15 - 1 = 5
+Groundout
+Team 2 pitcher (Rex Burnett): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 11-3
+
+Tyler Sanders: rng1 = 81 + 11 - 14 - 1 = 77
+rng2 = 17 + 8 - 15 - 1 = 9
+Single
+Team 2 pitcher (Rex Burnett): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [7,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 11-3
+
+Orlando Bradford: rng1 = 95 + 12 - 14 - 1 = 92
+rng2 = 83 + 7 - 15 - 1 = 74
+Double
+Team 2 pitcher (Rex Burnett): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: [8,4], base3: [7,4]
+base1: false, base2: true, base3: true
+Score: 11-3
+
+Jacobi Davis: rng1 = 20 + 16 - 14 - 1 = 21
+Strikeout
+Team 2 pitcher (Rex Burnett): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: [8,4], base3: [7,4]
+base1: false, base2: true, base3: true
+Score: 11-3
+
+Rodney Shaffer: rng1 = 15 + 15 - 14 - 1 = 15
+rng2 = 48 + 13 - 15 - 1 = 45
+Groundout
+Team 2 pitcher (Rex Burnett): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 11-3
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Jackson Peck
+
+Moises Bolivar: rng1 = 49 + 8 - 10 + 1 = 48
+rng2 = 6 + 8 - 8 + 1 = 7
+Groundout
+Team 1 pitcher (Jackson Peck): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 11-3
+
+Pierre Moreau: rng1 = 2 + 8 - 10 + 1 = 1
+Strikeout
+Team 1 pitcher (Jackson Peck): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 11-3
+
+Evan Hudson: rng1 = 70 + 6 - 10 + 1 = 67
+rng2 = 91 + 8 - 8 + 1 = 92
+Flyout
+Team 1 pitcher (Jackson Peck): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 11-3
+
+-----------------------
+
+TOP INNING 9
+
+Kazuhiro Ida: rng1 = 68 + 14 - 14 - 1 = 67
+rng2 = 81 + 16 - 15 - 1 = 81
+Flyout
+Team 2 pitcher (Rex Burnett): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 11-3
+
+Byron Lloyd: rng1 = 10 + 14 - 14 - 1 = 9
+Strikeout
+Team 2 pitcher (Rex Burnett): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 11-3
+
+Guy Nicholson: rng1 = 82 + 14 - 14 - 1 = 81
+rng2 = 84 + 13 - 15 - 1 = 81
+Home run
+Team 2 pitcher (Rex Burnett): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 12-3
+
+Arturo Trujillo: rng1 = 50 + 14 - 14 - 1 = 49
+rng2 = 74 + 11 - 15 - 1 = 69
+Flyout
+Team 2 pitcher (Rex Burnett): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 12-3
+
+-----------------------
+
+BOTTOM INNING 9
+
+Tyrone Morton: rng1 = 94 + 7 - 10 + 1 = 92
+rng2 = 36 + 6 - 8 + 1 = 35
+Single
+Team 1 pitcher (Jackson Peck): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [8,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 12-3
+
+Ashraf Saad: rng1 = 68 + 13 - 10 + 1 = 72
+Walk
+Team 1 pitcher (Jackson Peck): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [0,3], base2: [8,3], base3: false
+base1: true, base2: true, base3: false
+Score: 12-3
+
+Drew Briggs: rng1 = 61 + 13 - 10 + 1 = 65
+rng2 = 40 + 9 - 8 + 1 = 42
+Groundout
+Team 1 pitcher (Jackson Peck): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [1,3], base2: [0,3], base3: false
+base1: true, base2: true, base3: false
+Score: 12-3
+
+Travis Nichols: rng1 = 2 + 13 - 10 + 1 = 6
+Strikeout
+Team 1 pitcher (Jackson Peck): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [1,3], base2: [0,3], base3: false
+base1: true, base2: true, base3: false
+Score: 12-3
+
+Vicente Uribe: rng1 = 86 + 11 - 10 + 1 = 88
+Walk
+Team 1 pitcher (Jackson Peck): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [3,3], base2: [1,3], base3: [0,3]
+base1: true, base2: true, base3: true
+Score: 12-3
+
+David Hunter: rng1 = 76 + 8 - 10 + 1 = 75
+rng2 = 2 + 10 - 8 + 1 = 5
+Single
+Team 1 pitcher (Jackson Peck): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 2
+
+base1: [4,3], base2: [3,3], base3: false
+base1: true, base2: true, base3: false
+Score: 12-5
+
+Team 1 pitcher change to Bradley Weaver
+
+Moises Bolivar: rng1 = 88 + 8 - 11 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Bradley Weaver): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: [5,4], base2: [4,3], base3: [3,3]
+base1: true, base2: true, base3: true
+Score: 12-5
+
+Pierre Moreau: rng1 = 10 + 8 - 11 + 1 = 8
+Strikeout
+Team 1 pitcher (Bradley Weaver): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 12-5
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 23
+Team 2 hits: 9
+Team 1 runs: 12
+Team 2 runs: 5
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					26-Feb-2025
+Jacobi Davis	6	3	3	0	0	1	3	0	1					Nashville
+Rodney Shaffer	5	2	3	0	0	1	2	1	1	
+Kazuhiro Ida	6	1	2	1	0	0	2	0	0	
+Byron Lloyd	6	2	4	1	0	0	1	0	2	
+Guy Nicholson	6	1	3	0	0	1	3	0	0	
+Arturo Trujillo	6	0	0	0	0	0	0	0	1	
+Finlay Webb	5	1	2	1	0	0	1	0	1	
+Tyler Sanders	5	1	3	0	0	0	0	0	0	
+Orlando Bradford	5	1	3	1	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Esteban Coles	1	0	1	1	0	0	12	6	3	0	2	5	21	
+Tim Brooks	0	0	1	0	0	0	3	1	0	0	1	0	5	
+Curtis Holmes	0	0	1	0	0	0	6	0	0	0	0	3	6	
+Jackson Peck	0	0	1	0	0	0	5	2	2	0	2	2	9	
+Bradley Weaver	0	0	1	0	0	0	1	0	0	0	0	1	2	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					26-Feb-2025
+Ashraf Saad	3	2	1	0	0	0	0	2	1					New Haven
+Drew Briggs	4	2	1	0	0	0	0	1	1	
+Travis Nichols	5	1	2	0	0	0	1	0	2	
+Vicente Uribe	4	0	2	1	0	0	1	1	1	
+David Hunter	4	0	1	0	0	0	2	0	2	
+Moises Bolivar	3	0	1	0	0	0	1	1	0	
+Pierre Moreau	5	0	0	0	0	0	0	0	3	
+Evan Hudson	4	0	0	0	0	0	0	0	0	
+Tyrone Morton	4	0	1	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Estefania Tejedor	0	1	1	1	0	0	10	10	6	1	1	2	21	
+Lance Kirby	0	0	1	0	0	0	4	3	3	1	0	2	7	
+Alfonso Juarez	0	0	1	0	0	0	1	3	0	0	0	0	4	
+Keshawn Thomas	0	0	1	0	0	0	5	4	2	0	0	1	9	
+Rex Burnett	0	0	1	0	0	0	7	3	1	1	0	2	10	

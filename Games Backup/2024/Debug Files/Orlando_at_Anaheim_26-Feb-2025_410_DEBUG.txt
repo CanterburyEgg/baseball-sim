@@ -1,0 +1,918 @@
+TOP INNING 1
+
+Edward Cox: rng1 = 5 + 15 - 6 - 1 = 13
+rng2 = 80 + 11 - 6 - 1 = 84
+Flyout
+Team 2 pitcher (Elias Betancourt): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Alexis Rojas: rng1 = 3 + 12 - 6 - 1 = 8
+Strikeout
+Team 2 pitcher (Elias Betancourt): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Angelo Contreras: rng1 = 76 + 12 - 6 - 1 = 81
+rng2 = 13 + 11 - 6 - 1 = 17
+Single
+Team 2 pitcher (Elias Betancourt): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Grant Sheppard: rng1 = 41 + 11 - 6 - 1 = 45
+rng2 = 33 + 10 - 6 - 1 = 36
+Groundout
+Team 2 pitcher (Elias Betancourt): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Ramon Cabrera: rng1 = 44 + 14 - 6 + 1 = 53
+rng2 = 92 + 11 - 8 + 1 = 96
+Flyout
+Team 1 pitcher (Jaime Morales): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Les Drake: rng1 = 29 + 9 - 6 + 1 = 33
+rng2 = 35 + 13 - 8 + 1 = 41
+Groundout
+Team 1 pitcher (Jaime Morales): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Emilio Soto: rng1 = 9 + 9 - 6 + 1 = 13
+rng2 = 88 + 10 - 8 + 1 = 91
+Flyout
+Team 1 pitcher (Jaime Morales): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Marty Horn: rng1 = 24 + 8 - 6 - 1 = 25
+Strikeout
+Team 2 pitcher (Elias Betancourt): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Domingo Jimenez: rng1 = 13 + 9 - 6 - 1 = 15
+rng2 = 82 + 9 - 6 - 1 = 84
+Flyout
+Team 2 pitcher (Elias Betancourt): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Ricky Bowers: rng1 = 66 + 10 - 6 - 1 = 69
+rng2 = 88 + 8 - 6 - 1 = 89
+Flyout
+Team 2 pitcher (Elias Betancourt): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Adam Marshall: rng1 = 80 + 8 - 6 + 1 = 83
+rng2 = 94 + 10 - 8 + 1 = 97
+Home run
+Team 1 pitcher (Jaime Morales): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Elmer Sparks: rng1 = 89 + 6 - 6 + 1 = 90
+Walk
+Team 1 pitcher (Jaime Morales): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Max Lawrence: rng1 = 18 + 8 - 6 + 1 = 21
+Strikeout
+Team 1 pitcher (Jaime Morales): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Chaquille Barnett: rng1 = 49 + 9 - 6 + 1 = 53
+rng2 = 57 + 7 - 8 + 1 = 57
+Lineout
+Team 1 pitcher (Jaime Morales): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Bradley Simon: rng1 = 53 + 7 - 6 + 1 = 55
+rng2 = 23 + 6 - 8 + 1 = 22
+Groundout
+Team 1 pitcher (Jaime Morales): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 3
+
+Darrell Williams: rng1 = 65 + 10 - 6 - 1 = 68
+rng2 = 88 + 8 - 6 - 1 = 89
+Flyout
+Team 2 pitcher (Elias Betancourt): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Varrien Cannon: rng1 = 93 + 5 - 6 - 1 = 91
+rng2 = 17 + 8 - 6 - 1 = 18
+Single
+Team 2 pitcher (Elias Betancourt): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Edward Cox: rng1 = 49 + 15 - 6 - 1 = 57
+rng2 = 13 + 11 - 6 - 1 = 17
+Groundout
+Team 2 pitcher (Elias Betancourt): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-1
+
+Alexis Rojas: rng1 = 78 + 12 - 6 - 1 = 83
+rng2 = 52 + 15 - 6 - 1 = 60
+Single
+Team 2 pitcher (Elias Betancourt): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Angelo Contreras: rng1 = 23 + 12 - 6 - 1 = 28
+Strikeout
+Team 2 pitcher (Elias Betancourt): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Clarence Carr: rng1 = 21 + 8 - 6 + 1 = 24
+Strikeout
+Team 1 pitcher (Jaime Morales): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Ramon Cabrera: rng1 = 73 + 14 - 6 + 1 = 82
+rng2 = 19 + 11 - 8 + 1 = 23
+Single
+Team 1 pitcher (Jaime Morales): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Les Drake: rng1 = 57 + 9 - 6 + 1 = 61
+rng2 = 74 + 13 - 8 + 1 = 80
+Flyout
+Team 1 pitcher (Jaime Morales): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Emilio Soto: rng1 = 61 + 9 - 6 + 1 = 65
+rng2 = 59 + 10 - 8 + 1 = 62
+Flyout
+Team 1 pitcher (Jaime Morales): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 4
+
+Grant Sheppard: rng1 = 1 + 11 - 6 - 1 = 5
+Strikeout
+Team 2 pitcher (Elias Betancourt): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Marty Horn: rng1 = 29 + 8 - 6 - 1 = 30
+rng2 = 81 + 10 - 6 - 1 = 84
+Flyout
+Team 2 pitcher (Elias Betancourt): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Domingo Jimenez: rng1 = 29 + 9 - 6 - 1 = 31
+rng2 = 47 + 9 - 6 - 1 = 49
+Lineout
+Team 2 pitcher (Elias Betancourt): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Adam Marshall: rng1 = 38 + 8 - 6 + 1 = 41
+rng2 = 48 + 10 - 8 + 1 = 51
+Lineout
+Team 1 pitcher (Jaime Morales): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Elmer Sparks: rng1 = 30 + 6 - 6 + 1 = 31
+rng2 = 66 + 9 - 8 + 1 = 68
+Flyout
+Team 1 pitcher (Jaime Morales): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Max Lawrence: rng1 = 17 + 8 - 6 + 1 = 20
+Strikeout
+Team 1 pitcher (Jaime Morales): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 5
+
+Ricky Bowers: rng1 = 20 + 10 - 6 - 1 = 23
+Strikeout
+Team 2 pitcher (Elias Betancourt): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Darrell Williams: rng1 = 69 + 10 - 6 - 1 = 72
+Walk
+Team 2 pitcher (Elias Betancourt): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Varrien Cannon: rng1 = 58 + 5 - 6 - 1 = 56
+rng2 = 84 + 8 - 6 - 1 = 85
+Flyout
+Team 2 pitcher (Elias Betancourt): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Edward Cox: rng1 = 82 + 15 - 6 - 1 = 90
+Walk
+Team 2 pitcher (Elias Betancourt): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 2
+
+base1: [0,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Alexis Rojas: rng1 = 92 + 12 - 6 - 1 = 97
+rng2 = 55 + 15 - 6 - 1 = 63
+Single
+Team 2 pitcher (Elias Betancourt): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 2
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-1
+
+Angelo Contreras: rng1 = 77 + 12 - 6 - 1 = 82
+rng2 = 58 + 11 - 6 - 1 = 62
+Single
+Team 2 pitcher (Elias Betancourt): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 2
+
+base1: [2,0], base2: [1,0], base3: [0,0]
+base1: true, base2: true, base3: true
+Score: 2-1
+
+Grant Sheppard: rng1 = 26 + 11 - 6 - 1 = 30
+rng2 = 34 + 10 - 6 - 1 = 37
+Groundout
+Team 2 pitcher (Elias Betancourt): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-1
+
+-----------------------
+
+BOTTOM INNING 5
+
+Chaquille Barnett: rng1 = 18 + 9 - 6 + 1 = 22
+Strikeout
+Team 1 pitcher (Jaime Morales): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-1
+
+Bradley Simon: rng1 = 78 + 7 - 6 + 1 = 80
+rng2 = 14 + 6 - 8 + 1 = 13
+Single
+Team 1 pitcher (Jaime Morales): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Clarence Carr: rng1 = 55 + 8 - 6 + 1 = 58
+rng2 = 31 + 4 - 8 + 1 = 28
+Groundout
+Team 1 pitcher (Jaime Morales): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-1
+
+Ramon Cabrera: rng1 = 84 + 14 - 6 + 1 = 93
+rng2 = 85 + 11 - 8 + 1 = 89
+Double
+Team 1 pitcher (Jaime Morales): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-2
+
+Les Drake: rng1 = 26 + 9 - 6 + 1 = 30
+rng2 = 43 + 13 - 8 + 1 = 49
+Lineout
+Team 1 pitcher (Jaime Morales): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-2
+
+-----------------------
+
+TOP INNING 6
+
+Marty Horn: rng1 = 36 + 8 - 6 - 1 = 37
+rng2 = 42 + 10 - 6 - 1 = 45
+Groundout
+Team 2 pitcher (Elias Betancourt): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Domingo Jimenez: rng1 = 64 + 9 - 6 - 1 = 66
+rng2 = 30 + 9 - 6 - 1 = 32
+Groundout
+Team 2 pitcher (Elias Betancourt): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-2
+
+Ricky Bowers: rng1 = 78 + 10 - 6 - 1 = 81
+rng2 = 72 + 8 - 6 - 1 = 73
+Double
+Team 2 pitcher (Elias Betancourt): 25 batters faced, 2 runs allowed = 25 + 5.0 = 30.0, outs: 2
+
+base1: false, base2: [6,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-2
+
+Darrell Williams: rng1 = 78 + 10 - 6 - 1 = 81
+rng2 = 9 + 8 - 6 - 1 = 10
+Single
+Team 2 pitcher (Elias Betancourt): 26 batters faced, 3 runs allowed = 26 + 7.5 = 33.5, outs: 2
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Team 2 pitcher change to Franklin Hood
+
+Varrien Cannon: rng1 = 56 + 5 - 8 - 1 = 52
+rng2 = 20 + 8 - 11 - 1 = 16
+Groundout
+Team 2 pitcher (Franklin Hood): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+BOTTOM INNING 6
+
+Emilio Soto: rng1 = 64 + 9 - 6 + 1 = 68
+rng2 = 1 + 10 - 8 + 1 = 4
+Groundout
+Team 1 pitcher (Jaime Morales): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Adam Marshall: rng1 = 10 + 8 - 6 + 1 = 13
+rng2 = 14 + 10 - 8 + 1 = 17
+Groundout
+Team 1 pitcher (Jaime Morales): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Elmer Sparks: rng1 = 72 + 6 - 6 + 1 = 73
+rng2 = 74 + 9 - 8 + 1 = 76
+Double
+Team 1 pitcher (Jaime Morales): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 2
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-2
+
+Max Lawrence: rng1 = 46 + 8 - 6 + 1 = 49
+rng2 = 78 + 8 - 8 + 1 = 79
+Flyout
+Team 1 pitcher (Jaime Morales): 24 batters faced, 2 runs allowed = 24 + 5.0 = 29.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+TOP INNING 7
+
+Edward Cox: rng1 = 33 + 15 - 8 - 1 = 39
+rng2 = 74 + 11 - 11 - 1 = 73
+Flyout
+Team 2 pitcher (Franklin Hood): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Alexis Rojas: rng1 = 28 + 12 - 8 - 1 = 31
+rng2 = 41 + 15 - 11 - 1 = 44
+Groundout
+Team 2 pitcher (Franklin Hood): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Angelo Contreras: rng1 = 2 + 12 - 8 - 1 = 5
+Strikeout
+Team 2 pitcher (Franklin Hood): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Gabriel Clark
+
+Chaquille Barnett: rng1 = 73 + 9 - 9 + 1 = 74
+rng2 = 69 + 7 - 11 + 1 = 66
+Double
+Team 1 pitcher (Gabriel Clark): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [6,1], base3: false
+base1: false, base2: true, base3: false
+Score: 3-2
+
+Bradley Simon: rng1 = 61 + 7 - 9 + 1 = 60
+rng2 = 26 + 6 - 11 + 1 = 22
+Groundout
+Team 1 pitcher (Gabriel Clark): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: [6,1]
+base1: false, base2: false, base3: true
+Score: 3-2
+
+Clarence Carr: rng1 = 54 + 8 - 9 + 1 = 54
+rng2 = 92 + 4 - 11 + 1 = 86
+Flyout
+Team 1 pitcher (Gabriel Clark): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Ramon Cabrera: rng1 = 46 + 14 - 9 + 1 = 52
+rng2 = 84 + 11 - 11 + 1 = 85
+Flyout
+Team 1 pitcher (Gabriel Clark): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+TOP INNING 8
+
+Grant Sheppard: rng1 = 79 + 11 - 8 - 1 = 81
+rng2 = 14 + 10 - 11 - 1 = 12
+Single
+Team 2 pitcher (Franklin Hood): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [3,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Marty Horn: rng1 = 61 + 8 - 8 - 1 = 60
+rng2 = 23 + 10 - 11 - 1 = 21
+Groundout
+Team 2 pitcher (Franklin Hood): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: false, base2: [3,1], base3: false
+base1: false, base2: true, base3: false
+Score: 3-3
+
+Domingo Jimenez: rng1 = 11 + 9 - 8 - 1 = 11
+rng2 = 90 + 9 - 11 - 1 = 87
+Flyout
+Team 2 pitcher (Franklin Hood): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: false, base2: [3,1], base3: false
+base1: false, base2: true, base3: false
+Score: 3-3
+
+Ricky Bowers: rng1 = 70 + 10 - 8 - 1 = 71
+Walk
+Team 2 pitcher (Franklin Hood): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: [6,1], base2: [3,1], base3: false
+base1: true, base2: true, base3: false
+Score: 3-3
+
+Darrell Williams: rng1 = 5 + 10 - 8 - 1 = 6
+Strikeout
+Team 2 pitcher (Franklin Hood): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Boone Almas
+
+Les Drake: rng1 = 81 + 9 - 9 + 1 = 82
+rng2 = 2 + 13 - 11 + 1 = 5
+Single
+Team 1 pitcher (Boone Almas): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Emilio Soto: rng1 = 55 + 9 - 9 + 1 = 56
+rng2 = 43 + 10 - 11 + 1 = 43
+Groundout
+Team 1 pitcher (Boone Almas): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [1,2], base3: false
+base1: false, base2: true, base3: false
+Score: 3-3
+
+Adam Marshall: rng1 = 13 + 8 - 9 + 1 = 13
+rng2 = 43 + 10 - 11 + 1 = 43
+Groundout
+Team 1 pitcher (Boone Almas): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [1,2], base3: false
+base1: false, base2: true, base3: false
+Score: 3-3
+
+Elmer Sparks: rng1 = 91 + 6 - 9 + 1 = 89
+Walk
+Team 1 pitcher (Boone Almas): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [4,2], base2: [1,2], base3: false
+base1: true, base2: true, base3: false
+Score: 3-3
+
+Max Lawrence: rng1 = 4 + 8 - 9 + 1 = 4
+Strikeout
+Team 1 pitcher (Boone Almas): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Okihana Min-Ki
+
+Varrien Cannon: rng1 = 40 + 5 - 8 - 1 = 36
+rng2 = 52 + 8 - 8 - 1 = 51
+Lineout
+Team 2 pitcher (Okihana Min-Ki): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Edward Cox: rng1 = 42 + 15 - 8 - 1 = 48
+rng2 = 44 + 11 - 8 - 1 = 46
+Groundout
+Team 2 pitcher (Okihana Min-Ki): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Alexis Rojas: rng1 = 9 + 12 - 8 - 1 = 12
+rng2 = 10 + 15 - 8 - 1 = 16
+Groundout
+Team 2 pitcher (Okihana Min-Ki): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Brent Knight
+
+Chaquille Barnett: rng1 = 63 + 9 - 10 + 1 = 63
+rng2 = 20 + 7 - 12 + 1 = 16
+Groundout
+Team 1 pitcher (Brent Knight): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Bradley Simon: rng1 = 32 + 7 - 10 + 1 = 30
+rng2 = 14 + 6 - 12 + 1 = 9
+Groundout
+Team 1 pitcher (Brent Knight): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Clarence Carr: rng1 = 97 + 8 - 10 + 1 = 96
+rng2 = 33 + 4 - 12 + 1 = 26
+Single
+Team 1 pitcher (Brent Knight): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [8,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Ramon Cabrera: rng1 = 4 + 14 - 10 + 1 = 9
+Strikeout
+Team 1 pitcher (Brent Knight): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+TOP INNING 10
+
+Angelo Contreras: rng1 = 65 + 12 - 8 - 1 = 68
+rng2 = 98 + 11 - 8 - 1 = 100
+Flyout
+Team 2 pitcher (Okihana Min-Ki): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Grant Sheppard: rng1 = 11 + 11 - 8 - 1 = 13
+rng2 = 95 + 10 - 8 - 1 = 96
+Flyout
+Team 2 pitcher (Okihana Min-Ki): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Marty Horn: rng1 = 21 + 8 - 8 - 1 = 20
+Strikeout
+Team 2 pitcher (Okihana Min-Ki): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+BOTTOM INNING 10
+
+Les Drake: rng1 = 32 + 9 - 10 + 1 = 32
+rng2 = 95 + 13 - 12 + 1 = 97
+Flyout
+Team 1 pitcher (Brent Knight): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Emilio Soto: rng1 = 38 + 9 - 10 + 1 = 38
+rng2 = 41 + 10 - 12 + 1 = 40
+Groundout
+Team 1 pitcher (Brent Knight): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Adam Marshall: rng1 = 91 + 8 - 10 + 1 = 90
+Walk
+Team 1 pitcher (Brent Knight): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [3,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Elmer Sparks: rng1 = 18 + 6 - 10 + 1 = 15
+rng2 = 96 + 9 - 12 + 1 = 94
+Flyout
+Team 1 pitcher (Brent Knight): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+TOP INNING 11
+
+Team 2 pitcher change to Rajah Rice
+
+Domingo Jimenez: rng1 = 97 + 9 - 5 - 1 = 100
+rng2 = 83 + 9 - 7 - 1 = 84
+Home run
+Team 2 pitcher (Rajah Rice): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Ricky Bowers: rng1 = 64 + 10 - 5 - 1 = 68
+rng2 = 33 + 8 - 7 - 1 = 33
+Groundout
+Team 2 pitcher (Rajah Rice): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Darrell Williams: rng1 = 69 + 10 - 5 - 1 = 73
+rng2 = 13 + 8 - 7 - 1 = 13
+Single
+Team 2 pitcher (Rajah Rice): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [7,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-3
+
+Varrien Cannon: rng1 = 95 + 5 - 5 - 1 = 94
+rng2 = 37 + 8 - 7 - 1 = 37
+Single
+Team 2 pitcher (Rajah Rice): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [8,3], base2: [7,3], base3: false
+base1: true, base2: true, base3: false
+Score: 4-3
+
+Edward Cox: rng1 = 51 + 15 - 5 - 1 = 60
+rng2 = 8 + 11 - 7 - 1 = 11
+Groundout
+Team 2 pitcher (Rajah Rice): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [0,3], base2: [8,3], base3: false
+base1: true, base2: true, base3: false
+Score: 4-3
+
+Alexis Rojas: rng1 = 19 + 12 - 5 - 1 = 25
+Strikeout
+Team 2 pitcher (Rajah Rice): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+BOTTOM INNING 11
+
+Team 1 pitcher change to Vicente Castillo
+
+Max Lawrence: rng1 = 45 + 8 - 9 + 1 = 45
+rng2 = 73 + 8 - 7 + 1 = 75
+Flyout
+Team 1 pitcher (Vicente Castillo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Chaquille Barnett: rng1 = 31 + 9 - 9 + 1 = 32
+rng2 = 92 + 7 - 7 + 1 = 93
+Flyout
+Team 1 pitcher (Vicente Castillo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-3
+
+Bradley Simon: rng1 = 21 + 7 - 9 + 1 = 20
+Strikeout
+Team 1 pitcher (Vicente Castillo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 4-3
+
+-----------------------
+
+Innings: 11
+Team 1 hits: 11
+Team 2 hits: 8
+Team 1 runs: 4
+Team 2 runs: 3
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					26-Feb-2025
+Edward Cox	5	0	0	0	0	0	0	1	0					Orlando
+Alexis Rojas	6	0	2	0	0	0	2	0	2	
+Angelo Contreras	5	0	2	0	0	0	0	0	2	
+Grant Sheppard	5	0	1	0	0	0	0	0	1	
+Marty Horn	5	0	0	0	0	0	0	0	2	
+Domingo Jimenez	5	1	1	0	0	1	1	0	0	
+Ricky Bowers	4	1	1	1	0	0	0	1	1	
+Darrell Williams	4	1	2	0	0	0	1	1	1	
+Varrien Cannon	5	1	2	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Jaime Morales	0	0	1	1	0	0	18	5	2	1	1	4	24	
+Gabriel Clark	0	0	1	0	0	0	3	1	1	0	0	0	4	
+Boone Almas	0	0	1	0	0	0	3	1	0	0	1	1	5	
+Vicente Castillo	0	0	1	0	0	0	3	0	0	0	0	1	3	
+Brent Knight	1	0	1	0	0	0	6	1	0	0	1	1	8	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					26-Feb-2025
+Ramon Cabrera	5	0	2	1	0	0	1	0	1					Anaheim
+Les Drake	5	0	1	0	0	0	0	0	0	
+Emilio Soto	5	0	0	0	0	0	0	0	0	
+Adam Marshall	4	1	1	0	0	1	1	1	0	
+Elmer Sparks	3	0	1	1	0	0	0	2	0	
+Max Lawrence	5	0	0	0	0	0	0	0	3	
+Chaquille Barnett	5	1	1	1	0	0	0	0	1	
+Bradley Simon	5	0	1	0	0	0	0	0	1	
+Clarence Carr	4	1	1	0	0	0	1	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Elias Betancourt	0	0	1	1	0	0	17	7	3	0	2	5	26	
+Franklin Hood	0	0	1	0	0	0	7	1	0	0	1	2	9	
+Okihana Min-Ki	0	0	1	0	0	0	6	0	0	0	0	1	6	
+Rajah Rice	0	1	1	0	0	0	3	3	1	1	0	1	6	
+Shunji Onishi	0	0	0	0	0	0	0	0	0	0	0	0	0	

@@ -1,0 +1,783 @@
+TOP INNING 1
+
+Edward Cox: rng1 = 90 + 15 - 11 - 1 = 93
+rng2 = 40 + 11 - 8 - 1 = 42
+Single
+Team 2 pitcher (Esteban Coles): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Alexis Rojas: rng1 = 25 + 12 - 11 - 1 = 25
+Strikeout
+Team 2 pitcher (Esteban Coles): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Angelo Contreras: rng1 = 21 + 12 - 11 - 1 = 21
+Strikeout
+Team 2 pitcher (Esteban Coles): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Grant Sheppard: rng1 = 28 + 11 - 11 - 1 = 27
+Strikeout
+Team 2 pitcher (Esteban Coles): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Jacobi Davis: rng1 = 24 + 16 - 7 + 1 = 34
+rng2 = 73 + 14 - 9 + 1 = 79
+Flyout
+Team 1 pitcher (Dominic Doyle): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Rodney Shaffer: rng1 = 91 + 15 - 7 + 1 = 100
+rng2 = 66 + 13 - 9 + 1 = 71
+Double
+Team 1 pitcher (Dominic Doyle): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Kazuhiro Ida: rng1 = 12 + 14 - 7 + 1 = 20
+Strikeout
+Team 1 pitcher (Dominic Doyle): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Byron Lloyd: rng1 = 47 + 14 - 7 + 1 = 55
+rng2 = 47 + 14 - 9 + 1 = 53
+Lineout
+Team 1 pitcher (Dominic Doyle): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+TOP INNING 2
+
+Marty Horn: rng1 = 83 + 8 - 11 - 1 = 79
+rng2 = 36 + 10 - 8 - 1 = 37
+Single
+Team 2 pitcher (Esteban Coles): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Domingo Jimenez: rng1 = 41 + 9 - 11 - 1 = 38
+rng2 = 84 + 9 - 8 - 1 = 84
+Flyout
+Team 2 pitcher (Esteban Coles): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Ricky Bowers: rng1 = 11 + 10 - 11 - 1 = 9
+Strikeout
+Team 2 pitcher (Esteban Coles): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Darrell Williams: rng1 = 84 + 10 - 11 - 1 = 82
+rng2 = 74 + 8 - 8 - 1 = 73
+Double
+Team 2 pitcher (Esteban Coles): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Varrien Cannon: rng1 = 92 + 5 - 11 - 1 = 85
+rng2 = 90 + 8 - 8 - 1 = 89
+Double
+Team 2 pitcher (Esteban Coles): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 2
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 2-0
+
+Edward Cox: rng1 = 88 + 15 - 11 - 1 = 91
+rng2 = 49 + 11 - 8 - 1 = 51
+Single
+Team 2 pitcher (Esteban Coles): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Alexis Rojas: rng1 = 41 + 12 - 11 - 1 = 41
+rng2 = 45 + 15 - 8 - 1 = 51
+Lineout
+Team 2 pitcher (Esteban Coles): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Guy Nicholson: rng1 = 85 + 14 - 7 + 1 = 93
+rng2 = 23 + 13 - 9 + 1 = 28
+Single
+Team 1 pitcher (Dominic Doyle): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Arturo Trujillo: rng1 = 40 + 14 - 7 + 1 = 48
+rng2 = 68 + 11 - 9 + 1 = 71
+Flyout
+Team 1 pitcher (Dominic Doyle): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Finlay Webb: rng1 = 71 + 11 - 7 + 1 = 76
+rng2 = 45 + 8 - 9 + 1 = 45
+Single
+Team 1 pitcher (Dominic Doyle): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [6,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 3-0
+
+Tyler Sanders: rng1 = 50 + 11 - 7 + 1 = 55
+rng2 = 62 + 8 - 9 + 1 = 62
+Flyout
+Team 1 pitcher (Dominic Doyle): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Orlando Bradford: rng1 = 43 + 12 - 7 + 1 = 49
+rng2 = 40 + 7 - 9 + 1 = 39
+Groundout
+Team 1 pitcher (Dominic Doyle): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+TOP INNING 3
+
+Angelo Contreras: rng1 = 83 + 12 - 11 - 1 = 83
+rng2 = 26 + 11 - 8 - 1 = 28
+Single
+Team 2 pitcher (Esteban Coles): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 0
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Grant Sheppard: rng1 = 67 + 11 - 11 - 1 = 66
+rng2 = 2 + 10 - 8 - 1 = 3
+Groundout
+Team 2 pitcher (Esteban Coles): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Marty Horn: rng1 = 66 + 8 - 11 - 1 = 62
+rng2 = 24 + 10 - 8 - 1 = 25
+Groundout
+Team 2 pitcher (Esteban Coles): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Domingo Jimenez: rng1 = 22 + 9 - 11 - 1 = 19
+Strikeout
+Team 2 pitcher (Esteban Coles): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Jacobi Davis: rng1 = 22 + 16 - 7 + 1 = 32
+rng2 = 23 + 14 - 9 + 1 = 29
+Groundout
+Team 1 pitcher (Dominic Doyle): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Rodney Shaffer: rng1 = 33 + 15 - 7 + 1 = 42
+rng2 = 35 + 13 - 9 + 1 = 40
+Groundout
+Team 1 pitcher (Dominic Doyle): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Kazuhiro Ida: rng1 = 55 + 14 - 7 + 1 = 63
+rng2 = 65 + 16 - 9 + 1 = 73
+Flyout
+Team 1 pitcher (Dominic Doyle): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+TOP INNING 4
+
+Ricky Bowers: rng1 = 38 + 10 - 11 - 1 = 36
+rng2 = 80 + 8 - 8 - 1 = 79
+Flyout
+Team 2 pitcher (Esteban Coles): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Darrell Williams: rng1 = 59 + 10 - 11 - 1 = 57
+rng2 = 1 + 8 - 8 - 1 = 0
+Groundout
+Team 2 pitcher (Esteban Coles): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Varrien Cannon: rng1 = 100 + 5 - 11 - 1 = 93
+rng2 = 68 + 8 - 8 - 1 = 67
+Double
+Team 2 pitcher (Esteban Coles): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 2
+
+base1: false, base2: [8,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-1
+
+Edward Cox: rng1 = 19 + 15 - 11 - 1 = 22
+Strikeout
+Team 2 pitcher (Esteban Coles): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Byron Lloyd: rng1 = 57 + 14 - 7 + 1 = 65
+rng2 = 34 + 14 - 9 + 1 = 40
+Groundout
+Team 1 pitcher (Dominic Doyle): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Guy Nicholson: rng1 = 8 + 14 - 7 + 1 = 16
+Strikeout
+Team 1 pitcher (Dominic Doyle): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Arturo Trujillo: rng1 = 69 + 14 - 7 + 1 = 77
+rng2 = 68 + 11 - 9 + 1 = 71
+Double
+Team 1 pitcher (Dominic Doyle): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 2
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-1
+
+Finlay Webb: rng1 = 2 + 11 - 7 + 1 = 7
+Strikeout
+Team 1 pitcher (Dominic Doyle): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+TOP INNING 5
+
+Alexis Rojas: rng1 = 59 + 12 - 11 - 1 = 59
+rng2 = 14 + 15 - 8 - 1 = 20
+Groundout
+Team 2 pitcher (Esteban Coles): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Angelo Contreras: rng1 = 63 + 12 - 11 - 1 = 63
+rng2 = 2 + 11 - 8 - 1 = 4
+Groundout
+Team 2 pitcher (Esteban Coles): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Grant Sheppard: rng1 = 80 + 11 - 11 - 1 = 79
+rng2 = 43 + 10 - 8 - 1 = 44
+Single
+Team 2 pitcher (Esteban Coles): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Marty Horn: rng1 = 34 + 8 - 11 - 1 = 30
+rng2 = 40 + 10 - 8 - 1 = 41
+Groundout
+Team 2 pitcher (Esteban Coles): 23 batters faced, 3 runs allowed = 23 + 7.5 = 30.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+BOTTOM INNING 5
+
+Tyler Sanders: rng1 = 66 + 11 - 7 + 1 = 71
+Walk
+Team 1 pitcher (Dominic Doyle): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Orlando Bradford: rng1 = 71 + 12 - 7 + 1 = 77
+rng2 = 11 + 7 - 9 + 1 = 10
+Single
+Team 1 pitcher (Dominic Doyle): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 0
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-1
+
+Jacobi Davis: rng1 = 18 + 16 - 7 + 1 = 28
+Strikeout
+Team 1 pitcher (Dominic Doyle): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 1
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-1
+
+Rodney Shaffer: rng1 = 95 + 15 - 7 + 1 = 104
+rng2 = 40 + 13 - 9 + 1 = 45
+Single
+Team 1 pitcher (Dominic Doyle): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 1
+
+base1: [1,0], base2: false, base3: [8,0]
+base1: true, base2: false, base3: true
+Score: 3-2
+
+Kazuhiro Ida: rng1 = 81 + 14 - 7 + 1 = 89
+Walk
+Team 1 pitcher (Dominic Doyle): 21 batters faced, 2 runs allowed = 21 + 5.0 = 26.0, outs: 1
+
+base1: [2,0], base2: [1,0], base3: [8,0]
+base1: true, base2: true, base3: true
+Score: 3-2
+
+Byron Lloyd: rng1 = 35 + 14 - 7 + 1 = 43
+rng2 = 98 + 14 - 9 + 1 = 104
+Flyout
+Team 1 pitcher (Dominic Doyle): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 2
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-3
+
+Guy Nicholson: rng1 = 48 + 14 - 7 + 1 = 56
+rng2 = 53 + 13 - 9 + 1 = 58
+Lineout
+Team 1 pitcher (Dominic Doyle): 23 batters faced, 3 runs allowed = 23 + 7.5 = 30.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Curtis Holmes
+
+Domingo Jimenez: rng1 = 98 + 9 - 10 - 1 = 96
+rng2 = 64 + 9 - 10 - 1 = 62
+Single
+Team 2 pitcher (Curtis Holmes): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Ricky Bowers: rng1 = 31 + 10 - 10 - 1 = 30
+rng2 = 33 + 8 - 10 - 1 = 30
+Groundout
+Team 2 pitcher (Curtis Holmes): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [6,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Darrell Williams: rng1 = 61 + 10 - 10 - 1 = 60
+rng2 = 38 + 8 - 10 - 1 = 35
+Groundout
+Team 2 pitcher (Curtis Holmes): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Varrien Cannon: rng1 = 2 + 5 - 10 - 1 = -4
+Strikeout
+Team 2 pitcher (Curtis Holmes): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Boone Almas
+
+Arturo Trujillo: rng1 = 82 + 14 - 9 + 1 = 88
+Walk
+Team 1 pitcher (Boone Almas): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Finlay Webb: rng1 = 80 + 11 - 9 + 1 = 83
+rng2 = 41 + 8 - 11 + 1 = 39
+Single
+Team 1 pitcher (Boone Almas): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [6,1], base2: [5,1], base3: false
+base1: true, base2: true, base3: false
+Score: 3-3
+
+Tyler Sanders: rng1 = 22 + 11 - 9 + 1 = 25
+Strikeout
+Team 1 pitcher (Boone Almas): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [6,1], base2: [5,1], base3: false
+base1: true, base2: true, base3: false
+Score: 3-3
+
+Orlando Bradford: rng1 = 31 + 12 - 9 + 1 = 35
+rng2 = 57 + 7 - 11 + 1 = 54
+Lineout
+Team 1 pitcher (Boone Almas): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [6,1], base2: [5,1], base3: false
+base1: true, base2: true, base3: false
+Score: 3-3
+
+Jacobi Davis: rng1 = 9 + 16 - 9 + 1 = 17
+Strikeout
+Team 1 pitcher (Boone Almas): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+TOP INNING 7
+
+Edward Cox: rng1 = 51 + 15 - 10 - 1 = 55
+rng2 = 86 + 11 - 10 - 1 = 86
+Flyout
+Team 2 pitcher (Curtis Holmes): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Alexis Rojas: rng1 = 62 + 12 - 10 - 1 = 63
+rng2 = 91 + 15 - 10 - 1 = 95
+Flyout
+Team 2 pitcher (Curtis Holmes): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Angelo Contreras: rng1 = 39 + 12 - 10 - 1 = 40
+rng2 = 69 + 11 - 10 - 1 = 69
+Flyout
+Team 2 pitcher (Curtis Holmes): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Gabriel Clark
+
+Rodney Shaffer: rng1 = 74 + 15 - 9 + 1 = 81
+rng2 = 66 + 13 - 11 + 1 = 69
+Double
+Team 1 pitcher (Gabriel Clark): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [1,2], base3: false
+base1: false, base2: true, base3: false
+Score: 3-3
+
+Kazuhiro Ida: rng1 = 43 + 14 - 9 + 1 = 49
+rng2 = 98 + 16 - 11 + 1 = 104
+Flyout
+Team 1 pitcher (Gabriel Clark): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [1,2], base3: false
+base1: false, base2: true, base3: false
+Score: 3-3
+
+Byron Lloyd: rng1 = 81 + 14 - 9 + 1 = 87
+Walk
+Team 1 pitcher (Gabriel Clark): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [3,2], base2: [1,2], base3: false
+base1: true, base2: true, base3: false
+Score: 3-3
+
+Guy Nicholson: rng1 = 89 + 14 - 9 + 1 = 95
+rng2 = 86 + 13 - 11 + 1 = 89
+Double
+Team 1 pitcher (Gabriel Clark): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: false, base2: [4,2], base3: false
+base1: false, base2: true, base3: false
+Score: 3-5
+
+Arturo Trujillo: rng1 = 54 + 14 - 9 + 1 = 60
+rng2 = 27 + 11 - 11 + 1 = 28
+Groundout
+Team 1 pitcher (Gabriel Clark): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: false, base2: false, base3: [4,2]
+base1: false, base2: false, base3: true
+Score: 3-5
+
+Finlay Webb: rng1 = 31 + 11 - 9 + 1 = 34
+rng2 = 49 + 8 - 11 + 1 = 47
+Groundout
+Team 1 pitcher (Gabriel Clark): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Jackson Peck
+
+Grant Sheppard: rng1 = 44 + 11 - 10 - 1 = 44
+rng2 = 12 + 10 - 8 - 1 = 13
+Groundout
+Team 2 pitcher (Jackson Peck): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Marty Horn: rng1 = 60 + 8 - 10 - 1 = 57
+rng2 = 35 + 10 - 8 - 1 = 36
+Groundout
+Team 2 pitcher (Jackson Peck): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-5
+
+Domingo Jimenez: rng1 = 70 + 9 - 10 - 1 = 68
+rng2 = 20 + 9 - 8 - 1 = 20
+Groundout
+Team 2 pitcher (Jackson Peck): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-5
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Vicente Castillo
+
+Tyler Sanders: rng1 = 95 + 11 - 9 + 1 = 98
+rng2 = 10 + 8 - 7 + 1 = 12
+Single
+Team 1 pitcher (Vicente Castillo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [7,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-5
+
+Orlando Bradford: rng1 = 79 + 12 - 9 + 1 = 83
+rng2 = 3 + 7 - 7 + 1 = 4
+Single
+Team 1 pitcher (Vicente Castillo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [8,3], base2: false, base3: [7,3]
+base1: true, base2: false, base3: true
+Score: 3-5
+
+Jacobi Davis: rng1 = 59 + 16 - 9 + 1 = 67
+rng2 = 28 + 14 - 7 + 1 = 36
+Groundout
+Team 1 pitcher (Vicente Castillo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [0,3], base2: false, base3: [7,3]
+base1: true, base2: false, base3: true
+Score: 3-5
+
+Rodney Shaffer: rng1 = 6 + 15 - 9 + 1 = 13
+rng2 = 57 + 13 - 7 + 1 = 64
+Flyout
+Team 1 pitcher (Vicente Castillo): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [0,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-6
+
+Kazuhiro Ida: rng1 = 100 + 14 - 9 + 1 = 106
+rng2 = 73 + 16 - 7 + 1 = 83
+Home run
+Team 1 pitcher (Vicente Castillo): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Byron Lloyd: rng1 = 56 + 14 - 9 + 1 = 62
+rng2 = 65 + 14 - 7 + 1 = 73
+Flyout
+Team 1 pitcher (Vicente Castillo): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-8
+
+-----------------------
+
+TOP INNING 9
+
+Ricky Bowers: rng1 = 38 + 10 - 10 - 1 = 37
+rng2 = 27 + 8 - 8 - 1 = 26
+Groundout
+Team 2 pitcher (Jackson Peck): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Darrell Williams: rng1 = 11 + 10 - 10 - 1 = 10
+Strikeout
+Team 2 pitcher (Jackson Peck): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-8
+
+Varrien Cannon: rng1 = 96 + 5 - 10 - 1 = 90
+Walk
+Team 2 pitcher (Jackson Peck): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-8
+
+Edward Cox: rng1 = 86 + 15 - 10 - 1 = 90
+Walk
+Team 2 pitcher (Jackson Peck): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [0,2], base2: [8,2], base3: false
+base1: true, base2: true, base3: false
+Score: 3-8
+
+Alexis Rojas: rng1 = 21 + 12 - 10 - 1 = 22
+Strikeout
+Team 2 pitcher (Jackson Peck): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-8
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 9
+Team 2 hits: 12
+Team 1 runs: 3
+Team 2 runs: 8
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					26-Feb-2025
+Edward Cox	4	0	2	0	0	0	1	1	1					Orlando
+Alexis Rojas	5	0	0	0	0	0	0	0	2	
+Angelo Contreras	4	0	1	0	0	0	0	0	1	
+Grant Sheppard	4	0	1	0	0	0	0	0	1	
+Marty Horn	4	1	1	0	0	0	0	0	0	
+Domingo Jimenez	4	0	1	0	0	0	0	0	1	
+Ricky Bowers	4	0	0	0	0	0	0	0	1	
+Darrell Williams	4	1	1	1	0	0	1	0	1	
+Varrien Cannon	3	1	2	2	0	0	1	1	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Dominic Doyle	0	0	1	1	0	0	15	6	3	0	2	4	23	
+Boone Almas	0	0	1	0	0	0	3	1	0	0	1	2	5	
+Gabriel Clark	0	1	1	0	0	0	3	2	2	0	1	0	6	
+Vicente Castillo	0	0	1	0	0	0	3	3	3	1	0	0	6	
+Brent Knight	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					26-Feb-2025
+Jacobi Davis	5	1	0	0	0	0	0	0	2					Nashville
+Rodney Shaffer	5	1	3	2	0	0	2	0	0	
+Kazuhiro Ida	4	1	1	0	0	1	2	1	1	
+Byron Lloyd	4	1	0	0	0	0	1	1	0	
+Guy Nicholson	4	1	2	1	0	0	2	0	1	
+Arturo Trujillo	3	0	1	1	0	0	0	1	0	
+Finlay Webb	4	0	2	0	0	0	0	0	1	
+Tyler Sanders	3	2	1	0	0	0	1	1	1	
+Orlando Bradford	4	1	2	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Esteban Coles	0	0	1	1	0	0	15	8	3	0	0	6	23	
+Curtis Holmes	1	0	1	0	0	0	6	1	0	0	0	1	7	
+Jackson Peck	0	0	1	0	0	0	6	0	0	0	2	2	8	
+Tim Brooks	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Bradley Weaver	0	0	0	0	0	0	0	0	0	0	0	0	0	

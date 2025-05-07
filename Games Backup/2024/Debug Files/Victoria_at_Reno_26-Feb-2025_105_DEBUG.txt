@@ -1,0 +1,725 @@
+TOP INNING 1
+
+Mario Chavez: rng1 = 9 + 10 - 10 - 1 = 8
+Strikeout
+Team 2 pitcher (Jessie Cochran): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Marcus Byrd: rng1 = 6 + 10 - 10 - 1 = 5
+Strikeout
+Team 2 pitcher (Jessie Cochran): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Elvis Asencio: rng1 = 27 + 9 - 10 - 1 = 25
+Strikeout
+Team 2 pitcher (Jessie Cochran): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Victor Harris: rng1 = 61 + 16 - 9 + 1 = 69
+rng2 = 86 + 13 - 8 + 1 = 92
+Flyout
+Team 1 pitcher (Clévon Fuller): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Joaquin Alba: rng1 = 87 + 15 - 9 + 1 = 94
+rng2 = 21 + 15 - 8 + 1 = 29
+Single
+Team 1 pitcher (Clévon Fuller): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Ali Monroe: rng1 = 68 + 15 - 9 + 1 = 75
+rng2 = 69 + 14 - 8 + 1 = 76
+Double
+Team 1 pitcher (Clévon Fuller): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: [2,0], base3: [1,0]
+base1: false, base2: true, base3: true
+Score: 0-0
+
+Shaun Conley: rng1 = 67 + 14 - 9 + 1 = 73
+rng2 = 67 + 15 - 8 + 1 = 75
+Double
+Team 1 pitcher (Clévon Fuller): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-2
+
+Jerome Fields: rng1 = 3 + 12 - 9 + 1 = 7
+Strikeout
+Team 1 pitcher (Clévon Fuller): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 2
+
+base1: false, base2: [3,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-2
+
+Nate Clarke: rng1 = 61 + 15 - 9 + 1 = 68
+rng2 = 73 + 10 - 8 + 1 = 76
+Flyout
+Team 1 pitcher (Clévon Fuller): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+TOP INNING 2
+
+Claudio Tolentino: rng1 = 20 + 8 - 10 - 1 = 17
+Strikeout
+Team 2 pitcher (Jessie Cochran): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Noel Phelps: rng1 = 24 + 7 - 10 - 1 = 20
+Strikeout
+Team 2 pitcher (Jessie Cochran): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Pablo Hernandez: rng1 = 22 + 6 - 10 - 1 = 17
+Strikeout
+Team 2 pitcher (Jessie Cochran): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-2
+
+-----------------------
+
+BOTTOM INNING 2
+
+Ivan Rondon: rng1 = 42 + 15 - 9 + 1 = 49
+rng2 = 48 + 9 - 8 + 1 = 50
+Lineout
+Team 1 pitcher (Clévon Fuller): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-2
+
+Simon Taylor: rng1 = 94 + 12 - 9 + 1 = 98
+rng2 = 99 + 10 - 8 + 1 = 102
+Home run
+Team 1 pitcher (Clévon Fuller): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-3
+
+Alonso Medina: rng1 = 74 + 13 - 9 + 1 = 79
+rng2 = 8 + 7 - 8 + 1 = 8
+Single
+Team 1 pitcher (Clévon Fuller): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-3
+
+Victor Harris: rng1 = 76 + 16 - 9 + 1 = 84
+rng2 = 68 + 13 - 8 + 1 = 74
+Double
+Team 1 pitcher (Clévon Fuller): 10 batters faced, 4 runs allowed = 10 + 10.0 = 20.0, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-4
+
+Joaquin Alba: rng1 = 80 + 15 - 9 + 1 = 87
+Walk
+Team 1 pitcher (Clévon Fuller): 11 batters faced, 4 runs allowed = 11 + 10.0 = 21.0, outs: 1
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-4
+
+Ali Monroe: rng1 = 90 + 15 - 9 + 1 = 97
+rng2 = 69 + 14 - 8 + 1 = 76
+Double
+Team 1 pitcher (Clévon Fuller): 12 batters faced, 6 runs allowed = 12 + 15.0 = 27.0, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-6
+
+Shaun Conley: rng1 = 49 + 14 - 9 + 1 = 55
+rng2 = 26 + 15 - 8 + 1 = 34
+Groundout
+Team 1 pitcher (Clévon Fuller): 13 batters faced, 6 runs allowed = 13 + 15.0 = 28.0, outs: 2
+
+base1: false, base2: false, base3: [2,0]
+base1: false, base2: false, base3: true
+Score: 0-6
+
+Jerome Fields: rng1 = 20 + 12 - 9 + 1 = 24
+Strikeout
+Team 1 pitcher (Clévon Fuller): 14 batters faced, 6 runs allowed = 14 + 15.0 = 29.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+TOP INNING 3
+
+Felix Pratt: rng1 = 30 + 8 - 10 - 1 = 27
+Strikeout
+Team 2 pitcher (Jessie Cochran): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Reilly Carter: rng1 = 27 + 6 - 10 - 1 = 22
+Strikeout
+Team 2 pitcher (Jessie Cochran): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Hayden Ross: rng1 = 26 + 6 - 10 - 1 = 21
+Strikeout
+Team 2 pitcher (Jessie Cochran): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+BOTTOM INNING 3
+
+Nate Clarke: rng1 = 64 + 15 - 9 + 1 = 71
+Walk
+Team 1 pitcher (Clévon Fuller): 15 batters faced, 6 runs allowed = 15 + 15.0 = 30.0, outs: 0
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-6
+
+Ivan Rondon: rng1 = 35 + 15 - 9 + 1 = 42
+rng2 = 42 + 9 - 8 + 1 = 44
+Groundout
+Team 1 pitcher (Clévon Fuller): 16 batters faced, 6 runs allowed = 16 + 15.0 = 31.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Simon Taylor: rng1 = 34 + 12 - 9 + 1 = 38
+rng2 = 13 + 10 - 8 + 1 = 16
+Groundout
+Team 1 pitcher (Clévon Fuller): 17 batters faced, 6 runs allowed = 17 + 15.0 = 32.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+TOP INNING 4
+
+Mario Chavez: rng1 = 3 + 10 - 10 - 1 = 2
+Strikeout
+Team 2 pitcher (Jessie Cochran): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-6
+
+Marcus Byrd: rng1 = 87 + 10 - 10 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Jessie Cochran): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-6
+
+Elvis Asencio: rng1 = 12 + 9 - 10 - 1 = 10
+Strikeout
+Team 2 pitcher (Jessie Cochran): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-6
+
+Claudio Tolentino: rng1 = 62 + 8 - 10 - 1 = 59
+rng2 = 14 + 12 - 10 - 1 = 15
+Groundout
+Team 2 pitcher (Jessie Cochran): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-6
+
+-----------------------
+
+BOTTOM INNING 4
+
+Team 1 pitcher change to Park Seo-Jun
+
+Alonso Medina: rng1 = 88 + 13 - 10 + 1 = 92
+rng2 = 92 + 7 - 7 + 1 = 93
+Triple
+Team 1 pitcher (Park Seo-Jun): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: false, base3: [8,1]
+base1: false, base2: false, base3: true
+Score: 0-6
+
+Victor Harris: rng1 = 84 + 16 - 10 + 1 = 91
+rng2 = 97 + 13 - 7 + 1 = 104
+Home run
+Team 1 pitcher (Park Seo-Jun): 2 batters faced, 2 runs allowed = 2 + 5.0 = 7.0, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-8
+
+Joaquin Alba: rng1 = 9 + 15 - 10 + 1 = 15
+rng2 = 77 + 15 - 7 + 1 = 86
+Flyout
+Team 1 pitcher (Park Seo-Jun): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-8
+
+Ali Monroe: rng1 = 16 + 15 - 10 + 1 = 22
+Strikeout
+Team 1 pitcher (Park Seo-Jun): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-8
+
+Shaun Conley: rng1 = 36 + 14 - 10 + 1 = 41
+rng2 = 84 + 15 - 7 + 1 = 93
+Flyout
+Team 1 pitcher (Park Seo-Jun): 5 batters faced, 2 runs allowed = 5 + 5.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-8
+
+-----------------------
+
+TOP INNING 5
+
+Noel Phelps: rng1 = 4 + 7 - 10 - 1 = 0
+Strikeout
+Team 2 pitcher (Jessie Cochran): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-8
+
+Pablo Hernandez: rng1 = 45 + 6 - 10 - 1 = 40
+rng2 = 36 + 9 - 10 - 1 = 34
+Groundout
+Team 2 pitcher (Jessie Cochran): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-8
+
+Felix Pratt: rng1 = 1 + 8 - 10 - 1 = -2
+Strikeout
+Team 2 pitcher (Jessie Cochran): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-8
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Julio Ventura
+
+Jerome Fields: rng1 = 89 + 12 - 9 + 1 = 93
+rng2 = 31 + 15 - 7 + 1 = 40
+Single
+Team 1 pitcher (Julio Ventura): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-8
+
+Nate Clarke: rng1 = 36 + 15 - 9 + 1 = 43
+rng2 = 71 + 10 - 7 + 1 = 75
+Flyout
+Team 1 pitcher (Julio Ventura): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-8
+
+Ivan Rondon: rng1 = 81 + 15 - 9 + 1 = 88
+Walk
+Team 1 pitcher (Julio Ventura): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [6,2], base2: [4,2], base3: false
+base1: true, base2: true, base3: false
+Score: 0-8
+
+Simon Taylor: rng1 = 26 + 12 - 9 + 1 = 30
+rng2 = 22 + 10 - 7 + 1 = 26
+Groundout
+Team 1 pitcher (Julio Ventura): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: false, base2: [6,2], base3: [4,2]
+base1: false, base2: true, base3: true
+Score: 0-8
+
+Alonso Medina: rng1 = 41 + 13 - 9 + 1 = 46
+rng2 = 77 + 7 - 7 + 1 = 78
+Flyout
+Team 1 pitcher (Julio Ventura): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-8
+
+-----------------------
+
+TOP INNING 6
+
+Reilly Carter: rng1 = 53 + 6 - 10 - 1 = 48
+rng2 = 44 + 8 - 10 - 1 = 41
+Groundout
+Team 2 pitcher (Jessie Cochran): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-8
+
+Hayden Ross: rng1 = 98 + 6 - 10 - 1 = 93
+rng2 = 58 + 7 - 10 - 1 = 54
+Single
+Team 2 pitcher (Jessie Cochran): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-8
+
+Mario Chavez: rng1 = 43 + 10 - 10 - 1 = 42
+rng2 = 22 + 12 - 10 - 1 = 23
+Groundout
+Team 2 pitcher (Jessie Cochran): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-8
+
+Marcus Byrd: rng1 = 25 + 10 - 10 - 1 = 24
+Strikeout
+Team 2 pitcher (Jessie Cochran): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-8
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Evan McKenzie
+
+Victor Harris: rng1 = 29 + 16 - 4 + 1 = 42
+rng2 = 11 + 13 - 6 + 1 = 19
+Groundout
+Team 1 pitcher (Evan McKenzie): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-8
+
+Joaquin Alba: rng1 = 61 + 15 - 4 + 1 = 73
+rng2 = 62 + 15 - 6 + 1 = 72
+Double
+Team 1 pitcher (Evan McKenzie): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [1,3], base3: false
+base1: false, base2: true, base3: false
+Score: 0-8
+
+Ali Monroe: rng1 = 36 + 15 - 4 + 1 = 48
+rng2 = 37 + 14 - 6 + 1 = 46
+Groundout
+Team 1 pitcher (Evan McKenzie): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: false, base3: [1,3]
+base1: false, base2: false, base3: true
+Score: 0-8
+
+Shaun Conley: rng1 = 96 + 14 - 4 + 1 = 107
+rng2 = 57 + 15 - 6 + 1 = 67
+Double
+Team 1 pitcher (Evan McKenzie): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [3,3], base3: false
+base1: false, base2: true, base3: false
+Score: 0-9
+
+Jerome Fields: rng1 = 6 + 12 - 4 + 1 = 15
+rng2 = 29 + 15 - 6 + 1 = 39
+Groundout
+Team 1 pitcher (Evan McKenzie): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-9
+
+-----------------------
+
+TOP INNING 7
+
+Elvis Asencio: rng1 = 12 + 9 - 10 - 1 = 10
+Strikeout
+Team 2 pitcher (Jessie Cochran): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-9
+
+Claudio Tolentino: rng1 = 79 + 8 - 10 - 1 = 76
+rng2 = 1 + 12 - 10 - 1 = 2
+Single
+Team 2 pitcher (Jessie Cochran): 22 batters faced, 0 runs allowed = 22 + 0.0 = 22.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-9
+
+Noel Phelps: rng1 = 3 + 7 - 10 - 1 = -1
+Strikeout
+Team 2 pitcher (Jessie Cochran): 23 batters faced, 0 runs allowed = 23 + 0.0 = 23.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-9
+
+Pablo Hernandez: rng1 = 9 + 6 - 10 - 1 = 4
+Strikeout
+Team 2 pitcher (Jessie Cochran): 24 batters faced, 0 runs allowed = 24 + 0.0 = 24.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-9
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Dwight Cameron
+
+Nate Clarke: rng1 = 22 + 15 - 10 + 1 = 28
+Strikeout
+Team 1 pitcher (Dwight Cameron): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-9
+
+Ivan Rondon: rng1 = 80 + 15 - 10 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Dwight Cameron): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [6,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-9
+
+Simon Taylor: rng1 = 61 + 12 - 10 + 1 = 64
+rng2 = 51 + 10 - 10 + 1 = 52
+Lineout
+Team 1 pitcher (Dwight Cameron): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [6,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-9
+
+Alonso Medina: rng1 = 18 + 13 - 10 + 1 = 22
+Strikeout
+Team 1 pitcher (Dwight Cameron): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-9
+
+-----------------------
+
+TOP INNING 8
+
+Felix Pratt: rng1 = 9 + 8 - 10 - 1 = 6
+Strikeout
+Team 2 pitcher (Jessie Cochran): 25 batters faced, 0 runs allowed = 25 + 0.0 = 25.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-9
+
+Reilly Carter: rng1 = 3 + 6 - 10 - 1 = -2
+Strikeout
+Team 2 pitcher (Jessie Cochran): 26 batters faced, 0 runs allowed = 26 + 0.0 = 26.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-9
+
+Hayden Ross: rng1 = 69 + 6 - 10 - 1 = 64
+rng2 = 1 + 7 - 10 - 1 = -3
+Groundout
+Team 2 pitcher (Jessie Cochran): 27 batters faced, 0 runs allowed = 27 + 0.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-9
+
+-----------------------
+
+BOTTOM INNING 8
+
+Victor Harris: rng1 = 25 + 16 - 10 + 1 = 32
+rng2 = 5 + 13 - 10 + 1 = 9
+Groundout
+Team 1 pitcher (Dwight Cameron): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-9
+
+Joaquin Alba: rng1 = 65 + 15 - 10 + 1 = 71
+Walk
+Team 1 pitcher (Dwight Cameron): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [1,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-9
+
+Ali Monroe: rng1 = 76 + 15 - 10 + 1 = 82
+rng2 = 17 + 14 - 10 + 1 = 22
+Single
+Team 1 pitcher (Dwight Cameron): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 1
+
+base1: [2,4], base2: false, base3: [1,4]
+base1: true, base2: false, base3: true
+Score: 0-9
+
+Shaun Conley: rng1 = 54 + 14 - 10 + 1 = 59
+rng2 = 35 + 15 - 10 + 1 = 41
+Groundout
+Team 1 pitcher (Dwight Cameron): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: [2,4], base3: false
+base1: false, base2: true, base3: false
+Score: 0-10
+
+Jerome Fields: rng1 = 43 + 12 - 10 + 1 = 46
+rng2 = 42 + 15 - 10 + 1 = 48
+Lineout
+Team 1 pitcher (Dwight Cameron): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-10
+
+-----------------------
+
+TOP INNING 9
+
+Mario Chavez: rng1 = 81 + 10 - 10 - 1 = 80
+rng2 = 26 + 12 - 10 - 1 = 27
+Single
+Team 2 pitcher (Jessie Cochran): 28 batters faced, 0 runs allowed = 28 + 0.0 = 28.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-10
+
+Marcus Byrd: rng1 = 22 + 10 - 10 - 1 = 21
+Strikeout
+Team 2 pitcher (Jessie Cochran): 29 batters faced, 0 runs allowed = 29 + 0.0 = 29.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-10
+
+Elvis Asencio: rng1 = 16 + 9 - 10 - 1 = 14
+rng2 = 72 + 8 - 10 - 1 = 69
+Flyout
+Team 2 pitcher (Jessie Cochran): 30 batters faced, 0 runs allowed = 30 + 0.0 = 30.0, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-10
+
+Claudio Tolentino: rng1 = 74 + 8 - 10 - 1 = 71
+Walk
+Team 2 pitcher (Jessie Cochran): 31 batters faced, 0 runs allowed = 31 + 0.0 = 31.0, outs: 2
+
+base1: [3,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-10
+
+Noel Phelps: rng1 = 47 + 7 - 10 - 1 = 43
+rng2 = 78 + 9 - 10 - 1 = 76
+Flyout
+Team 2 pitcher (Jessie Cochran): 32 batters faced, 0 runs allowed = 32 + 0.0 = 32.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-10
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 3
+Team 2 hits: 13
+Team 1 runs: 0
+Team 2 runs: 10
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					26-Feb-2025
+Mario Chavez	4	0	1	0	0	0	0	0	2					Victoria
+Marcus Byrd	3	0	0	0	0	0	0	0	3	
+Elvis Asencio	4	0	0	0	0	0	0	0	3	
+Claudio Tolentino	3	0	1	0	0	0	0	1	1	
+Noel Phelps	4	0	0	0	0	0	0	0	3	
+Pablo Hernandez	3	0	0	0	0	0	0	0	2	
+Felix Pratt	3	0	0	0	0	0	0	0	3	
+Reilly Carter	3	0	0	0	0	0	0	0	2	
+Hayden Ross	3	0	1	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Clévon Fuller	0	1	1	1	0	0	9	7	6	1	2	2	17	
+Park Seo-Jun	0	0	1	0	0	0	3	2	2	1	0	1	5	
+Julio Ventura	0	0	1	0	0	0	3	1	0	0	1	0	5	
+Evan McKenzie	0	0	1	0	0	0	3	2	1	0	0	0	5	
+Dwight Cameron	0	0	1	0	0	0	6	1	1	0	1	2	9	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					26-Feb-2025
+Victor Harris	5	2	2	1	0	1	3	0	0					Reno
+Joaquin Alba	3	4	2	1	0	0	0	2	0	
+Ali Monroe	5	1	3	2	0	0	2	0	1	
+Shaun Conley	5	0	2	2	0	0	4	0	0	
+Jerome Fields	5	0	1	0	0	0	0	0	2	
+Nate Clarke	3	0	0	0	0	0	0	1	1	
+Ivan Rondon	2	0	0	0	0	0	0	1	0	
+Simon Taylor	4	1	1	0	0	1	1	0	0	
+Alonso Medina	4	2	2	0	1	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Jessie Cochran	1	0	1	1	0	0	27	3	0	0	1	20	32	
+Johnny Farmer	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Jake Booth	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Lucas Gardner	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Ian Colome	0	0	0	0	0	0	0	0	0	0	0	0	0	

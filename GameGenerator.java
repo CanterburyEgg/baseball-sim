@@ -6,15 +6,18 @@ import java.util.*;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
-public class GameGenerator 
+public class GameGenerator
 {
 	public static PrintWriter gameOutput = null, gameDebug = null, statCompendium = null, finalScores = null;
 	public static boolean printingStats = false, updatingTeams = true, writing = true;
 	public static int tracker = 0;
-	public static String date, tmpComp = "", compendiumText = "";
+	public static String date, tmpComp = "", compendiumText = "", printerLine = "";
 	
 	public static void main(String[] args) throws FileNotFoundException
 	{
+		LocalDate today = LocalDate.now();
+		DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd-LLL-yyyy");
+
 		if (args.length == 0)
 		{
 			System.out.println("Welcome to Egg's baseball sim! Try 'java GameGenerator.java game [team1] [team2]' to simulate a game.");
@@ -40,8 +43,6 @@ public class GameGenerator
 			}
 			else
 			{
-				LocalDate today = LocalDate.now();
-				DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd-LLL-yyyy");
 				date = today.format(formatter);
 				playGame(args[1], args[2], false);
 			}
@@ -71,8 +72,9 @@ public class GameGenerator
 					String matchup = inputFile.nextLine();
 					String[] inputs = matchup.split("\t");
 
-					date = inputs[2];
+					date = inputs.length > 2 ? inputs[2] : today.format(formatter);
 					playGame(inputs[0], inputs[1], true);
+					printerLine = "";
 					tmpComp = "";
 				}
 
@@ -272,24 +274,24 @@ public class GameGenerator
 		team2pitchers[0] = team2starters[p2];
 		t2controlranks[0] = t2startcontrolranks[p2];
 		t2stuffranks[0] = t2startstuffranks[p2];
-		
-		FullPrintLine("TOP INNING 1\n");
+
+		printerLine += "TOP INNING 1\n" + "\n";
 		while (game)
 		{
 			if (inning % 2 == 1)
 			{
-				FullPrint(team1batters[t1index] + ": ");
+				printerLine += team1batters[t1index] + ": ";
 			}
 			else
 			{
-				FullPrint(team2batters[t2index] + ": ");
+				printerLine += team2batters[t2index] + ": ";
 			}
 			
 			rng = (int)(Math.random()*100)+1;
 			
 			if (inning % 2 == 1)
 			{
-				if (writing)
+				if (false && writing)
 				{
 					System.out.print("rng1 = " + rng + " + " + t1contactranks[t1index] + " - " + t2controlranks[p2index] + " - 1");
 					gameDebug.print("rng1 = " + rng + " + " + t1contactranks[t1index] + " - " + t2controlranks[p2index] + " - 1");
@@ -300,7 +302,7 @@ public class GameGenerator
 			}
 			else
 			{
-				if (writing)
+				if (false && writing)
 				{
 					System.out.print("rng1 = " + rng + " + " + t2contactranks[t2index] + " - " + t1controlranks[p1index] + " + 1");
 					gameDebug.print("rng1 = " + rng + " + " + t2contactranks[t2index] + " - " + t1controlranks[p1index] + " + 1");
@@ -309,7 +311,7 @@ public class GameGenerator
 				rng -= t1controlranks[p1index];
 				rng += 1;
 			}
-			if (writing)
+			if (false && writing)
 			{
 				System.out.println(" = " + rng);
 				gameDebug.println(" = " + rng);
@@ -317,7 +319,7 @@ public class GameGenerator
 			
 			if (rng <= 10 || (rng >= 16 && rng <= 28))
 			{
-				FullPrintLine("Strikeout");
+				printerLine += "Strikeout" + "\n";
 				
 				if (inning % 2 == 1)
 				{
@@ -339,7 +341,7 @@ public class GameGenerator
 
 			else if ((rng >= 70 && rng <= 72) || (rng >= 87 && rng <= 90))
 			{
-				FullPrintLine("Walk");
+				printerLine += "Walk" + "\n";
 				
 				if (inning % 2 == 1)
 				{
@@ -501,7 +503,7 @@ public class GameGenerator
 
 			else if (rng == 86)
 			{
-				FullPrintLine("Hit by pitch");
+				printerLine += "Hit by pitch" + "\n";
 				
 				if (inning % 2 == 1)
 				{
@@ -661,7 +663,7 @@ public class GameGenerator
 				
 				if (inning % 2 == 1)
 				{
-					if (writing)
+					if (false && writing)
 					{
 						System.out.print("rng2 = " + rng + " + " + t1powerranks[t1index] + " - " + t2stuffranks[p2index] + " - 1");
 						gameDebug.print("rng2 = " + rng + " + " + t1powerranks[t1index] + " - " + t2stuffranks[p2index] + " - 1");
@@ -672,7 +674,7 @@ public class GameGenerator
 				}
 				else
 				{
-					if (writing)
+					if (false && writing)
 					{
 						System.out.print("rng2 = " + rng + " + " + t2powerranks[t2index] + " - " + t1stuffranks[p1index] + " + 1");
 						gameDebug.print("rng2 = " + rng + " + " + t2powerranks[t2index] + " - " + t1stuffranks[p1index] + " + 1");
@@ -681,7 +683,7 @@ public class GameGenerator
 					rng -= t1stuffranks[p1index];
 					rng += 1;
 				}
-				if (writing)
+				if (false && writing)
 				{
 					System.out.println(" = " + rng);
 					gameDebug.println(" = " + rng);
@@ -689,7 +691,7 @@ public class GameGenerator
 
 				if (rng <= 47)
 				{
-					FullPrintLine("Groundout");
+					printerLine += "Groundout" + "\n";
 					
 					if ((!base1 && !base2 && !base3) || outs == 2)
 					{
@@ -1151,7 +1153,7 @@ public class GameGenerator
 				}
 				else if (rng >= 48 && rng <= 58)
 				{
-					FullPrintLine("Lineout");
+					printerLine += "Lineout" + "\n";
 					outs++;
 					
 					if (inning % 2 == 1)
@@ -1161,7 +1163,7 @@ public class GameGenerator
 				}
 				else if (rng >= 59)
 				{
-					FullPrintLine("Flyout");
+					printerLine += "Flyout" + "\n";
 					outs++;
 					
 					if (inning % 2 == 1)
@@ -1271,7 +1273,7 @@ public class GameGenerator
 				
 				if (inning % 2 == 1)
 				{
-					if (writing)
+					if (false && writing)
 					{
 						System.out.print("rng2 = " + rng + " + " + t1powerranks[t1index] + " - " + t2stuffranks[p2index] + " - 1");
 						gameDebug.print("rng2 = " + rng + " + " + t1powerranks[t1index] + " - " + t2stuffranks[p2index] + " - 1");
@@ -1282,7 +1284,7 @@ public class GameGenerator
 				}
 				else
 				{
-					if (writing)
+					if (false && writing)
 					{
 						System.out.print("rng2 = " + rng + " + " + t2powerranks[t2index] + " - " + t1stuffranks[p1index] + " + 1");
 						gameDebug.print("rng2 = " + rng + " + " + t2powerranks[t2index] + " - " + t1stuffranks[p1index] + " + 1");
@@ -1291,7 +1293,7 @@ public class GameGenerator
 					rng -= t1stuffranks[p1index];
 					rng += 1;
 				}
-				if (writing)
+				if (false && writing)
 				{
 					System.out.println(" = " + rng);
 					gameDebug.println(" = " + rng);
@@ -1299,7 +1301,7 @@ public class GameGenerator
 				
 				if (rng <= 65)
 				{
-					FullPrintLine("Single");
+					printerLine += "Single" + "\n";
 					
 					if (inning % 2 == 1)
 					{
@@ -1752,7 +1754,7 @@ public class GameGenerator
 				
 				else if ((rng >= 66 && rng <= 78) || (rng >= 86 && rng <= 92))
 				{
-					FullPrintLine("Double");
+					printerLine += "Double" + "\n";
 					
 					if (inning % 2 == 1)
 					{
@@ -2124,7 +2126,7 @@ public class GameGenerator
 				}
 				else if ((rng >= 80 && rng <= 85) || rng >= 94)
 				{
-					FullPrintLine("Home run");
+					printerLine += "Home run" + "\n";
 					
 					if (inning % 2 == 1)
 					{
@@ -2398,7 +2400,7 @@ public class GameGenerator
 				}
 				else if (rng == 79 || rng == 93)
 				{
-					FullPrintLine("Triple");
+					printerLine += "Triple" + "\n";
 					
 					if (inning % 2 == 1)
 					{
@@ -2678,11 +2680,11 @@ public class GameGenerator
 			else
 				pitchers1[p1index][12]++;
 			
-			if (inning % 2 == 0 && writing)
+			if (inning % 2 == 0 && false && writing)
 				gameDebug.println("Team 1 pitcher (" + team1pitchers[p1index] + "): " + pitchers1[p1index][12] + " batters faced, " + pitchers1[p1index][8] + " runs allowed = " + pitchers1[p1index][12] + " + " + 2.5*(pitchers1[p1index][8]) + " = " + (pitchers1[p1index][12] + 2.5*(pitchers1[p1index][8]) + ", outs: " + outs));
-			else if (writing)
+			else if (false && writing)
 				gameDebug.println("Team 2 pitcher (" + team2pitchers[p2index] + "): " + pitchers2[p2index][12] + " batters faced, " + pitchers2[p2index][8] + " runs allowed = " + pitchers2[p2index][12] + " + " + 2.5*(pitchers2[p2index][8]) + " = " + (pitchers2[p2index][12] + 2.5*(pitchers2[p2index][8]) + ", outs: " + outs));
-			if (writing)
+			if (false && writing)
 				gameDebug.println("");
 			
 			if (outs < 3)
@@ -2702,10 +2704,10 @@ public class GameGenerator
 				else
 					baseDebug = baseDebug + "base3: false";
 
-				if (writing)
+				if (false && writing)
 					gameDebug.println(baseDebug);
-				FullPrintLine("base1: " + base1 + ", base2: " + base2 + ", base3: " + base3);
-				FullPrintLine("Score: " + runs1 + "-" + runs2 + "\n");
+				printerLine += "base1: " + base1 + ", base2: " + base2 + ", base3: " + base3 + "\n";
+				printerLine += "Score: " + runs1 + "-" + runs2 + "\n" + "\n";
 			}
 			
 			if (runs1 > runs2 && pitchers1[0][0] == 0 && pitchers1[1][0] == 0 && pitchers1[2][0] == 0 && pitchers1[3][0] == 0 && pitchers1[4][0] == 0)
@@ -2782,89 +2784,89 @@ public class GameGenerator
 			pitchers2[p2index][2] = 1;
 			
 			//change pitchers
-			if (!pitchswapA && p2index == 0 && outs == 3 && (pitchers2[p2index][6] + 1.5*pitchers2[p2index][10] + 1.5*pitchers2[p2index][7] + 1.75*(pitchers2[p2index][8]) > 29))
+			if (!pitchswapA && p2index == 0 && outs == 3 && (pitchers2[p2index][6] + 1.5*pitchers2[p2index][10] + 1.5*pitchers2[p2index][7] + 2*(pitchers2[p2index][8]) > 29))
 			{
 				tempA = inning;
 				pitchswapA = true;
 			}
 			
-			if (!pitchswapB && p1index == 0 && outs == 3 && (pitchers1[p1index][6] + 1.5*pitchers1[p1index][10] + 1.5*pitchers1[p1index][7] + 1.75*(pitchers1[p1index][8]) > 29))
+			if (!pitchswapB && p1index == 0 && outs == 3 && (pitchers1[p1index][6] + 1.5*pitchers1[p1index][10] + 1.5*pitchers1[p1index][7] + 2*(pitchers1[p1index][8]) > 29))
 			{
 				tempB = inning;
 				pitchswapB = true;
 			}
 			
-			if (inning%2 == 1 && p2index == 0 && outs != 3 && (pitchers2[p2index][6] + 1.5*pitchers2[p2index][10] + 1.5*pitchers2[p2index][7] + 1.75*(pitchers2[p2index][8]) > 35))
+			if (inning%2 == 1 && p2index == 0 && outs != 3 && (pitchers2[p2index][6] + 1.5*pitchers2[p2index][10] + 1.5*pitchers2[p2index][7] + 2*(pitchers2[p2index][8]) > 35))
 			{
 				pitchswapA = false;
 				p2index++;
-				FullPrintLine("Team 2 pitcher change to " + team2pitchers[p2index] + "\n");
+				printerLine += "Team 2 pitcher change to " + team2pitchers[p2index] + "\n" + "\n";
 			}
 			
-			if (inning%2 == 0 && p1index == 0 && outs != 3 && (pitchers1[p1index][6] + 1.5*pitchers1[p1index][10] + 1.5*pitchers1[p1index][7] + 1.75*(pitchers1[p1index][8]) > 35))
+			if (inning%2 == 0 && p1index == 0 && outs != 3 && (pitchers1[p1index][6] + 1.5*pitchers1[p1index][10] + 1.5*pitchers1[p1index][7] + 2*(pitchers1[p1index][8]) > 35))
 			{
 				pitchswapB = false;
 				p1index++;
-				FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
+				printerLine += "Team 1 pitcher change to " + team1pitchers[p1index] + "\n" + "\n";
 			}
 
-			if ((p2index == 1 || p2index == 2 || p2index == 3 || p2index == 4) && (p2index == 4 || pitchers2[p2index+1][2] == 0) && !pitchswapC && outs == 3 && (pitchers2[p2index][6] + 1.25*pitchers2[p2index][10] + 1.5*pitchers2[p2index][7] + 1.75*(pitchers2[p2index][8]) > 5))
+			if ((p2index == 1 || p2index == 2 || p2index == 3 || p2index == 4) && (p2index == 4 || pitchers2[p2index+1][2] == 0) && !pitchswapC && outs == 3 && (pitchers2[p2index][6] + 1.25*pitchers2[p2index][10] + 1.5*pitchers2[p2index][7] + 2*(pitchers2[p2index][8]) > 5))
 			{
 				tempC = inning;
 				pitchswapC = true;
 			}
 
-			if ((p1index == 1 || p1index == 2 || p1index == 3 || p1index == 4) && (p1index == 4 || pitchers1[p1index+1][2] == 0) && !pitchswapD && outs == 3 && (pitchers1[p1index][6] + 1.25*pitchers1[p1index][10] + 1.5*pitchers1[p1index][7] + 1.75*(pitchers1[p1index][8]) > 5))
+			if ((p1index == 1 || p1index == 2 || p1index == 3 || p1index == 4) && (p1index == 4 || pitchers1[p1index+1][2] == 0) && !pitchswapD && outs == 3 && (pitchers1[p1index][6] + 1.25*pitchers1[p1index][10] + 1.5*pitchers1[p1index][7] + 2*(pitchers1[p1index][8]) > 5))
 			{
 				tempD = inning;
 				pitchswapD = true;
 			}
 			
-			if ((p2index == 1 || p2index == 2 || p2index == 3 || p2index == 4) && (p2index == 4 || pitchers2[p2index+1][2] == 0) && !pitchswapC && outs != 3 && (pitchers2[p2index][6] + 1.25*pitchers2[p2index][10] + 1.5*pitchers2[p2index][7] + 1.75*(pitchers2[p2index][8]) > 12))
+			if ((p2index == 1 || p2index == 2 || p2index == 3 || p2index == 4) && (p2index == 4 || pitchers2[p2index+1][2] == 0) && !pitchswapC && outs != 3 && (pitchers2[p2index][6] + 1.25*pitchers2[p2index][10] + 1.5*pitchers2[p2index][7] + 2*(pitchers2[p2index][8]) > 12))
 			{
 				if (p2index < 4)
 				{
 					p2index++;
-					FullPrintLine("Team 2 pitcher change to " + team2pitchers[p2index] + "\n");
+					printerLine += "Team 2 pitcher change to " + team2pitchers[p2index] + "\n" + "\n";
 				}
 				else if (pitchers2[1][2] == 0)
 				{
 					p2index = 1;
-					FullPrintLine("Team 2 pitcher change to " + team2pitchers[p2index] + "\n");
+					printerLine += "Team 2 pitcher change to " + team2pitchers[p2index] + "\n" + "\n";
 				}
 				else if (pitchers2[2][2] == 0)
 				{
 					p2index = 2;
-					FullPrintLine("Team 2 pitcher change to " + team2pitchers[p2index] + "\n");
+					printerLine += "Team 2 pitcher change to " + team2pitchers[p2index] + "\n" + "\n";
 				}
 				else if (pitchers2[3][2] == 0)
 				{
 					p2index = 3;
-					FullPrintLine("Team 2 pitcher change to " + team2pitchers[p2index] + "\n");
+					printerLine += "Team 2 pitcher change to " + team2pitchers[p2index] + "\n" + "\n";
 				}
 			}
 
-			if ((p1index == 1 || p1index == 2 || p1index == 3 || p1index == 4) && (p1index == 4 || pitchers1[p1index+1][2] == 0) && !pitchswapD && outs != 3 && (pitchers1[p1index][6] + 1.25*pitchers1[p1index][10] + 1.5*pitchers1[p1index][7] + 1.75*(pitchers1[p1index][8]) > 12))
+			if ((p1index == 1 || p1index == 2 || p1index == 3 || p1index == 4) && (p1index == 4 || pitchers1[p1index+1][2] == 0) && !pitchswapD && outs != 3 && (pitchers1[p1index][6] + 1.25*pitchers1[p1index][10] + 1.5*pitchers1[p1index][7] + 2*(pitchers1[p1index][8]) > 12))
 			{
 				if (p1index < 4)
 				{
 					p1index++;
-					FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
+					printerLine += "Team 1 pitcher change to " + team1pitchers[p1index] + "\n" + "\n";
 				}
 				else if (pitchers1[1][2] == 0)
 				{
 					p1index = 1;
-					FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
+					printerLine += "Team 1 pitcher change to " + team1pitchers[p1index] + "\n" + "\n";
 				}
 				else if (pitchers1[2][2] == 0)
 				{
 					p1index = 2;
-					FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
+					printerLine += "Team 1 pitcher change to " + team1pitchers[p1index] + "\n" + "\n";
 				}
 				else if (pitchers1[3][2] == 0)
 				{
 					p1index = 3;
-					FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
+					printerLine += "Team 1 pitcher change to " + team1pitchers[p1index] + "\n" + "\n";
 				}
 			}
 			
@@ -2876,9 +2878,9 @@ public class GameGenerator
 				base3 = false;
 				inning++;
 				
-				FullPrintLine("base1: " + base1 + ", base2: " + base2 + ", base3: " + base3);
-				FullPrintLine("Score: " + runs1 + "-" + runs2 + "\n");	
-				FullPrintLine("-----------------------\n");
+				printerLine += "base1: " + base1 + ", base2: " + base2 + ", base3: " + base3 + "\n";
+				printerLine += "Score: " + runs1 + "-" + runs2 + "\n" + "\n";	
+				printerLine += "-----------------------\n" + "\n";
 				
 				//check if game is over
 				if (runs1 > runs2 && inning > 19 && inning%2 == 1)
@@ -2890,11 +2892,11 @@ public class GameGenerator
 				{
 					if(inning % 2 == 0)
 					{
-						FullPrintLine("BOTTOM INNING " + inning/2 + "\n");
+						printerLine += "BOTTOM INNING " + inning/2 + "\n" + "\n";
 					}
 					else
 					{
-						FullPrintLine("TOP INNING " + (inning+1)/2 + "\n");
+						printerLine += "TOP INNING " + (inning+1)/2 + "\n" + "\n";
 					}
 				}
 				
@@ -2904,7 +2906,7 @@ public class GameGenerator
 					p2index = 4;
 					pitchers2[4][4] = 1;
 					pitchers2[4][5] = 1;
-					FullPrintLine("Team 2 pitcher change to " + team2pitchers[p2index] + "\n");
+					printerLine += "Team 2 pitcher change to " + team2pitchers[p2index] + "\n" + "\n";
 					pitchswapA = false;
 					pitchswapC = false;
 				}
@@ -2915,7 +2917,7 @@ public class GameGenerator
 					p1index = 4;
 					pitchers1[4][4] = 1;
 					pitchers1[4][5] = 1;
-					FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
+					printerLine += "Team 1 pitcher change to " + team1pitchers[p1index] + "\n" + "\n";
 					pitchswapB = false;
 					pitchswapD = false;
 				}
@@ -2947,11 +2949,11 @@ public class GameGenerator
 						pitchers2[4][5] = 0;
 					}
 					
-					FullPrintLine("Innings: " + ((inning)/2));
-					FullPrintLine("Team 1 hits: " + hits1);
-					FullPrintLine("Team 2 hits: " + hits2);
-					FullPrintLine("Team 1 runs: " + runs1);
-					FullPrintLine("Team 2 runs: " + runs2 + "\n");
+					printerLine += "Innings: " + ((inning)/2) + "\n";
+					printerLine += "Team 1 hits: " + hits1 + "\n";
+					printerLine += "Team 2 hits: " + hits2 + "\n";
+					printerLine += "Team 1 runs: " + runs1 + "\n";
+					printerLine += "Team 2 runs: " + runs2 + "\n" + "\n";
 					game = false;
 				}
 				else
@@ -2967,75 +2969,73 @@ public class GameGenerator
 						finalScores.println(runs1 + "\t" + t1arg + "\t@\t" + t2arg + "\t" + runs2);
 					}
 
-					FullPrintLine("Player\tAB\tR\tH\t2B\t3B\tHR\tRBI\tBB\tSO\t\t\t\t\t" + date);
+					tmpComp += "Player\tAB\tR\tH\t2B\t3B\tHR\tRBI\tBB\tSO\t\t\t\t\t" + date + "\n";
 					
 					for (int i = 0; i < team1.length; i++)
 					{
-						FullPrint(team1batters[i] + "\t");
+						tmpComp += team1batters[i] + "\t";
 						for(int j = 0; j < team1[0].length; j++)
 						{
-							FullPrint(team1[i][j] + "\t");
+							tmpComp += team1[i][j] + "\t";
 						}
 						if (i == 0)
-							FullPrint("\t\t\t\t" + t1arg);
-						FullPrintLine("");
+							tmpComp += "\t\t\t\t" + t1arg;
+						tmpComp += "" + "\n";
 					}
 					
-					FullPrintLine("");
-					FullPrintLine("Player\tW\tL\tG\tGS\tSV\tSVO\tOUT\tH\tR\tHR\tBB\tSO\tBF");
+					tmpComp += "" + "\n";
+					tmpComp += "Player\tW\tL\tG\tGS\tSV\tSVO\tOUT\tH\tR\tHR\tBB\tSO\tBF" + "\n";
 	
 					for (int i = 0; i < pitchers1.length; i++)
 					{
-						FullPrint(team1pitchers[i] + "\t");
+						tmpComp += team1pitchers[i] + "\t";
 						for(int j = 0; j < pitchers1[0].length; j++)
 						{
-							FullPrint(pitchers1[i][j] + "\t");
+							tmpComp += pitchers1[i][j] + "\t";
 						}
-						FullPrintLine("");
+						tmpComp += "" + "\n";
 					}
 					
-					FullPrintLine("");
-					FullPrintLine("Player\tAB\tR\tH\t2B\t3B\tHR\tRBI\tBB\tSO\t\t\t\t\t" + date);
+					tmpComp += "" + "\n";
+					tmpComp += "Player\tAB\tR\tH\t2B\t3B\tHR\tRBI\tBB\tSO\t\t\t\t\t" + date + "\n";
 					
 					for (int i = 0; i < team2.length; i++)
 					{
-						FullPrint(team2batters[i] + "\t");
+						tmpComp += team2batters[i] + "\t";
 						for(int j = 0; j < team2[0].length; j++)
 						{
-							FullPrint(team2[i][j] + "\t");
+							tmpComp += team2[i][j] + "\t";
 						}
 						if (i == 0)
-							FullPrint("\t\t\t\t" + t2arg);
-						FullPrintLine("");
+							tmpComp += "\t\t\t\t" + t2arg;
+						tmpComp += "" + "\n";
 					}
 					
-					FullPrintLine("");
-					FullPrintLine("Player\tW\tL\tG\tGS\tSV\tSVO\tOUT\tH\tR\tHR\tBB\tSO\tBF");
+					tmpComp += "" + "\n";
+					tmpComp += "Player\tW\tL\tG\tGS\tSV\tSVO\tOUT\tH\tR\tHR\tBB\tSO\tBF" + "\n";
 	
 					for (int i = 0; i < pitchers2.length; i++)
 					{
-						FullPrint(team2pitchers[i] + "\t");
+						tmpComp += team2pitchers[i] + "\t";
 						for(int j = 0; j < pitchers2[0].length; j++)
 						{
-							FullPrint(pitchers2[i][j] + "\t");
+							tmpComp += pitchers2[i][j] + "\t";
 						}
-						FullPrintLine("");
+						tmpComp += "" + "\n";
 					}
-
-					compendiumText = tmpComp + "\n" + compendiumText;
 
 					if (compilingStats)
 						printingStats = false;
 					
-					if (writing && pitchers1[p1index][6] % 3 == 0 && pitchers1[p1index][12]-1 + pitchers1[p1index][8]*2.5 > 35)
+					if (false && writing && pitchers1[p1index][6] % 3 == 0 && pitchers1[p1index][12]-1 + pitchers1[p1index][8]*2.5 > 35)
 						gameOutput.println("CHECK DEBUG: Team 1 Pitcher checkval > 35");
-					if (writing && pitchers2[p2index][6] % 3 == 0 && pitchers2[p2index][12]-1 + pitchers2[p2index][8]*2.5 > 35)
+					if (false && writing && pitchers2[p2index][6] % 3 == 0 && pitchers2[p2index][12]-1 + pitchers2[p2index][8]*2.5 > 35)
 						gameOutput.println("CHECK DEBUG: Team 2 Pitcher checkval > 35");
 					for (int i = 0; i <= 3; i++)
 					{
-						if (writing && pitchers1[i][2] == 1 && pitchers1[i][12] == 0)
+						if (false && writing && pitchers1[i][2] == 1 && pitchers1[i][12] == 0)
 							gameOutput.println("CHECK DEBUG: Team 1 Pitcher " + (i+1) + " incorrectly registered for appearance");
-						if (writing && pitchers2[i][2] == 1 && pitchers2[i][12] == 0)
+						if (false && writing && pitchers2[i][2] == 1 && pitchers2[i][12] == 0)
 							gameOutput.println("CHECK DEBUG: Team 2 Pitcher " + (i+1) + " incorrectly registered for appearance");
 					}
 				}
@@ -3045,14 +3045,14 @@ public class GameGenerator
 			{
 				pitchswapA = false;
 				p2index++;
-				FullPrintLine("Team 2 pitcher change to " + team2pitchers[p2index] + "\n");
+				printerLine += "Team 2 pitcher change to " + team2pitchers[p2index] + "\n" + "\n";
 			}
 			
 			if (inning == tempB + 2 && pitchswapB && game)
 			{
 				pitchswapB = false;
 				p1index++;
-				FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
+				printerLine += "Team 1 pitcher change to " + team1pitchers[p1index] + "\n" + "\n";
 			}
 			
 			if (inning == tempC + 2 && pitchswapC && game)
@@ -3066,24 +3066,24 @@ public class GameGenerator
 					else
 						p2index++;
 
-					FullPrintLine("Team 2 pitcher change to " + team2pitchers[p2index] + "\n");
+					printerLine += "Team 2 pitcher change to " + team2pitchers[p2index] + "\n" + "\n";
 				}
 				else
 				{
 					if (pitchers2[1][2] == 0)
 					{
 						p2index = 1;
-						FullPrintLine("Team 2 pitcher change to " + team2pitchers[p2index] + "\n");
+						printerLine += "Team 2 pitcher change to " + team2pitchers[p2index] + "\n" + "\n";
 					}
 					else if (pitchers2[2][2] == 0)
 					{
 						p2index = 2;
-						FullPrintLine("Team 2 pitcher change to " + team2pitchers[p2index] + "\n");
+						printerLine += "Team 2 pitcher change to " + team2pitchers[p2index] + "\n" + "\n";
 					}
 					else if (pitchers2[3][2] == 0)
 					{
 						p2index = 3;
-						FullPrintLine("Team 2 pitcher change to " + team2pitchers[p2index] + "\n");
+						printerLine += "Team 2 pitcher change to " + team2pitchers[p2index] + "\n" + "\n";
 					}
 				}
 			}
@@ -3099,264 +3099,255 @@ public class GameGenerator
 					else
 						p1index++;
 
-					FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
+					printerLine += "Team 1 pitcher change to " + team1pitchers[p1index] + "\n" + "\n";
 				}
 				else
 				{
 					if (pitchers1[1][2] == 0)
 					{
 						p1index = 1;
-						FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
+						printerLine += "Team 1 pitcher change to " + team1pitchers[p1index] + "\n" + "\n";
 					}
 					else if (pitchers1[2][2] == 0)
 					{
 						p1index = 2;
-						FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
+						printerLine += "Team 1 pitcher change to " + team1pitchers[p1index] + "\n" + "\n";
 					}
 					else if (pitchers1[3][2] == 0)
 					{
 						p1index = 3;
-						FullPrintLine("Team 1 pitcher change to " + team1pitchers[p1index] + "\n");
+						printerLine += "Team 1 pitcher change to " + team1pitchers[p1index] + "\n" + "\n";
 					}
 				}
 			}
 		}
 
-		if (updatingTeams)
+		int[] scores = new int[2];
+
+		System.out.println(inning);
+		if (inning > 19 && (pitchers1[4][6] >= 8 || pitchers2[4][6] >= 8 || pitchers1[3][6] >= 9 || pitchers2[3][6] >= 9))
 		{
-			Scanner reader1 = new Scanner(new File(t1));
-			ArrayList<String> array1 = new ArrayList<String>();
-			while (reader1.hasNextLine())
-			{
-				array1.add(reader1.nextLine());
-			}
-			try {
-				PrintWriter writer = new PrintWriter(t1);
-				for (int i = 0; i < 13; i++)
-				{
-					writer.println(array1.get(i));					
-				}
-
-				int r1stats = t1controlranks[1] + t1stuffranks[1];
-				int r2stats = t1controlranks[2] + t1stuffranks[2];
-				int r3stats = t1controlranks[3] + t1stuffranks[3];
-				int[] rsorted = new int[3];
-
-				if (r3stats > r2stats)
-				{
-					if (r1stats > r3stats)
-					{
-						rsorted[0] = 1;
-						rsorted[1] = 3;
-						rsorted[2] = 2;
-					}
-					else if (r2stats > r1stats)
-					{
-						rsorted[0] = 3;
-						rsorted[1] = 2;
-						rsorted[2] = 1;
-					}
-					else
-					{
-						rsorted[0] = 3;
-						rsorted[1] = 1;
-						rsorted[2] = 2;
-					}
-				}
-				else
-				{
-					if (r1stats > r2stats)
-					{
-						rsorted[0] = 1;
-						rsorted[1] = 2;
-						rsorted[2] = 3;
-					}
-					else if (r1stats > r3stats)
-					{
-						rsorted[0] = 2;
-						rsorted[1] = 1;
-						rsorted[2] = 3;
-					}
-					else
-					{
-						rsorted[0] = 2;
-						rsorted[1] = 3;
-						rsorted[2] = 1;				
-					}
-				}
-
-				ArrayList<String> pitched = new ArrayList<String>();
-				ArrayList<String> didntPitch = new ArrayList<String>();
-
-				for (int i = 0; i < 3; i++)
-				{
-					if (pitchers1[rsorted[i]][2] == 1)
-					{
-						pitched.add(array1.get(rsorted[i]+12));
-					}
-					else
-					{
-						didntPitch.add(array1.get(rsorted[i]+12));
-					}
-				}
-
-				didntPitch.forEach((n) -> writer.println(n));
-				pitched.forEach((n) -> writer.println(n));
-
-				writer.println(array1.get(16));
-
-				if (p1 == 3)
-				{
-					writer.print("0");
-				}
-				else
-				{
-					writer.print(p1+1);
-				}
-				writer.close();
-			}
-			catch (IOException e)
-			{
-				System.out.println("Couldn't write to file.");
-			}
-			
-			Scanner reader2 = new Scanner(new File(t2));
-			ArrayList<String> array2 = new ArrayList<String>();
-			while (reader2.hasNextLine())
-			{
-				array2.add(reader2.nextLine());
-			}
-			try {
-				PrintWriter writer = new PrintWriter(t2);
-				for (int i = 0; i < 13; i++)
-				{
-					writer.println(array2.get(i));					
-				}
-
-				int r1stats = t2controlranks[1] + t2stuffranks[1];
-				int r2stats = t2controlranks[2] + t2stuffranks[2];
-				int r3stats = t2controlranks[3] + t2stuffranks[3];
-				int[] rsorted = new int[3];
-
-				if (r3stats > r2stats)
-				{
-					if (r1stats > r3stats)
-					{
-						rsorted[0] = 1;
-						rsorted[1] = 3;
-						rsorted[2] = 2;
-					}
-					else if (r2stats > r1stats)
-					{
-						rsorted[0] = 3;
-						rsorted[1] = 2;
-						rsorted[2] = 1;
-					}
-					else
-					{
-						rsorted[0] = 3;
-						rsorted[1] = 1;
-						rsorted[2] = 2;
-					}
-				}
-				else
-				{
-					if (r1stats > r2stats)
-					{
-						rsorted[0] = 1;
-						rsorted[1] = 2;
-						rsorted[2] = 3;
-					}
-					else if (r1stats > r3stats)
-					{
-						rsorted[0] = 2;
-						rsorted[1] = 1;
-						rsorted[2] = 3;
-					}
-					else
-					{
-						rsorted[0] = 2;
-						rsorted[1] = 3;
-						rsorted[2] = 1;				
-					}
-				}
-
-				ArrayList<String> pitched = new ArrayList<String>();
-				ArrayList<String> didntPitch = new ArrayList<String>();
-
-				for (int i = 0; i < 3; i++)
-				{
-					if (pitchers2[rsorted[i]][2] == 1)
-					{
-						pitched.add(array2.get(rsorted[i]+12));
-					}
-					else
-					{
-						didntPitch.add(array2.get(rsorted[i]+12));
-					}
-				}
-
-				didntPitch.forEach((n) -> writer.println(n));
-				pitched.forEach((n) -> writer.println(n));
-
-				writer.println(array2.get(16));
-
-				if (p2 == 3)
-				{
-					writer.print("0");
-				}
-				else
-				{
-					writer.print(p2+1);
-				}
-
-				writer.close();
-			}
-			catch (IOException e)
-			{
-				System.out.println("Couldn't write to file.");
-			}
-
-			reader1.close();
-			reader2.close();
-			gameOutput.close();
-			gameDebug.close();
+			tmpComp = "";
+			printerLine = "";
+			scores = playGame(t1arg, t2arg, compilingStats);
 		}
-		
+		else
+		{
+			compendiumText = tmpComp + "\n" + compendiumText;
+			printerLine += tmpComp;
+
+			System.out.print(printerLine);
+			gameOutput.print(printerLine);
+			gameDebug.print(printerLine);
+
+			if (updatingTeams)
+			{
+				Scanner reader1 = new Scanner(new File(t1));
+				ArrayList<String> array1 = new ArrayList<String>();
+				while (reader1.hasNextLine())
+				{
+					array1.add(reader1.nextLine());
+				}
+				try {
+					PrintWriter writer = new PrintWriter(t1);
+					for (int i = 0; i < 13; i++)
+					{
+						writer.println(array1.get(i));					
+					}
+
+					int r1stats = t1controlranks[1] + t1stuffranks[1];
+					int r2stats = t1controlranks[2] + t1stuffranks[2];
+					int r3stats = t1controlranks[3] + t1stuffranks[3];
+					int[] rsorted = new int[3];
+
+					if (r3stats > r2stats)
+					{
+						if (r1stats > r3stats)
+						{
+							rsorted[0] = 1;
+							rsorted[1] = 3;
+							rsorted[2] = 2;
+						}
+						else if (r2stats > r1stats)
+						{
+							rsorted[0] = 3;
+							rsorted[1] = 2;
+							rsorted[2] = 1;
+						}
+						else
+						{
+							rsorted[0] = 3;
+							rsorted[1] = 1;
+							rsorted[2] = 2;
+						}
+					}
+					else
+					{
+						if (r1stats > r2stats)
+						{
+							rsorted[0] = 1;
+							rsorted[1] = 2;
+							rsorted[2] = 3;
+						}
+						else if (r1stats > r3stats)
+						{
+							rsorted[0] = 2;
+							rsorted[1] = 1;
+							rsorted[2] = 3;
+						}
+						else
+						{
+							rsorted[0] = 2;
+							rsorted[1] = 3;
+							rsorted[2] = 1;				
+						}
+					}
+
+					ArrayList<String> pitched = new ArrayList<String>();
+					ArrayList<String> didntPitch = new ArrayList<String>();
+
+					for (int i = 0; i < 3; i++)
+					{
+						if (pitchers1[rsorted[i]][2] == 1)
+						{
+							pitched.add(array1.get(rsorted[i]+12));
+						}
+						else
+						{
+							didntPitch.add(array1.get(rsorted[i]+12));
+						}
+					}
+
+					didntPitch.forEach((n) -> writer.println(n));
+					pitched.forEach((n) -> writer.println(n));
+
+					writer.println(array1.get(16));
+
+					if (p1 == 3)
+					{
+						writer.print("0");
+					}
+					else
+					{
+						writer.print(p1+1);
+					}
+					writer.close();
+				}
+				catch (IOException e)
+				{
+					System.out.println("Couldn't write to file.");
+				}
+				
+				Scanner reader2 = new Scanner(new File(t2));
+				ArrayList<String> array2 = new ArrayList<String>();
+				while (reader2.hasNextLine())
+				{
+					array2.add(reader2.nextLine());
+				}
+				try {
+					PrintWriter writer = new PrintWriter(t2);
+					for (int i = 0; i < 13; i++)
+					{
+						writer.println(array2.get(i));					
+					}
+
+					int r1stats = t2controlranks[1] + t2stuffranks[1];
+					int r2stats = t2controlranks[2] + t2stuffranks[2];
+					int r3stats = t2controlranks[3] + t2stuffranks[3];
+					int[] rsorted = new int[3];
+
+					if (r3stats > r2stats)
+					{
+						if (r1stats > r3stats)
+						{
+							rsorted[0] = 1;
+							rsorted[1] = 3;
+							rsorted[2] = 2;
+						}
+						else if (r2stats > r1stats)
+						{
+							rsorted[0] = 3;
+							rsorted[1] = 2;
+							rsorted[2] = 1;
+						}
+						else
+						{
+							rsorted[0] = 3;
+							rsorted[1] = 1;
+							rsorted[2] = 2;
+						}
+					}
+					else
+					{
+						if (r1stats > r2stats)
+						{
+							rsorted[0] = 1;
+							rsorted[1] = 2;
+							rsorted[2] = 3;
+						}
+						else if (r1stats > r3stats)
+						{
+							rsorted[0] = 2;
+							rsorted[1] = 1;
+							rsorted[2] = 3;
+						}
+						else
+						{
+							rsorted[0] = 2;
+							rsorted[1] = 3;
+							rsorted[2] = 1;				
+						}
+					}
+
+					ArrayList<String> pitched = new ArrayList<String>();
+					ArrayList<String> didntPitch = new ArrayList<String>();
+
+					for (int i = 0; i < 3; i++)
+					{
+						if (pitchers2[rsorted[i]][2] == 1)
+						{
+							pitched.add(array2.get(rsorted[i]+12));
+						}
+						else
+						{
+							didntPitch.add(array2.get(rsorted[i]+12));
+						}
+					}
+
+					didntPitch.forEach((n) -> writer.println(n));
+					pitched.forEach((n) -> writer.println(n));
+
+					writer.println(array2.get(16));
+
+					if (p2 == 3)
+					{
+						writer.print("0");
+					}
+					else
+					{
+						writer.print(p2+1);
+					}
+
+					writer.close();
+				}
+				catch (IOException e)
+				{
+					System.out.println("Couldn't write to file.");
+				}
+
+				scores[0] = runs1;
+				scores[1] = runs2;
+
+				reader1.close();
+				reader2.close();
+				gameOutput.close();
+				gameDebug.close();
+			}
+		}
+
 		file1.close();
 		file2.close();
 
-		int[] scores = { runs1, runs2 };
 		return scores;
-	}
-	
-	public static void FullPrintLine(String s)
-	{
-		if (writing)
-		{
-			System.out.println(s);
-			gameOutput.println(s);
-			gameDebug.println(s);
-
-			if (printingStats)
-			{
-				tmpComp += s + "\n";
-			}
-		}
-	}
-	
-	public static void FullPrint(String s)
-	{
-		if (writing)
-		{
-			System.out.print(s);
-			gameOutput.print(s);
-			gameDebug.print(s);
-
-			if (printingStats)
-			{
-				tmpComp += s;
-			}
-		}
 	}
 }

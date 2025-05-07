@@ -1,0 +1,711 @@
+TOP INNING 1
+
+Trevor Holloway: rng1 = 97 + 12 - 9 - 1 = 99
+rng2 = 92 + 12 - 12 - 1 = 91
+Double
+Team 2 pitcher (Austin Greer): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Enrique Holmes: rng1 = 46 + 11 - 9 - 1 = 47
+rng2 = 89 + 8 - 12 - 1 = 84
+Flyout
+Team 2 pitcher (Austin Greer): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: false, base3: [0,0]
+base1: false, base2: false, base3: true
+Score: 0-0
+
+Luis Canales: rng1 = 49 + 10 - 9 - 1 = 49
+rng2 = 15 + 7 - 12 - 1 = 9
+Groundout
+Team 2 pitcher (Austin Greer): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Chester Hubbard: rng1 = 53 + 8 - 9 - 1 = 51
+rng2 = 92 + 13 - 12 - 1 = 92
+Flyout
+Team 2 pitcher (Austin Greer): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Russell Glover: rng1 = 93 + 14 - 7 + 1 = 101
+rng2 = 86 + 8 - 5 + 1 = 90
+Double
+Team 1 pitcher (Finley Carr): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Emilio Cordero: rng1 = 45 + 10 - 7 + 1 = 49
+rng2 = 3 + 12 - 5 + 1 = 11
+Groundout
+Team 1 pitcher (Finley Carr): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-0
+
+Floyd Meyers: rng1 = 77 + 10 - 7 + 1 = 81
+rng2 = 85 + 10 - 5 + 1 = 91
+Double
+Team 1 pitcher (Finley Carr): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Oliver Summers: rng1 = 32 + 8 - 7 + 1 = 34
+rng2 = 44 + 15 - 5 + 1 = 55
+Lineout
+Team 1 pitcher (Finley Carr): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Stuart Barton: rng1 = 85 + 9 - 7 + 1 = 88
+Walk
+Team 1 pitcher (Finley Carr): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [4,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Kris Moody: rng1 = 61 + 9 - 7 + 1 = 64
+rng2 = 21 + 11 - 5 + 1 = 28
+Groundout
+Team 1 pitcher (Finley Carr): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 2
+
+Sam Snyder: rng1 = 87 + 6 - 9 - 1 = 83
+rng2 = 66 + 12 - 12 - 1 = 65
+Single
+Team 2 pitcher (Austin Greer): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Art Whitaker: rng1 = 3 + 9 - 9 - 1 = 2
+Strikeout
+Team 2 pitcher (Austin Greer): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Melvin Carlson: rng1 = 13 + 10 - 9 - 1 = 13
+rng2 = 83 + 7 - 12 - 1 = 77
+Flyout
+Team 2 pitcher (Austin Greer): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Reese Ross: rng1 = 75 + 5 - 9 - 1 = 70
+Walk
+Team 2 pitcher (Austin Greer): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [7,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-1
+
+Dídac Laguna: rng1 = 50 + 8 - 9 - 1 = 48
+rng2 = 64 + 6 - 12 - 1 = 57
+Lineout
+Team 2 pitcher (Austin Greer): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Wade Poole: rng1 = 58 + 9 - 7 + 1 = 61
+rng2 = 77 + 10 - 5 + 1 = 83
+Flyout
+Team 1 pitcher (Finley Carr): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Francisco Mercado: rng1 = 8 + 7 - 7 + 1 = 9
+Strikeout
+Team 1 pitcher (Finley Carr): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Tyler May: rng1 = 67 + 7 - 7 + 1 = 68
+rng2 = 12 + 10 - 5 + 1 = 18
+Groundout
+Team 1 pitcher (Finley Carr): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 3
+
+Trevor Holloway: rng1 = 41 + 12 - 9 - 1 = 43
+rng2 = 44 + 12 - 12 - 1 = 43
+Groundout
+Team 2 pitcher (Austin Greer): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Enrique Holmes: rng1 = 23 + 11 - 9 - 1 = 24
+Strikeout
+Team 2 pitcher (Austin Greer): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Luis Canales: rng1 = 1 + 10 - 9 - 1 = 1
+Strikeout
+Team 2 pitcher (Austin Greer): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Russell Glover: rng1 = 33 + 14 - 7 + 1 = 41
+rng2 = 10 + 8 - 5 + 1 = 14
+Groundout
+Team 1 pitcher (Finley Carr): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Emilio Cordero: rng1 = 47 + 10 - 7 + 1 = 51
+rng2 = 34 + 12 - 5 + 1 = 42
+Groundout
+Team 1 pitcher (Finley Carr): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Floyd Meyers: rng1 = 74 + 10 - 7 + 1 = 78
+rng2 = 26 + 10 - 5 + 1 = 32
+Single
+Team 1 pitcher (Finley Carr): 12 batters faced, 1 runs allowed = 12 + 2.5 = 14.5, outs: 2
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Oliver Summers: rng1 = 21 + 8 - 7 + 1 = 23
+Strikeout
+Team 1 pitcher (Finley Carr): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+TOP INNING 4
+
+Chester Hubbard: rng1 = 36 + 8 - 9 - 1 = 34
+rng2 = 64 + 13 - 12 - 1 = 64
+Flyout
+Team 2 pitcher (Austin Greer): 13 batters faced, 1 runs allowed = 13 + 2.5 = 15.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-1
+
+Sam Snyder: rng1 = 81 + 6 - 9 - 1 = 77
+rng2 = 8 + 12 - 12 - 1 = 7
+Single
+Team 2 pitcher (Austin Greer): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 1
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Art Whitaker: rng1 = 36 + 9 - 9 - 1 = 35
+rng2 = 72 + 11 - 12 - 1 = 70
+Flyout
+Team 2 pitcher (Austin Greer): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 2
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Melvin Carlson: rng1 = 23 + 10 - 9 - 1 = 23
+Strikeout
+Team 2 pitcher (Austin Greer): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-1
+
+-----------------------
+
+BOTTOM INNING 4
+
+Stuart Barton: rng1 = 87 + 9 - 7 + 1 = 90
+Walk
+Team 1 pitcher (Finley Carr): 14 batters faced, 1 runs allowed = 14 + 2.5 = 16.5, outs: 0
+
+base1: [4,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-1
+
+Kris Moody: rng1 = 38 + 9 - 7 + 1 = 41
+rng2 = 4 + 11 - 5 + 1 = 11
+Groundout
+Team 1 pitcher (Finley Carr): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 1
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Wade Poole: rng1 = 10 + 9 - 7 + 1 = 13
+rng2 = 41 + 10 - 5 + 1 = 47
+Groundout
+Team 1 pitcher (Finley Carr): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 2
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-1
+
+Francisco Mercado: rng1 = 93 + 7 - 7 + 1 = 94
+rng2 = 65 + 11 - 5 + 1 = 72
+Double
+Team 1 pitcher (Finley Carr): 17 batters faced, 2 runs allowed = 17 + 5.0 = 22.0, outs: 2
+
+base1: false, base2: [7,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-2
+
+Tyler May: rng1 = 39 + 7 - 7 + 1 = 40
+rng2 = 4 + 10 - 5 + 1 = 10
+Groundout
+Team 1 pitcher (Finley Carr): 18 batters faced, 2 runs allowed = 18 + 5.0 = 23.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+TOP INNING 5
+
+Reese Ross: rng1 = 32 + 5 - 9 - 1 = 27
+Strikeout
+Team 2 pitcher (Austin Greer): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Dídac Laguna: rng1 = 67 + 8 - 9 - 1 = 65
+rng2 = 21 + 6 - 12 - 1 = 14
+Groundout
+Team 2 pitcher (Austin Greer): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Trevor Holloway: rng1 = 26 + 12 - 9 - 1 = 28
+Strikeout
+Team 2 pitcher (Austin Greer): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-2
+
+-----------------------
+
+BOTTOM INNING 5
+
+Russell Glover: rng1 = 9 + 14 - 7 + 1 = 17
+Strikeout
+Team 1 pitcher (Finley Carr): 19 batters faced, 2 runs allowed = 19 + 5.0 = 24.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-2
+
+Emilio Cordero: rng1 = 68 + 10 - 7 + 1 = 72
+Walk
+Team 1 pitcher (Finley Carr): 20 batters faced, 2 runs allowed = 20 + 5.0 = 25.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-2
+
+Floyd Meyers: rng1 = 69 + 10 - 7 + 1 = 73
+rng2 = 78 + 10 - 5 + 1 = 84
+Home run
+Team 1 pitcher (Finley Carr): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-4
+
+Oliver Summers: rng1 = 86 + 8 - 7 + 1 = 88
+Walk
+Team 1 pitcher (Finley Carr): 22 batters faced, 4 runs allowed = 22 + 10.0 = 32.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-4
+
+Stuart Barton: rng1 = 98 + 9 - 7 + 1 = 101
+rng2 = 63 + 12 - 5 + 1 = 71
+Double
+Team 1 pitcher (Finley Carr): 23 batters faced, 4 runs allowed = 23 + 10.0 = 33.0, outs: 1
+
+base1: false, base2: [4,0], base3: [3,0]
+base1: false, base2: true, base3: true
+Score: 1-4
+
+Kris Moody: rng1 = 11 + 9 - 7 + 1 = 14
+rng2 = 75 + 11 - 5 + 1 = 82
+Flyout
+Team 1 pitcher (Finley Carr): 24 batters faced, 5 runs allowed = 24 + 12.5 = 36.5, outs: 2
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-5
+
+Team 1 pitcher change to Mitch Boyd
+
+Wade Poole: rng1 = 39 + 9 - 15 + 1 = 34
+rng2 = 46 + 10 - 12 + 1 = 45
+Groundout
+Team 1 pitcher (Mitch Boyd): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+TOP INNING 6
+
+Enrique Holmes: rng1 = 67 + 11 - 9 - 1 = 68
+rng2 = 43 + 8 - 12 - 1 = 38
+Groundout
+Team 2 pitcher (Austin Greer): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-5
+
+Luis Canales: rng1 = 89 + 10 - 9 - 1 = 89
+Walk
+Team 2 pitcher (Austin Greer): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Chester Hubbard: rng1 = 54 + 8 - 9 - 1 = 52
+rng2 = 43 + 13 - 12 - 1 = 43
+Groundout
+Team 2 pitcher (Austin Greer): 22 batters faced, 1 runs allowed = 22 + 2.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-5
+
+-----------------------
+
+BOTTOM INNING 6
+
+Francisco Mercado: rng1 = 95 + 7 - 15 + 1 = 88
+Walk
+Team 1 pitcher (Mitch Boyd): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Tyler May: rng1 = 10 + 7 - 15 + 1 = 3
+Strikeout
+Team 1 pitcher (Mitch Boyd): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Russell Glover: rng1 = 29 + 14 - 15 + 1 = 29
+rng2 = 69 + 8 - 12 + 1 = 66
+Flyout
+Team 1 pitcher (Mitch Boyd): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [7,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-5
+
+Emilio Cordero: rng1 = 100 + 10 - 15 + 1 = 96
+rng2 = 89 + 12 - 12 + 1 = 90
+Double
+Team 1 pitcher (Mitch Boyd): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: false, base2: [1,1], base3: false
+base1: false, base2: true, base3: false
+Score: 1-6
+
+Floyd Meyers: rng1 = 27 + 10 - 15 + 1 = 23
+Strikeout
+Team 1 pitcher (Mitch Boyd): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 7
+
+Sam Snyder: rng1 = 15 + 6 - 9 - 1 = 11
+rng2 = 45 + 12 - 12 - 1 = 44
+Groundout
+Team 2 pitcher (Austin Greer): 23 batters faced, 1 runs allowed = 23 + 2.5 = 25.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Art Whitaker: rng1 = 89 + 9 - 9 - 1 = 88
+Walk
+Team 2 pitcher (Austin Greer): 24 batters faced, 1 runs allowed = 24 + 2.5 = 26.5, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Melvin Carlson: rng1 = 57 + 10 - 9 - 1 = 57
+rng2 = 4 + 7 - 12 - 1 = -2
+Groundout
+Team 2 pitcher (Austin Greer): 25 batters faced, 1 runs allowed = 25 + 2.5 = 27.5, outs: 2
+
+base1: false, base2: [5,0], base3: false
+base1: false, base2: true, base3: false
+Score: 1-6
+
+Reese Ross: rng1 = 10 + 5 - 9 - 1 = 5
+Strikeout
+Team 2 pitcher (Austin Greer): 26 batters faced, 1 runs allowed = 26 + 2.5 = 28.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Jacob Wallace
+
+Oliver Summers: rng1 = 8 + 8 - 10 + 1 = 7
+Strikeout
+Team 1 pitcher (Jacob Wallace): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Stuart Barton: rng1 = 84 + 9 - 10 + 1 = 84
+rng2 = 27 + 12 - 8 + 1 = 32
+Single
+Team 1 pitcher (Jacob Wallace): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Kris Moody: rng1 = 67 + 9 - 10 + 1 = 67
+rng2 = 86 + 11 - 8 + 1 = 90
+Flyout
+Team 1 pitcher (Jacob Wallace): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Wade Poole: rng1 = 63 + 9 - 10 + 1 = 63
+rng2 = 30 + 10 - 8 + 1 = 33
+Groundout
+Team 1 pitcher (Jacob Wallace): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Luis Rodriguez
+
+Dídac Laguna: rng1 = 76 + 8 - 11 - 1 = 72
+Walk
+Team 2 pitcher (Luis Rodriguez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Trevor Holloway: rng1 = 23 + 12 - 11 - 1 = 23
+Strikeout
+Team 2 pitcher (Luis Rodriguez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Enrique Holmes: rng1 = 8 + 11 - 11 - 1 = 7
+Strikeout
+Team 2 pitcher (Luis Rodriguez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Luis Canales: rng1 = 66 + 10 - 11 - 1 = 64
+rng2 = 20 + 7 - 12 - 1 = 14
+Groundout
+Team 2 pitcher (Luis Rodriguez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+BOTTOM INNING 8
+
+Francisco Mercado: rng1 = 35 + 7 - 10 + 1 = 33
+rng2 = 75 + 11 - 8 + 1 = 79
+Flyout
+Team 1 pitcher (Jacob Wallace): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Tyler May: rng1 = 77 + 7 - 10 + 1 = 75
+rng2 = 46 + 10 - 8 + 1 = 49
+Single
+Team 1 pitcher (Jacob Wallace): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Russell Glover: rng1 = 4 + 14 - 10 + 1 = 9
+Strikeout
+Team 1 pitcher (Jacob Wallace): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-6
+
+Emilio Cordero: rng1 = 39 + 10 - 10 + 1 = 40
+rng2 = 100 + 12 - 8 + 1 = 105
+Flyout
+Team 1 pitcher (Jacob Wallace): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+TOP INNING 9
+
+Chester Hubbard: rng1 = 53 + 8 - 11 - 1 = 49
+rng2 = 86 + 13 - 12 - 1 = 86
+Flyout
+Team 2 pitcher (Luis Rodriguez): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Sam Snyder: rng1 = 32 + 6 - 11 - 1 = 26
+Strikeout
+Team 2 pitcher (Luis Rodriguez): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-6
+
+Art Whitaker: rng1 = 40 + 9 - 11 - 1 = 37
+rng2 = 71 + 11 - 12 - 1 = 69
+Flyout
+Team 2 pitcher (Luis Rodriguez): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-6
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 3
+Team 2 hits: 9
+Team 1 runs: 1
+Team 2 runs: 6
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					26-Feb-2025
+Trevor Holloway	4	1	1	1	0	0	0	0	2					Milwaukee
+Enrique Holmes	4	0	0	0	0	0	0	0	2	
+Luis Canales	3	0	0	0	0	0	1	1	1	
+Chester Hubbard	4	0	0	0	0	0	0	0	0	
+Sam Snyder	4	0	2	0	0	0	0	0	1	
+Art Whitaker	3	0	0	0	0	0	0	1	1	
+Melvin Carlson	3	0	0	0	0	0	0	0	1	
+Reese Ross	2	0	0	0	0	0	0	1	2	
+Dídac Laguna	2	0	0	0	0	0	0	1	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Finley Carr	0	1	1	1	0	0	14	6	5	1	4	3	24	
+Mitch Boyd	0	0	1	0	0	0	4	1	1	0	1	2	6	
+Jacob Wallace	0	0	1	0	0	0	6	2	0	0	0	2	8	
+Hanley Harper	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Arturo Espinoza	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					26-Feb-2025
+Russell Glover	5	1	1	1	0	0	0	0	2					Salem
+Emilio Cordero	4	1	1	1	0	0	1	1	0	
+Floyd Meyers	4	1	3	1	0	1	3	0	1	
+Oliver Summers	3	1	0	0	0	0	0	1	2	
+Stuart Barton	2	1	2	1	0	0	0	2	0	
+Kris Moody	4	0	0	0	0	0	1	0	0	
+Wade Poole	4	0	0	0	0	0	0	0	0	
+Francisco Mercado	3	1	1	1	0	0	1	1	1	
+Tyler May	4	0	1	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Austin Greer	1	0	1	1	0	0	21	3	1	0	3	7	26	
+Luis Rodriguez	0	0	1	0	0	0	6	0	0	0	1	3	7	
+Armando Negron	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Jhon Montilla	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Diego Guevara	0	0	0	0	0	0	0	0	0	0	0	0	0	

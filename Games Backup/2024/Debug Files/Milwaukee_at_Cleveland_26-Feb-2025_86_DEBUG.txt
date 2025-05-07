@@ -1,0 +1,707 @@
+TOP INNING 1
+
+Trevor Holloway: rng1 = 44 + 12 - 7 - 1 = 48
+rng2 = 84 + 12 - 6 - 1 = 89
+Flyout
+Team 2 pitcher (Valentín Sánchez): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Enrique Holmes: rng1 = 96 + 11 - 7 - 1 = 99
+rng2 = 19 + 8 - 6 - 1 = 20
+Single
+Team 2 pitcher (Valentín Sánchez): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Luis Canales: rng1 = 42 + 10 - 7 - 1 = 44
+rng2 = 23 + 7 - 6 - 1 = 23
+Groundout
+Team 2 pitcher (Valentín Sánchez): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Hernan Pereira: rng1 = 90 + 15 - 7 + 1 = 99
+rng2 = 34 + 14 - 5 + 1 = 44
+Single
+Team 1 pitcher (Finley Carr): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-0
+
+Federico Taveras: rng1 = 80 + 12 - 7 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Finley Carr): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Gerardo Deleon: rng1 = 51 + 9 - 7 + 1 = 54
+rng2 = 12 + 8 - 5 + 1 = 16
+Groundout
+Team 1 pitcher (Finley Carr): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-0
+
+Omar Shah: rng1 = 74 + 7 - 7 + 1 = 75
+rng2 = 21 + 15 - 5 + 1 = 32
+Single
+Team 1 pitcher (Finley Carr): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 1
+
+base1: [3,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 0-1
+
+Aaron Pearce: rng1 = 12 + 6 - 7 + 1 = 12
+rng2 = 48 + 9 - 5 + 1 = 53
+Lineout
+Team 1 pitcher (Finley Carr): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 2
+
+base1: [3,0], base2: false, base3: [2,0]
+base1: true, base2: false, base3: true
+Score: 0-1
+
+Rogelio Rojas: rng1 = 28 + 5 - 7 + 1 = 27
+Strikeout
+Team 1 pitcher (Finley Carr): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+TOP INNING 2
+
+Chester Hubbard: rng1 = 68 + 8 - 7 - 1 = 68
+rng2 = 79 + 13 - 6 - 1 = 85
+Flyout
+Team 2 pitcher (Valentín Sánchez): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Sam Snyder: rng1 = 48 + 6 - 7 - 1 = 46
+rng2 = 67 + 12 - 6 - 1 = 72
+Flyout
+Team 2 pitcher (Valentín Sánchez): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Art Whitaker: rng1 = 45 + 9 - 7 - 1 = 46
+rng2 = 88 + 11 - 6 - 1 = 92
+Flyout
+Team 2 pitcher (Valentín Sánchez): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Francisco Illescas: rng1 = 55 + 8 - 7 + 1 = 57
+rng2 = 84 + 8 - 5 + 1 = 88
+Flyout
+Team 1 pitcher (Finley Carr): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-1
+
+Jerónimo Palomar: rng1 = 97 + 6 - 7 + 1 = 97
+rng2 = 18 + 7 - 5 + 1 = 21
+Single
+Team 1 pitcher (Finley Carr): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 1
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-1
+
+Patrick Cook: rng1 = 76 + 4 - 7 + 1 = 74
+rng2 = 49 + 8 - 5 + 1 = 53
+Single
+Team 1 pitcher (Finley Carr): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 1
+
+base1: [8,0], base2: [7,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-1
+
+Hernan Pereira: rng1 = 31 + 15 - 7 + 1 = 40
+rng2 = 52 + 14 - 5 + 1 = 62
+Flyout
+Team 1 pitcher (Finley Carr): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 2
+
+base1: [8,0], base2: false, base3: [7,0]
+base1: true, base2: false, base3: true
+Score: 0-1
+
+Federico Taveras: rng1 = 66 + 12 - 7 + 1 = 72
+Walk
+Team 1 pitcher (Finley Carr): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 2
+
+base1: [1,0], base2: [8,0], base3: [7,0]
+base1: true, base2: true, base3: true
+Score: 0-1
+
+Gerardo Deleon: rng1 = 79 + 9 - 7 + 1 = 82
+rng2 = 86 + 8 - 5 + 1 = 90
+Double
+Team 1 pitcher (Finley Carr): 12 batters faced, 4 runs allowed = 12 + 10.0 = 22.0, outs: 2
+
+base1: false, base2: [2,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-4
+
+Omar Shah: rng1 = 87 + 7 - 7 + 1 = 88
+Walk
+Team 1 pitcher (Finley Carr): 13 batters faced, 4 runs allowed = 13 + 10.0 = 23.0, outs: 2
+
+base1: [3,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-4
+
+Aaron Pearce: rng1 = 12 + 6 - 7 + 1 = 12
+rng2 = 94 + 9 - 5 + 1 = 99
+Flyout
+Team 1 pitcher (Finley Carr): 14 batters faced, 4 runs allowed = 14 + 10.0 = 24.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+TOP INNING 3
+
+Melvin Carlson: rng1 = 87 + 10 - 7 - 1 = 89
+Walk
+Team 2 pitcher (Valentín Sánchez): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 0
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Reese Ross: rng1 = 90 + 5 - 7 - 1 = 87
+Walk
+Team 2 pitcher (Valentín Sánchez): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 0
+
+base1: [7,0], base2: [6,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-4
+
+Dídac Laguna: rng1 = 31 + 8 - 7 - 1 = 31
+rng2 = 38 + 6 - 6 - 1 = 37
+Groundout
+Team 2 pitcher (Valentín Sánchez): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 2
+
+base1: false, base2: false, base3: [6,0]
+base1: false, base2: false, base3: true
+Score: 0-4
+
+Trevor Holloway: rng1 = 56 + 12 - 7 - 1 = 60
+rng2 = 70 + 12 - 6 - 1 = 75
+Flyout
+Team 2 pitcher (Valentín Sánchez): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+BOTTOM INNING 3
+
+Rogelio Rojas: rng1 = 49 + 5 - 7 + 1 = 48
+rng2 = 93 + 9 - 5 + 1 = 98
+Flyout
+Team 1 pitcher (Finley Carr): 15 batters faced, 4 runs allowed = 15 + 10.0 = 25.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Francisco Illescas: rng1 = 94 + 8 - 7 + 1 = 96
+rng2 = 59 + 8 - 5 + 1 = 63
+Single
+Team 1 pitcher (Finley Carr): 16 batters faced, 4 runs allowed = 16 + 10.0 = 26.0, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Jerónimo Palomar: rng1 = 45 + 6 - 7 + 1 = 45
+rng2 = 36 + 7 - 5 + 1 = 39
+Groundout
+Team 1 pitcher (Finley Carr): 17 batters faced, 4 runs allowed = 17 + 10.0 = 27.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+TOP INNING 4
+
+Enrique Holmes: rng1 = 34 + 11 - 7 - 1 = 37
+rng2 = 86 + 8 - 6 - 1 = 87
+Flyout
+Team 2 pitcher (Valentín Sánchez): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Luis Canales: rng1 = 46 + 10 - 7 - 1 = 48
+rng2 = 76 + 7 - 6 - 1 = 76
+Flyout
+Team 2 pitcher (Valentín Sánchez): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Chester Hubbard: rng1 = 15 + 8 - 7 - 1 = 15
+rng2 = 79 + 13 - 6 - 1 = 85
+Flyout
+Team 2 pitcher (Valentín Sánchez): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+BOTTOM INNING 4
+
+Patrick Cook: rng1 = 10 + 4 - 7 + 1 = 8
+Strikeout
+Team 1 pitcher (Finley Carr): 18 batters faced, 4 runs allowed = 18 + 10.0 = 28.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Hernan Pereira: rng1 = 91 + 15 - 7 + 1 = 100
+rng2 = 63 + 14 - 5 + 1 = 73
+Double
+Team 1 pitcher (Finley Carr): 19 batters faced, 4 runs allowed = 19 + 10.0 = 29.0, outs: 1
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-4
+
+Federico Taveras: rng1 = 6 + 12 - 7 + 1 = 12
+rng2 = 44 + 10 - 5 + 1 = 50
+Lineout
+Team 1 pitcher (Finley Carr): 20 batters faced, 4 runs allowed = 20 + 10.0 = 30.0, outs: 2
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-4
+
+Gerardo Deleon: rng1 = 57 + 9 - 7 + 1 = 60
+rng2 = 69 + 8 - 5 + 1 = 73
+Flyout
+Team 1 pitcher (Finley Carr): 21 batters faced, 4 runs allowed = 21 + 10.0 = 31.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+TOP INNING 5
+
+Sam Snyder: rng1 = 33 + 6 - 7 - 1 = 31
+rng2 = 97 + 12 - 6 - 1 = 102
+Flyout
+Team 2 pitcher (Valentín Sánchez): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Art Whitaker: rng1 = 21 + 9 - 7 - 1 = 22
+Strikeout
+Team 2 pitcher (Valentín Sánchez): 15 batters faced, 0 runs allowed = 15 + 0.0 = 15.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Melvin Carlson: rng1 = 95 + 10 - 7 - 1 = 97
+rng2 = 61 + 7 - 6 - 1 = 61
+Single
+Team 2 pitcher (Valentín Sánchez): 16 batters faced, 0 runs allowed = 16 + 0.0 = 16.0, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Reese Ross: rng1 = 58 + 5 - 7 - 1 = 55
+rng2 = 97 + 11 - 6 - 1 = 101
+Flyout
+Team 2 pitcher (Valentín Sánchez): 17 batters faced, 0 runs allowed = 17 + 0.0 = 17.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+BOTTOM INNING 5
+
+Team 1 pitcher change to Mitch Boyd
+
+Omar Shah: rng1 = 8 + 7 - 15 + 1 = 1
+Strikeout
+Team 1 pitcher (Mitch Boyd): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Aaron Pearce: rng1 = 97 + 6 - 15 + 1 = 89
+Walk
+Team 1 pitcher (Mitch Boyd): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Rogelio Rojas: rng1 = 92 + 5 - 15 + 1 = 83
+rng2 = 55 + 9 - 12 + 1 = 53
+Single
+Team 1 pitcher (Mitch Boyd): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [5,1], base2: [4,1], base3: false
+base1: true, base2: true, base3: false
+Score: 0-4
+
+Francisco Illescas: rng1 = 60 + 8 - 15 + 1 = 54
+rng2 = 86 + 8 - 12 + 1 = 83
+Flyout
+Team 1 pitcher (Mitch Boyd): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 2
+
+base1: [5,1], base2: false, base3: [4,1]
+base1: true, base2: false, base3: true
+Score: 0-4
+
+Jerónimo Palomar: rng1 = 43 + 6 - 15 + 1 = 35
+rng2 = 73 + 7 - 12 + 1 = 69
+Flyout
+Team 1 pitcher (Mitch Boyd): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+TOP INNING 6
+
+Dídac Laguna: rng1 = 69 + 8 - 7 - 1 = 69
+rng2 = 83 + 6 - 6 - 1 = 82
+Flyout
+Team 2 pitcher (Valentín Sánchez): 18 batters faced, 0 runs allowed = 18 + 0.0 = 18.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Trevor Holloway: rng1 = 38 + 12 - 7 - 1 = 42
+rng2 = 72 + 12 - 6 - 1 = 77
+Flyout
+Team 2 pitcher (Valentín Sánchez): 19 batters faced, 0 runs allowed = 19 + 0.0 = 19.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Enrique Holmes: rng1 = 68 + 11 - 7 - 1 = 71
+Walk
+Team 2 pitcher (Valentín Sánchez): 20 batters faced, 0 runs allowed = 20 + 0.0 = 20.0, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Luis Canales: rng1 = 36 + 10 - 7 - 1 = 38
+rng2 = 54 + 7 - 6 - 1 = 54
+Lineout
+Team 2 pitcher (Valentín Sánchez): 21 batters faced, 0 runs allowed = 21 + 0.0 = 21.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Jacob Wallace
+
+Patrick Cook: rng1 = 28 + 4 - 10 + 1 = 23
+Strikeout
+Team 1 pitcher (Jacob Wallace): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Hernan Pereira: rng1 = 78 + 15 - 10 + 1 = 84
+rng2 = 29 + 14 - 8 + 1 = 36
+Single
+Team 1 pitcher (Jacob Wallace): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Federico Taveras: rng1 = 9 + 12 - 10 + 1 = 12
+rng2 = 75 + 10 - 8 + 1 = 78
+Flyout
+Team 1 pitcher (Jacob Wallace): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [0,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Gerardo Deleon: rng1 = 19 + 9 - 10 + 1 = 19
+Strikeout
+Team 1 pitcher (Jacob Wallace): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+TOP INNING 7
+
+Chester Hubbard: rng1 = 78 + 8 - 7 - 1 = 78
+rng2 = 52 + 13 - 6 - 1 = 58
+Single
+Team 2 pitcher (Valentín Sánchez): 22 batters faced, 0 runs allowed = 22 + 0.0 = 22.0, outs: 0
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Sam Snyder: rng1 = 70 + 6 - 7 - 1 = 68
+rng2 = 73 + 12 - 6 - 1 = 78
+Flyout
+Team 2 pitcher (Valentín Sánchez): 23 batters faced, 0 runs allowed = 23 + 0.0 = 23.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Art Whitaker: rng1 = 61 + 9 - 7 - 1 = 62
+rng2 = 66 + 11 - 6 - 1 = 70
+Flyout
+Team 2 pitcher (Valentín Sánchez): 24 batters faced, 0 runs allowed = 24 + 0.0 = 24.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Melvin Carlson: rng1 = 95 + 10 - 7 - 1 = 97
+rng2 = 32 + 7 - 6 - 1 = 32
+Single
+Team 2 pitcher (Valentín Sánchez): 25 batters faced, 0 runs allowed = 25 + 0.0 = 25.0, outs: 2
+
+base1: [6,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 0-4
+
+Reese Ross: rng1 = 56 + 5 - 7 - 1 = 53
+rng2 = 90 + 11 - 6 - 1 = 94
+Flyout
+Team 2 pitcher (Valentín Sánchez): 26 batters faced, 0 runs allowed = 26 + 0.0 = 26.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+BOTTOM INNING 7
+
+Omar Shah: rng1 = 4 + 7 - 10 + 1 = 2
+Strikeout
+Team 1 pitcher (Jacob Wallace): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Aaron Pearce: rng1 = 88 + 6 - 10 + 1 = 85
+rng2 = 16 + 9 - 8 + 1 = 18
+Single
+Team 1 pitcher (Jacob Wallace): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Rogelio Rojas: rng1 = 52 + 5 - 10 + 1 = 48
+rng2 = 66 + 9 - 8 + 1 = 68
+Flyout
+Team 1 pitcher (Jacob Wallace): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [4,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Francisco Illescas: rng1 = 61 + 8 - 10 + 1 = 60
+rng2 = 17 + 8 - 8 + 1 = 18
+Groundout
+Team 1 pitcher (Jacob Wallace): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Dario Peralta
+
+Dídac Laguna: rng1 = 99 + 8 - 10 - 1 = 96
+rng2 = 16 + 6 - 10 - 1 = 11
+Single
+Team 2 pitcher (Dario Peralta): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [8,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Trevor Holloway: rng1 = 10 + 12 - 10 - 1 = 11
+rng2 = 22 + 12 - 10 - 1 = 23
+Groundout
+Team 2 pitcher (Dario Peralta): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Enrique Holmes: rng1 = 12 + 11 - 10 - 1 = 12
+rng2 = 6 + 8 - 10 - 1 = 3
+Groundout
+Team 2 pitcher (Dario Peralta): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+BOTTOM INNING 8
+
+Team 1 pitcher change to Hanley Harper
+
+Jerónimo Palomar: rng1 = 67 + 6 - 6 + 1 = 68
+rng2 = 48 + 7 - 6 + 1 = 50
+Lineout
+Team 1 pitcher (Hanley Harper): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Patrick Cook: rng1 = 41 + 4 - 6 + 1 = 40
+rng2 = 6 + 8 - 6 + 1 = 9
+Groundout
+Team 1 pitcher (Hanley Harper): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Hernan Pereira: rng1 = 28 + 15 - 6 + 1 = 38
+rng2 = 97 + 14 - 6 + 1 = 106
+Flyout
+Team 1 pitcher (Hanley Harper): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+TOP INNING 9
+
+Luis Canales: rng1 = 80 + 10 - 10 - 1 = 79
+rng2 = 37 + 7 - 10 - 1 = 33
+Single
+Team 2 pitcher (Dario Peralta): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [2,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 0-4
+
+Chester Hubbard: rng1 = 41 + 8 - 10 - 1 = 38
+rng2 = 35 + 13 - 10 - 1 = 37
+Groundout
+Team 2 pitcher (Dario Peralta): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-4
+
+Sam Snyder: rng1 = 43 + 6 - 10 - 1 = 38
+rng2 = 54 + 12 - 10 - 1 = 55
+Lineout
+Team 2 pitcher (Dario Peralta): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 0-4
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 6
+Team 2 hits: 10
+Team 1 runs: 0
+Team 2 runs: 4
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					26-Feb-2025
+Trevor Holloway	4	0	0	0	0	0	0	0	0					Milwaukee
+Enrique Holmes	3	0	1	0	0	0	0	1	0	
+Luis Canales	4	0	1	0	0	0	0	0	0	
+Chester Hubbard	4	0	1	0	0	0	0	0	0	
+Sam Snyder	4	0	0	0	0	0	0	0	0	
+Art Whitaker	3	0	0	0	0	0	0	0	1	
+Melvin Carlson	2	0	2	0	0	0	0	1	0	
+Reese Ross	2	0	0	0	0	0	0	1	0	
+Dídac Laguna	3	0	1	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Finley Carr	0	1	1	1	0	0	12	7	4	0	2	2	21	
+Mitch Boyd	0	0	1	0	0	0	3	1	0	0	1	1	5	
+Jacob Wallace	0	0	1	0	0	0	6	2	0	0	0	3	8	
+Hanley Harper	0	0	1	0	0	0	3	0	0	0	0	0	3	
+Arturo Espinoza	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					26-Feb-2025
+Hernan Pereira	5	0	3	1	0	0	0	0	0					Cleveland
+Federico Taveras	2	2	0	0	0	0	0	1	0	
+Gerardo Deleon	4	0	1	1	0	0	3	0	1	
+Omar Shah	3	0	1	0	0	0	1	1	2	
+Aaron Pearce	3	0	1	0	0	0	0	1	0	
+Rogelio Rojas	4	0	1	0	0	0	0	0	1	
+Francisco Illescas	4	0	1	0	0	0	0	0	0	
+Jerónimo Palomar	4	1	1	0	0	0	0	0	0	
+Patrick Cook	4	1	1	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Valentín Sánchez	1	0	1	1	0	0	21	4	0	0	3	1	26	
+Dario Peralta	0	0	1	0	0	0	6	2	0	0	0	0	6	
+Jaime Espinosa	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Sidney Petersen	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Ernesto Salazar	0	0	0	0	0	0	0	0	0	0	0	0	0	

@@ -1,0 +1,784 @@
+TOP INNING 1
+
+Victor Harris: rng1 = 20 + 16 - 7 - 1 = 28
+Strikeout
+Team 2 pitcher (Jose Cruz): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 0-0
+
+Joaquin Alba: rng1 = 95 + 15 - 7 - 1 = 102
+rng2 = 87 + 15 - 6 - 1 = 95
+Home run
+Team 2 pitcher (Jose Cruz): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Ali Monroe: rng1 = 78 + 15 - 7 - 1 = 85
+rng2 = 73 + 14 - 6 - 1 = 80
+Home run
+Team 2 pitcher (Jose Cruz): 3 batters faced, 2 runs allowed = 3 + 5.0 = 8.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Shaun Conley: rng1 = 65 + 14 - 7 - 1 = 71
+Walk
+Team 2 pitcher (Jose Cruz): 4 batters faced, 2 runs allowed = 4 + 5.0 = 9.0, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Jerome Fields: rng1 = 75 + 12 - 7 - 1 = 79
+rng2 = 82 + 15 - 6 - 1 = 90
+Double
+Team 2 pitcher (Jose Cruz): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 1
+
+base1: false, base2: [4,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-0
+
+Nate Clarke: rng1 = 7 + 15 - 7 - 1 = 14
+rng2 = 8 + 10 - 6 - 1 = 11
+Groundout
+Team 2 pitcher (Jose Cruz): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 2
+
+base1: false, base2: false, base3: [4,0]
+base1: false, base2: false, base3: true
+Score: 3-0
+
+Ivan Rondon: rng1 = 42 + 15 - 7 - 1 = 49
+rng2 = 35 + 9 - 6 - 1 = 37
+Groundout
+Team 2 pitcher (Jose Cruz): 7 batters faced, 3 runs allowed = 7 + 7.5 = 14.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Toshio Hayashi: rng1 = 75 + 15 - 8 + 1 = 83
+rng2 = 19 + 9 - 8 + 1 = 21
+Single
+Team 1 pitcher (Wade Reyes): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Dwayne Wilkinson: rng1 = 88 + 11 - 8 + 1 = 92
+rng2 = 22 + 5 - 8 + 1 = 20
+Single
+Team 1 pitcher (Wade Reyes): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [1,0], base2: false, base3: [0,0]
+base1: true, base2: false, base3: true
+Score: 3-0
+
+Phil Hill: rng1 = 36 + 9 - 8 + 1 = 38
+rng2 = 94 + 5 - 8 + 1 = 92
+Flyout
+Team 1 pitcher (Wade Reyes): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Edward Lowe: rng1 = 67 + 7 - 8 + 1 = 67
+rng2 = 56 + 10 - 8 + 1 = 59
+Flyout
+Team 1 pitcher (Wade Reyes): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Jeffery Sims: rng1 = 61 + 8 - 8 + 1 = 62
+rng2 = 67 + 9 - 8 + 1 = 69
+Flyout
+Team 1 pitcher (Wade Reyes): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+TOP INNING 2
+
+Simon Taylor: rng1 = 85 + 12 - 7 - 1 = 89
+Walk
+Team 2 pitcher (Jose Cruz): 8 batters faced, 3 runs allowed = 8 + 7.5 = 15.5, outs: 0
+
+base1: [7,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Alonso Medina: rng1 = 24 + 13 - 7 - 1 = 29
+rng2 = 8 + 7 - 6 - 1 = 8
+Groundout
+Team 2 pitcher (Jose Cruz): 9 batters faced, 3 runs allowed = 9 + 7.5 = 16.5, outs: 1
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Victor Harris: rng1 = 55 + 16 - 7 - 1 = 63
+rng2 = 100 + 13 - 6 - 1 = 106
+Flyout
+Team 2 pitcher (Jose Cruz): 10 batters faced, 3 runs allowed = 10 + 7.5 = 17.5, outs: 2
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Joaquin Alba: rng1 = 2 + 15 - 7 - 1 = 9
+Strikeout
+Team 2 pitcher (Jose Cruz): 11 batters faced, 3 runs allowed = 11 + 7.5 = 18.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+BOTTOM INNING 2
+
+Juan Reyes: rng1 = 11 + 7 - 8 + 1 = 11
+rng2 = 24 + 8 - 8 + 1 = 25
+Groundout
+Team 1 pitcher (Wade Reyes): 6 batters faced, 1 runs allowed = 6 + 2.5 = 8.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Noel Ayers: rng1 = 90 + 6 - 8 + 1 = 89
+Walk
+Team 1 pitcher (Wade Reyes): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Joseph Porter: rng1 = 33 + 5 - 8 + 1 = 31
+rng2 = 49 + 7 - 8 + 1 = 49
+Lineout
+Team 1 pitcher (Wade Reyes): 8 batters faced, 1 runs allowed = 8 + 2.5 = 10.5, outs: 2
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Agustin Torres: rng1 = 41 + 5 - 8 + 1 = 39
+rng2 = 14 + 6 - 8 + 1 = 13
+Groundout
+Team 1 pitcher (Wade Reyes): 9 batters faced, 1 runs allowed = 9 + 2.5 = 11.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+TOP INNING 3
+
+Ali Monroe: rng1 = 10 + 15 - 7 - 1 = 17
+Strikeout
+Team 2 pitcher (Jose Cruz): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Shaun Conley: rng1 = 62 + 14 - 7 - 1 = 68
+rng2 = 57 + 15 - 6 - 1 = 65
+Flyout
+Team 2 pitcher (Jose Cruz): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Jerome Fields: rng1 = 33 + 12 - 7 - 1 = 37
+rng2 = 68 + 15 - 6 - 1 = 76
+Flyout
+Team 2 pitcher (Jose Cruz): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+BOTTOM INNING 3
+
+Toshio Hayashi: rng1 = 86 + 15 - 8 + 1 = 94
+rng2 = 53 + 9 - 8 + 1 = 55
+Single
+Team 1 pitcher (Wade Reyes): 10 batters faced, 1 runs allowed = 10 + 2.5 = 12.5, outs: 0
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Dwayne Wilkinson: rng1 = 34 + 11 - 8 + 1 = 38
+rng2 = 98 + 5 - 8 + 1 = 96
+Flyout
+Team 1 pitcher (Wade Reyes): 11 batters faced, 1 runs allowed = 11 + 2.5 = 13.5, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Phil Hill: rng1 = 73 + 9 - 8 + 1 = 75
+rng2 = 100 + 5 - 8 + 1 = 98
+Home run
+Team 1 pitcher (Wade Reyes): 12 batters faced, 3 runs allowed = 12 + 7.5 = 19.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Edward Lowe: rng1 = 98 + 7 - 8 + 1 = 98
+rng2 = 40 + 10 - 8 + 1 = 43
+Single
+Team 1 pitcher (Wade Reyes): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 1
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Jeffery Sims: rng1 = 85 + 8 - 8 + 1 = 86
+Hit by pitch
+Team 1 pitcher (Wade Reyes): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 1
+
+base1: [4,0], base2: [3,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-3
+
+Juan Reyes: rng1 = 44 + 7 - 8 + 1 = 44
+rng2 = 44 + 8 - 8 + 1 = 45
+Groundout
+Team 1 pitcher (Wade Reyes): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 2
+
+base1: [5,0], base2: [4,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-3
+
+Noel Ayers: rng1 = 17 + 6 - 8 + 1 = 16
+Strikeout
+Team 1 pitcher (Wade Reyes): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+TOP INNING 4
+
+Nate Clarke: rng1 = 17 + 15 - 7 - 1 = 24
+Strikeout
+Team 2 pitcher (Jose Cruz): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Ivan Rondon: rng1 = 10 + 15 - 7 - 1 = 17
+Strikeout
+Team 2 pitcher (Jose Cruz): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Simon Taylor: rng1 = 36 + 12 - 7 - 1 = 40
+rng2 = 75 + 10 - 6 - 1 = 78
+Flyout
+Team 2 pitcher (Jose Cruz): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+BOTTOM INNING 4
+
+Joseph Porter: rng1 = 62 + 5 - 8 + 1 = 60
+rng2 = 1 + 7 - 8 + 1 = 1
+Groundout
+Team 1 pitcher (Wade Reyes): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Agustin Torres: rng1 = 65 + 5 - 8 + 1 = 63
+rng2 = 2 + 6 - 8 + 1 = 1
+Groundout
+Team 1 pitcher (Wade Reyes): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Toshio Hayashi: rng1 = 84 + 15 - 8 + 1 = 92
+rng2 = 10 + 9 - 8 + 1 = 12
+Single
+Team 1 pitcher (Wade Reyes): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 2
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Dwayne Wilkinson: rng1 = 62 + 11 - 8 + 1 = 66
+rng2 = 74 + 5 - 8 + 1 = 72
+Flyout
+Team 1 pitcher (Wade Reyes): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+TOP INNING 5
+
+Alonso Medina: rng1 = 6 + 13 - 7 - 1 = 11
+rng2 = 16 + 7 - 6 - 1 = 16
+Groundout
+Team 2 pitcher (Jose Cruz): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Victor Harris: rng1 = 11 + 16 - 7 - 1 = 19
+Strikeout
+Team 2 pitcher (Jose Cruz): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Joaquin Alba: rng1 = 23 + 15 - 7 - 1 = 30
+rng2 = 13 + 15 - 6 - 1 = 21
+Groundout
+Team 2 pitcher (Jose Cruz): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+BOTTOM INNING 5
+
+Phil Hill: rng1 = 55 + 9 - 8 + 1 = 57
+rng2 = 59 + 5 - 8 + 1 = 57
+Lineout
+Team 1 pitcher (Wade Reyes): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Edward Lowe: rng1 = 41 + 7 - 8 + 1 = 41
+rng2 = 96 + 10 - 8 + 1 = 99
+Flyout
+Team 1 pitcher (Wade Reyes): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-3
+
+Jeffery Sims: rng1 = 47 + 8 - 8 + 1 = 48
+rng2 = 44 + 9 - 8 + 1 = 46
+Groundout
+Team 1 pitcher (Wade Reyes): 23 batters faced, 3 runs allowed = 23 + 7.5 = 30.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-3
+
+-----------------------
+
+TOP INNING 6
+
+Ali Monroe: rng1 = 79 + 15 - 7 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Jose Cruz): 21 batters faced, 3 runs allowed = 21 + 7.5 = 28.5, outs: 0
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Shaun Conley: rng1 = 38 + 14 - 7 - 1 = 44
+rng2 = 94 + 15 - 6 - 1 = 102
+Flyout
+Team 2 pitcher (Jose Cruz): 22 batters faced, 3 runs allowed = 22 + 7.5 = 29.5, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-3
+
+Jerome Fields: rng1 = 83 + 12 - 7 - 1 = 87
+Walk
+Team 2 pitcher (Jose Cruz): 23 batters faced, 3 runs allowed = 23 + 7.5 = 30.5, outs: 1
+
+base1: [4,0], base2: [2,0], base3: false
+base1: true, base2: true, base3: false
+Score: 3-3
+
+Nate Clarke: rng1 = 87 + 15 - 7 - 1 = 94
+rng2 = 32 + 10 - 6 - 1 = 35
+Single
+Team 2 pitcher (Jose Cruz): 24 batters faced, 4 runs allowed = 24 + 10.0 = 34.0, outs: 1
+
+base1: [5,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 4-3
+
+Ivan Rondon: rng1 = 13 + 15 - 7 - 1 = 20
+Strikeout
+Team 2 pitcher (Jose Cruz): 25 batters faced, 4 runs allowed = 25 + 10.0 = 35.0, outs: 2
+
+base1: [5,0], base2: false, base3: [4,0]
+base1: true, base2: false, base3: true
+Score: 4-3
+
+Simon Taylor: rng1 = 97 + 12 - 7 - 1 = 101
+rng2 = 97 + 10 - 6 - 1 = 100
+Home run
+Team 2 pitcher (Jose Cruz): 26 batters faced, 7 runs allowed = 26 + 17.5 = 43.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-3
+
+Team 2 pitcher change to Nate Tucker
+
+Alonso Medina: rng1 = 49 + 13 - 9 - 1 = 52
+rng2 = 25 + 7 - 7 - 1 = 24
+Groundout
+Team 2 pitcher (Nate Tucker): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-3
+
+-----------------------
+
+BOTTOM INNING 6
+
+Team 1 pitcher change to Lucas Gardner
+
+Juan Reyes: rng1 = 83 + 7 - 8 + 1 = 83
+rng2 = 32 + 8 - 9 + 1 = 32
+Single
+Team 1 pitcher (Lucas Gardner): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-3
+
+Noel Ayers: rng1 = 19 + 6 - 8 + 1 = 18
+Strikeout
+Team 1 pitcher (Lucas Gardner): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [5,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-3
+
+Joseph Porter: rng1 = 65 + 5 - 8 + 1 = 63
+rng2 = 44 + 7 - 9 + 1 = 43
+Groundout
+Team 1 pitcher (Lucas Gardner): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: false, base2: [5,1], base3: false
+base1: false, base2: true, base3: false
+Score: 7-3
+
+Agustin Torres: rng1 = 60 + 5 - 8 + 1 = 58
+rng2 = 55 + 6 - 9 + 1 = 53
+Lineout
+Team 1 pitcher (Lucas Gardner): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-3
+
+-----------------------
+
+TOP INNING 7
+
+Victor Harris: rng1 = 80 + 16 - 9 - 1 = 86
+Hit by pitch
+Team 2 pitcher (Nate Tucker): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 0
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-3
+
+Joaquin Alba: rng1 = 55 + 15 - 9 - 1 = 60
+rng2 = 82 + 15 - 7 - 1 = 89
+Flyout
+Team 2 pitcher (Nate Tucker): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-3
+
+Ali Monroe: rng1 = 82 + 15 - 9 - 1 = 87
+Walk
+Team 2 pitcher (Nate Tucker): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [2,1], base2: [0,1], base3: false
+base1: true, base2: true, base3: false
+Score: 7-3
+
+Shaun Conley: rng1 = 23 + 14 - 9 - 1 = 27
+Strikeout
+Team 2 pitcher (Nate Tucker): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: [2,1], base2: [0,1], base3: false
+base1: true, base2: true, base3: false
+Score: 7-3
+
+Jerome Fields: rng1 = 23 + 12 - 9 - 1 = 25
+Strikeout
+Team 2 pitcher (Nate Tucker): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-3
+
+-----------------------
+
+BOTTOM INNING 7
+
+Toshio Hayashi: rng1 = 62 + 15 - 8 + 1 = 70
+Walk
+Team 1 pitcher (Lucas Gardner): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 0
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-3
+
+Dwayne Wilkinson: rng1 = 79 + 11 - 8 + 1 = 83
+rng2 = 4 + 5 - 9 + 1 = 1
+Single
+Team 1 pitcher (Lucas Gardner): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 0
+
+base1: [1,1], base2: false, base3: [0,1]
+base1: true, base2: false, base3: true
+Score: 7-3
+
+Phil Hill: rng1 = 77 + 9 - 8 + 1 = 79
+rng2 = 58 + 5 - 9 + 1 = 55
+Single
+Team 1 pitcher (Lucas Gardner): 7 batters faced, 1 runs allowed = 7 + 2.5 = 9.5, outs: 0
+
+base1: [2,1], base2: false, base3: [1,1]
+base1: true, base2: false, base3: true
+Score: 7-4
+
+Edward Lowe: rng1 = 54 + 7 - 8 + 1 = 54
+rng2 = 19 + 10 - 9 + 1 = 21
+Groundout
+Team 1 pitcher (Lucas Gardner): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 1
+
+base1: false, base2: [2,1], base3: false
+base1: false, base2: true, base3: false
+Score: 7-5
+
+Team 1 pitcher change to Jake Booth
+
+Jeffery Sims: rng1 = 29 + 8 - 9 + 1 = 29
+rng2 = 24 + 9 - 10 + 1 = 24
+Groundout
+Team 1 pitcher (Jake Booth): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 2
+
+base1: false, base2: false, base3: [2,1]
+base1: false, base2: false, base3: true
+Score: 7-5
+
+Juan Reyes: rng1 = 35 + 7 - 9 + 1 = 34
+rng2 = 28 + 8 - 10 + 1 = 27
+Groundout
+Team 1 pitcher (Jake Booth): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-5
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Jorge Pozo
+
+Nate Clarke: rng1 = 19 + 15 - 9 - 1 = 24
+Strikeout
+Team 2 pitcher (Jorge Pozo): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-5
+
+Ivan Rondon: rng1 = 23 + 15 - 9 - 1 = 28
+Strikeout
+Team 2 pitcher (Jorge Pozo): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-5
+
+Simon Taylor: rng1 = 11 + 12 - 9 - 1 = 13
+rng2 = 18 + 10 - 7 - 1 = 20
+Groundout
+Team 2 pitcher (Jorge Pozo): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-5
+
+-----------------------
+
+BOTTOM INNING 8
+
+Noel Ayers: rng1 = 35 + 6 - 9 + 1 = 33
+rng2 = 41 + 8 - 10 + 1 = 40
+Groundout
+Team 1 pitcher (Jake Booth): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-5
+
+Joseph Porter: rng1 = 100 + 5 - 9 + 1 = 97
+rng2 = 7 + 7 - 10 + 1 = 5
+Single
+Team 1 pitcher (Jake Booth): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-5
+
+Agustin Torres: rng1 = 26 + 5 - 9 + 1 = 23
+Strikeout
+Team 1 pitcher (Jake Booth): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 2
+
+base1: [7,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-5
+
+Toshio Hayashi: rng1 = 32 + 15 - 9 + 1 = 39
+rng2 = 30 + 9 - 10 + 1 = 30
+Groundout
+Team 1 pitcher (Jake Booth): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-5
+
+-----------------------
+
+TOP INNING 9
+
+Alonso Medina: rng1 = 80 + 13 - 9 - 1 = 83
+rng2 = 58 + 7 - 7 - 1 = 57
+Single
+Team 2 pitcher (Jorge Pozo): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 0
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-5
+
+Victor Harris: rng1 = 54 + 16 - 9 - 1 = 60
+rng2 = 98 + 13 - 7 - 1 = 103
+Flyout
+Team 2 pitcher (Jorge Pozo): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [8,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-5
+
+Joaquin Alba: rng1 = 33 + 15 - 9 - 1 = 38
+rng2 = 6 + 15 - 7 - 1 = 13
+Groundout
+Team 2 pitcher (Jorge Pozo): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-5
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Ian Colome
+
+Dwayne Wilkinson: rng1 = 63 + 11 - 11 + 1 = 64
+rng2 = 6 + 5 - 10 + 1 = 2
+Groundout
+Team 1 pitcher (Ian Colome): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-5
+
+Phil Hill: rng1 = 31 + 9 - 11 + 1 = 30
+rng2 = 5 + 5 - 10 + 1 = 1
+Groundout
+Team 1 pitcher (Ian Colome): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-5
+
+Edward Lowe: rng1 = 35 + 7 - 11 + 1 = 32
+rng2 = 100 + 10 - 10 + 1 = 101
+Flyout
+Team 1 pitcher (Ian Colome): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-5
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 6
+Team 2 hits: 10
+Team 1 runs: 7
+Team 2 runs: 5
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					26-Feb-2025
+Victor Harris	4	0	0	0	0	0	0	0	2					Reno
+Joaquin Alba	5	1	1	0	0	1	1	0	1	
+Ali Monroe	2	2	1	0	0	1	1	1	1	
+Shaun Conley	3	1	0	0	0	0	0	1	1	
+Jerome Fields	3	1	1	1	0	0	1	1	1	
+Nate Clarke	4	1	1	0	0	0	1	0	2	
+Ivan Rondon	4	0	0	0	0	0	0	0	3	
+Simon Taylor	3	1	1	0	0	1	3	1	0	
+Alonso Medina	4	0	1	0	0	0	0	0	0	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Wade Reyes	1	0	1	1	0	0	15	6	3	1	1	1	23	
+Lucas Gardner	0	0	1	0	0	0	4	3	2	0	1	1	8	
+Jake Booth	0	0	1	0	0	0	5	1	0	0	0	1	6	
+Johnny Farmer	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Ian Colome	0	0	1	0	1	1	3	0	0	0	0	0	3	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					26-Feb-2025
+Toshio Hayashi	4	3	3	0	0	0	0	1	0					London
+Dwayne Wilkinson	5	1	2	0	0	0	0	0	0	
+Phil Hill	5	1	2	0	0	1	4	0	0	
+Edward Lowe	5	0	1	0	0	0	1	0	0	
+Jeffery Sims	3	0	0	0	0	0	0	0	0	
+Juan Reyes	4	0	1	0	0	0	0	0	0	
+Noel Ayers	3	0	0	0	0	0	0	1	2	
+Joseph Porter	4	0	1	0	0	0	0	0	0	
+Agustin Torres	4	0	0	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Jose Cruz	0	1	1	1	0	0	17	5	7	3	3	7	26	
+Nate Tucker	0	0	1	0	0	0	4	0	0	0	1	2	6	
+Jorge Pozo	0	0	1	0	0	0	6	1	0	0	0	2	6	
+Finn Sachse	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Legend Brooks	0	0	0	0	0	0	0	0	0	0	0	0	0	

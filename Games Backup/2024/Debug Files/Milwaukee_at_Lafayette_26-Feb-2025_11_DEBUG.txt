@@ -1,0 +1,735 @@
+TOP INNING 1
+
+Trevor Holloway: rng1 = 75 + 12 - 9 - 1 = 77
+rng2 = 84 + 12 - 9 - 1 = 86
+Double
+Team 2 pitcher (Abe Hodges): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: false, base2: [0,0], base3: false
+base1: false, base2: true, base3: false
+Score: 0-0
+
+Enrique Holmes: rng1 = 99 + 11 - 9 - 1 = 100
+rng2 = 12 + 8 - 9 - 1 = 10
+Single
+Team 2 pitcher (Abe Hodges): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Luis Canales: rng1 = 51 + 10 - 9 - 1 = 51
+rng2 = 30 + 7 - 9 - 1 = 27
+Groundout
+Team 2 pitcher (Abe Hodges): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Chester Hubbard: rng1 = 16 + 8 - 9 - 1 = 14
+rng2 = 49 + 13 - 9 - 1 = 52
+Lineout
+Team 2 pitcher (Abe Hodges): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+BOTTOM INNING 1
+
+Jan DeGraaf: rng1 = 19 + 13 - 8 + 1 = 25
+Strikeout
+Team 1 pitcher (Corey Durham): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Simon Bowers: rng1 = 89 + 9 - 8 + 1 = 91
+rng2 = 53 + 8 - 6 + 1 = 56
+Single
+Team 1 pitcher (Corey Durham): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [1,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 1-0
+
+Mike Rowe: rng1 = 73 + 9 - 8 + 1 = 75
+rng2 = 63 + 6 - 6 + 1 = 64
+Single
+Team 1 pitcher (Corey Durham): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 1
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 1-0
+
+Facundo Laguna: rng1 = 41 + 7 - 8 + 1 = 41
+rng2 = 22 + 11 - 6 + 1 = 28
+Groundout
+Team 1 pitcher (Corey Durham): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 1-0
+
+-----------------------
+
+TOP INNING 2
+
+Sam Snyder: rng1 = 6 + 6 - 9 - 1 = 2
+Strikeout
+Team 2 pitcher (Abe Hodges): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 1-0
+
+Art Whitaker: rng1 = 83 + 9 - 9 - 1 = 82
+rng2 = 97 + 11 - 9 - 1 = 98
+Home run
+Team 2 pitcher (Abe Hodges): 6 batters faced, 2 runs allowed = 6 + 5.0 = 11.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Melvin Carlson: rng1 = 47 + 10 - 9 - 1 = 47
+rng2 = 33 + 7 - 9 - 1 = 30
+Groundout
+Team 2 pitcher (Abe Hodges): 7 batters faced, 2 runs allowed = 7 + 5.0 = 12.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Reese Ross: rng1 = 2 + 5 - 9 - 1 = -3
+Strikeout
+Team 2 pitcher (Abe Hodges): 8 batters faced, 2 runs allowed = 8 + 5.0 = 13.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+BOTTOM INNING 2
+
+Cameron Collier: rng1 = 29 + 7 - 8 + 1 = 29
+rng2 = 94 + 8 - 6 + 1 = 97
+Flyout
+Team 1 pitcher (Corey Durham): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Dan Robertson: rng1 = 73 + 6 - 8 + 1 = 72
+Walk
+Team 1 pitcher (Corey Durham): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 1
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Chon Il-Seong: rng1 = 46 + 9 - 8 + 1 = 48
+rng2 = 97 + 6 - 6 + 1 = 98
+Flyout
+Team 1 pitcher (Corey Durham): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 2
+
+base1: [5,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Demarcus Warner: rng1 = 67 + 6 - 8 + 1 = 66
+rng2 = 98 + 7 - 6 + 1 = 100
+Flyout
+Team 1 pitcher (Corey Durham): 8 batters faced, 0 runs allowed = 8 + 0.0 = 8.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 2-0
+
+-----------------------
+
+TOP INNING 3
+
+Dídac Laguna: rng1 = 29 + 8 - 9 - 1 = 27
+Strikeout
+Team 2 pitcher (Abe Hodges): 9 batters faced, 2 runs allowed = 9 + 5.0 = 14.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 2-0
+
+Trevor Holloway: rng1 = 100 + 12 - 9 - 1 = 102
+rng2 = 58 + 12 - 9 - 1 = 60
+Single
+Team 2 pitcher (Abe Hodges): 10 batters faced, 2 runs allowed = 10 + 5.0 = 15.0, outs: 1
+
+base1: [0,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 2-0
+
+Enrique Holmes: rng1 = 94 + 11 - 9 - 1 = 95
+rng2 = 19 + 8 - 9 - 1 = 17
+Single
+Team 2 pitcher (Abe Hodges): 11 batters faced, 2 runs allowed = 11 + 5.0 = 16.0, outs: 1
+
+base1: [1,0], base2: [0,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-0
+
+Luis Canales: rng1 = 58 + 10 - 9 - 1 = 58
+rng2 = 8 + 7 - 9 - 1 = 5
+Groundout
+Team 2 pitcher (Abe Hodges): 12 batters faced, 2 runs allowed = 12 + 5.0 = 17.0, outs: 2
+
+base1: [2,0], base2: [1,0], base3: false
+base1: true, base2: true, base3: false
+Score: 2-0
+
+Chester Hubbard: rng1 = 86 + 8 - 9 - 1 = 84
+rng2 = 89 + 13 - 9 - 1 = 92
+Double
+Team 2 pitcher (Abe Hodges): 13 batters faced, 3 runs allowed = 13 + 7.5 = 20.5, outs: 2
+
+base1: false, base2: [3,0], base3: [2,0]
+base1: false, base2: true, base3: true
+Score: 3-0
+
+Sam Snyder: rng1 = 9 + 6 - 9 - 1 = 5
+Strikeout
+Team 2 pitcher (Abe Hodges): 14 batters faced, 3 runs allowed = 14 + 7.5 = 21.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 3
+
+Joshua Fontina: rng1 = 3 + 5 - 8 + 1 = 1
+Strikeout
+Team 1 pitcher (Corey Durham): 9 batters faced, 0 runs allowed = 9 + 0.0 = 9.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Jan DeGraaf: rng1 = 59 + 13 - 8 + 1 = 65
+rng2 = 60 + 9 - 6 + 1 = 64
+Flyout
+Team 1 pitcher (Corey Durham): 10 batters faced, 0 runs allowed = 10 + 0.0 = 10.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Simon Bowers: rng1 = 52 + 9 - 8 + 1 = 54
+rng2 = 53 + 8 - 6 + 1 = 56
+Lineout
+Team 1 pitcher (Corey Durham): 11 batters faced, 0 runs allowed = 11 + 0.0 = 11.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+TOP INNING 4
+
+Art Whitaker: rng1 = 48 + 9 - 9 - 1 = 47
+rng2 = 69 + 11 - 9 - 1 = 70
+Flyout
+Team 2 pitcher (Abe Hodges): 15 batters faced, 3 runs allowed = 15 + 7.5 = 22.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Melvin Carlson: rng1 = 90 + 10 - 9 - 1 = 90
+Walk
+Team 2 pitcher (Abe Hodges): 16 batters faced, 3 runs allowed = 16 + 7.5 = 23.5, outs: 1
+
+base1: [6,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Reese Ross: rng1 = 59 + 5 - 9 - 1 = 54
+rng2 = 36 + 11 - 9 - 1 = 37
+Groundout
+Team 2 pitcher (Abe Hodges): 17 batters faced, 3 runs allowed = 17 + 7.5 = 24.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 4
+
+Mike Rowe: rng1 = 85 + 9 - 8 + 1 = 87
+Walk
+Team 1 pitcher (Corey Durham): 12 batters faced, 0 runs allowed = 12 + 0.0 = 12.0, outs: 0
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Facundo Laguna: rng1 = 7 + 7 - 8 + 1 = 7
+Strikeout
+Team 1 pitcher (Corey Durham): 13 batters faced, 0 runs allowed = 13 + 0.0 = 13.0, outs: 1
+
+base1: [2,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Cameron Collier: rng1 = 54 + 7 - 8 + 1 = 54
+rng2 = 8 + 8 - 6 + 1 = 11
+Groundout
+Team 1 pitcher (Corey Durham): 14 batters faced, 0 runs allowed = 14 + 0.0 = 14.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+TOP INNING 5
+
+Dídac Laguna: rng1 = 86 + 8 - 9 - 1 = 84
+rng2 = 4 + 6 - 9 - 1 = 0
+Single
+Team 2 pitcher (Abe Hodges): 18 batters faced, 3 runs allowed = 18 + 7.5 = 25.5, outs: 0
+
+base1: [8,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-0
+
+Trevor Holloway: rng1 = 34 + 12 - 9 - 1 = 36
+rng2 = 9 + 12 - 9 - 1 = 11
+Groundout
+Team 2 pitcher (Abe Hodges): 19 batters faced, 3 runs allowed = 19 + 7.5 = 26.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-0
+
+Enrique Holmes: rng1 = 3 + 11 - 9 - 1 = 4
+Strikeout
+Team 2 pitcher (Abe Hodges): 20 batters faced, 3 runs allowed = 20 + 7.5 = 27.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-0
+
+-----------------------
+
+BOTTOM INNING 5
+
+Dan Robertson: rng1 = 79 + 6 - 8 + 1 = 78
+rng2 = 81 + 8 - 6 + 1 = 84
+Home run
+Team 1 pitcher (Corey Durham): 15 batters faced, 1 runs allowed = 15 + 2.5 = 17.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Chon Il-Seong: rng1 = 3 + 9 - 8 + 1 = 5
+Strikeout
+Team 1 pitcher (Corey Durham): 16 batters faced, 1 runs allowed = 16 + 2.5 = 18.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Demarcus Warner: rng1 = 60 + 6 - 8 + 1 = 59
+rng2 = 65 + 7 - 6 + 1 = 67
+Flyout
+Team 1 pitcher (Corey Durham): 17 batters faced, 1 runs allowed = 17 + 2.5 = 19.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Joshua Fontina: rng1 = 2 + 5 - 8 + 1 = 0
+Strikeout
+Team 1 pitcher (Corey Durham): 18 batters faced, 1 runs allowed = 18 + 2.5 = 20.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+TOP INNING 6
+
+Team 2 pitcher change to Kangjon Kwang-Hyun
+
+Luis Canales: rng1 = 28 + 10 - 7 - 1 = 30
+rng2 = 78 + 7 - 6 - 1 = 78
+Flyout
+Team 2 pitcher (Kangjon Kwang-Hyun): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Chester Hubbard: rng1 = 17 + 8 - 7 - 1 = 17
+Strikeout
+Team 2 pitcher (Kangjon Kwang-Hyun): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Sam Snyder: rng1 = 97 + 6 - 7 - 1 = 95
+rng2 = 48 + 12 - 6 - 1 = 53
+Single
+Team 2 pitcher (Kangjon Kwang-Hyun): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [4,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-1
+
+Art Whitaker: rng1 = 27 + 9 - 7 - 1 = 28
+Strikeout
+Team 2 pitcher (Kangjon Kwang-Hyun): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-1
+
+-----------------------
+
+BOTTOM INNING 6
+
+Jan DeGraaf: rng1 = 46 + 13 - 8 + 1 = 52
+rng2 = 50 + 9 - 6 + 1 = 54
+Lineout
+Team 1 pitcher (Corey Durham): 19 batters faced, 1 runs allowed = 19 + 2.5 = 21.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-1
+
+Simon Bowers: rng1 = 98 + 9 - 8 + 1 = 100
+rng2 = 86 + 8 - 6 + 1 = 89
+Double
+Team 1 pitcher (Corey Durham): 20 batters faced, 1 runs allowed = 20 + 2.5 = 22.5, outs: 1
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-1
+
+Mike Rowe: rng1 = 38 + 9 - 8 + 1 = 40
+rng2 = 29 + 6 - 6 + 1 = 30
+Groundout
+Team 1 pitcher (Corey Durham): 21 batters faced, 1 runs allowed = 21 + 2.5 = 23.5, outs: 2
+
+base1: false, base2: [1,0], base3: false
+base1: false, base2: true, base3: false
+Score: 3-1
+
+Facundo Laguna: rng1 = 79 + 7 - 8 + 1 = 79
+rng2 = 52 + 11 - 6 + 1 = 58
+Single
+Team 1 pitcher (Corey Durham): 22 batters faced, 2 runs allowed = 22 + 5.0 = 27.0, outs: 2
+
+base1: [3,0], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 3-2
+
+Cameron Collier: rng1 = 13 + 7 - 8 + 1 = 13
+rng2 = 83 + 8 - 6 + 1 = 86
+Flyout
+Team 1 pitcher (Corey Durham): 23 batters faced, 2 runs allowed = 23 + 5.0 = 28.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+TOP INNING 7
+
+Melvin Carlson: rng1 = 27 + 10 - 7 - 1 = 29
+rng2 = 92 + 7 - 6 - 1 = 92
+Flyout
+Team 2 pitcher (Kangjon Kwang-Hyun): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Reese Ross: rng1 = 44 + 5 - 7 - 1 = 41
+rng2 = 77 + 11 - 6 - 1 = 81
+Flyout
+Team 2 pitcher (Kangjon Kwang-Hyun): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Dídac Laguna: rng1 = 64 + 8 - 7 - 1 = 64
+rng2 = 8 + 6 - 6 - 1 = 7
+Groundout
+Team 2 pitcher (Kangjon Kwang-Hyun): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+BOTTOM INNING 7
+
+Team 1 pitcher change to Hanley Harper
+
+Dan Robertson: rng1 = 49 + 6 - 6 + 1 = 50
+rng2 = 52 + 8 - 6 + 1 = 55
+Lineout
+Team 1 pitcher (Hanley Harper): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Chon Il-Seong: rng1 = 60 + 9 - 6 + 1 = 64
+rng2 = 91 + 6 - 6 + 1 = 92
+Flyout
+Team 1 pitcher (Hanley Harper): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 3-2
+
+Demarcus Warner: rng1 = 29 + 6 - 6 + 1 = 30
+rng2 = 51 + 7 - 6 + 1 = 53
+Lineout
+Team 1 pitcher (Hanley Harper): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 3-2
+
+-----------------------
+
+TOP INNING 8
+
+Team 2 pitcher change to Orlando Echavarria
+
+Trevor Holloway: rng1 = 77 + 12 - 7 - 1 = 81
+rng2 = 90 + 12 - 6 - 1 = 95
+Home run
+Team 2 pitcher (Orlando Echavarria): 1 batters faced, 1 runs allowed = 1 + 2.5 = 3.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 4-2
+
+Enrique Holmes: rng1 = 92 + 11 - 7 - 1 = 95
+rng2 = 60 + 8 - 6 - 1 = 61
+Single
+Team 2 pitcher (Orlando Echavarria): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 0
+
+base1: [1,2], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 4-2
+
+Luis Canales: rng1 = 74 + 10 - 7 - 1 = 76
+rng2 = 83 + 7 - 6 - 1 = 83
+Home run
+Team 2 pitcher (Orlando Echavarria): 3 batters faced, 3 runs allowed = 3 + 7.5 = 10.5, outs: 0
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-2
+
+Chester Hubbard: rng1 = 51 + 8 - 7 - 1 = 51
+rng2 = 1 + 13 - 6 - 1 = 7
+Groundout
+Team 2 pitcher (Orlando Echavarria): 4 batters faced, 3 runs allowed = 4 + 7.5 = 11.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-2
+
+Sam Snyder: rng1 = 51 + 6 - 7 - 1 = 49
+rng2 = 76 + 12 - 6 - 1 = 81
+Flyout
+Team 2 pitcher (Orlando Echavarria): 5 batters faced, 3 runs allowed = 5 + 7.5 = 12.5, outs: 2
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-2
+
+Art Whitaker: rng1 = 32 + 9 - 7 - 1 = 33
+rng2 = 98 + 11 - 6 - 1 = 102
+Flyout
+Team 2 pitcher (Orlando Echavarria): 6 batters faced, 3 runs allowed = 6 + 7.5 = 13.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-2
+
+-----------------------
+
+BOTTOM INNING 8
+
+Joshua Fontina: rng1 = 56 + 5 - 6 + 1 = 56
+rng2 = 93 + 7 - 6 + 1 = 95
+Flyout
+Team 1 pitcher (Hanley Harper): 4 batters faced, 0 runs allowed = 4 + 0.0 = 4.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 6-2
+
+Jan DeGraaf: rng1 = 73 + 13 - 6 + 1 = 81
+rng2 = 6 + 9 - 6 + 1 = 10
+Single
+Team 1 pitcher (Hanley Harper): 5 batters faced, 0 runs allowed = 5 + 0.0 = 5.0, outs: 1
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-2
+
+Simon Bowers: rng1 = 31 + 9 - 6 + 1 = 35
+rng2 = 88 + 8 - 6 + 1 = 91
+Flyout
+Team 1 pitcher (Hanley Harper): 6 batters faced, 0 runs allowed = 6 + 0.0 = 6.0, outs: 2
+
+base1: [0,1], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-2
+
+Mike Rowe: rng1 = 13 + 9 - 6 + 1 = 17
+Strikeout
+Team 1 pitcher (Hanley Harper): 7 batters faced, 0 runs allowed = 7 + 0.0 = 7.0, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 6-2
+
+-----------------------
+
+TOP INNING 9
+
+Team 2 pitcher change to Daigo Eishi
+
+Melvin Carlson: rng1 = 91 + 10 - 8 - 1 = 92
+rng2 = 30 + 7 - 6 - 1 = 30
+Single
+Team 2 pitcher (Daigo Eishi): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 0
+
+base1: [6,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-2
+
+Reese Ross: rng1 = 13 + 5 - 8 - 1 = 9
+Strikeout
+Team 2 pitcher (Daigo Eishi): 2 batters faced, 0 runs allowed = 2 + 0.0 = 2.0, outs: 1
+
+base1: [6,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-2
+
+Dídac Laguna: rng1 = 12 + 8 - 8 - 1 = 11
+rng2 = 62 + 6 - 6 - 1 = 61
+Flyout
+Team 2 pitcher (Daigo Eishi): 3 batters faced, 0 runs allowed = 3 + 0.0 = 3.0, outs: 2
+
+base1: [6,3], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 6-2
+
+Trevor Holloway: rng1 = 79 + 12 - 8 - 1 = 82
+rng2 = 61 + 12 - 6 - 1 = 66
+Double
+Team 2 pitcher (Daigo Eishi): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 2
+
+base1: false, base2: [0,3], base3: false
+base1: false, base2: true, base3: false
+Score: 7-2
+
+Enrique Holmes: rng1 = 23 + 11 - 8 - 1 = 25
+Strikeout
+Team 2 pitcher (Daigo Eishi): 5 batters faced, 1 runs allowed = 5 + 2.5 = 7.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-2
+
+-----------------------
+
+BOTTOM INNING 9
+
+Team 1 pitcher change to Arturo Espinoza
+
+Facundo Laguna: rng1 = 49 + 7 - 15 + 1 = 42
+rng2 = 43 + 11 - 15 + 1 = 40
+Groundout
+Team 1 pitcher (Arturo Espinoza): 1 batters faced, 0 runs allowed = 1 + 0.0 = 1.0, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-2
+
+Cameron Collier: rng1 = 84 + 7 - 15 + 1 = 77
+rng2 = 89 + 8 - 15 + 1 = 83
+Home run
+Team 1 pitcher (Arturo Espinoza): 2 batters faced, 1 runs allowed = 2 + 2.5 = 4.5, outs: 1
+
+base1: false, base2: false, base3: false
+base1: false, base2: false, base3: false
+Score: 7-3
+
+Dan Robertson: rng1 = 82 + 6 - 15 + 1 = 74
+rng2 = 47 + 8 - 15 + 1 = 41
+Single
+Team 1 pitcher (Arturo Espinoza): 3 batters faced, 1 runs allowed = 3 + 2.5 = 5.5, outs: 1
+
+base1: [5,4], base2: false, base3: false
+base1: true, base2: false, base3: false
+Score: 7-3
+
+Chon Il-Seong: rng1 = 55 + 9 - 15 + 1 = 50
+rng2 = 13 + 6 - 15 + 1 = 5
+Groundout
+Team 1 pitcher (Arturo Espinoza): 4 batters faced, 1 runs allowed = 4 + 2.5 = 6.5, outs: 3
+
+base1: false, base2: false, base3: false
+Score: 7-3
+
+-----------------------
+
+Innings: 9
+Team 1 hits: 13
+Team 2 hits: 8
+Team 1 runs: 7
+Team 2 runs: 3
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					26-Feb-2025
+Trevor Holloway	5	2	4	2	0	1	2	0	0					Milwaukee
+Enrique Holmes	5	2	3	0	0	0	1	0	2	
+Luis Canales	4	1	1	0	0	1	2	0	0	
+Chester Hubbard	4	0	1	1	0	0	1	0	1	
+Sam Snyder	4	0	1	0	0	0	0	0	2	
+Art Whitaker	4	1	1	0	0	1	1	0	1	
+Melvin Carlson	3	1	1	0	0	0	0	1	0	
+Reese Ross	4	0	0	0	0	0	0	0	2	
+Dídac Laguna	4	0	1	0	0	0	0	0	1	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Corey Durham	1	0	1	1	0	0	18	5	2	1	2	5	23	
+Hanley Harper	0	0	1	0	0	0	6	1	0	0	0	1	7	
+Mitch Boyd	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Jacob Wallace	0	0	0	0	0	0	0	0	0	0	0	0	0	
+Arturo Espinoza	0	0	1	0	0	0	3	2	1	1	0	0	4	
+
+Player	AB	R	H	2B	3B	HR	RBI	BB	SO					26-Feb-2025
+Jan DeGraaf	4	0	1	0	0	0	0	0	1					Lafayette
+Simon Bowers	4	1	2	1	0	0	0	0	0	
+Mike Rowe	3	0	1	0	0	0	0	1	1	
+Facundo Laguna	4	0	1	0	0	0	1	0	1	
+Cameron Collier	4	1	1	0	0	1	1	0	0	
+Dan Robertson	3	1	2	0	0	1	1	1	0	
+Chon Il-Seong	4	0	0	0	0	0	0	0	1	
+Demarcus Warner	3	0	0	0	0	0	0	0	0	
+Joshua Fontina	3	0	0	0	0	0	0	0	2	
+
+Player	W	L	G	GS	SV	SVO	OUT	H	R	HR	BB	SO	BF
+Abe Hodges	0	1	1	1	0	0	15	7	3	1	1	5	20	
+Kangjon Kwang-Hyun	0	0	1	0	0	0	6	1	0	0	0	2	7	
+Orlando Echavarria	0	0	1	0	0	0	3	3	3	2	0	0	6	
+Daigo Eishi	0	0	1	0	0	0	3	2	1	0	0	2	5	
+Tamashiro Genjo	0	0	0	0	0	0	0	0	0	0	0	0	0	

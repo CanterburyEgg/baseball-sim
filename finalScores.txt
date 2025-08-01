@@ -1,57 +1,1287 @@
-1	Las Vegas	@	Phoenix	6
-4	Colorado	@	Detroit	1
-5	Tampa Bay	@	Miami	10
-4	Atlanta	@	Tennessee	0
-6	New Orleans	@	San Antonio	7
-1	Toronto	@	New York	4
-5	Philadelphia	@	Boston	1
-3	Seattle	@	Vancouver	5
-0	Portland	@	San Francisco	2
-0	Los Angeles	@	San Diego	1
-1	Kansas City	@	Chicago	4
-2	Houston	@	Dallas	3
-2	Houston	@	Dallas	0
-3	Oklahoma City	@	Calgary	0
-3	Tampa Bay	@	Miami	4
-6	New Orleans	@	San Antonio	1
-1	Toronto	@	New York	3
-3	Seattle	@	Vancouver	4
-5	Portland	@	San Francisco	3
-2	Los Angeles	@	San Diego	3
-9	Atlanta	@	Tennessee	3
-5	Las Vegas	@	Phoenix	1
-5	Kansas City	@	Chicago	0
-0	Colorado	@	Detroit	3
-7	Minnesota	@	Washington	0
-3	Salt Lake	@	Carolina	2
-2	Philadelphia	@	Boston	1
-10	Philadelphia	@	Boston	5
-7	Seattle	@	Vancouver	5
-4	Tampa Bay	@	Miami	3
-9	New Orleans	@	San Antonio	0
-6	Minnesota	@	Washington	7
-9	Salt Lake	@	Carolina	3
-7	Atlanta	@	Tennessee	2
-0	Houston	@	Dallas	2
-5	Oklahoma City	@	Calgary	8
-5	Los Angeles	@	San Diego	2
-2	Kansas City	@	Chicago	1
-2	Toronto	@	New York	3
-1	Las Vegas	@	Phoenix	2
-9	Colorado	@	Detroit	3
-3	Portland	@	San Francisco	1
-4	Atlanta	@	Tennessee	5
-2	Las Vegas	@	Phoenix	4
-2	Philadelphia	@	Boston	8
-1	New Orleans	@	San Antonio	2
-2	Seattle	@	Vancouver	1
-6	Minnesota	@	Washington	0
-0	Los Angeles	@	San Diego	5
-8	Oklahoma City	@	Calgary	10
-4	Colorado	@	Detroit	5
-8	Portland	@	San Francisco	0
-2	Kansas City	@	Chicago	4
-7	Toronto	@	New York	9
-0	Salt Lake	@	Carolina	8
-2	Houston	@	Dallas	4
-5	Tampa Bay	@	Miami	1
+6	Anaheim	@	San Jose	5
+5	Edmonton	@	Salem	11
+0	Provo	@	Victoria	4
+1	Reno	@	Tijuana	0
+2	Spokane	@	Tucson	5
+7	Austin	@	Lafayette	3
+3	Cedar Rapids	@	Galveston	5
+2	Cleveland	@	Tulsa	10
+10	Fort Worth	@	Santa Fe	5
+5	Milwaukee	@	St Louis	2
+1	Baltimore	@	Nashville	2
+3	Buffalo	@	Orlando	12
+8	Charlotte	@	Savannah	4
+3	Harrisburg	@	New Haven	11
+3	Jacksonville	@	Ottawa	2
+4	Anaheim	@	San Jose	2
+2	Edmonton	@	Salem	3
+6	Provo	@	Victoria	7
+3	Reno	@	Tijuana	6
+3	Spokane	@	Tucson	9
+4	Austin	@	Lafayette	5
+2	Cedar Rapids	@	Galveston	3
+10	Cleveland	@	Tulsa	5
+5	Fort Worth	@	Santa Fe	1
+8	Milwaukee	@	St Louis	3
+7	Baltimore	@	Nashville	12
+4	Buffalo	@	Orlando	13
+5	Charlotte	@	Savannah	4
+2	Harrisburg	@	New Haven	6
+3	Jacksonville	@	Ottawa	1
+7	Anaheim	@	San Jose	10
+0	Edmonton	@	Salem	4
+9	Provo	@	Victoria	5
+10	Reno	@	Tijuana	5
+0	Spokane	@	Tucson	4
+9	Austin	@	Lafayette	2
+10	Cedar Rapids	@	Galveston	2
+4	Cleveland	@	Tulsa	3
+8	Fort Worth	@	Santa Fe	7
+5	Fort Worth	@	Santa Fe	6
+4	Milwaukee	@	St Louis	2
+4	Baltimore	@	Nashville	5
+6	Buffalo	@	Orlando	7
+2	Charlotte	@	Savannah	1
+4	Harrisburg	@	New Haven	8
+9	Jacksonville	@	Ottawa	10
+8	Spokane	@	Anaheim	4
+7	Tijuana	@	Edmonton	2
+9	Tucson	@	Provo	2
+3	Victoria	@	Reno	0
+3	San Jose	@	Salem	8
+14	Milwaukee	@	Austin	6
+4	Santa Fe	@	Cedar Rapids	5
+1	St Louis	@	Cleveland	3
+4	Tulsa	@	Fort Worth	8
+3	Lafayette	@	Galveston	2
+4	New Haven	@	Baltimore	1
+9	Orlando	@	Buffalo	4
+1	Ottawa	@	Charlotte	7
+2	Savannah	@	Harrisburg	9
+7	Nashville	@	Jacksonville	5
+5	Spokane	@	Anaheim	4
+5	Tijuana	@	Edmonton	1
+6	Tucson	@	Provo	3
+2	Victoria	@	Reno	8
+0	San Jose	@	Salem	3
+8	Milwaukee	@	Austin	3
+1	Santa Fe	@	Cedar Rapids	4
+3	St Louis	@	Cleveland	5
+2	Tulsa	@	Fort Worth	10
+3	Lafayette	@	Galveston	2
+12	New Haven	@	Baltimore	8
+7	Orlando	@	Buffalo	2
+2	Ottawa	@	Charlotte	3
+3	Savannah	@	Harrisburg	4
+10	Nashville	@	Jacksonville	0
+2	Spokane	@	Anaheim	4
+0	Tijuana	@	Edmonton	4
+9	Tucson	@	Provo	5
+9	Victoria	@	Reno	8
+2	San Jose	@	Salem	3
+3	Milwaukee	@	Austin	5
+0	Santa Fe	@	Cedar Rapids	6
+5	St Louis	@	Cleveland	3
+2	Tulsa	@	Fort Worth	3
+1	Lafayette	@	Galveston	6
+9	New Haven	@	Baltimore	2
+5	Orlando	@	Buffalo	2
+1	Ottawa	@	Charlotte	5
+5	Savannah	@	Harrisburg	6
+12	Nashville	@	Jacksonville	4
+1	Anaheim	@	Tucson	10
+3	Edmonton	@	Victoria	4
+7	Provo	@	San Jose	8
+5	Reno	@	Spokane	4
+1	Salem	@	Tijuana	7
+1	Austin	@	St Louis	9
+2	Cedar Rapids	@	Tulsa	1
+6	Cleveland	@	Lafayette	4
+5	Fort Worth	@	Milwaukee	2
+7	Galveston	@	Santa Fe	9
+6	Baltimore	@	Ottawa	15
+4	Buffalo	@	Savannah	0
+4	Charlotte	@	Nashville	6
+6	Harrisburg	@	Jacksonville	7
+10	New Haven	@	Orlando	6
+4	Anaheim	@	Tucson	12
+6	Edmonton	@	Victoria	4
+3	Provo	@	San Jose	6
+9	Reno	@	Spokane	2
+6	Salem	@	Tijuana	11
+2	Austin	@	St Louis	4
+4	Cedar Rapids	@	Tulsa	7
+4	Cleveland	@	Lafayette	7
+2	Fort Worth	@	Milwaukee	11
+11	Galveston	@	Santa Fe	1
+7	Baltimore	@	Ottawa	11
+4	Buffalo	@	Savannah	5
+5	Charlotte	@	Nashville	11
+3	Harrisburg	@	Jacksonville	2
+2	New Haven	@	Orlando	6
+4	Anaheim	@	Tucson	5
+4	Edmonton	@	Victoria	13
+1	Provo	@	San Jose	7
+3	Reno	@	Spokane	1
+9	Salem	@	Tijuana	1
+4	Austin	@	St Louis	2
+1	Cedar Rapids	@	Tulsa	9
+0	Cleveland	@	Lafayette	2
+3	Fort Worth	@	Milwaukee	2
+10	Galveston	@	Santa Fe	4
+2	Baltimore	@	Ottawa	11
+2	Buffalo	@	Savannah	1
+6	Charlotte	@	Nashville	8
+4	Harrisburg	@	Jacksonville	7
+4	New Haven	@	Orlando	1
+6	Milwaukee	@	Ottawa	8
+4	Santa Fe	@	Baltimore	11
+6	Cleveland	@	New Haven	5
+6	St Louis	@	Buffalo	7
+1	Cedar Rapids	@	Harrisburg	5
+7	Fort Worth	@	Jacksonville	2
+2	Galveston	@	Nashville	14
+1	Lafayette	@	Savannah	6
+0	Tulsa	@	Charlotte	2
+3	Austin	@	Orlando	4
+3	Milwaukee	@	Ottawa	4
+4	Santa Fe	@	Baltimore	6
+0	Cleveland	@	New Haven	5
+2	St Louis	@	Buffalo	1
+2	Cedar Rapids	@	Harrisburg	10
+3	Fort Worth	@	Jacksonville	4
+2	Galveston	@	Nashville	4
+6	Lafayette	@	Savannah	4
+8	Tulsa	@	Charlotte	5
+7	Austin	@	Orlando	11
+5	Milwaukee	@	Ottawa	3
+1	Santa Fe	@	Baltimore	5
+5	Cleveland	@	New Haven	9
+6	St Louis	@	Buffalo	8
+1	Cedar Rapids	@	Harrisburg	5
+11	Fort Worth	@	Jacksonville	9
+4	Galveston	@	Nashville	7
+4	Lafayette	@	Savannah	1
+7	Tulsa	@	Charlotte	3
+11	Austin	@	Orlando	0
+0	Edmonton	@	Anaheim	2
+6	Reno	@	Provo	3
+6	San Jose	@	Salem	2
+4	Tijuana	@	Spokane	3
+2	Victoria	@	Tucson	3
+1	Cedar Rapids	@	Austin	7
+10	Fort Worth	@	Cleveland	12
+5	Fort Worth	@	Cleveland	6
+2	Lafayette	@	Galveston	3
+1	Santa Fe	@	Milwaukee	8
+0	Tulsa	@	St Louis	4
+0	Buffalo	@	Baltimore	1
+3	Harrisburg	@	Charlotte	5
+8	Nashville	@	Jacksonville	2
+5	Orlando	@	New Haven	8
+5	Savannah	@	Ottawa	3
+7	Edmonton	@	Anaheim	2
+3	Reno	@	Provo	4
+1	San Jose	@	Salem	3
+5	Tijuana	@	Spokane	10
+6	Victoria	@	Tucson	15
+7	Cedar Rapids	@	Austin	3
+12	Fort Worth	@	Cleveland	2
+3	Lafayette	@	Galveston	9
+6	Santa Fe	@	Milwaukee	3
+1	Tulsa	@	St Louis	0
+6	Buffalo	@	Baltimore	10
+7	Harrisburg	@	Charlotte	5
+1	Nashville	@	Jacksonville	3
+2	Orlando	@	New Haven	6
+8	Savannah	@	Ottawa	3
+8	Savannah	@	Ottawa	3
+5	Edmonton	@	Anaheim	7
+0	Reno	@	Provo	4
+4	San Jose	@	Salem	2
+10	Tijuana	@	Spokane	9
+0	Victoria	@	Tucson	11
+11	Cedar Rapids	@	Austin	6
+3	Fort Worth	@	Cleveland	4
+8	Lafayette	@	Galveston	9
+5	Santa Fe	@	Milwaukee	6
+3	Tulsa	@	St Louis	10
+0	Buffalo	@	Baltimore	10
+4	Harrisburg	@	Charlotte	10
+9	Nashville	@	Jacksonville	4
+4	Orlando	@	New Haven	7
+6	Savannah	@	Ottawa	2
+4	Edmonton	@	Cleveland	16
+1	Salem	@	St Louis	4
+2	San Jose	@	Cedar Rapids	5
+11	Spokane	@	Milwaukee	2
+2	Victoria	@	Santa Fe	1
+4	Reno	@	Lafayette	6
+5	Anaheim	@	Tulsa	4
+7	Tucson	@	Austin	8
+6	Provo	@	Fort Worth	3
+1	Tijuana	@	Galveston	7
+2	Edmonton	@	Cleveland	3
+3	Salem	@	St Louis	5
+6	San Jose	@	Cedar Rapids	4
+1	Spokane	@	Milwaukee	10
+5	Victoria	@	Santa Fe	4
+4	Reno	@	Lafayette	6
+0	Anaheim	@	Tulsa	6
+0	Tucson	@	Austin	3
+2	Provo	@	Fort Worth	4
+9	Tijuana	@	Galveston	6
+4	Edmonton	@	Cleveland	1
+2	Salem	@	St Louis	9
+6	San Jose	@	Cedar Rapids	7
+7	Spokane	@	Milwaukee	13
+0	Victoria	@	Santa Fe	2
+2	Reno	@	Lafayette	4
+5	Anaheim	@	Tulsa	6
+2	Tucson	@	Austin	6
+3	Provo	@	Fort Worth	5
+3	Tijuana	@	Galveston	6
+4	Anaheim	@	Salem	7
+9	Edmonton	@	Provo	15
+1	Reno	@	San Jose	5
+2	Spokane	@	Victoria	3
+4	Tijuana	@	Tucson	3
+5	Austin	@	Galveston	6
+12	Cedar Rapids	@	Lafayette	5
+1	Cleveland	@	Milwaukee	5
+7	Fort Worth	@	Santa Fe	5
+7	St Louis	@	Tulsa	3
+6	Baltimore	@	Jacksonville	5
+1	Baltimore	@	Jacksonville	2
+9	Buffalo	@	Charlotte	7
+3	Harrisburg	@	New Haven	4
+2	Orlando	@	Savannah	3
+6	Ottawa	@	Nashville	5
+5	Anaheim	@	Salem	9
+12	Edmonton	@	Provo	7
+2	Reno	@	San Jose	14
+2	Spokane	@	Victoria	4
+7	Tijuana	@	Tucson	4
+5	Austin	@	Galveston	9
+5	Cedar Rapids	@	Lafayette	3
+4	Cleveland	@	Milwaukee	3
+1	Fort Worth	@	Santa Fe	4
+4	St Louis	@	Tulsa	2
+9	Baltimore	@	Jacksonville	1
+5	Buffalo	@	Charlotte	0
+2	Harrisburg	@	New Haven	3
+6	Orlando	@	Savannah	3
+4	Ottawa	@	Nashville	5
+2	Anaheim	@	Salem	3
+3	Edmonton	@	Provo	0
+7	Reno	@	San Jose	5
+5	Spokane	@	Victoria	2
+1	Tijuana	@	Tucson	6
+2	Austin	@	Galveston	0
+2	Cedar Rapids	@	Lafayette	5
+1	Cleveland	@	Milwaukee	3
+1	Fort Worth	@	Santa Fe	7
+5	St Louis	@	Tulsa	6
+8	St Louis	@	Tulsa	10
+11	Baltimore	@	Jacksonville	1
+3	Buffalo	@	Charlotte	2
+5	Harrisburg	@	New Haven	8
+6	Orlando	@	Savannah	4
+8	Ottawa	@	Nashville	13
+5	Edmonton	@	Santa Fe	3
+9	Salem	@	Cleveland	6
+3	San Jose	@	St Louis	5
+2	Spokane	@	Cedar Rapids	0
+10	Victoria	@	Milwaukee	14
+5	Reno	@	Galveston	1
+9	Anaheim	@	Lafayette	10
+11	Tucson	@	Tulsa	6
+4	Provo	@	Austin	5
+4	Tijuana	@	Fort Worth	7
+0	Edmonton	@	Santa Fe	2
+6	Salem	@	Cleveland	2
+1	San Jose	@	St Louis	3
+7	Spokane	@	Cedar Rapids	9
+3	Victoria	@	Milwaukee	7
+1	Reno	@	Galveston	12
+8	Anaheim	@	Lafayette	9
+5	Tucson	@	Tulsa	1
+0	Provo	@	Austin	6
+4	Tijuana	@	Fort Worth	5
+5	Edmonton	@	Santa Fe	6
+3	Salem	@	Cleveland	4
+4	San Jose	@	St Louis	5
+0	Spokane	@	Cedar Rapids	1
+9	Victoria	@	Milwaukee	12
+3	Reno	@	Galveston	12
+1	Anaheim	@	Lafayette	2
+4	Tucson	@	Tulsa	2
+7	Provo	@	Austin	4
+7	Tijuana	@	Fort Worth	4
+2	New Haven	@	Spokane	1
+11	Buffalo	@	Victoria	5
+3	Harrisburg	@	Edmonton	4
+9	Ottawa	@	Salem	2
+6	Baltimore	@	San Jose	4
+3	Savannah	@	Provo	4
+2	Charlotte	@	Tijuana	4
+2	Charlotte	@	Tijuana	5
+3	Orlando	@	Reno	2
+5	Jacksonville	@	Anaheim	4
+11	Jacksonville	@	Anaheim	0
+3	Nashville	@	Tucson	1
+5	New Haven	@	Spokane	1
+8	Buffalo	@	Victoria	4
+10	Harrisburg	@	Edmonton	5
+2	Ottawa	@	Salem	5
+2	Baltimore	@	San Jose	7
+4	Savannah	@	Provo	3
+4	Charlotte	@	Tijuana	1
+10	Orlando	@	Reno	6
+6	Jacksonville	@	Anaheim	10
+14	Nashville	@	Tucson	13
+7	Nashville	@	Tucson	2
+12	New Haven	@	Spokane	1
+6	Buffalo	@	Victoria	3
+1	Harrisburg	@	Edmonton	0
+6	Ottawa	@	Salem	7
+1	Baltimore	@	San Jose	2
+5	Savannah	@	Provo	3
+1	Charlotte	@	Tijuana	7
+3	Orlando	@	Reno	4
+7	Jacksonville	@	Anaheim	2
+2	Nashville	@	Tucson	3
+7	Edmonton	@	Cedar Rapids	9
+4	Salem	@	Milwaukee	10
+3	San Jose	@	Santa Fe	6
+5	Spokane	@	Cleveland	11
+5	Victoria	@	St Louis	2
+3	Reno	@	Austin	5
+7	Anaheim	@	Fort Worth	10
+5	Tucson	@	Galveston	6
+4	Provo	@	Lafayette	7
+5	Tijuana	@	Tulsa	6
+1	Edmonton	@	Cedar Rapids	2
+9	Salem	@	Milwaukee	2
+3	San Jose	@	Santa Fe	6
+3	Spokane	@	Cleveland	12
+6	Victoria	@	St Louis	3
+0	Reno	@	Austin	9
+10	Anaheim	@	Fort Worth	4
+2	Tucson	@	Galveston	5
+7	Provo	@	Lafayette	10
+0	Tijuana	@	Tulsa	8
+4	Edmonton	@	Cedar Rapids	2
+4	Salem	@	Milwaukee	6
+0	San Jose	@	Santa Fe	1
+7	Spokane	@	Cleveland	13
+7	Victoria	@	St Louis	9
+5	Reno	@	Austin	2
+1	Anaheim	@	Fort Worth	5
+9	Tucson	@	Galveston	6
+2	Provo	@	Lafayette	5
+1	Tijuana	@	Tulsa	10
+8	New Haven	@	Edmonton	6
+4	Buffalo	@	Salem	7
+4	Harrisburg	@	San Jose	6
+2	Ottawa	@	Spokane	9
+8	Baltimore	@	Victoria	2
+5	Savannah	@	Reno	3
+14	Charlotte	@	Anaheim	9
+5	Orlando	@	Tucson	2
+7	Jacksonville	@	Provo	6
+6	Nashville	@	Tijuana	0
+4	New Haven	@	Edmonton	2
+8	Buffalo	@	Salem	6
+6	Harrisburg	@	San Jose	2
+1	Ottawa	@	Spokane	4
+5	Baltimore	@	Victoria	6
+2	Savannah	@	Reno	1
+6	Charlotte	@	Anaheim	0
+2	Orlando	@	Tucson	5
+3	Jacksonville	@	Provo	8
+10	Nashville	@	Tijuana	5
+5	New Haven	@	Edmonton	7
+3	Buffalo	@	Salem	6
+2	Harrisburg	@	San Jose	8
+1	Ottawa	@	Spokane	2
+1	Baltimore	@	Victoria	2
+1	Savannah	@	Reno	2
+4	Charlotte	@	Anaheim	10
+2	Orlando	@	Tucson	12
+1	Jacksonville	@	Provo	5
+7	Nashville	@	Tijuana	4
+0	Milwaukee	@	Baltimore	6
+7	Santa Fe	@	New Haven	10
+10	Cleveland	@	Buffalo	16
+6	St Louis	@	Harrisburg	8
+6	Cedar Rapids	@	Ottawa	4
+5	Fort Worth	@	Nashville	12
+2	Galveston	@	Savannah	0
+9	Lafayette	@	Charlotte	6
+4	Tulsa	@	Orlando	15
+3	Austin	@	Jacksonville	6
+1	Milwaukee	@	Baltimore	0
+0	Santa Fe	@	New Haven	1
+7	Cleveland	@	Buffalo	4
+2	St Louis	@	Harrisburg	3
+8	Cedar Rapids	@	Ottawa	6
+7	Fort Worth	@	Nashville	10
+4	Galveston	@	Savannah	7
+1	Lafayette	@	Charlotte	8
+3	Tulsa	@	Orlando	1
+4	Austin	@	Jacksonville	1
+2	Milwaukee	@	Baltimore	1
+1	Santa Fe	@	New Haven	4
+3	Cleveland	@	Buffalo	4
+1	St Louis	@	Harrisburg	4
+0	Cedar Rapids	@	Ottawa	1
+8	Fort Worth	@	Nashville	7
+1	Galveston	@	Savannah	4
+3	Lafayette	@	Charlotte	14
+1	Tulsa	@	Orlando	7
+9	Austin	@	Jacksonville	4
+15	Milwaukee	@	New Haven	6
+9	Santa Fe	@	Buffalo	4
+4	Cleveland	@	Harrisburg	3
+0	St Louis	@	Ottawa	2
+1	Cedar Rapids	@	Baltimore	4
+7	Fort Worth	@	Savannah	5
+5	Galveston	@	Charlotte	7
+3	Lafayette	@	Orlando	7
+8	Tulsa	@	Jacksonville	9
+2	Austin	@	Nashville	9
+5	Milwaukee	@	New Haven	3
+9	Santa Fe	@	Buffalo	2
+6	Cleveland	@	Harrisburg	13
+8	St Louis	@	Ottawa	7
+1	St Louis	@	Ottawa	5
+3	Cedar Rapids	@	Baltimore	2
+3	Fort Worth	@	Savannah	10
+5	Galveston	@	Charlotte	9
+1	Lafayette	@	Orlando	5
+1	Tulsa	@	Jacksonville	6
+8	Austin	@	Nashville	13
+8	Milwaukee	@	New Haven	7
+9	Santa Fe	@	Buffalo	2
+3	Cleveland	@	Harrisburg	11
+3	St Louis	@	Ottawa	4
+1	St Louis	@	Ottawa	2
+13	Cedar Rapids	@	Baltimore	4
+0	Fort Worth	@	Savannah	2
+9	Galveston	@	Charlotte	6
+3	Lafayette	@	Orlando	16
+7	Tulsa	@	Jacksonville	14
+16	Austin	@	Nashville	9
+3	Anaheim	@	Reno	4
+9	Edmonton	@	San Jose	8
+6	Provo	@	Salem	3
+3	Spokane	@	Tucson	10
+7	Tijuana	@	Victoria	3
+8	Austin	@	Fort Worth	9
+5	Cedar Rapids	@	Lafayette	7
+13	Cleveland	@	Milwaukee	3
+2	Galveston	@	Santa Fe	11
+1	St Louis	@	Tulsa	6
+6	Baltimore	@	Harrisburg	4
+8	Buffalo	@	Jacksonville	7
+6	Charlotte	@	New Haven	5
+7	Orlando	@	Ottawa	3
+3	Savannah	@	Nashville	9
+4	Anaheim	@	Reno	7
+8	Edmonton	@	San Jose	5
+3	Provo	@	Salem	5
+3	Spokane	@	Tucson	4
+8	Tijuana	@	Victoria	5
+7	Austin	@	Fort Worth	10
+11	Cedar Rapids	@	Lafayette	7
+4	Cleveland	@	Milwaukee	7
+11	Galveston	@	Santa Fe	10
+5	St Louis	@	Tulsa	3
+4	Baltimore	@	Harrisburg	1
+1	Buffalo	@	Jacksonville	4
+2	Charlotte	@	New Haven	6
+5	Orlando	@	Ottawa	6
+5	Savannah	@	Nashville	0
+1	Anaheim	@	Reno	5
+3	Edmonton	@	San Jose	4
+0	Provo	@	Salem	1
+3	Spokane	@	Tucson	8
+11	Tijuana	@	Victoria	3
+9	Austin	@	Fort Worth	1
+9	Cedar Rapids	@	Lafayette	4
+3	Cleveland	@	Milwaukee	5
+4	Galveston	@	Santa Fe	11
+5	St Louis	@	Tulsa	3
+6	Baltimore	@	Harrisburg	9
+11	Buffalo	@	Jacksonville	8
+0	Charlotte	@	New Haven	3
+9	Orlando	@	Ottawa	7
+1	Savannah	@	Nashville	9
+3	Anaheim	@	Tijuana	7
+3	Edmonton	@	Tucson	4
+4	Provo	@	Victoria	3
+4	Reno	@	San Jose	3
+1	Salem	@	Spokane	2
+3	Austin	@	Santa Fe	2
+6	Cedar Rapids	@	St Louis	2
+9	Cleveland	@	Tulsa	5
+4	Fort Worth	@	Lafayette	14
+0	Galveston	@	Milwaukee	3
+5	Baltimore	@	Orlando	4
+1	Buffalo	@	Ottawa	9
+2	Charlotte	@	Savannah	8
+8	Harrisburg	@	Jacksonville	2
+5	New Haven	@	Nashville	11
+5	Anaheim	@	Tijuana	7
+5	Edmonton	@	Tucson	12
+13	Provo	@	Victoria	3
+7	Reno	@	San Jose	4
+4	Salem	@	Spokane	6
+15	Austin	@	Santa Fe	0
+4	Cedar Rapids	@	St Louis	6
+2	Cleveland	@	Tulsa	4
+1	Fort Worth	@	Lafayette	5
+7	Galveston	@	Milwaukee	10
+7	Baltimore	@	Orlando	4
+6	Buffalo	@	Ottawa	3
+2	Charlotte	@	Savannah	6
+4	Harrisburg	@	Jacksonville	6
+7	New Haven	@	Nashville	9
+1	Anaheim	@	Tijuana	2
+0	Edmonton	@	Tucson	12
+8	Provo	@	Victoria	2
+0	Reno	@	San Jose	1
+8	Salem	@	Spokane	5
+9	Austin	@	Santa Fe	2
+5	Cedar Rapids	@	St Louis	2
+7	Cleveland	@	Tulsa	5
+4	Fort Worth	@	Lafayette	8
+6	Galveston	@	Milwaukee	7
+5	Baltimore	@	Orlando	6
+2	Buffalo	@	Ottawa	1
+0	Charlotte	@	Savannah	9
+1	Harrisburg	@	Jacksonville	8
+1	New Haven	@	Nashville	5
+4	Edmonton	@	Milwaukee	5
+10	Salem	@	Santa Fe	8
+7	San Jose	@	Cleveland	6
+6	Spokane	@	St Louis	8
+12	Victoria	@	Cedar Rapids	3
+6	Reno	@	Fort Worth	2
+6	Anaheim	@	Galveston	0
+9	Tucson	@	Lafayette	6
+4	Tucson	@	Lafayette	3
+1	Provo	@	Tulsa	2
+6	Tijuana	@	Austin	10
+0	Edmonton	@	Milwaukee	7
+6	Salem	@	Santa Fe	9
+8	San Jose	@	Cleveland	4
+2	Spokane	@	St Louis	1
+4	Victoria	@	Cedar Rapids	1
+7	Reno	@	Fort Worth	14
+0	Anaheim	@	Galveston	5
+9	Tucson	@	Lafayette	1
+8	Provo	@	Tulsa	10
+6	Tijuana	@	Austin	7
+3	Edmonton	@	Milwaukee	6
+0	Salem	@	Santa Fe	8
+2	San Jose	@	Cleveland	4
+6	Spokane	@	St Louis	14
+1	Victoria	@	Cedar Rapids	11
+4	Reno	@	Fort Worth	11
+0	Anaheim	@	Galveston	1
+7	Tucson	@	Lafayette	6
+0	Provo	@	Tulsa	12
+6	Tijuana	@	Austin	8
+3	Anaheim	@	Spokane	6
+11	Edmonton	@	Tijuana	12
+10	Edmonton	@	Tijuana	6
+1	Provo	@	Tucson	6
+2	Reno	@	Victoria	6
+4	Salem	@	San Jose	5
+3	Austin	@	Milwaukee	7
+2	Cedar Rapids	@	Santa Fe	3
+1	Cleveland	@	St Louis	9
+5	Fort Worth	@	Tulsa	1
+7	Galveston	@	Lafayette	5
+1	Baltimore	@	New Haven	2
+2	Buffalo	@	Orlando	9
+3	Charlotte	@	Ottawa	4
+0	Harrisburg	@	Savannah	1
+2	Jacksonville	@	Nashville	7
+1	Anaheim	@	Spokane	9
+2	Edmonton	@	Tijuana	4
+0	Provo	@	Tucson	6
+1	Reno	@	Victoria	2
+1	Salem	@	San Jose	4
+10	Austin	@	Milwaukee	5
+15	Cedar Rapids	@	Santa Fe	4
+3	Cleveland	@	St Louis	4
+5	Fort Worth	@	Tulsa	8
+12	Galveston	@	Lafayette	8
+1	Baltimore	@	New Haven	4
+5	Buffalo	@	Orlando	6
+5	Charlotte	@	Ottawa	2
+4	Harrisburg	@	Savannah	5
+5	Jacksonville	@	Nashville	6
+13	Anaheim	@	Spokane	2
+1	Edmonton	@	Tijuana	3
+4	Provo	@	Tucson	5
+2	Reno	@	Victoria	5
+3	Salem	@	San Jose	2
+2	Austin	@	Milwaukee	7
+7	Cedar Rapids	@	Santa Fe	9
+9	Cleveland	@	St Louis	6
+6	Fort Worth	@	Tulsa	7
+9	Galveston	@	Lafayette	5
+3	Baltimore	@	New Haven	4
+6	Buffalo	@	Orlando	9
+5	Charlotte	@	Ottawa	8
+0	Charlotte	@	Ottawa	1
+8	Harrisburg	@	Savannah	5
+2	Jacksonville	@	Nashville	8
+1	Anaheim	@	Provo	3
+10	Edmonton	@	Reno	1
+0	Salem	@	Spokane	5
+5	Tijuana	@	Victoria	3
+3	Tucson	@	San Jose	1
+3	Austin	@	Cleveland	10
+2	Cedar Rapids	@	Fort Worth	8
+2	Galveston	@	Milwaukee	3
+2	Santa Fe	@	St Louis	10
+8	Tulsa	@	Lafayette	1
+4	Baltimore	@	Charlotte	9
+5	Buffalo	@	Harrisburg	3
+5	Jacksonville	@	New Haven	8
+7	Orlando	@	Ottawa	4
+5	Savannah	@	Nashville	6
+8	Anaheim	@	Provo	6
+1	Edmonton	@	Reno	5
+3	Salem	@	Spokane	7
+2	Tijuana	@	Victoria	3
+7	Tucson	@	San Jose	2
+6	Austin	@	Cleveland	14
+6	Cedar Rapids	@	Fort Worth	3
+6	Galveston	@	Milwaukee	0
+4	Santa Fe	@	St Louis	5
+3	Tulsa	@	Lafayette	0
+3	Baltimore	@	Charlotte	4
+5	Buffalo	@	Harrisburg	8
+5	Jacksonville	@	New Haven	11
+12	Orlando	@	Ottawa	1
+3	Savannah	@	Nashville	5
+7	Anaheim	@	Provo	6
+1	Edmonton	@	Reno	9
+4	Salem	@	Spokane	5
+3	Tijuana	@	Victoria	8
+2	Tucson	@	San Jose	3
+2	Austin	@	Cleveland	8
+13	Cedar Rapids	@	Fort Worth	9
+9	Galveston	@	Milwaukee	5
+3	Santa Fe	@	St Louis	9
+9	Tulsa	@	Lafayette	4
+1	Baltimore	@	Charlotte	2
+4	Buffalo	@	Harrisburg	2
+4	Jacksonville	@	New Haven	6
+7	Orlando	@	Ottawa	2
+3	Savannah	@	Nashville	6
+7	New Haven	@	San Jose	0
+7	Buffalo	@	Spokane	5
+2	Harrisburg	@	Victoria	6
+0	Ottawa	@	Edmonton	4
+0	Baltimore	@	Salem	9
+0	Savannah	@	Tucson	5
+4	Charlotte	@	Provo	3
+4	Orlando	@	Tijuana	0
+3	Jacksonville	@	Reno	8
+2	Nashville	@	Anaheim	4
+3	New Haven	@	San Jose	5
+9	Buffalo	@	Spokane	4
+7	Harrisburg	@	Victoria	6
+2	Ottawa	@	Edmonton	5
+0	Baltimore	@	Salem	5
+1	Savannah	@	Tucson	6
+8	Charlotte	@	Provo	5
+13	Orlando	@	Tijuana	7
+6	Jacksonville	@	Reno	7
+8	Nashville	@	Anaheim	1
+10	New Haven	@	San Jose	1
+1	Buffalo	@	Spokane	3
+5	Harrisburg	@	Victoria	1
+8	Ottawa	@	Edmonton	10
+6	Baltimore	@	Salem	5
+4	Savannah	@	Tucson	3
+8	Charlotte	@	Provo	7
+6	Orlando	@	Tijuana	5
+8	Jacksonville	@	Reno	9
+13	Nashville	@	Anaheim	2
+5	Milwaukee	@	Buffalo	3
+4	Santa Fe	@	Harrisburg	3
+10	Cleveland	@	Ottawa	5
+1	St Louis	@	Baltimore	3
+3	Cedar Rapids	@	New Haven	4
+6	Fort Worth	@	Charlotte	1
+3	Galveston	@	Orlando	10
+1	Lafayette	@	Jacksonville	3
+2	Tulsa	@	Nashville	7
+5	Austin	@	Savannah	1
+6	Milwaukee	@	Buffalo	10
+9	Santa Fe	@	Harrisburg	6
+8	Cleveland	@	Ottawa	5
+3	St Louis	@	Baltimore	4
+2	Cedar Rapids	@	New Haven	7
+1	Fort Worth	@	Charlotte	8
+5	Galveston	@	Orlando	8
+2	Lafayette	@	Jacksonville	5
+5	Tulsa	@	Nashville	6
+14	Austin	@	Savannah	0
+7	Milwaukee	@	Buffalo	3
+4	Santa Fe	@	Harrisburg	3
+4	Cleveland	@	Ottawa	3
+6	St Louis	@	Baltimore	1
+11	Cedar Rapids	@	New Haven	8
+8	Fort Worth	@	Charlotte	1
+4	Galveston	@	Orlando	3
+4	Lafayette	@	Jacksonville	0
+9	Tulsa	@	Nashville	10
+4	Austin	@	Savannah	3
+3	Austin	@	Savannah	4
+3	Salem	@	Anaheim	4
+6	Provo	@	Edmonton	1
+2	San Jose	@	Reno	6
+9	Victoria	@	Spokane	4
+7	Tucson	@	Tijuana	1
+6	Galveston	@	Austin	1
+13	Lafayette	@	Cedar Rapids	3
+8	Milwaukee	@	Cleveland	4
+0	Santa Fe	@	Fort Worth	2
+6	Tulsa	@	St Louis	4
+1	Jacksonville	@	Baltimore	5
+5	Charlotte	@	Buffalo	6
+9	New Haven	@	Harrisburg	8
+0	Savannah	@	Orlando	8
+10	Nashville	@	Ottawa	4
+15	Salem	@	Anaheim	11
+3	Provo	@	Edmonton	5
+2	San Jose	@	Reno	6
+5	Victoria	@	Spokane	3
+8	Tucson	@	Tijuana	3
+1	Galveston	@	Austin	2
+1	Lafayette	@	Cedar Rapids	5
+2	Milwaukee	@	Cleveland	6
+12	Santa Fe	@	Fort Worth	2
+4	Tulsa	@	St Louis	6
+0	Jacksonville	@	Baltimore	2
+8	Charlotte	@	Buffalo	2
+6	New Haven	@	Harrisburg	1
+5	Savannah	@	Orlando	8
+3	Nashville	@	Ottawa	8
+6	Salem	@	Anaheim	0
+8	Provo	@	Edmonton	1
+3	San Jose	@	Reno	9
+5	Victoria	@	Spokane	6
+3	Tucson	@	Tijuana	4
+3	Galveston	@	Austin	6
+2	Lafayette	@	Cedar Rapids	3
+7	Milwaukee	@	Cleveland	3
+12	Santa Fe	@	Fort Worth	3
+3	Tulsa	@	St Louis	7
+7	Jacksonville	@	Baltimore	5
+4	Charlotte	@	Buffalo	1
+7	New Haven	@	Harrisburg	6
+3	Savannah	@	Orlando	4
+1	Savannah	@	Orlando	2
+5	Nashville	@	Ottawa	3
+3	Edmonton	@	St Louis	8
+3	Salem	@	Cedar Rapids	10
+2	San Jose	@	Milwaukee	5
+4	Spokane	@	Santa Fe	10
+12	Victoria	@	Cleveland	3
+3	Reno	@	Tulsa	6
+0	Anaheim	@	Austin	1
+7	Tucson	@	Fort Worth	12
+4	Provo	@	Galveston	9
+3	Tijuana	@	Lafayette	6
+10	Edmonton	@	St Louis	4
+6	Salem	@	Cedar Rapids	2
+2	San Jose	@	Milwaukee	3
+2	San Jose	@	Milwaukee	7
+2	Spokane	@	Santa Fe	3
+0	Victoria	@	Cleveland	3
+7	Reno	@	Tulsa	4
+2	Anaheim	@	Austin	1
+3	Tucson	@	Fort Worth	5
+2	Provo	@	Galveston	8
+2	Tijuana	@	Lafayette	7
+5	Edmonton	@	St Louis	8
+2	Salem	@	Cedar Rapids	6
+3	San Jose	@	Milwaukee	5
+4	Spokane	@	Santa Fe	11
+2	Victoria	@	Cleveland	5
+4	Reno	@	Tulsa	3
+4	Anaheim	@	Austin	5
+3	Anaheim	@	Austin	7
+4	Tucson	@	Fort Worth	7
+3	Provo	@	Galveston	2
+8	Tijuana	@	Lafayette	2
+3	Reno	@	Anaheim	4
+9	San Jose	@	Edmonton	5
+6	Salem	@	Provo	5
+12	Tucson	@	Spokane	5
+8	Victoria	@	Tijuana	5
+4	Fort Worth	@	Austin	10
+4	Lafayette	@	Cedar Rapids	5
+8	Milwaukee	@	Cleveland	3
+0	Santa Fe	@	Galveston	8
+6	Tulsa	@	St Louis	5
+2	Harrisburg	@	Baltimore	1
+4	Jacksonville	@	Buffalo	6
+5	New Haven	@	Charlotte	2
+9	Ottawa	@	Orlando	8
+6	Nashville	@	Savannah	2
+4	Reno	@	Anaheim	13
+1	San Jose	@	Edmonton	5
+10	Salem	@	Provo	4
+6	Tucson	@	Spokane	4
+7	Victoria	@	Tijuana	6
+2	Fort Worth	@	Austin	3
+3	Lafayette	@	Cedar Rapids	4
+9	Milwaukee	@	Cleveland	7
+3	Santa Fe	@	Galveston	5
+4	Tulsa	@	St Louis	0
+0	Harrisburg	@	Baltimore	6
+7	Jacksonville	@	Buffalo	10
+4	New Haven	@	Charlotte	7
+6	Ottawa	@	Orlando	11
+8	Nashville	@	Savannah	10
+13	Reno	@	Anaheim	4
+1	San Jose	@	Edmonton	11
+4	Salem	@	Provo	5
+4	Tucson	@	Spokane	3
+2	Victoria	@	Tijuana	0
+9	Fort Worth	@	Austin	4
+2	Lafayette	@	Cedar Rapids	5
+0	Milwaukee	@	Cleveland	8
+0	Santa Fe	@	Galveston	6
+3	Tulsa	@	St Louis	1
+4	Harrisburg	@	Baltimore	3
+10	Jacksonville	@	Buffalo	5
+5	New Haven	@	Charlotte	3
+5	Ottawa	@	Orlando	6
+9	Nashville	@	Savannah	10
+3	Milwaukee	@	Harrisburg	5
+5	Santa Fe	@	Ottawa	10
+7	Cleveland	@	Baltimore	1
+3	St Louis	@	New Haven	1
+1	Cedar Rapids	@	Buffalo	5
+8	Fort Worth	@	Orlando	4
+9	Galveston	@	Jacksonville	10
+7	Lafayette	@	Nashville	5
+9	Tulsa	@	Savannah	5
+10	Austin	@	Charlotte	2
+7	Milwaukee	@	Harrisburg	8
+4	Milwaukee	@	Harrisburg	5
+9	Santa Fe	@	Ottawa	4
+4	Cleveland	@	Baltimore	10
+2	St Louis	@	New Haven	3
+0	Cedar Rapids	@	Buffalo	2
+3	Fort Worth	@	Orlando	4
+4	Galveston	@	Jacksonville	6
+1	Lafayette	@	Nashville	4
+2	Tulsa	@	Savannah	3
+2	Austin	@	Charlotte	4
+10	Milwaukee	@	Harrisburg	5
+5	Santa Fe	@	Ottawa	7
+11	Santa Fe	@	Ottawa	10
+4	Cleveland	@	Baltimore	12
+7	St Louis	@	New Haven	6
+6	Cedar Rapids	@	Buffalo	3
+1	Fort Worth	@	Orlando	2
+2	Galveston	@	Jacksonville	1
+4	Lafayette	@	Nashville	2
+2	Tulsa	@	Savannah	5
+4	Austin	@	Charlotte	5
+2	Anaheim	@	Victoria	5
+7	Edmonton	@	San Jose	5
+8	Provo	@	Spokane	7
+4	Reno	@	Tijuana	7
+1	Salem	@	Tucson	5
+3	Austin	@	Tulsa	6
+3	Cedar Rapids	@	Lafayette	6
+4	Cleveland	@	Milwaukee	6
+0	Fort Worth	@	Santa Fe	2
+2	Galveston	@	St Louis	1
+4	Baltimore	@	Savannah	3
+3	Baltimore	@	Savannah	4
+12	Buffalo	@	Charlotte	2
+7	Harrisburg	@	New Haven	4
+2	Jacksonville	@	Orlando	9
+9	Nashville	@	Ottawa	2
+8	Anaheim	@	Victoria	7
+5	Edmonton	@	San Jose	4
+9	Provo	@	Spokane	7
+3	Reno	@	Tijuana	9
+5	Salem	@	Tucson	6
+11	Austin	@	Tulsa	1
+5	Cedar Rapids	@	Lafayette	2
+5	Cleveland	@	Milwaukee	6
+1	Fort Worth	@	Santa Fe	2
+3	Galveston	@	St Louis	2
+3	Baltimore	@	Savannah	4
+9	Buffalo	@	Charlotte	6
+3	Harrisburg	@	New Haven	4
+7	Jacksonville	@	Orlando	5
+4	Nashville	@	Ottawa	6
+3	Anaheim	@	Victoria	2
+5	Edmonton	@	San Jose	4
+7	Provo	@	Spokane	6
+8	Reno	@	Tijuana	11
+5	Salem	@	Tucson	6
+9	Austin	@	Tulsa	5
+10	Cedar Rapids	@	Lafayette	7
+9	Cleveland	@	Milwaukee	15
+4	Fort Worth	@	Santa Fe	8
+1	Galveston	@	St Louis	2
+3	Baltimore	@	Savannah	7
+3	Buffalo	@	Charlotte	4
+6	Harrisburg	@	New Haven	8
+2	Jacksonville	@	Orlando	11
+5	Nashville	@	Ottawa	4
+3	Anaheim	@	Edmonton	7
+3	Provo	@	Reno	6
+6	Salem	@	San Jose	5
+8	Spokane	@	Tijuana	7
+17	Tucson	@	Victoria	7
+9	Austin	@	Cedar Rapids	5
+2	Cleveland	@	Fort Worth	6
+5	Galveston	@	Lafayette	1
+19	Milwaukee	@	Santa Fe	8
+4	St Louis	@	Tulsa	3
+0	Baltimore	@	Buffalo	3
+2	Charlotte	@	Harrisburg	7
+0	Jacksonville	@	Nashville	9
+5	New Haven	@	Orlando	11
+3	Ottawa	@	Savannah	5
+4	Anaheim	@	Edmonton	7
+0	Provo	@	Reno	14
+6	Salem	@	San Jose	1
+9	Spokane	@	Tijuana	8
+10	Tucson	@	Victoria	2
+2	Austin	@	Cedar Rapids	7
+9	Cleveland	@	Fort Worth	2
+2	Galveston	@	Lafayette	0
+5	Milwaukee	@	Santa Fe	4
+11	St Louis	@	Tulsa	3
+8	Baltimore	@	Buffalo	5
+4	Charlotte	@	Harrisburg	1
+0	Jacksonville	@	Nashville	10
+1	New Haven	@	Orlando	10
+10	Ottawa	@	Savannah	4
+2	Anaheim	@	Edmonton	4
+3	Provo	@	Reno	7
+9	Salem	@	San Jose	4
+6	Spokane	@	Tijuana	5
+11	Tucson	@	Victoria	8
+6	Austin	@	Cedar Rapids	7
+5	Cleveland	@	Fort Worth	6
+5	Galveston	@	Lafayette	4
+11	Milwaukee	@	Santa Fe	8
+4	St Louis	@	Tulsa	6
+2	Baltimore	@	Buffalo	5
+6	Charlotte	@	Harrisburg	5
+2	Jacksonville	@	Nashville	3
+10	New Haven	@	Orlando	5
+7	Ottawa	@	Savannah	8
+8	New Haven	@	Salem	7
+10	Buffalo	@	San Jose	9
+12	Harrisburg	@	Spokane	4
+1	Ottawa	@	Victoria	4
+5	Baltimore	@	Edmonton	8
+6	Savannah	@	Anaheim	21
+3	Charlotte	@	Tucson	6
+7	Orlando	@	Provo	10
+4	Jacksonville	@	Tijuana	6
+5	Nashville	@	Reno	7
+3	New Haven	@	Salem	6
+5	Buffalo	@	San Jose	3
+1	Harrisburg	@	Spokane	3
+0	Ottawa	@	Victoria	7
+3	Baltimore	@	Edmonton	6
+3	Savannah	@	Anaheim	4
+3	Charlotte	@	Tucson	6
+1	Orlando	@	Provo	0
+5	Jacksonville	@	Tijuana	9
+6	Nashville	@	Reno	5
+6	New Haven	@	Salem	4
+9	Buffalo	@	San Jose	5
+6	Harrisburg	@	Spokane	5
+3	Ottawa	@	Victoria	5
+2	Baltimore	@	Edmonton	1
+5	Savannah	@	Anaheim	7
+5	Charlotte	@	Tucson	8
+7	Orlando	@	Provo	10
+5	Jacksonville	@	Tijuana	4
+3	Nashville	@	Reno	5
+5	New Haven	@	Victoria	6
+8	Buffalo	@	Edmonton	5
+6	Harrisburg	@	Salem	2
+8	Ottawa	@	San Jose	5
+3	Baltimore	@	Spokane	2
+6	Savannah	@	Tijuana	9
+7	Charlotte	@	Reno	6
+4	Orlando	@	Anaheim	2
+4	Jacksonville	@	Tucson	5
+5	Nashville	@	Provo	9
+4	New Haven	@	Victoria	5
+7	Buffalo	@	Edmonton	9
+2	Harrisburg	@	Salem	3
+7	Ottawa	@	San Jose	1
+5	Baltimore	@	Spokane	12
+1	Savannah	@	Tijuana	9
+5	Charlotte	@	Reno	9
+6	Orlando	@	Anaheim	0
+2	Jacksonville	@	Tucson	8
+8	Nashville	@	Provo	5
+2	New Haven	@	Victoria	4
+4	Buffalo	@	Edmonton	11
+2	Harrisburg	@	Salem	3
+3	Ottawa	@	San Jose	6
+6	Baltimore	@	Spokane	4
+0	Baltimore	@	Spokane	15
+5	Savannah	@	Tijuana	8
+0	Charlotte	@	Reno	6
+0	Orlando	@	Anaheim	6
+2	Jacksonville	@	Tucson	11
+5	Nashville	@	Provo	6
+2	Tucson	@	Anaheim	3
+5	Victoria	@	Edmonton	8
+1	San Jose	@	Provo	2
+5	Spokane	@	Reno	6
+4	Tijuana	@	Salem	9
+6	St Louis	@	Austin	12
+4	Tulsa	@	Cedar Rapids	3
+5	Tulsa	@	Cedar Rapids	0
+2	Lafayette	@	Cleveland	6
+17	Milwaukee	@	Fort Worth	7
+8	Santa Fe	@	Galveston	4
+4	Ottawa	@	Baltimore	1
+6	Savannah	@	Buffalo	8
+8	Nashville	@	Charlotte	5
+1	Jacksonville	@	Harrisburg	6
+5	Orlando	@	New Haven	2
+13	Tucson	@	Anaheim	0
+6	Victoria	@	Edmonton	2
+5	San Jose	@	Provo	4
+10	Spokane	@	Reno	2
+4	Tijuana	@	Salem	5
+4	St Louis	@	Austin	1
+5	Tulsa	@	Cedar Rapids	4
+3	Lafayette	@	Cleveland	7
+4	Milwaukee	@	Fort Worth	3
+3	Santa Fe	@	Galveston	5
+1	Ottawa	@	Baltimore	12
+5	Savannah	@	Buffalo	6
+3	Nashville	@	Charlotte	8
+1	Jacksonville	@	Harrisburg	6
+12	Orlando	@	New Haven	11
+6	Orlando	@	New Haven	7
+7	Tucson	@	Anaheim	6
+2	Victoria	@	Edmonton	5
+11	San Jose	@	Provo	5
+6	Spokane	@	Reno	4
+1	Tijuana	@	Salem	2
+7	St Louis	@	Austin	5
+11	Tulsa	@	Cedar Rapids	1
+1	Lafayette	@	Cleveland	5
+6	Milwaukee	@	Fort Worth	3
+1	Santa Fe	@	Galveston	5
+10	Ottawa	@	Baltimore	7
+14	Savannah	@	Buffalo	8
+3	Nashville	@	Charlotte	6
+3	Jacksonville	@	Harrisburg	2
+3	Orlando	@	New Haven	5
+9	Tijuana	@	Anaheim	4
+8	Tucson	@	Edmonton	4
+2	Victoria	@	Provo	1
+1	San Jose	@	Reno	9
+10	Spokane	@	Salem	5
+3	Santa Fe	@	Austin	2
+8	St Louis	@	Cedar Rapids	6
+4	Tulsa	@	Cleveland	5
+3	Lafayette	@	Fort Worth	7
+3	Milwaukee	@	Galveston	4
+2	Milwaukee	@	Galveston	3
+1	Orlando	@	Baltimore	2
+5	Ottawa	@	Buffalo	3
+1	Savannah	@	Charlotte	3
+1	Jacksonville	@	Harrisburg	9
+3	Nashville	@	New Haven	4
+10	Nashville	@	New Haven	2
+7	Tijuana	@	Anaheim	9
+3	Tucson	@	Edmonton	2
+3	Victoria	@	Provo	10
+6	San Jose	@	Reno	7
+1	Spokane	@	Salem	7
+6	Santa Fe	@	Austin	5
+2	St Louis	@	Cedar Rapids	0
+6	Tulsa	@	Cleveland	5
+3	Lafayette	@	Fort Worth	0
+7	Milwaukee	@	Galveston	10
+5	Orlando	@	Baltimore	1
+1	Ottawa	@	Buffalo	4
+1	Savannah	@	Charlotte	4
+3	Jacksonville	@	Harrisburg	6
+13	Nashville	@	New Haven	14
+5	Tijuana	@	Anaheim	2
+4	Tucson	@	Edmonton	6
+4	Victoria	@	Provo	6
+0	San Jose	@	Reno	1
+6	Spokane	@	Salem	4
+3	Santa Fe	@	Austin	9
+6	St Louis	@	Cedar Rapids	7
+6	Tulsa	@	Cleveland	2
+2	Lafayette	@	Fort Worth	6
+2	Milwaukee	@	Galveston	4
+9	Orlando	@	Baltimore	3
+6	Ottawa	@	Buffalo	4
+3	Savannah	@	Charlotte	1
+7	Jacksonville	@	Harrisburg	16
+2	Nashville	@	New Haven	7
+6	San Jose	@	Anaheim	5
+7	Salem	@	Edmonton	6
+2	Victoria	@	Provo	4
+4	Tijuana	@	Reno	5
+9	Tucson	@	Spokane	8
+9	Lafayette	@	Austin	7
+1	Galveston	@	Cedar Rapids	4
+7	Tulsa	@	Cleveland	6
+1	Santa Fe	@	Fort Worth	11
+0	St Louis	@	Milwaukee	8
+5	Nashville	@	Baltimore	3
+7	Orlando	@	Buffalo	2
+1	Savannah	@	Charlotte	3
+3	New Haven	@	Harrisburg	4
+4	Ottawa	@	Jacksonville	7
+6	San Jose	@	Anaheim	7
+5	Salem	@	Edmonton	4
+6	Victoria	@	Provo	3
+6	Tijuana	@	Reno	5
+5	Tucson	@	Spokane	7
+0	Tucson	@	Spokane	3
+1	Lafayette	@	Austin	3
+5	Galveston	@	Cedar Rapids	0
+3	Tulsa	@	Cleveland	4
+11	Santa Fe	@	Fort Worth	6
+7	St Louis	@	Milwaukee	5
+2	Nashville	@	Baltimore	0
+4	Orlando	@	Buffalo	6
+5	Savannah	@	Charlotte	3
+8	New Haven	@	Harrisburg	11
+7	Ottawa	@	Jacksonville	6
+4	San Jose	@	Anaheim	6
+3	Salem	@	Edmonton	2
+6	Victoria	@	Provo	2
+2	Tijuana	@	Reno	1
+12	Tucson	@	Spokane	1
+7	Lafayette	@	Austin	6
+3	Galveston	@	Cedar Rapids	4
+6	Tulsa	@	Cleveland	14
+2	Santa Fe	@	Fort Worth	1
+3	St Louis	@	Milwaukee	4
+9	Nashville	@	Baltimore	7
+0	Orlando	@	Buffalo	3
+5	Savannah	@	Charlotte	7
+10	New Haven	@	Harrisburg	4
+13	Ottawa	@	Jacksonville	3
+2	Provo	@	Anaheim	4
+5	Reno	@	Edmonton	6
+9	Spokane	@	Salem	7
+6	Victoria	@	Tijuana	16
+3	San Jose	@	Tucson	6
+8	Cleveland	@	Austin	4
+12	Fort Worth	@	Cedar Rapids	9
+3	Milwaukee	@	Galveston	9
+3	St Louis	@	Santa Fe	5
+5	Lafayette	@	Tulsa	6
+4	Charlotte	@	Baltimore	3
+5	Harrisburg	@	Buffalo	7
+7	New Haven	@	Jacksonville	6
+7	Ottawa	@	Orlando	8
+6	Nashville	@	Savannah	4
+8	Provo	@	Anaheim	11
+0	Reno	@	Edmonton	5
+6	Spokane	@	Salem	3
+3	Victoria	@	Tijuana	2
+2	San Jose	@	Tucson	17
+2	Cleveland	@	Austin	7
+10	Fort Worth	@	Cedar Rapids	8
+1	Milwaukee	@	Galveston	4
+2	St Louis	@	Santa Fe	5
+1	Lafayette	@	Tulsa	0
+4	Charlotte	@	Baltimore	5
+4	Harrisburg	@	Buffalo	9
+7	New Haven	@	Jacksonville	8
+4	Ottawa	@	Orlando	5
+13	Nashville	@	Savannah	9
+5	Provo	@	Anaheim	6
+3	Reno	@	Edmonton	7
+2	Spokane	@	Salem	4
+9	Victoria	@	Tijuana	5
+2	San Jose	@	Tucson	5
+0	Cleveland	@	Austin	4
+4	Fort Worth	@	Cedar Rapids	11
+2	Milwaukee	@	Galveston	4
+1	St Louis	@	Santa Fe	4
+2	Lafayette	@	Tulsa	8
+4	Charlotte	@	Baltimore	3
+7	Harrisburg	@	Buffalo	1
+6	New Haven	@	Jacksonville	2
+1	Ottawa	@	Orlando	7
+15	Nashville	@	Savannah	3
+4	Victoria	@	Anaheim	14
+1	San Jose	@	Edmonton	3
+3	Spokane	@	Provo	10
+7	Tijuana	@	Reno	5
+6	Tucson	@	Salem	2
+2	Tulsa	@	Austin	12
+8	Lafayette	@	Cedar Rapids	4
+6	Milwaukee	@	Cleveland	9
+7	Santa Fe	@	Fort Worth	3
+8	St Louis	@	Galveston	10
+4	Savannah	@	Baltimore	8
+1	Charlotte	@	Buffalo	3
+3	New Haven	@	Harrisburg	10
+6	Orlando	@	Jacksonville	13
+9	Ottawa	@	Nashville	2
+3	Victoria	@	Anaheim	4
+7	San Jose	@	Edmonton	5
+7	San Jose	@	Edmonton	5
+1	Spokane	@	Provo	5
+4	Tijuana	@	Reno	5
+7	Tucson	@	Salem	5
+7	Tulsa	@	Austin	0
+1	Lafayette	@	Cedar Rapids	3
+10	Milwaukee	@	Cleveland	4
+4	Santa Fe	@	Fort Worth	5
+4	St Louis	@	Galveston	8
+2	Savannah	@	Baltimore	4
+4	Charlotte	@	Buffalo	6
+8	New Haven	@	Harrisburg	0
+4	Orlando	@	Jacksonville	7
+5	Ottawa	@	Nashville	7
+3	Victoria	@	Anaheim	4
+0	San Jose	@	Edmonton	6
+4	Spokane	@	Provo	9
+3	Tijuana	@	Reno	5
+3	Tucson	@	Salem	8
+7	Tulsa	@	Austin	6
+6	Lafayette	@	Cedar Rapids	7
+5	Milwaukee	@	Cleveland	7
+6	Santa Fe	@	Fort Worth	7
+3	St Louis	@	Galveston	2
+2	Savannah	@	Baltimore	7
+7	Charlotte	@	Buffalo	3
+9	New Haven	@	Harrisburg	4
+3	Orlando	@	Jacksonville	9
+8	Ottawa	@	Nashville	11

@@ -1,57 +1,1260 @@
-Las Vegas	Phoenix	19-Jul-25
-Colorado	Detroit	19-Jul-25
-Tampa Bay	Miami	19-Jul-25
-Atlanta	Tennessee	19-Jul-25
-New Orleans	San Antonio	19-Jul-25
-Toronto	New York	19-Jul-25
-Philadelphia	Boston	19-Jul-25
-Seattle	Vancouver	19-Jul-25
-Portland	San Francisco	19-Jul-25
-Los Angeles	San Diego	19-Jul-25
-Kansas City	Chicago	19-Jul-25
-Houston	Dallas	19-Jul-25
-Houston	Dallas	20-Jul-25
-Oklahoma City	Calgary	20-Jul-25
-Tampa Bay	Miami	20-Jul-25
-New Orleans	San Antonio	20-Jul-25
-Toronto	New York	20-Jul-25
-Seattle	Vancouver	20-Jul-25
-Portland	San Francisco	20-Jul-25
-Los Angeles	San Diego	20-Jul-25
-Atlanta	Tennessee	20-Jul-25
-Las Vegas	Phoenix	20-Jul-25
-Kansas City	Chicago	20-Jul-25
-Colorado	Detroit	20-Jul-25
-Minnesota	Washington	20-Jul-25
-Salt Lake	Carolina	20-Jul-25
-Philadelphia	Boston	20-Jul-25
-Philadelphia	Boston	21-Jul-25
-Seattle	Vancouver	21-Jul-25
-Tampa Bay	Miami	21-Jul-25
-New Orleans	San Antonio	21-Jul-25
-Minnesota	Washington	21-Jul-25
-Salt Lake	Carolina	21-Jul-25
-Atlanta	Tennessee	21-Jul-25
-Houston	Dallas	21-Jul-25
-Oklahoma City	Calgary	21-Jul-25
-Los Angeles	San Diego	21-Jul-25
-Kansas City	Chicago	21-Jul-25
-Toronto	New York	21-Jul-25
-Las Vegas	Phoenix	21-Jul-25
-Colorado	Detroit	21-Jul-25
-Portland	San Francisco	21-Jul-25
-Atlanta	Tennessee	22-Jul-25
-Las Vegas	Phoenix	22-Jul-25
-Philadelphia	Boston	22-Jul-25
-New Orleans	San Antonio	22-Jul-25
-Seattle	Vancouver	22-Jul-25
-Minnesota	Washington	22-Jul-25
-Los Angeles	San Diego	22-Jul-25
-Oklahoma City	Calgary	22-Jul-25
-Colorado	Detroit	22-Jul-25
-Portland	San Francisco	22-Jul-25
-Kansas City	Chicago	22-Jul-25
-Toronto	New York	22-Jul-25
-Salt Lake	Carolina	22-Jul-25
-Houston	Dallas	22-Jul-25
-Tampa Bay	Miami	22-Jul-25
+Anaheim	San Jose	23-Mar-25
+Edmonton	Salem	23-Mar-25
+Provo	Victoria	23-Mar-25
+Reno	Tijuana	23-Mar-25
+Spokane	Tucson	23-Mar-25
+Austin	Lafayette	23-Mar-25
+Cedar Rapids	Galveston	23-Mar-25
+Cleveland	Tulsa	23-Mar-25
+Fort Worth	Santa Fe	23-Mar-25
+Milwaukee	St Louis	23-Mar-25
+Baltimore	Nashville	23-Mar-25
+Buffalo	Orlando	23-Mar-25
+Charlotte	Savannah	23-Mar-25
+Harrisburg	New Haven	23-Mar-25
+Jacksonville	Ottawa	23-Mar-25
+Anaheim	San Jose	24-Mar-25
+Edmonton	Salem	24-Mar-25
+Provo	Victoria	24-Mar-25
+Reno	Tijuana	24-Mar-25
+Spokane	Tucson	24-Mar-25
+Austin	Lafayette	24-Mar-25
+Cedar Rapids	Galveston	24-Mar-25
+Cleveland	Tulsa	24-Mar-25
+Fort Worth	Santa Fe	24-Mar-25
+Milwaukee	St Louis	24-Mar-25
+Baltimore	Nashville	24-Mar-25
+Buffalo	Orlando	24-Mar-25
+Charlotte	Savannah	24-Mar-25
+Harrisburg	New Haven	24-Mar-25
+Jacksonville	Ottawa	24-Mar-25
+Anaheim	San Jose	25-Mar-25
+Edmonton	Salem	25-Mar-25
+Provo	Victoria	25-Mar-25
+Reno	Tijuana	25-Mar-25
+Spokane	Tucson	25-Mar-25
+Austin	Lafayette	25-Mar-25
+Cedar Rapids	Galveston	25-Mar-25
+Cleveland	Tulsa	25-Mar-25
+Fort Worth	Santa Fe	25-Mar-25
+Milwaukee	St Louis	25-Mar-25
+Baltimore	Nashville	25-Mar-25
+Buffalo	Orlando	25-Mar-25
+Charlotte	Savannah	25-Mar-25
+Harrisburg	New Haven	25-Mar-25
+Jacksonville	Ottawa	25-Mar-25
+Spokane	Anaheim	27-Mar-25
+Tijuana	Edmonton	27-Mar-25
+Tucson	Provo	27-Mar-25
+Victoria	Reno	27-Mar-25
+San Jose	Salem	27-Mar-25
+Milwaukee	Austin	27-Mar-25
+Santa Fe	Cedar Rapids	27-Mar-25
+St Louis	Cleveland	27-Mar-25
+Tulsa	Fort Worth	27-Mar-25
+Lafayette	Galveston	27-Mar-25
+New Haven	Baltimore	27-Mar-25
+Orlando	Buffalo	27-Mar-25
+Ottawa	Charlotte	27-Mar-25
+Savannah	Harrisburg	27-Mar-25
+Nashville	Jacksonville	27-Mar-25
+Spokane	Anaheim	28-Mar-25
+Tijuana	Edmonton	28-Mar-25
+Tucson	Provo	28-Mar-25
+Victoria	Reno	28-Mar-25
+San Jose	Salem	28-Mar-25
+Milwaukee	Austin	28-Mar-25
+Santa Fe	Cedar Rapids	28-Mar-25
+St Louis	Cleveland	28-Mar-25
+Tulsa	Fort Worth	28-Mar-25
+Lafayette	Galveston	28-Mar-25
+New Haven	Baltimore	28-Mar-25
+Orlando	Buffalo	28-Mar-25
+Ottawa	Charlotte	28-Mar-25
+Savannah	Harrisburg	28-Mar-25
+Nashville	Jacksonville	28-Mar-25
+Spokane	Anaheim	29-Mar-25
+Tijuana	Edmonton	29-Mar-25
+Tucson	Provo	29-Mar-25
+Victoria	Reno	29-Mar-25
+San Jose	Salem	29-Mar-25
+Milwaukee	Austin	29-Mar-25
+Santa Fe	Cedar Rapids	29-Mar-25
+St Louis	Cleveland	29-Mar-25
+Tulsa	Fort Worth	29-Mar-25
+Lafayette	Galveston	29-Mar-25
+New Haven	Baltimore	29-Mar-25
+Orlando	Buffalo	29-Mar-25
+Ottawa	Charlotte	29-Mar-25
+Savannah	Harrisburg	29-Mar-25
+Nashville	Jacksonville	29-Mar-25
+Anaheim	Tucson	31-Mar-25
+Edmonton	Victoria	31-Mar-25
+Provo	San Jose	31-Mar-25
+Reno	Spokane	31-Mar-25
+Salem	Tijuana	31-Mar-25
+Austin	St Louis	31-Mar-25
+Cedar Rapids	Tulsa	31-Mar-25
+Cleveland	Lafayette	31-Mar-25
+Fort Worth	Milwaukee	31-Mar-25
+Galveston	Santa Fe	31-Mar-25
+Baltimore	Ottawa	31-Mar-25
+Buffalo	Savannah	31-Mar-25
+Charlotte	Nashville	31-Mar-25
+Harrisburg	Jacksonville	31-Mar-25
+New Haven	Orlando	31-Mar-25
+Anaheim	Tucson	1-Apr-25
+Edmonton	Victoria	1-Apr-25
+Provo	San Jose	1-Apr-25
+Reno	Spokane	1-Apr-25
+Salem	Tijuana	1-Apr-25
+Austin	St Louis	1-Apr-25
+Cedar Rapids	Tulsa	1-Apr-25
+Cleveland	Lafayette	1-Apr-25
+Fort Worth	Milwaukee	1-Apr-25
+Galveston	Santa Fe	1-Apr-25
+Baltimore	Ottawa	1-Apr-25
+Buffalo	Savannah	1-Apr-25
+Charlotte	Nashville	1-Apr-25
+Harrisburg	Jacksonville	1-Apr-25
+New Haven	Orlando	1-Apr-25
+Anaheim	Tucson	2-Apr-25
+Edmonton	Victoria	2-Apr-25
+Provo	San Jose	2-Apr-25
+Reno	Spokane	2-Apr-25
+Salem	Tijuana	2-Apr-25
+Austin	St Louis	2-Apr-25
+Cedar Rapids	Tulsa	2-Apr-25
+Cleveland	Lafayette	2-Apr-25
+Fort Worth	Milwaukee	2-Apr-25
+Galveston	Santa Fe	2-Apr-25
+Baltimore	Ottawa	2-Apr-25
+Buffalo	Savannah	2-Apr-25
+Charlotte	Nashville	2-Apr-25
+Harrisburg	Jacksonville	2-Apr-25
+New Haven	Orlando	2-Apr-25
+Milwaukee	Ottawa	4-Apr-25
+Santa Fe	Baltimore	4-Apr-25
+Cleveland	New Haven	4-Apr-25
+St Louis	Buffalo	4-Apr-25
+Cedar Rapids	Harrisburg	4-Apr-25
+Fort Worth	Jacksonville	4-Apr-25
+Galveston	Nashville	4-Apr-25
+Lafayette	Savannah	4-Apr-25
+Tulsa	Charlotte	4-Apr-25
+Austin	Orlando	4-Apr-25
+Milwaukee	Ottawa	5-Apr-25
+Santa Fe	Baltimore	5-Apr-25
+Cleveland	New Haven	5-Apr-25
+St Louis	Buffalo	5-Apr-25
+Cedar Rapids	Harrisburg	5-Apr-25
+Fort Worth	Jacksonville	5-Apr-25
+Galveston	Nashville	5-Apr-25
+Lafayette	Savannah	5-Apr-25
+Tulsa	Charlotte	5-Apr-25
+Austin	Orlando	5-Apr-25
+Milwaukee	Ottawa	6-Apr-25
+Santa Fe	Baltimore	6-Apr-25
+Cleveland	New Haven	6-Apr-25
+St Louis	Buffalo	6-Apr-25
+Cedar Rapids	Harrisburg	6-Apr-25
+Fort Worth	Jacksonville	6-Apr-25
+Galveston	Nashville	6-Apr-25
+Lafayette	Savannah	6-Apr-25
+Tulsa	Charlotte	6-Apr-25
+Austin	Orlando	6-Apr-25
+Edmonton	Anaheim	8-Apr-25
+Reno	Provo	8-Apr-25
+San Jose	Salem	8-Apr-25
+Tijuana	Spokane	8-Apr-25
+Victoria	Tucson	8-Apr-25
+Cedar Rapids	Austin	8-Apr-25
+Fort Worth	Cleveland	8-Apr-25
+Lafayette	Galveston	8-Apr-25
+Santa Fe	Milwaukee	8-Apr-25
+Tulsa	St Louis	8-Apr-25
+Buffalo	Baltimore	8-Apr-25
+Harrisburg	Charlotte	8-Apr-25
+Nashville	Jacksonville	8-Apr-25
+Orlando	New Haven	8-Apr-25
+Savannah	Ottawa	8-Apr-25
+Edmonton	Anaheim	9-Apr-25
+Reno	Provo	9-Apr-25
+San Jose	Salem	9-Apr-25
+Tijuana	Spokane	9-Apr-25
+Victoria	Tucson	9-Apr-25
+Cedar Rapids	Austin	9-Apr-25
+Fort Worth	Cleveland	9-Apr-25
+Lafayette	Galveston	9-Apr-25
+Santa Fe	Milwaukee	9-Apr-25
+Tulsa	St Louis	9-Apr-25
+Buffalo	Baltimore	9-Apr-25
+Harrisburg	Charlotte	9-Apr-25
+Nashville	Jacksonville	9-Apr-25
+Orlando	New Haven	9-Apr-25
+Savannah	Ottawa	9-Apr-25
+Edmonton	Anaheim	10-Apr-25
+Reno	Provo	10-Apr-25
+San Jose	Salem	10-Apr-25
+Tijuana	Spokane	10-Apr-25
+Victoria	Tucson	10-Apr-25
+Cedar Rapids	Austin	10-Apr-25
+Fort Worth	Cleveland	10-Apr-25
+Lafayette	Galveston	10-Apr-25
+Santa Fe	Milwaukee	10-Apr-25
+Tulsa	St Louis	10-Apr-25
+Buffalo	Baltimore	10-Apr-25
+Harrisburg	Charlotte	10-Apr-25
+Nashville	Jacksonville	10-Apr-25
+Orlando	New Haven	10-Apr-25
+Savannah	Ottawa	10-Apr-25
+Edmonton	Cleveland	12-Apr-25
+Salem	St Louis	12-Apr-25
+San Jose	Cedar Rapids	12-Apr-25
+Spokane	Milwaukee	12-Apr-25
+Victoria	Santa Fe	12-Apr-25
+Reno	Lafayette	12-Apr-25
+Anaheim	Tulsa	12-Apr-25
+Tucson	Austin	12-Apr-25
+Provo	Fort Worth	12-Apr-25
+Tijuana	Galveston	12-Apr-25
+Edmonton	Cleveland	13-Apr-25
+Salem	St Louis	13-Apr-25
+San Jose	Cedar Rapids	13-Apr-25
+Spokane	Milwaukee	13-Apr-25
+Victoria	Santa Fe	13-Apr-25
+Reno	Lafayette	13-Apr-25
+Anaheim	Tulsa	13-Apr-25
+Tucson	Austin	13-Apr-25
+Provo	Fort Worth	13-Apr-25
+Tijuana	Galveston	13-Apr-25
+Edmonton	Cleveland	14-Apr-25
+Salem	St Louis	14-Apr-25
+San Jose	Cedar Rapids	14-Apr-25
+Spokane	Milwaukee	14-Apr-25
+Victoria	Santa Fe	14-Apr-25
+Reno	Lafayette	14-Apr-25
+Anaheim	Tulsa	14-Apr-25
+Tucson	Austin	14-Apr-25
+Provo	Fort Worth	14-Apr-25
+Tijuana	Galveston	14-Apr-25
+Anaheim	Salem	16-Apr-25
+Edmonton	Provo	16-Apr-25
+Reno	San Jose	16-Apr-25
+Spokane	Victoria	16-Apr-25
+Tijuana	Tucson	16-Apr-25
+Austin	Galveston	16-Apr-25
+Cedar Rapids	Lafayette	16-Apr-25
+Cleveland	Milwaukee	16-Apr-25
+Fort Worth	Santa Fe	16-Apr-25
+St Louis	Tulsa	16-Apr-25
+Baltimore	Jacksonville	16-Apr-25
+Buffalo	Charlotte	16-Apr-25
+Harrisburg	New Haven	16-Apr-25
+Orlando	Savannah	16-Apr-25
+Ottawa	Nashville	16-Apr-25
+Anaheim	Salem	17-Apr-25
+Edmonton	Provo	17-Apr-25
+Reno	San Jose	17-Apr-25
+Spokane	Victoria	17-Apr-25
+Tijuana	Tucson	17-Apr-25
+Austin	Galveston	17-Apr-25
+Cedar Rapids	Lafayette	17-Apr-25
+Cleveland	Milwaukee	17-Apr-25
+Fort Worth	Santa Fe	17-Apr-25
+St Louis	Tulsa	17-Apr-25
+Baltimore	Jacksonville	17-Apr-25
+Buffalo	Charlotte	17-Apr-25
+Harrisburg	New Haven	17-Apr-25
+Orlando	Savannah	17-Apr-25
+Ottawa	Nashville	17-Apr-25
+Anaheim	Salem	18-Apr-25
+Edmonton	Provo	18-Apr-25
+Reno	San Jose	18-Apr-25
+Spokane	Victoria	18-Apr-25
+Tijuana	Tucson	18-Apr-25
+Austin	Galveston	18-Apr-25
+Cedar Rapids	Lafayette	18-Apr-25
+Cleveland	Milwaukee	18-Apr-25
+Fort Worth	Santa Fe	18-Apr-25
+St Louis	Tulsa	18-Apr-25
+Baltimore	Jacksonville	18-Apr-25
+Buffalo	Charlotte	18-Apr-25
+Harrisburg	New Haven	18-Apr-25
+Orlando	Savannah	18-Apr-25
+Ottawa	Nashville	18-Apr-25
+Edmonton	Santa Fe	20-Apr-25
+Salem	Cleveland	20-Apr-25
+San Jose	St Louis	20-Apr-25
+Spokane	Cedar Rapids	20-Apr-25
+Victoria	Milwaukee	20-Apr-25
+Reno	Galveston	20-Apr-25
+Anaheim	Lafayette	20-Apr-25
+Tucson	Tulsa	20-Apr-25
+Provo	Austin	20-Apr-25
+Tijuana	Fort Worth	20-Apr-25
+Edmonton	Santa Fe	21-Apr-25
+Salem	Cleveland	21-Apr-25
+San Jose	St Louis	21-Apr-25
+Spokane	Cedar Rapids	21-Apr-25
+Victoria	Milwaukee	21-Apr-25
+Reno	Galveston	21-Apr-25
+Anaheim	Lafayette	21-Apr-25
+Tucson	Tulsa	21-Apr-25
+Provo	Austin	21-Apr-25
+Tijuana	Fort Worth	21-Apr-25
+Edmonton	Santa Fe	22-Apr-25
+Salem	Cleveland	22-Apr-25
+San Jose	St Louis	22-Apr-25
+Spokane	Cedar Rapids	22-Apr-25
+Victoria	Milwaukee	22-Apr-25
+Reno	Galveston	22-Apr-25
+Anaheim	Lafayette	22-Apr-25
+Tucson	Tulsa	22-Apr-25
+Provo	Austin	22-Apr-25
+Tijuana	Fort Worth	22-Apr-25
+New Haven	Spokane	24-Apr-25
+Buffalo	Victoria	24-Apr-25
+Harrisburg	Edmonton	24-Apr-25
+Ottawa	Salem	24-Apr-25
+Baltimore	San Jose	24-Apr-25
+Savannah	Provo	24-Apr-25
+Charlotte	Tijuana	24-Apr-25
+Orlando	Reno	24-Apr-25
+Jacksonville	Anaheim	24-Apr-25
+Nashville	Tucson	24-Apr-25
+New Haven	Spokane	25-Apr-25
+Buffalo	Victoria	25-Apr-25
+Harrisburg	Edmonton	25-Apr-25
+Ottawa	Salem	25-Apr-25
+Baltimore	San Jose	25-Apr-25
+Savannah	Provo	25-Apr-25
+Charlotte	Tijuana	25-Apr-25
+Orlando	Reno	25-Apr-25
+Jacksonville	Anaheim	25-Apr-25
+Nashville	Tucson	25-Apr-25
+New Haven	Spokane	26-Apr-25
+Buffalo	Victoria	26-Apr-25
+Harrisburg	Edmonton	26-Apr-25
+Ottawa	Salem	26-Apr-25
+Baltimore	San Jose	26-Apr-25
+Savannah	Provo	26-Apr-25
+Charlotte	Tijuana	26-Apr-25
+Orlando	Reno	26-Apr-25
+Jacksonville	Anaheim	26-Apr-25
+Nashville	Tucson	26-Apr-25
+Edmonton	Cedar Rapids	28-Apr-25
+Salem	Milwaukee	28-Apr-25
+San Jose	Santa Fe	28-Apr-25
+Spokane	Cleveland	28-Apr-25
+Victoria	St Louis	28-Apr-25
+Reno	Austin	28-Apr-25
+Anaheim	Fort Worth	28-Apr-25
+Tucson	Galveston	28-Apr-25
+Provo	Lafayette	28-Apr-25
+Tijuana	Tulsa	28-Apr-25
+Edmonton	Cedar Rapids	29-Apr-25
+Salem	Milwaukee	29-Apr-25
+San Jose	Santa Fe	29-Apr-25
+Spokane	Cleveland	29-Apr-25
+Victoria	St Louis	29-Apr-25
+Reno	Austin	29-Apr-25
+Anaheim	Fort Worth	29-Apr-25
+Tucson	Galveston	29-Apr-25
+Provo	Lafayette	29-Apr-25
+Tijuana	Tulsa	29-Apr-25
+Edmonton	Cedar Rapids	30-Apr-25
+Salem	Milwaukee	30-Apr-25
+San Jose	Santa Fe	30-Apr-25
+Spokane	Cleveland	30-Apr-25
+Victoria	St Louis	30-Apr-25
+Reno	Austin	30-Apr-25
+Anaheim	Fort Worth	30-Apr-25
+Tucson	Galveston	30-Apr-25
+Provo	Lafayette	30-Apr-25
+Tijuana	Tulsa	30-Apr-25
+New Haven	Edmonton	2-May-25
+Buffalo	Salem	2-May-25
+Harrisburg	San Jose	2-May-25
+Ottawa	Spokane	2-May-25
+Baltimore	Victoria	2-May-25
+Savannah	Reno	2-May-25
+Charlotte	Anaheim	2-May-25
+Orlando	Tucson	2-May-25
+Jacksonville	Provo	2-May-25
+Nashville	Tijuana	2-May-25
+New Haven	Edmonton	3-May-25
+Buffalo	Salem	3-May-25
+Harrisburg	San Jose	3-May-25
+Ottawa	Spokane	3-May-25
+Baltimore	Victoria	3-May-25
+Savannah	Reno	3-May-25
+Charlotte	Anaheim	3-May-25
+Orlando	Tucson	3-May-25
+Jacksonville	Provo	3-May-25
+Nashville	Tijuana	3-May-25
+New Haven	Edmonton	4-May-25
+Buffalo	Salem	4-May-25
+Harrisburg	San Jose	4-May-25
+Ottawa	Spokane	4-May-25
+Baltimore	Victoria	4-May-25
+Savannah	Reno	4-May-25
+Charlotte	Anaheim	4-May-25
+Orlando	Tucson	4-May-25
+Jacksonville	Provo	4-May-25
+Nashville	Tijuana	4-May-25
+Milwaukee	Baltimore	6-May-25
+Santa Fe	New Haven	6-May-25
+Cleveland	Buffalo	6-May-25
+St Louis	Harrisburg	6-May-25
+Cedar Rapids	Ottawa	6-May-25
+Fort Worth	Nashville	6-May-25
+Galveston	Savannah	6-May-25
+Lafayette	Charlotte	6-May-25
+Tulsa	Orlando	6-May-25
+Austin	Jacksonville	6-May-25
+Milwaukee	Baltimore	7-May-25
+Santa Fe	New Haven	7-May-25
+Cleveland	Buffalo	7-May-25
+St Louis	Harrisburg	7-May-25
+Cedar Rapids	Ottawa	7-May-25
+Fort Worth	Nashville	7-May-25
+Galveston	Savannah	7-May-25
+Lafayette	Charlotte	7-May-25
+Tulsa	Orlando	7-May-25
+Austin	Jacksonville	7-May-25
+Milwaukee	Baltimore	8-May-25
+Santa Fe	New Haven	8-May-25
+Cleveland	Buffalo	8-May-25
+St Louis	Harrisburg	8-May-25
+Cedar Rapids	Ottawa	8-May-25
+Fort Worth	Nashville	8-May-25
+Galveston	Savannah	8-May-25
+Lafayette	Charlotte	8-May-25
+Tulsa	Orlando	8-May-25
+Austin	Jacksonville	8-May-25
+Milwaukee	New Haven	10-May-25
+Santa Fe	Buffalo	10-May-25
+Cleveland	Harrisburg	10-May-25
+St Louis	Ottawa	10-May-25
+Cedar Rapids	Baltimore	10-May-25
+Fort Worth	Savannah	10-May-25
+Galveston	Charlotte	10-May-25
+Lafayette	Orlando	10-May-25
+Tulsa	Jacksonville	10-May-25
+Austin	Nashville	10-May-25
+Milwaukee	New Haven	11-May-25
+Santa Fe	Buffalo	11-May-25
+Cleveland	Harrisburg	11-May-25
+St Louis	Ottawa	11-May-25
+Cedar Rapids	Baltimore	11-May-25
+Fort Worth	Savannah	11-May-25
+Galveston	Charlotte	11-May-25
+Lafayette	Orlando	11-May-25
+Tulsa	Jacksonville	11-May-25
+Austin	Nashville	11-May-25
+Milwaukee	New Haven	12-May-25
+Santa Fe	Buffalo	12-May-25
+Cleveland	Harrisburg	12-May-25
+St Louis	Ottawa	12-May-25
+Cedar Rapids	Baltimore	12-May-25
+Fort Worth	Savannah	12-May-25
+Galveston	Charlotte	12-May-25
+Lafayette	Orlando	12-May-25
+Tulsa	Jacksonville	12-May-25
+Austin	Nashville	12-May-25
+Anaheim	Reno	14-May-25
+Edmonton	San Jose	14-May-25
+Provo	Salem	14-May-25
+Spokane	Tucson	14-May-25
+Tijuana	Victoria	14-May-25
+Austin	Fort Worth	14-May-25
+Cedar Rapids	Lafayette	14-May-25
+Cleveland	Milwaukee	14-May-25
+Galveston	Santa Fe	14-May-25
+St Louis	Tulsa	14-May-25
+Baltimore	Harrisburg	14-May-25
+Buffalo	Jacksonville	14-May-25
+Charlotte	New Haven	14-May-25
+Orlando	Ottawa	14-May-25
+Savannah	Nashville	14-May-25
+Anaheim	Reno	15-May-25
+Edmonton	San Jose	15-May-25
+Provo	Salem	15-May-25
+Spokane	Tucson	15-May-25
+Tijuana	Victoria	15-May-25
+Austin	Fort Worth	15-May-25
+Cedar Rapids	Lafayette	15-May-25
+Cleveland	Milwaukee	15-May-25
+Galveston	Santa Fe	15-May-25
+St Louis	Tulsa	15-May-25
+Baltimore	Harrisburg	15-May-25
+Buffalo	Jacksonville	15-May-25
+Charlotte	New Haven	15-May-25
+Orlando	Ottawa	15-May-25
+Savannah	Nashville	15-May-25
+Anaheim	Reno	16-May-25
+Edmonton	San Jose	16-May-25
+Provo	Salem	16-May-25
+Spokane	Tucson	16-May-25
+Tijuana	Victoria	16-May-25
+Austin	Fort Worth	16-May-25
+Cedar Rapids	Lafayette	16-May-25
+Cleveland	Milwaukee	16-May-25
+Galveston	Santa Fe	16-May-25
+St Louis	Tulsa	16-May-25
+Baltimore	Harrisburg	16-May-25
+Buffalo	Jacksonville	16-May-25
+Charlotte	New Haven	16-May-25
+Orlando	Ottawa	16-May-25
+Savannah	Nashville	16-May-25
+Anaheim	Tijuana	18-May-25
+Edmonton	Tucson	18-May-25
+Provo	Victoria	18-May-25
+Reno	San Jose	18-May-25
+Salem	Spokane	18-May-25
+Austin	Santa Fe	18-May-25
+Cedar Rapids	St Louis	18-May-25
+Cleveland	Tulsa	18-May-25
+Fort Worth	Lafayette	18-May-25
+Galveston	Milwaukee	18-May-25
+Baltimore	Orlando	18-May-25
+Buffalo	Ottawa	18-May-25
+Charlotte	Savannah	18-May-25
+Harrisburg	Jacksonville	18-May-25
+New Haven	Nashville	18-May-25
+Anaheim	Tijuana	19-May-25
+Edmonton	Tucson	19-May-25
+Provo	Victoria	19-May-25
+Reno	San Jose	19-May-25
+Salem	Spokane	19-May-25
+Austin	Santa Fe	19-May-25
+Cedar Rapids	St Louis	19-May-25
+Cleveland	Tulsa	19-May-25
+Fort Worth	Lafayette	19-May-25
+Galveston	Milwaukee	19-May-25
+Baltimore	Orlando	19-May-25
+Buffalo	Ottawa	19-May-25
+Charlotte	Savannah	19-May-25
+Harrisburg	Jacksonville	19-May-25
+New Haven	Nashville	19-May-25
+Anaheim	Tijuana	20-May-25
+Edmonton	Tucson	20-May-25
+Provo	Victoria	20-May-25
+Reno	San Jose	20-May-25
+Salem	Spokane	20-May-25
+Austin	Santa Fe	20-May-25
+Cedar Rapids	St Louis	20-May-25
+Cleveland	Tulsa	20-May-25
+Fort Worth	Lafayette	20-May-25
+Galveston	Milwaukee	20-May-25
+Baltimore	Orlando	20-May-25
+Buffalo	Ottawa	20-May-25
+Charlotte	Savannah	20-May-25
+Harrisburg	Jacksonville	20-May-25
+New Haven	Nashville	20-May-25
+Edmonton	Milwaukee	22-May-25
+Salem	Santa Fe	22-May-25
+San Jose	Cleveland	22-May-25
+Spokane	St Louis	22-May-25
+Victoria	Cedar Rapids	22-May-25
+Reno	Fort Worth	22-May-25
+Anaheim	Galveston	22-May-25
+Tucson	Lafayette	22-May-25
+Provo	Tulsa	22-May-25
+Tijuana	Austin	22-May-25
+Edmonton	Milwaukee	23-May-25
+Salem	Santa Fe	23-May-25
+San Jose	Cleveland	23-May-25
+Spokane	St Louis	23-May-25
+Victoria	Cedar Rapids	23-May-25
+Reno	Fort Worth	23-May-25
+Anaheim	Galveston	23-May-25
+Tucson	Lafayette	23-May-25
+Provo	Tulsa	23-May-25
+Tijuana	Austin	23-May-25
+Edmonton	Milwaukee	24-May-25
+Salem	Santa Fe	24-May-25
+San Jose	Cleveland	24-May-25
+Spokane	St Louis	24-May-25
+Victoria	Cedar Rapids	24-May-25
+Reno	Fort Worth	24-May-25
+Anaheim	Galveston	24-May-25
+Tucson	Lafayette	24-May-25
+Provo	Tulsa	24-May-25
+Tijuana	Austin	24-May-25
+Anaheim	Spokane	26-May-25
+Edmonton	Tijuana	26-May-25
+Provo	Tucson	26-May-25
+Reno	Victoria	26-May-25
+Salem	San Jose	26-May-25
+Austin	Milwaukee	26-May-25
+Cedar Rapids	Santa Fe	26-May-25
+Cleveland	St Louis	26-May-25
+Fort Worth	Tulsa	26-May-25
+Galveston	Lafayette	26-May-25
+Baltimore	New Haven	26-May-25
+Buffalo	Orlando	26-May-25
+Charlotte	Ottawa	26-May-25
+Harrisburg	Savannah	26-May-25
+Jacksonville	Nashville	26-May-25
+Anaheim	Spokane	27-May-25
+Edmonton	Tijuana	27-May-25
+Provo	Tucson	27-May-25
+Reno	Victoria	27-May-25
+Salem	San Jose	27-May-25
+Austin	Milwaukee	27-May-25
+Cedar Rapids	Santa Fe	27-May-25
+Cleveland	St Louis	27-May-25
+Fort Worth	Tulsa	27-May-25
+Galveston	Lafayette	27-May-25
+Baltimore	New Haven	27-May-25
+Buffalo	Orlando	27-May-25
+Charlotte	Ottawa	27-May-25
+Harrisburg	Savannah	27-May-25
+Jacksonville	Nashville	27-May-25
+Anaheim	Spokane	28-May-25
+Edmonton	Tijuana	28-May-25
+Provo	Tucson	28-May-25
+Reno	Victoria	28-May-25
+Salem	San Jose	28-May-25
+Austin	Milwaukee	28-May-25
+Cedar Rapids	Santa Fe	28-May-25
+Cleveland	St Louis	28-May-25
+Fort Worth	Tulsa	28-May-25
+Galveston	Lafayette	28-May-25
+Baltimore	New Haven	28-May-25
+Buffalo	Orlando	28-May-25
+Charlotte	Ottawa	28-May-25
+Harrisburg	Savannah	28-May-25
+Jacksonville	Nashville	28-May-25
+Anaheim	Provo	30-May-25
+Edmonton	Reno	30-May-25
+Salem	Spokane	30-May-25
+Tijuana	Victoria	30-May-25
+Tucson	San Jose	30-May-25
+Austin	Cleveland	30-May-25
+Cedar Rapids	Fort Worth	30-May-25
+Galveston	Milwaukee	30-May-25
+Santa Fe	St Louis	30-May-25
+Tulsa	Lafayette	30-May-25
+Baltimore	Charlotte	30-May-25
+Buffalo	Harrisburg	30-May-25
+Jacksonville	New Haven	30-May-25
+Orlando	Ottawa	30-May-25
+Savannah	Nashville	30-May-25
+Anaheim	Provo	31-May-25
+Edmonton	Reno	31-May-25
+Salem	Spokane	31-May-25
+Tijuana	Victoria	31-May-25
+Tucson	San Jose	31-May-25
+Austin	Cleveland	31-May-25
+Cedar Rapids	Fort Worth	31-May-25
+Galveston	Milwaukee	31-May-25
+Santa Fe	St Louis	31-May-25
+Tulsa	Lafayette	31-May-25
+Baltimore	Charlotte	31-May-25
+Buffalo	Harrisburg	31-May-25
+Jacksonville	New Haven	31-May-25
+Orlando	Ottawa	31-May-25
+Savannah	Nashville	31-May-25
+Anaheim	Provo	1-Jun-25
+Edmonton	Reno	1-Jun-25
+Salem	Spokane	1-Jun-25
+Tijuana	Victoria	1-Jun-25
+Tucson	San Jose	1-Jun-25
+Austin	Cleveland	1-Jun-25
+Cedar Rapids	Fort Worth	1-Jun-25
+Galveston	Milwaukee	1-Jun-25
+Santa Fe	St Louis	1-Jun-25
+Tulsa	Lafayette	1-Jun-25
+Baltimore	Charlotte	1-Jun-25
+Buffalo	Harrisburg	1-Jun-25
+Jacksonville	New Haven	1-Jun-25
+Orlando	Ottawa	1-Jun-25
+Savannah	Nashville	1-Jun-25
+New Haven	San Jose	3-Jun-25
+Buffalo	Spokane	3-Jun-25
+Harrisburg	Victoria	3-Jun-25
+Ottawa	Edmonton	3-Jun-25
+Baltimore	Salem	3-Jun-25
+Savannah	Tucson	3-Jun-25
+Charlotte	Provo	3-Jun-25
+Orlando	Tijuana	3-Jun-25
+Jacksonville	Reno	3-Jun-25
+Nashville	Anaheim	3-Jun-25
+New Haven	San Jose	4-Jun-25
+Buffalo	Spokane	4-Jun-25
+Harrisburg	Victoria	4-Jun-25
+Ottawa	Edmonton	4-Jun-25
+Baltimore	Salem	4-Jun-25
+Savannah	Tucson	4-Jun-25
+Charlotte	Provo	4-Jun-25
+Orlando	Tijuana	4-Jun-25
+Jacksonville	Reno	4-Jun-25
+Nashville	Anaheim	4-Jun-25
+New Haven	San Jose	5-Jun-25
+Buffalo	Spokane	5-Jun-25
+Harrisburg	Victoria	5-Jun-25
+Ottawa	Edmonton	5-Jun-25
+Baltimore	Salem	5-Jun-25
+Savannah	Tucson	5-Jun-25
+Charlotte	Provo	5-Jun-25
+Orlando	Tijuana	5-Jun-25
+Jacksonville	Reno	5-Jun-25
+Nashville	Anaheim	5-Jun-25
+Milwaukee	Buffalo	7-Jun-25
+Santa Fe	Harrisburg	7-Jun-25
+Cleveland	Ottawa	7-Jun-25
+St Louis	Baltimore	7-Jun-25
+Cedar Rapids	New Haven	7-Jun-25
+Fort Worth	Charlotte	7-Jun-25
+Galveston	Orlando	7-Jun-25
+Lafayette	Jacksonville	7-Jun-25
+Tulsa	Nashville	7-Jun-25
+Austin	Savannah	7-Jun-25
+Milwaukee	Buffalo	8-Jun-25
+Santa Fe	Harrisburg	8-Jun-25
+Cleveland	Ottawa	8-Jun-25
+St Louis	Baltimore	8-Jun-25
+Cedar Rapids	New Haven	8-Jun-25
+Fort Worth	Charlotte	8-Jun-25
+Galveston	Orlando	8-Jun-25
+Lafayette	Jacksonville	8-Jun-25
+Tulsa	Nashville	8-Jun-25
+Austin	Savannah	8-Jun-25
+Milwaukee	Buffalo	9-Jun-25
+Santa Fe	Harrisburg	9-Jun-25
+Cleveland	Ottawa	9-Jun-25
+St Louis	Baltimore	9-Jun-25
+Cedar Rapids	New Haven	9-Jun-25
+Fort Worth	Charlotte	9-Jun-25
+Galveston	Orlando	9-Jun-25
+Lafayette	Jacksonville	9-Jun-25
+Tulsa	Nashville	9-Jun-25
+Austin	Savannah	9-Jun-25
+Salem	Anaheim	11-Jun-25
+Provo	Edmonton	11-Jun-25
+San Jose	Reno	11-Jun-25
+Victoria	Spokane	11-Jun-25
+Tucson	Tijuana	11-Jun-25
+Galveston	Austin	11-Jun-25
+Lafayette	Cedar Rapids	11-Jun-25
+Milwaukee	Cleveland	11-Jun-25
+Santa Fe	Fort Worth	11-Jun-25
+Tulsa	St Louis	11-Jun-25
+Jacksonville	Baltimore	11-Jun-25
+Charlotte	Buffalo	11-Jun-25
+New Haven	Harrisburg	11-Jun-25
+Savannah	Orlando	11-Jun-25
+Nashville	Ottawa	11-Jun-25
+Salem	Anaheim	12-Jun-25
+Provo	Edmonton	12-Jun-25
+San Jose	Reno	12-Jun-25
+Victoria	Spokane	12-Jun-25
+Tucson	Tijuana	12-Jun-25
+Galveston	Austin	12-Jun-25
+Lafayette	Cedar Rapids	12-Jun-25
+Milwaukee	Cleveland	12-Jun-25
+Santa Fe	Fort Worth	12-Jun-25
+Tulsa	St Louis	12-Jun-25
+Jacksonville	Baltimore	12-Jun-25
+Charlotte	Buffalo	12-Jun-25
+New Haven	Harrisburg	12-Jun-25
+Savannah	Orlando	12-Jun-25
+Nashville	Ottawa	12-Jun-25
+Salem	Anaheim	13-Jun-25
+Provo	Edmonton	13-Jun-25
+San Jose	Reno	13-Jun-25
+Victoria	Spokane	13-Jun-25
+Tucson	Tijuana	13-Jun-25
+Galveston	Austin	13-Jun-25
+Lafayette	Cedar Rapids	13-Jun-25
+Milwaukee	Cleveland	13-Jun-25
+Santa Fe	Fort Worth	13-Jun-25
+Tulsa	St Louis	13-Jun-25
+Jacksonville	Baltimore	13-Jun-25
+Charlotte	Buffalo	13-Jun-25
+New Haven	Harrisburg	13-Jun-25
+Savannah	Orlando	13-Jun-25
+Nashville	Ottawa	13-Jun-25
+Edmonton	St Louis	15-Jun-25
+Salem	Cedar Rapids	15-Jun-25
+San Jose	Milwaukee	15-Jun-25
+Spokane	Santa Fe	15-Jun-25
+Victoria	Cleveland	15-Jun-25
+Reno	Tulsa	15-Jun-25
+Anaheim	Austin	15-Jun-25
+Tucson	Fort Worth	15-Jun-25
+Provo	Galveston	15-Jun-25
+Tijuana	Lafayette	15-Jun-25
+Edmonton	St Louis	16-Jun-25
+Salem	Cedar Rapids	16-Jun-25
+San Jose	Milwaukee	16-Jun-25
+Spokane	Santa Fe	16-Jun-25
+Victoria	Cleveland	16-Jun-25
+Reno	Tulsa	16-Jun-25
+Anaheim	Austin	16-Jun-25
+Tucson	Fort Worth	16-Jun-25
+Provo	Galveston	16-Jun-25
+Tijuana	Lafayette	16-Jun-25
+Edmonton	St Louis	17-Jun-25
+Salem	Cedar Rapids	17-Jun-25
+San Jose	Milwaukee	17-Jun-25
+Spokane	Santa Fe	17-Jun-25
+Victoria	Cleveland	17-Jun-25
+Reno	Tulsa	17-Jun-25
+Anaheim	Austin	17-Jun-25
+Tucson	Fort Worth	17-Jun-25
+Provo	Galveston	17-Jun-25
+Tijuana	Lafayette	17-Jun-25
+Reno	Anaheim	19-Jun-25
+San Jose	Edmonton	19-Jun-25
+Salem	Provo	19-Jun-25
+Tucson	Spokane	19-Jun-25
+Victoria	Tijuana	19-Jun-25
+Fort Worth	Austin	19-Jun-25
+Lafayette	Cedar Rapids	19-Jun-25
+Milwaukee	Cleveland	19-Jun-25
+Santa Fe	Galveston	19-Jun-25
+Tulsa	St Louis	19-Jun-25
+Harrisburg	Baltimore	19-Jun-25
+Jacksonville	Buffalo	19-Jun-25
+New Haven	Charlotte	19-Jun-25
+Ottawa	Orlando	19-Jun-25
+Nashville	Savannah	19-Jun-25
+Reno	Anaheim	20-Jun-25
+San Jose	Edmonton	20-Jun-25
+Salem	Provo	20-Jun-25
+Tucson	Spokane	20-Jun-25
+Victoria	Tijuana	20-Jun-25
+Fort Worth	Austin	20-Jun-25
+Lafayette	Cedar Rapids	20-Jun-25
+Milwaukee	Cleveland	20-Jun-25
+Santa Fe	Galveston	20-Jun-25
+Tulsa	St Louis	20-Jun-25
+Harrisburg	Baltimore	20-Jun-25
+Jacksonville	Buffalo	20-Jun-25
+New Haven	Charlotte	20-Jun-25
+Ottawa	Orlando	20-Jun-25
+Nashville	Savannah	20-Jun-25
+Reno	Anaheim	21-Jun-25
+San Jose	Edmonton	21-Jun-25
+Salem	Provo	21-Jun-25
+Tucson	Spokane	21-Jun-25
+Victoria	Tijuana	21-Jun-25
+Fort Worth	Austin	21-Jun-25
+Lafayette	Cedar Rapids	21-Jun-25
+Milwaukee	Cleveland	21-Jun-25
+Santa Fe	Galveston	21-Jun-25
+Tulsa	St Louis	21-Jun-25
+Harrisburg	Baltimore	21-Jun-25
+Jacksonville	Buffalo	21-Jun-25
+New Haven	Charlotte	21-Jun-25
+Ottawa	Orlando	21-Jun-25
+Nashville	Savannah	21-Jun-25
+Milwaukee	Harrisburg	23-Jun-25
+Santa Fe	Ottawa	23-Jun-25
+Cleveland	Baltimore	23-Jun-25
+St Louis	New Haven	23-Jun-25
+Cedar Rapids	Buffalo	23-Jun-25
+Fort Worth	Orlando	23-Jun-25
+Galveston	Jacksonville	23-Jun-25
+Lafayette	Nashville	23-Jun-25
+Tulsa	Savannah	23-Jun-25
+Austin	Charlotte	23-Jun-25
+Milwaukee	Harrisburg	24-Jun-25
+Santa Fe	Ottawa	24-Jun-25
+Cleveland	Baltimore	24-Jun-25
+St Louis	New Haven	24-Jun-25
+Cedar Rapids	Buffalo	24-Jun-25
+Fort Worth	Orlando	24-Jun-25
+Galveston	Jacksonville	24-Jun-25
+Lafayette	Nashville	24-Jun-25
+Tulsa	Savannah	24-Jun-25
+Austin	Charlotte	24-Jun-25
+Milwaukee	Harrisburg	25-Jun-25
+Santa Fe	Ottawa	25-Jun-25
+Cleveland	Baltimore	25-Jun-25
+St Louis	New Haven	25-Jun-25
+Cedar Rapids	Buffalo	25-Jun-25
+Fort Worth	Orlando	25-Jun-25
+Galveston	Jacksonville	25-Jun-25
+Lafayette	Nashville	25-Jun-25
+Tulsa	Savannah	25-Jun-25
+Austin	Charlotte	25-Jun-25
+Anaheim	Victoria	27-Jun-25
+Edmonton	San Jose	27-Jun-25
+Provo	Spokane	27-Jun-25
+Reno	Tijuana	27-Jun-25
+Salem	Tucson	27-Jun-25
+Austin	Tulsa	27-Jun-25
+Cedar Rapids	Lafayette	27-Jun-25
+Cleveland	Milwaukee	27-Jun-25
+Fort Worth	Santa Fe	27-Jun-25
+Galveston	St Louis	27-Jun-25
+Baltimore	Savannah	27-Jun-25
+Buffalo	Charlotte	27-Jun-25
+Harrisburg	New Haven	27-Jun-25
+Jacksonville	Orlando	27-Jun-25
+Nashville	Ottawa	27-Jun-25
+Anaheim	Victoria	28-Jun-25
+Edmonton	San Jose	28-Jun-25
+Provo	Spokane	28-Jun-25
+Reno	Tijuana	28-Jun-25
+Salem	Tucson	28-Jun-25
+Austin	Tulsa	28-Jun-25
+Cedar Rapids	Lafayette	28-Jun-25
+Cleveland	Milwaukee	28-Jun-25
+Fort Worth	Santa Fe	28-Jun-25
+Galveston	St Louis	28-Jun-25
+Baltimore	Savannah	28-Jun-25
+Buffalo	Charlotte	28-Jun-25
+Harrisburg	New Haven	28-Jun-25
+Jacksonville	Orlando	28-Jun-25
+Nashville	Ottawa	28-Jun-25
+Anaheim	Victoria	29-Jun-25
+Edmonton	San Jose	29-Jun-25
+Provo	Spokane	29-Jun-25
+Reno	Tijuana	29-Jun-25
+Salem	Tucson	29-Jun-25
+Austin	Tulsa	29-Jun-25
+Cedar Rapids	Lafayette	29-Jun-25
+Cleveland	Milwaukee	29-Jun-25
+Fort Worth	Santa Fe	29-Jun-25
+Galveston	St Louis	29-Jun-25
+Baltimore	Savannah	29-Jun-25
+Buffalo	Charlotte	29-Jun-25
+Harrisburg	New Haven	29-Jun-25
+Jacksonville	Orlando	29-Jun-25
+Nashville	Ottawa	29-Jun-25
+Anaheim	Edmonton	30-Jun-25
+Provo	Reno	30-Jun-25
+Salem	San Jose	30-Jun-25
+Spokane	Tijuana	30-Jun-25
+Tucson	Victoria	30-Jun-25
+Austin	Cedar Rapids	30-Jun-25
+Cleveland	Fort Worth	30-Jun-25
+Galveston	Lafayette	30-Jun-25
+Milwaukee	Santa Fe	30-Jun-25
+St Louis	Tulsa	30-Jun-25
+Baltimore	Buffalo	30-Jun-25
+Charlotte	Harrisburg	30-Jun-25
+Jacksonville	Nashville	30-Jun-25
+New Haven	Orlando	30-Jun-25
+Ottawa	Savannah	30-Jun-25
+Anaheim	Edmonton	1-Jul-25
+Provo	Reno	1-Jul-25
+Salem	San Jose	1-Jul-25
+Spokane	Tijuana	1-Jul-25
+Tucson	Victoria	1-Jul-25
+Austin	Cedar Rapids	1-Jul-25
+Cleveland	Fort Worth	1-Jul-25
+Galveston	Lafayette	1-Jul-25
+Milwaukee	Santa Fe	1-Jul-25
+St Louis	Tulsa	1-Jul-25
+Baltimore	Buffalo	1-Jul-25
+Charlotte	Harrisburg	1-Jul-25
+Jacksonville	Nashville	1-Jul-25
+New Haven	Orlando	1-Jul-25
+Ottawa	Savannah	1-Jul-25
+Anaheim	Edmonton	2-Jul-25
+Provo	Reno	2-Jul-25
+Salem	San Jose	2-Jul-25
+Spokane	Tijuana	2-Jul-25
+Tucson	Victoria	2-Jul-25
+Austin	Cedar Rapids	2-Jul-25
+Cleveland	Fort Worth	2-Jul-25
+Galveston	Lafayette	2-Jul-25
+Milwaukee	Santa Fe	2-Jul-25
+St Louis	Tulsa	2-Jul-25
+Baltimore	Buffalo	2-Jul-25
+Charlotte	Harrisburg	2-Jul-25
+Jacksonville	Nashville	2-Jul-25
+New Haven	Orlando	2-Jul-25
+Ottawa	Savannah	2-Jul-25
+New Haven	Salem	4-Jul-25
+Buffalo	San Jose	4-Jul-25
+Harrisburg	Spokane	4-Jul-25
+Ottawa	Victoria	4-Jul-25
+Baltimore	Edmonton	4-Jul-25
+Savannah	Anaheim	4-Jul-25
+Charlotte	Tucson	4-Jul-25
+Orlando	Provo	4-Jul-25
+Jacksonville	Tijuana	4-Jul-25
+Nashville	Reno	4-Jul-25
+New Haven	Salem	5-Jul-25
+Buffalo	San Jose	5-Jul-25
+Harrisburg	Spokane	5-Jul-25
+Ottawa	Victoria	5-Jul-25
+Baltimore	Edmonton	5-Jul-25
+Savannah	Anaheim	5-Jul-25
+Charlotte	Tucson	5-Jul-25
+Orlando	Provo	5-Jul-25
+Jacksonville	Tijuana	5-Jul-25
+Nashville	Reno	5-Jul-25
+New Haven	Salem	6-Jul-25
+Buffalo	San Jose	6-Jul-25
+Harrisburg	Spokane	6-Jul-25
+Ottawa	Victoria	6-Jul-25
+Baltimore	Edmonton	6-Jul-25
+Savannah	Anaheim	6-Jul-25
+Charlotte	Tucson	6-Jul-25
+Orlando	Provo	6-Jul-25
+Jacksonville	Tijuana	6-Jul-25
+Nashville	Reno	6-Jul-25
+New Haven	Victoria	8-Jul-25
+Buffalo	Edmonton	8-Jul-25
+Harrisburg	Salem	8-Jul-25
+Ottawa	San Jose	8-Jul-25
+Baltimore	Spokane	8-Jul-25
+Savannah	Tijuana	8-Jul-25
+Charlotte	Reno	8-Jul-25
+Orlando	Anaheim	8-Jul-25
+Jacksonville	Tucson	8-Jul-25
+Nashville	Provo	8-Jul-25
+New Haven	Victoria	9-Jul-25
+Buffalo	Edmonton	9-Jul-25
+Harrisburg	Salem	9-Jul-25
+Ottawa	San Jose	9-Jul-25
+Baltimore	Spokane	9-Jul-25
+Savannah	Tijuana	9-Jul-25
+Charlotte	Reno	9-Jul-25
+Orlando	Anaheim	9-Jul-25
+Jacksonville	Tucson	9-Jul-25
+Nashville	Provo	9-Jul-25
+New Haven	Victoria	10-Jul-25
+Buffalo	Edmonton	10-Jul-25
+Harrisburg	Salem	10-Jul-25
+Ottawa	San Jose	10-Jul-25
+Baltimore	Spokane	10-Jul-25
+Savannah	Tijuana	10-Jul-25
+Charlotte	Reno	10-Jul-25
+Orlando	Anaheim	10-Jul-25
+Jacksonville	Tucson	10-Jul-25
+Nashville	Provo	10-Jul-25
+Tucson	Anaheim	12-Jul-25
+Victoria	Edmonton	12-Jul-25
+San Jose	Provo	12-Jul-25
+Spokane	Reno	12-Jul-25
+Tijuana	Salem	12-Jul-25
+St Louis	Austin	12-Jul-25
+Tulsa	Cedar Rapids	12-Jul-25
+Lafayette	Cleveland	12-Jul-25
+Milwaukee	Fort Worth	12-Jul-25
+Santa Fe	Galveston	12-Jul-25
+Ottawa	Baltimore	12-Jul-25
+Savannah	Buffalo	12-Jul-25
+Nashville	Charlotte	12-Jul-25
+Jacksonville	Harrisburg	12-Jul-25
+Orlando	New Haven	12-Jul-25
+Tucson	Anaheim	13-Jul-25
+Victoria	Edmonton	13-Jul-25
+San Jose	Provo	13-Jul-25
+Spokane	Reno	13-Jul-25
+Tijuana	Salem	13-Jul-25
+St Louis	Austin	13-Jul-25
+Tulsa	Cedar Rapids	13-Jul-25
+Lafayette	Cleveland	13-Jul-25
+Milwaukee	Fort Worth	13-Jul-25
+Santa Fe	Galveston	13-Jul-25
+Ottawa	Baltimore	13-Jul-25
+Savannah	Buffalo	13-Jul-25
+Nashville	Charlotte	13-Jul-25
+Jacksonville	Harrisburg	13-Jul-25
+Orlando	New Haven	13-Jul-25
+Tucson	Anaheim	14-Jul-25
+Victoria	Edmonton	14-Jul-25
+San Jose	Provo	14-Jul-25
+Spokane	Reno	14-Jul-25
+Tijuana	Salem	14-Jul-25
+St Louis	Austin	14-Jul-25
+Tulsa	Cedar Rapids	14-Jul-25
+Lafayette	Cleveland	14-Jul-25
+Milwaukee	Fort Worth	14-Jul-25
+Santa Fe	Galveston	14-Jul-25
+Ottawa	Baltimore	14-Jul-25
+Savannah	Buffalo	14-Jul-25
+Nashville	Charlotte	14-Jul-25
+Jacksonville	Harrisburg	14-Jul-25
+Orlando	New Haven	14-Jul-25
+Tijuana	Anaheim	16-Jul-25
+Tucson	Edmonton	16-Jul-25
+Victoria	Provo	16-Jul-25
+San Jose	Reno	16-Jul-25
+Spokane	Salem	16-Jul-25
+Santa Fe	Austin	16-Jul-25
+St Louis	Cedar Rapids	16-Jul-25
+Tulsa	Cleveland	16-Jul-25
+Lafayette	Fort Worth	16-Jul-25
+Milwaukee	Galveston	16-Jul-25
+Orlando	Baltimore	16-Jul-25
+Ottawa	Buffalo	16-Jul-25
+Savannah	Charlotte	16-Jul-25
+Jacksonville	Harrisburg	16-Jul-25
+Nashville	New Haven	16-Jul-25
+Tijuana	Anaheim	17-Jul-25
+Tucson	Edmonton	17-Jul-25
+Victoria	Provo	17-Jul-25
+San Jose	Reno	17-Jul-25
+Spokane	Salem	17-Jul-25
+Santa Fe	Austin	17-Jul-25
+St Louis	Cedar Rapids	17-Jul-25
+Tulsa	Cleveland	17-Jul-25
+Lafayette	Fort Worth	17-Jul-25
+Milwaukee	Galveston	17-Jul-25
+Orlando	Baltimore	17-Jul-25
+Ottawa	Buffalo	17-Jul-25
+Savannah	Charlotte	17-Jul-25
+Jacksonville	Harrisburg	17-Jul-25
+Nashville	New Haven	17-Jul-25
+Tijuana	Anaheim	18-Jul-25
+Tucson	Edmonton	18-Jul-25
+Victoria	Provo	18-Jul-25
+San Jose	Reno	18-Jul-25
+Spokane	Salem	18-Jul-25
+Santa Fe	Austin	18-Jul-25
+St Louis	Cedar Rapids	18-Jul-25
+Tulsa	Cleveland	18-Jul-25
+Lafayette	Fort Worth	18-Jul-25
+Milwaukee	Galveston	18-Jul-25
+Orlando	Baltimore	18-Jul-25
+Ottawa	Buffalo	18-Jul-25
+Savannah	Charlotte	18-Jul-25
+Jacksonville	Harrisburg	18-Jul-25
+Nashville	New Haven	18-Jul-25
+San Jose	Anaheim	20-Jul-25
+Salem	Edmonton	20-Jul-25
+Victoria	Provo	20-Jul-25
+Tijuana	Reno	20-Jul-25
+Tucson	Spokane	20-Jul-25
+Lafayette	Austin	20-Jul-25
+Galveston	Cedar Rapids	20-Jul-25
+Tulsa	Cleveland	20-Jul-25
+Santa Fe	Fort Worth	20-Jul-25
+St Louis	Milwaukee	20-Jul-25
+Nashville	Baltimore	20-Jul-25
+Orlando	Buffalo	20-Jul-25
+Savannah	Charlotte	20-Jul-25
+New Haven	Harrisburg	20-Jul-25
+Ottawa	Jacksonville	20-Jul-25
+San Jose	Anaheim	21-Jul-25
+Salem	Edmonton	21-Jul-25
+Victoria	Provo	21-Jul-25
+Tijuana	Reno	21-Jul-25
+Tucson	Spokane	21-Jul-25
+Lafayette	Austin	21-Jul-25
+Galveston	Cedar Rapids	21-Jul-25
+Tulsa	Cleveland	21-Jul-25
+Santa Fe	Fort Worth	21-Jul-25
+St Louis	Milwaukee	21-Jul-25
+Nashville	Baltimore	21-Jul-25
+Orlando	Buffalo	21-Jul-25
+Savannah	Charlotte	21-Jul-25
+New Haven	Harrisburg	21-Jul-25
+Ottawa	Jacksonville	21-Jul-25
+San Jose	Anaheim	22-Jul-25
+Salem	Edmonton	22-Jul-25
+Victoria	Provo	22-Jul-25
+Tijuana	Reno	22-Jul-25
+Tucson	Spokane	22-Jul-25
+Lafayette	Austin	22-Jul-25
+Galveston	Cedar Rapids	22-Jul-25
+Tulsa	Cleveland	22-Jul-25
+Santa Fe	Fort Worth	22-Jul-25
+St Louis	Milwaukee	22-Jul-25
+Nashville	Baltimore	22-Jul-25
+Orlando	Buffalo	22-Jul-25
+Savannah	Charlotte	22-Jul-25
+New Haven	Harrisburg	22-Jul-25
+Ottawa	Jacksonville	22-Jul-25
+Provo	Anaheim	24-Jul-25
+Reno	Edmonton	24-Jul-25
+Spokane	Salem	24-Jul-25
+Victoria	Tijuana	24-Jul-25
+San Jose	Tucson	24-Jul-25
+Cleveland	Austin	24-Jul-25
+Fort Worth	Cedar Rapids	24-Jul-25
+Milwaukee	Galveston	24-Jul-25
+St Louis	Santa Fe	24-Jul-25
+Lafayette	Tulsa	24-Jul-25
+Charlotte	Baltimore	24-Jul-25
+Harrisburg	Buffalo	24-Jul-25
+New Haven	Jacksonville	24-Jul-25
+Ottawa	Orlando	24-Jul-25
+Nashville	Savannah	24-Jul-25
+Provo	Anaheim	25-Jul-25
+Reno	Edmonton	25-Jul-25
+Spokane	Salem	25-Jul-25
+Victoria	Tijuana	25-Jul-25
+San Jose	Tucson	25-Jul-25
+Cleveland	Austin	25-Jul-25
+Fort Worth	Cedar Rapids	25-Jul-25
+Milwaukee	Galveston	25-Jul-25
+St Louis	Santa Fe	25-Jul-25
+Lafayette	Tulsa	25-Jul-25
+Charlotte	Baltimore	25-Jul-25
+Harrisburg	Buffalo	25-Jul-25
+New Haven	Jacksonville	25-Jul-25
+Ottawa	Orlando	25-Jul-25
+Nashville	Savannah	25-Jul-25
+Provo	Anaheim	26-Jul-25
+Reno	Edmonton	26-Jul-25
+Spokane	Salem	26-Jul-25
+Victoria	Tijuana	26-Jul-25
+San Jose	Tucson	26-Jul-25
+Cleveland	Austin	26-Jul-25
+Fort Worth	Cedar Rapids	26-Jul-25
+Milwaukee	Galveston	26-Jul-25
+St Louis	Santa Fe	26-Jul-25
+Lafayette	Tulsa	26-Jul-25
+Charlotte	Baltimore	26-Jul-25
+Harrisburg	Buffalo	26-Jul-25
+New Haven	Jacksonville	26-Jul-25
+Ottawa	Orlando	26-Jul-25
+Nashville	Savannah	26-Jul-25
+Victoria	Anaheim	28-Jul-25
+San Jose	Edmonton	28-Jul-25
+Spokane	Provo	28-Jul-25
+Tijuana	Reno	28-Jul-25
+Tucson	Salem	28-Jul-25
+Tulsa	Austin	28-Jul-25
+Lafayette	Cedar Rapids	28-Jul-25
+Milwaukee	Cleveland	28-Jul-25
+Santa Fe	Fort Worth	28-Jul-25
+St Louis	Galveston	28-Jul-25
+Savannah	Baltimore	28-Jul-25
+Charlotte	Buffalo	28-Jul-25
+New Haven	Harrisburg	28-Jul-25
+Orlando	Jacksonville	28-Jul-25
+Ottawa	Nashville	28-Jul-25
+Victoria	Anaheim	29-Jul-25
+San Jose	Edmonton	29-Jul-25
+Spokane	Provo	29-Jul-25
+Tijuana	Reno	29-Jul-25
+Tucson	Salem	29-Jul-25
+Tulsa	Austin	29-Jul-25
+Lafayette	Cedar Rapids	29-Jul-25
+Milwaukee	Cleveland	29-Jul-25
+Santa Fe	Fort Worth	29-Jul-25
+St Louis	Galveston	29-Jul-25
+Savannah	Baltimore	29-Jul-25
+Charlotte	Buffalo	29-Jul-25
+New Haven	Harrisburg	29-Jul-25
+Orlando	Jacksonville	29-Jul-25
+Ottawa	Nashville	29-Jul-25
+Victoria	Anaheim	30-Jul-25
+San Jose	Edmonton	30-Jul-25
+Spokane	Provo	30-Jul-25
+Tijuana	Reno	30-Jul-25
+Tucson	Salem	30-Jul-25
+Tulsa	Austin	30-Jul-25
+Lafayette	Cedar Rapids	30-Jul-25
+Milwaukee	Cleveland	30-Jul-25
+Santa Fe	Fort Worth	30-Jul-25
+St Louis	Galveston	30-Jul-25
+Savannah	Baltimore	30-Jul-25
+Charlotte	Buffalo	30-Jul-25
+New Haven	Harrisburg	30-Jul-25
+Orlando	Jacksonville	30-Jul-25
+Ottawa	Nashville	30-Jul-25
